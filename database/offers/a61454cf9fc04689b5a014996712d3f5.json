@@ -1,0 +1,220 @@
+{
+  "id": "a61454cf9fc04689b5a014996712d3f5",
+  "namespace": "3d4ea555f7954f06b48050b3b821d6d0",
+  "title": "Fell Seal: Arbiter's Mark",
+  "description": "Fell Seal: Arbiter's Mark",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "fell-seal-arbiters-mark",
+  "urlSlug": "artemisletogeneralaudience",
+  "creationDate": "2020-11-20T22:51:36.853Z",
+  "lastModifiedDate": "2020-12-17T18:08:48.923Z",
+  "effectiveDate": "2020-12-17T18:00:00.000Z",
+  "viewableDate": "2020-12-17T18:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-n4d8bf5e8fnr4kujuut9j6v4d29muc",
+    "name": "1C Online Games Ltd"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-12-15T01:46:33.012Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-12-15T01:43:50.926Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1386",
+      "name": "TURN-BASED",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:30.372Z",
+      "updated": "2020-12-15T01:49:00.686Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "14346",
+      "name": "Holiday Sale 2020",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2020-10-21T21:58:03.125Z",
+      "updated": "2020-12-17T16:00:03.195Z",
+      "status": "ACTIVE",
+      "referenceCount": 584,
+      "comment": ""
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-12-15T01:43:02.751Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-12-15T01:43:59.524Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-12-15T01:46:42.546Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "MAC OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX"
+      ],
+      "operator": null,
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-12-15T01:43:22.719Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "1C Entertainment"
+    },
+    {
+      "key": "developerName",
+      "value": "6 Eyes Studio LLC."
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "fell-seal-arbiters-mark"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/3d4ea555f7954f06b48050b3b821d6d0/offer/EGS_FellSealArbitersMark_6EyesStudioLLC_S1-2560x1440-5cbf1e2441308b33491fb98e0f625516.jpg",
+      "md5": "5cbf1e2441308b33491fb98e0f625516",
+      "size": 357347,
+      "uploadedDate": "2020-12-15T00:20:05.074Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/3d4ea555f7954f06b48050b3b821d6d0/offer/EGS_FellSealArbitersMark_6EyesStudioLLC_S2-1200x1600-a3fb561a9f67f89a297c3e0841363a2d.jpg",
+      "md5": "a3fb561a9f67f89a297c3e0841363a2d",
+      "size": 237208,
+      "uploadedDate": "2020-12-15T00:20:13.001Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/3d4ea555f7954f06b48050b3b821d6d0/offer/EGS_FellSealArbitersMark_6EyesStudioLLC_S2-1200x1600-a3fb561a9f67f89a297c3e0841363a2d.jpg",
+      "md5": "a3fb561a9f67f89a297c3e0841363a2d",
+      "size": 237208,
+      "uploadedDate": "2020-12-15T00:20:26.480Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/3d4ea555f7954f06b48050b3b821d6d0/offer/EGS_FellSealArbitersMark_6EyesStudioLLC_S2-1200x1600-a3fb561a9f67f89a297c3e0841363a2d.jpg",
+      "md5": "a3fb561a9f67f89a297c3e0841363a2d",
+      "size": 237208,
+      "uploadedDate": "2020-12-15T00:20:36.770Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/3d4ea555f7954f06b48050b3b821d6d0/offer/EGS_FellSealArbitersMark_6EyesStudioLLC_S1-2560x1440-5cbf1e2441308b33491fb98e0f625516.jpg",
+      "md5": "5cbf1e2441308b33491fb98e0f625516",
+      "size": 357347,
+      "uploadedDate": "2020-12-15T00:20:45.423Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/3d4ea555f7954f06b48050b3b821d6d0/offer/EGS_FellSealArbitersMark_6EyesStudioLLC_S2-1200x1600-a3fb561a9f67f89a297c3e0841363a2d.jpg",
+      "md5": "a3fb561a9f67f89a297c3e0841363a2d",
+      "size": 237208,
+      "uploadedDate": "2020-12-15T00:20:53.493Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "40a71b1da98b4f28bc9ae499bc6bd53e"
+    }
+  ],
+  "catalogNs": null
+}

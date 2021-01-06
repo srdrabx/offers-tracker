@@ -1,15 +1,15 @@
 {
   "id": "c498cad78b624be2a492e4e6aff19481",
   "namespace": "c3e63401d6ba410493de31ed69a798a1",
-  "title": "SU giga-bundle",
-  "description": "SU giga-bundle",
-  "longDescription": null,
+  "title": "SU Giga Pack",
+  "description": "The Giga Pack includes one Officer of each Soldier Type + 2 Additional Infantry Officer Soldiers. Each Officer allows you to get Assault Teams to control and deploy in the war and more!",
+  "longDescription": "The Giga Pack includes one Officer of each Soldier Type + 2 Additional Infantry Officer Soldiers. Each Officer allows you to get Assault Teams to control and deploy in the war. Each soldier comes with the highest tier equipment along modifications for weapons and access to 15 upgraded vehicles including Tanks, Planes and Terrain Vehicles.\n\n# Infantryman (Officer)\n- AVS-36 (Factory)\n- Type L-41 JPH\n- PU (Infantry)\n- Field Trigger Job\n- Lightened Spring\n- Stainless Steel Barrel\n- Tula Tokarev 33 (Factory)\n- NR-40 'Scouts knife'\n- Soviet First Aid Kit\n- RGD-33\n- GAZ-AAA Cargo\n- GAZ-67 (Factory)\n- PPSh-41 (Factory)\n- Leonov Misha\n- Field Adjusted Sights\n- Field Trigger Job\n- Lightened Bolt\n- Stainless Steel Barrel\n- Tula Tokarev 33 (Factory)\n- Soviet Medic Pouch\n- RGD-33\n- T-20 Komsomolets (Factory)\n- 42WLA (Soviet Lend-Lease)\n- Tokarev SVT-40 (Factory)\n- Type L-41 JPH\n- PU (Infantry)\n- Field Trigger Job\n- Heavy Spring\n- Stainless Steel Barrel\n- Ampulomet Model 1941\n- Tula Tokarev 33 (Factory)\n- TM-35\n- RPG-43\n- GAZ-67 (Factory)\n- 42WLA (Soviet Lend-Lease)\n\n# Fighter Pilot (Officer)\n- PPSh-41 (Factory)\n- Leonov Misha\n- Field Adjusted Sights\n- Field Trigger Job\n- Lightened Bolt\n- Stainless Steel Barrel\n- Polikarpov R-Z\n- B-30 Armor Piercing\n- PZ Explosive 'ZaRa'\n- Lavochkin La-7\n- 20mm BZT Armor Piercing\n- 20mm OFZ High Explosive\n- Petlyakov Pe-3bis\n- 20mm BZT Armor Piercing\n- 20mm OFZ High Explosive\n\n# Paratrooper (Officer)\n- PPSh-41 (Factory)\n- Leonov Misha\n- Field Adjusted Sights\n- Field Trigger Job\n- Lightened Bolt\n- Stainless Steel Barrel\n\n# Tank Crewman (Officer)\n- PPSh-41 (Factory)\n- Leonov Misha\n- Field Adjusted Sights\n- Field Trigger Job\n- Lightened Bolt\n- Stainless Steel Barrel\n- T-70 Model 1942 (Factory)\n- BR-240P HVAP\n- UO-243 High Explosive\n- T-34-85 Model 1944\n- BR-365P APCR\n- O-265K High Explosive\n- IS-2 Model 1944\n- 122mm BR-460A HEAT\n- 122mm OF-471H High Explosive\n- SU-85\n- BR-365P APCR\n- O-265K High Explosive\n- SU-100\n- BR-412B APBC\n- OF-412 High Explosive\n\n# Recon (Officer)\n- Mosin-Nagant 1891-30 (Factory)\n- Type L-41 JPH\n- ZS Zielacht (Fine Cross)\n- Field Trigger Job\n- Lightened Bolt\n- Stainless Steel Barrel\n- Tula Tokarev 33 (Factory)\n- BA-11\n- 32x Ribbon Booster\n\n# Ribbon Boosters\n- AVS-36 Specialist \n- Tula Tokarev 33 Specialist \n- M10 Tank Destroyer Specialist \n- GAZ-67 Specialist \n- CCKW Cargo Truck Specialist \n- Tokarev SVT-40 Specialist \n- Messerschmitt Me 410 B-2 Specialist \n- PTRS 1941 Specialist \n- Model 1934 Specialist \n- PPSh-41 Specialist \n- Mosin-Nagant 1891-30 Specialist \n- Nagant M1895 Specialist \n- T-34-85 Model 1944 Specialist \n- IS-2 Model 1944 Specialist \n- SU-85 Specialist \n- Focke-Wulff Fw190 D9 Specialist \n- Maxim-Tokarev MT Specialist \n- Panther Ausf. G Specialist \n- P38 Parabellum Specialist \n- Physical Training \n- Chauffeur\n- Korovin TK Specialist \n- Tactical \n- Defense \n- Recon \n- Driver \n- Explosives \n- Tank Destruction \n- T-70 Model 1942 Specialist \n- Armor Damage \n- Tank Driver \n- Battle",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "su-giga-bundle",
+  "urlSlug": "heroes-and-generals-wwii--su-giga-pack",
   "creationDate": "2020-08-31T20:14:13.682Z",
-  "lastModifiedDate": "2020-09-23T05:11:35.832Z",
-  "effectiveDate": "2099-12-31T15:00:00.000Z",
+  "lastModifiedDate": "2020-12-18T20:32:41.189Z",
+  "effectiveDate": "2020-12-18T19:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -25,7 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "addons"
+    },
+    {
       "path": "games"
+    },
+    {
+      "path": "addons/consumable"
     },
     {
       "path": "applications"
@@ -36,10 +42,10 @@
       "id": "1203",
       "name": "MULTIPLAYER",
       "namespace": "epic",
-      "aliases": null,
+      "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2020-09-16T23:47:27.269Z",
+      "updated": "2020-12-15T01:44:09.654Z",
       "status": "ACTIVE",
       "referenceCount": 46,
       "comment": null
@@ -61,9 +67,9 @@
       "name": "WINDOWS",
       "namespace": "epic",
       "aliases": [],
-      "operator": "kimberly.rodatos",
+      "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-09-16T23:47:27.310Z",
+      "updated": "2020-12-15T01:43:02.751Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -72,26 +78,93 @@
       "id": "1294",
       "name": "FIRST-PERSON",
       "namespace": "epic",
-      "aliases": null,
+      "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:44.596Z",
-      "updated": "2020-09-10T16:00:33.411Z",
+      "updated": "2020-12-15T01:47:39.866Z",
       "status": "ACTIVE",
       "referenceCount": 24,
+      "comment": null
+    },
+    {
+      "id": "1279",
+      "name": "VAMPIRE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:37.207Z",
+      "updated": "2020-09-16T19:19:59.211Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
       "comment": null
     }
   ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "{}"
+      "value": "KR"
     },
     {
       "key": "publisherName",
       "value": "RETO MOTO"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/dc6b32bd-2e6c-407b-a646-3f0b5e0a9f8f-2560x1440-f612052b8a37cb202b3fedeb323900f0.jfif",
+      "md5": "f612052b8a37cb202b3fedeb323900f0",
+      "size": 913696,
+      "uploadedDate": "2020-12-18T20:09:38.975Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/dc6b32bd-2e6c-407b-a646-3f0b5e0a9f8f-2560x1440-f612052b8a37cb202b3fedeb323900f0.jfif",
+      "md5": "f612052b8a37cb202b3fedeb323900f0",
+      "size": 913696,
+      "uploadedDate": "2020-12-18T20:09:47.608Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/d368dadc-d2d5-4b23-818f-680db2bc2986-1200x1600-b696c1b5ed4ffe6c98475524cb7654f9.jfif",
+      "md5": "b696c1b5ed4ffe6c98475524cb7654f9",
+      "size": 911250,
+      "uploadedDate": "2020-12-18T20:09:55.424Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/d368dadc-d2d5-4b23-818f-680db2bc2986-1200x1600-b696c1b5ed4ffe6c98475524cb7654f9.jfif",
+      "md5": "b696c1b5ed4ffe6c98475524cb7654f9",
+      "size": 911250,
+      "uploadedDate": "2020-12-18T20:10:02.234Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/d368dadc-d2d5-4b23-818f-680db2bc2986-1200x1600-b696c1b5ed4ffe6c98475524cb7654f9.jfif",
+      "md5": "b696c1b5ed4ffe6c98475524cb7654f9",
+      "size": 911250,
+      "uploadedDate": "2020-12-18T20:10:11.448Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/d368dadc-d2d5-4b23-818f-680db2bc2986-1200x1600-b696c1b5ed4ffe6c98475524cb7654f9.jfif",
+      "md5": "b696c1b5ed4ffe6c98475524cb7654f9",
+      "size": 911250,
+      "uploadedDate": "2020-12-18T20:10:21.196Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "405664d940474fa787f55be0c95dbe98"

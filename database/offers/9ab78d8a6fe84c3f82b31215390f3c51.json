@@ -1,0 +1,166 @@
+{
+  "id": "9ab78d8a6fe84c3f82b31215390f3c51",
+  "namespace": "moose",
+  "title": "Super Meat Boy Forever",
+  "description": "Super Meat Boy Forever",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "super-meat-boy-forever",
+  "urlSlug": "super-meat-boy-forever-launch",
+  "creationDate": "2020-12-10T19:39:20.052Z",
+  "lastModifiedDate": "2020-12-23T04:59:27.445Z",
+  "effectiveDate": "2020-12-23T05:00:00.000Z",
+  "viewableDate": "2020-12-23T05:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-mj7q3aaq5djq6wuddnrr5mgqjsk2da",
+    "name": "Team Meat"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-12-15T01:46:14.061Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-12-15T01:43:50.926Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-12-15T01:43:02.751Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1151",
+      "name": "PLATFORMER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:33.743Z",
+      "updated": "2020-12-15T01:48:27.201Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "developerName",
+      "value": "Team Meat"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "super-meat-boy-forever"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/moose/offer/EGS_SuperMeatBoyForever_TeamMeat_S1-2560x1440-76f57fe5321b054665441ce21231961e.jpg",
+      "md5": "76f57fe5321b054665441ce21231961e",
+      "size": 909115,
+      "uploadedDate": "2020-12-10T19:34:45.785Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/moose/offer/EGS_SuperMeatBoyForever_TeamMeat_S2-1200x1600-587fb2964079e7467c7320a2de3adac8.jpg",
+      "md5": "587fb2964079e7467c7320a2de3adac8",
+      "size": 706770,
+      "uploadedDate": "2020-12-10T19:34:52.635Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/moose/offer/EGS_SuperMeatBoyForever_TeamMeat_S1-2560x1440-76f57fe5321b054665441ce21231961e.jpg",
+      "md5": "76f57fe5321b054665441ce21231961e",
+      "size": 909115,
+      "uploadedDate": "2020-12-10T19:35:19.656Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/moose/offer/EGS_SuperMeatBoyForever_TeamMeat_S2-1200x1600-587fb2964079e7467c7320a2de3adac8.jpg",
+      "md5": "587fb2964079e7467c7320a2de3adac8",
+      "size": 706770,
+      "uploadedDate": "2020-12-10T19:35:23.251Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/moose/offer/EGS_SuperMeatBoyForever_TeamMeat_S2-1200x1600-587fb2964079e7467c7320a2de3adac8.jpg",
+      "md5": "587fb2964079e7467c7320a2de3adac8",
+      "size": 706770,
+      "uploadedDate": "2020-12-10T19:35:39.657Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/moose/offer/EGS_SuperMeatBoyForever_TeamMeat_S2-1200x1600-587fb2964079e7467c7320a2de3adac8.jpg",
+      "md5": "587fb2964079e7467c7320a2de3adac8",
+      "size": 706770,
+      "uploadedDate": "2020-12-10T19:35:42.879Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "724166a7c67847b4b9f7f08e57c58f65"
+    }
+  ],
+  "catalogNs": null
+}

@@ -48,7 +48,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-09-16T23:47:27.291Z",
+      "updated": "2020-12-15T01:43:50.926Z",
       "status": "ACTIVE",
       "referenceCount": 195,
       "comment": null
@@ -58,9 +58,9 @@
       "name": "WINDOWS",
       "namespace": "epic",
       "aliases": [],
-      "operator": "kimberly.rodatos",
+      "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-09-16T23:47:27.310Z",
+      "updated": "2020-12-15T01:43:02.751Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -69,10 +69,10 @@
       "id": "1116",
       "name": "COMEDY",
       "namespace": "epic",
-      "aliases": null,
+      "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:16.126Z",
-      "updated": "2020-09-03T15:08:30.761Z",
+      "updated": "2020-12-15T01:49:43.489Z",
       "status": "ACTIVE",
       "referenceCount": 8,
       "comment": null
@@ -85,7 +85,7 @@
         "OS X",
         "MAC OS"
       ],
-      "operator": "kimberly.rodatos",
+      "operator": null,
       "created": "2019-10-11T02:43:27.812Z",
       "updated": "2020-09-15T18:08:53.889Z",
       "status": "ACTIVE",

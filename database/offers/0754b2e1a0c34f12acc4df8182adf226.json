@@ -1,16 +1,16 @@
 {
   "id": "0754b2e1a0c34f12acc4df8182adf226",
   "namespace": "df37f065c3f14eadbf011177396e2966",
-  "title": "AI_Release_DLC_5_LockdownGeneralAudience",
-  "description": "AI_Release_DLC_5_LockdownGeneralAudience",
-  "longDescription": null,
+  "title": "Alien: Isolation - Corporate Lockdown",
+  "description": "Welcome to Corporate Lockdown, the first expansion pack for Alien: Isolation. This pack features three all-new maps: for Survivor Mode, a time-based challenge to test your skills.",
+  "longDescription": "# Can you evade the Alien for long enough to survive or will you try to take the Alien head-on?\n\n- Three new maps, stretching from the Corporate Penthouse to the Medlabs.\n- New playable character Ransome gives you the firepower to take the fight to your enemies.\n- Upload your best times to the Alien: Isolation leaderboards and challenge the world.",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "ai-release-dlc-5-lockdowngeneralaudience",
+  "urlSlug": "alien-isolation--corporate-lockdown",
   "creationDate": "2020-10-26T17:26:04.407Z",
-  "lastModifiedDate": "2020-10-28T01:32:18.858Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2020-12-18T16:36:49.342Z",
+  "effectiveDate": "2020-12-21T16:00:00.000Z",
+  "viewableDate": "2020-12-21T16:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
@@ -25,28 +25,99 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
     },
     {
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "14346",
+      "name": "Holiday Sale 2020",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2020-10-21T21:58:03.125Z",
+      "updated": "2020-12-17T16:00:03.195Z",
+      "status": "ACTIVE",
+      "referenceCount": 584,
+      "comment": ""
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "[]"
     },
     {
       "key": "publisherName",
-      "value": "[]"
+      "value": "SEGA"
     },
     {
       "key": "developerName",
-      "value": "[]"
+      "value": "Creative Assembly"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/offer/18f3ccf4-a9d5-4f49-80a7-0a778ca2eb85-1920x1080-1b9a91da9ed2386ba420ccdc9b59434a.jfif",
+      "md5": "1b9a91da9ed2386ba420ccdc9b59434a",
+      "size": 848774,
+      "uploadedDate": "2020-12-11T01:35:41.366Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/offer/18f3ccf4-a9d5-4f49-80a7-0a778ca2eb85-1920x1080-1b9a91da9ed2386ba420ccdc9b59434a.jfif",
+      "md5": "1b9a91da9ed2386ba420ccdc9b59434a",
+      "size": 848774,
+      "uploadedDate": "2020-12-11T01:35:49.996Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/offer/locdowndlcportrait-1200x1600-859d407a940337f570301842ccc24d00.jfif",
+      "md5": "859d407a940337f570301842ccc24d00",
+      "size": 683002,
+      "uploadedDate": "2020-12-17T16:49:13.317Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/offer/locdowndlcportrait-1200x1600-859d407a940337f570301842ccc24d00.jfif",
+      "md5": "859d407a940337f570301842ccc24d00",
+      "size": 683002,
+      "uploadedDate": "2020-12-17T16:49:23.657Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/offer/locdowndlcportrait-1200x1600-859d407a940337f570301842ccc24d00.jfif",
+      "md5": "859d407a940337f570301842ccc24d00",
+      "size": 683002,
+      "uploadedDate": "2020-12-17T16:49:32.922Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/offer/locdowndlcportrait-1200x1600-859d407a940337f570301842ccc24d00.jfif",
+      "md5": "859d407a940337f570301842ccc24d00",
+      "size": 683002,
+      "uploadedDate": "2020-12-17T16:49:40.028Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "3174f694122f4280996b3fb4e96e75df"

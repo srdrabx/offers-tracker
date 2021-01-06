@@ -5,10 +5,10 @@
   "description": "Assassin's Creed: Valhalla Ultimate Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
+  "productSlug": "assassins-creed-valhalla/ultimate-edition",
   "urlSlug": "kingdomultimateaudience",
   "creationDate": "2020-04-28T21:49:29.072Z",
-  "lastModifiedDate": "2020-11-12T20:41:57.447Z",
+  "lastModifiedDate": "2020-12-10T23:53:20.934Z",
   "effectiveDate": "2020-04-30T15:00:00.000Z",
   "viewableDate": "2020-04-30T15:00:00.000Z",
   "developer": null,
@@ -34,7 +34,20 @@
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "14346",
+      "name": "Holiday Sale 2020",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2020-10-21T21:58:03.125Z",
+      "updated": "2020-12-17T16:00:03.195Z",
+      "status": "ACTIVE",
+      "referenceCount": 584,
+      "comment": ""
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -47,6 +60,10 @@
     {
       "key": "developerName",
       "value": "Ubisoft Montreal"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "assassins-creed-valhalla/ultimate-edition"
     }
   ],
   "keyImages": [
@@ -76,6 +93,24 @@
       "uploadedDate": "2020-04-30T16:30:29.499Z",
       "width": 860,
       "height": 1148
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/400347196e674de89c23cc2a7f2121db/offer/ACK_ULT_Wishlist_Portrait_860x1148-860x1148-30861b1b96955040d318c7f327c51d7d.jpg",
+      "md5": "04fccd52db12f2e03985d6c63012d027",
+      "size": 514746,
+      "uploadedDate": "2020-12-10T23:52:33.056Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/400347196e674de89c23cc2a7f2121db/offer/AC-KINGDOM-PREORDER_ULTIMATE-EDITION_EPIC_Image_Hero_Carrousel_3840x2160-3840x2160-6492135bfe3f63a53a039ed2f5e32158.jpg",
+      "md5": "250a542bf96c28c2bbe8a56a7840df48",
+      "size": 496259,
+      "uploadedDate": "2020-12-10T23:52:50.761Z",
+      "width": 3840,
+      "height": 2160
     }
   ],
   "items": [

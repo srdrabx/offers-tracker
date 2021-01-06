@@ -1,0 +1,182 @@
+{
+  "id": "a020424f6c854cefac41f4af4a0ce69f",
+  "namespace": "56eab841eaab4016b9fedd2350f997b6",
+  "title": "Oddworld: New 'n' Tasty",
+  "description": "Oddworld: New 'n' Tasty",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "oddworld-new-n-tasty",
+  "urlSlug": "toucangeneralaudience",
+  "creationDate": "2019-09-10T21:04:24.169Z",
+  "lastModifiedDate": "2020-12-18T15:08:53.801Z",
+  "effectiveDate": "2020-12-18T16:00:00.000Z",
+  "viewableDate": "2020-12-18T16:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-wbsj4csbacqdc7e8xvdhkmmjpzm87v",
+    "name": "Oddworld Inhabitants Inc."
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-12-15T01:46:14.061Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1298",
+      "name": "PUZZLE",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2020-12-15T01:47:26.504Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "14346",
+      "name": "Holiday Sale 2020",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2020-10-21T21:58:03.125Z",
+      "updated": "2020-12-17T16:00:03.195Z",
+      "status": "ACTIVE",
+      "referenceCount": 584,
+      "comment": ""
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-12-15T01:43:02.751Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1151",
+      "name": "PLATFORMER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:33.743Z",
+      "updated": "2020-12-15T01:48:27.201Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Oddworld Inhabitants, Inc."
+    },
+    {
+      "key": "developerName",
+      "value": "Just Add Water"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "oddworld-new-n-tasty"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/56eab841eaab4016b9fedd2350f997b6/offer/EGS_OddworldNewnTasty_JustAddWater_S1-2560x1440-ef590ffd342627994efeb96591e63489.jpg",
+      "md5": "ef590ffd342627994efeb96591e63489",
+      "size": 809482,
+      "uploadedDate": "2020-12-17T00:11:35.617Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/56eab841eaab4016b9fedd2350f997b6/offer/EGS_OddworldNewnTasty_JustAddWater_S2-1200x1600-9105b63cfe95ad9a49cbb3ab87c85164.jpg",
+      "md5": "9105b63cfe95ad9a49cbb3ab87c85164",
+      "size": 570907,
+      "uploadedDate": "2020-12-17T00:11:46.159Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/56eab841eaab4016b9fedd2350f997b6/offer/EGS_OddworldNewnTasty_JustAddWater_S2-1200x1600-9105b63cfe95ad9a49cbb3ab87c85164.jpg",
+      "md5": "9105b63cfe95ad9a49cbb3ab87c85164",
+      "size": 570907,
+      "uploadedDate": "2020-12-17T00:11:58.190Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/56eab841eaab4016b9fedd2350f997b6/offer/EGS_OddworldNewnTasty_JustAddWater_S2-1200x1600-9105b63cfe95ad9a49cbb3ab87c85164.jpg",
+      "md5": "9105b63cfe95ad9a49cbb3ab87c85164",
+      "size": 570907,
+      "uploadedDate": "2020-12-17T00:12:09.259Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/56eab841eaab4016b9fedd2350f997b6/offer/EGS_OddworldNewnTasty_JustAddWater_S1-2560x1440-ef590ffd342627994efeb96591e63489.jpg",
+      "md5": "ef590ffd342627994efeb96591e63489",
+      "size": 809482,
+      "uploadedDate": "2020-12-17T00:12:20.997Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/56eab841eaab4016b9fedd2350f997b6/offer/EGS_OddworldNewnTasty_JustAddWater_S2-1200x1600-9105b63cfe95ad9a49cbb3ab87c85164.jpg",
+      "md5": "9105b63cfe95ad9a49cbb3ab87c85164",
+      "size": 570907,
+      "uploadedDate": "2020-12-17T00:12:33.102Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "78ef98b8de7f4d2b9ff536a010d76fd9"
+    }
+  ],
+  "catalogNs": null
+}

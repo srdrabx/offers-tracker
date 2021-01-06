@@ -8,7 +8,7 @@
   "productSlug": "south-park-the-fractured-but-whole/bring-the-crunch",
   "urlSlug": "south-park-the-fractured-but-whole--bring-the-crunch",
   "creationDate": "2019-11-20T20:53:38.268Z",
-  "lastModifiedDate": "2020-08-07T22:51:48.442Z",
+  "lastModifiedDate": "2020-12-16T21:09:36.330Z",
   "effectiveDate": "2019-12-20T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -37,11 +37,24 @@
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "14346",
+      "name": "Holiday Sale 2020",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2020-10-21T21:58:03.125Z",
+      "updated": "2020-12-17T16:00:03.195Z",
+      "status": "ACTIVE",
+      "referenceCount": 584,
+      "comment": ""
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "CN.KR"
+      "value": "CN"
     },
     {
       "key": "com.epicgames.app.productSlug",

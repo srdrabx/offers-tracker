@@ -1,0 +1,127 @@
+{
+  "id": "73bb7ff3ee9c42df958990296dcd0495",
+  "namespace": "6009be9994c2409099588cde6f3a5ed0",
+  "title": "Cities: Skylines - Content Creator Pack: University City",
+  "description": "Give your city that real “university town” look and feel with a selection of new building spawns designed by Michael “KingLeno” Warren to reflect the student residents in your neighborhood!",
+  "longDescription": "Give your city that real “university town” look and feel with a selection of new building spawns designed by Michael “KingLeno” Warren. University City adds 36 low-density residential buildings, 32 low-density commercial buildings, and 15 props including commercial signs and logos to reflect the student residents in your neighborhood!",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "cities-skylines--content-creator-pack-university-city",
+  "creationDate": "2020-11-17T00:11:01.327Z",
+  "lastModifiedDate": "2020-12-17T15:25:01.152Z",
+  "effectiveDate": "2020-12-17T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+    "name": "Paradox Interactive"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "14346",
+      "name": "Holiday Sale 2020",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2020-10-21T21:58:03.125Z",
+      "updated": "2020-12-17T16:00:03.195Z",
+      "status": "ACTIVE",
+      "referenceCount": 584,
+      "comment": ""
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Paradox Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Colossal Order"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylinesCCPUniversityCity_ColossalOrder_DLC_S1-2560x1440-ab0d9f71a717176cd703160e6aae01e8.jpg",
+      "md5": "ab0d9f71a717176cd703160e6aae01e8",
+      "size": 1006919,
+      "uploadedDate": "2020-12-02T11:25:07.459Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylinesCCPUniversityCity_ColossalOrder_DLC_S2-1200x1600-e09bea14bd6e2873f0f4186d020f3e30.jpg",
+      "md5": "e09bea14bd6e2873f0f4186d020f3e30",
+      "size": 1034039,
+      "uploadedDate": "2020-12-02T11:25:15.163Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylinesCCPUniversityCity_ColossalOrder_DLC_S2-1200x1600-e09bea14bd6e2873f0f4186d020f3e30.jpg",
+      "md5": "e09bea14bd6e2873f0f4186d020f3e30",
+      "size": 1034039,
+      "uploadedDate": "2020-12-02T11:25:25.130Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylinesCCPUniversityCity_ColossalOrder_DLC_S2-1200x1600-e09bea14bd6e2873f0f4186d020f3e30.jpg",
+      "md5": "e09bea14bd6e2873f0f4186d020f3e30",
+      "size": 1034039,
+      "uploadedDate": "2020-12-02T11:25:35.865Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylinesCCPUniversityCity_ColossalOrder_DLC_S1-2560x1440-ab0d9f71a717176cd703160e6aae01e8.jpg",
+      "md5": "ab0d9f71a717176cd703160e6aae01e8",
+      "size": 1006919,
+      "uploadedDate": "2020-12-02T11:25:46.849Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylinesCCPUniversityCity_ColossalOrder_DLC_S2-1200x1600-e09bea14bd6e2873f0f4186d020f3e30.jpg",
+      "md5": "e09bea14bd6e2873f0f4186d020f3e30",
+      "size": 1034039,
+      "uploadedDate": "2020-12-02T11:25:57.766Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "e0818b8ca8b04581a5aa58e1c9b79deb"
+    }
+  ],
+  "catalogNs": null
+}

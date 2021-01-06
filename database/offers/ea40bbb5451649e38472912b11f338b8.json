@@ -6,15 +6,15 @@
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": "the-wolf-among-us/home",
-  "urlSlug": "cobblergeneralaudience-01",
+  "urlSlug": "the-wolf-among-us",
   "creationDate": "2019-12-11T01:58:26.547Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
+  "lastModifiedDate": "2021-01-06T01:05:29.555Z",
   "effectiveDate": "2019-12-11T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
-    "id": "o-pak9zrvrvpnc8qtwjx3z6pllyzph4q",
-    "name": "Athlon Games"
+    "id": "o-w6l7l9e6c93j85x29twne9ae6su4jt",
+    "name": "LCG Entertainment, Inc."
   },
   "linkedOfferId": null,
   "isFeatured": false,
@@ -42,10 +42,10 @@
       "id": "1216",
       "name": "ACTION",
       "namespace": "epic",
-      "aliases": null,
+      "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2020-09-16T21:22:47.774Z",
+      "updated": "2020-12-15T01:46:14.061Z",
       "status": "ACTIVE",
       "referenceCount": 110,
       "comment": null
@@ -57,19 +57,31 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-09-16T23:47:27.291Z",
+      "updated": "2020-12-15T01:43:50.926Z",
       "status": "ACTIVE",
       "referenceCount": 195,
       "comment": null
+    },
+    {
+      "id": "14346",
+      "name": "Holiday Sale 2020",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2020-10-21T21:58:03.125Z",
+      "updated": "2020-12-17T16:00:03.195Z",
+      "status": "ACTIVE",
+      "referenceCount": 584,
+      "comment": ""
     },
     {
       "id": "9547",
       "name": "WINDOWS",
       "namespace": "epic",
       "aliases": [],
-      "operator": "kimberly.rodatos",
+      "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-09-16T23:47:27.310Z",
+      "updated": "2020-12-15T01:43:02.751Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -78,10 +90,10 @@
       "id": "1117",
       "name": "ADVENTURE",
       "namespace": "epic",
-      "aliases": null,
+      "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2020-09-16T21:22:47.792Z",
+      "updated": "2020-12-15T01:46:19.709Z",
       "status": "ACTIVE",
       "referenceCount": 84,
       "comment": null
@@ -93,12 +105,8 @@
       "value": "{}"
     },
     {
-      "key": "publisherName",
-      "value": "Athlon Games"
-    },
-    {
       "key": "developerName",
-      "value": "LCG Entertainment, Inc."
+      "value": "Telltale"
     },
     {
       "key": "com.epicgames.app.productSlug",

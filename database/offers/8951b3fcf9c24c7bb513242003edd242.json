@@ -1,0 +1,182 @@
+{
+  "id": "8951b3fcf9c24c7bb513242003edd242",
+  "namespace": "21916c391ae4425d8f6cce2382aebd0c",
+  "title": "Darkest Dungeon®",
+  "description": "Darkest Dungeon®",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "darkest-dungeon",
+  "urlSlug": "darkest-dungeon",
+  "creationDate": "2020-11-21T00:49:58.153Z",
+  "lastModifiedDate": "2020-12-25T15:12:56.913Z",
+  "effectiveDate": "2020-12-25T16:00:00.000Z",
+  "viewableDate": "2020-12-25T16:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-w5yb6awebxmp362nvut3qd3xb4jmur",
+    "name": "Red Hook Studios"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-12-15T01:46:33.012Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1386",
+      "name": "TURN-BASED",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:30.372Z",
+      "updated": "2020-12-15T01:49:00.686Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "14346",
+      "name": "Holiday Sale 2020",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2020-10-21T21:58:03.125Z",
+      "updated": "2020-12-17T16:00:03.195Z",
+      "status": "ACTIVE",
+      "referenceCount": 584,
+      "comment": ""
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-12-15T01:46:50.820Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-12-15T01:43:02.751Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Red Hook Studios"
+    },
+    {
+      "key": "developerName",
+      "value": "Red Hook Studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "darkest-dungeon"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/21916c391ae4425d8f6cce2382aebd0c/offer/EGS_DarkestDungeon_RedHookStudios_S1-2560x1440-2be182928926fc00b92de0af67f12898.jpg",
+      "md5": "2be182928926fc00b92de0af67f12898",
+      "size": 918803,
+      "uploadedDate": "2020-12-16T06:13:23.178Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/21916c391ae4425d8f6cce2382aebd0c/offer/EGS_DarkestDungeon_RedHookStudios_S2-1200x1600-1888311b95f43a3b02df2c452bd4ffee.jpg",
+      "md5": "1888311b95f43a3b02df2c452bd4ffee",
+      "size": 627134,
+      "uploadedDate": "2020-12-16T06:13:33.630Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/21916c391ae4425d8f6cce2382aebd0c/offer/EGS_DarkestDungeon_RedHookStudios_S2-1200x1600-1888311b95f43a3b02df2c452bd4ffee.jpg",
+      "md5": "1888311b95f43a3b02df2c452bd4ffee",
+      "size": 627134,
+      "uploadedDate": "2020-12-16T06:13:40.155Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/21916c391ae4425d8f6cce2382aebd0c/offer/EGS_DarkestDungeon_RedHookStudios_S2-1200x1600-1888311b95f43a3b02df2c452bd4ffee.jpg",
+      "md5": "1888311b95f43a3b02df2c452bd4ffee",
+      "size": 627134,
+      "uploadedDate": "2020-12-16T06:14:14.835Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/21916c391ae4425d8f6cce2382aebd0c/offer/EGS_DarkestDungeon_RedHookStudios_S1-2560x1440-2be182928926fc00b92de0af67f12898.jpg",
+      "md5": "2be182928926fc00b92de0af67f12898",
+      "size": 918803,
+      "uploadedDate": "2020-12-16T06:14:20.444Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/21916c391ae4425d8f6cce2382aebd0c/offer/EGS_DarkestDungeon_RedHookStudios_S2-1200x1600-1888311b95f43a3b02df2c452bd4ffee.jpg",
+      "md5": "1888311b95f43a3b02df2c452bd4ffee",
+      "size": 627134,
+      "uploadedDate": "2020-12-16T06:14:29.768Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "55e4549f870f4dc881aae3937c7d1f79"
+    }
+  ],
+  "catalogNs": null
+}

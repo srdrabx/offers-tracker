@@ -1,0 +1,127 @@
+{
+  "id": "5db04b27d0a24835b67b22dd21cbbac7",
+  "namespace": "6009be9994c2409099588cde6f3a5ed0",
+  "title": "Cities: Skylines - Mass Transit",
+  "description": "Mass Transit brings many new systems into play to help citizens traverse their towns in speed & style. Commuters can now get around on water, up high mountain peaks, and even through the sky thanks to the addition of ferries, monorails, cable cars, and blimps.",
+  "longDescription": "About Mass Transit\nSick Transit, Glorious Money: Add a wealth of new transit options to your city, and add wealth to your city’s income! Let your citizens get across town in ferries, blimps, cable cars, and monorails!\n\n\nOrderly Hub, Bub: New mass transit hubs can bring all of your services together, letting citizens change rail lines in one building, or hop from the bus onto the ferry, or even find their way through a sprawling monorail-train- metro station.\n\nBecome a Roads Scholar: Explore a set of new challenge scenarios focused on solving traffic problems and adding new transit systems. New road types, bridges and canals adds variety to your city, and new ways to solve its challenges. Become an expert in traffic flow, and then use that knowledge to improve your city!\n\nNew Hats for Chirper: NEW. HATS. FOR CHIRPER. (And also new unique buildings, policies and achievements. But HATS!)",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "cities-skylines--mass-transit",
+  "creationDate": "2020-11-04T18:52:26.982Z",
+  "lastModifiedDate": "2020-12-17T15:25:00.900Z",
+  "effectiveDate": "2020-12-17T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+    "name": "Paradox Interactive"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "14346",
+      "name": "Holiday Sale 2020",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2020-10-21T21:58:03.125Z",
+      "updated": "2020-12-17T16:00:03.195Z",
+      "status": "ACTIVE",
+      "referenceCount": 584,
+      "comment": ""
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Paradox Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Colossal Order"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/2177549e-9cfd-44f8-99f7-183eedd95819-2560x1440-f968664fc78cc3bc54dabae86ffd8017.jfif",
+      "md5": "f968664fc78cc3bc54dabae86ffd8017",
+      "size": 1011508,
+      "uploadedDate": "2020-12-10T15:26:32.626Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/fe5480d7-bb8b-47fc-80e7-e87992b61174-1200x1600-fed1285037f1b6e2407c09aa58ea137a.jfif",
+      "md5": "fed1285037f1b6e2407c09aa58ea137a",
+      "size": 1040617,
+      "uploadedDate": "2020-12-10T15:26:43.002Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/fe5480d7-bb8b-47fc-80e7-e87992b61174-1200x1600-fed1285037f1b6e2407c09aa58ea137a.jfif",
+      "md5": "fed1285037f1b6e2407c09aa58ea137a",
+      "size": 1040617,
+      "uploadedDate": "2020-12-10T15:26:56.372Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/fe5480d7-bb8b-47fc-80e7-e87992b61174-1200x1600-fed1285037f1b6e2407c09aa58ea137a.jfif",
+      "md5": "fed1285037f1b6e2407c09aa58ea137a",
+      "size": 1040617,
+      "uploadedDate": "2020-12-10T15:27:09.965Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/fe5480d7-bb8b-47fc-80e7-e87992b61174-1200x1600-fed1285037f1b6e2407c09aa58ea137a.jfif",
+      "md5": "fed1285037f1b6e2407c09aa58ea137a",
+      "size": 1040617,
+      "uploadedDate": "2020-12-10T15:27:24.190Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/2177549e-9cfd-44f8-99f7-183eedd95819-2560x1440-f968664fc78cc3bc54dabae86ffd8017.jfif",
+      "md5": "f968664fc78cc3bc54dabae86ffd8017",
+      "size": 1011508,
+      "uploadedDate": "2020-12-10T15:27:35.873Z",
+      "width": 2560,
+      "height": 1440
+    }
+  ],
+  "items": [
+    {
+      "id": "36840639e10b4498b4b7742acbc8bb3f"
+    }
+  ],
+  "catalogNs": null
+}

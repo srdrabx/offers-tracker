@@ -1,0 +1,127 @@
+{
+  "id": "dc522ffd3f38406bade0fd1a4b3e97ab",
+  "namespace": "6009be9994c2409099588cde6f3a5ed0",
+  "title": "Cities: Skylines - Deep Focus Radio",
+  "description": "Enjoy a selection of Ambient and Lo-Fi study music presented by DJ “Deep Thought.” This station comes with 16 unique tracks that will help you to focus on what’s truly important: perfect street layouts.\n\nDeep Focus Radio has the chilled-out ambiance you need.",
+  "longDescription": "Enjoy a selection of Ambient and Lo-Fi study music presented by DJ “Deep Thought.” This station comes with 16 unique tracks that will help you to focus on what’s truly important: perfect street layouts.\n\nDeep Focus Radio has the chilled-out ambiance you need.",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "cities-skylines--deep-focus-radio",
+  "creationDate": "2020-11-04T01:23:23.207Z",
+  "lastModifiedDate": "2020-12-17T15:25:00.740Z",
+  "effectiveDate": "2020-12-17T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+    "name": "Paradox Interactive"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "14346",
+      "name": "Holiday Sale 2020",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2020-10-21T21:58:03.125Z",
+      "updated": "2020-12-17T16:00:03.195Z",
+      "status": "ACTIVE",
+      "referenceCount": 584,
+      "comment": ""
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Paradox Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Colossal Order"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/2d82b44e-9345-45ec-8e1c-93d13209207a-2560x1440-85e0cc5c659b009d2d6f4f0e24e2700c.jfif",
+      "md5": "85e0cc5c659b009d2d6f4f0e24e2700c",
+      "size": 1003848,
+      "uploadedDate": "2020-12-10T15:39:52.293Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/d2b6b291-5382-4748-878e-7b11e96f2260-1200x1600-625818cc08bcf0a730cd17adb41d2c83.jfif",
+      "md5": "625818cc08bcf0a730cd17adb41d2c83",
+      "size": 983325,
+      "uploadedDate": "2020-12-10T15:40:03.870Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/d2b6b291-5382-4748-878e-7b11e96f2260-1200x1600-625818cc08bcf0a730cd17adb41d2c83.jfif",
+      "md5": "625818cc08bcf0a730cd17adb41d2c83",
+      "size": 983325,
+      "uploadedDate": "2020-12-10T15:40:24.079Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/d2b6b291-5382-4748-878e-7b11e96f2260-1200x1600-625818cc08bcf0a730cd17adb41d2c83.jfif",
+      "md5": "625818cc08bcf0a730cd17adb41d2c83",
+      "size": 983325,
+      "uploadedDate": "2020-12-10T15:40:36.560Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/2d82b44e-9345-45ec-8e1c-93d13209207a-2560x1440-85e0cc5c659b009d2d6f4f0e24e2700c.jfif",
+      "md5": "85e0cc5c659b009d2d6f4f0e24e2700c",
+      "size": 1003848,
+      "uploadedDate": "2020-12-10T15:40:46.674Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/d2b6b291-5382-4748-878e-7b11e96f2260-1200x1600-625818cc08bcf0a730cd17adb41d2c83.jfif",
+      "md5": "625818cc08bcf0a730cd17adb41d2c83",
+      "size": 983325,
+      "uploadedDate": "2020-12-10T15:41:01.923Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "b515a66f37ff48a997efd0f0c4cc6de5"
+    }
+  ],
+  "catalogNs": null
+}

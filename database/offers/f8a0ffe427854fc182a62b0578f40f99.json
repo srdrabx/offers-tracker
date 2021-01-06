@@ -1,16 +1,16 @@
 {
   "id": "f8a0ffe427854fc182a62b0578f40f99",
   "namespace": "df37f065c3f14eadbf011177396e2966",
-  "title": "AI_Release_DLC_7_CrewGeneralAudience",
-  "description": "AI_Release_DLC_7_CrewGeneralAudience",
-  "longDescription": null,
+  "title": "Alien: Isolation - Crew Expendable",
+  "description": "See the original crew reunited aboard the Nostromo. Brett and Kane are dead; alongside Ash and Lambert, it is now down to you as Dallas, Parker or Ellen Ripley, to find a way to isolate the Alien and overcome the terror that confronts them.",
+  "longDescription": "Choose to play as one of three surviving crewmembers of the Nostromo; Ellen Ripley, Dallas or Parker and find a way to isolate the Alien and overcome the terror that confronts them.",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "ai-release-dlc-7-crewgeneralaudience",
+  "urlSlug": "alien-isolation--crew-expendable",
   "creationDate": "2020-10-26T17:26:51.260Z",
-  "lastModifiedDate": "2020-10-28T01:32:18.882Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2020-12-18T16:36:49.390Z",
+  "effectiveDate": "2020-12-21T16:00:00.000Z",
+  "viewableDate": "2020-12-21T16:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
@@ -25,28 +25,99 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
     },
     {
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "14346",
+      "name": "Holiday Sale 2020",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2020-10-21T21:58:03.125Z",
+      "updated": "2020-12-17T16:00:03.195Z",
+      "status": "ACTIVE",
+      "referenceCount": 584,
+      "comment": ""
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "[]"
     },
     {
       "key": "publisherName",
-      "value": "[]"
+      "value": "SEGA"
     },
     {
       "key": "developerName",
-      "value": "[]"
+      "value": "Creative Assembly"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/offer/crewDLC-1920x1080-035874718eb54df0d46ca8d9958d3ec3.jfif",
+      "md5": "035874718eb54df0d46ca8d9958d3ec3",
+      "size": 942732,
+      "uploadedDate": "2020-12-11T01:40:19.623Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/offer/crewDLC-1920x1080-035874718eb54df0d46ca8d9958d3ec3.jfif",
+      "md5": "035874718eb54df0d46ca8d9958d3ec3",
+      "size": 942732,
+      "uploadedDate": "2020-12-11T01:40:29.152Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/offer/crewDLCportrait-1200x1600-839b98dec3f750f87276a7a96be0d682.jfif",
+      "md5": "839b98dec3f750f87276a7a96be0d682",
+      "size": 643564,
+      "uploadedDate": "2020-12-17T16:47:51.747Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/offer/crewDLCportrait-1200x1600-839b98dec3f750f87276a7a96be0d682.jfif",
+      "md5": "839b98dec3f750f87276a7a96be0d682",
+      "size": 643564,
+      "uploadedDate": "2020-12-17T16:48:01.462Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/offer/crewDLCportrait-1200x1600-839b98dec3f750f87276a7a96be0d682.jfif",
+      "md5": "839b98dec3f750f87276a7a96be0d682",
+      "size": 643564,
+      "uploadedDate": "2020-12-17T16:48:10.538Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/offer/crewDLCportrait-1200x1600-839b98dec3f750f87276a7a96be0d682.jfif",
+      "md5": "839b98dec3f750f87276a7a96be0d682",
+      "size": 643564,
+      "uploadedDate": "2020-12-17T16:48:19.263Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "60d5ae308c344148b98c3d43a24cb61d"

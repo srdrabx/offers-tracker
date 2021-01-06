@@ -8,7 +8,7 @@
   "productSlug": "smite/ultimate-god-pack",
   "urlSlug": "smite--ultimate-god-pack",
   "creationDate": "2020-02-18T02:39:47.634Z",
-  "lastModifiedDate": "2020-07-31T02:48:16.397Z",
+  "lastModifiedDate": "2020-12-15T12:09:23.097Z",
   "effectiveDate": "2020-04-28T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -37,7 +37,20 @@
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "14346",
+      "name": "Holiday Sale 2020",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2020-10-21T21:58:03.125Z",
+      "updated": "2020-12-17T16:00:03.195Z",
+      "status": "ACTIVE",
+      "referenceCount": 584,
+      "comment": ""
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -59,30 +72,57 @@
   "keyImages": [
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite_EGS_UltimateGodPack_860x1148-860x1148-8a0d91cd306f56681bacfdd31b8d7b06.jpg",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite_EGS_UltimateGodPack_860x1148-860x1148-8a0d91cd306f56681bacfdd31b8d7b06-860x1148-8a0d91cd306f56681bacfdd31b8d7b06.jpg",
       "md5": "8a0d91cd306f56681bacfdd31b8d7b06",
       "size": 348206,
-      "uploadedDate": "2020-04-09T16:28:56.173Z",
+      "uploadedDate": "2020-12-15T12:08:13.336Z",
       "width": 860,
       "height": 1148
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite_EGS_UltimateGodPack_2560x1440-2560x1440-0b69e8c2cab5aea6b8620dd0077fc6ba.jpg",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite_EGS_UltimateGodPack_2560x1440-2560x1440-0b69e8c2cab5aea6b8620dd0077fc6ba-2560x1440-0b69e8c2cab5aea6b8620dd0077fc6ba.jpg",
       "md5": "0b69e8c2cab5aea6b8620dd0077fc6ba",
       "size": 845791,
-      "uploadedDate": "2020-04-09T16:29:11.461Z",
+      "uploadedDate": "2020-12-15T12:08:27.635Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite_EGS_UltimateGodPack_860x1148-860x1148-8a0d91cd306f56681bacfdd31b8d7b06.jpg",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite_EGS_UltimateGodPack_860x1148-860x1148-8a0d91cd306f56681bacfdd31b8d7b06-860x1148-8a0d91cd306f56681bacfdd31b8d7b06.jpg",
       "md5": "8a0d91cd306f56681bacfdd31b8d7b06",
       "size": 348206,
-      "uploadedDate": "2020-04-09T16:29:25.792Z",
+      "uploadedDate": "2020-12-15T12:08:42.202Z",
       "width": 860,
       "height": 1148
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite_EGS_UltimateGodPack_860x1148-860x1148-8a0d91cd306f56681bacfdd31b8d7b06-860x1148-8a0d91cd306f56681bacfdd31b8d7b06.jpg",
+      "md5": "8a0d91cd306f56681bacfdd31b8d7b06",
+      "size": 348206,
+      "uploadedDate": "2020-12-15T12:08:51.588Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite_EGS_UltimateGodPack_860x1148-860x1148-8a0d91cd306f56681bacfdd31b8d7b06-860x1148-8a0d91cd306f56681bacfdd31b8d7b06.jpg",
+      "md5": "8a0d91cd306f56681bacfdd31b8d7b06",
+      "size": 348206,
+      "uploadedDate": "2020-12-15T12:09:06.482Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite_EGS_UltimateGodPack_2560x1440-2560x1440-0b69e8c2cab5aea6b8620dd0077fc6ba-2560x1440-0b69e8c2cab5aea6b8620dd0077fc6ba.jpg",
+      "md5": "0b69e8c2cab5aea6b8620dd0077fc6ba",
+      "size": 845791,
+      "uploadedDate": "2020-12-15T12:09:16.921Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
   "items": [

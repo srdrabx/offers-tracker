@@ -42,10 +42,10 @@
       "id": "1298",
       "name": "PUZZLE",
       "namespace": "epic",
-      "aliases": null,
+      "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:46.616Z",
-      "updated": "2020-09-09T02:28:11.779Z",
+      "updated": "2020-12-15T01:47:26.504Z",
       "status": "ACTIVE",
       "referenceCount": 27,
       "comment": null

@@ -1,0 +1,167 @@
+{
+  "id": "704c6d896969418cb6c5315005e53fb7",
+  "namespace": "viola",
+  "title": "Outward: The Three Brothers",
+  "description": "You will play an important role in the timeline of Aurai:  Join the rebuilding efforts of old Sirocco refugee camp by  providing the pitiable folks there a new place to call home, a new Sirocco.",
+  "longDescription": "There is more than destruction on the path of an adventurer, the time for rebuilding has come! \n\nYou will play an important role in the timeline of Aurai:  Join the rebuilding efforts of old Sirocco refugee camp by  providing the pitiable folks there a new place to call home, a new Sirocco.  \nNew weapons, skills and numerous other gadgets will help you on your uncertain journey into the unknown. \nThe gates are opening, and the path leads to “Caldera”, a new region in the world of Outward which is waiting for you with new adventures, dangers and secrets to explore!  \n\n•\tCity Building Mechanic: Rebuilding Sirocco: \nCreate your own landmark in Aurai by helping the population to survive in this ruthless world! With the new City Building mechanic, you are part of rebuilding the Refugee Camp into New Sirocco. \n\n•\tNew Area: Caldera:  \nAurai is expanding and Caldera is more than just a new landscape. New dungeons, quests and locations make it a treasure trove for every adventurer! \n\n•\tSkill Tree: The Primal Ritualist:  \nPrepare the battlefield with your mighty totems and give yourself an advantage before the scrimmage has even started! \n\n•\tGrenade & Elemental Arrows   \nEnhance your combat repertoire with Grenades and Elemental Arrows. There are numerous new possibilities to be creative in your long-range fighting! \n\n•\tAwakened Weapons:  \nThese legendary weapons are not easy to get – But the effort will pay off! Their unique attributes will give you the necessary advantage in dangerous situations! \n   \nFilled with new adventures, skills, weapons, recipes and pets, “The Three Brothers”-DLC offers you an entirely new journey in the unique world of Aurai!",
+  "status": "ACTIVE",
+  "productSlug": "outward/the-three-brothers",
+  "urlSlug": "outward--the-three-brothers",
+  "creationDate": "2020-10-12T16:57:17.563Z",
+  "lastModifiedDate": "2020-12-16T16:34:08.765Z",
+  "effectiveDate": "2020-12-15T18:00:00.000Z",
+  "viewableDate": "2020-12-15T18:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+    "name": "Koch Media"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1264",
+      "name": "CO-OP",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.700Z",
+      "updated": "2020-12-15T01:44:18.661Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-12-15T01:46:33.012Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-12-15T01:43:50.926Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-12-15T01:43:02.751Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Deep Silver"
+    },
+    {
+      "key": "developerName",
+      "value": "Nine Dots Studio"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "outward/the-three-brothers"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/viola/offer/Outward-TTB_Wishlist_2560x1440-2560x1140-4be48ca533aa507ba6ffaaab3b087e43.jpg",
+      "md5": "4be48ca533aa507ba6ffaaab3b087e43",
+      "size": 834005,
+      "uploadedDate": "2020-12-14T20:49:31.957Z",
+      "width": 2560,
+      "height": 1140
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/viola/offer/Outward-TTB_Wishlist_2560x1440-2560x1140-4be48ca533aa507ba6ffaaab3b087e43.jpg",
+      "md5": "4be48ca533aa507ba6ffaaab3b087e43",
+      "size": 834005,
+      "uploadedDate": "2020-12-14T20:50:20.311Z",
+      "width": 2560,
+      "height": 1140
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/viola/offer/Outward_TTB_1200x1600-1200x1600-495778f9db40f15107dec5edc9329710.png",
+      "md5": "495778f9db40f15107dec5edc9329710",
+      "size": 2588786,
+      "uploadedDate": "2020-12-15T17:42:10.591Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/viola/offer/Outward_TTB_1200x1600-1200x1600-495778f9db40f15107dec5edc9329710.png",
+      "md5": "495778f9db40f15107dec5edc9329710",
+      "size": 2588786,
+      "uploadedDate": "2020-12-15T17:42:16.602Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/viola/offer/Outward_TTB_1200x1600-1200x1600-495778f9db40f15107dec5edc9329710.png",
+      "md5": "495778f9db40f15107dec5edc9329710",
+      "size": 2588786,
+      "uploadedDate": "2020-12-15T17:42:36.789Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/viola/offer/Outward_TTB_1200x1600-1200x1600-495778f9db40f15107dec5edc9329710.png",
+      "md5": "495778f9db40f15107dec5edc9329710",
+      "size": 2588786,
+      "uploadedDate": "2020-12-15T17:42:43.072Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "f5120ced245b4d8a98d06cb392ac7041"
+    }
+  ],
+  "catalogNs": null
+}

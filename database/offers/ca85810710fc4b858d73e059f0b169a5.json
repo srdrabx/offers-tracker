@@ -1,0 +1,56 @@
+{
+  "id": "ca85810710fc4b858d73e059f0b169a5",
+  "namespace": "1b4d97cb697f4ac09ff053738f7716e4",
+  "title": "ZincGeneralAudience",
+  "description": "ZincGeneralAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "zincgeneralaudience",
+  "creationDate": "2020-12-10T14:46:59.977Z",
+  "lastModifiedDate": "2020-12-10T15:24:44.391Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-q5rkzbndnbcwu6t6gbs59pxydk6jn8",
+    "name": "Headup Gmbh"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "02e7b2b08f7d44f1abc38a03244ffbcd"
+    }
+  ],
+  "catalogNs": null
+}

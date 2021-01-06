@@ -1,0 +1,127 @@
+{
+  "id": "93cb0cae38de42a8b0a57f4c2d2fecb0",
+  "namespace": "6009be9994c2409099588cde6f3a5ed0",
+  "title": "Cities: Skylines - Content Creator Pack: Modern City Center",
+  "description": "Modern City Center, the newest content creator pack for Cities: Skylines from modder Jason “AmiPolizeiFunk” Ditmars, adds 39 unique models featuring new modern commercial wall-to-wall buildings as often found in City Centers.",
+  "longDescription": "Modern City Center, the newest content creator pack for Cities: Skylines from modder Jason “AmiPolizeiFunk” Ditmars, adds 39 unique models featuring new modern commercial wall-to-wall buildings as often found in City Centers. This is the first pack to include semi-transparent glass barriers and awnings, allowing both modders and veteran builders alike to create amazing new cities.",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "cities-skylines--content-creator-pack-modern-city-center",
+  "creationDate": "2020-11-17T00:12:54.051Z",
+  "lastModifiedDate": "2020-12-17T15:25:01.261Z",
+  "effectiveDate": "2020-12-17T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+    "name": "Paradox Interactive"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "14346",
+      "name": "Holiday Sale 2020",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2020-10-21T21:58:03.125Z",
+      "updated": "2020-12-17T16:00:03.195Z",
+      "status": "ACTIVE",
+      "referenceCount": 584,
+      "comment": ""
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Paradox Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Colossal Order"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylinesCCPModernCityCenter_ColossalOrder_DLC_S1-2560x1440-b187f225048bd968e0ae941df2d2943b.jpg",
+      "md5": "b187f225048bd968e0ae941df2d2943b",
+      "size": 1047047,
+      "uploadedDate": "2020-12-02T11:54:30.579Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylinesCCPModernCityCenter_ColossalOrder_DLC_S2-1200x1600-17d8efed248496bbe23d5ebbdf93e7d2.jpg",
+      "md5": "17d8efed248496bbe23d5ebbdf93e7d2",
+      "size": 1028821,
+      "uploadedDate": "2020-12-02T11:54:39.832Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylinesCCPModernCityCenter_ColossalOrder_DLC_S2-1200x1600-17d8efed248496bbe23d5ebbdf93e7d2.jpg",
+      "md5": "17d8efed248496bbe23d5ebbdf93e7d2",
+      "size": 1028821,
+      "uploadedDate": "2020-12-02T11:54:49.429Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylinesCCPModernCityCenter_ColossalOrder_DLC_S2-1200x1600-17d8efed248496bbe23d5ebbdf93e7d2.jpg",
+      "md5": "17d8efed248496bbe23d5ebbdf93e7d2",
+      "size": 1028821,
+      "uploadedDate": "2020-12-02T11:54:59.991Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylinesCCPModernCityCenter_ColossalOrder_DLC_S1-2560x1440-b187f225048bd968e0ae941df2d2943b.jpg",
+      "md5": "b187f225048bd968e0ae941df2d2943b",
+      "size": 1047047,
+      "uploadedDate": "2020-12-02T11:55:12.154Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylinesCCPModernCityCenter_ColossalOrder_DLC_S2-1200x1600-17d8efed248496bbe23d5ebbdf93e7d2.jpg",
+      "md5": "17d8efed248496bbe23d5ebbdf93e7d2",
+      "size": 1028821,
+      "uploadedDate": "2020-12-02T11:55:24.173Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "aefade57ec5f425e8de60e53b71ed14c"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,127 @@
+{
+  "id": "6924f2595972471d81e55057fea2bb88",
+  "namespace": "6009be9994c2409099588cde6f3a5ed0",
+  "title": "Cities: Skylines - Relaxation Station",
+  "description": "Take the stress out of your streets and relax while you listen to Soothing jazz, lounge music, groove music, or even pleasant Caribbean vibes in between savy radio host Jason.",
+  "longDescription": "Take the stress out of your streets and relax while you listen to Soothing jazz, lounge music, groove music, or even pleasant Caribbean vibes in between savy radio host Jason. You might also come across a commercial or two for your favorite food chain or Insurance provider. So tune in, kick back, and let our in-game DJ spin the relaxing playlist for your listening pleasure.",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "cities-skylines--relaxation-station",
+  "creationDate": "2020-11-04T01:15:56.965Z",
+  "lastModifiedDate": "2020-12-17T15:25:00.586Z",
+  "effectiveDate": "2020-12-17T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+    "name": "Paradox Interactive"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "14346",
+      "name": "Holiday Sale 2020",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2020-10-21T21:58:03.125Z",
+      "updated": "2020-12-17T16:00:03.195Z",
+      "status": "ACTIVE",
+      "referenceCount": 584,
+      "comment": ""
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Paradox Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Colossal Order"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylinesRelaxationStation_ColossalOrder_DLC_S1-2560x1440-6bae4beaf9b50872803ce22a92183fb3.jpg",
+      "md5": "6bae4beaf9b50872803ce22a92183fb3",
+      "size": 1047757,
+      "uploadedDate": "2020-12-02T09:00:30.550Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylinesRelaxationStation_ColossalOrder_DLC_S2-1200x1600-97cdaf2d96a74d92d9441c950360de7c.jpg",
+      "md5": "97cdaf2d96a74d92d9441c950360de7c",
+      "size": 1044432,
+      "uploadedDate": "2020-12-02T09:00:40.378Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylinesRelaxationStation_ColossalOrder_DLC_S2-1200x1600-97cdaf2d96a74d92d9441c950360de7c.jpg",
+      "md5": "97cdaf2d96a74d92d9441c950360de7c",
+      "size": 1044432,
+      "uploadedDate": "2020-12-02T09:00:49.600Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylinesRelaxationStation_ColossalOrder_DLC_S2-1200x1600-97cdaf2d96a74d92d9441c950360de7c.jpg",
+      "md5": "97cdaf2d96a74d92d9441c950360de7c",
+      "size": 1044432,
+      "uploadedDate": "2020-12-02T09:01:03.320Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylinesRelaxationStation_ColossalOrder_DLC_S2-1200x1600-97cdaf2d96a74d92d9441c950360de7c.jpg",
+      "md5": "97cdaf2d96a74d92d9441c950360de7c",
+      "size": 1044432,
+      "uploadedDate": "2020-12-02T09:01:21.099Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylinesRelaxationStation_ColossalOrder_DLC_S1-2560x1440-6bae4beaf9b50872803ce22a92183fb3.jpg",
+      "md5": "6bae4beaf9b50872803ce22a92183fb3",
+      "size": 1047757,
+      "uploadedDate": "2020-12-02T09:01:31.897Z",
+      "width": 2560,
+      "height": 1440
+    }
+  ],
+  "items": [
+    {
+      "id": "58b5cb188884422b8106fdf92cba70e7"
+    }
+  ],
+  "catalogNs": null
+}

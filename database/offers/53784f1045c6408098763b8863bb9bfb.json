@@ -1,0 +1,209 @@
+{
+  "id": "53784f1045c6408098763b8863bb9bfb",
+  "namespace": "3db17abfd650423f993291624b1b2ac1",
+  "title": "Elite Dangerous Odyssey",
+  "description": "Disembark, Commander, and leave your mark on the galaxy in Elite Dangerous: Odyssey. Explore distant worlds on foot and expand the frontier of known space.",
+  "longDescription": "Disembark, Commander, and leave your mark on the galaxy in Elite Dangerous: Odyssey. Explore distant worlds on foot and expand the frontier of known space. Be the first to step out onto countless unique planets as you discover land untouched since time began. Elite Dangerous: Odyssey invites you to become a true pioneer.\n\n# Pre-order Bonus:\n- Gain access to the exclusive Pioneer suit skin.\n\n# One Giant Leap\nSee the galaxy like never before. Touch down on breathtaking planets powered by stunning new tech, soak in suns rising over unforgettable vistas, discover outposts and settlements, and explore with unrestricted freedom.\n\n# Forge Your Own Path\nTake on a wide variety of contracts and play your way, from diplomacy and commerce to lethal stealth and all-out combat. Diverse settings, objectives, and NPCs offer endless mission variety and a near infinite amount of content to enjoy.\n\n# Assemble Your Crew\nSocial hubs spread throughout the galaxy give Commanders the ideal place to plan their next move. Form alliances, procure services, and even find expert support in highly coveted Engineers. These public outposts also help you acquire and upgrade weapons and gear to perfect your playing style.\n\n# The Sphere of Combat\nExperience intense first-person combat, kit out your character with an array of weapons and gear, and coordinate with teammates to master a multi-layered, deep, tactical environment where Commanders, SRVs and Starships converge.",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "elite-dangerous--odyssey",
+  "creationDate": "2020-11-19T15:03:18.774Z",
+  "lastModifiedDate": "2020-12-10T23:33:42.192Z",
+  "effectiveDate": "2020-12-11T00:00:00.000Z",
+  "viewableDate": "2020-12-11T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-mlnjydnrxlmer2ducb6u6ngznq25mx",
+    "name": "Frontier Developments"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-12-15T01:46:14.061Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1121",
+      "name": "SPACE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:18.640Z",
+      "updated": "2020-09-14T14:01:19.686Z",
+      "status": "ACTIVE",
+      "referenceCount": 0,
+      "comment": null
+    },
+    {
+      "id": "1281",
+      "name": "SPACE SIM",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:38.182Z",
+      "updated": "2020-04-02T01:42:00.031Z",
+      "status": "ACTIVE",
+      "referenceCount": 4,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-12-15T01:44:09.654Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "217",
+      "name": "SPACE SIMULATION",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-17T16:11:33.574Z",
+      "updated": "2019-10-24T15:50:45.303Z",
+      "status": "ACTIVE",
+      "referenceCount": 0,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-12-15T01:43:50.926Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-12-15T01:43:02.751Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Frontier Developments"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "developerName",
+      "value": "Frontier Developments"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/3db17abfd650423f993291624b1b2ac1/offer/wide-2560x1440-e0ded5887ce8925d6994be429fd4e2ad.jpg",
+      "md5": "e0ded5887ce8925d6994be429fd4e2ad",
+      "size": 696766,
+      "uploadedDate": "2020-12-04T18:50:41.035Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/3db17abfd650423f993291624b1b2ac1/offer/tall-1200x1600-bba05a724e82bc7fb2b2b2dc2224d83b.jpg",
+      "md5": "bba05a724e82bc7fb2b2b2dc2224d83b",
+      "size": 372786,
+      "uploadedDate": "2020-12-04T18:50:48.178Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/3db17abfd650423f993291624b1b2ac1/offer/wide-2560x1440-e0ded5887ce8925d6994be429fd4e2ad.jpg",
+      "md5": "e0ded5887ce8925d6994be429fd4e2ad",
+      "size": 696766,
+      "uploadedDate": "2020-12-04T18:50:56.029Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/3db17abfd650423f993291624b1b2ac1/offer/tall-1200x1600-bba05a724e82bc7fb2b2b2dc2224d83b.jpg",
+      "md5": "bba05a724e82bc7fb2b2b2dc2224d83b",
+      "size": 372786,
+      "uploadedDate": "2020-12-04T18:51:05.126Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/3db17abfd650423f993291624b1b2ac1/offer/tall-1200x1600-bba05a724e82bc7fb2b2b2dc2224d83b.jpg",
+      "md5": "bba05a724e82bc7fb2b2b2dc2224d83b",
+      "size": 372786,
+      "uploadedDate": "2020-12-04T18:51:13.724Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/3db17abfd650423f993291624b1b2ac1/offer/tall-1200x1600-bba05a724e82bc7fb2b2b2dc2224d83b.jpg",
+      "md5": "bba05a724e82bc7fb2b2b2dc2224d83b",
+      "size": 372786,
+      "uploadedDate": "2020-12-04T18:51:20.892Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "b68d1e3634f74e41b9fdf9fffa8e1c40"
+    },
+    {
+      "id": "209679cc681f471881945442c13c1925"
+    }
+  ],
+  "catalogNs": null
+}

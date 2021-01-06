@@ -1,15 +1,15 @@
 {
   "id": "3e70f30965f045959e9541178e1a40e5",
   "namespace": "c3e63401d6ba410493de31ed69a798a1",
-  "title": "US mega bundle",
-  "description": "US mega bundle",
-  "longDescription": null,
+  "title": "US Mega Pack",
+  "description": "The Mega Pack includes one of each Soldier type + 1 Additional Infantry Soldier. Each soldier comes with high tier equipment along many modifications and 13 upgraded vehicles including Tanks, Planes and Terrain Vehicles.",
+  "longDescription": "The Mega Pack includes one of each Soldier type + 1 Additional Infantry Soldier. Each soldier comes with high tier equipment along many modifications and 13 upgraded vehicles including Tanks, Planes and Terrain Vehicles.\n\n# Infantryman\n- M1/M2 Carbine (Factory)\n- United Defense 'Jackal'\n- Stainless Steel Barrel\n- Lightened Spring\n- Field Adjusted Sights\n- Field Trigger Job\n- 1911 Pistol (Factory)\n- Combat Knife 1219C2\n- U.S. First Aid Kit\n- Mk II (Factory)\n- CCKW Cargo Truck\n- Truck, 1/4 ton, 4x4 (Factory)\n- Thompson M1A1 (Factory)\n- Akicita Kinetic\n- Field Adjusted Sights\n- Field Trigger Job\n- Lightened Bolt\n- Stainless Steel Barrel\n- 1911 Pistol (Factory)\n- U.S. Medic Pouch\n- Mk II (Factory)\n- M29 Weasel (Factory)\n- 42WLA (Factory)\n\n# Fighter Pilot\n- Thompson M1A1 (Factory)\n- Akicita Kinetic\n- Field Adjusted Sights\n- Field Trigger Job\n- Lightened Bolt\n- Stainless Steel Barrel\n- Curtiss O-52 Owl\n- M2AP .30-06 Springfield\n- Pomeroy Explosive\n- Curtiss P-40N Warhawk\n- Caliber .50, AP, M2\n- Caliber .50 Pomeroy Explosive\n- P-38 Lightning\n- 20mm AP Tracer M75\n- 20mm HE Incendiary Mk.I\n- Paratrooper\n- Thompson M1A1 (Factory)\n- Akicita Kinetic\n- Field Adjusted Sights\n- Field Trigger Job\n- Lightened Bolt\n- Stainless Steel Barrel\n\n# Tank Crewman\n- Thompson M1A1 (Factory)\n- Akicita Kinetic\n- Field Adjusted Sights\n- Field Trigger Job\n- Lightened Bolt\n- Stainless Steel Barrel\n- M5A1 Stuart\n- 37mm APC M51B1 Shot\n- 37mm HE M63\n- M4A1 Sherman\n- 75mm APCBC M61\n- 75mm M61 HE/APC\n- M4A3E2 Sherman 'Jumbo'\n- 76mm APCBC M62\n- 76mm M26 HE/APC\n- M18 Hellcat\n- 76mm APCBC M62\n- 76mm M26 HE/APC\n- M36 Tank Destroyer\n- 90mm HVAP-T T30E16\n- 90mm M71 HE\n\n# Recon\n- Rifle M1903 (Factory)\n- Black Hornet\n- M84 (German1)\n- Field Trigger Job\n- Lightened Bolt\n- Stainless Steel Barrel\n- 1911 Pistol (Factory)\n- T8E1 Stuart Recce\n\n# Ribbon Boosters\n- M1/M2 Carbine Specialist \n- 1911 Pistol Specialist \n- Blitz Truck Specialist \n- Truck 4x4 Specialist \n- Squad Leader \n- Petlyakov Pe-3bis Specialist \n- Medic \n- P-38 Lightning Specialist \n- Thompson M1A1 Specialist \n- M5A1 Stuart Specialist \n- M4A1 Sherman Specialist \n- Curtiss O-52 'Owl' Specialist \n- M18 Hellcat Specialist \n- Panzerbüchse 39 Specialist \n- Rifle M1903 Specialist \n- Maschinengewehr 13 Specialist \n- Panther Ausf. G Specialist \n- P38 Parabellum Specialist \n- Physical Training \n- Chauffeur \n- Korovin TK Specialist \n- Tactical \n- Defense \n- Recon \n- Driver",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "us-mega-bundle",
+  "urlSlug": "heroes-and-generals-wwii--us-mega-pack",
   "creationDate": "2020-08-31T20:28:27.712Z",
-  "lastModifiedDate": "2020-09-23T05:09:54.686Z",
-  "effectiveDate": "2099-12-31T15:00:00.000Z",
+  "lastModifiedDate": "2020-12-18T20:32:41.326Z",
+  "effectiveDate": "2020-12-18T19:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -25,7 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "addons"
+    },
+    {
       "path": "games"
+    },
+    {
+      "path": "addons/consumable"
     },
     {
       "path": "applications"
@@ -36,10 +42,10 @@
       "id": "1203",
       "name": "MULTIPLAYER",
       "namespace": "epic",
-      "aliases": null,
+      "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2020-09-16T23:47:27.269Z",
+      "updated": "2020-12-15T01:44:09.654Z",
       "status": "ACTIVE",
       "referenceCount": 46,
       "comment": null
@@ -61,9 +67,9 @@
       "name": "WINDOWS",
       "namespace": "epic",
       "aliases": [],
-      "operator": "kimberly.rodatos",
+      "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-09-16T23:47:27.310Z",
+      "updated": "2020-12-15T01:43:02.751Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -72,26 +78,93 @@
       "id": "1294",
       "name": "FIRST-PERSON",
       "namespace": "epic",
-      "aliases": null,
+      "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:44.596Z",
-      "updated": "2020-09-10T16:00:33.411Z",
+      "updated": "2020-12-15T01:47:39.866Z",
       "status": "ACTIVE",
       "referenceCount": 24,
+      "comment": null
+    },
+    {
+      "id": "1279",
+      "name": "VAMPIRE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:37.207Z",
+      "updated": "2020-09-16T19:19:59.211Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
       "comment": null
     }
   ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "{}"
+      "value": "KR"
     },
     {
       "key": "publisherName",
       "value": "RETO MOTO"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/0319f858-a82c-4fb1-84e2-038aad4673bb-2560x1440-ad5878ed3d10cdde842afc165ecb92e3.jfif",
+      "md5": "ad5878ed3d10cdde842afc165ecb92e3",
+      "size": 882449,
+      "uploadedDate": "2020-12-18T01:49:12.725Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/0319f858-a82c-4fb1-84e2-038aad4673bb-2560x1440-ad5878ed3d10cdde842afc165ecb92e3.jfif",
+      "md5": "ad5878ed3d10cdde842afc165ecb92e3",
+      "size": 882449,
+      "uploadedDate": "2020-12-18T01:49:26.340Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/2da12519-ed7e-4c75-b206-00bd94392a70-1200x1600-e746f8e4416e337c13c2b8094e478abb.jfif",
+      "md5": "e746f8e4416e337c13c2b8094e478abb",
+      "size": 912318,
+      "uploadedDate": "2020-12-18T20:12:44.624Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/2da12519-ed7e-4c75-b206-00bd94392a70-1200x1600-e746f8e4416e337c13c2b8094e478abb.jfif",
+      "md5": "e746f8e4416e337c13c2b8094e478abb",
+      "size": 912318,
+      "uploadedDate": "2020-12-18T20:12:54.959Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/2da12519-ed7e-4c75-b206-00bd94392a70-1200x1600-e746f8e4416e337c13c2b8094e478abb.jfif",
+      "md5": "e746f8e4416e337c13c2b8094e478abb",
+      "size": 912318,
+      "uploadedDate": "2020-12-18T20:13:02.133Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/2da12519-ed7e-4c75-b206-00bd94392a70-1200x1600-e746f8e4416e337c13c2b8094e478abb.jfif",
+      "md5": "e746f8e4416e337c13c2b8094e478abb",
+      "size": 912318,
+      "uploadedDate": "2020-12-18T20:13:10.710Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "da276ebbfa034965ac9d2c34d776df3e"

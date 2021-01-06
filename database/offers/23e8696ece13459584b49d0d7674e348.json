@@ -37,7 +37,9 @@
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    null
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",

@@ -1,16 +1,16 @@
 {
   "id": "d37f3694e7a04edb8347f3cb6320f9d3",
   "namespace": "df37f065c3f14eadbf011177396e2966",
-  "title": "LetheGeneralAudience",
-  "description": "LetheGeneralAudience",
+  "title": "Alien: Isolation",
+  "description": "Alien: Isolation",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
+  "productSlug": "alien-isolation",
   "urlSlug": "lethegeneralaudience",
   "creationDate": "2020-10-26T16:28:13.978Z",
-  "lastModifiedDate": "2020-10-28T01:32:18.642Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2020-12-18T16:36:49.102Z",
+  "effectiveDate": "2020-12-21T16:00:00.000Z",
+  "viewableDate": "2020-12-21T16:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
@@ -28,25 +28,139 @@
       "path": "games"
     },
     {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-12-15T01:46:14.061Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-12-15T01:43:50.926Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "14346",
+      "name": "Holiday Sale 2020",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2020-10-21T21:58:03.125Z",
+      "updated": "2020-12-17T16:00:03.195Z",
+      "status": "ACTIVE",
+      "referenceCount": 584,
+      "comment": ""
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-12-15T01:43:02.751Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "[]"
     },
     {
       "key": "publisherName",
-      "value": "[]"
+      "value": "SEGA"
     },
     {
       "key": "developerName",
-      "value": "[]"
+      "value": "Creative Assembly"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "alien-isolation"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/offer/EGS_AlienIsolation_CreativeAssembly_S5-1920x1080-1cf3b9a86adcefeebf903451b1b3fb49.jpg",
+      "md5": "1cf3b9a86adcefeebf903451b1b3fb49",
+      "size": 620728,
+      "uploadedDate": "2020-12-11T04:52:38.091Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/offer/EGS_AlienIsolation_CreativeAssembly_S6-1200x1600-af00adc8f67a7c6138cce183ac1e9503.jpg",
+      "md5": "af00adc8f67a7c6138cce183ac1e9503",
+      "size": 683092,
+      "uploadedDate": "2020-12-11T04:52:44.328Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/offer/EGS_AlienIsolation_CreativeAssembly_S6-1200x1600-af00adc8f67a7c6138cce183ac1e9503.jpg",
+      "md5": "af00adc8f67a7c6138cce183ac1e9503",
+      "size": 683092,
+      "uploadedDate": "2020-12-11T04:52:53.439Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/offer/EGS_AlienIsolation_CreativeAssembly_S6-1200x1600-af00adc8f67a7c6138cce183ac1e9503.jpg",
+      "md5": "af00adc8f67a7c6138cce183ac1e9503",
+      "size": 683092,
+      "uploadedDate": "2020-12-11T04:53:00.425Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/offer/EGS_AlienIsolation_CreativeAssembly_S5-1920x1080-1cf3b9a86adcefeebf903451b1b3fb49.jpg",
+      "md5": "1cf3b9a86adcefeebf903451b1b3fb49",
+      "size": 620728,
+      "uploadedDate": "2020-12-11T04:53:09.889Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/offer/EGS_AlienIsolation_CreativeAssembly_S6-1200x1600-af00adc8f67a7c6138cce183ac1e9503.jpg",
+      "md5": "af00adc8f67a7c6138cce183ac1e9503",
+      "size": 683092,
+      "uploadedDate": "2020-12-11T04:53:20.457Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "4646166ab44c49b0a83e00ab59df5292"

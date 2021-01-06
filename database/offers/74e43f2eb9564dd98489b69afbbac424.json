@@ -1,0 +1,127 @@
+{
+  "id": "74e43f2eb9564dd98489b69afbbac424",
+  "namespace": "e1055bf1e5654b93a27e19e6bb86cb2a",
+  "title": "Spitter",
+  "description": "Tropico 6’s second DLC skyrockets you into the world of stardom and illustriousness. Interact with superstars by using Spitter, the only short message social networking app officially approved by the Tropican Ministry for Modern Communications & Smoke Signals.",
+  "longDescription": "Tropico 6’s second DLC skyrockets you into the world of stardom and illustriousness. Interact with superstars by using Spitter, the only short message social networking app officially approved by the Tropican Ministry for Modern Communications & Smoke Signals.\n\n# Features\n\n\n- New Spitter Social Media feature: Interact with superstars and faction leaders via a social app, to increase your standing and unlock new special traits of the celebrities\n- New mission and sandbox map \n- 3 new buildings: Lure celebrities to Tropico by building a Rehab Center or Beauty Farm and make them permanent residents using the Super Villa \n- New trait: Narcissist\n- 3 new tracks\n- 5 new customization options for El Prez and his palace",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "tropico-6--spitter",
+  "creationDate": "2020-06-29T13:59:50.985Z",
+  "lastModifiedDate": "2020-12-16T17:10:05.310Z",
+  "effectiveDate": "2020-12-23T16:00:00.000Z",
+  "viewableDate": "2020-12-23T16:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+    "name": "Kalypso Media Group GmbH"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "14346",
+      "name": "Holiday Sale 2020",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2020-10-21T21:58:03.125Z",
+      "updated": "2020-12-17T16:00:03.195Z",
+      "status": "ACTIVE",
+      "referenceCount": 584,
+      "comment": ""
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Kalypso Media Group GmbH"
+    },
+    {
+      "key": "developerName",
+      "value": "Limbic Entertainment"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/offer/EGS_Spitter_LimbicEntertainment_DLC_S1-2560x1440-43e4ef12cba3ced456d50ffa56a6dba1.jpg",
+      "md5": "43e4ef12cba3ced456d50ffa56a6dba1",
+      "size": 946792,
+      "uploadedDate": "2020-11-16T20:37:48.631Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/offer/EGS_Spitter_LimbicEntertainment_DLC_S2-1200x1600-7572ab79f3e499fdc685004ce88fe53b.jpg",
+      "md5": "7572ab79f3e499fdc685004ce88fe53b",
+      "size": 731656,
+      "uploadedDate": "2020-11-16T20:37:54.354Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/offer/EGS_Spitter_LimbicEntertainment_DLC_S1-2560x1440-43e4ef12cba3ced456d50ffa56a6dba1.jpg",
+      "md5": "43e4ef12cba3ced456d50ffa56a6dba1",
+      "size": 946792,
+      "uploadedDate": "2020-11-16T20:38:00.743Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/offer/EGS_Spitter_LimbicEntertainment_DLC_S2-1200x1600-7572ab79f3e499fdc685004ce88fe53b.jpg",
+      "md5": "7572ab79f3e499fdc685004ce88fe53b",
+      "size": 731656,
+      "uploadedDate": "2020-11-16T20:38:12.978Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/offer/EGS_Spitter_LimbicEntertainment_DLC_S2-1200x1600-7572ab79f3e499fdc685004ce88fe53b.jpg",
+      "md5": "7572ab79f3e499fdc685004ce88fe53b",
+      "size": 731656,
+      "uploadedDate": "2020-11-16T20:38:20.697Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/offer/EGS_Spitter_LimbicEntertainment_DLC_S2-1200x1600-7572ab79f3e499fdc685004ce88fe53b.jpg",
+      "md5": "7572ab79f3e499fdc685004ce88fe53b",
+      "size": 731656,
+      "uploadedDate": "2020-11-16T20:38:27.260Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "8e91328a0bee43db817b8108e05172a3"
+    }
+  ],
+  "catalogNs": null
+}

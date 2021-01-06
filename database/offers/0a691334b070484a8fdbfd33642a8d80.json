@@ -33,10 +33,10 @@
       "id": "1298",
       "name": "PUZZLE",
       "namespace": "epic",
-      "aliases": null,
+      "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:46.616Z",
-      "updated": "2020-09-09T02:28:11.779Z",
+      "updated": "2020-12-15T01:47:26.504Z",
       "status": "ACTIVE",
       "referenceCount": 27,
       "comment": null
@@ -48,7 +48,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-09-16T23:47:27.291Z",
+      "updated": "2020-12-15T01:43:50.926Z",
       "status": "ACTIVE",
       "referenceCount": 195,
       "comment": null
@@ -58,9 +58,9 @@
       "name": "WINDOWS",
       "namespace": "epic",
       "aliases": [],
-      "operator": "kimberly.rodatos",
+      "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-09-16T23:47:27.310Z",
+      "updated": "2020-12-15T01:43:02.751Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null

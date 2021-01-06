@@ -1,20 +1,20 @@
 {
   "id": "cd39409fc3164c28bd72d1e827bd72d7",
   "namespace": "33956bcb55d4452d8c47e16b94e294bd",
-  "title": "Talons DLC 03",
-  "description": "Talons DLC 03",
-  "longDescription": null,
+  "title": "Among Us - Polus Skins",
+  "description": "Skins included:\nAn Archaeologist's uniform, Winter gear and a Mining outfit. This content requires the base game Among Us in order to play.",
+  "longDescription": "Look the part as you man the expedition to the research base on Polus: A planet far away from any would-be impostors.\nSkins included:\n\nAn archaeologist may unearth vital information about xenoforms.\nPolus can get pretty cold, warm up with some winter gear!\nDon't forget to don your mining outfit before heading into the tunnels.",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "talonsdlc03",
+  "urlSlug": "among-us--polus-skins",
   "creationDate": "2020-12-01T02:39:57.955Z",
-  "lastModifiedDate": "2020-12-01T03:15:35.283Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2020-12-18T15:27:26.938Z",
+  "effectiveDate": "2020-12-18T17:00:00.000Z",
+  "viewableDate": "2020-12-18T17:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-pngf6jdggxr2b393zxwxev9yjyym44",
-    "name": "Talons"
+    "name": "Innersloth"
   },
   "linkedOfferId": null,
   "isFeatured": false,
@@ -28,9 +28,6 @@
       "path": "addons"
     },
     {
-      "path": "games"
-    },
-    {
       "path": "addons/durable"
     },
     {
@@ -41,18 +38,73 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "KR"
     },
     {
       "key": "publisherName",
-      "value": "[]"
+      "value": "Innersloth"
     },
     {
       "key": "developerName",
-      "value": "[]"
+      "value": "Innersloth"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/33956bcb55d4452d8c47e16b94e294bd/offer/EGS_AmongUsPolusSkins_Innersloth_DLC_S1-2560x1440-4fa6ca157d0e96b1e815f7053f11d35e.jpg",
+      "md5": "4fa6ca157d0e96b1e815f7053f11d35e",
+      "size": 781417,
+      "uploadedDate": "2020-12-06T07:01:22.668Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/33956bcb55d4452d8c47e16b94e294bd/offer/EGS_AmongUsPolusSkins_Innersloth_DLC_S2-1200x1600-24696412409d525d5a5a45b66e746b18.jpg",
+      "md5": "24696412409d525d5a5a45b66e746b18",
+      "size": 570713,
+      "uploadedDate": "2020-12-06T07:01:28.878Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/33956bcb55d4452d8c47e16b94e294bd/offer/EGS_AmongUsPolusSkins_Innersloth_DLC_S2-1200x1600-24696412409d525d5a5a45b66e746b18.jpg",
+      "md5": "24696412409d525d5a5a45b66e746b18",
+      "size": 570713,
+      "uploadedDate": "2020-12-06T07:01:41.859Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/33956bcb55d4452d8c47e16b94e294bd/offer/EGS_AmongUsPolusSkins_Innersloth_DLC_S2-1200x1600-24696412409d525d5a5a45b66e746b18.jpg",
+      "md5": "24696412409d525d5a5a45b66e746b18",
+      "size": 570713,
+      "uploadedDate": "2020-12-06T07:01:47.954Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/33956bcb55d4452d8c47e16b94e294bd/offer/EGS_AmongUsPolusSkins_Innersloth_DLC_S1-2560x1440-4fa6ca157d0e96b1e815f7053f11d35e.jpg",
+      "md5": "4fa6ca157d0e96b1e815f7053f11d35e",
+      "size": 781417,
+      "uploadedDate": "2020-12-06T07:01:57.521Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/33956bcb55d4452d8c47e16b94e294bd/offer/EGS_AmongUsPolusSkins_Innersloth_DLC_S2-1200x1600-24696412409d525d5a5a45b66e746b18.jpg",
+      "md5": "24696412409d525d5a5a45b66e746b18",
+      "size": 570713,
+      "uploadedDate": "2020-12-06T07:02:04.787Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "95d2afb0f1d4415aaf5aeb12df43a459"

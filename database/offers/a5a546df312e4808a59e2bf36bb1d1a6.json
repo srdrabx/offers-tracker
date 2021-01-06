@@ -34,7 +34,7 @@
       "name": "TEST",
       "namespace": "SeaQA",
       "aliases": [],
-      "operator": "jason.ji",
+      "operator": null,
       "created": "2020-10-29T17:36:31.446Z",
       "updated": "2020-10-29T17:41:00.815Z",
       "status": "ACTIVE",

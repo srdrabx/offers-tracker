@@ -1,0 +1,180 @@
+{
+  "id": "f24e1ebf9a054781abc85bc82a2dcbba",
+  "namespace": "58dfcd1952ee48c1a1fa31c6ace5fe3d",
+  "title": "The Long Dark",
+  "description": "The Long Dark",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "the-long-dark",
+  "urlSlug": "lazuritegeneralaudience",
+  "creationDate": "2020-05-12T21:17:05.288Z",
+  "lastModifiedDate": "2020-12-19T15:10:15.076Z",
+  "effectiveDate": "2020-12-19T16:00:00.000Z",
+  "viewableDate": "2020-12-19T16:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-7defvk4pc8qgqudmkzts63kwttreyu",
+    "name": "Hinterland Studio"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1080",
+      "name": "SURVIVAL",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2020-12-15T01:49:20.300Z",
+      "status": "ACTIVE",
+      "referenceCount": 11,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-12-15T01:43:50.926Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-12-15T01:43:02.751Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-12-15T01:46:19.709Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "MAC OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX"
+      ],
+      "operator": null,
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-12-15T01:43:22.719Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Hinterland Studio Inc."
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-long-dark"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/58dfcd1952ee48c1a1fa31c6ace5fe3d/offer/EGS_TheLongDark_HinterlandStudioInc_S5-1920x1080-fcfdd407ac1990bec320b49101862585.jpg",
+      "md5": "fcfdd407ac1990bec320b49101862585",
+      "size": 712591,
+      "uploadedDate": "2020-12-14T15:27:44.486Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/58dfcd1952ee48c1a1fa31c6ace5fe3d/offer/EGS_TheLongDark_HinterlandStudioInc_S6-1200x1600-3debfeb01e511b9e1221f973b6bb1fe7.jpg",
+      "md5": "3debfeb01e511b9e1221f973b6bb1fe7",
+      "size": 529403,
+      "uploadedDate": "2020-12-14T15:27:52.394Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/58dfcd1952ee48c1a1fa31c6ace5fe3d/offer/EGS_TheLongDark_HinterlandStudioInc_S6-1200x1600-3debfeb01e511b9e1221f973b6bb1fe7.jpg",
+      "md5": "3debfeb01e511b9e1221f973b6bb1fe7",
+      "size": 529403,
+      "uploadedDate": "2020-12-14T15:28:02.682Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/58dfcd1952ee48c1a1fa31c6ace5fe3d/offer/EGS_TheLongDark_HinterlandStudioInc_S6-1200x1600-3debfeb01e511b9e1221f973b6bb1fe7.jpg",
+      "md5": "3debfeb01e511b9e1221f973b6bb1fe7",
+      "size": 529403,
+      "uploadedDate": "2020-12-14T15:28:11.925Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/58dfcd1952ee48c1a1fa31c6ace5fe3d/offer/EGS_TheLongDark_HinterlandStudioInc_S5-1920x1080-fcfdd407ac1990bec320b49101862585.jpg",
+      "md5": "fcfdd407ac1990bec320b49101862585",
+      "size": 712591,
+      "uploadedDate": "2020-12-14T15:28:25.166Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/58dfcd1952ee48c1a1fa31c6ace5fe3d/offer/EGS_TheLongDark_HinterlandStudioInc_S6-1200x1600-3debfeb01e511b9e1221f973b6bb1fe7.jpg",
+      "md5": "3debfeb01e511b9e1221f973b6bb1fe7",
+      "size": 529403,
+      "uploadedDate": "2020-12-14T15:28:36.160Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "f07320a38c7e483fad9f49a2c7f2dff5"
+    }
+  ],
+  "catalogNs": null
+}

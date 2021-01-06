@@ -1,20 +1,20 @@
 {
   "id": "1911ccf15b3d4508a6e195b31eee1372",
   "namespace": "e1055bf1e5654b93a27e19e6bb86cb2a",
-  "title": "SiberianGeneralAudience",
-  "description": "SiberianGeneralAudience",
+  "title": "Tropico 6",
+  "description": "Tropico 6",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
+  "productSlug": "tropico-6/home",
   "urlSlug": "siberiangeneralaudience",
   "creationDate": "2020-05-08T16:35:14.409Z",
-  "lastModifiedDate": "2020-05-08T16:57:21.211Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2021-01-05T14:54:05.597Z",
+  "effectiveDate": "2020-12-23T16:00:00.000Z",
+  "viewableDate": "2020-12-23T16:00:00.000Z",
   "developer": null,
   "seller": {
-    "id": "o-ntj9m7f2v76uksvjujurjfxtjkfawq",
-    "name": "Kalypso Media"
+    "id": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+    "name": "Kalypso Media Group GmbH"
   },
   "linkedOfferId": null,
   "isFeatured": false,
@@ -28,25 +28,175 @@
       "path": "games"
     },
     {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-12-15T01:47:57.916Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-12-15T01:44:09.654Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1146",
+      "name": "CITY BUILDER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:31.235Z",
+      "updated": "2020-12-15T01:49:29.181Z",
+      "status": "ACTIVE",
+      "referenceCount": 9,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-12-15T01:43:50.926Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "14346",
+      "name": "Holiday Sale 2020",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2020-10-21T21:58:03.125Z",
+      "updated": "2020-12-17T16:00:03.195Z",
+      "status": "ACTIVE",
+      "referenceCount": 584,
+      "comment": ""
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-12-15T01:46:50.820Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-12-15T01:43:02.751Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "[]"
     },
     {
       "key": "publisherName",
-      "value": "[]"
+      "value": "Kalypso Media Group GmbH"
     },
     {
       "key": "developerName",
-      "value": "[]"
+      "value": "Limbic Entertainment"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "tropico-6/home"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/offer/EGS_Tropico6_LimbicEntertainment_S3-2560x1440-82bcd83b988a5c3230ff8f191113d9b2.jpg",
+      "md5": "82bcd83b988a5c3230ff8f191113d9b2",
+      "size": 791557,
+      "uploadedDate": "2020-11-16T20:04:36.336Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/offer/EGS_Tropico6_LimbicEntertainment_S2-1200x1600-9dd14a5f6c7120e220dfe8c952f31633.jpg",
+      "md5": "9dd14a5f6c7120e220dfe8c952f31633",
+      "size": 720272,
+      "uploadedDate": "2020-11-16T20:04:45.086Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/offer/EGS_Tropico6_LimbicEntertainment_S3-2560x1440-82bcd83b988a5c3230ff8f191113d9b2.jpg",
+      "md5": "82bcd83b988a5c3230ff8f191113d9b2",
+      "size": 791557,
+      "uploadedDate": "2020-11-16T20:04:53.753Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/offer/EGS_Tropico6_LimbicEntertainment_S2-1200x1600-9dd14a5f6c7120e220dfe8c952f31633.jpg",
+      "md5": "9dd14a5f6c7120e220dfe8c952f31633",
+      "size": 720272,
+      "uploadedDate": "2020-11-16T20:05:02.463Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/offer/EGS_Tropico6_LimbicEntertainment_S2-1200x1600-9dd14a5f6c7120e220dfe8c952f31633.jpg",
+      "md5": "9dd14a5f6c7120e220dfe8c952f31633",
+      "size": 720272,
+      "uploadedDate": "2020-11-16T20:05:11.103Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/offer/EGS_Tropico6_LimbicEntertainment_S2-1200x1600-9dd14a5f6c7120e220dfe8c952f31633.jpg",
+      "md5": "9dd14a5f6c7120e220dfe8c952f31633",
+      "size": 720272,
+      "uploadedDate": "2020-11-16T20:05:20.221Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "22c327586a39448b844b90ea0b3d0231"

@@ -1,16 +1,16 @@
 {
   "id": "f8f9d3387f414d72a90aee4619433177",
   "namespace": "9c39a79dfeb84f98a4bd7c1cac1e4bb3",
-  "title": "LeoGeneralAudience",
-  "description": "LeoGeneralAudience",
+  "title": "Orwell's Animal Farm",
+  "description": "Orwell's Animal Farm",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
+  "productSlug": "orwells-animal-farm",
   "urlSlug": "leogeneralaudience",
   "creationDate": "2020-11-10T20:37:42.208Z",
-  "lastModifiedDate": "2020-12-04T17:03:19.153Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2020-12-10T13:50:00.892Z",
+  "effectiveDate": "2020-12-10T14:00:00.000Z",
+  "viewableDate": "2020-12-10T13:55:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-4vjch4baptvp8ls84kq85l3zjdrgyn",
@@ -28,6 +28,12 @@
       "path": "games"
     },
     {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
       "path": "applications"
     }
   ],
@@ -36,10 +42,10 @@
       "id": "1395",
       "name": "NARRATION",
       "namespace": "epic",
-      "aliases": null,
+      "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:34.825Z",
-      "updated": "2020-09-15T15:53:57.284Z",
+      "updated": "2020-12-15T01:47:46.172Z",
       "status": "ACTIVE",
       "referenceCount": 22,
       "comment": null
@@ -51,7 +57,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-09-16T23:47:27.291Z",
+      "updated": "2020-12-15T01:43:50.926Z",
       "status": "ACTIVE",
       "referenceCount": 195,
       "comment": null
@@ -73,9 +79,9 @@
       "name": "WINDOWS",
       "namespace": "epic",
       "aliases": [],
-      "operator": "kimberly.rodatos",
+      "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-09-16T23:47:27.310Z",
+      "updated": "2020-12-15T01:43:02.751Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -87,9 +93,9 @@
       "aliases": [
         "OSX"
       ],
-      "operator": "kimberly.rodatos",
+      "operator": null,
       "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2020-09-16T23:47:27.346Z",
+      "updated": "2020-12-15T01:43:22.719Z",
       "status": "ACTIVE",
       "referenceCount": 19,
       "comment": null
@@ -98,18 +104,77 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "KR"
     },
     {
       "key": "publisherName",
-      "value": "[]"
+      "value": "The Dairymen"
     },
     {
       "key": "developerName",
-      "value": "[]"
+      "value": "Nerial"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "orwells-animal-farm"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/9c39a79dfeb84f98a4bd7c1cac1e4bb3/offer/EGS_OrwellsAnimalFarm_Nerial_S1-2560x1440-eab98e2b47aae638eed596cc536df64f.jpg",
+      "md5": "eab98e2b47aae638eed596cc536df64f",
+      "size": 202159,
+      "uploadedDate": "2020-12-09T19:21:20.229Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/9c39a79dfeb84f98a4bd7c1cac1e4bb3/offer/EGS_OrwellsAnimalFarm_Nerial_S2-1200x1600-3af38665b5369f7620a5dff4e2efe5ca.jpg",
+      "md5": "3af38665b5369f7620a5dff4e2efe5ca",
+      "size": 129187,
+      "uploadedDate": "2020-12-09T19:21:33.165Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/9c39a79dfeb84f98a4bd7c1cac1e4bb3/offer/EGS_OrwellsAnimalFarm_Nerial_S2-1200x1600-3af38665b5369f7620a5dff4e2efe5ca.jpg",
+      "md5": "3af38665b5369f7620a5dff4e2efe5ca",
+      "size": 129187,
+      "uploadedDate": "2020-12-09T19:21:50.706Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/9c39a79dfeb84f98a4bd7c1cac1e4bb3/offer/EGS_OrwellsAnimalFarm_Nerial_S2-1200x1600-3af38665b5369f7620a5dff4e2efe5ca.jpg",
+      "md5": "3af38665b5369f7620a5dff4e2efe5ca",
+      "size": 129187,
+      "uploadedDate": "2020-12-09T19:22:07.141Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/9c39a79dfeb84f98a4bd7c1cac1e4bb3/offer/EGS_OrwellsAnimalFarm_Nerial_S1-2560x1440-eab98e2b47aae638eed596cc536df64f.jpg",
+      "md5": "eab98e2b47aae638eed596cc536df64f",
+      "size": 202159,
+      "uploadedDate": "2020-12-09T19:22:20.902Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/9c39a79dfeb84f98a4bd7c1cac1e4bb3/offer/EGS_OrwellsAnimalFarm_Nerial_S2-1200x1600-3af38665b5369f7620a5dff4e2efe5ca.jpg",
+      "md5": "3af38665b5369f7620a5dff4e2efe5ca",
+      "size": 129187,
+      "uploadedDate": "2020-12-09T19:22:32.285Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "e5ba0299d5ff4d49a77b1b54c1a64c0b"

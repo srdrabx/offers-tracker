@@ -1,0 +1,178 @@
+{
+  "id": "60e316a2196644e39cbf357b62805068",
+  "namespace": "7d797218225d48ebbca608e9c214cf95",
+  "title": "The Flower Collectors",
+  "description": "The Flower Collectors",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "the-flower-collectors",
+  "urlSlug": "carbongeneralaudience",
+  "creationDate": "2020-12-02T01:08:12.684Z",
+  "lastModifiedDate": "2020-12-18T13:50:37.830Z",
+  "effectiveDate": "2020-12-18T14:00:00.000Z",
+  "viewableDate": "2020-12-18T14:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-3e6wy7snyw5hqy5mdmkjcq7zbx65yf",
+    "name": "Mi'pu'mi Games GmbH"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-12-15T01:43:50.926Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-12-15T01:43:02.751Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-12-15T01:46:19.709Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "1294",
+      "name": "FIRST-PERSON",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:44.596Z",
+      "updated": "2020-12-15T01:47:39.866Z",
+      "status": "ACTIVE",
+      "referenceCount": 24,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-12-15T01:46:42.546Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Mi'pu'mi Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-flower-collectors"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/7d797218225d48ebbca608e9c214cf95/offer/EGS_TheFlowerCollectors_MipumiGames_S1-2560x1440-a3344fa53833ed097862fd0e7bdb402b.jpg",
+      "md5": "a3344fa53833ed097862fd0e7bdb402b",
+      "size": 861829,
+      "uploadedDate": "2020-12-14T20:02:09.616Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/7d797218225d48ebbca608e9c214cf95/offer/EGS_TheFlowerCollectors_MipumiGames_S2-1200x1600-3dda6ba8c93ea312169c377b6685a35a.jpg",
+      "md5": "3dda6ba8c93ea312169c377b6685a35a",
+      "size": 726815,
+      "uploadedDate": "2020-12-14T20:02:16.390Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/7d797218225d48ebbca608e9c214cf95/offer/EGS_TheFlowerCollectors_MipumiGames_S2-1200x1600-3dda6ba8c93ea312169c377b6685a35a.jpg",
+      "md5": "3dda6ba8c93ea312169c377b6685a35a",
+      "size": 726815,
+      "uploadedDate": "2020-12-14T20:02:26.397Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/7d797218225d48ebbca608e9c214cf95/offer/EGS_TheFlowerCollectors_MipumiGames_S2-1200x1600-3dda6ba8c93ea312169c377b6685a35a.jpg",
+      "md5": "3dda6ba8c93ea312169c377b6685a35a",
+      "size": 726815,
+      "uploadedDate": "2020-12-14T20:02:37.134Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/7d797218225d48ebbca608e9c214cf95/offer/EGS_TheFlowerCollectors_MipumiGames_S1-2560x1440-a3344fa53833ed097862fd0e7bdb402b.jpg",
+      "md5": "a3344fa53833ed097862fd0e7bdb402b",
+      "size": 861829,
+      "uploadedDate": "2020-12-14T20:02:51.011Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/7d797218225d48ebbca608e9c214cf95/offer/EGS_TheFlowerCollectors_MipumiGames_S2-1200x1600-3dda6ba8c93ea312169c377b6685a35a.jpg",
+      "md5": "3dda6ba8c93ea312169c377b6685a35a",
+      "size": 726815,
+      "uploadedDate": "2020-12-14T20:03:00.054Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "c06f07608702467da20eb97172edd82b"
+    }
+  ],
+  "catalogNs": null
+}

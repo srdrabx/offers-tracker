@@ -1,0 +1,127 @@
+{
+  "id": "d3c6163b13fa43149acf02291bc7fc49",
+  "namespace": "e1055bf1e5654b93a27e19e6bb86cb2a",
+  "title": "Lobbyistico",
+  "description": "What do the European Union and corruption have in common? Nothing of course, since the EU is as pure as a drop of the finest Tropican rum. \nJoin the EU in their investigations into corruptionomics in Lobbyistico for Tropico 6.",
+  "longDescription": "What do the European Union and corruption have in common? Nothing of course, since the EU is as pure as a drop of the finest Tropican rum. \nJoin the EU in their investigations into corruptionomics in Lobbyistico for Tropico 6.\n\n# Features\n\n- New corruption gameplay mechanic: Use lobby work to gain access to new perks to boost your economy and manipulate your faction standings.\n- 3 new buildings: El Presidente Club, Corruption Agency, Official Residence\n- 2 new traits: Polarizing, All for the Folk\n- 3 new tracks\n- 4 new customization options for El Prez and the palace",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "tropico-6--lobbyistico",
+  "creationDate": "2020-06-29T14:02:04.109Z",
+  "lastModifiedDate": "2020-12-16T17:10:05.337Z",
+  "effectiveDate": "2020-12-23T16:00:00.000Z",
+  "viewableDate": "2020-12-23T16:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+    "name": "Kalypso Media Group GmbH"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "14346",
+      "name": "Holiday Sale 2020",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2020-10-21T21:58:03.125Z",
+      "updated": "2020-12-17T16:00:03.195Z",
+      "status": "ACTIVE",
+      "referenceCount": 584,
+      "comment": ""
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Kalypso Media Group GmbH"
+    },
+    {
+      "key": "developerName",
+      "value": "Limbic Entertainment"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/offer/EGS_Lobbyistico_LimbicEntertainment_DLC_S1-2560x1440-5c3626de735dab9939afab2aeb768cfd.jpg",
+      "md5": "5c3626de735dab9939afab2aeb768cfd",
+      "size": 852593,
+      "uploadedDate": "2020-11-16T20:31:28.707Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/offer/EGS_Lobbyistico_LimbicEntertainment_DLC_S2-1200x1600-05a54dc41b1e7fba4b37f3aeb147eda8.jpg",
+      "md5": "05a54dc41b1e7fba4b37f3aeb147eda8",
+      "size": 691552,
+      "uploadedDate": "2020-11-16T20:31:34.765Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/offer/EGS_Lobbyistico_LimbicEntertainment_DLC_S1-2560x1440-5c3626de735dab9939afab2aeb768cfd.jpg",
+      "md5": "5c3626de735dab9939afab2aeb768cfd",
+      "size": 852593,
+      "uploadedDate": "2020-11-16T20:31:41.548Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/offer/EGS_Lobbyistico_LimbicEntertainment_DLC_S2-1200x1600-05a54dc41b1e7fba4b37f3aeb147eda8.jpg",
+      "md5": "05a54dc41b1e7fba4b37f3aeb147eda8",
+      "size": 691552,
+      "uploadedDate": "2020-11-16T20:31:47.846Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/offer/EGS_Lobbyistico_LimbicEntertainment_DLC_S2-1200x1600-05a54dc41b1e7fba4b37f3aeb147eda8.jpg",
+      "md5": "05a54dc41b1e7fba4b37f3aeb147eda8",
+      "size": 691552,
+      "uploadedDate": "2020-11-16T20:31:54.389Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/offer/EGS_Lobbyistico_LimbicEntertainment_DLC_S2-1200x1600-05a54dc41b1e7fba4b37f3aeb147eda8.jpg",
+      "md5": "05a54dc41b1e7fba4b37f3aeb147eda8",
+      "size": 691552,
+      "uploadedDate": "2020-11-16T20:32:03.897Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "16f0de99a5a34dcba00cc0d584ed88cd"
+    }
+  ],
+  "catalogNs": null
+}

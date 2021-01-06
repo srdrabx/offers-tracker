@@ -1,0 +1,56 @@
+{
+  "id": "2fecb1793ce446408cd869611400a797",
+  "namespace": "2ed7ed64d8604265924b85bbd5670220",
+  "title": "CastleGeneralAudience",
+  "description": "CastleGeneralAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "castlegeneralaudience",
+  "creationDate": "2020-12-10T17:28:05.206Z",
+  "lastModifiedDate": "2020-12-10T17:41:04.409Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-q5rkzbndnbcwu6t6gbs59pxydk6jn8",
+    "name": "Headup Gmbh"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "ce4d4de192a14585bc0979fefd858ec6"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,20 +1,20 @@
 {
   "id": "7750a413c93741049eb06af4039fc98c",
   "namespace": "33956bcb55d4452d8c47e16b94e294bd",
-  "title": "Talons DLC 07",
-  "description": "Talons DLC 07",
-  "longDescription": null,
+  "title": "Among Us - Stickmin Pet Bundle",
+  "description": "Includes Henry and Ellie! (Only one pet can be equipped at a time).\nThis content requires the base game Among Us in order to play.",
+  "longDescription": "Henry?! What choices could have gotten you here?\nEllie got pulled into this as well?!\nIncludes Henry and Ellie! (Only one pet can be equipped at a time)\nSupport Among Us servers and Innersloth!",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "talonsdlc07",
+  "urlSlug": "among-us--stickmin-pet-bundle",
   "creationDate": "2020-12-01T02:43:59.622Z",
-  "lastModifiedDate": "2020-12-01T03:15:35.354Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2020-12-18T15:27:27.003Z",
+  "effectiveDate": "2020-12-18T17:00:00.000Z",
+  "viewableDate": "2020-12-18T17:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-pngf6jdggxr2b393zxwxev9yjyym44",
-    "name": "Talons"
+    "name": "Innersloth"
   },
   "linkedOfferId": null,
   "isFeatured": false,
@@ -28,9 +28,6 @@
       "path": "addons"
     },
     {
-      "path": "games"
-    },
-    {
       "path": "addons/durable"
     },
     {
@@ -41,18 +38,73 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "KR"
     },
     {
       "key": "publisherName",
-      "value": "[]"
+      "value": "Innersloth"
     },
     {
       "key": "developerName",
-      "value": "[]"
+      "value": "Innersloth"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/33956bcb55d4452d8c47e16b94e294bd/offer/EGS_AmongUsStickminPetBundle_Innersloth_DLC_S1-2560x1440-a1d4ff27d88e2359c94fb060a4729129.jpg",
+      "md5": "a1d4ff27d88e2359c94fb060a4729129",
+      "size": 748504,
+      "uploadedDate": "2020-12-06T07:13:20.049Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/33956bcb55d4452d8c47e16b94e294bd/offer/EGS_AmongUsStickminPetBundle_Innersloth_DLC_S2-1200x1600-86bdb5b9c5bb07ee1bd00cbdf4b67197.jpg",
+      "md5": "86bdb5b9c5bb07ee1bd00cbdf4b67197",
+      "size": 425917,
+      "uploadedDate": "2020-12-06T07:13:27.044Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/33956bcb55d4452d8c47e16b94e294bd/offer/EGS_AmongUsStickminPetBundle_Innersloth_DLC_S2-1200x1600-86bdb5b9c5bb07ee1bd00cbdf4b67197.jpg",
+      "md5": "86bdb5b9c5bb07ee1bd00cbdf4b67197",
+      "size": 425917,
+      "uploadedDate": "2020-12-06T07:13:35.510Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/33956bcb55d4452d8c47e16b94e294bd/offer/EGS_AmongUsStickminPetBundle_Innersloth_DLC_S2-1200x1600-86bdb5b9c5bb07ee1bd00cbdf4b67197.jpg",
+      "md5": "86bdb5b9c5bb07ee1bd00cbdf4b67197",
+      "size": 425917,
+      "uploadedDate": "2020-12-06T07:13:41.350Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/33956bcb55d4452d8c47e16b94e294bd/offer/EGS_AmongUsStickminPetBundle_Innersloth_DLC_S1-2560x1440-a1d4ff27d88e2359c94fb060a4729129.jpg",
+      "md5": "a1d4ff27d88e2359c94fb060a4729129",
+      "size": 748504,
+      "uploadedDate": "2020-12-06T07:13:49.624Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/33956bcb55d4452d8c47e16b94e294bd/offer/EGS_AmongUsStickminPetBundle_Innersloth_DLC_S2-1200x1600-86bdb5b9c5bb07ee1bd00cbdf4b67197.jpg",
+      "md5": "86bdb5b9c5bb07ee1bd00cbdf4b67197",
+      "size": 425917,
+      "uploadedDate": "2020-12-06T07:13:57.083Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "dd8475b63ca54472ada0a43609cc0722"

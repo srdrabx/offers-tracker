@@ -1,16 +1,16 @@
 {
   "id": "74042ef0d55040898146f5efefe823a9",
   "namespace": "df37f065c3f14eadbf011177396e2966",
-  "title": "AI_Release_DLC_6_SurvivorGeneralAudience",
-  "description": "AI_Release_DLC_6_SurvivorGeneralAudience",
-  "longDescription": null,
+  "title": "Alien: Isolation - Last Survivor",
+  "description": "As Ellen Ripley, it is down to you to complete the last mission on board the Nostromo. The rest of the crew are dead. In a desperate bid to survive you must set the ship’s self-destruct and attempt to reach the escape shuttle.",
+  "longDescription": "Players find themselves in an atmosphere of constant dread and mortal danger as an unpredictable, ruthless Xenomorph is stalking and killing deep in the shadows. Underpowered and underprepared, you must scavenge resources, improvise solutions and use your wits, not just to succeed in your mission, but to simply stay alive.",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "ai-release-dlc-6-survivorgeneralaudience",
+  "urlSlug": "alien-isolation--last-survivor",
   "creationDate": "2020-10-26T17:26:26.252Z",
-  "lastModifiedDate": "2020-10-28T01:32:18.870Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2020-12-18T16:36:49.365Z",
+  "effectiveDate": "2020-12-21T16:00:00.000Z",
+  "viewableDate": "2020-12-21T16:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
@@ -25,28 +25,99 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
     },
     {
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "14346",
+      "name": "Holiday Sale 2020",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2020-10-21T21:58:03.125Z",
+      "updated": "2020-12-17T16:00:03.195Z",
+      "status": "ACTIVE",
+      "referenceCount": 584,
+      "comment": ""
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "[]"
     },
     {
       "key": "publisherName",
-      "value": "[]"
+      "value": "SEGA"
     },
     {
       "key": "developerName",
-      "value": "[]"
+      "value": "Creative Assembly"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/offer/lastsurvivorDLC-1920x1080-a36c5e770bb86cd053e367fc9481e4a4.jfif",
+      "md5": "a36c5e770bb86cd053e367fc9481e4a4",
+      "size": 691935,
+      "uploadedDate": "2020-12-11T04:42:15.809Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/offer/lastsurvivorDLC-1920x1080-a36c5e770bb86cd053e367fc9481e4a4.jfif",
+      "md5": "a36c5e770bb86cd053e367fc9481e4a4",
+      "size": 691935,
+      "uploadedDate": "2020-12-11T04:42:27.841Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/offer/lastsurvivorDLCportrait-1200x1600-57f20e1b258655491ac6a4564f48774c.jfif",
+      "md5": "57f20e1b258655491ac6a4564f48774c",
+      "size": 694878,
+      "uploadedDate": "2020-12-17T16:36:07.473Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/offer/lastsurvivorDLCportrait-1200x1600-57f20e1b258655491ac6a4564f48774c.jfif",
+      "md5": "57f20e1b258655491ac6a4564f48774c",
+      "size": 694878,
+      "uploadedDate": "2020-12-17T16:36:17.766Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/offer/lastsurvivorDLCportrait-1200x1600-57f20e1b258655491ac6a4564f48774c.jfif",
+      "md5": "57f20e1b258655491ac6a4564f48774c",
+      "size": 694878,
+      "uploadedDate": "2020-12-17T16:36:29.434Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/offer/lastsurvivorDLCportrait-1200x1600-57f20e1b258655491ac6a4564f48774c.jfif",
+      "md5": "57f20e1b258655491ac6a4564f48774c",
+      "size": 694878,
+      "uploadedDate": "2020-12-17T16:36:43.590Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "6d37be6e00654841ba782ace636e081c"

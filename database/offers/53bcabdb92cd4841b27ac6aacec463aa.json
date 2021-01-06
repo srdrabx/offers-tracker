@@ -1,0 +1,70 @@
+{
+  "id": "53bcabdb92cd4841b27ac6aacec463aa",
+  "namespace": "newt",
+  "title": "RMT Rogue",
+  "description": "RMT Rogue",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "spellbreak/warlock-chapter-pack",
+  "urlSlug": "spellbreak--warlock-pack-01",
+  "creationDate": "2020-12-17T13:17:42.302Z",
+  "lastModifiedDate": "2020-12-17T13:18:58.466Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": "2020-12-15T15:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+    "name": "Proletariat, Inc."
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Proletariat, Inc."
+    },
+    {
+      "key": "developerName",
+      "value": "Proletariat, Inc."
+    },
+    {
+      "key": "SupportedPlatforms",
+      "value": "Windows"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "spellbreak/warlock-chapter-pack"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/newt/item/ESRB_Spellbreak-842x404-fce4fa7233ed80170a8e36079d1e1bde.png",
+      "md5": "fce4fa7233ed80170a8e36079d1e1bde",
+      "size": 51194,
+      "uploadedDate": "2019-04-23T19:23:19.054Z",
+      "width": 842,
+      "height": 404
+    }
+  ],
+  "items": [
+    {
+      "id": "1232cf3e3d82481eb95e6b61c8ff01e3"
+    }
+  ],
+  "catalogNs": null
+}

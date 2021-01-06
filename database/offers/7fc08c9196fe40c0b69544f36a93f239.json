@@ -1,0 +1,163 @@
+{
+  "id": "7fc08c9196fe40c0b69544f36a93f239",
+  "namespace": "21916c391ae4425d8f6cce2382aebd0c",
+  "title": "Darkest Dungeon®: The Ancestral Edition",
+  "description": "Darkest Dungeon®: The Ancestral Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "darkest-dungeon--ancestral-edition",
+  "creationDate": "2020-12-16T02:18:09.559Z",
+  "lastModifiedDate": "2020-12-25T15:12:16.016Z",
+  "effectiveDate": "2020-12-25T16:00:00.000Z",
+  "viewableDate": "2020-12-25T16:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-w5yb6awebxmp362nvut3qd3xb4jmur",
+    "name": "Red Hook Studios"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-12-15T01:46:33.012Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1386",
+      "name": "TURN-BASED",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:30.372Z",
+      "updated": "2020-12-15T01:49:00.686Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-12-15T01:46:50.820Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-12-15T01:43:02.751Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Red Hook Studios"
+    },
+    {
+      "key": "developerName",
+      "value": "Red Hook Studios"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/21916c391ae4425d8f6cce2382aebd0c/offer/EGS_DarkestDungeonTheAncestralEdition_RedHookStudios_Bundles_S1-2560x1440-67dda05801d46a4abffa40b102bae573.jpg",
+      "md5": "67dda05801d46a4abffa40b102bae573",
+      "size": 992634,
+      "uploadedDate": "2020-12-16T05:58:12.512Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/21916c391ae4425d8f6cce2382aebd0c/offer/EGS_DarkestDungeonTheAncestralEdition_RedHookStudios_Bundles_S2-1200x1600-23a3168329f883048dd2907765d778d0.jpg",
+      "md5": "23a3168329f883048dd2907765d778d0",
+      "size": 686481,
+      "uploadedDate": "2020-12-16T05:58:17.760Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/21916c391ae4425d8f6cce2382aebd0c/offer/EGS_DarkestDungeonTheAncestralEdition_RedHookStudios_Bundles_S2-1200x1600-23a3168329f883048dd2907765d778d0.jpg",
+      "md5": "23a3168329f883048dd2907765d778d0",
+      "size": 686481,
+      "uploadedDate": "2020-12-16T05:58:24.460Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/21916c391ae4425d8f6cce2382aebd0c/offer/EGS_DarkestDungeonTheAncestralEdition_RedHookStudios_Bundles_S2-1200x1600-23a3168329f883048dd2907765d778d0.jpg",
+      "md5": "23a3168329f883048dd2907765d778d0",
+      "size": 686481,
+      "uploadedDate": "2020-12-16T05:58:36.699Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/21916c391ae4425d8f6cce2382aebd0c/offer/EGS_DarkestDungeonTheAncestralEdition_RedHookStudios_Bundles_S1-2560x1440-67dda05801d46a4abffa40b102bae573.jpg",
+      "md5": "67dda05801d46a4abffa40b102bae573",
+      "size": 992634,
+      "uploadedDate": "2020-12-16T05:58:42.081Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/21916c391ae4425d8f6cce2382aebd0c/offer/EGS_DarkestDungeonTheAncestralEdition_RedHookStudios_Bundles_S2-1200x1600-23a3168329f883048dd2907765d778d0.jpg",
+      "md5": "23a3168329f883048dd2907765d778d0",
+      "size": 686481,
+      "uploadedDate": "2020-12-16T05:58:46.929Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "59555b7cf439459f88e3a6d97de5fc50"
+    }
+  ],
+  "catalogNs": null
+}

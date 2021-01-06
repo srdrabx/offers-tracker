@@ -1,0 +1,182 @@
+{
+  "id": "32bb24ce7e564ddaac76a4a41d7efc1d",
+  "namespace": "92e8ff0ca9bb421c831dc0f6fc8ef54d",
+  "title": "Calico",
+  "description": "Calico",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "calico",
+  "urlSlug": "neongeneralaudience",
+  "creationDate": "2020-11-09T20:03:34.843Z",
+  "lastModifiedDate": "2020-12-15T18:00:52.320Z",
+  "effectiveDate": "2020-12-15T18:00:00.000Z",
+  "viewableDate": "2020-12-15T18:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-v7c8xq9bmhtqhakulz7lrptnz8b628",
+    "name": "White Thorn Digital"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1296",
+      "name": "CASUAL",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:45.644Z",
+      "updated": "2020-12-15T01:48:06.235Z",
+      "status": "ACTIVE",
+      "referenceCount": 18,
+      "comment": null
+    },
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-12-15T01:47:57.916Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-12-15T01:43:50.926Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "OPEN WORLD",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2020-12-15T01:46:59.402Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-12-15T01:43:02.751Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Whitethorn Games"
+    },
+    {
+      "key": "developerName",
+      "value": "Peachy Keen Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "calico"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/92e8ff0ca9bb421c831dc0f6fc8ef54d/offer/EGS_Calico_PeachyKeenGames_S3-2560x1440-a0eb5f555609df2a241bd6f742477264.jpg",
+      "md5": "a0eb5f555609df2a241bd6f742477264",
+      "size": 825955,
+      "uploadedDate": "2020-11-16T19:58:52.028Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/92e8ff0ca9bb421c831dc0f6fc8ef54d/offer/EGS_Calico_PeachyKeenGames_S4-1200x1600-fea0c48d6e8df8f29b11566214ef7000.jpg",
+      "md5": "fea0c48d6e8df8f29b11566214ef7000",
+      "size": 520076,
+      "uploadedDate": "2020-11-16T19:59:00.343Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/92e8ff0ca9bb421c831dc0f6fc8ef54d/offer/EGS_Calico_PeachyKeenGames_S4-1200x1600-fea0c48d6e8df8f29b11566214ef7000.jpg",
+      "md5": "fea0c48d6e8df8f29b11566214ef7000",
+      "size": 520076,
+      "uploadedDate": "2020-11-16T19:59:09.482Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/92e8ff0ca9bb421c831dc0f6fc8ef54d/offer/EGS_Calico_PeachyKeenGames_S4-1200x1600-fea0c48d6e8df8f29b11566214ef7000.jpg",
+      "md5": "fea0c48d6e8df8f29b11566214ef7000",
+      "size": 520076,
+      "uploadedDate": "2020-11-16T19:59:16.950Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/92e8ff0ca9bb421c831dc0f6fc8ef54d/offer/EGS_Calico_PeachyKeenGames_S1-2560x1440-99c6db258a2d932e9d1b462501f2c9e1.jpg",
+      "md5": "99c6db258a2d932e9d1b462501f2c9e1",
+      "size": 878591,
+      "uploadedDate": "2020-11-16T19:59:27.802Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/92e8ff0ca9bb421c831dc0f6fc8ef54d/offer/EGS_Calico_PeachyKeenGames_S2-1200x1600-78c3c675ef96e0f7f80e2d9484d3b79b.jpg",
+      "md5": "78c3c675ef96e0f7f80e2d9484d3b79b",
+      "size": 436364,
+      "uploadedDate": "2020-11-16T19:59:36.859Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "324e3bdaab524b699d19ebd5178b21fb"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,20 +1,20 @@
 {
   "id": "ab9fd48efe0d4cd5beec7dbe83495112",
   "namespace": "33956bcb55d4452d8c47e16b94e294bd",
-  "title": "Talons DLC 05",
-  "description": "Talons DLC 05",
-  "longDescription": null,
+  "title": "Among Us - Mini Crewmate  Bundle",
+  "description": "Includes the Mini Crewmate and Robot! (Only one pet can be equipped at a time). This content requires the base game Among Us in order to play.",
+  "longDescription": "A mini you!\nA robotic friend?\nIncludes the Mini Crewmate and Robot! (Only one pet can be equipped at a time).\nSupport Among Us servers and Innersloth!",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "talonsdlc05",
+  "urlSlug": "among-us--mini-crewmate-bundle",
   "creationDate": "2020-12-01T02:42:50.577Z",
-  "lastModifiedDate": "2020-12-01T03:15:35.317Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2020-12-18T15:27:26.971Z",
+  "effectiveDate": "2020-12-18T17:00:00.000Z",
+  "viewableDate": "2020-12-18T17:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-pngf6jdggxr2b393zxwxev9yjyym44",
-    "name": "Talons"
+    "name": "Innersloth"
   },
   "linkedOfferId": null,
   "isFeatured": false,
@@ -28,9 +28,6 @@
       "path": "addons"
     },
     {
-      "path": "games"
-    },
-    {
       "path": "addons/durable"
     },
     {
@@ -41,18 +38,73 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "KR"
     },
     {
       "key": "publisherName",
-      "value": "[]"
+      "value": "Innersloth"
     },
     {
       "key": "developerName",
-      "value": "[]"
+      "value": "Innersloth"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/33956bcb55d4452d8c47e16b94e294bd/offer/EGS_AmongUsMiniCrewmateBundle_Innersloth_DLC_S1-2560x1440-f3b65744d82caaf9840b92dd68ac45f4.jpg",
+      "md5": "f3b65744d82caaf9840b92dd68ac45f4",
+      "size": 752322,
+      "uploadedDate": "2020-12-06T07:07:12.223Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/33956bcb55d4452d8c47e16b94e294bd/offer/EGS_AmongUsMiniCrewmateBundle_Innersloth_DLC_S2-1200x1600-ad5e2e0919e2a1d8a8df5a7857c68894.jpg",
+      "md5": "ad5e2e0919e2a1d8a8df5a7857c68894",
+      "size": 435202,
+      "uploadedDate": "2020-12-06T07:07:18.303Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/33956bcb55d4452d8c47e16b94e294bd/offer/EGS_AmongUsMiniCrewmateBundle_Innersloth_DLC_S2-1200x1600-ad5e2e0919e2a1d8a8df5a7857c68894.jpg",
+      "md5": "ad5e2e0919e2a1d8a8df5a7857c68894",
+      "size": 435202,
+      "uploadedDate": "2020-12-06T07:07:26.448Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/33956bcb55d4452d8c47e16b94e294bd/offer/EGS_AmongUsMiniCrewmateBundle_Innersloth_DLC_S2-1200x1600-ad5e2e0919e2a1d8a8df5a7857c68894.jpg",
+      "md5": "ad5e2e0919e2a1d8a8df5a7857c68894",
+      "size": 435202,
+      "uploadedDate": "2020-12-06T07:07:32.810Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/33956bcb55d4452d8c47e16b94e294bd/offer/EGS_AmongUsMiniCrewmateBundle_Innersloth_DLC_S1-2560x1440-f3b65744d82caaf9840b92dd68ac45f4.jpg",
+      "md5": "f3b65744d82caaf9840b92dd68ac45f4",
+      "size": 752322,
+      "uploadedDate": "2020-12-06T07:07:42.311Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/33956bcb55d4452d8c47e16b94e294bd/offer/EGS_AmongUsMiniCrewmateBundle_Innersloth_DLC_S2-1200x1600-ad5e2e0919e2a1d8a8df5a7857c68894.jpg",
+      "md5": "ad5e2e0919e2a1d8a8df5a7857c68894",
+      "size": 435202,
+      "uploadedDate": "2020-12-06T07:07:50.631Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "eec9467b99b14e69be5e0b2f76b2922c"

@@ -1,0 +1,175 @@
+{
+  "id": "a57e0820ce5645c4a207fe49d2f9f99c",
+  "namespace": "6009be9994c2409099588cde6f3a5ed0",
+  "title": "Cities: Skylines - Rock City Radio",
+  "description": "Do you wish your commute was more headbanging and less banging your head on the steering wheel? Are all of the suburbs you have designed best described as 'rockin''? Cities: Skylines has the tunes you've been waiting for!",
+  "longDescription": "Do you wish your commute was more headbanging and less banging your head on the steering wheel? Are all of the suburbs you have designed best described as 'rockin''? Cities: Skylines has the tunes you've been waiting for! The new rock radio station takes the mute out of your commute with everything from grunge and classic rock to sleaze rock and metal. Rock Radio is the perfect soundtrack to build your own Detroit Rock City - just try not to trash your hotel rooms too much!",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "cities-skylines--rock-city-radio",
+  "creationDate": "2020-11-04T01:17:07.491Z",
+  "lastModifiedDate": "2020-12-17T15:25:00.611Z",
+  "effectiveDate": "2020-12-17T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+    "name": "Paradox Interactive"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-12-15T01:47:57.916Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1146",
+      "name": "CITY BUILDER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:31.235Z",
+      "updated": "2020-12-15T01:49:29.181Z",
+      "status": "ACTIVE",
+      "referenceCount": 9,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-12-15T01:43:50.926Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "14346",
+      "name": "Holiday Sale 2020",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2020-10-21T21:58:03.125Z",
+      "updated": "2020-12-17T16:00:03.195Z",
+      "status": "ACTIVE",
+      "referenceCount": 584,
+      "comment": ""
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-12-15T01:43:02.751Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Paradox Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Colossal Order"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylinesRockCityRadio_ColossalOrder_DLC_S1-2560x1440-607a517d133a5e7a8f2e3af8d8280d0d.jpg",
+      "md5": "607a517d133a5e7a8f2e3af8d8280d0d",
+      "size": 863589,
+      "uploadedDate": "2020-12-02T08:43:28.320Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylinesRockCityRadio_ColossalOrder_DLC_S2-1200x1600-05654321afe6248f8729a651492be40e.jpg",
+      "md5": "05654321afe6248f8729a651492be40e",
+      "size": 561627,
+      "uploadedDate": "2020-12-02T08:43:38.498Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylinesRockCityRadio_ColossalOrder_DLC_S2-1200x1600-05654321afe6248f8729a651492be40e.jpg",
+      "md5": "05654321afe6248f8729a651492be40e",
+      "size": 561627,
+      "uploadedDate": "2020-12-02T08:43:50.419Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylinesRockCityRadio_ColossalOrder_DLC_S2-1200x1600-05654321afe6248f8729a651492be40e.jpg",
+      "md5": "05654321afe6248f8729a651492be40e",
+      "size": 561627,
+      "uploadedDate": "2020-12-02T08:44:02.853Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylinesRockCityRadio_ColossalOrder_DLC_S2-1200x1600-05654321afe6248f8729a651492be40e.jpg",
+      "md5": "05654321afe6248f8729a651492be40e",
+      "size": 561627,
+      "uploadedDate": "2020-12-02T08:44:18.270Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylinesRockCityRadio_ColossalOrder_DLC_S1-2560x1440-607a517d133a5e7a8f2e3af8d8280d0d.jpg",
+      "md5": "607a517d133a5e7a8f2e3af8d8280d0d",
+      "size": 863589,
+      "uploadedDate": "2020-12-02T08:44:32.891Z",
+      "width": 2560,
+      "height": 1440
+    }
+  ],
+  "items": [
+    {
+      "id": "767280209dd04165ba89acb27bfe2f73"
+    }
+  ],
+  "catalogNs": null
+}

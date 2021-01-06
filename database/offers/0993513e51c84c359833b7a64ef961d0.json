@@ -1,0 +1,199 @@
+{
+  "id": "0993513e51c84c359833b7a64ef961d0",
+  "namespace": "7015c51a49be4592b5ba3ae2577723c5",
+  "title": "Tropico 5 - Inquisition",
+  "description": "On the beautiful island of Tropico, it never rains; El Presidente insists on it. So when the clouds roll in and the rain starts to fall you know something is on the way.",
+  "longDescription": "# About\n\nOn the beautiful island of Tropico, it never rains; El Presidente insists on it. So when the clouds roll in and the rain starts to fall you know something is on the way. Rumours are that a group of citizens have united to form a mysterious cult and have placed a curse over Tropico. A new supernatural authority is looking to seize power and you, as El Presidente, need some divine assistance to lift the curse. Enter, the Inquisition.\n\nBring the special services provided by the Inquisition to Tropico and keep them in good favour by building them a new HQ from which to bring down the cultists and their supernatural wrongdoings. But don’t let them have too much power. Make sure you remind them that only you, El Presidente, is the one true ruler of Tropico. Only through your careful management can you guarantee that Tropico returns to the island paradise it was before.\n\n# Features\n\n- New standalone scenario: “Tropican Redemption“ – Banish the cultists from your island and lift Tropico from its curse\n- New building: Inquisition – Spy on factions and unmask the roles of each faction member\n- New dynasty avatar accessory: Inquisitor’s hat\n- New sandbox map: Isla del Rey\n- New music track and additional voice recordings",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "tropico-5--inquisition",
+  "creationDate": "2020-11-16T18:18:04.970Z",
+  "lastModifiedDate": "2020-12-16T18:21:42.909Z",
+  "effectiveDate": "2020-12-23T16:00:00.000Z",
+  "viewableDate": "2020-12-23T16:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+    "name": "Kalypso Media Group GmbH"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-12-15T01:47:57.916Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-12-15T01:44:09.654Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-12-15T01:46:33.012Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-12-15T01:43:50.926Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "14346",
+      "name": "Holiday Sale 2020",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2020-10-21T21:58:03.125Z",
+      "updated": "2020-12-17T16:00:03.195Z",
+      "status": "ACTIVE",
+      "referenceCount": 584,
+      "comment": ""
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-12-15T01:46:50.820Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-12-15T01:43:02.751Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Kalypso Media Group GmbH"
+    },
+    {
+      "key": "developerName",
+      "value": "Haemimont Games"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/offer/EGS_Inquisition_HaemimontGames_DLC_S1-2560x1440-3c93c62b5257fae0044c0a7c14f5d41c.jpg",
+      "md5": "3c93c62b5257fae0044c0a7c14f5d41c",
+      "size": 963233,
+      "uploadedDate": "2020-11-16T18:19:45.522Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/offer/EGS_Inquisition_HaemimontGames_DLC_S2-1200x1600-522f031582747d074df3144621302180.jpg",
+      "md5": "522f031582747d074df3144621302180",
+      "size": 956034,
+      "uploadedDate": "2020-11-16T18:19:51.887Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/offer/EGS_Inquisition_HaemimontGames_DLC_S1-2560x1440-3c93c62b5257fae0044c0a7c14f5d41c.jpg",
+      "md5": "3c93c62b5257fae0044c0a7c14f5d41c",
+      "size": 963233,
+      "uploadedDate": "2020-11-16T18:19:59.236Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/offer/EGS_Inquisition_HaemimontGames_DLC_S2-1200x1600-522f031582747d074df3144621302180.jpg",
+      "md5": "522f031582747d074df3144621302180",
+      "size": 956034,
+      "uploadedDate": "2020-11-16T18:20:05.813Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/offer/EGS_Inquisition_HaemimontGames_DLC_S2-1200x1600-522f031582747d074df3144621302180.jpg",
+      "md5": "522f031582747d074df3144621302180",
+      "size": 956034,
+      "uploadedDate": "2020-11-16T18:20:12.602Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/offer/EGS_Inquisition_HaemimontGames_DLC_S2-1200x1600-522f031582747d074df3144621302180.jpg",
+      "md5": "522f031582747d074df3144621302180",
+      "size": 956034,
+      "uploadedDate": "2020-11-16T18:20:19.629Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "79f22cf6b958483bb483f676d653559f"
+    }
+  ],
+  "catalogNs": null
+}

@@ -8,7 +8,7 @@
   "productSlug": "smite/season-pass-2020",
   "urlSlug": "smite--season-pass",
   "creationDate": "2020-02-18T02:41:12.754Z",
-  "lastModifiedDate": "2020-08-05T01:04:36.943Z",
+  "lastModifiedDate": "2020-12-15T12:24:45.102Z",
   "effectiveDate": "2020-04-28T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -28,16 +28,26 @@
       "path": "addons"
     },
     {
-      "path": "games"
-    },
-    {
       "path": "addons/durable"
     },
     {
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "14346",
+      "name": "Holiday Sale 2020",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2020-10-21T21:58:03.125Z",
+      "updated": "2020-12-17T16:00:03.195Z",
+      "status": "ACTIVE",
+      "referenceCount": 584,
+      "comment": ""
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -59,30 +69,57 @@
   "keyImages": [
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite_EGS_SeasonPass_860x1148-860x1148-9d13f76d95f235912efc2b3a866d45c5.jpg",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite_EGS_SeasonPass_860x1148-860x1148-9d13f76d95f235912efc2b3a866d45c5-860x1148-9d13f76d95f235912efc2b3a866d45c5.jpg",
       "md5": "9d13f76d95f235912efc2b3a866d45c5",
       "size": 343909,
-      "uploadedDate": "2020-04-09T02:32:03.512Z",
+      "uploadedDate": "2020-12-15T12:10:56.920Z",
       "width": 860,
       "height": 1148
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite_EGS_SeasonPass_2560x1440-2560x1440-157ccc1e2665ea9717eea375093eb054.jpg",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite_EGS_SeasonPass_2560x1440-2560x1440-157ccc1e2665ea9717eea375093eb054-2560x1440-157ccc1e2665ea9717eea375093eb054.jpg",
       "md5": "157ccc1e2665ea9717eea375093eb054",
       "size": 758296,
-      "uploadedDate": "2020-04-09T02:32:14.706Z",
+      "uploadedDate": "2020-12-15T12:11:06.488Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite_EGS_SeasonPass_860x1148-860x1148-9d13f76d95f235912efc2b3a866d45c5.jpg",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite_EGS_SeasonPass_860x1148-860x1148-9d13f76d95f235912efc2b3a866d45c5-860x1148-9d13f76d95f235912efc2b3a866d45c5.jpg",
       "md5": "9d13f76d95f235912efc2b3a866d45c5",
       "size": 343909,
-      "uploadedDate": "2020-04-09T02:32:24.944Z",
+      "uploadedDate": "2020-12-15T12:11:20.735Z",
       "width": 860,
       "height": 1148
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite_EGS_SeasonPass_860x1148-860x1148-9d13f76d95f235912efc2b3a866d45c5-860x1148-9d13f76d95f235912efc2b3a866d45c5.jpg",
+      "md5": "9d13f76d95f235912efc2b3a866d45c5",
+      "size": 343909,
+      "uploadedDate": "2020-12-15T12:11:33.215Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite_EGS_SeasonPass_860x1148-860x1148-9d13f76d95f235912efc2b3a866d45c5-860x1148-9d13f76d95f235912efc2b3a866d45c5.jpg",
+      "md5": "9d13f76d95f235912efc2b3a866d45c5",
+      "size": 343909,
+      "uploadedDate": "2020-12-15T12:11:50.236Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite_EGS_SeasonPass_2560x1440-2560x1440-157ccc1e2665ea9717eea375093eb054-2560x1440-157ccc1e2665ea9717eea375093eb054.jpg",
+      "md5": "157ccc1e2665ea9717eea375093eb054",
+      "size": 758296,
+      "uploadedDate": "2020-12-15T12:12:01.706Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
   "items": [

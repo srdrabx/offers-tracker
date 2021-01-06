@@ -1,0 +1,199 @@
+{
+  "id": "1cada26e0996498897e9ceed000c8fa1",
+  "namespace": "7015c51a49be4592b5ba3ae2577723c5",
+  "title": "Tropico 5 - T-Day",
+  "description": "There’s no business like show business! In his infinite wisdom, El Presidente has decided that our beloved island of Tropico is to be the leading cultural influence on the world stage.",
+  "longDescription": "# About\n\nThere’s no business like show business! In his infinite wisdom, El Presidente has decided that our beloved island of Tropico is to be the leading cultural influence on the world stage. To do this, you will produce a blockbuster movie which outclasses every other Hollywood production in existence and sets itself up for endless reboots, sequels and director’s cuts in the process. \nEvery movie needs a set, and for this epic production, the whole island will be prepared for a blockbusting World War II movie. In ‘T-Day’, you must re-enact the defending of Tropico from its biggest-ever invasion and produce the greatest movie that the world has ever seen!\n\n# Features\n\n- New standalone scenario: ‘T-Day’ – shoot the greatest movie of all time!\n- New building: Fortress – every ruler needs his fortress(es)\n- New dynasty avatar accessory: Great War Helmet\n- New sandbox map: Becouya\n- New music track and additional voice recordings",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "tropico-5--t-day",
+  "creationDate": "2020-11-16T18:02:47.813Z",
+  "lastModifiedDate": "2020-12-16T18:21:42.884Z",
+  "effectiveDate": "2020-12-23T16:00:00.000Z",
+  "viewableDate": "2020-12-23T16:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+    "name": "Kalypso Media Group GmbH"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-12-15T01:47:57.916Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-12-15T01:44:09.654Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-12-15T01:46:33.012Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-12-15T01:43:50.926Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "14346",
+      "name": "Holiday Sale 2020",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2020-10-21T21:58:03.125Z",
+      "updated": "2020-12-17T16:00:03.195Z",
+      "status": "ACTIVE",
+      "referenceCount": 584,
+      "comment": ""
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-12-15T01:46:50.820Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-12-15T01:43:02.751Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Kalypso Media Group GmbH"
+    },
+    {
+      "key": "developerName",
+      "value": "Haemimont Games"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/offer/EGS_TDay_HaemimontGames_DLC_S1-2560x1440-8b11fc352c996e5c71d5e9f7a0b8846b.jpg",
+      "md5": "8b11fc352c996e5c71d5e9f7a0b8846b",
+      "size": 992477,
+      "uploadedDate": "2020-11-16T18:01:55.098Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/offer/EGS_TDay_HaemimontGames_DLC_S2-1200x1600-edc0a4b5de32e3aa425785d035c41695.jpg",
+      "md5": "edc0a4b5de32e3aa425785d035c41695",
+      "size": 955144,
+      "uploadedDate": "2020-11-16T18:02:02.008Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/offer/EGS_TDay_HaemimontGames_DLC_S1-2560x1440-8b11fc352c996e5c71d5e9f7a0b8846b.jpg",
+      "md5": "8b11fc352c996e5c71d5e9f7a0b8846b",
+      "size": 992477,
+      "uploadedDate": "2020-11-16T18:02:11.034Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/offer/EGS_TDay_HaemimontGames_DLC_S2-1200x1600-edc0a4b5de32e3aa425785d035c41695.jpg",
+      "md5": "edc0a4b5de32e3aa425785d035c41695",
+      "size": 955144,
+      "uploadedDate": "2020-11-16T18:02:20.062Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/offer/EGS_TDay_HaemimontGames_DLC_S2-1200x1600-edc0a4b5de32e3aa425785d035c41695.jpg",
+      "md5": "edc0a4b5de32e3aa425785d035c41695",
+      "size": 955144,
+      "uploadedDate": "2020-11-16T18:02:31.611Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/offer/EGS_TDay_HaemimontGames_DLC_S2-1200x1600-edc0a4b5de32e3aa425785d035c41695.jpg",
+      "md5": "edc0a4b5de32e3aa425785d035c41695",
+      "size": 955144,
+      "uploadedDate": "2020-11-16T18:02:39.321Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "0411de820d414c89a8c4e988c6249b5f"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,127 @@
+{
+  "id": "4935d7e5d55e44649777310cd3ca6de4",
+  "namespace": "6009be9994c2409099588cde6f3a5ed0",
+  "title": "Cities: Skylines - Coast to Coast Radio",
+  "description": "Coast to Coast Radio is the perfect destination for music that will make you feel like you’re heading out on a grand adventure! With 16 bold and uplifting songs from DJ Toni G, city builders can clear their minds and focus on creating their dream city.",
+  "longDescription": "Coast to Coast Radio is the perfect destination for music that will make you feel like you’re heading out on a grand adventure! With 16 bold and uplifting songs from DJ Toni G, city builders can clear their minds and focus on creating their dream city with tracks that inspire you to build higher and plan better.",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "cities-skylines--coast-to-coast-radio",
+  "creationDate": "2020-11-04T01:25:42.003Z",
+  "lastModifiedDate": "2020-12-17T15:25:00.794Z",
+  "effectiveDate": "2020-12-17T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+    "name": "Paradox Interactive"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "14346",
+      "name": "Holiday Sale 2020",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2020-10-21T21:58:03.125Z",
+      "updated": "2020-12-17T16:00:03.195Z",
+      "status": "ACTIVE",
+      "referenceCount": 584,
+      "comment": ""
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Paradox Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Colossal Order"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylinesCoasttoCoastRadio_ColossalOrder_DLC_S1-2560x1440-53a228f4ed46b1f84c67020ea834e1ec.jpg",
+      "md5": "53a228f4ed46b1f84c67020ea834e1ec",
+      "size": 1019754,
+      "uploadedDate": "2020-12-02T09:57:26.915Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylinesCoasttoCoastRadio_ColossalOrder_DLC_S2-1200x1600-cc42619a993812f2d346e8160d569b76.jpg",
+      "md5": "cc42619a993812f2d346e8160d569b76",
+      "size": 1023349,
+      "uploadedDate": "2020-12-02T09:57:35.123Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylinesCoasttoCoastRadio_ColossalOrder_DLC_S2-1200x1600-cc42619a993812f2d346e8160d569b76.jpg",
+      "md5": "cc42619a993812f2d346e8160d569b76",
+      "size": 1023349,
+      "uploadedDate": "2020-12-02T09:57:45.098Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylinesCoasttoCoastRadio_ColossalOrder_DLC_S2-1200x1600-cc42619a993812f2d346e8160d569b76.jpg",
+      "md5": "cc42619a993812f2d346e8160d569b76",
+      "size": 1023349,
+      "uploadedDate": "2020-12-02T09:57:55.170Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylinesCoasttoCoastRadio_ColossalOrder_DLC_S2-1200x1600-cc42619a993812f2d346e8160d569b76.jpg",
+      "md5": "cc42619a993812f2d346e8160d569b76",
+      "size": 1023349,
+      "uploadedDate": "2020-12-02T09:58:10.233Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylinesCoasttoCoastRadio_ColossalOrder_DLC_S1-2560x1440-53a228f4ed46b1f84c67020ea834e1ec.jpg",
+      "md5": "53a228f4ed46b1f84c67020ea834e1ec",
+      "size": 1019754,
+      "uploadedDate": "2020-12-02T09:58:22.053Z",
+      "width": 2560,
+      "height": 1440
+    }
+  ],
+  "items": [
+    {
+      "id": "b6d46d309eb34cdfbf070bd825f28fa6"
+    }
+  ],
+  "catalogNs": null
+}

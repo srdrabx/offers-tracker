@@ -1,15 +1,15 @@
 {
   "id": "fe6b22c8f7654e0ab8b60ba1160ea381",
   "namespace": "c3e63401d6ba410493de31ed69a798a1",
-  "title": "SU super-bundle",
-  "description": "SU super-bundle",
-  "longDescription": null,
+  "title": "SU Super Pack",
+  "description": "The Super Pack includes one of each Soldier type. Each soldier comes with medium tier equipment along many modifications and 10 upgraded vehicles including Tanks, Planes and Terrain Vehicles.",
+  "longDescription": "The Super Pack includes one of each Soldier type. Each soldier comes with medium tier equipment along many modifications and 10 upgraded vehicles including Tanks, Planes and Terrain Vehicles.\n\n# Infantryman\n- AVS-36 (Factory)\n- Type L-41 JPH\n- Field Adjusted Sights\n- Field Trigger Job\n- Lightened Spring\n- Stainless Steel Barrel\n- Tula Tokarev 33 (Factory)\n- NR-40 'Scouts knife'\n- Soviet First Aid Kit\n- RGD-33\n- GAZ-AAA Cargo\n- GAZ-67 (Factory)\n\n# Fighter Pilot\n- Adjustable Wrench\n- Tula Tokarev 33 (Factory)\n- Polikarpov R-Z\n- B-30 Armor Piercing\n- PZ Explosive 'ZaRa'\n- Mikoyan-Gurevich MiG-3\n- BS-41 Armor Piercing\n- BZF-46 Incendiary\n- Petlyakov Pe-3bis\n- 20mm BZT Armor Piercing\n- 20mm OFZ High Explosive\n\n# Paratrooper\n- PPSh-41 (Factory)\n- Leonov Misha\n- Field Adjusted Sights\n- Field Trigger Job\n- Lightened Bolt\n- Stainless Steel Barrel\n\n# Tank Crewman\n- Adjustable Wrench\n- Tula Tokarev 33 (Factory)\n- T-26 Model 1933\n- BR-240P HVAP\n- UO-243 High Explosive\n- T-28 Model 1934\n- UBR-354P APCR\n- UOF-356 High Explosive\n- KV-85\n- BR-365P APCR\n- O-265K High Explosive\n- SU-76M\n- BR-350P HVAP\n- F-534 High Explosive\n- SU-100\n- BR-412B APBC\n- OF-412 High Explosive\n\n# Recon\n- Mosin-Nagant 1891-30 (Factory)\n- Type L-41 JPH\n- PE-31 (German#1)\n- Field Trigger Job\n- Lightened Bolt\n- Stainless Steel Barrel\n- BA-64B\n\n# Ribbon Boosters\n- AVS-36 Specialist \n- Tula Tokarev 33 Specialist \n- M10 Tank Destroyer Specialist \n- GAZ-67 Specialist \n- Messerschmitt Me 410 B-2 Specialist \n- M36 Tank Destroyer Specialist \n- Model 1934 Specialist \n- PPSh-41 Specialist \n- Mosin-Nagant 1891-30 Specialist \n- T-26 Model 1933 Specialist \n- M4A3E2 Sherman Jumbo Specialist \n- Henschel HS 126 B-1 Specialist \n- KV-85 Specialist \n- Focke-Wulff Fw190 D9 Specialist \n- BA-64B Specialist \n- Panther Ausf. G Specialist \n- P38 Parabellum Specialist \n- Physical Training",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "su-super-bundle",
+  "urlSlug": "heroes-and-generals-wwii--su-super-pack",
   "creationDate": "2020-08-31T20:15:42.310Z",
-  "lastModifiedDate": "2020-09-23T05:10:53.214Z",
-  "effectiveDate": "2099-12-31T15:00:00.000Z",
+  "lastModifiedDate": "2020-12-18T20:32:41.242Z",
+  "effectiveDate": "2020-12-18T19:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -25,7 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "addons"
+    },
+    {
       "path": "games"
+    },
+    {
+      "path": "addons/consumable"
     },
     {
       "path": "applications"
@@ -36,10 +42,10 @@
       "id": "1203",
       "name": "MULTIPLAYER",
       "namespace": "epic",
-      "aliases": null,
+      "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2020-09-16T23:47:27.269Z",
+      "updated": "2020-12-15T01:44:09.654Z",
       "status": "ACTIVE",
       "referenceCount": 46,
       "comment": null
@@ -61,9 +67,9 @@
       "name": "WINDOWS",
       "namespace": "epic",
       "aliases": [],
-      "operator": "kimberly.rodatos",
+      "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-09-16T23:47:27.310Z",
+      "updated": "2020-12-15T01:43:02.751Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -72,26 +78,93 @@
       "id": "1294",
       "name": "FIRST-PERSON",
       "namespace": "epic",
-      "aliases": null,
+      "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:44.596Z",
-      "updated": "2020-09-10T16:00:33.411Z",
+      "updated": "2020-12-15T01:47:39.866Z",
       "status": "ACTIVE",
       "referenceCount": 24,
+      "comment": null
+    },
+    {
+      "id": "1279",
+      "name": "VAMPIRE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:37.207Z",
+      "updated": "2020-09-16T19:19:59.211Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
       "comment": null
     }
   ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "{}"
+      "value": "KR"
     },
     {
       "key": "publisherName",
       "value": "RETO MOTO"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/cf532ca9-a37a-4ce1-9031-83cf99f7b426-2560x1440-6a6adf19e0845eab077767abeca44412.jfif",
+      "md5": "6a6adf19e0845eab077767abeca44412",
+      "size": 887487,
+      "uploadedDate": "2020-12-18T01:43:36.619Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/cf532ca9-a37a-4ce1-9031-83cf99f7b426-2560x1440-6a6adf19e0845eab077767abeca44412.jfif",
+      "md5": "6a6adf19e0845eab077767abeca44412",
+      "size": 887487,
+      "uploadedDate": "2020-12-18T01:43:48.899Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/8c64f0e9-9e8f-49a8-b836-e9d783d26569-1200x1600-3d434c115c65222c1645fc2c09ede4da.jfif",
+      "md5": "3d434c115c65222c1645fc2c09ede4da",
+      "size": 892644,
+      "uploadedDate": "2020-12-18T20:30:49.420Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/8c64f0e9-9e8f-49a8-b836-e9d783d26569-1200x1600-3d434c115c65222c1645fc2c09ede4da.jfif",
+      "md5": "3d434c115c65222c1645fc2c09ede4da",
+      "size": 892644,
+      "uploadedDate": "2020-12-18T20:31:00.494Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/8c64f0e9-9e8f-49a8-b836-e9d783d26569-1200x1600-3d434c115c65222c1645fc2c09ede4da.jfif",
+      "md5": "3d434c115c65222c1645fc2c09ede4da",
+      "size": 892644,
+      "uploadedDate": "2020-12-18T20:31:07.119Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/8c64f0e9-9e8f-49a8-b836-e9d783d26569-1200x1600-3d434c115c65222c1645fc2c09ede4da.jfif",
+      "md5": "3d434c115c65222c1645fc2c09ede4da",
+      "size": 892644,
+      "uploadedDate": "2020-12-18T20:31:14.018Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "06cbe2e94a6d4bd18e15c9e51a72751a"

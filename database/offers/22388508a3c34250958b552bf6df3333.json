@@ -1,0 +1,170 @@
+{
+  "id": "22388508a3c34250958b552bf6df3333",
+  "namespace": "c35a1d7081e44562afaa750f27cd0a18",
+  "title": "Shady Part of Me",
+  "description": "Shady Part of Me",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "shady-part-of-me",
+  "urlSlug": "thor2generalaudience",
+  "creationDate": "2020-10-22T19:52:53.367Z",
+  "lastModifiedDate": "2020-12-10T22:38:06.329Z",
+  "effectiveDate": "2020-12-10T23:00:00.000Z",
+  "viewableDate": "2020-12-10T23:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+    "name": "Focus Home"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1298",
+      "name": "PUZZLE",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2020-12-15T01:47:26.504Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-12-15T01:43:50.926Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-12-15T01:43:02.751Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-12-15T01:46:42.546Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Focus Home Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Douze Dixièmes"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "shady-part-of-me"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/c35a1d7081e44562afaa750f27cd0a18/offer/EGS_ShadyPartofMe_DouzeDiximes_S1-2560x1440-8ac9e2befb4c3c06c58a4e3f7948c6d4.jpg",
+      "md5": "8ac9e2befb4c3c06c58a4e3f7948c6d4",
+      "size": 427629,
+      "uploadedDate": "2020-12-08T14:53:32.567Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/c35a1d7081e44562afaa750f27cd0a18/offer/EGS_ShadyPartofMe_DouzeDiximes_S2-1200x1600-4034ea1497894423a2a1f2cc4161c04d.jpg",
+      "md5": "4034ea1497894423a2a1f2cc4161c04d",
+      "size": 211443,
+      "uploadedDate": "2020-12-08T14:53:42.005Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/c35a1d7081e44562afaa750f27cd0a18/offer/EGS_ShadyPartofMe_DouzeDiximes_S2-1200x1600-4034ea1497894423a2a1f2cc4161c04d.jpg",
+      "md5": "4034ea1497894423a2a1f2cc4161c04d",
+      "size": 211443,
+      "uploadedDate": "2020-12-08T14:54:02.225Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/c35a1d7081e44562afaa750f27cd0a18/offer/EGS_ShadyPartofMe_DouzeDiximes_S2-1200x1600-4034ea1497894423a2a1f2cc4161c04d.jpg",
+      "md5": "4034ea1497894423a2a1f2cc4161c04d",
+      "size": 211443,
+      "uploadedDate": "2020-12-08T14:54:13.118Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/c35a1d7081e44562afaa750f27cd0a18/offer/EGS_ShadyPartofMe_DouzeDiximes_S1-2560x1440-8ac9e2befb4c3c06c58a4e3f7948c6d4.jpg",
+      "md5": "8ac9e2befb4c3c06c58a4e3f7948c6d4",
+      "size": 427629,
+      "uploadedDate": "2020-12-08T14:54:26.513Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/c35a1d7081e44562afaa750f27cd0a18/offer/EGS_ShadyPartofMe_DouzeDiximes_S2-1200x1600-4034ea1497894423a2a1f2cc4161c04d.jpg",
+      "md5": "4034ea1497894423a2a1f2cc4161c04d",
+      "size": 211443,
+      "uploadedDate": "2020-12-08T14:54:36.202Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "2cfc9667a68a42caa0c24cf3fed8a6bc"
+    }
+  ],
+  "catalogNs": null
+}

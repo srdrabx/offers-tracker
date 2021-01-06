@@ -8,13 +8,13 @@
   "productSlug": null,
   "urlSlug": "tumericdevaudience",
   "creationDate": "2019-05-05T20:51:58.632Z",
-  "lastModifiedDate": "2019-10-17T13:48:57.748Z",
+  "lastModifiedDate": "2021-01-05T22:52:14.719Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
-    "id": "o-dukzxsmt2q39w2xql6eb8vewd2bkc9",
-    "name": "Aspyr Media, Inc."
+    "id": "o-8nzuqrvr3dvkn9l7dydvhkekqd3xa9",
+    "name": "Bloober Team"
   },
   "linkedOfferId": null,
   "isFeatured": false,
@@ -39,7 +39,7 @@
     },
     {
       "key": "publisherName",
-      "value": "Aspyr Media, Inc."
+      "value": "Bloober Team"
     }
   ],
   "keyImages": [

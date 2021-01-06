@@ -1,0 +1,170 @@
+{
+  "id": "371605cfc34f42c992a42e1d97e6e01b",
+  "namespace": "100aa04135c6441b9b31d7af84f768c0",
+  "title": "Big Pharma",
+  "description": "Big Pharma",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "big-pharma",
+  "urlSlug": "vanadiumgeneralaudience",
+  "creationDate": "2020-12-07T20:14:42.107Z",
+  "lastModifiedDate": "2020-12-15T15:43:11.167Z",
+  "effectiveDate": "2020-12-15T16:00:00.000Z",
+  "viewableDate": "2020-12-15T15:55:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-hrszwkzbhb269y9we9tpukac2zxb5e",
+    "name": "Positech Computing Ltd"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-12-15T01:47:57.916Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-12-15T01:46:50.820Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-12-15T01:43:02.751Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-12-15T01:46:42.546Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Positech Computing Ltd"
+    },
+    {
+      "key": "developerName",
+      "value": "Twice Circled"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "big-pharma"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/100aa04135c6441b9b31d7af84f768c0/offer/EGS_Theultimatecureemuplaboratorytycoonsim_TwiceCircled_S1-2560x1440-11aba33613c3c458df90e4d36f53b23f.jpg",
+      "md5": "11aba33613c3c458df90e4d36f53b23f",
+      "size": 859736,
+      "uploadedDate": "2020-12-14T22:41:07.125Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/100aa04135c6441b9b31d7af84f768c0/offer/EGS_Theultimatecureemuplaboratorytycoonsim_TwiceCircled_S2-1200x1600-4b3a6e191bd927d8680ffa1363e2b225.jpg",
+      "md5": "4b3a6e191bd927d8680ffa1363e2b225",
+      "size": 464807,
+      "uploadedDate": "2020-12-14T22:41:12.415Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/100aa04135c6441b9b31d7af84f768c0/offer/EGS_Theultimatecureemuplaboratorytycoonsim_TwiceCircled_S2-1200x1600-4b3a6e191bd927d8680ffa1363e2b225.jpg",
+      "md5": "4b3a6e191bd927d8680ffa1363e2b225",
+      "size": 464807,
+      "uploadedDate": "2020-12-14T22:41:28.727Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/100aa04135c6441b9b31d7af84f768c0/offer/EGS_Theultimatecureemuplaboratorytycoonsim_TwiceCircled_S2-1200x1600-4b3a6e191bd927d8680ffa1363e2b225.jpg",
+      "md5": "4b3a6e191bd927d8680ffa1363e2b225",
+      "size": 464807,
+      "uploadedDate": "2020-12-14T22:41:34.094Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/100aa04135c6441b9b31d7af84f768c0/offer/EGS_Theultimatecureemuplaboratorytycoonsim_TwiceCircled_S1-2560x1440-11aba33613c3c458df90e4d36f53b23f.jpg",
+      "md5": "11aba33613c3c458df90e4d36f53b23f",
+      "size": 859736,
+      "uploadedDate": "2020-12-14T22:41:52.692Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/100aa04135c6441b9b31d7af84f768c0/offer/EGS_Theultimatecureemuplaboratorytycoonsim_TwiceCircled_S2-1200x1600-4b3a6e191bd927d8680ffa1363e2b225.jpg",
+      "md5": "4b3a6e191bd927d8680ffa1363e2b225",
+      "size": 464807,
+      "uploadedDate": "2020-12-14T22:41:58.660Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "d66c1be8254a4196a3d1f248f49b3a31"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,188 @@
+{
+  "id": "e3bfd5c9edfb4aa1af12e6e13dde070b",
+  "namespace": "6ad92d14cc544743831d4f70c964d39d",
+  "title": "SpellForce 3: Fallen God Soundtrack",
+  "description": "SpellForce 3: Fallen God Soundtrack",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "spellforce-3-fallen-god/soundtrack",
+  "urlSlug": "gingersnapsgeneralaudience",
+  "creationDate": "2020-10-27T12:03:26.834Z",
+  "lastModifiedDate": "2020-12-14T13:54:38.642Z",
+  "effectiveDate": "2020-12-14T18:00:00.000Z",
+  "viewableDate": "2020-12-14T18:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+    "name": "THQ Nordic GmbH"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "digitalextras"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "digitalextras/soundtrack"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1233",
+      "name": "BASE-BUILDING",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:14.176Z",
+      "updated": "2020-05-13T21:05:17.873Z",
+      "status": "ACTIVE",
+      "referenceCount": 1,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-12-15T01:46:33.012Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-12-15T01:43:50.926Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-12-15T01:46:50.820Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-12-15T01:43:02.751Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "THQ Nordic"
+    },
+    {
+      "key": "developerName",
+      "value": "Grimlore Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "spellforce-3-fallen-god/soundtrack"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/6ad92d14cc544743831d4f70c964d39d/offer/EGS_SpellForce3FallenGodSoundtrack_GrimloreGames_DigitalExtras_S1-2560x1440-f602c58ae73482d8f49575e3f667a897.jpg",
+      "md5": "f602c58ae73482d8f49575e3f667a897",
+      "size": 514048,
+      "uploadedDate": "2020-10-27T18:22:45.967Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/6ad92d14cc544743831d4f70c964d39d/offer/EGS_SpellForce3FallenGodSoundtrack_GrimloreGames_DigitalExtras_S2-1200x1600-21a5d9c59cf730a90dd2a8fb501e3ca1.jpg",
+      "md5": "21a5d9c59cf730a90dd2a8fb501e3ca1",
+      "size": 321429,
+      "uploadedDate": "2020-10-27T18:22:52.185Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/6ad92d14cc544743831d4f70c964d39d/offer/EGS_SpellForce3FallenGodSoundtrack_GrimloreGames_DigitalExtras_S1-2560x1440-f602c58ae73482d8f49575e3f667a897.jpg",
+      "md5": "f602c58ae73482d8f49575e3f667a897",
+      "size": 514048,
+      "uploadedDate": "2020-10-27T18:22:58.554Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/6ad92d14cc544743831d4f70c964d39d/offer/EGS_SpellForce3FallenGodSoundtrack_GrimloreGames_DigitalExtras_S2-1200x1600-21a5d9c59cf730a90dd2a8fb501e3ca1.jpg",
+      "md5": "21a5d9c59cf730a90dd2a8fb501e3ca1",
+      "size": 321429,
+      "uploadedDate": "2020-10-27T18:23:03.976Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/6ad92d14cc544743831d4f70c964d39d/offer/EGS_SpellForce3FallenGodSoundtrack_GrimloreGames_DigitalExtras_S2-1200x1600-21a5d9c59cf730a90dd2a8fb501e3ca1.jpg",
+      "md5": "21a5d9c59cf730a90dd2a8fb501e3ca1",
+      "size": 321429,
+      "uploadedDate": "2020-10-27T18:23:10.913Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/6ad92d14cc544743831d4f70c964d39d/offer/EGS_SpellForce3FallenGodSoundtrack_GrimloreGames_DigitalExtras_S2-1200x1600-21a5d9c59cf730a90dd2a8fb501e3ca1.jpg",
+      "md5": "21a5d9c59cf730a90dd2a8fb501e3ca1",
+      "size": 321429,
+      "uploadedDate": "2020-10-27T18:23:17.308Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "1a7ce3133cc0437f8cfc7b3ab798800b"
+    }
+  ],
+  "catalogNs": null
+}

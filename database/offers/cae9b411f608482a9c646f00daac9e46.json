@@ -1,16 +1,16 @@
 {
   "id": "cae9b411f608482a9c646f00daac9e46",
   "namespace": "0dabb0f14acf4fef84bd2b2bf3085dfc",
-  "title": "AmaryllisGeneralAudience",
-  "description": "AmaryllisGeneralAudience",
+  "title": "Defense Grid: The Awakening",
+  "description": "Defense Grid: The Awakening",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
+  "productSlug": "defense-grid",
   "urlSlug": "amaryllisgeneralaudience",
   "creationDate": "2020-04-15T17:08:42.734Z",
-  "lastModifiedDate": "2020-04-15T17:12:05.072Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2020-12-20T15:08:50.427Z",
+  "effectiveDate": "2020-12-20T16:00:00.000Z",
+  "viewableDate": "2020-12-20T16:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-lr4ubnee8h8ya6fjmgfqy63uftabu6",
@@ -26,24 +26,149 @@
   "categories": [
     {
       "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "1233",
+      "name": "BASE-BUILDING",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:14.176Z",
+      "updated": "2020-05-13T21:05:17.873Z",
+      "status": "ACTIVE",
+      "referenceCount": 1,
+      "comment": null
+    },
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-12-15T01:47:57.916Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "14346",
+      "name": "Holiday Sale 2020",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2020-10-21T21:58:03.125Z",
+      "updated": "2020-12-17T16:00:03.195Z",
+      "status": "ACTIVE",
+      "referenceCount": 584,
+      "comment": ""
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-12-15T01:46:50.820Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-12-15T01:43:02.751Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "[]"
     },
     {
       "key": "publisherName",
-      "value": "[]"
+      "value": "Hidden Path Entertainment"
     },
     {
-      "key": "developerName",
-      "value": "[]"
+      "key": "com.epicgames.app.productSlug",
+      "value": "defense-grid"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/0dabb0f14acf4fef84bd2b2bf3085dfc/offer/EGS_DefenseGridTheAwakening_HiddenPathEntertainment_G2_00-1920x1080-7b6cc3b4533d512f4e58800527b1c0a0.jpg",
+      "md5": "7b6cc3b4533d512f4e58800527b1c0a0",
+      "size": 542121,
+      "uploadedDate": "2020-12-18T01:36:59.447Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/0dabb0f14acf4fef84bd2b2bf3085dfc/offer/EGS_DefenseGridTheAwakening_HiddenPathEntertainment_S4-1200x1600-7f6d059571b0e4b72947ae5e9faf0e3b.jpg",
+      "md5": "7f6d059571b0e4b72947ae5e9faf0e3b",
+      "size": 475389,
+      "uploadedDate": "2020-12-18T01:37:11.253Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/0dabb0f14acf4fef84bd2b2bf3085dfc/offer/EGS_DefenseGridTheAwakening_HiddenPathEntertainment_S4-1200x1600-7f6d059571b0e4b72947ae5e9faf0e3b.jpg",
+      "md5": "7f6d059571b0e4b72947ae5e9faf0e3b",
+      "size": 475389,
+      "uploadedDate": "2020-12-18T01:37:26.939Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/0dabb0f14acf4fef84bd2b2bf3085dfc/offer/EGS_DefenseGridTheAwakening_HiddenPathEntertainment_S4-1200x1600-7f6d059571b0e4b72947ae5e9faf0e3b.jpg",
+      "md5": "7f6d059571b0e4b72947ae5e9faf0e3b",
+      "size": 475389,
+      "uploadedDate": "2020-12-18T01:37:39.164Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/0dabb0f14acf4fef84bd2b2bf3085dfc/offer/EGS_DefenseGridTheAwakening_HiddenPathEntertainment_G2_00-1920x1080-7b6cc3b4533d512f4e58800527b1c0a0.jpg",
+      "md5": "7b6cc3b4533d512f4e58800527b1c0a0",
+      "size": 542121,
+      "uploadedDate": "2020-12-18T01:37:56.095Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/0dabb0f14acf4fef84bd2b2bf3085dfc/offer/EGS_DefenseGridTheAwakening_HiddenPathEntertainment_S4-1200x1600-7f6d059571b0e4b72947ae5e9faf0e3b.jpg",
+      "md5": "7f6d059571b0e4b72947ae5e9faf0e3b",
+      "size": 475389,
+      "uploadedDate": "2020-12-18T01:38:07.360Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "dd2f150f062f4d9eaea1079022ddc30c"

@@ -1,16 +1,16 @@
 {
   "id": "a7e5275e84dc48f58bf309cd3f071998",
   "namespace": "19d54f4a6d7e4ba99c5caf8972fbfd02",
-  "title": "MtHarvardGeneralAudience",
-  "description": "MtHarvardGeneralAudience",
+  "title": "Hyper Scape™",
+  "description": "Hyper Scape™",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "mtharvardgeneralaudience",
+  "productSlug": "hyper-scape",
+  "urlSlug": "hyper-scape",
   "creationDate": "2020-09-14T16:36:28.913Z",
-  "lastModifiedDate": "2020-09-21T19:40:30.475Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2020-12-17T15:34:39.313Z",
+  "effectiveDate": "2020-12-17T16:00:00.000Z",
+  "viewableDate": "2020-12-17T15:55:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
@@ -28,25 +28,139 @@
       "path": "games"
     },
     {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "1185",
+      "name": "FPS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:50.376Z",
+      "updated": "2020-09-05T13:11:46.644Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": "1156",
+      "name": "BATTLE ROYALE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:36.154Z",
+      "updated": "2020-09-07T12:44:17.473Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-12-15T01:43:02.751Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-12-15T01:43:59.524Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "CN,KR"
     },
     {
       "key": "publisherName",
-      "value": "[]"
+      "value": "Ubisoft"
     },
     {
       "key": "developerName",
-      "value": "[]"
+      "value": "Ubisoft Montreal"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "hyper-scape"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/19d54f4a6d7e4ba99c5caf8972fbfd02/offer/HYPERSCAPE_STD_GAME_EPIC_Store_Landscape_2560x1440-2560x1440-ab7b35da0f88a62a87c75df347d9fa94.jpg",
+      "md5": "ab7b35da0f88a62a87c75df347d9fa94",
+      "size": 423125,
+      "uploadedDate": "2020-12-16T20:21:25.466Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/19d54f4a6d7e4ba99c5caf8972fbfd02/offer/HYPERSCAPE_STD_GAME_EPIC_Store_Portrait_1200x1600-1200x1600-8f085c29a0437027622d7f73b0f4d2a8.png",
+      "md5": "8f085c29a0437027622d7f73b0f4d2a8",
+      "size": 729030,
+      "uploadedDate": "2020-12-16T20:21:36.077Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/19d54f4a6d7e4ba99c5caf8972fbfd02/offer/HYPERSCAPE_STD_GAME_EPIC_Store_Portrait_1200x1600-1200x1600-8f085c29a0437027622d7f73b0f4d2a8.png",
+      "md5": "8f085c29a0437027622d7f73b0f4d2a8",
+      "size": 729030,
+      "uploadedDate": "2020-12-16T20:24:28.707Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/19d54f4a6d7e4ba99c5caf8972fbfd02/offer/HYPERSCAPE_STD_GAME_EPIC_Store_Portrait_1200x1600-1200x1600-8f085c29a0437027622d7f73b0f4d2a8.png",
+      "md5": "8f085c29a0437027622d7f73b0f4d2a8",
+      "size": 729030,
+      "uploadedDate": "2020-12-16T20:24:39.004Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/19d54f4a6d7e4ba99c5caf8972fbfd02/offer/HYPERSCAPE_STD_GAME_EPIC_Store_Landscape_2560x1440-2560x1440-ab7b35da0f88a62a87c75df347d9fa94.jpg",
+      "md5": "ab7b35da0f88a62a87c75df347d9fa94",
+      "size": 423125,
+      "uploadedDate": "2020-12-16T20:24:52.200Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/19d54f4a6d7e4ba99c5caf8972fbfd02/offer/HYPERSCAPE_STD_GAME_EPIC_Store_Portrait_1200x1600-1200x1600-8f085c29a0437027622d7f73b0f4d2a8.png",
+      "md5": "8f085c29a0437027622d7f73b0f4d2a8",
+      "size": 729030,
+      "uploadedDate": "2020-12-16T20:25:05.549Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "bc5badf3d26e4409ad00ffccf8125031"

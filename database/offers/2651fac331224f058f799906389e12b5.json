@@ -1,0 +1,127 @@
+{
+  "id": "2651fac331224f058f799906389e12b5",
+  "namespace": "6009be9994c2409099588cde6f3a5ed0",
+  "title": "Cities: Skylines - Industries",
+  "description": "In Industry, players can customize their industrial areas with supply chains for the four resource types and unique factories. Aside from production chains, there is a new city service for handling mail and the cargo airport eases handling of factory goods.",
+  "longDescription": "About Industries\nMake It Happen: Follow your products from harvesting to processing, storage and production, then transport them to commercial zones or export to other cities. \n\nCaptain Your Own Industry: Define an area with the industry area tool and place highly specialized industrial buildings to build and manage the production chain from raw material extraction up to final end product. Industry Areas are divided into four types based on the natural resource they are processing: Farming, Forest, Ore and Oil. These areas can level up upon reaching productions goals and staffing requirements.\nBuild it up, Buttercup : New industrial buildings include Extractors, Warehouse Facilities, Processing and Auxiliary Buildings, Industrial Props and Roads. Unique Factories, such as Food, Toy, Furniture, Car and Electronics produce luxury products, and require a large quantity of workers, water and electricity as well as input from your industries. \n\nShip It: Manage traffic and logistics with industry warehouses and the use of the new Cargo Services including a cargo airport.\n\nGo Postal: Boost your citizens’ well-being with mail delivery and collection services. Post sorting facilities handle mail between outside connections and the post offices, and new Post Van and Truck vehicles enable the carriage. \n\nWonk Hard: Three new Industry Policies and four City-wide Policies, including Workers’ Union, Sorting, Tolls, Wi-Fi, Logistics, Work Safety and Automation. \n\nFive New Maps: Rich in natural resources, transportation options and industrial opportunities, these new maps have all the right stuff. \n\nFour New Hats for Chirper!",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "cities-skylines--industries",
+  "creationDate": "2020-11-04T19:16:36.960Z",
+  "lastModifiedDate": "2020-12-17T15:25:01.017Z",
+  "effectiveDate": "2020-12-17T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+    "name": "Paradox Interactive"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "14346",
+      "name": "Holiday Sale 2020",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2020-10-21T21:58:03.125Z",
+      "updated": "2020-12-17T16:00:03.195Z",
+      "status": "ACTIVE",
+      "referenceCount": 584,
+      "comment": ""
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Paradox Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Colossal Order"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylinesIndustries_ColossalOrder_DLC_S1-2560x1440-a9cc1dc6d393a2abd51f962ed5395760.jpg",
+      "md5": "a9cc1dc6d393a2abd51f962ed5395760",
+      "size": 1038354,
+      "uploadedDate": "2020-12-02T12:14:54.725Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylinesIndustries_ColossalOrder_DLC_S2-1200x1600-a42d5d09053f9e6b8e66e3f11de88569.jpg",
+      "md5": "a42d5d09053f9e6b8e66e3f11de88569",
+      "size": 996057,
+      "uploadedDate": "2020-12-02T12:15:04.757Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylinesIndustries_ColossalOrder_DLC_S2-1200x1600-a42d5d09053f9e6b8e66e3f11de88569.jpg",
+      "md5": "a42d5d09053f9e6b8e66e3f11de88569",
+      "size": 996057,
+      "uploadedDate": "2020-12-02T12:15:15.570Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylinesIndustries_ColossalOrder_DLC_S2-1200x1600-a42d5d09053f9e6b8e66e3f11de88569.jpg",
+      "md5": "a42d5d09053f9e6b8e66e3f11de88569",
+      "size": 996057,
+      "uploadedDate": "2020-12-02T12:15:30.386Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylinesIndustries_ColossalOrder_DLC_S1-2560x1440-a9cc1dc6d393a2abd51f962ed5395760.jpg",
+      "md5": "a9cc1dc6d393a2abd51f962ed5395760",
+      "size": 1038354,
+      "uploadedDate": "2020-12-02T12:15:40.570Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylinesIndustries_ColossalOrder_DLC_S2-1200x1600-a42d5d09053f9e6b8e66e3f11de88569.jpg",
+      "md5": "a42d5d09053f9e6b8e66e3f11de88569",
+      "size": 996057,
+      "uploadedDate": "2020-12-02T12:15:56.429Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "56b09a35c6474357997a69ca2f5ac374"
+    }
+  ],
+  "catalogNs": null
+}

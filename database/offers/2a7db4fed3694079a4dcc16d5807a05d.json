@@ -8,7 +8,7 @@
   "productSlug": "south-park-the-fractured-but-whole/from-dusk-till-casa-bonita",
   "urlSlug": "south-park-the-fractured-but-whole--from-dusk-till-casa-bonita",
   "creationDate": "2019-11-20T20:49:51.574Z",
-  "lastModifiedDate": "2020-08-07T22:51:48.407Z",
+  "lastModifiedDate": "2020-12-16T21:09:22.713Z",
   "effectiveDate": "2019-12-20T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -37,8 +37,25 @@
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "14346",
+      "name": "Holiday Sale 2020",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2020-10-21T21:58:03.125Z",
+      "updated": "2020-12-17T16:00:03.195Z",
+      "status": "ACTIVE",
+      "referenceCount": 584,
+      "comment": ""
+    }
+  ],
   "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
     {
       "key": "com.epicgames.app.productSlug",
       "value": "south-park-the-fractured-but-whole/from-dusk-till-casa-bonita"
