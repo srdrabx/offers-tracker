@@ -38,30 +38,8 @@
     }
   ],
   "tags": [
-    {
-      "id": "1281",
-      "name": "SPACE SIM",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:38.182Z",
-      "updated": "2020-04-02T01:42:00.031Z",
-      "status": "ACTIVE",
-      "referenceCount": 4,
-      "comment": null
-    },
-    {
-      "id": "1367",
-      "name": "RPG",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2020-12-15T01:46:33.012Z",
-      "status": "ACTIVE",
-      "referenceCount": 43,
-      "comment": null
-    },
+    null,
+    null,
     {
       "id": "1370",
       "name": "SINGLEPLAYER",
@@ -74,42 +52,8 @@
       "referenceCount": 195,
       "comment": null
     },
-    {
-      "id": "1307",
-      "name": "OPEN WORLD",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:51.191Z",
-      "updated": "2020-12-15T01:46:59.402Z",
-      "status": "ACTIVE",
-      "referenceCount": 32,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "WINDOWS",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-12-15T01:43:02.751Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "9549",
-      "name": "CONTROLLER SUPPORT",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2020-12-15T01:43:59.524Z",
-      "status": "ACTIVE",
-      "referenceCount": 103,
-      "comment": null
-    }
+    null,
+    null
   ],
   "customAttributes": [
     {

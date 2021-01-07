@@ -69,7 +69,7 @@
       "aliases": [],
       "operator": null,
       "created": "2020-10-21T21:58:03.125Z",
-      "updated": "2020-12-17T16:00:03.195Z",
+      "updated": "2021-01-07T16:00:15.373Z",
       "status": "ACTIVE",
       "referenceCount": 584,
       "comment": ""
@@ -108,20 +108,6 @@
       "updated": "2020-12-15T01:43:02.751Z",
       "status": "ACTIVE",
       "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "10719",
-      "name": "MAC OS",
-      "namespace": "epic",
-      "aliases": [
-        "OSX"
-      ],
-      "operator": null,
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2020-12-15T01:43:22.719Z",
-      "status": "ACTIVE",
-      "referenceCount": 19,
       "comment": null
     }
   ],

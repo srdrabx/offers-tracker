@@ -13460,9 +13460,9 @@
     ],
     "Humble Bundle",
     1593532220,
-    1609430228,
+    1610032357,
     "https://cdn1.epicgames.com/0a4fc789eb0143c29296de79df5387ab/offer/EGS_CryingSunsisatacticalroguelite_AltShift_S2-1200x1600-cade755556a8d2b988626591b9464449.jpg",
-    "crying-suns/home"
+    "crying-suns"
   ],
   [
     "464d24cd25cd4b3396968332e4193d11",
@@ -27381,19 +27381,17 @@
   [
     "91f86f25905346178a83c2e3594733d1",
     "0a4fc789eb0143c29296de79df5387ab",
-    "CitrineArtBookAudience",
+    "Crying Suns Digital Artbook",
     [
       "digitalextras/book",
-      "addons",
       "digitalextras",
-      "addons/durable",
       "applications"
     ],
     "Humble Bundle",
     1596491037,
-    1603476730,
-    "",
-    "[]"
+    1610032357,
+    "https://cdn1.epicgames.com/0a4fc789eb0143c29296de79df5387ab/offer/EGS_CryingSunsDigitalArtbook_AltShift_DLC_S2-1200x1600-2618bfb1fc5237f3ebe136b7d8c1e4a3.jpg",
+    ""
   ],
   [
     "91f8b07ba0a0408f9f8068380c0a7bd3",
@@ -39736,6 +39734,21 @@
     ""
   ],
   [
+    "d3269e4563ba4c168e2546975dde1124",
+    "0a4fc789eb0143c29296de79df5387ab",
+    "Crying Suns Demo",
+    [
+      "games",
+      "games/demo",
+      "applications"
+    ],
+    "Humble Bundle",
+    1600094886,
+    1610032357,
+    "https://cdn1.epicgames.com/0a4fc789eb0143c29296de79df5387ab/offer/EGS_CryingSunsDemo_AltShift_Demo_S2-1200x1600-c4c20cfebf151c67a793cb4e526ee0cb.jpg",
+    "crying-suns/demo"
+  ],
+  [
     "d36035256208496d9ae3c5d3714716e4",
     "f9c2aedaff8442b286fbd026948b9f09",
     "VultureDevAudience",
@@ -42054,7 +42067,7 @@
     ],
     "Humble Bundle",
     1593532220,
-    1609427355,
+    1610032357,
     "",
     ""
   ],
@@ -44492,6 +44505,21 @@
     1609974341,
     "https://cdn1.epicgames.com/fn/offer/EN_FN_Store_LastLaugh_512x512-512x512-976067d7867a922711bddc03d0a38b96.jpg",
     "fortnite/the-last-laugh-bundle"
+  ],
+  [
+    "ea7721c6c2694e72813d3661bc68a2cb",
+    "b156c3365a5b4cb9a01a5e1108b4e3f4",
+    "STAR WARS™ Battlefront™ II: Celebration Edition",
+    [
+      "freegames",
+      "games",
+      "applications"
+    ],
+    "Electronic Arts",
+    1604929406,
+    1610032959,
+    "https://cdn1.epicgames.com/b156c3365a5b4cb9a01a5e1108b4e3f4/offer/EGS_STARWARSBattlefrontIICelebrationEdition_DICE_S2-1200x1600-11d040719a8457bbf36cabbe89b200db.jpg",
+    "star-wars-battlefront-2"
   ],
   [
     "ead2024942c444b9a2299fdd3245e807",

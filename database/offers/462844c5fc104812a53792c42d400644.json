@@ -5,10 +5,10 @@
   "description": "Crying Suns",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "crying-suns/home",
+  "productSlug": "crying-suns",
   "urlSlug": "crying-suns--home",
   "creationDate": "2020-06-30T15:50:20.605Z",
-  "lastModifiedDate": "2020-12-31T15:57:08.319Z",
+  "lastModifiedDate": "2021-01-07T15:12:37.109Z",
   "effectiveDate": "2021-01-07T16:00:00.000Z",
   "viewableDate": "2020-12-31T15:55:00.000Z",
   "developer": null,
@@ -66,6 +66,18 @@
       "comment": null
     },
     {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-12-15T01:43:50.926Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
       "id": "1115",
       "name": "STRATEGY",
       "namespace": "epic",
@@ -119,7 +131,7 @@
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "crying-suns/home"
+      "value": "crying-suns"
     }
   ],
   "keyImages": [

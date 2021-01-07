@@ -38,18 +38,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1386",
-      "name": "TURN-BASED",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:30.372Z",
-      "updated": "2020-12-15T01:49:00.686Z",
-      "status": "ACTIVE",
-      "referenceCount": 14,
-      "comment": null
-    },
+    null,
     {
       "id": "1370",
       "name": "SINGLEPLAYER",
@@ -62,30 +51,7 @@
       "referenceCount": 195,
       "comment": null
     },
-    {
-      "id": "9547",
-      "name": "WINDOWS",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-12-15T01:43:02.751Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "1084",
-      "name": "STEALTH",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:00.299Z",
-      "updated": "2020-12-15T01:49:37.867Z",
-      "status": "ACTIVE",
-      "referenceCount": 9,
-      "comment": null
-    }
+    null
   ],
   "customAttributes": [
     {
