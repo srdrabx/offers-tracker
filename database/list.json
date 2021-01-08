@@ -502,6 +502,21 @@
     "dead-cells/home"
   ],
   [
+    "0361314dc270409c99e742ac6b5e9380",
+    "bf333e6236914222a95a536389c05813",
+    "DLC 02",
+    [
+      "addons",
+      "addons/consumable",
+      "applications"
+    ],
+    "SEGA",
+    1609792386,
+    1610057480,
+    "",
+    ""
+  ],
+  [
     "036fb10545a74dfcb2fb791485f45711",
     "b6b2ef0cc19a4adaaa1cf6c7ed000dfa",
     "Godfall Pre-Order Content",
@@ -906,6 +921,21 @@
     "zombie-army-4-dead-war/mortar-shotgun-bundle"
   ],
   [
+    "05aaf965df834554a717e50ec031ae8d",
+    "bf333e6236914222a95a536389c05813",
+    "DLC 10",
+    [
+      "addons",
+      "addons/consumable",
+      "applications"
+    ],
+    "SEGA",
+    1609792674,
+    1610057745,
+    "",
+    ""
+  ],
+  [
     "05aba5318a084d099007014c7aff9526",
     "iris",
     "Digital Extras Edition",
@@ -945,6 +975,21 @@
     1588120702,
     "",
     "farming-simulator-19/home"
+  ],
+  [
+    "05e0777c3ee640a2b0fe7ea0489a43e0",
+    "bf333e6236914222a95a536389c05813",
+    "DLC 06",
+    [
+      "addons",
+      "addons/consumable",
+      "applications"
+    ],
+    "SEGA",
+    1609792529,
+    1610057612,
+    "",
+    ""
   ],
   [
     "05ec36ac6f4b402f944c0f60fdf4d6af",
@@ -1365,6 +1410,21 @@
     1595433206,
     "https://cdn1.epicgames.com/db9feb0da696474e9923764dd75b9854/offer/EGS_SamuraiJackBattleThroughTime_PrePurchase_Tall-1200x1600-49397e6596e02add9cbea635d3cf0561.jpg",
     "samurai-jack-battle-through-time"
+  ],
+  [
+    "080c18d3c2b342ba95be1fc7e95f6366",
+    "bf333e6236914222a95a536389c05813",
+    "DLC 13",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "SEGA",
+    1609793092,
+    1610057854,
+    "",
+    ""
   ],
   [
     "081b322584b44c4d86fd9905bfc24ad9",
@@ -2119,7 +2179,7 @@
     ],
     "Unknown Worlds Entertainment",
     1548793236,
-    1597167136,
+    1610050396,
     "https://cdn1.epicgames.com/foxglove/offer/SubnauticaBelowZero_CodeRedemption-330x440-ee0ebbbfa6920448fb4d9819f54ef8d9.png",
     "subnautica-below-zero/home"
   ],
@@ -2646,6 +2706,21 @@
     1552479755,
     1607444030,
     "https://cdn1.epicgames.com/nemesia/offer/EGS_VampireTheMasqueradeBloodlines2_HardsuitLabs_S2-1200x1600-29b9f030725c7871fa0c379c269958a6.jpg",
+    ""
+  ],
+  [
+    "0f2d01e0301e457b96eaa244f4a00ee7",
+    "6af58339c2424644988e0fb83dfd9bd5",
+    "Post Malone - \"Circles\"",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "NCSoft",
+    1601083305,
+    1610037293,
+    "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_PostMaloneCircles_HarmonixMusicSystemsInc_DLC_S2-1200x1600-ed6457c8d8925d3d0b21a4980a7a225d.jpg",
     ""
   ],
   [
@@ -5941,6 +6016,21 @@
     1588120720,
     "",
     "pixark"
+  ],
+  [
+    "1f34c79983a54740a5a181071b97455c",
+    "bf333e6236914222a95a536389c05813",
+    "DLC 17",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "SEGA",
+    1609793243,
+    1610058030,
+    "",
+    ""
   ],
   [
     "1f37fe4e0f784f928d2811f44417dacc",
@@ -9471,6 +9561,21 @@
     "castlestorm2/home"
   ],
   [
+    "31f533377f1c41c78fd3f634b774df12",
+    "bf333e6236914222a95a536389c05813",
+    "DLC 14",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "SEGA",
+    1609793129,
+    1610057881,
+    "",
+    ""
+  ],
+  [
     "3202ef1e4a174772bb317fbc0ca8abf9",
     "ca4058f18b0a4a9e9e2ccc28f7f33000",
     "HD Voice Pack - German",
@@ -11116,7 +11221,7 @@
     ],
     "Electronic Arts",
     1571351464,
-    1596306955,
+    1610036773,
     "",
     ""
   ],
@@ -14570,6 +14675,21 @@
     ""
   ],
   [
+    "4ba63eedac5842b8886f8a4545727bbd",
+    "bf333e6236914222a95a536389c05813",
+    "DLC 05",
+    [
+      "addons",
+      "addons/consumable",
+      "applications"
+    ],
+    "SEGA",
+    1609792499,
+    1610057578,
+    "",
+    ""
+  ],
+  [
     "4bb4c830189b4e9783ad569a58a46c42",
     "cosmos",
     "RUNE II - Berserker Rage Upgrade Pack",
@@ -14852,6 +14972,21 @@
     "squad"
   ],
   [
+    "4d3c981ec53b4229b8de211aacf06bc5",
+    "6af58339c2424644988e0fb83dfd9bd5",
+    "Chumbawamba  - \"Tubthumping\"",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "NCSoft",
+    1605048180,
+    1610037293,
+    "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_ChumbawambaTubthumping_HarmonixMusicSystemsInc_DLC_S2-1200x1600-d025c9d0ec53592d289b2a0b5e3a68d7.jpg",
+    ""
+  ],
+  [
     "4d5a7cd6f04a4d1fbb8ba0136c9ce988",
     "663e521f2a444199be58152fd93fa66e",
     "Remnant: From the Ashes – Swamps of Corsus",
@@ -15117,7 +15252,7 @@
     ],
     "Electronic Arts",
     1571353709,
-    1596306899,
+    1610036785,
     "https://cdn1.epicgames.com/e509c16d53714b13ba8e393966507255/offer/SWJFODE_ADHOC_510X680-510x680-f2abf31f8cac8ec134fa84f21cf935aa.jpg",
     "star-wars-jedi-fallen-order/deluxe-edition"
   ],
@@ -17250,6 +17385,21 @@
     1596645814,
     "https://cdn1.epicgames.com/cbbb7e8728a3476f97e44f3856c3cb13/offer/AnnoFrontiers_Store_Landscape_2560x1440-2560x1440-6ca284c33c5d46f166b79418d43cdaa8.png",
     "anno-2205/frontiers"
+  ],
+  [
+    "5a0f99dced484f2abe34bc3881a4a82a",
+    "bf333e6236914222a95a536389c05813",
+    "DLC 19",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "SEGA",
+    1609793378,
+    1610058098,
+    "",
+    ""
   ],
   [
     "5a1f3f34df1f4c21850b997aa08da19e",
@@ -23166,6 +23316,21 @@
     ""
   ],
   [
+    "7998338ecd5b4b6b84cbc1156e00fb83",
+    "bf333e6236914222a95a536389c05813",
+    "DLC 08",
+    [
+      "addons",
+      "addons/consumable",
+      "applications"
+    ],
+    "SEGA",
+    1609792610,
+    1610057684,
+    "",
+    ""
+  ],
+  [
     "79ab12df6e1f4fe1ba1a4f041d437aa6",
     "3d4ea555f7954f06b48050b3b821d6d0",
     "Fell Seal: Arbiter's Mark - Missions and Monsters",
@@ -24031,6 +24196,21 @@
     "Epic Dev Test Account",
     1568666733,
     1568666988,
+    "",
+    ""
+  ],
+  [
+    "7e7eafeb553e4c74a94ff4f1d985f6d6",
+    "bf333e6236914222a95a536389c05813",
+    "DLC 04",
+    [
+      "addons",
+      "addons/consumable",
+      "applications"
+    ],
+    "SEGA",
+    1609792471,
+    1610057538,
     "",
     ""
   ],
@@ -25315,6 +25495,21 @@
     ""
   ],
   [
+    "85a5a532dbd04ec48ad2b9ac1e772300",
+    "bf333e6236914222a95a536389c05813",
+    "DLC 18",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "SEGA",
+    1609793334,
+    1610058063,
+    "",
+    ""
+  ],
+  [
     "85eaa66c61be40ddb307483309165620",
     "25ef88acc7f34afc8ac6669e11573882",
     "PochardDevAudience",
@@ -25427,6 +25622,21 @@
     1588120702,
     "",
     "conan-exiles"
+  ],
+  [
+    "8667eb75545740fdb0ffd0bf281e0e0e",
+    "bf333e6236914222a95a536389c05813",
+    "DLC 07",
+    [
+      "addons",
+      "addons/consumable",
+      "applications"
+    ],
+    "SEGA",
+    1609792583,
+    1610057644,
+    "",
+    ""
   ],
   [
     "86787bc377e2416b8f55c12275bf4df2",
@@ -25555,7 +25765,7 @@
     ],
     "Electronic Arts",
     1569531795,
-    1596306955,
+    1610036773,
     "https://cdn1.epicgames.com/e509c16d53714b13ba8e393966507255/offer/SWJFO_ADHOC_510X680-510x680-04ec2ab0afa8b571f51c34577bf1ec09.jpg",
     "star-wars-jedi-fallen-order/home"
   ],
@@ -27694,6 +27904,21 @@
     "[]"
   ],
   [
+    "935726c8013c4f5b8d2537a2e4a3088a",
+    "bf333e6236914222a95a536389c05813",
+    "DLC 01",
+    [
+      "addons",
+      "addons/consumable",
+      "applications"
+    ],
+    "SEGA",
+    1609792144,
+    1610057473,
+    "",
+    ""
+  ],
+  [
     "935cf741114c47edb9cdbf2050630ae4",
     "ed355406eacb4633a648f682ddb492b8",
     "CastleStorm 2",
@@ -28084,6 +28309,21 @@
     "Epic Games",
     1524862865,
     1539758375,
+    "",
+    ""
+  ],
+  [
+    "94fa087e7d394fe6b89dedf23966bafa",
+    "bf333e6236914222a95a536389c05813",
+    "DLC 03",
+    [
+      "addons",
+      "addons/consumable",
+      "applications"
+    ],
+    "SEGA",
+    1609792435,
+    1610057488,
     "",
     ""
   ],
@@ -29463,7 +29703,7 @@
     ],
     "Unknown Worlds Entertainment",
     1543534188,
-    1585791731,
+    1610050790,
     "https://cdn1.epicgames.com/jaguar/offer/Subnautica_CodeRedemption-330x440-2e26adbced31295cda18beb3c502c407.png",
     "subnautica"
   ],
@@ -30946,6 +31186,21 @@
     ""
   ],
   [
+    "a0e483e61a084580bed002b07f5c15e5",
+    "bf333e6236914222a95a536389c05813",
+    "DLC 12",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "SEGA",
+    1609792785,
+    1610057832,
+    "",
+    ""
+  ],
+  [
     "a0eccdb89180467da202e70a487f5bc1",
     "076207fa2b5c4803a636af606c3c28b7",
     "Avatar x SMITE Bundle",
@@ -31338,6 +31593,21 @@
     1589468400,
     "https://cdn1.epicgames.com/pansy/offer/ThumbDangerousDriving-340x440-f7b08ee51f6d420374fb74fa25b8f549.jpg",
     "dangerous-driving/home"
+  ],
+  [
+    "a3269970b5c54091a80682ada599a2a7",
+    "bf333e6236914222a95a536389c05813",
+    "DLC 15",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "SEGA",
+    1609793161,
+    1610057909,
+    "",
+    ""
   ],
   [
     "a338526fa87f46ed920bb0107e1e1f9c",
@@ -32925,7 +33195,7 @@
     ],
     "IO Interactive",
     1580924472,
-    1605220389,
+    1610044027,
     "https://cdn1.epicgames.com/ed55aa5edc5941de92fd7f64de415793/offer/EGS_HITMAN3_IOInteractiveAS_S2-1200x1600-b285fb6eb586113c9479ff33ed646b69.jpg",
     "hitman-3"
   ],
@@ -33166,6 +33436,22 @@
     1596554343,
     "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Paladins_EGS_2500_Crystals_2560x1440-2560x1440-ec31fbd065a002462413f0b4a4ce70fe.jpg",
     ""
+  ],
+  [
+    "acf070eabcc54593b1752e6ccf2b2112",
+    "aa54bad47e504fdca79a3eb77be8c465",
+    "Monkey Barrels",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Good-Feel Co",
+    1605705311,
+    1610121098,
+    "https://cdn1.epicgames.com/aa54bad47e504fdca79a3eb77be8c465/offer/EGS_MONKEYBARRELS_GoodFeelCoLtd_S2-1200x1600-2a1d398bad097402dcdca68d72c61641.jpg",
+    "monkey-barrels"
   ],
   [
     "ad10a96c8c8e4c34a4f5a0fde656fad2",
@@ -33953,7 +34239,7 @@
     ],
     "Electronic Arts",
     1571351630,
-    1596306899,
+    1610036785,
     "",
     ""
   ],
@@ -37999,7 +38285,7 @@
     ],
     "Unknown Worlds Entertainment",
     1548361343,
-    1589310392,
+    1610050411,
     "https://cdn1.epicgames.com/foxglove/offer/SubnauticaBelowZero_CodeRedemption-330x440-ee0ebbbfa6920448fb4d9819f54ef8d9.png",
     ""
   ],
@@ -40222,6 +40508,21 @@
     ""
   ],
   [
+    "d65392cd9daf4dd7bef9980c422e012c",
+    "6af58339c2424644988e0fb83dfd9bd5",
+    "The Clash - \"Should I Stay or Should I Go\"",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "NCSoft",
+    1605048235,
+    1610037293,
+    "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_TheClashShouldIStayorShouldIGo_HarmonixMusicSystemsInc_DLC_S2-1200x1600-073fa4b05228f3a01b5cd090bb8114d2.jpg",
+    ""
+  ],
+  [
     "d65d6c5c2fd54c8a9483386f08ba6955",
     "2744acda6a2e493e9894b389b6564df7",
     "SnowRunner - True Colors Vinyl Wrap",
@@ -41028,6 +41329,21 @@
     1608245421,
     "https://cdn1.epicgames.com/3fafb94f3f804d6bbe85da723c90e689/offer/EGS_FootballManager2021Touch_SportsInteractive_DLC_S2-1200x1600-3eaf4f6e401d44eb1099aa57c74a94c6.jpg",
     "[]"
+  ],
+  [
+    "da6e83c001994d648188a3a2b6e4d36a",
+    "bf333e6236914222a95a536389c05813",
+    "DLC 16",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "SEGA",
+    1609793194,
+    1610058005,
+    "",
+    ""
   ],
   [
     "da763a33956745888bea060de7ecf059",
@@ -46773,6 +47089,21 @@
     "tetris-effect/home"
   ],
   [
+    "f67db8cc6bad48928f69028e7b74b332",
+    "bf333e6236914222a95a536389c05813",
+    "DLC 09",
+    [
+      "addons",
+      "addons/consumable",
+      "applications"
+    ],
+    "SEGA",
+    1609792642,
+    1610057715,
+    "",
+    ""
+  ],
+  [
     "f687b9ca6725409494d7ffba82d5abaf",
     "epic",
     "The Cycle",
@@ -47474,6 +47805,21 @@
     1547504023,
     1588121198,
     "https://cdn1.epicgames.com/ocelot/item/WD4-PORTRAIT-PROMO-1280x1420-223b26a43ddb24d89ea04dd9fe7a65ca.jpg",
+    ""
+  ],
+  [
+    "f9c0e9d65dfc41daa05f644e7fb37913",
+    "bf333e6236914222a95a536389c05813",
+    "DLC 11",
+    [
+      "addons",
+      "addons/consumable",
+      "applications"
+    ],
+    "SEGA",
+    1609792742,
+    1610057775,
+    "",
     ""
   ],
   [

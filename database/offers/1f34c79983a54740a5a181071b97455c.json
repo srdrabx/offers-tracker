@@ -1,0 +1,51 @@
+{
+  "id": "1f34c79983a54740a5a181071b97455c",
+  "namespace": "bf333e6236914222a95a536389c05813",
+  "title": "DLC 17",
+  "description": "DLC 17",
+  "longDescription": "DLC 17",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "17-dlc",
+  "creationDate": "2021-01-04T20:47:23.579Z",
+  "lastModifiedDate": "2021-01-07T22:20:30.741Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-yqy54tnq77et5vf5dtpvz8czyahm2y",
+    "name": "SEGA"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "SZ, NL, AN, BL, SD, MF, SH, PN, BV, TF, HM, BE, KR, SS, JP, AQ"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "56ee256d88804d35ae36d9f6fa2da458"
+    }
+  ],
+  "catalogNs": null
+}

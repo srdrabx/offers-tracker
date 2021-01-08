@@ -8,7 +8,7 @@
   "productSlug": "star-wars-jedi-fallen-order/deluxe-edition",
   "urlSlug": "shoebill-deluxe-edition",
   "creationDate": "2019-10-17T23:08:29.322Z",
-  "lastModifiedDate": "2020-08-01T18:34:59.585Z",
+  "lastModifiedDate": "2021-01-07T16:26:25.240Z",
   "effectiveDate": "2019-11-14T05:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -114,9 +114,6 @@
     }
   ],
   "items": [
-    {
-      "id": "39a4734792344813b44d7194ce02a3af"
-    },
     {
       "id": "e8eb21381ef74967a28022ba70f34301"
     },

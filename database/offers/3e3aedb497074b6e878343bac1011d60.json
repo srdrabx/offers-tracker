@@ -32,7 +32,18 @@
     }
   ],
   "tags": [
-    null
+    {
+      "id": "11631",
+      "name": "REQUIRES 2FA",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2020-04-29T16:18:12.784Z",
+      "updated": "2020-07-29T19:40:33.650Z",
+      "status": "ACTIVE",
+      "referenceCount": 5,
+      "comment": "Tag used to denote that this product will require the user to have 2 factor authentication enabled"
+    }
   ],
   "customAttributes": [
     {

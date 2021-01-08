@@ -1,0 +1,51 @@
+{
+  "id": "8667eb75545740fdb0ffd0bf281e0e0e",
+  "namespace": "bf333e6236914222a95a536389c05813",
+  "title": "DLC 07",
+  "description": "DLC 07",
+  "longDescription": "DLC 07",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "07-dlc",
+  "creationDate": "2021-01-04T20:36:23.749Z",
+  "lastModifiedDate": "2021-01-07T22:14:04.453Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-yqy54tnq77et5vf5dtpvz8czyahm2y",
+    "name": "SEGA"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/consumable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "SZ, NL, AN, BL, SD, MF, SH, PN, BV, TF, HM, BE, KR, SS, JP, AQ"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "ed66ba30c9a5483b83fa107527031d88"
+    }
+  ],
+  "catalogNs": null
+}

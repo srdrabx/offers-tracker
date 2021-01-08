@@ -1,0 +1,51 @@
+{
+  "id": "a3269970b5c54091a80682ada599a2a7",
+  "namespace": "bf333e6236914222a95a536389c05813",
+  "title": "DLC 15",
+  "description": "DLC 15",
+  "longDescription": "DLC 15",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "15-dlc",
+  "creationDate": "2021-01-04T20:46:01.588Z",
+  "lastModifiedDate": "2021-01-07T22:18:29.078Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-yqy54tnq77et5vf5dtpvz8czyahm2y",
+    "name": "SEGA"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "SZ, NL, AN, BL, SD, MF, SH, PN, BV, TF, HM, BE, KR, SS, JP, AQ"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "254e44ff71a6420d95ffeaa9fb529468"
+    }
+  ],
+  "catalogNs": null
+}

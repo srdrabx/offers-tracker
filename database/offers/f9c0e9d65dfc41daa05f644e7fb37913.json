@@ -1,0 +1,51 @@
+{
+  "id": "f9c0e9d65dfc41daa05f644e7fb37913",
+  "namespace": "bf333e6236914222a95a536389c05813",
+  "title": "DLC 11",
+  "description": "DLC 11",
+  "longDescription": "DLC 11",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "11-dlc",
+  "creationDate": "2021-01-04T20:39:02.321Z",
+  "lastModifiedDate": "2021-01-07T22:16:15.154Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-yqy54tnq77et5vf5dtpvz8czyahm2y",
+    "name": "SEGA"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/consumable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "SZ, NL, AN, BL, SD, MF, SH, PN, BV, TF, HM, BE, KR, SS, JP, AQ"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "c30f63596988425bb93e87b6cc454c89"
+    }
+  ],
+  "catalogNs": null
+}

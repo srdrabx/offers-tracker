@@ -8,7 +8,7 @@
   "productSlug": "star-wars-jedi-fallen-order/home",
   "urlSlug": "shoebillgeneralaudience",
   "creationDate": "2019-09-26T21:03:15.867Z",
-  "lastModifiedDate": "2020-08-01T18:35:55.847Z",
+  "lastModifiedDate": "2021-01-07T16:26:13.391Z",
   "effectiveDate": "2019-11-14T05:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -195,9 +195,6 @@
     }
   ],
   "items": [
-    {
-      "id": "39a4734792344813b44d7194ce02a3af"
-    },
     {
       "id": "f5df0f7ea3534b99bccde279e84c3f3a"
     }

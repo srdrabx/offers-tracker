@@ -1,0 +1,51 @@
+{
+  "id": "5a0f99dced484f2abe34bc3881a4a82a",
+  "namespace": "bf333e6236914222a95a536389c05813",
+  "title": "DLC 19",
+  "description": "DLC 19",
+  "longDescription": "DLC 19",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "19-dlc",
+  "creationDate": "2021-01-04T20:49:38.352Z",
+  "lastModifiedDate": "2021-01-07T22:21:38.144Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-yqy54tnq77et5vf5dtpvz8czyahm2y",
+    "name": "SEGA"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "SZ, NL, AN, BL, SD, MF, SH, PN, BV, TF, HM, BE, KR, SS, JP, AQ"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "9d50b2bdd2f849569592b82a59ae76fc"
+    }
+  ],
+  "catalogNs": null
+}
