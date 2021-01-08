@@ -38,18 +38,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "9547",
-      "name": "WINDOWS",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-12-15T01:43:02.751Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    },
+    null,
     {
       "id": "1117",
       "name": "ADVENTURE",
@@ -62,18 +51,7 @@
       "referenceCount": 84,
       "comment": null
     },
-    {
-      "id": "9549",
-      "name": "CONTROLLER SUPPORT",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2020-12-15T01:43:59.524Z",
-      "status": "ACTIVE",
-      "referenceCount": 103,
-      "comment": null
-    },
+    null,
     {
       "id": "1151",
       "name": "PLATFORMER",
@@ -84,18 +62,6 @@
       "updated": "2020-12-15T01:48:27.201Z",
       "status": "ACTIVE",
       "referenceCount": 14,
-      "comment": null
-    },
-    {
-      "id": "1263",
-      "name": "INDIE",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2020-12-15T01:46:42.546Z",
-      "status": "ACTIVE",
-      "referenceCount": 46,
       "comment": null
     }
   ],

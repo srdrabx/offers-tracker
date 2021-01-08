@@ -38,66 +38,11 @@
     }
   ],
   "tags": [
-    {
-      "id": "1296",
-      "name": "CASUAL",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:45.644Z",
-      "updated": "2020-12-15T01:48:06.235Z",
-      "status": "ACTIVE",
-      "referenceCount": 18,
-      "comment": null
-    },
-    {
-      "id": "1298",
-      "name": "PUZZLE",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:46.616Z",
-      "updated": "2020-12-15T01:47:26.504Z",
-      "status": "ACTIVE",
-      "referenceCount": 27,
-      "comment": null
-    },
-    {
-      "id": "1370",
-      "name": "SINGLEPLAYER",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-12-15T01:43:50.926Z",
-      "status": "ACTIVE",
-      "referenceCount": 195,
-      "comment": null
-    },
-    {
-      "id": "1115",
-      "name": "STRATEGY",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2020-12-15T01:46:50.820Z",
-      "status": "ACTIVE",
-      "referenceCount": 33,
-      "comment": null
-    },
-    {
-      "id": "11631",
-      "name": "REQUIRES 2FA",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2020-04-29T16:18:12.784Z",
-      "updated": "2020-07-29T19:40:33.650Z",
-      "status": "ACTIVE",
-      "referenceCount": 5,
-      "comment": "Tag used to denote that this product will require the user to have 2 factor authentication enabled"
-    }
+    null,
+    null,
+    null,
+    null,
+    null
   ],
   "customAttributes": [
     {

@@ -74,18 +74,7 @@
       "referenceCount": 46,
       "comment": null
     },
-    {
-      "id": "1210",
-      "name": "SHOOTER",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:02.690Z",
-      "updated": "2020-12-15T01:47:09.800Z",
-      "status": "ACTIVE",
-      "referenceCount": 28,
-      "comment": null
-    },
+    null,
     {
       "id": "1370",
       "name": "SINGLEPLAYER",
