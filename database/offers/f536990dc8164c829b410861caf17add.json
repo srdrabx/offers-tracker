@@ -8,7 +8,7 @@
   "productSlug": "hitman",
   "urlSlug": "hitman-goty",
   "creationDate": "2019-07-26T15:20:44.733Z",
-  "lastModifiedDate": "2020-09-03T14:31:09.328Z",
+  "lastModifiedDate": "2021-01-08T22:37:53.268Z",
   "effectiveDate": "2020-09-03T14:58:00.000Z",
   "viewableDate": "2020-09-03T14:58:00.000Z",
   "developer": null,
@@ -206,6 +206,9 @@
     }
   ],
   "items": [
+    {
+      "id": "e698e1a4b63947b0bc9349a5ae2dc015"
+    },
     {
       "id": "81aecb49a60b47478e61e1cbd68d63c5"
     },

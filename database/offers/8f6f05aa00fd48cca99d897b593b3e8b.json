@@ -50,18 +50,7 @@
       "referenceCount": 110,
       "comment": null
     },
-    {
-      "id": "1258",
-      "name": "ROGUE-LIKE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:26.599Z",
-      "updated": "2020-09-03T12:47:51.252Z",
-      "status": "ACTIVE",
-      "referenceCount": 4,
-      "comment": null
-    },
+    null,
     {
       "id": "9547",
       "name": "WINDOWS",

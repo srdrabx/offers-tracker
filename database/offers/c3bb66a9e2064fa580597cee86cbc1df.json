@@ -75,21 +75,7 @@
       "comment": ""
     },
     null,
-    {
-      "id": "9548",
-      "name": "OSX",
-      "namespace": "epic",
-      "aliases": [
-        "OS X",
-        "MAC OS"
-      ],
-      "operator": null,
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2020-09-15T18:08:53.889Z",
-      "status": "ACTIVE",
-      "referenceCount": 48,
-      "comment": null
-    },
+    null,
     {
       "id": "1117",
       "name": "ADVENTURE",
@@ -112,18 +98,6 @@
       "updated": "2020-12-15T01:43:59.524Z",
       "status": "ACTIVE",
       "referenceCount": 103,
-      "comment": null
-    },
-    {
-      "id": "1263",
-      "name": "INDIE",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2020-12-15T01:46:42.546Z",
-      "status": "ACTIVE",
-      "referenceCount": 46,
       "comment": null
     }
   ],
