@@ -38,33 +38,34 @@
     }
   ],
   "tags": [
+    null,
+    null,
+    null,
     {
-      "id": "1216",
-      "name": "ACTION",
-      "namespace": "epic",
+      "id": "14346",
+      "name": "Holiday Sale 2020",
+      "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2020-12-15T01:46:14.061Z",
+      "created": "2020-10-21T21:58:03.125Z",
+      "updated": "2021-01-07T16:00:15.373Z",
       "status": "ACTIVE",
-      "referenceCount": 110,
-      "comment": null
+      "referenceCount": 584,
+      "comment": ""
     },
     null,
     {
-      "id": "1210",
-      "name": "SHOOTER",
+      "id": "1307",
+      "name": "OPEN WORLD",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2019-06-20T12:00:02.690Z",
-      "updated": "2020-12-15T01:47:09.800Z",
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2020-12-15T01:46:59.402Z",
       "status": "ACTIVE",
-      "referenceCount": 28,
+      "referenceCount": 32,
       "comment": null
-    },
-    null,
-    null
+    }
   ],
   "customAttributes": [
     {

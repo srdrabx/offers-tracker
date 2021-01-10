@@ -38,8 +38,30 @@
     }
   ],
   "tags": [
-    null,
-    null
+    {
+      "id": "14346",
+      "name": "Holiday Sale 2020",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2020-10-21T21:58:03.125Z",
+      "updated": "2021-01-07T16:00:15.373Z",
+      "status": "ACTIVE",
+      "referenceCount": 584,
+      "comment": ""
+    },
+    {
+      "id": "11631",
+      "name": "REQUIRES 2FA",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2020-04-29T16:18:12.784Z",
+      "updated": "2020-07-29T19:40:33.650Z",
+      "status": "ACTIVE",
+      "referenceCount": 5,
+      "comment": "Tag used to denote that this product will require the user to have 2 factor authentication enabled"
+    }
   ],
   "customAttributes": [
     {
