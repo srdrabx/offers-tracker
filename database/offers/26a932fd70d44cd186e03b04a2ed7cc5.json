@@ -1,0 +1,56 @@
+{
+  "id": "26a932fd70d44cd186e03b04a2ed7cc5",
+  "namespace": "7ad5508d382e46228056f1d1a0189ae2",
+  "title": "Elite Faithsworn Pack",
+  "description": "Elite Faithsworn Pack",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "path-of-exile/elite-faithsworn-pack",
+  "urlSlug": "path-of-exile--elite-faithsworn-pack",
+  "creationDate": "2021-01-11T20:59:50.414Z",
+  "lastModifiedDate": "2021-01-12T00:20:40.387Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-hjnk7yyxh7s2pm8k5dhxnubswnbler",
+    "name": "Grinding Gear Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN,TW,HK,MO"
+    },
+    {
+      "key": "publisherName",
+      "value": "Grinding Gear Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "path-of-exile/elite-faithsworn-pack"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "f92b46265f32404781b06039ffbd8dd7"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,113 @@
+{
+  "id": "54b8517e50ed47209413370606685725",
+  "namespace": "dfd2530e80e4425d801913b0879be444",
+  "title": "Night Ops Jun Outfit",
+  "description": "Jun is skilled at moving quickly and quietly, all while exhibiting deadly efficiency. In this outfit – complete with beanie, black sweater and face paint - she’s all set for demo squad night ops!",
+  "longDescription": "Jun is skilled at moving quickly and quietly, all while exhibiting deadly efficiency. In this outfit – complete with beanie, black sweater and face paint - she’s all set for demo squad night ops!",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "zombie-army-4-dead-war--night-ops-jun-outfit",
+  "creationDate": "2020-12-16T21:40:02.725Z",
+  "lastModifiedDate": "2021-01-11T19:50:52.367Z",
+  "effectiveDate": "2021-01-19T14:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+    "name": "Rebellion"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "Rebellion"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+      "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+      "size": 109719,
+      "uploadedDate": "2020-05-05T14:37:11.413Z",
+      "width": 842,
+      "height": 485
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_DLCCAPSULE_Night_Ops_Jun_Outfit_4k-3840x2160-5aec554649c9a9e166eaa1887c3729b2.jpg",
+      "md5": "5aec554649c9a9e166eaa1887c3729b2",
+      "size": 5781574,
+      "uploadedDate": "2021-01-05T18:57:04.333Z",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_Night_Ops_Jun_Outfit_REDEMPTIONIMAGE-860x1145-b9f6bc50c32f116d786a09645f0bf924.jpg",
+      "md5": "b9f6bc50c32f116d786a09645f0bf924",
+      "size": 408479,
+      "uploadedDate": "2021-01-05T18:59:00.690Z",
+      "width": 860,
+      "height": 1145
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_Night_Ops_Jun_Outfit_REDEMPTIONIMAGE-860x1145-b9f6bc50c32f116d786a09645f0bf924.jpg",
+      "md5": "b9f6bc50c32f116d786a09645f0bf924",
+      "size": 408479,
+      "uploadedDate": "2021-01-05T18:59:08.230Z",
+      "width": 860,
+      "height": 1145
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_Night_Ops_Jun_Outfit_REDEMPTIONIMAGE-860x1145-b9f6bc50c32f116d786a09645f0bf924.jpg",
+      "md5": "b9f6bc50c32f116d786a09645f0bf924",
+      "size": 408479,
+      "uploadedDate": "2021-01-05T18:59:18.996Z",
+      "width": 860,
+      "height": 1145
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_DLCCAPSULE_Night_Ops_Jun_Outfit_4k-3840x2160-5aec554649c9a9e166eaa1887c3729b2.jpg",
+      "md5": "5aec554649c9a9e166eaa1887c3729b2",
+      "size": 5781574,
+      "uploadedDate": "2021-01-05T18:59:39.036Z",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_Night_Ops_Jun_Outfit_REDEMPTIONIMAGE-860x1145-b9f6bc50c32f116d786a09645f0bf924.jpg",
+      "md5": "b9f6bc50c32f116d786a09645f0bf924",
+      "size": 408479,
+      "uploadedDate": "2021-01-05T18:59:49.372Z",
+      "width": 860,
+      "height": 1145
+    }
+  ],
+  "items": [
+    {
+      "id": "80a129d6e25c4eaaafc34f250eb7060f"
+    }
+  ],
+  "catalogNs": null
+}

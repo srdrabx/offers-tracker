@@ -234,7 +234,7 @@
     "aliases": null,
     "operator": null,
     "created": "2019-06-20T11:59:36.154Z",
-    "updated": "2020-09-07T12:44:17.473Z",
+    "updated": "2020-09-03T13:38:25.606Z",
     "status": "ACTIVE",
     "referenceCount": 2,
     "comment": null
@@ -575,18 +575,6 @@
     "referenceCount": 1,
     "comment": null
   },
-  "1289": {
-    "id": "1289",
-    "name": "CRAFTING",
-    "namespace": "epic",
-    "aliases": null,
-    "operator": null,
-    "created": "2019-06-20T12:00:42.141Z",
-    "updated": "2020-08-28T11:58:21.202Z",
-    "status": "ACTIVE",
-    "referenceCount": 0,
-    "comment": null
-  },
   "1294": {
     "id": "1294",
     "name": "FIRST-PERSON",
@@ -753,30 +741,6 @@
     "updated": "2020-12-15T01:50:17.206Z",
     "status": "ACTIVE",
     "referenceCount": 8,
-    "comment": null
-  },
-  "1347": {
-    "id": "1347",
-    "name": "ALIENS",
-    "namespace": "epic",
-    "aliases": null,
-    "operator": null,
-    "created": "2019-06-20T12:01:10.791Z",
-    "updated": "2020-08-11T16:55:50.964Z",
-    "status": "ACTIVE",
-    "referenceCount": 0,
-    "comment": null
-  },
-  "1349": {
-    "id": "1349",
-    "name": "FAST-PACED",
-    "namespace": "epic",
-    "aliases": null,
-    "operator": null,
-    "created": "2019-06-20T12:01:11.761Z",
-    "updated": "2020-09-05T13:11:46.586Z",
-    "status": "ACTIVE",
-    "referenceCount": 0,
     "comment": null
   },
   "1357": {

@@ -8,7 +8,7 @@
   "productSlug": "humankind/digital-deluxe",
   "urlSlug": "humankindprepurchase",
   "creationDate": "2020-10-13T18:26:22.362Z",
-  "lastModifiedDate": "2020-10-21T16:03:23.327Z",
+  "lastModifiedDate": "2021-01-11T17:03:21.367Z",
   "effectiveDate": "2020-10-21T16:00:00.000Z",
   "viewableDate": "2020-10-21T16:00:00.000Z",
   "developer": null,
@@ -116,7 +116,7 @@
     },
     {
       "key": "availableDate",
-      "value": "1619841600"
+      "value": "1619110929"
     },
     {
       "key": "developerName",

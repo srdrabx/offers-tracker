@@ -1,0 +1,56 @@
+{
+  "id": "9dffa1ef4e1f4cc8b01120e4905537fd",
+  "namespace": "7ad5508d382e46228056f1d1a0189ae2",
+  "title": "Renegade Pack Audience",
+  "description": "Renegade Pack Audience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "path-of-exile/renegade-pack",
+  "urlSlug": "path-of-exile--renegade-pack",
+  "creationDate": "2021-01-11T21:05:52.517Z",
+  "lastModifiedDate": "2021-01-12T00:20:34.619Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-hjnk7yyxh7s2pm8k5dhxnubswnbler",
+    "name": "Grinding Gear Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN,TW,HK,MO"
+    },
+    {
+      "key": "publisherName",
+      "value": "Grinding Gear Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "path-of-exile/renegade-pack"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "d0cdda92cc86411db804ff1809a4707f"
+    }
+  ],
+  "catalogNs": null
+}
