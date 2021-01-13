@@ -585,8 +585,8 @@
     ],
     "Grinding Gear Games",
     1610400351,
-    1610410852,
-    "",
+    1610521714,
+    "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_DeadlyRenegade-1200x1600-8aef44fab9f48e5e97f8e6a7052fba4b.png",
     ""
   ],
   [
@@ -855,7 +855,7 @@
     ],
     "2K Games, Inc.",
     1604603824,
-    1604962990,
+    1610482189,
     "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_UL_ED_EPIC_Portrait_860x1148-860x1148-c040cc358321cd1fb63e6647be0ccb3c.jpg",
     "borderlands-3/ultimate-edition"
   ],
@@ -1975,7 +1975,7 @@
     ],
     "Ubisoft Entertainment",
     1566622232,
-    1607466185,
+    1610484979,
     "https://cdn1.epicgames.com/9e30bd4e12954cee898f4c059625d374/offer/GameName_Store_Portrait_1200x1600_EN-1200x1600-d315d0ec00c50d29b8e6d099d33f29c1.jpg",
     "prince-of-persia-sands-of-time/home"
   ],
@@ -3505,6 +3505,20 @@
     ""
   ],
   [
+    "12193f976e3342769eb7448cfe19cf02",
+    "2ccd3d825eff465393503a7a8ef7b5a0",
+    "PalladiumGeneralAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "White Thorn Digital",
+    1610522603,
+    1610523981,
+    "",
+    ""
+  ],
+  [
     "12198c1b8d7f4e8ba096fea7a72ae083",
     "3fafb94f3f804d6bbe85da723c90e689",
     "Rolling Contract",
@@ -4125,6 +4139,20 @@
     1588120702,
     "",
     "rainbow-six-quarantine/home"
+  ],
+  [
+    "15383ea68cea44da913cc8e1c5df90d1",
+    "84c76746bce94effb8e1047fabfd7eb7",
+    "DLC 016",
+    [
+      "games",
+      "applications"
+    ],
+    "Wargaming Group Limited",
+    1610551412,
+    1610551412,
+    "",
+    ""
   ],
   [
     "15480de321c946ecb984fe3ccbd32579",
@@ -7505,8 +7533,8 @@
     ],
     "Grinding Gear Games",
     1610398790,
-    1610410840,
-    "",
+    1610521580,
+    "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_EliteFaithsworn-1200x1600-3723426f6dab304838455456f0b8f290.png",
     "path-of-exile/elite-faithsworn-pack"
   ],
   [
@@ -16684,7 +16712,7 @@
     ],
     "2K Games, Inc.",
     1576866652,
-    1604965703,
+    1610482261,
     "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_BL_SuperDeluxe-340x440-46c7ac76071433b32c89be85520c2337-340x440-46c7ac76071433b32c89be85520c2337.jpg",
     "borderlands-3"
   ],
@@ -20123,6 +20151,20 @@
     "the-sinking-city/home"
   ],
   [
+    "676c6d131bac43278143075f15ac17ae",
+    "84c76746bce94effb8e1047fabfd7eb7",
+    "DLC 019",
+    [
+      "games",
+      "applications"
+    ],
+    "Wargaming Group Limited",
+    1610551596,
+    1610551612,
+    "",
+    ""
+  ],
+  [
     "679d479f0ecc4ac981a6df45a9f74213",
     "ceaa24233cdb4b678a1cf515e3a912e8",
     "God's Trigger O.M.G. Extras",
@@ -20526,6 +20568,20 @@
     1605819311,
     "https://cdn1.epicgames.com/b6b2ef0cc19a4adaaa1cf6c7ed000dfa/offer/EGS_GodfallAscendedEdition_CounterplayGames_Editions_S2-1200x1600-a985b156c62b73e59dac7e287b6bf0c3.jpg",
     "godfall/ascended-edition"
+  ],
+  [
+    "694b38334ae1468f9eca74bf530f24f5",
+    "84c76746bce94effb8e1047fabfd7eb7",
+    "DLC 014",
+    [
+      "games",
+      "applications"
+    ],
+    "Wargaming Group Limited",
+    1610551273,
+    1610551290,
+    "",
+    ""
   ],
   [
     "6981d7b46a594991b7dc2b27d64dd501",
@@ -22724,7 +22780,7 @@
     ],
     "2K Games, Inc.",
     1567175938,
-    1604965786,
+    1610482333,
     "https://cdn1.epicgames.com/catnip/offer/CodeRedemption_BL_SuperDeluxe-340x440-46c7ac76071433b32c89be85520c2337.jpg",
     "borderlands-3/super-deluxe-edition"
   ],
@@ -30082,8 +30138,8 @@
     ],
     "Grinding Gear Games",
     1610398604,
-    1610410829,
-    "",
+    1610521525,
+    "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_Faithsworn-1200x1600-408a3d1cfdec4f74aeb26bdb57e4663f.png",
     "path-of-exile/faithsworn-pack"
   ],
   [
@@ -30661,15 +30717,15 @@
   [
     "9dffa1ef4e1f4cc8b01120e4905537fd",
     "7ad5508d382e46228056f1d1a0189ae2",
-    "Renegade Pack Audience",
+    "Renegade Pack",
     [
       "games",
       "applications"
     ],
     "Grinding Gear Games",
     1610399152,
-    1610410834,
-    "",
+    1610521659,
+    "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_Renegade-1200x1600-b11b8e155a7d30ab6ff9ae091cab5d8a.png",
     "path-of-exile/renegade-pack"
   ],
   [
@@ -31256,6 +31312,20 @@
     1596163738,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_FG42DLC_KEYREDEMPTION-860x1180-06dbeafc3b07f43d15bf47d0ea738d65-860x1180-06dbeafc3b07f43d15bf47d0ea738d65.jpg",
     "zombie-army-4-dead-war/fg-42-automatic-rifle"
+  ],
+  [
+    "a0650e8fb0074d5aa02f4f8e64c1c056",
+    "84c76746bce94effb8e1047fabfd7eb7",
+    "DLC 018",
+    [
+      "games",
+      "applications"
+    ],
+    "Wargaming Group Limited",
+    1610551511,
+    1610551511,
+    "",
+    ""
   ],
   [
     "a067a1f09edf42c895a3f95161f7ebe5",
@@ -38940,6 +39010,20 @@
     "the-settlers"
   ],
   [
+    "ca7c3a30c61d4483b7c3547443f1cb8c",
+    "84c76746bce94effb8e1047fabfd7eb7",
+    "DLC 017",
+    [
+      "games",
+      "applications"
+    ],
+    "Wargaming Group Limited",
+    1610551451,
+    1610551451,
+    "",
+    ""
+  ],
+  [
     "ca85810710fc4b858d73e059f0b169a5",
     "1b4d97cb697f4ac09ff053738f7716e4",
     "ZincGeneralAudience",
@@ -39018,14 +39102,14 @@
   [
     "cac27f7d42e546e49f8f35f38280038c",
     "84c76746bce94effb8e1047fabfd7eb7",
-    "OWPAccount",
+    "DLC 015 - OWPAccount",
     [
       "games",
       "applications"
     ],
     "Wargaming Group Limited",
     1603400831,
-    1608230792,
+    1610552185,
     "",
     ""
   ],
@@ -42404,7 +42488,7 @@
     ],
     "2K Games, Inc.",
     1567175101,
-    1596307373,
+    1610482168,
     "https://cdn1.epicgames.com/catnip/offer/CodeRedemption_BL_Standard-340x440-61fa40b7bf06109676b7501e00de2f26.jpg",
     "borderlands-3"
   ],
@@ -48934,14 +49018,14 @@
   [
     "fe2e7ef955504b05a8a5688fb80fdf15",
     "84c76746bce94effb8e1047fabfd7eb7",
-    "ODPAccount",
+    "DLC 013 - ODPAccount",
     [
       "games",
       "applications"
     ],
     "Wargaming Group Limited",
     1603400788,
-    1608230779,
+    1610551036,
     "",
     ""
   ],

@@ -1,0 +1,56 @@
+{
+  "id": "694b38334ae1468f9eca74bf530f24f5",
+  "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+  "title": "DLC 014",
+  "description": "DLC 014",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "threedaypremiumaccountaudience",
+  "creationDate": "2021-01-13T15:21:13.266Z",
+  "lastModifiedDate": "2021-01-13T15:21:30.070Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+    "name": "Wargaming Group Limited"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "2a225fccb79d403fa8c2a38c1e723376"
+    }
+  ],
+  "catalogNs": null
+}

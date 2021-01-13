@@ -8,7 +8,7 @@
   "productSlug": "path-of-exile/elite-faithsworn-pack",
   "urlSlug": "path-of-exile--elite-faithsworn-pack",
   "creationDate": "2021-01-11T20:59:50.414Z",
-  "lastModifiedDate": "2021-01-12T00:20:40.387Z",
+  "lastModifiedDate": "2021-01-13T07:06:20.621Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -46,7 +46,44 @@
       "value": "path-of-exile/elite-faithsworn-pack"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1920x1080_EliteFaithsworn-1920x1080-1231157f69154da572f4b12383a3dcc6.png",
+      "md5": "1231157f69154da572f4b12383a3dcc6",
+      "size": 2509156,
+      "uploadedDate": "2021-01-13T07:05:45.291Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_EliteFaithsworn-1200x1600-3723426f6dab304838455456f0b8f290.png",
+      "md5": "3723426f6dab304838455456f0b8f290",
+      "size": 2880285,
+      "uploadedDate": "2021-01-13T07:05:54.637Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_EliteFaithsworn-1200x1600-3723426f6dab304838455456f0b8f290.png",
+      "md5": "3723426f6dab304838455456f0b8f290",
+      "size": 2880285,
+      "uploadedDate": "2021-01-13T07:06:09.340Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_EliteFaithsworn-1200x1600-3723426f6dab304838455456f0b8f290.png",
+      "md5": "3723426f6dab304838455456f0b8f290",
+      "size": 2880285,
+      "uploadedDate": "2021-01-13T07:06:12.905Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "f92b46265f32404781b06039ffbd8dd7"

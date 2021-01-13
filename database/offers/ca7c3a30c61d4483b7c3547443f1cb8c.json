@@ -1,0 +1,56 @@
+{
+  "id": "ca7c3a30c61d4483b7c3547443f1cb8c",
+  "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+  "title": "DLC 017",
+  "description": "DLC 017",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "thirtydaypremiumaccountaudience",
+  "creationDate": "2021-01-13T15:24:11.237Z",
+  "lastModifiedDate": "2021-01-13T15:24:11.237Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+    "name": "Wargaming Group Limited"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "415bdcc6610840e9b84f646cf7737d06"
+    }
+  ],
+  "catalogNs": null
+}

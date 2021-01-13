@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "renegade-to-deadly-renegade-upgrade",
   "creationDate": "2021-01-11T21:25:51.019Z",
-  "lastModifiedDate": "2021-01-12T00:20:52.537Z",
+  "lastModifiedDate": "2021-01-13T07:08:34.886Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -42,7 +42,44 @@
       "value": "Grinding Gear Games"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1920x1080_DeadlyRenegade-1920x1080-e53be7f9f1dda3b0dab7e09dbe6f2f23.png",
+      "md5": "e53be7f9f1dda3b0dab7e09dbe6f2f23",
+      "size": 2195673,
+      "uploadedDate": "2021-01-13T07:08:04.980Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_DeadlyRenegade-1200x1600-8aef44fab9f48e5e97f8e6a7052fba4b.png",
+      "md5": "8aef44fab9f48e5e97f8e6a7052fba4b",
+      "size": 2581220,
+      "uploadedDate": "2021-01-13T07:08:13.677Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_DeadlyRenegade-1200x1600-8aef44fab9f48e5e97f8e6a7052fba4b.png",
+      "md5": "8aef44fab9f48e5e97f8e6a7052fba4b",
+      "size": 2581220,
+      "uploadedDate": "2021-01-13T07:08:26.169Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_DeadlyRenegade-1200x1600-8aef44fab9f48e5e97f8e6a7052fba4b.png",
+      "md5": "8aef44fab9f48e5e97f8e6a7052fba4b",
+      "size": 2581220,
+      "uploadedDate": "2021-01-13T07:08:30.514Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "4ec916a2937b472aaf6e0cee1ed776b6"

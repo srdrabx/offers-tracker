@@ -8,7 +8,7 @@
   "productSlug": "path-of-exile/faithsworn-pack",
   "urlSlug": "path-of-exile--faithsworn-pack",
   "creationDate": "2021-01-11T20:56:44.656Z",
-  "lastModifiedDate": "2021-01-12T00:20:29.406Z",
+  "lastModifiedDate": "2021-01-13T07:05:25.723Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -46,7 +46,44 @@
       "value": "path-of-exile/faithsworn-pack"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1920x1080_Faithsworn-1920x1080-6797b75ca331f45ed92a9c82b2dfa973.png",
+      "md5": "6797b75ca331f45ed92a9c82b2dfa973",
+      "size": 2353807,
+      "uploadedDate": "2021-01-13T07:04:49.162Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_Faithsworn-1200x1600-408a3d1cfdec4f74aeb26bdb57e4663f.png",
+      "md5": "408a3d1cfdec4f74aeb26bdb57e4663f",
+      "size": 2613875,
+      "uploadedDate": "2021-01-13T07:04:58.074Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_Faithsworn-1200x1600-408a3d1cfdec4f74aeb26bdb57e4663f.png",
+      "md5": "408a3d1cfdec4f74aeb26bdb57e4663f",
+      "size": 2613875,
+      "uploadedDate": "2021-01-13T07:05:17.608Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_Faithsworn-1200x1600-408a3d1cfdec4f74aeb26bdb57e4663f.png",
+      "md5": "408a3d1cfdec4f74aeb26bdb57e4663f",
+      "size": 2613875,
+      "uploadedDate": "2021-01-13T07:05:21.075Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "57feb1b0775342eba7e159e7747d8aeb"
