@@ -8,7 +8,7 @@
   "productSlug": "far-cry-5/season-pass",
   "urlSlug": "far-cry-5--season-pass",
   "creationDate": "2019-10-21T18:19:27.202Z",
-  "lastModifiedDate": "2020-08-07T23:31:28.435Z",
+  "lastModifiedDate": "2021-01-14T16:12:33.920Z",
   "effectiveDate": "2020-02-07T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -103,6 +103,12 @@
   "items": [
     {
       "id": "e85f777d95f34665bb7d537a1ae93248"
+    },
+    {
+      "id": "4857b7e1690c4817a623c276d47dbc33"
+    },
+    {
+      "id": "8ab5095a207a46fa8b18e7c1eb440e39"
     },
     {
       "id": "7522770b77b947e7bdb57579788bdb43"

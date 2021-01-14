@@ -50,18 +50,7 @@
       "referenceCount": 14,
       "comment": null
     },
-    {
-      "id": "1307",
-      "name": "OPEN WORLD",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:51.191Z",
-      "updated": "2020-12-15T01:46:59.402Z",
-      "status": "ACTIVE",
-      "referenceCount": 32,
-      "comment": null
-    },
+    null,
     {
       "id": "9547",
       "name": "WINDOWS",
@@ -72,18 +61,6 @@
       "updated": "2020-12-15T01:43:02.751Z",
       "status": "ACTIVE",
       "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "1294",
-      "name": "FIRST-PERSON",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:44.596Z",
-      "updated": "2020-12-15T01:47:39.866Z",
-      "status": "ACTIVE",
-      "referenceCount": 24,
       "comment": null
     }
   ],

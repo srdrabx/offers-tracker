@@ -62,18 +62,7 @@
       "referenceCount": 259,
       "comment": null
     },
-    {
-      "id": "1341",
-      "name": "SUPERNATURAL",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:07.859Z",
-      "updated": "2020-09-09T23:59:30.522Z",
-      "status": "ACTIVE",
-      "referenceCount": 2,
-      "comment": null
-    },
+    null,
     {
       "id": "1294",
       "name": "FIRST-PERSON",

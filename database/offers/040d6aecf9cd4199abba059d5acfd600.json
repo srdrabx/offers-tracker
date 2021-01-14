@@ -74,18 +74,7 @@
       "referenceCount": 20,
       "comment": null
     },
-    {
-      "id": "1298",
-      "name": "PUZZLE",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:46.616Z",
-      "updated": "2020-12-15T01:47:26.504Z",
-      "status": "ACTIVE",
-      "referenceCount": 27,
-      "comment": null
-    },
+    null,
     {
       "id": "1203",
       "name": "MULTIPLAYER",

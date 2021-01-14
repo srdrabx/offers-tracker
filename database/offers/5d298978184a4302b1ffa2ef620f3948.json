@@ -1,0 +1,56 @@
+{
+  "id": "5d298978184a4302b1ffa2ef620f3948",
+  "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+  "title": "DLC 006",
+  "description": "DLC 006",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "dlc006audience",
+  "creationDate": "2021-01-13T18:14:25.968Z",
+  "lastModifiedDate": "2021-01-13T18:17:22.080Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+    "name": "Wargaming Group Limited"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "da8c5c0f08154124a93631e274cfa997"
+    }
+  ],
+  "catalogNs": null
+}

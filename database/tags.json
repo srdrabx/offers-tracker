@@ -275,18 +275,6 @@
     "referenceCount": 1,
     "comment": null
   },
-  "1171": {
-    "id": "1171",
-    "name": "HACK AND SLASH",
-    "namespace": "epic",
-    "aliases": null,
-    "operator": null,
-    "created": "2019-06-20T11:59:43.507Z",
-    "updated": "2019-06-20T11:59:43.507Z",
-    "status": "ACTIVE",
-    "referenceCount": null,
-    "comment": null
-  },
   "1179": {
     "id": "1179",
     "name": "VR",
@@ -755,18 +743,6 @@
     "referenceCount": 8,
     "comment": null
   },
-  "1347": {
-    "id": "1347",
-    "name": "ALIENS",
-    "namespace": "epic",
-    "aliases": null,
-    "operator": null,
-    "created": "2019-06-20T12:01:10.791Z",
-    "updated": "2020-08-11T16:55:50.964Z",
-    "status": "ACTIVE",
-    "referenceCount": 0,
-    "comment": null
-  },
   "1349": {
     "id": "1349",
     "name": "FAST-PACED",
@@ -777,18 +753,6 @@
     "updated": "2020-09-05T13:11:46.586Z",
     "status": "ACTIVE",
     "referenceCount": 0,
-    "comment": null
-  },
-  "1357": {
-    "id": "1357",
-    "name": "VR ONLY",
-    "namespace": "epic",
-    "aliases": null,
-    "operator": null,
-    "created": "2019-06-20T12:01:15.666Z",
-    "updated": "2019-06-20T12:01:15.666Z",
-    "status": "ACTIVE",
-    "referenceCount": null,
     "comment": null
   },
   "1365": {

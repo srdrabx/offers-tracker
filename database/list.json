@@ -192,6 +192,20 @@
     ""
   ],
   [
+    "01292f4bbcc84a87aac59b7ff94851e5",
+    "84c76746bce94effb8e1047fabfd7eb7",
+    "DLC 010",
+    [
+      "games",
+      "applications"
+    ],
+    "Wargaming Group Limited",
+    1610562497,
+    1610562511,
+    "",
+    ""
+  ],
+  [
     "014812a6932f45bebfa6313ee17ddac0",
     "77f2b98e2cef40c8a7437518bf420e47",
     "Cyberpunk 2077",
@@ -453,6 +467,21 @@
     1563233767,
     1587994964,
     "",
+    ""
+  ],
+  [
+    "033eca2707e84dfdbf42c6fda4160fca",
+    "3c52fbac843d4375803187739db84801",
+    "Galactic Civilizations III - Rise of the Terrans",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Stardock Entertainment, Inc",
+    1607501569,
+    1610637188,
+    "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/offer/terrans tall-1200x1600-6ff1fae3a50e0a7e79039e006a7297bf.jpeg",
     ""
   ],
   [
@@ -2570,6 +2599,21 @@
     "vampire-the-masquerade-bloodlines-2/unsanctioned-edition"
   ],
   [
+    "0e1b1f8e8e6d41978cc8e519e24e19b3",
+    "3c52fbac843d4375803187739db84801",
+    "Galactic Civilization III - Heroes of Star Control: Origins",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Stardock Entertainment, Inc",
+    1607501825,
+    1610637188,
+    "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/offer/heroes tall-1200x1600-aa50abbe33370b9463ef1f69b6f8ab0a.jpeg",
+    ""
+  ],
+  [
     "0e2cbcb3d2c84c9ab26f38b0b619b260",
     "fn",
     "Llamalaxy",
@@ -4020,6 +4064,21 @@
     ""
   ],
   [
+    "14589ba871de4a71a03700560867fce7",
+    "3c52fbac843d4375803187739db84801",
+    "Galactic Civilizations III - Worlds in Crisis",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Stardock Entertainment, Inc",
+    1607501886,
+    1610637188,
+    "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/offer/crisis tall-1200x1600-019711170372ad3c4c9774e2a3b8872b.jpeg",
+    ""
+  ],
+  [
     "146d38b2dd354de7908ad6034daebe61",
     "azalea",
     "Founder's Pack: ScoutPack",
@@ -4150,7 +4209,7 @@
     ],
     "Wargaming Group Limited",
     1610551412,
-    1610551412,
+    1610563847,
     "",
     ""
   ],
@@ -5782,6 +5841,20 @@
     1589222405,
     "https://cdn1.epicgames.com/40c34bea9cd0460589c867f6a7246342/offer/CodeRedemption_AkhamCity-337x440-edff86fa31331fc37acc2d6fcb402a11.jpg",
     "batman-arkham-city/home"
+  ],
+  [
+    "1d9ad81ba90d4cca9cbeef0be40e44c0",
+    "84c76746bce94effb8e1047fabfd7eb7",
+    "DLC 011",
+    [
+      "games",
+      "applications"
+    ],
+    "Wargaming Group Limited",
+    1610562698,
+    1610562698,
+    "",
+    ""
   ],
   [
     "1da8d0dbf83d4abaaa36dfb8305c3579",
@@ -8203,6 +8276,21 @@
     1608152962,
     "https://cdn1.epicgames.com/764eb429792649e4a606413cd649de2c/offer/SFBW-S2-1280x1440-6a3160fdcb57839f73332ede6564e19e-1280x1440-6a3160fdcb57839f73332ede6564e19e.jpg",
     "south-park-the-fractured-but-whole/from-dusk-till-casa-bonita"
+  ],
+  [
+    "2a85adc2533b443abba8fed47521cfde",
+    "3c52fbac843d4375803187739db84801",
+    "Galactic Civilizations III - Mech Parts Kit",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Stardock Entertainment, Inc",
+    1607501761,
+    1610637188,
+    "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/offer/mech tall-1200x1600-7b76fcdbaa91962bf96b9a2e248c51e6.jpeg",
+    ""
   ],
   [
     "2aa893533da449c7b146c72880a414b3",
@@ -11522,6 +11610,20 @@
     ""
   ],
   [
+    "3a786cb6cb29487c8823146af83aa18c",
+    "84c76746bce94effb8e1047fabfd7eb7",
+    "DLC 007",
+    [
+      "games",
+      "applications"
+    ],
+    "Wargaming Group Limited",
+    1610562102,
+    1610562112,
+    "",
+    ""
+  ],
+  [
     "3a79bfcd293749ac987562c091302527",
     "f7d5c4e850874d2c9fa043e9516a7a49",
     "Twin Mirror",
@@ -11594,6 +11696,20 @@
     "SEGA of Europe",
     1603745892,
     1608309409,
+    "",
+    ""
+  ],
+  [
+    "3aeb7b1d4471494fb76b2c05bc66687d",
+    "7e1b3a8e19c949c0bfaed0424a8c4bb5",
+    "DevStrontiumAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "Kongregate",
+    1610580030,
+    1610582157,
     "",
     ""
   ],
@@ -12021,6 +12137,20 @@
     "wargame-red-dragon"
   ],
   [
+    "3cd12212ca90498e988ee6d748d93f3a",
+    "84c76746bce94effb8e1047fabfd7eb7",
+    "DLC 008",
+    [
+      "games",
+      "applications"
+    ],
+    "Wargaming Group Limited",
+    1610562298,
+    1610562376,
+    "",
+    ""
+  ],
+  [
     "3cebd18182e14a71a2a87dbbeb73e186",
     "54090fbc182e44d79b2872f24994c190",
     "DevCherryAudience",
@@ -12118,6 +12248,21 @@
     1608084831,
     1608909135,
     "https://cdn1.epicgames.com/21916c391ae4425d8f6cce2382aebd0c/offer/EGS_DarkestDungeonTheMusketeer_RedHookStudios_DLC_S2-1200x1600-09c129814201fa921fae23074dfde858.jpg",
+    ""
+  ],
+  [
+    "3dac0a66f28a4e61b51ab3b07ca74471",
+    "3c52fbac843d4375803187739db84801",
+    "Galactic Civilizations III - Revenge of the Snathi",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Stardock Entertainment, Inc",
+    1607501438,
+    1610637188,
+    "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/offer/snathi-1200x1600-9ccb4e7713070dbf8cc16a9c8ce80c2c.jpeg",
     ""
   ],
   [
@@ -13101,8 +13246,8 @@
     ],
     "SUPERHOT Sp. z.o.o",
     1574722255,
-    1607972371,
-    "https://cdn1.epicgames.com/908bed122ba84c4a908ee1e14da401c3/offer/Tall-1200x1600-1007980685c605d0a91cef5f025a87da.jpg",
+    1610578632,
+    "https://cdn1.epicgames.com/908bed122ba84c4a908ee1e14da401c3/offer/2ac39eae-91af-4f2f-81bd-d1c51d74ddf1-1200x1600-2aee8dd73e7218a2af9ac961406530b5.jpg",
     "superhot/home"
   ],
   [
@@ -13690,6 +13835,21 @@
     ""
   ],
   [
+    "45d9502bcb7f4368b3cc9aabf647f193",
+    "3c52fbac843d4375803187739db84801",
+    "Galactic Civilizations III - Lost Treasures",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Stardock Entertainment, Inc",
+    1607501603,
+    1610637188,
+    "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/offer/lost treasure tall-1200x1600-d5c85b0d2f481ea7189090e8b81eb07c.jpeg",
+    ""
+  ],
+  [
     "45fffdd898b543cfaadb6072d9dfaa58",
     "d5241c76f178492ea1540fce45616757",
     "Stranded Deep",
@@ -13710,7 +13870,6 @@
     "0a4fc789eb0143c29296de79df5387ab",
     "Crying Suns",
     [
-      "freegames",
       "games",
       "games/edition",
       "games/edition/base",
@@ -13718,7 +13877,7 @@
     ],
     "Humble Bundle",
     1593532220,
-    1610032357,
+    1610640252,
     "https://cdn1.epicgames.com/0a4fc789eb0143c29296de79df5387ab/offer/EGS_CryingSunsisatacticalroguelite_AltShift_S2-1200x1600-cade755556a8d2b988626591b9464449.jpg",
     "crying-suns"
   ],
@@ -14387,6 +14546,20 @@
     1604453142,
     1608218700,
     "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylinesCoasttoCoastRadio_ColossalOrder_DLC_S2-1200x1600-cc42619a993812f2d346e8160d569b76.jpg",
+    ""
+  ],
+  [
+    "493655b1bb534c938ca3ee3105df6fbe",
+    "84c76746bce94effb8e1047fabfd7eb7",
+    "DLC 009",
+    [
+      "games",
+      "applications"
+    ],
+    "Wargaming Group Limited",
+    1610562408,
+    1610562530,
+    "",
     ""
   ],
   [
@@ -15186,6 +15359,21 @@
     "the-dungeon-of-naheulbeuk"
   ],
   [
+    "4d81f9128265455ba71970fe3c715911",
+    "6af58339c2424644988e0fb83dfd9bd5",
+    "Chaka Demus & Pliers - \"Murder She Wrote\"",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "NCSoft",
+    1605048349,
+    1610642673,
+    "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_ChakaDemusPliersMurderSheWrote_HarmonixMusicSystemsInc_DLC_S2-1200x1600-dad886d938f32da0276260afe46c0908.jpg",
+    ""
+  ],
+  [
     "4daadb392f1c4ee2b5a3af443e614d2a",
     "fn",
     "10,000 (+3,500 Bonus) V-Bucks",
@@ -15569,6 +15757,21 @@
     1544632211,
     1588121192,
     "",
+    ""
+  ],
+  [
+    "4f1fdf7f4b0f411888c63cadbd6cef8b",
+    "6af58339c2424644988e0fb83dfd9bd5",
+    "Ricky Martin - \"Livin' La Vida Loca\"",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "NCSoft",
+    1605048313,
+    1610642673,
+    "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_RickyMartinLivinLaVidaLoca_HarmonixMusicSystemsInc_DLC_S2-1200x1600-4d64bf55644f9feec7bd977609ff80bb.jpg",
     ""
   ],
   [
@@ -18196,6 +18399,20 @@
     "vampire-the-masquerade-bloodlines-2"
   ],
   [
+    "5d298978184a4302b1ffa2ef620f3948",
+    "84c76746bce94effb8e1047fabfd7eb7",
+    "DLC 006",
+    [
+      "games",
+      "applications"
+    ],
+    "Wargaming Group Limited",
+    1610561665,
+    1610561842,
+    "",
+    ""
+  ],
+  [
     "5d50c2b2c6644380ae1fbf74e8548dea",
     "b9def67e597b4be7a16146146a044d02",
     "Mechwarrior 5 Pre-Purchase",
@@ -18208,6 +18425,23 @@
     1604938529,
     "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/Standard_Edition_Icon-700x300-454ff0b6a4a439c5e056eae993a24b2a.png",
     ""
+  ],
+  [
+    "5d63b78c08184c10933a47874117db8c",
+    "3c52fbac843d4375803187739db84801",
+    "Galactic Civilizations III",
+    [
+      "freegames",
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Stardock Entertainment, Inc",
+    1604647790,
+    1610640009,
+    "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/offer/EGS_GalacticCivilizationsIIICoreEdition_StardockEntertainment_S2-1200x1600-ef8767dbf731cda94a457c4a543341c1.jpg",
+    "galactic-civilizations-iii"
   ],
   [
     "5d6c498807bd4a38a17ed9e51e18116b",
@@ -18412,6 +18646,21 @@
     ""
   ],
   [
+    "5e0f28dcedd542cfb043b5205e3f7d7f",
+    "3c52fbac843d4375803187739db84801",
+    "Galactic Civilizations III Soundtrack",
+    [
+      "digitalextras",
+      "digitalextras/soundtrack",
+      "applications"
+    ],
+    "Stardock Entertainment, Inc",
+    1609784243,
+    1610639076,
+    "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/offer/4a2da082-73ab-4370-8a72-961782c2e686-1200x1600-ed40cc7131b8cfeafb7cddc8bbdcae78.jpeg",
+    ""
+  ],
+  [
     "5e13788bf93e43928e63a24ea657be94",
     "morpho",
     "MorphoDevAudience",
@@ -18523,6 +18772,20 @@
     1603995666,
     1608061144,
     "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
+    ""
+  ],
+  [
+    "5e763412e0aa4db1ab8d3d2f7335b81e",
+    "84c76746bce94effb8e1047fabfd7eb7",
+    "DLC 012",
+    [
+      "games",
+      "applications"
+    ],
+    "Wargaming Group Limited",
+    1610563294,
+    1610563792,
+    "",
     ""
   ],
   [
@@ -18813,6 +19076,20 @@
     1589468400,
     "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/TARGET_BOX_ART_ULT-708x1000-1bc23172eeb0fc37991976b03f9e358e.jpg",
     "ghost-recon-breakpoint/ultimate-edition"
+  ],
+  [
+    "6088b567c91b4dad87e3844efa527cfd",
+    "84c76746bce94effb8e1047fabfd7eb7",
+    "DLC 020",
+    [
+      "games",
+      "applications"
+    ],
+    "Wargaming Group Limited",
+    1610551648,
+    1610563986,
+    "",
+    ""
   ],
   [
     "60926f292d7c44f89ce2893164336f96",
@@ -20160,7 +20437,7 @@
     ],
     "Wargaming Group Limited",
     1610551596,
-    1610551612,
+    1610563979,
     "",
     ""
   ],
@@ -20579,7 +20856,7 @@
     ],
     "Wargaming Group Limited",
     1610551273,
-    1610551290,
+    1610563824,
     "",
     ""
   ],
@@ -22645,7 +22922,7 @@
     ],
     "Ubisoft Entertainment",
     1571681967,
-    1596843088,
+    1610640753,
     "https://cdn1.epicgames.com/coriander/offer/S2-FAR-CRY-5-1280x1440-bf654f75ea93df59ba8e51c8463415cc.jpg",
     "far-cry-5/season-pass"
   ],
@@ -23421,6 +23698,21 @@
     "limbo/home"
   ],
   [
+    "789a901ae44c424db74d0569e8898ea7",
+    "53310576ce1d4446b20dbbdac4f09f2d",
+    "A Total War Saga: TROY – AJAX & DIOMEDES",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "SEGA of Europe",
+    1609980226,
+    1610635998,
+    "https://cdn1.epicgames.com/53310576ce1d4446b20dbbdac4f09f2d/offer/EGS_ATotalWarSagaTROYAJAXDIOMEDES_CREATIVEASSEMBLY_DLC_S2-1200x1600-c274aff775b27c7aeeadfb50ca8e54e2.jpg",
+    "a-total-war-saga-troy/ajax-and-diomedes"
+  ],
+  [
     "78b27a85b29440aa82c488a027525cb7",
     "cbbb7e8728a3476f97e44f3856c3cb13",
     "Anno 2205 Tundra DLC",
@@ -23623,6 +23915,21 @@
     1601584510,
     "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_Malice-1200x1600-db6cafa278554546bc38a3134858ae49.png",
     "path-of-exile/malice-pack"
+  ],
+  [
+    "7a35bc4fcd704f638e09a9c7cfd687ab",
+    "6af58339c2424644988e0fb83dfd9bd5",
+    "Look Pack: Decommodification",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "NCSoft",
+    1605048568,
+    1610642673,
+    "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_LookPackDecommodification_HarmonixMusicSystemsInc_DLC_S2-1200x1600-f8deabc6634db9cabf70abf416caac27.jpg",
+    ""
   ],
   [
     "7a365a8479704d9aa86e8c036237257f",
@@ -24012,6 +24319,21 @@
     "q-u-b-e-2/home"
   ],
   [
+    "7b81913b46994fd6b99ae4ed9c688c78",
+    "3c52fbac843d4375803187739db84801",
+    "Galactic Civilizations: Mercenaries Expansion",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Stardock Entertainment, Inc",
+    1607501500,
+    1610637188,
+    "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/offer/merch tall-1200x1600-f5be33f5406604474b04ed2fc88bd3b3.jpeg",
+    ""
+  ],
+  [
     "7b841d00f8fd46f4bd420df6fb129191",
     "rosemallow",
     "The Outer Worlds Expansion Pass",
@@ -24053,6 +24375,21 @@
     1565123978,
     1569627692,
     "",
+    ""
+  ],
+  [
+    "7bdfbd43374444d192282aca21ea4a52",
+    "6af58339c2424644988e0fb83dfd9bd5",
+    "Kat DeLuna ft. Elephant Man - \"Whine Up\"",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "NCSoft",
+    1605048273,
+    1610642673,
+    "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_KatDeLunaftElephantManWhineUp_HarmonixMusicSystemsInc_DLC_S2-1200x1600-bc2eab26cb4804bc0c9b73842e938475.jpg",
     ""
   ],
   [
@@ -24315,6 +24652,22 @@
     1584979052,
     "https://cdn1.epicgames.com/clary/offer/HeroBanner-3840x2160-87a72f83066f6148f708053c998e4f1e.jpg",
     ""
+  ],
+  [
+    "7d6810596a844773bf699cd74c6a4f84",
+    "fefe1db11f534484987ef50ec1e25225",
+    "STAR WARS™ Battlefront™ Ultimate Edition",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Electronic Arts",
+    1604929382,
+    1610639571,
+    "https://cdn1.epicgames.com/fefe1db11f534484987ef50ec1e25225/offer/EGS_STARWARSBattlefrontUltimateEdition_DICE_S2-1200x1600-9c646198bcacdb8d1cded3566c718bc8.jpg",
+    "star-wars-battlefront"
   ],
   [
     "7db06b0456bc437eb6f3905e74002905",
@@ -28394,8 +28747,8 @@
     ],
     "SUPERHOT Sp. z.o.o",
     1591204920,
-    1607972732,
-    "https://cdn1.epicgames.com/56e54e682d614c468e3d5afc54ca0adf/offer/tall-1200x1600-f60c881b4ca192f98bb9e1e9b88f70a4.jpg",
+    1610578974,
+    "https://cdn1.epicgames.com/56e54e682d614c468e3d5afc54ca0adf/offer/bc5d0888-7c4f-4380-a547-01ddad8492e4-1200x1600-81abefd0c4e79a746c4d99ccf73ef748.jpg",
     "superhot-mind-control-delete"
   ],
   [
@@ -28465,6 +28818,20 @@
     "Bethesda Softworks LLC",
     1604519072,
     1604527211,
+    "",
+    ""
+  ],
+  [
+    "94723d6f7f5c46b6b315f23bc0dcd7e9",
+    "84c76746bce94effb8e1047fabfd7eb7",
+    "DLC 004",
+    [
+      "games",
+      "applications"
+    ],
+    "Wargaming Group Limited",
+    1610561557,
+    1610561557,
     "",
     ""
   ],
@@ -29441,7 +29808,7 @@
   [
     "98c3598037284dfa96d87533fcd0340f",
     "b2192c4b00db40fe8848b3be6753cfd5",
-    "Primordials of Amyrion Beta",
+    "Primordials of Amyrion - Free Weekend",
     [
       "games",
       "games/edition",
@@ -29450,9 +29817,9 @@
     ],
     "WIREGAMES d.o.o.",
     1595897379,
-    1600093540,
-    "https://cdn1.epicgames.com/b2192c4b00db40fe8848b3be6753cfd5/offer/primordials_1200x1600_beta_9mj-1200x1600-dc936163e80b1f867ee6d7fc45cf01ad.jpg",
-    "primordials-of-amyrion/beta"
+    1610637781,
+    "https://cdn1.epicgames.com/b2192c4b00db40fe8848b3be6753cfd5/offer/primordials_1200x1600_free_weekend-1200x1600-7eba0f7d3850c621fe276563fad83c41.jpg",
+    "primordials-of-amyrion/free-weekend"
   ],
   [
     "98c9b187f03f497c8c2aa5d3f45ebfa7",
@@ -30681,7 +31048,7 @@
     ],
     "Ubisoft Entertainment",
     1599553619,
-    1599767659,
+    1610600139,
     "https://cdn1.epicgames.com/a443faa3d6304a7dacd7456e0f6b0fa6/offer/ScottPilgrim_Store_Portrait_1200x1600-1200x1600-2767857f71a9289f14c0f79a48977428.jpg",
     "scott-pilgrim-vs-the-world-the-game/home"
   ],
@@ -31323,7 +31690,7 @@
     ],
     "Wargaming Group Limited",
     1610551511,
-    1610551511,
+    1610563884,
     "",
     ""
   ],
@@ -32287,6 +32654,20 @@
     "offworld-trading-company/the-europa-wager"
   ],
   [
+    "a4dc615bd35e455f93c0684c3b197882",
+    "84c76746bce94effb8e1047fabfd7eb7",
+    "DLC 002",
+    [
+      "games",
+      "applications"
+    ],
+    "Wargaming Group Limited",
+    1610561462,
+    1610562559,
+    "",
+    ""
+  ],
+  [
     "a4e9e276b6f0470889d859c0fd3da8e2",
     "6af58339c2424644988e0fb83dfd9bd5",
     "Golden Hour Theme Pack Audience",
@@ -32869,6 +33250,21 @@
     1608219279,
     "https://cdn1.epicgames.com/19d54f4a6d7e4ba99c5caf8972fbfd02/offer/HYPERSCAPE_STD_GAME_EPIC_Store_Portrait_1200x1600-1200x1600-8f085c29a0437027622d7f73b0f4d2a8.png",
     "hyper-scape"
+  ],
+  [
+    "a80cb2a59b884711a01c902e4019ec55",
+    "3c52fbac843d4375803187739db84801",
+    "Galactic Civilizations III - Precursor Worlds",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Stardock Entertainment, Inc",
+    1607501534,
+    1610637188,
+    "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/offer/precursor tall-1200x1600-cf4ae4785ee0cda704b768a641ff0786.jpeg",
+    ""
   ],
   [
     "a83256b3ec964282b11324a107e446d3",
@@ -35714,6 +36110,21 @@
     "for-honor/year-4-bundle-season-2"
   ],
   [
+    "b7bc360077eb4ecda29180057fc3f0c2",
+    "3c52fbac843d4375803187739db84801",
+    "Galactic Civilizations III Ultimate Edition",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Stardock Entertainment, Inc",
+    1609802465,
+    1610637552,
+    "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/offer/egs-galacticcivilizationsiiiultimateedition-stardockentertainment-editions-s2-1200x1600-55dc10b92351-1200x1600-c9286d860dc606c69c1194cfa2ea00f2.jpg",
+    "galactic-civilizations-iii/ultimate-edition"
+  ],
+  [
     "b7d22930cd75421ea48395d33b8313fa",
     "b04882669b2e495e9f747c8560488c93",
     "Standard Access - 1 Year",
@@ -38216,6 +38627,21 @@
     ""
   ],
   [
+    "c59b8d7556fc4d0780c333dc956c4d34",
+    "3c52fbac843d4375803187739db84801",
+    "Galactic Civilizations III - Altarian Prophecy",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Stardock Entertainment, Inc",
+    1607501734,
+    1610637188,
+    "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/offer/prophecy tall-1200x1600-a9fe44be782407236e020deaa5fbd7ed.jpeg",
+    ""
+  ],
+  [
     "c5ab3ce9055042149520779a2b353e21",
     "456d95ca54814c8d98db2f52346ff5de",
     "The Dungeon of Naheulbeuk Deluxe Edition",
@@ -39019,7 +39445,7 @@
     ],
     "Wargaming Group Limited",
     1610551451,
-    1610551451,
+    1610563862,
     "",
     ""
   ],
@@ -39100,6 +39526,21 @@
     ""
   ],
   [
+    "cabda7415da34c8b835fdbfbfe293dd2",
+    "3c52fbac843d4375803187739db84801",
+    "Galactic Civilizations III: Intrigue Expansion",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Stardock Entertainment, Inc",
+    1607501789,
+    1610637188,
+    "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/offer/intrigue tall-1200x1600-505674c3037d63d3ffffa6e390076764.jpeg",
+    ""
+  ],
+  [
     "cac27f7d42e546e49f8f35f38280038c",
     "84c76746bce94effb8e1047fabfd7eb7",
     "DLC 015 - OWPAccount",
@@ -39109,7 +39550,7 @@
     ],
     "Wargaming Group Limited",
     1603400831,
-    1610552185,
+    1610563832,
     "",
     ""
   ],
@@ -40406,6 +40847,20 @@
     1586894815,
     1594306671,
     "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
+    ""
+  ],
+  [
+    "d32339c147e5427c9dbec321a4a34702",
+    "84c76746bce94effb8e1047fabfd7eb7",
+    "DLC 005",
+    [
+      "games",
+      "applications"
+    ],
+    "Wargaming Group Limited",
+    1610561619,
+    1610561794,
+    "",
     ""
   ],
   [
@@ -42348,6 +42803,22 @@
     "kine/home"
   ],
   [
+    "dcf67ef91de64cdf8606b595e9a5d205",
+    "0558e58003aa447a8ace48c3a0d53b54",
+    "Down In Bermuda",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Yak & Co",
+    1603077311,
+    1610600200,
+    "https://cdn1.epicgames.com/0558e58003aa447a8ace48c3a0d53b54/offer/EGS_DowninBermuda_YakCo_S6-1200x1600-dba8b5c164bae127a679160dc88ae3fd.jpg",
+    "down-in-bermuda"
+  ],
+  [
     "dd174b4668c34df1bd41d748014363fd",
     "badb0ee71b474ed591ec43212547cfc8",
     "AntbirdDevAudience",
@@ -42488,8 +42959,8 @@
     ],
     "2K Games, Inc.",
     1567175101,
-    1610482168,
-    "https://cdn1.epicgames.com/catnip/offer/CodeRedemption_BL_Standard-340x440-61fa40b7bf06109676b7501e00de2f26.jpg",
+    1610570910,
+    "https://cdn1.epicgames.com/catnip/offer/BL3TallNologo-1200x1440-c1200ae70b5e054025e296746d1987a8.jpg",
     "borderlands-3"
   ],
   [
@@ -45246,11 +45717,13 @@
     [
       "freegames",
       "games",
+      "games/edition/base",
+      "games/edition",
       "applications"
     ],
     "Electronic Arts",
     1604929406,
-    1610032959,
+    1610639169,
     "https://cdn1.epicgames.com/b156c3365a5b4cb9a01a5e1108b4e3f4/offer/EGS_STARWARSBattlefrontIICelebrationEdition_DICE_S2-1200x1600-11d040719a8457bbf36cabbe89b200db.jpg",
     "star-wars-battlefront-2"
   ],
@@ -46179,6 +46652,20 @@
     "dungeons-3/evil-of-the-caribbean"
   ],
   [
+    "ef179017c2764d679d93b5a00f0019f3",
+    "84c76746bce94effb8e1047fabfd7eb7",
+    "DLC 001",
+    [
+      "games",
+      "applications"
+    ],
+    "Wargaming Group Limited",
+    1610561326,
+    1610561418,
+    "",
+    ""
+  ],
+  [
     "ef1c4467581a4e779d02afb92cafabf5",
     "newt",
     "Mage DLC",
@@ -46662,7 +47149,7 @@
     ],
     "Ubisoft Entertainment",
     1571680481,
-    1589468400,
+    1610640862,
     "https://cdn1.epicgames.com/coriander/offer/FC5_GE_Edition_Capsule_1920X1080-1920x1080-871db26ab326d8b5ddb4461826be617f.jpg",
     "far-cry-5/gold-edition"
   ],
@@ -47135,6 +47622,20 @@
     1588120702,
     "",
     "a-short-hike/home"
+  ],
+  [
+    "f439385855384d039b3c0827502fd51e",
+    "84c76746bce94effb8e1047fabfd7eb7",
+    "DLC 003",
+    [
+      "games",
+      "applications"
+    ],
+    "Wargaming Group Limited",
+    1610561511,
+    1610561511,
+    "",
+    ""
   ],
   [
     "f4463a98f90142858dd1c9a38f396c82",
@@ -48846,6 +49347,21 @@
     ""
   ],
   [
+    "fcface21b26147558bbfc8cfe1ae1ae0",
+    "3c52fbac843d4375803187739db84801",
+    "Galactic Civilization III - Villains of Star Control: Origins",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Stardock Entertainment, Inc",
+    1607501861,
+    1610637188,
+    "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/offer/villains tall-1200x1600-fffbe8c668f272c8d4f1c6a989e1cf75.jpeg",
+    ""
+  ],
+  [
     "fd043b9fad1c44c29c77c51e9eb45bae",
     "aster",
     "Heavy Rain Regional SKU Test Audience",
@@ -49025,7 +49541,7 @@
     ],
     "Wargaming Group Limited",
     1603400788,
-    1610551036,
+    1610563802,
     "",
     ""
   ],

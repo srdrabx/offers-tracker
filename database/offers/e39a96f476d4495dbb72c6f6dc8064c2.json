@@ -38,18 +38,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1370",
-      "name": "SINGLEPLAYER",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-12-15T01:43:50.926Z",
-      "status": "ACTIVE",
-      "referenceCount": 195,
-      "comment": null
-    },
+    null,
     {
       "id": "1083",
       "name": "ROGUE-LITE",
@@ -62,18 +51,7 @@
       "referenceCount": 6,
       "comment": null
     },
-    {
-      "id": "1247",
-      "name": "METROIDVANIA",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:21.277Z",
-      "updated": "2020-05-14T19:40:40.953Z",
-      "status": "ACTIVE",
-      "referenceCount": 3,
-      "comment": null
-    },
+    null,
     {
       "id": "1263",
       "name": "INDIE",

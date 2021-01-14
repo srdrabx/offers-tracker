@@ -8,7 +8,7 @@
   "productSlug": "superhot-mind-control-delete",
   "urlSlug": "devproteusaudience-01",
   "creationDate": "2020-06-03T17:22:00.160Z",
-  "lastModifiedDate": "2020-12-14T19:05:32.702Z",
+  "lastModifiedDate": "2021-01-13T23:02:54.715Z",
   "effectiveDate": "2020-07-16T16:00:00.000Z",
   "viewableDate": "2020-07-09T16:00:00.000Z",
   "developer": null,
@@ -140,57 +140,57 @@
   "keyImages": [
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/56e54e682d614c468e3d5afc54ca0adf/offer/tall-1200x1600-f60c881b4ca192f98bb9e1e9b88f70a4.jpg",
-      "md5": "f60c881b4ca192f98bb9e1e9b88f70a4",
-      "size": 544689,
-      "uploadedDate": "2020-12-14T19:04:43.460Z",
+      "url": "https://cdn1.epicgames.com/56e54e682d614c468e3d5afc54ca0adf/offer/bc5d0888-7c4f-4380-a547-01ddad8492e4-1200x1600-81abefd0c4e79a746c4d99ccf73ef748.jpg",
+      "md5": "81abefd0c4e79a746c4d99ccf73ef748",
+      "size": 486501,
+      "uploadedDate": "2021-01-13T23:01:53.717Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/56e54e682d614c468e3d5afc54ca0adf/offer/wide-2560x1440-e9d0a7cb50badcdcbe83792f5e286034.jpg",
-      "md5": "e9d0a7cb50badcdcbe83792f5e286034",
-      "size": 885812,
-      "uploadedDate": "2020-12-14T19:04:50.475Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/56e54e682d614c468e3d5afc54ca0adf/offer/tall-1200x1600-f60c881b4ca192f98bb9e1e9b88f70a4.jpg",
-      "md5": "f60c881b4ca192f98bb9e1e9b88f70a4",
-      "size": 544689,
-      "uploadedDate": "2020-12-14T19:05:02.427Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/56e54e682d614c468e3d5afc54ca0adf/offer/wide-2560x1440-e9d0a7cb50badcdcbe83792f5e286034.jpg",
-      "md5": "e9d0a7cb50badcdcbe83792f5e286034",
-      "size": 885812,
-      "uploadedDate": "2020-12-14T19:05:10.542Z",
+      "url": "https://cdn1.epicgames.com/56e54e682d614c468e3d5afc54ca0adf/offer/0771f86c-6bd9-4bae-9267-e7a21f69faae-2560x1440-bde0ff340809797a67caec0fe124cf1c.jpg",
+      "md5": "bde0ff340809797a67caec0fe124cf1c",
+      "size": 677918,
+      "uploadedDate": "2021-01-13T23:02:02.594Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/56e54e682d614c468e3d5afc54ca0adf/offer/tall-1200x1600-f60c881b4ca192f98bb9e1e9b88f70a4.jpg",
-      "md5": "f60c881b4ca192f98bb9e1e9b88f70a4",
-      "size": 544689,
-      "uploadedDate": "2020-12-14T19:05:19.601Z",
+      "url": "https://cdn1.epicgames.com/56e54e682d614c468e3d5afc54ca0adf/offer/bc5d0888-7c4f-4380-a547-01ddad8492e4-1200x1600-81abefd0c4e79a746c4d99ccf73ef748.jpg",
+      "md5": "81abefd0c4e79a746c4d99ccf73ef748",
+      "size": 486501,
+      "uploadedDate": "2021-01-13T23:02:15.857Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/56e54e682d614c468e3d5afc54ca0adf/offer/tall-1200x1600-f60c881b4ca192f98bb9e1e9b88f70a4.jpg",
-      "md5": "f60c881b4ca192f98bb9e1e9b88f70a4",
-      "size": 544689,
-      "uploadedDate": "2020-12-14T19:05:26.365Z",
+      "url": "https://cdn1.epicgames.com/56e54e682d614c468e3d5afc54ca0adf/offer/bc5d0888-7c4f-4380-a547-01ddad8492e4-1200x1600-81abefd0c4e79a746c4d99ccf73ef748.jpg",
+      "md5": "81abefd0c4e79a746c4d99ccf73ef748",
+      "size": 486501,
+      "uploadedDate": "2021-01-13T23:02:23.894Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/56e54e682d614c468e3d5afc54ca0adf/offer/bc5d0888-7c4f-4380-a547-01ddad8492e4-1200x1600-81abefd0c4e79a746c4d99ccf73ef748.jpg",
+      "md5": "81abefd0c4e79a746c4d99ccf73ef748",
+      "size": 486501,
+      "uploadedDate": "2021-01-13T23:02:33.972Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/56e54e682d614c468e3d5afc54ca0adf/offer/0771f86c-6bd9-4bae-9267-e7a21f69faae-2560x1440-bde0ff340809797a67caec0fe124cf1c.jpg",
+      "md5": "bde0ff340809797a67caec0fe124cf1c",
+      "size": 677918,
+      "uploadedDate": "2021-01-13T23:02:45.483Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
   "items": [

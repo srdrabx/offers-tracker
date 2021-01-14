@@ -1,0 +1,56 @@
+{
+  "id": "5e763412e0aa4db1ab8d3d2f7335b81e",
+  "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+  "title": "DLC 012",
+  "description": "DLC 012",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "dlc012-audience",
+  "creationDate": "2021-01-13T18:41:34.860Z",
+  "lastModifiedDate": "2021-01-13T18:49:52.797Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+    "name": "Wargaming Group Limited"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "6bb5fe500d834e1ebe122866a1ba25a7"
+    }
+  ],
+  "catalogNs": null
+}

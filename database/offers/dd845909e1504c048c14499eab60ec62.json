@@ -8,7 +8,7 @@
   "productSlug": "borderlands-3",
   "urlSlug": "borderlands-3-standard-edition",
   "creationDate": "2019-08-30T14:25:01.885Z",
-  "lastModifiedDate": "2021-01-12T20:09:28.211Z",
+  "lastModifiedDate": "2021-01-13T20:48:30.442Z",
   "effectiveDate": "2019-09-12T10:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -174,101 +174,56 @@
   ],
   "keyImages": [
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/Oak_Logo_Standard-720x209-8373e0df5612a9952fe79defb32e1322.png",
-      "md5": "8373e0df5612a9952fe79defb32e1322",
-      "size": 192732,
-      "uploadedDate": "2019-04-02T13:25:52.420Z",
-      "width": 720,
-      "height": 209
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/catnip/offer/BL3TallNologo-1200x1440-c1200ae70b5e054025e296746d1987a8.jpg",
+      "md5": "c1200ae70b5e054025e296746d1987a8",
+      "size": 1507215,
+      "uploadedDate": "2021-01-13T20:46:10.218Z",
+      "width": 1200,
+      "height": 1440
     },
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EN_EGS_Launcher_Takeover_Borderlands_S1-2560x1440-1c145fa688be08d2dc18375762b94fd5.jpg",
-      "md5": "1c145fa688be08d2dc18375762b94fd5",
-      "size": 3653440,
-      "uploadedDate": "2019-08-26T21:51:30.186Z",
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/catnip/offer/BL3Wide-2560x1440-462318f36bee20de4412e111ef72dc62.jpg",
+      "md5": "462318f36bee20de4412e111ef72dc62",
+      "size": 708051,
+      "uploadedDate": "2021-01-13T20:46:21.509Z",
       "width": 2560,
       "height": 1440
     },
     {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EN_EGS_Launcher_Takeover_Borderlands_S2-1280x1440-4e2e8a65b68229dc833cf5c4773f23c4.jpg",
-      "md5": "4e2e8a65b68229dc833cf5c4773f23c4",
-      "size": 1908028,
-      "uploadedDate": "2019-08-26T21:51:40.633Z",
-      "width": 1280,
-      "height": 1440
-    },
-    {
-      "type": "TakeoverLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_BL3_TakeoverBug-687x601-63a6057a2b5b5f206296b77dfe0f51ec.png",
-      "md5": "63a6057a2b5b5f206296b77dfe0f51ec",
-      "size": 208151,
-      "uploadedDate": "2019-09-06T20:52:50.982Z",
-      "width": 687,
-      "height": 601
-    },
-    {
-      "type": "TakeoverLogoSmall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Borderlands3_Takeover_Mobile_Bug-460x110-216959dd20117b56fa1f49dd3fa70b47.png",
-      "md5": "216959dd20117b56fa1f49dd3fa70b47",
-      "size": 63828,
-      "uploadedDate": "2019-09-09T21:05:35.756Z",
-      "width": 460,
-      "height": 110
-    },
-    {
-      "type": "TakeoverTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Borderlands3_Takeover_Mobile-560x760-58be14c3e086e3a85bedcc21c08ab5cb.jpg",
-      "md5": "58be14c3e086e3a85bedcc21c08ab5cb",
-      "size": 684906,
-      "uploadedDate": "2019-09-12T16:46:47.140Z",
-      "width": 560,
-      "height": 760
-    },
-    {
-      "type": "TakeoverWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Borderlands3_Takeover_Desktop-1810x810-6b404d89ad053aecd51cd09adfb875c5.jpg",
-      "md5": "6b404d89ad053aecd51cd09adfb875c5",
-      "size": 1982769,
-      "uploadedDate": "2019-09-12T16:47:05.304Z",
-      "width": 1810,
-      "height": 810
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EN_EGS_Launcher_Takeover_Borderlands_S2-1280x1440-4e2e8a65b68229dc833cf5c4773f23c4.jpg",
-      "md5": "4e2e8a65b68229dc833cf5c4773f23c4",
-      "size": 1908028,
-      "uploadedDate": "2019-08-26T21:51:40.633Z",
-      "width": 1280,
-      "height": 1440
-    },
-    {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/catnip/offer/CodeRedemption_BL_Standard-340x440-61fa40b7bf06109676b7501e00de2f26.jpg",
-      "md5": "61fa40b7bf06109676b7501e00de2f26",
-      "size": 8423414,
-      "uploadedDate": "2019-09-10T14:03:09.409Z",
-      "width": 340,
-      "height": 440
+      "url": "https://cdn1.epicgames.com/catnip/offer/BL3TallNologo-1200x1440-c1200ae70b5e054025e296746d1987a8.jpg",
+      "md5": "c1200ae70b5e054025e296746d1987a8",
+      "size": 1507215,
+      "uploadedDate": "2021-01-13T20:46:32.655Z",
+      "width": 1200,
+      "height": 1440
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/catnip/offer/CodeRedemption_BL_Standard-340x440-61fa40b7bf06109676b7501e00de2f26.jpg",
-      "md5": "61fa40b7bf06109676b7501e00de2f26",
-      "size": 8423414,
-      "uploadedDate": "2019-09-10T14:03:35.556Z",
-      "width": 340,
-      "height": 440
+      "url": "https://cdn1.epicgames.com/catnip/offer/BL3TallNologo-1200x1440-c1200ae70b5e054025e296746d1987a8.jpg",
+      "md5": "c1200ae70b5e054025e296746d1987a8",
+      "size": 1507215,
+      "uploadedDate": "2021-01-13T20:46:44.250Z",
+      "width": 1200,
+      "height": 1440
     },
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/catnip/offer/Diesel_product_catnip_Oak_StandardEdition_N1-2560x1440-462318f36bee20de4412e111ef72dc62.jpg",
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/catnip/offer/BL3TallNologo-1200x1440-c1200ae70b5e054025e296746d1987a8.jpg",
+      "md5": "c1200ae70b5e054025e296746d1987a8",
+      "size": 1507215,
+      "uploadedDate": "2021-01-13T20:46:56.124Z",
+      "width": 1200,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/catnip/offer/BL3Wide-2560x1440-462318f36bee20de4412e111ef72dc62.jpg",
       "md5": "462318f36bee20de4412e111ef72dc62",
       "size": 708051,
-      "uploadedDate": "2020-03-12T22:42:01.201Z",
+      "uploadedDate": "2021-01-13T20:47:08.589Z",
       "width": 2560,
       "height": 1440
     }

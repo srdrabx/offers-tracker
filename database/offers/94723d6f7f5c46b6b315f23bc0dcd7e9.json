@@ -1,0 +1,56 @@
+{
+  "id": "94723d6f7f5c46b6b315f23bc0dcd7e9",
+  "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+  "title": "DLC 004",
+  "description": "DLC 004",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "asloc-audience",
+  "creationDate": "2021-01-13T18:12:37.484Z",
+  "lastModifiedDate": "2021-01-13T18:12:37.484Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+    "name": "Wargaming Group Limited"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "138b928c4f41485cb9b40594e32f9741"
+    }
+  ],
+  "catalogNs": null
+}

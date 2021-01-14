@@ -38,18 +38,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1203",
-      "name": "MULTIPLAYER",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2020-12-15T01:44:09.654Z",
-      "status": "ACTIVE",
-      "referenceCount": 46,
-      "comment": null
-    },
+    null,
     {
       "id": "1156",
       "name": "BATTLE ROYALE",
@@ -86,30 +75,8 @@
       "referenceCount": 28,
       "comment": null
     },
-    {
-      "id": "1370",
-      "name": "SINGLEPLAYER",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-12-15T01:43:50.926Z",
-      "status": "ACTIVE",
-      "referenceCount": 195,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "WINDOWS",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-12-15T01:43:02.751Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    },
+    null,
+    null,
     {
       "id": "9549",
       "name": "CONTROLLER SUPPORT",
@@ -120,32 +87,6 @@
       "updated": "2020-12-15T01:43:59.524Z",
       "status": "ACTIVE",
       "referenceCount": 103,
-      "comment": null
-    },
-    {
-      "id": "1279",
-      "name": "VAMPIRE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:37.207Z",
-      "updated": "2020-09-16T19:19:59.211Z",
-      "status": "ACTIVE",
-      "referenceCount": 3,
-      "comment": null
-    },
-    {
-      "id": "10719",
-      "name": "MAC OS",
-      "namespace": "epic",
-      "aliases": [
-        "OSX"
-      ],
-      "operator": null,
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2020-12-15T01:43:22.719Z",
-      "status": "ACTIVE",
-      "referenceCount": 19,
       "comment": null
     }
   ],

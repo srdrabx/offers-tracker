@@ -62,18 +62,7 @@
       "referenceCount": 43,
       "comment": null
     },
-    {
-      "id": "1210",
-      "name": "SHOOTER",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:02.690Z",
-      "updated": "2020-12-15T01:47:09.800Z",
-      "status": "ACTIVE",
-      "referenceCount": 28,
-      "comment": null
-    },
+    null,
     {
       "id": "1370",
       "name": "SINGLEPLAYER",
@@ -123,30 +112,6 @@
       "updated": "2020-09-15T18:08:53.889Z",
       "status": "ACTIVE",
       "referenceCount": 48,
-      "comment": null
-    },
-    {
-      "id": "9549",
-      "name": "CONTROLLER SUPPORT",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2020-12-15T01:43:59.524Z",
-      "status": "ACTIVE",
-      "referenceCount": 103,
-      "comment": null
-    },
-    {
-      "id": "1294",
-      "name": "FIRST-PERSON",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:44.596Z",
-      "updated": "2020-12-15T01:47:39.866Z",
-      "status": "ACTIVE",
-      "referenceCount": 24,
       "comment": null
     }
   ],

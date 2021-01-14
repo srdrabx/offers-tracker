@@ -39,18 +39,7 @@
   ],
   "tags": [
     null,
-    {
-      "id": "1080",
-      "name": "SURVIVAL",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:58:58.070Z",
-      "updated": "2020-12-15T01:49:20.300Z",
-      "status": "ACTIVE",
-      "referenceCount": 11,
-      "comment": null
-    },
+    null,
     {
       "id": "9547",
       "name": "WINDOWS",

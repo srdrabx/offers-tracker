@@ -38,32 +38,10 @@
     }
   ],
   "tags": [
-    {
-      "id": "1203",
-      "name": "MULTIPLAYER",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2020-12-15T01:44:09.654Z",
-      "status": "ACTIVE",
-      "referenceCount": 46,
-      "comment": null
-    },
     null,
     null,
-    {
-      "id": "1386",
-      "name": "TURN-BASED",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:30.372Z",
-      "updated": "2020-12-15T01:49:00.686Z",
-      "status": "ACTIVE",
-      "referenceCount": 14,
-      "comment": null
-    },
+    null,
+    null,
     {
       "id": "14346",
       "name": "Holiday Sale 2020",
@@ -76,18 +54,8 @@
       "referenceCount": 584,
       "comment": ""
     },
-    {
-      "id": "1115",
-      "name": "STRATEGY",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2020-12-15T01:46:50.820Z",
-      "status": "ACTIVE",
-      "referenceCount": 33,
-      "comment": null
-    }
+    null,
+    null
   ],
   "customAttributes": [
     {

@@ -1,0 +1,56 @@
+{
+  "id": "6088b567c91b4dad87e3844efa527cfd",
+  "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+  "title": "DLC 020",
+  "description": "DLC 020",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "threehundredsixtydaypremiumaccountaudience",
+  "creationDate": "2021-01-13T15:27:28.280Z",
+  "lastModifiedDate": "2021-01-13T18:53:06.651Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+    "name": "Wargaming Group Limited"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "ed4e4f2523334245b3bfc8f7546d46a8"
+    }
+  ],
+  "catalogNs": null
+}

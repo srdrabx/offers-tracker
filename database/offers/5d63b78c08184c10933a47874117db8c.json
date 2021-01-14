@@ -1,0 +1,165 @@
+{
+  "id": "5d63b78c08184c10933a47874117db8c",
+  "namespace": "3c52fbac843d4375803187739db84801",
+  "title": "Galactic Civilizations III",
+  "description": "Galactic Civilizations III",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "galactic-civilizations-iii",
+  "urlSlug": "hydrageneralaudience",
+  "creationDate": "2020-11-06T07:29:50.500Z",
+  "lastModifiedDate": "2021-01-14T16:00:09.933Z",
+  "effectiveDate": "2021-01-21T16:00:00.000Z",
+  "viewableDate": "2021-01-14T15:25:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+    "name": "Stardock Entertainment, Inc"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "freegames"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1386",
+      "name": "TURN-BASED",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:30.372Z",
+      "updated": "2020-12-15T01:49:00.686Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-12-15T01:46:50.820Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-12-15T01:43:02.751Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1166",
+      "name": "4X",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:41.019Z",
+      "updated": "2020-08-11T17:30:09.076Z",
+      "status": "ACTIVE",
+      "referenceCount": 1,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Stardock Entertainment"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "galactic-civilizations-iii"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/offer/EGS_GalacticCivilizationsIIICoreEdition_StardockEntertainment_S1-2560x1440-54fd03f3d8441c3f43ad347e7c64da04.jpg",
+      "md5": "54fd03f3d8441c3f43ad347e7c64da04",
+      "size": 932063,
+      "uploadedDate": "2021-01-12T19:43:17.550Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/offer/EGS_GalacticCivilizationsIIICoreEdition_StardockEntertainment_S2-1200x1600-ef8767dbf731cda94a457c4a543341c1.jpg",
+      "md5": "ef8767dbf731cda94a457c4a543341c1",
+      "size": 577518,
+      "uploadedDate": "2021-01-12T19:43:27.281Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/offer/EGS_GalacticCivilizationsIIICoreEdition_StardockEntertainment_S2-1200x1600-ef8767dbf731cda94a457c4a543341c1.jpg",
+      "md5": "ef8767dbf731cda94a457c4a543341c1",
+      "size": 577518,
+      "uploadedDate": "2021-01-12T19:43:42.534Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/offer/EGS_GalacticCivilizationsIIICoreEdition_StardockEntertainment_S2-1200x1600-ef8767dbf731cda94a457c4a543341c1.jpg",
+      "md5": "ef8767dbf731cda94a457c4a543341c1",
+      "size": 577518,
+      "uploadedDate": "2021-01-12T19:43:52.423Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/offer/EGS_GalacticCivilizationsIIICoreEdition_StardockEntertainment_S1-2560x1440-54fd03f3d8441c3f43ad347e7c64da04.jpg",
+      "md5": "54fd03f3d8441c3f43ad347e7c64da04",
+      "size": 932063,
+      "uploadedDate": "2021-01-12T19:44:04.739Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/offer/EGS_GalacticCivilizationsIIICoreEdition_StardockEntertainment_S2-1200x1600-ef8767dbf731cda94a457c4a543341c1.jpg",
+      "md5": "ef8767dbf731cda94a457c4a543341c1",
+      "size": 577518,
+      "uploadedDate": "2021-01-12T19:44:14.649Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "f2740e21bc3d494db1e4e2fc818e31a5"
+    }
+  ],
+  "catalogNs": null
+}
