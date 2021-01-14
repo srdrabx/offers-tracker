@@ -38,22 +38,21 @@
     }
   ],
   "tags": [
-    null,
-    null,
-    null,
-    null,
     {
-      "id": "1117",
-      "name": "ADVENTURE",
+      "id": "1381",
+      "name": "EXPLORATION",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2020-12-15T01:46:19.709Z",
+      "created": "2019-06-20T12:01:27.799Z",
+      "updated": "2020-12-15T01:48:37.666Z",
       "status": "ACTIVE",
-      "referenceCount": 84,
+      "referenceCount": 14,
       "comment": null
-    }
+    },
+    null,
+    null,
+    null
   ],
   "customAttributes": [
     {

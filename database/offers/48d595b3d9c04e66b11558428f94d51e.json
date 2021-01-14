@@ -8,7 +8,7 @@
   "productSlug": "bundles/far-cry-new-dawn-ultimate",
   "urlSlug": "dartergeneralaudience",
   "creationDate": "2019-11-20T23:37:51.095Z",
-  "lastModifiedDate": "2020-05-12T18:41:24.472Z",
+  "lastModifiedDate": "2021-01-14T17:06:07.423Z",
   "effectiveDate": "2020-02-07T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -106,6 +106,12 @@
     },
     {
       "id": "5de423d356784c29b719f855c9567fde"
+    },
+    {
+      "id": "4857b7e1690c4817a623c276d47dbc33"
+    },
+    {
+      "id": "8ab5095a207a46fa8b18e7c1eb440e39"
     },
     {
       "id": "6c262450ee624de3bd74a3d699554b38"

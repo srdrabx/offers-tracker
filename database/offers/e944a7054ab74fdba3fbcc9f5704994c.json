@@ -51,16 +51,18 @@
       "comment": null
     },
     null,
+    null,
+    null,
     {
-      "id": "1370",
-      "name": "SINGLEPLAYER",
+      "id": "1115",
+      "name": "STRATEGY",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-12-15T01:43:50.926Z",
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-12-15T01:46:50.820Z",
       "status": "ACTIVE",
-      "referenceCount": 195,
+      "referenceCount": 33,
       "comment": null
     }
   ],

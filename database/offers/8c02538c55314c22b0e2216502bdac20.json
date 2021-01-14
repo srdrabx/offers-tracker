@@ -39,36 +39,22 @@
   ],
   "tags": [
     null,
-    null,
-    null,
     {
-      "id": "1083",
-      "name": "ROGUE-LITE",
+      "id": "1386",
+      "name": "TURN-BASED",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2019-06-20T11:58:59.720Z",
-      "updated": "2020-12-15T01:50:46.226Z",
+      "created": "2019-06-20T12:01:30.372Z",
+      "updated": "2020-12-15T01:49:00.686Z",
       "status": "ACTIVE",
-      "referenceCount": 6,
+      "referenceCount": 14,
       "comment": null
     },
     null,
     null,
-    {
-      "id": "10719",
-      "name": "MAC OS",
-      "namespace": "epic",
-      "aliases": [
-        "OSX"
-      ],
-      "operator": null,
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2020-12-15T01:43:22.719Z",
-      "status": "ACTIVE",
-      "referenceCount": 19,
-      "comment": null
-    }
+    null,
+    null
   ],
   "customAttributes": [
     {
