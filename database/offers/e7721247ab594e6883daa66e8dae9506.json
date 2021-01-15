@@ -38,32 +38,22 @@
     }
   ],
   "tags": [
-    null,
     {
-      "id": "1203",
-      "name": "MULTIPLAYER",
+      "id": "1264",
+      "name": "CO-OP",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2020-12-15T01:44:09.654Z",
+      "created": "2019-06-20T12:00:29.700Z",
+      "updated": "2020-12-15T01:44:18.661Z",
       "status": "ACTIVE",
-      "referenceCount": 46,
+      "referenceCount": 27,
       "comment": null
     },
     null,
-    {
-      "id": "1210",
-      "name": "SHOOTER",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:02.690Z",
-      "updated": "2020-12-15T01:47:09.800Z",
-      "status": "ACTIVE",
-      "referenceCount": 28,
-      "comment": null
-    }
+    null,
+    null,
+    null
   ],
   "customAttributes": [
     {

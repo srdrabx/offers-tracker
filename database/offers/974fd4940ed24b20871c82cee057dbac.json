@@ -36,45 +36,32 @@
   ],
   "tags": [
     null,
-    null,
-    null,
-    null,
     {
-      "id": "9547",
-      "name": "WINDOWS",
+      "id": "1210",
+      "name": "SHOOTER",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-12-15T01:43:02.751Z",
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2020-12-15T01:47:09.800Z",
       "status": "ACTIVE",
-      "referenceCount": 259,
+      "referenceCount": 28,
       "comment": null
     },
     {
-      "id": "9549",
-      "name": "CONTROLLER SUPPORT",
+      "id": "1370",
+      "name": "SINGLEPLAYER",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2020-12-15T01:43:59.524Z",
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-12-15T01:43:50.926Z",
       "status": "ACTIVE",
-      "referenceCount": 103,
+      "referenceCount": 195,
       "comment": null
     },
-    {
-      "id": "1294",
-      "name": "FIRST-PERSON",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:44.596Z",
-      "updated": "2020-12-15T01:47:39.866Z",
-      "status": "ACTIVE",
-      "referenceCount": 24,
-      "comment": null
-    }
+    null,
+    null
   ],
   "customAttributes": [
     {

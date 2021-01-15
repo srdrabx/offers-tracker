@@ -38,32 +38,32 @@
     }
   ],
   "tags": [
+    null,
     {
-      "id": "1381",
-      "name": "EXPLORATION",
+      "id": "1370",
+      "name": "SINGLEPLAYER",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2019-06-20T12:01:27.799Z",
-      "updated": "2020-12-15T01:48:37.666Z",
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-12-15T01:43:50.926Z",
       "status": "ACTIVE",
-      "referenceCount": 14,
+      "referenceCount": 195,
       "comment": null
     },
-    null,
-    null,
     {
-      "id": "1307",
-      "name": "OPEN WORLD",
-      "namespace": "epic",
+      "id": "14346",
+      "name": "Holiday Sale 2020",
+      "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2019-06-20T12:00:51.191Z",
-      "updated": "2020-12-15T01:46:59.402Z",
+      "created": "2020-10-21T21:58:03.125Z",
+      "updated": "2021-01-07T16:00:15.373Z",
       "status": "ACTIVE",
-      "referenceCount": 32,
-      "comment": null
+      "referenceCount": 584,
+      "comment": ""
     },
+    null,
     {
       "id": "9547",
       "name": "WINDOWS",
@@ -74,6 +74,33 @@
       "updated": "2020-12-15T01:43:02.751Z",
       "status": "ACTIVE",
       "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9548",
+      "name": "OSX",
+      "namespace": "epic",
+      "aliases": [
+        "OS X",
+        "MAC OS"
+      ],
+      "operator": null,
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-09-15T18:08:53.889Z",
+      "status": "ACTIVE",
+      "referenceCount": 48,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-12-15T01:43:59.524Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
       "comment": null
     }
   ],

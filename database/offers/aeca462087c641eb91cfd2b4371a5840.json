@@ -39,33 +39,21 @@
   ],
   "tags": [
     null,
-    null,
-    null,
     {
-      "id": "1370",
-      "name": "SINGLEPLAYER",
+      "id": "1203",
+      "name": "MULTIPLAYER",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-12-15T01:43:50.926Z",
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-12-15T01:44:09.654Z",
       "status": "ACTIVE",
-      "referenceCount": 195,
+      "referenceCount": 46,
       "comment": null
     },
     null,
-    {
-      "id": "1084",
-      "name": "STEALTH",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:00.299Z",
-      "updated": "2020-12-15T01:49:37.867Z",
-      "status": "ACTIVE",
-      "referenceCount": 9,
-      "comment": null
-    }
+    null,
+    null
   ],
   "customAttributes": [
     {

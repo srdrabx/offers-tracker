@@ -42,18 +42,8 @@
     null,
     null,
     null,
-    {
-      "id": "1181",
-      "name": "CARD GAME",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:48.401Z",
-      "updated": "2020-12-15T01:50:52.088Z",
-      "status": "ACTIVE",
-      "referenceCount": 5,
-      "comment": null
-    }
+    null,
+    null
   ],
   "customAttributes": [
     {

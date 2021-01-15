@@ -38,21 +38,21 @@
     }
   ],
   "tags": [
+    null,
+    null,
+    null,
     {
-      "id": "1381",
-      "name": "EXPLORATION",
+      "id": "9547",
+      "name": "WINDOWS",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2019-06-20T12:01:27.799Z",
-      "updated": "2020-12-15T01:48:37.666Z",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-12-15T01:43:02.751Z",
       "status": "ACTIVE",
-      "referenceCount": 14,
+      "referenceCount": 259,
       "comment": null
-    },
-    null,
-    null,
-    null
+    }
   ],
   "customAttributes": [
     {

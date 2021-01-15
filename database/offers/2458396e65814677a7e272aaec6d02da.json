@@ -2,13 +2,13 @@
   "id": "2458396e65814677a7e272aaec6d02da",
   "namespace": "7ad5508d382e46228056f1d1a0189ae2",
   "title": "Deadly Renegade Pack",
-  "description": "Deadly Renegade Pack",
-  "longDescription": null,
+  "description": "This league supporter pack includes 550 Points total, the Deadly Renegade Supporter Forum Title, Deadly Renegade Armour Pack, Deadly Renegade Cloak, Deadly Renegade Portrait Frame and everything in the Renegade Supporter Pack.",
+  "longDescription": "This league supporter pack includes 550 Points total, the Deadly Renegade Supporter Forum Title, Deadly Renegade Armour Pack, Deadly Renegade Cloak, Deadly Renegade Portrait Frame and everything in the Renegade Supporter Pack.",
   "status": "ACTIVE",
   "productSlug": "path-of-exile/deadly-renegade-pack",
   "urlSlug": "path-of-exile--deadly-renegade-pack",
   "creationDate": "2021-01-11T21:27:02.792Z",
-  "lastModifiedDate": "2021-01-12T00:20:58.222Z",
+  "lastModifiedDate": "2021-01-14T21:27:04.456Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -46,7 +46,26 @@
       "value": "path-of-exile/deadly-renegade-pack"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1920x1080_DeadlyRenegade-1920x1080-e53be7f9f1dda3b0dab7e09dbe6f2f23.png",
+      "md5": "e53be7f9f1dda3b0dab7e09dbe6f2f23",
+      "size": 2195673,
+      "uploadedDate": "2021-01-14T21:26:17.939Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_DeadlyRenegade-1200x1600-8aef44fab9f48e5e97f8e6a7052fba4b.png",
+      "md5": "8aef44fab9f48e5e97f8e6a7052fba4b",
+      "size": 2581220,
+      "uploadedDate": "2021-01-14T21:26:29.414Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "c4eea370cb1b4ef4a8009c6eab126d81"

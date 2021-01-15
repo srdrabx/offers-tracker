@@ -62,7 +62,18 @@
       "referenceCount": 27,
       "comment": null
     },
-    null,
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-12-15T01:47:57.916Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
     {
       "id": "1298",
       "name": "PUZZLE",
@@ -75,18 +86,7 @@
       "referenceCount": 27,
       "comment": null
     },
-    {
-      "id": "1203",
-      "name": "MULTIPLAYER",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2020-12-15T01:44:09.654Z",
-      "status": "ACTIVE",
-      "referenceCount": 46,
-      "comment": null
-    },
+    null,
     {
       "id": "1110",
       "name": "PARTY",
@@ -145,18 +145,6 @@
       "updated": "2020-12-15T01:43:02.751Z",
       "status": "ACTIVE",
       "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "1116",
-      "name": "COMEDY",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:16.126Z",
-      "updated": "2020-12-15T01:49:43.489Z",
-      "status": "ACTIVE",
-      "referenceCount": 8,
       "comment": null
     }
   ],
