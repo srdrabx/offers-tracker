@@ -10,7 +10,7 @@ class Main {
   constructor () {
     this.language = 'en';
     this.country = 'US';
-    this.namespaces = [ue]; // You can add here non-store namespaces e.g. ue (unreal engine market offers)
+    this.namespaces = ["ue"]; // You can add here non-store namespaces e.g. ue (unreal engine market offers)
     this.perPage = 1000;
     this.trackingStats = {
       timeUnit: 'ms',
