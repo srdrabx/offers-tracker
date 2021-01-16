@@ -5401,7 +5401,7 @@
     ],
     "Grinding Gear Games",
     1608086105,
-    1608664405,
+    1610737924,
     "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_BreachCore-1200x1600-8c00a8155c599663bbf06e2a46fbcf80.png",
     "path-of-exile/breach-core-pack"
   ],
@@ -7122,12 +7122,12 @@
     "7ad5508d382e46228056f1d1a0189ae2",
     "Deadly Renegade Pack",
     [
-      "games",
-      "applications"
+      "addons",
+      "addons/consumable"
     ],
     "Grinding Gear Games",
     1610400422,
-    1610659624,
+    1610747990,
     "",
     "path-of-exile/deadly-renegade-pack"
   ],
@@ -7601,12 +7601,12 @@
     "7ad5508d382e46228056f1d1a0189ae2",
     "Elite Faithsworn Pack",
     [
-      "games",
-      "applications"
+      "addons",
+      "addons/consumable"
     ],
     "Grinding Gear Games",
     1610398790,
-    1610659726,
+    1610747990,
     "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_EliteFaithsworn-1200x1600-3723426f6dab304838455456f0b8f290.png",
     "path-of-exile/elite-faithsworn-pack"
   ],
@@ -14677,7 +14677,7 @@
     ],
     "Grinding Gear Games",
     1608085994,
-    1608664361,
+    1610738038,
     "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_DelveCore-1200x1600-0e8954c5166dd37bafa5efaab55d5f5a.png",
     "path-of-exile/delve-core-pack"
   ],
@@ -15175,7 +15175,7 @@
     ],
     "Grinding Gear Games",
     1608086187,
-    1608664372,
+    1610737920,
     "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_HarvestCore-1200x1600-27ba8e45c713796c0027bf2586ba985a.png",
     "path-of-exile/harvest-core-pack"
   ],
@@ -30500,12 +30500,12 @@
     "7ad5508d382e46228056f1d1a0189ae2",
     "Faithsworn Pack",
     [
-      "games",
-      "applications"
+      "addons",
+      "addons/consumable"
     ],
     "Grinding Gear Games",
     1610398604,
-    1610659698,
+    1610747990,
     "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_Faithsworn-1200x1600-408a3d1cfdec4f74aeb26bdb57e4663f.png",
     "path-of-exile/faithsworn-pack"
   ],
@@ -31086,12 +31086,12 @@
     "7ad5508d382e46228056f1d1a0189ae2",
     "Renegade Pack",
     [
-      "games",
-      "applications"
+      "addons",
+      "addons/consumable"
     ],
     "Grinding Gear Games",
     1610399152,
-    1610659661,
+    1610747990,
     "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_Renegade-1200x1600-b11b8e155a7d30ab6ff9ae091cab5d8a.png",
     "path-of-exile/renegade-pack"
   ],
@@ -41393,7 +41393,7 @@
     ],
     "Grinding Gear Games",
     1608086150,
-    1608664349,
+    1610737926,
     "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_AbyssCore-1200x1600-dfd5fd154fe488865e0305a1cccddaae.png",
     "path-of-exile/test-offer"
   ],
@@ -49670,7 +49670,7 @@
     ],
     "Grinding Gear Games",
     1608086261,
-    1608664333,
+    1610737930,
     "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_AtlasCore-1200x1600-7c3b9db0a58a0bbaa21d090fb70e988f.png",
     "path-of-exile/atlas-core-pack"
   ],
