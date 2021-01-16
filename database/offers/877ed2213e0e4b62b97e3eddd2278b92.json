@@ -35,54 +35,10 @@
     }
   ],
   "tags": [
-    {
-      "id": "1393",
-      "name": "SIMULATION",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:33.848Z",
-      "updated": "2020-12-15T01:47:57.916Z",
-      "status": "ACTIVE",
-      "referenceCount": 20,
-      "comment": null
-    },
-    {
-      "id": "1386",
-      "name": "TURN-BASED",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:30.372Z",
-      "updated": "2020-12-15T01:49:00.686Z",
-      "status": "ACTIVE",
-      "referenceCount": 14,
-      "comment": null
-    },
-    {
-      "id": "1115",
-      "name": "STRATEGY",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2020-12-15T01:46:50.820Z",
-      "status": "ACTIVE",
-      "referenceCount": 33,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "WINDOWS",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-12-15T01:43:02.751Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    }
+    null,
+    null,
+    null,
+    null
   ],
   "customAttributes": [
     {

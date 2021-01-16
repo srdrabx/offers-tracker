@@ -29,20 +29,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "13345",
-      "name": "Totally Real Mod",
-      "namespace": "acd8bb9e9f6e4419ab0251e71133162a",
-      "aliases": [
-        "Totally Real Mod"
-      ],
-      "operator": null,
-      "created": "2020-09-25T17:19:19.694Z",
-      "updated": "2020-12-08T14:56:15.560Z",
-      "status": "ACTIVE",
-      "referenceCount": 3,
-      "comment": ""
-    }
+    null
   ],
   "customAttributes": [],
   "keyImages": [

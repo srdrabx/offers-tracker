@@ -29,20 +29,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "13346",
-      "name": "Creative Name",
-      "namespace": "acd8bb9e9f6e4419ab0251e71133162a",
-      "aliases": [
-        "Creative Name"
-      ],
-      "operator": null,
-      "created": "2020-09-25T17:20:21.420Z",
-      "updated": "2020-12-08T14:56:15.901Z",
-      "status": "ACTIVE",
-      "referenceCount": 3,
-      "comment": ""
-    }
+    null
   ],
   "customAttributes": [],
   "keyImages": [

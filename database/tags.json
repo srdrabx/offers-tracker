@@ -1,16 +1,4 @@
 {
-  "217": {
-    "id": "217",
-    "name": "SPACE SIMULATION",
-    "namespace": "epic",
-    "aliases": [],
-    "operator": null,
-    "created": "2019-06-17T16:11:33.574Z",
-    "updated": "2019-10-24T15:50:45.303Z",
-    "status": "ACTIVE",
-    "referenceCount": 0,
-    "comment": null
-  },
   "1080": {
     "id": "1080",
     "name": "SURVIVAL",
@@ -234,7 +222,7 @@
     "aliases": null,
     "operator": null,
     "created": "2019-06-20T11:59:36.154Z",
-    "updated": "2020-09-07T12:44:17.473Z",
+    "updated": "2020-09-03T13:38:25.606Z",
     "status": "ACTIVE",
     "referenceCount": 2,
     "comment": null
@@ -251,18 +239,6 @@
     "referenceCount": 2,
     "comment": null
   },
-  "1160": {
-    "id": "1160",
-    "name": "SKATEBOARDING",
-    "namespace": "epic",
-    "aliases": null,
-    "operator": null,
-    "created": "2019-06-20T11:59:38.103Z",
-    "updated": "2020-09-04T01:18:13.226Z",
-    "status": "ACTIVE",
-    "referenceCount": 0,
-    "comment": null
-  },
   "1166": {
     "id": "1166",
     "name": "4X",
@@ -273,18 +249,6 @@
     "updated": "2020-08-11T17:30:09.076Z",
     "status": "ACTIVE",
     "referenceCount": 1,
-    "comment": null
-  },
-  "1171": {
-    "id": "1171",
-    "name": "HACK AND SLASH",
-    "namespace": "epic",
-    "aliases": null,
-    "operator": null,
-    "created": "2019-06-20T11:59:43.507Z",
-    "updated": "2019-06-20T11:59:43.507Z",
-    "status": "ACTIVE",
-    "referenceCount": null,
     "comment": null
   },
   "1179": {
@@ -333,18 +297,6 @@
     "updated": "2020-09-05T13:11:46.644Z",
     "status": "ACTIVE",
     "referenceCount": 2,
-    "comment": null
-  },
-  "1187": {
-    "id": "1187",
-    "name": "THIRD-PERSON SHOOTER",
-    "namespace": "epic",
-    "aliases": null,
-    "operator": null,
-    "created": "2019-06-20T11:59:51.351Z",
-    "updated": "2020-09-01T13:53:52.413Z",
-    "status": "ACTIVE",
-    "referenceCount": 0,
     "comment": null
   },
   "1203": {
@@ -575,18 +527,6 @@
     "referenceCount": 1,
     "comment": null
   },
-  "1289": {
-    "id": "1289",
-    "name": "CRAFTING",
-    "namespace": "epic",
-    "aliases": null,
-    "operator": null,
-    "created": "2019-06-20T12:00:42.141Z",
-    "updated": "2020-08-28T11:58:21.202Z",
-    "status": "ACTIVE",
-    "referenceCount": 0,
-    "comment": null
-  },
   "1294": {
     "id": "1294",
     "name": "FIRST-PERSON",
@@ -659,18 +599,6 @@
     "referenceCount": 0,
     "comment": null
   },
-  "1317": {
-    "id": "1317",
-    "name": "MMORPG",
-    "namespace": "epic",
-    "aliases": null,
-    "operator": null,
-    "created": "2019-06-20T12:00:56.092Z",
-    "updated": "2019-06-20T12:00:56.092Z",
-    "status": "ACTIVE",
-    "referenceCount": null,
-    "comment": null
-  },
   "1318": {
     "id": "1318",
     "name": "TRIVIA",
@@ -681,18 +609,6 @@
     "updated": "2020-12-15T01:49:59.314Z",
     "status": "ACTIVE",
     "referenceCount": 9,
-    "comment": null
-  },
-  "1321": {
-    "id": "1321",
-    "name": "GREAT SOUNDTRACK",
-    "namespace": "epic",
-    "aliases": null,
-    "operator": null,
-    "created": "2019-06-20T12:00:58.050Z",
-    "updated": "2020-09-04T01:18:13.319Z",
-    "status": "ACTIVE",
-    "referenceCount": 0,
     "comment": null
   },
   "1333": {
@@ -765,42 +681,6 @@
     "updated": "2020-08-11T16:55:50.964Z",
     "status": "ACTIVE",
     "referenceCount": 0,
-    "comment": null
-  },
-  "1349": {
-    "id": "1349",
-    "name": "FAST-PACED",
-    "namespace": "epic",
-    "aliases": null,
-    "operator": null,
-    "created": "2019-06-20T12:01:11.761Z",
-    "updated": "2020-09-05T13:11:46.586Z",
-    "status": "ACTIVE",
-    "referenceCount": 0,
-    "comment": null
-  },
-  "1357": {
-    "id": "1357",
-    "name": "VR ONLY",
-    "namespace": "epic",
-    "aliases": null,
-    "operator": null,
-    "created": "2019-06-20T12:01:15.666Z",
-    "updated": "2019-06-20T12:01:15.666Z",
-    "status": "ACTIVE",
-    "referenceCount": null,
-    "comment": null
-  },
-  "1365": {
-    "id": "1365",
-    "name": "PUZZLE-PLATFORMER",
-    "namespace": "epic",
-    "aliases": null,
-    "operator": null,
-    "created": "2019-06-20T12:01:19.733Z",
-    "updated": "2019-06-20T12:01:19.733Z",
-    "status": "ACTIVE",
-    "referenceCount": null,
     "comment": null
   },
   "1367": {
@@ -963,34 +843,6 @@
     "status": "ACTIVE",
     "referenceCount": 5,
     "comment": "Tag used to denote that this product will require the user to have 2 factor authentication enabled"
-  },
-  "13345": {
-    "id": "13345",
-    "name": "Totally Real Mod",
-    "namespace": "acd8bb9e9f6e4419ab0251e71133162a",
-    "aliases": [
-      "Totally Real Mod"
-    ],
-    "operator": null,
-    "created": "2020-09-25T17:19:19.694Z",
-    "updated": "2020-12-08T14:56:15.560Z",
-    "status": "ACTIVE",
-    "referenceCount": 3,
-    "comment": ""
-  },
-  "13346": {
-    "id": "13346",
-    "name": "Creative Name",
-    "namespace": "acd8bb9e9f6e4419ab0251e71133162a",
-    "aliases": [
-      "Creative Name"
-    ],
-    "operator": null,
-    "created": "2020-09-25T17:20:21.420Z",
-    "updated": "2020-12-08T14:56:15.901Z",
-    "status": "ACTIVE",
-    "referenceCount": 3,
-    "comment": ""
   },
   "13790": {
     "id": "13790",

@@ -38,18 +38,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1298",
-      "name": "PUZZLE",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:46.616Z",
-      "updated": "2020-12-15T01:47:26.504Z",
-      "status": "ACTIVE",
-      "referenceCount": 27,
-      "comment": null
-    },
+    null,
     {
       "id": "9547",
       "name": "WINDOWS",
@@ -72,18 +61,6 @@
       "updated": "2020-12-15T01:46:19.709Z",
       "status": "ACTIVE",
       "referenceCount": 84,
-      "comment": null
-    },
-    {
-      "id": "1263",
-      "name": "INDIE",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2020-12-15T01:46:42.546Z",
-      "status": "ACTIVE",
-      "referenceCount": 46,
       "comment": null
     }
   ],

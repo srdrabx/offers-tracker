@@ -35,42 +35,9 @@
     }
   ],
   "tags": [
-    {
-      "id": "1216",
-      "name": "ACTION",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2020-12-15T01:46:14.061Z",
-      "status": "ACTIVE",
-      "referenceCount": 110,
-      "comment": null
-    },
-    {
-      "id": "1258",
-      "name": "ROGUE-LIKE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:26.599Z",
-      "updated": "2020-09-03T12:47:51.252Z",
-      "status": "ACTIVE",
-      "referenceCount": 4,
-      "comment": null
-    },
-    {
-      "id": "1263",
-      "name": "INDIE",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2020-12-15T01:46:42.546Z",
-      "status": "ACTIVE",
-      "referenceCount": 46,
-      "comment": null
-    }
+    null,
+    null,
+    null
   ],
   "customAttributes": [
     {
