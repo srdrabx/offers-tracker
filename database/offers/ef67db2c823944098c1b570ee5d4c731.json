@@ -44,8 +44,30 @@
     }
   ],
   "tags": [
-    null,
-    null
+    {
+      "id": "1321",
+      "name": "GREAT SOUNDTRACK",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:58.050Z",
+      "updated": "2020-09-04T01:18:13.319Z",
+      "status": "ACTIVE",
+      "referenceCount": 0,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-12-15T01:43:50.926Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {

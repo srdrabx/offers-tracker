@@ -38,7 +38,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1287",
+      "name": "FANTASY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:41.164Z",
+      "updated": "2020-09-09T11:26:33.532Z",
+      "status": "ACTIVE",
+      "referenceCount": 1,
+      "comment": null
+    },
     {
       "id": "1367",
       "name": "RPG",
@@ -61,6 +72,18 @@
       "updated": "2020-12-15T01:43:50.926Z",
       "status": "ACTIVE",
       "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-12-15T01:43:02.751Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
       "comment": null
     }
   ],
