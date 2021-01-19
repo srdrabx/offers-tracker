@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "zombie-army-4-dead-war--berserker-boris-outfit",
   "creationDate": "2020-09-04T12:23:08.407Z",
-  "lastModifiedDate": "2020-12-08T17:46:19.888Z",
+  "lastModifiedDate": "2021-01-19T13:39:20.959Z",
   "effectiveDate": "2020-12-08T17:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -42,6 +42,10 @@
     {
       "key": "com.epicgames.app.blacklist",
       "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Rebellion"
     },
     {
       "key": "developerName",

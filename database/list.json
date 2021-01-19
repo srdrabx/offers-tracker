@@ -451,7 +451,7 @@
     ],
     "Rebellion",
     1599222220,
-    1607450146,
+    1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_SVT38_Rifle_Bundle_REDEMPTIONIMAGE-860x1180-dce8f8a3f2c80531b4b3ae0310a105c4.jpg",
     ""
   ],
@@ -855,7 +855,7 @@
     ],
     "Rebellion",
     1599222153,
-    1603200785,
+    1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_OccultRitualWeaponSkins_REDEMPTIONIMAGE-860x1180-058ae6eb1c6307a58375fa3f1c38bfa9.png",
     ""
   ],
@@ -959,7 +959,7 @@
     ],
     "Rebellion",
     1585594598,
-    1596844522,
+    1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_SHOTGUNMORTAR_REDEMPTIONIMAGE-860x1180-d5ed4fdebf5ed7fb1ab1ed8f0e35a14a.jpg",
     "zombie-army-4-dead-war/mortar-shotgun-bundle"
   ],
@@ -1210,7 +1210,7 @@
     ],
     "Ubisoft Entertainment",
     1583212457,
-    1594913234,
+    1611076406,
     "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/HeroBanner_3840x2160_EN-3840x2160-24280765b963c7c7ca1c77e5dd10e90c.jpg",
     ""
   ],
@@ -2924,7 +2924,7 @@
     ],
     "Rebellion",
     1593453379,
-    1599562515,
+    1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_CARBONWEAPONSKINS_REDEMPTIONIMAGE-860x1180-0664ab55d4674d5a84ec46215ba16ab5.jpg",
     ""
   ],
@@ -2986,7 +2986,7 @@
     ],
     "Rebellion",
     1590174024,
-    1607449565,
+    1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_Alpine_BLitz_REDEMPTIONIMAGE-860x1180-bac11e80702bd088ac83d62c17f5133d.png",
     ""
   ],
@@ -3248,11 +3248,13 @@
     "dfd2530e80e4425d801913b0879be444",
     "Nagant M1895 Pistol Bundle",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Rebellion",
     1608154837,
-    1610394646,
+    1611063810,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_Nagant_M1895_Pistol_Bundle_REDEMPTIONIMAGE-860x1145-9fb15938ad8b90f61481e9a65df147c2.jpg",
     ""
   ],
@@ -3442,7 +3444,7 @@
     ],
     "Rebellion",
     1599222102,
-    1603200785,
+    1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_Zombie_Gentleman_Dress_Uniform_REDEMPTIONIMAGE-860x1180-ef50dd7390ff11bc058453d9bfc3dd20.png",
     ""
   ],
@@ -3901,7 +3903,7 @@
     ],
     "Rebellion",
     1599222237,
-    1607449797,
+    1611063561,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_StenMK2SMGBundle_REDEMPTIONIMAGE-860x1180-7cbbe47675c2089500cea4c1a0daa597.jpg",
     ""
   ],
@@ -5093,7 +5095,7 @@
     ],
     "Rebellion",
     1563810407,
-    1589291431,
+    1611063560,
     "",
     ""
   ],
@@ -6551,7 +6553,7 @@
     ],
     "Rebellion",
     1599222171,
-    1603200785,
+    1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_Halloween_Charm_Pack_REDEMPTIONIMAGE-860x1180-ccffc21be0cc98edd774daeffc2d1d2c.png",
     ""
   ],
@@ -7143,7 +7145,7 @@
     ],
     "Rebellion",
     1604066201,
-    1607449451,
+    1611063561,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_Holiday_Season_Charm_Pack_REDEMPTIONIMAGE-860x1180-8d2885203b7ce8e322b8dce66e4b6507.png",
     ""
   ],
@@ -8313,11 +8315,13 @@
     "dfd2530e80e4425d801913b0879be444",
     "Bucket Headgear Bundle",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Rebellion",
     1599222204,
-    1610394664,
+    1611063757,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_BucketsHeadgear_Pack_REDEMPTIONIMAGE-860x1145-ee70799122285f2a634bc85d2bbaec8c.jpg",
     ""
   ],
@@ -9018,7 +9022,7 @@
     ],
     "Focus Home",
     1578611014,
-    1605535256,
+    1611073974,
     "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/Diesel_productv2_snowrunner_season-pass_SnowRunner_SeasonPass_EpicGames_LandscapeImage_2560x1440-2560x1440-920fde28045a9be6d63325c8809a983600c996fa-2560x1440-4227c1e8398c4779e8225f5c56f5568f.jpg",
     "snowrunner/season-pass"
   ],
@@ -10863,7 +10867,7 @@
     ],
     "Rebellion",
     1604066252,
-    1607449494,
+    1611063561,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_Holiday_Season_Charm_Pack_REDEMPTIONIMAGE-860x1180-a2a5f393df9703bbcba0f9411f0ec3fe.png",
     ""
   ],
@@ -10877,7 +10881,7 @@
     ],
     "Rebellion",
     1582821649,
-    1589291431,
+    1611063560,
     "",
     ""
   ],
@@ -11755,7 +11759,7 @@
     ],
     "Rebellion",
     1599222188,
-    1607449579,
+    1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_Berserker_Boris_Outfit_REDEMPTIONIMAGE-860x1180-33062f4ccbb3428fee693650566c30fb.jpg",
     ""
   ],
@@ -13049,7 +13053,7 @@
     ],
     "Rebellion",
     1585594684,
-    1596844522,
+    1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_GASMASKHEADGEAR_REDEMPTIONIMAGE-860x1180-7b6c17b5c14d688230f60512ec04fa3f.jpg",
     "zombie-army-4-dead-war/gas-mask-headgear-bundle"
   ],
@@ -13906,7 +13910,7 @@
     ],
     "Rebellion",
     1582223286,
-    1596501102,
+    1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/ZOMBIEARMY4_WISHLIST-PORTRAIT_CLASSICBORISOUTFIT-860x1148-182c9d327e7e9a47b7e5706980383f3b-860x1148-182c9d327e7e9a47b7e5706980383f3b.jpg",
     "zombie-army-4-dead-war/classic-boris-outfit"
   ],
@@ -13936,7 +13940,7 @@
     ],
     "Rebellion",
     1590174006,
-    1603200785,
+    1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_DamnationValley_REDEMPTIONIMAGE-860x1180-591456d46e1dee9676dcb97fd4cb0dcf.png",
     ""
   ],
@@ -14145,7 +14149,7 @@
     ],
     "Rebellion",
     1559873896,
-    1589468400,
+    1611063561,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/CodeRedemption_Zombie4-330x440-3102dff3377403c09f5bd5c9e43a3ad3-330x440-3102dff3377403c09f5bd5c9e43a3ad3.jpg",
     "zombie-army-4-dead-war"
   ],
@@ -14662,7 +14666,7 @@
     ],
     "Rebellion",
     1604066222,
-    1607449443,
+    1611063561,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_Holiday_Weapon_Skins_REDEMPTIONIMAGE-860x1180-5b5c299d726c4ac2bb9a3a493d5a2146.jpg",
     ""
   ],
@@ -15249,7 +15253,7 @@
     ],
     "Rebellion",
     1570745552,
-    1589400870,
+    1611063560,
     "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_ZASuperDeluxe-340x440-bef0a1d2e33fec31bd654334ce16227b.jpg",
     ""
   ],
@@ -15623,7 +15627,7 @@
     ],
     "Rebellion",
     1582223237,
-    1596163739,
+    1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/ZOMBIEARMY4_WISHLIST-PORTRAIT_M1SEMIAUTOCARBINEBUNDLE-860x1148-580a4f81686dce86ff285569b4c99313-860x1148-580a4f81686dce86ff285569b4c99313.jpg",
     "zombie-army-4-dead-war/m1-semi-auto-carbine"
   ],
@@ -16611,7 +16615,7 @@
     ],
     "Rebellion",
     1580423590,
-    1589468400,
+    1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/CodeRedemption_ZASuperDeluxe-340x440-bef0a1d2e33fec31bd654334ce16227b-340x440-bef0a1d2e33fec31bd654334ce16227b.jpg",
     "zombie-army-4-dead-war/super-deluxe-edition"
   ],
@@ -16838,11 +16842,13 @@
     "dfd2530e80e4425d801913b0879be444",
     "Night Ops Jun Outfit",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Rebellion",
     1608154802,
-    1610394652,
+    1611063833,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_Night_Ops_Jun_Outfit_REDEMPTIONIMAGE-860x1145-b9f6bc50c32f116d786a09645f0bf924.jpg",
     ""
   ],
@@ -17138,7 +17144,7 @@
     ],
     "Rebellion",
     1599222068,
-    1604322455,
+    1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_SeasonPass2_REDEMPTIONIMAGE-860x1180-9a3ff9ce35e43430e63dd3e1362880cb.png",
     ""
   ],
@@ -17283,7 +17289,7 @@
     ],
     "Rebellion",
     1579733023,
-    1596163743,
+    1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_SEASONPASS_KEYREDEMPTION-860x1180-d6304989e2744866122394a5f424ddc6-860x1180-d6304989e2744866122394a5f424ddc6.jpg",
     "zombie-army-4-dead-war/season-pass"
   ],
@@ -19134,7 +19140,7 @@
     ],
     "Rebellion",
     1567543555,
-    1596163738,
+    1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_UNDEADAIRMANDLC_KEYREDEMPTION-860x1180-3dba50eebce0e67cd3b8c87ee61f2143-860x1180-3dba50eebce0e67cd3b8c87ee61f2143.jpg",
     "zombie-army-4-dead-war/undead-airman"
   ],
@@ -19940,7 +19946,7 @@
     ],
     "Rebellion",
     1590177307,
-    1596225575,
+    1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_WRAPPINGPAPERWEAPONSKINS_REDEMPTIONIMAGE-860x1180-b67226c1ebbbc802217ca9e72b15c6b2.jpg",
     "zombie-army-4-dead-war/wrapping-paper-weapon-skins"
   ],
@@ -20180,7 +20186,7 @@
     ],
     "Rebellion",
     1559873896,
-    1589291431,
+    1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/CodeRedemption_Zombie4-330x440-3102dff3377403c09f5bd5c9e43a3ad3.jpg",
     ""
   ],
@@ -20225,7 +20231,7 @@
     ],
     "Rebellion",
     1593453395,
-    1599562528,
+    1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_LoneWolfJunOutfit_REDEMPTIONIMAGE-860x1180-286eceae0f9777d1c7ae1b23a5a7e36a.jpg",
     ""
   ],
@@ -20960,7 +20966,7 @@
     ],
     "Rebellion",
     1585594396,
-    1596844522,
+    1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_BLOODCOUNT_REDEMPTIONIMAGE-860x1180-f99f0b7cd6f89af705dc17995bc31fc3.jpg",
     "zombie-army-4-dead-war/blood-count"
   ],
@@ -21230,7 +21236,7 @@
     ],
     "Rebellion",
     1590173987,
-    1596225584,
+    1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/ZA4_DLC_DeeperThanHell_1200x1600-1200x1600-8b84cb60762566399f8abaefc985818e.jpg",
     "zombie-army-4-dead-war/deeper-than-hell"
   ],
@@ -22124,7 +22130,7 @@
     ],
     "Rebellion",
     1582223112,
-    1596163738,
+    1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/ZOMBIEARMY4_WISHLIST-PORTRAIT_AMERICANSEACAPTAIN-860x1148-12ace28975795253e78e60112a68b904-860x1148-12ace28975795253e78e60112a68b904.jpg",
     "zombie-army-4-dead-war/american-sea-captain"
   ],
@@ -22378,11 +22384,13 @@
     "dfd2530e80e4425d801913b0879be444",
     "Black Ice Weapon Skins",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Rebellion",
     1608154886,
-    1610394641,
+    1611063737,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_DLC_Black-Ice_Weapon_Skins_REDEMPTIONIMAGE-860x1145-e2fb01c81021445b68a8f0c8931c18dc.jpg",
     ""
   ],
@@ -22634,7 +22642,7 @@
     ],
     "Rebellion",
     1559874929,
-    1589400909,
+    1611063561,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/CodeRedemption_Zombie4-330x440-3102dff3377403c09f5bd5c9e43a3ad3.jpg",
     ""
   ],
@@ -23971,7 +23979,7 @@
     ],
     "Rebellion",
     1585594645,
-    1596844522,
+    1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_BLOODSOAKEDWEAPONS_REDEMPTIONIMAGE_-860x1180-6448e28f6a83eda60bba180956f1155d.jpg",
     "zombie-army-4-dead-war/bloodsoaked-weapon-skins"
   ],
@@ -24940,7 +24948,7 @@
     ],
     "Rebellion",
     1593453414,
-    1598969288,
+    1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_CrossbowPistolBundle_REDEMPTIONIMAGE-860x1180-7294e2ad5bf714a4f078a39ffc95d43c.jpg",
     "zombie-army-4-dead-war/crossbow-pistol-bundle"
   ],
@@ -26008,7 +26016,7 @@
     ],
     "Rebellion",
     1582223186,
-    1596163739,
+    1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/ZOMBIEARMY4_WISHLIST-PORTRAIT_PPSHSUBMACHINEGUNBUNDLE-860x1148-cf67cfdc3116755beb0cdaee44271b59-860x1148-cf67cfdc3116755beb0cdaee44271b59.jpg",
     "zombie-army-4-dead-war/ppsh-submachine-gun"
   ],
@@ -26917,7 +26925,7 @@
     ],
     "Rebellion",
     1579026398,
-    1589400922,
+    1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/CodeRedemption_ZADeluxe-340x440-bdc4bb63f2061b8757130cedfe2171f8.jpg",
     ""
   ],
@@ -27256,7 +27264,7 @@
     ],
     "Rebellion",
     1570742715,
-    1589400933,
+    1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/CodeRedemption_ZADeluxe-340x440-bdc4bb63f2061b8757130cedfe2171f8.jpg",
     ""
   ],
@@ -28799,12 +28807,14 @@
     "dfd2530e80e4425d801913b0879be444",
     "Horror Charm Pack",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Rebellion",
     1608154919,
-    1610394635,
-    "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_Horror_Charm_Pack_REDEMPTIONIMAGE-860x1180-1651074d04388438f0dd020ed7c2e4f9.jpg",
+    1611063726,
+    "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EN_Rebellion_ZombieArmy4_HorrorCharmPack_S2_1200x1600-1200x1600-1b513e0f0de90a279b8f4b26361a69b1.jpg",
     ""
   ],
   [
@@ -30257,7 +30267,7 @@
     ],
     "Rebellion",
     1590177222,
-    1596225608,
+    1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_FRENCHRESISTANCEFIGHTER_REDEMPTIONIMAGE-860x1180-d314a42813e08d721e7e68cef25cde6b.jpg",
     "zombie-army-4-dead-war/french-resistance-fighter-character"
   ],
@@ -30294,12 +30304,14 @@
     "dfd2530e80e4425d801913b0879be444",
     "Mission 6 - Dead Zeppelin",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Rebellion",
     1590174043,
-    1610394674,
-    "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_DeadZeppelin_Mission_REDEMPTIONIMAGE-860x1180-45e52f60f91fa306ba8f37797ef41690.jpg",
+    1611063779,
+    "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EN_Rebellion_ZombieArmy4_DeadZeppelin_S2_1200x1600-1200x1600-87ffc1d4c5f2b8c30c01b5fbe1983fdf.jpg",
     ""
   ],
   [
@@ -30650,7 +30662,7 @@
     ],
     "Rebellion",
     1579026451,
-    1589400858,
+    1611063560,
     "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_ZASuperDeluxe-340x440-bef0a1d2e33fec31bd654334ce16227b.jpg",
     ""
   ],
@@ -30888,7 +30900,7 @@
     ],
     "Rebellion",
     1590177237,
-    1596225621,
+    1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_LUGERPISTOLBUNDLE_REDEMPTIONIMAGE-860x1180-934e6d2a8c9a3d3834bc301e3994eb72.jpg",
     "zombie-army-4-dead-war/luger-pistol-bundle"
   ],
@@ -31676,7 +31688,7 @@
     ],
     "Rebellion",
     1567543602,
-    1596163738,
+    1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_FG42DLC_KEYREDEMPTION-860x1180-06dbeafc3b07f43d15bf47d0ea738d65-860x1180-06dbeafc3b07f43d15bf47d0ea738d65.jpg",
     "zombie-army-4-dead-war/fg-42-automatic-rifle"
   ],
@@ -32836,7 +32848,7 @@
     ],
     "Rebellion",
     1593453241,
-    1598970432,
+    1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_CROSSBOWRIFLEBUNDLE_REDEMPTIONIMAGE-860x1180-c49982ad9898e205c57bfcbed55c64ea.jpg",
     "zombie-army-4-dead-war/crossbow-rifle-bundle"
   ],
@@ -35351,7 +35363,7 @@
     ],
     "Rebellion",
     1599222117,
-    1603200785,
+    1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_Halloween_Hat_Pack_REDEMPTIONIMAGE-860x1180-ffa5357a8a497ed8e59dcdc97cd0993a.png",
     ""
   ],
@@ -36208,7 +36220,7 @@
     ],
     "Rebellion",
     1567545337,
-    1598967955,
+    1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/ZOMBIEARMY4_WISHLIST-PORTRAIT_TERRORLAB-860x1148-c3835a37389a4d89905b6c42e164351a-860x1148-c3835a37389a4d89905b6c42e164351a.jpg",
     "zombie-army-4-dead-war/terror-lab"
   ],
@@ -36257,7 +36269,7 @@
   [
     "b8a101fb55e244fda1bfa775e1c4f1c4",
     "493e9ad801e8487497fe7840cb8404bb",
-    "Farming Simulator 19 - Kverneland Equipment Pack",
+    "Farming Simulator 19 - Kverneland & Vicon Equipment Pack",
     [
       "addons",
       "addons/durable",
@@ -36265,7 +36277,7 @@
     ],
     "Focus Home",
     1589310419,
-    1605189722,
+    1611068839,
     "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/offer/EGS-GIANTS-FS19-510x680_KVERNELAND-510x680-9498efaa971d8b1f372968b9fd6bf70a.jpg",
     "farming-simulator-19/kverneland-equipment-pack"
   ],
@@ -36351,7 +36363,7 @@
     ],
     "Rebellion",
     1567543660,
-    1596163737,
+    1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_REPEATERRIFLEDLC_KEYREDEMPTION-860x1180-7186911cf60bbbf58dea9910d55ae770-860x1180-7186911cf60bbbf58dea9910d55ae770.jpg",
     "zombie-army-4-dead-war/m1895-rifle"
   ],
@@ -37397,7 +37409,7 @@
     ],
     "Rebellion",
     1590177272,
-    1596225630,
+    1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_SHOTGUNPISTOLBUNDLE_REDEMPTIONIMAGE-860x1180-4f4551ef5cdf9c9276441c179597d68a.jpg",
     "zombie-army-4-dead-war/shotgun-pistol-bundle"
   ],
@@ -37486,7 +37498,7 @@
     ],
     "Rebellion",
     1593453354,
-    1599562501,
+    1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_LoneWolfJunOutfit_REDEMPTIONIMAGE-860x1180-7ad44bbf8fc91989eb362da888aefca8.jpg",
     ""
   ],
@@ -38198,7 +38210,7 @@
     ],
     "Rebellion",
     1585594545,
-    1596844522,
+    1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_RENEGADEOFFICER_REDEMPTIONIMAGE_-860x1180-2333a91e95e0bd95334659879d5c9026.jpg",
     "zombie-army-4-dead-war/renegade-officer"
   ],
@@ -38608,7 +38620,7 @@
     ],
     "Rebellion",
     1576695689,
-    1589291431,
+    1611063560,
     "https://cdn1.epicgames.com/undefined/offer/EGS_REBELLION_ZOMBIEARMY4_N2_KEYART-2560x1440-446c9e10a27d7802ddec2f631a5c2920.jpg",
     ""
   ],
@@ -40620,7 +40632,7 @@
     ],
     "Rebellion",
     1567542770,
-    1596163737,
+    1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_GOLDSKINSDLC_KEYREDEMPTION-860x1180-35559fc869d4bfd4544ffe9d37674944-860x1180-35559fc869d4bfd4544ffe9d37674944.jpg",
     "zombie-army-4-dead-war/solid-gold-weapon-skins"
   ],
@@ -42083,7 +42095,7 @@
     ],
     "Rebellion",
     1583450939,
-    1589291431,
+    1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_SEASONPASSSTOREPROMO_SEASONPASS-2580x1450-7a3a44b56ed33d9b5551627a3287d060.jpg",
     ""
   ],
@@ -42112,7 +42124,7 @@
     ],
     "Rebellion",
     1582223330,
-    1596163739,
+    1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/ZOMBIEARMY4_WISHLIST-PORTRAIT_MOLTENLAVAWEAPONSKINS-860x1148-3f5877deaccca46c01b6c44a470ae048-860x1148-3f5877deaccca46c01b6c44a470ae048.jpg",
     "zombie-army-4-dead-war/molten-lava-weapon-skins"
   ],
@@ -42974,7 +42986,7 @@
     ],
     "Rebellion",
     1580423537,
-    1589468400,
+    1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/CodeRedemption_ZADeluxe-340x440-bdc4bb63f2061b8757130cedfe2171f8-340x440-bdc4bb63f2061b8757130cedfe2171f8.jpg",
     "zombie-army-4-dead-war/deluxe-edition"
   ],
@@ -43035,7 +43047,7 @@
     ],
     "Rebellion",
     1599222133,
-    1603200785,
+    1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_Lee_Enfield_Rifle_Bundle_REDEMPTIONIMAGE-860x1180-3eb534012140bbc0be0a5b21abff6ae0.png",
     ""
   ],
@@ -44940,7 +44952,7 @@
     ],
     "Rebellion",
     1567544863,
-    1596163738,
+    1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_UNDERCOVERKARLDLC_KEYREDEMPTION-860x1180-ce7f3476c6f6b23c532187cb08e18b09-860x1180-ce7f3476c6f6b23c532187cb08e18b09.jpg",
     "zombie-army-4-dead-war/undercover-karl"
   ],
@@ -46686,11 +46698,13 @@
     "dfd2530e80e4425d801913b0879be444",
     "Toxic Hazard Weapon Skins",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Rebellion",
     1599222253,
-    1610394658,
+    1611063745,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_Toxic_Hazard_Weapon_Skins_REDEMPTIONIMAGE-860x1145-15ed101ce7a11488e01d742970ba02b4.jpg",
     ""
   ],
@@ -46987,7 +47001,7 @@
     ],
     "Rebellion",
     1590177287,
-    1596225640,
+    1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_PARATROOPERZOMBIE_REDEMPTIONIMAGE-860x1180-9fba13d4e05d46260ad8ab4ebe2fe69d.jpg",
     "zombie-army-4-dead-war/paratrooper-zombie-character"
   ],
@@ -48348,11 +48362,13 @@
     "dfd2530e80e4425d801913b0879be444",
     "7.65mm Polizeipistole Pistol Bundle",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Rebellion",
     1608154968,
-    1610394629,
+    1611063848,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_DLC_7.65mm_Polizeipistole_Pistol_Bundle_REDEMPTIONIMAGE-860x1145-fe5e472e7f88186857b0c68f867b97c5.jpg",
     ""
   ],
@@ -49974,7 +49990,7 @@
     ],
     "Rebellion",
     1576687478,
-    1589291431,
+    1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_N2_KEYART-2560x1440-446c9e10a27d7802ddec2f631a5c2920.jpg",
     ""
   ],

@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "zombie-army-4-dead-war--svt-38-rifle-bundle",
   "creationDate": "2020-09-04T12:23:40.818Z",
-  "lastModifiedDate": "2020-12-08T17:55:46.484Z",
+  "lastModifiedDate": "2021-01-19T13:39:20.988Z",
   "effectiveDate": "2020-12-08T17:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -42,6 +42,10 @@
     {
       "key": "com.epicgames.app.blacklist",
       "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Rebellion"
     },
     {
       "key": "developerName",

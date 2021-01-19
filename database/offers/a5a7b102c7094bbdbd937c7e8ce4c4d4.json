@@ -6,9 +6,9 @@
   "longDescription": "Deadly precision, steady aim! With satisfyingly powerful bolts, every impact from this crossbow rifle is going to send your foes reeling backwards, as they’re torn apart by lightning-fast arrows!\n\n# This Weapon Bundle contains:\n\n- The Crossbow Rifle\n- 2 Charms (Helm, Rebellion Coin)\n- 2 Bespoke Weapon Skins (Toy, Ornate).",
   "status": "ACTIVE",
   "productSlug": "zombie-army-4-dead-war/crossbow-rifle-bundle",
-  "urlSlug": "m1895-rifle-bundle-01",
+  "urlSlug": "zombie-army-4-dead-war--crossbow-rifle-bundle",
   "creationDate": "2020-06-29T17:54:01.079Z",
-  "lastModifiedDate": "2020-09-01T14:27:12.570Z",
+  "lastModifiedDate": "2021-01-19T13:39:20.769Z",
   "effectiveDate": "2020-08-04T14:00:00.000Z",
   "viewableDate": "2020-08-04T13:59:00.000Z",
   "developer": null,
@@ -115,6 +115,10 @@
     {
       "key": "com.epicgames.app.blacklist",
       "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Rebellion"
     },
     {
       "key": "developerName",

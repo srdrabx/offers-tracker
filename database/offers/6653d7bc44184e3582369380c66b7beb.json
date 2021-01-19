@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "m1895-rifle-bundle-04",
   "creationDate": "2020-06-29T17:56:35.173Z",
-  "lastModifiedDate": "2020-09-08T10:55:28.783Z",
+  "lastModifiedDate": "2021-01-19T13:39:20.826Z",
   "effectiveDate": "2020-08-04T14:00:00.000Z",
   "viewableDate": "2020-08-04T13:59:00.000Z",
   "developer": null,
@@ -115,6 +115,10 @@
     {
       "key": "com.epicgames.app.blacklist",
       "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Rebellion"
     },
     {
       "key": "developerName",

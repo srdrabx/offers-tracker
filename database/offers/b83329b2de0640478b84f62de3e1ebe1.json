@@ -8,7 +8,7 @@
   "productSlug": "zombie-army-4-dead-war/terror-lab",
   "urlSlug": "zombie-army-4-dead-war--terror-lab",
   "creationDate": "2019-09-03T21:15:37.958Z",
-  "lastModifiedDate": "2020-09-01T13:45:55.908Z",
+  "lastModifiedDate": "2021-01-19T13:39:20.335Z",
   "effectiveDate": "2020-03-09T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -109,6 +109,10 @@
     }
   ],
   "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Rebellion"
+    },
     {
       "key": "developerName",
       "value": "Rebellion"

@@ -8,7 +8,7 @@
   "productSlug": "zombie-army-4-dead-war/gas-mask-headgear-bundle",
   "urlSlug": "zombie-army-4-dead-war--gas-mask-headgear-bundle",
   "creationDate": "2020-03-30T18:58:04.664Z",
-  "lastModifiedDate": "2020-08-07T23:55:22.504Z",
+  "lastModifiedDate": "2021-01-19T13:39:20.536Z",
   "effectiveDate": "2020-04-14T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -112,6 +112,10 @@
     }
   ],
   "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Rebellion"
+    },
     {
       "key": "developerName",
       "value": "Rebellion"

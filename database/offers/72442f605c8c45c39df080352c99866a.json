@@ -8,8 +8,8 @@
   "productSlug": null,
   "urlSlug": "zombie-army-4-dead-war--black-ice-weapon-skins",
   "creationDate": "2020-12-16T21:41:26.334Z",
-  "lastModifiedDate": "2021-01-11T19:50:41.621Z",
-  "effectiveDate": "2021-01-19T14:00:00.000Z",
+  "lastModifiedDate": "2021-01-19T13:42:17.295Z",
+  "effectiveDate": "2021-01-19T13:45:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -25,6 +25,12 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
       "path": "applications"
     }
   ],
@@ -33,6 +39,10 @@
     {
       "key": "com.epicgames.app.blacklist",
       "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Rebellion"
     },
     {
       "key": "developerName",

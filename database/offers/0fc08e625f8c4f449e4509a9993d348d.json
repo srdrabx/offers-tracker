@@ -6,9 +6,9 @@
   "longDescription": "Carbon Weapon Skins",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "m1895-rifle-bundle-03",
+  "urlSlug": "zombie-army-4-dead-war--carbon-weapon-skins",
   "creationDate": "2020-06-29T17:56:19.243Z",
-  "lastModifiedDate": "2020-09-08T10:55:15.150Z",
+  "lastModifiedDate": "2021-01-19T13:39:20.808Z",
   "effectiveDate": "2020-08-04T14:00:00.000Z",
   "viewableDate": "2020-08-04T13:59:00.000Z",
   "developer": null,
@@ -115,6 +115,10 @@
     {
       "key": "com.epicgames.app.blacklist",
       "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Rebellion"
     },
     {
       "key": "developerName",

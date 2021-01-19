@@ -8,8 +8,8 @@
   "productSlug": null,
   "urlSlug": "zombie-army-4-dead-war--polizeipistole-pistol-bundle",
   "creationDate": "2020-12-16T21:42:48.560Z",
-  "lastModifiedDate": "2021-01-11T19:50:29.955Z",
-  "effectiveDate": "2021-01-19T14:00:00.000Z",
+  "lastModifiedDate": "2021-01-19T13:44:08.617Z",
+  "effectiveDate": "2021-01-19T13:45:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -25,6 +25,12 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
       "path": "applications"
     }
   ],
@@ -33,6 +39,10 @@
     {
       "key": "com.epicgames.app.blacklist",
       "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Rebellion"
     },
     {
       "key": "developerName",

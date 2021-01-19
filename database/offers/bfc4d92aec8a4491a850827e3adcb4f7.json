@@ -6,9 +6,9 @@
   "longDescription": "Lone Wolf Jun Outfit",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "m1895-rifle-bundle-02",
+  "urlSlug": "zombie-army-4-dead-war--lone-wolf-jun-outfit",
   "creationDate": "2020-06-29T17:55:54.461Z",
-  "lastModifiedDate": "2020-09-08T10:55:01.978Z",
+  "lastModifiedDate": "2021-01-19T13:39:20.789Z",
   "effectiveDate": "2020-08-04T14:00:00.000Z",
   "viewableDate": "2020-08-04T13:59:00.000Z",
   "developer": null,
@@ -115,6 +115,10 @@
     {
       "key": "com.epicgames.app.blacklist",
       "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Rebellion"
     },
     {
       "key": "developerName",

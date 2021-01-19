@@ -8,7 +8,7 @@
   "productSlug": "zombie-army-4-dead-war/solid-gold-weapon-skins",
   "urlSlug": "zombie-army-4-dead-war--solid-gold-weapon-skins",
   "creationDate": "2019-09-03T20:32:50.231Z",
-  "lastModifiedDate": "2020-07-31T02:48:57.906Z",
+  "lastModifiedDate": "2021-01-19T13:39:20.240Z",
   "effectiveDate": "2020-02-04T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -115,6 +115,10 @@
     {
       "key": "com.epicgames.app.blacklist",
       "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Rebellion"
     },
     {
       "key": "developerName",

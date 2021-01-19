@@ -8,8 +8,8 @@
   "productSlug": null,
   "urlSlug": "zombie-army-4-dead-war--mission-6-dead-zeppelin",
   "creationDate": "2020-05-22T19:00:43.196Z",
-  "lastModifiedDate": "2021-01-11T19:51:14.417Z",
-  "effectiveDate": "2021-01-19T14:00:00.000Z",
+  "lastModifiedDate": "2021-01-19T13:42:59.334Z",
+  "effectiveDate": "2021-01-19T13:45:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -25,6 +25,12 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
       "path": "applications"
     }
   ],
@@ -35,64 +41,68 @@
       "value": "[]"
     },
     {
-      "key": "developerName",
+      "key": "publisherName",
       "value": "Rebellion"
+    },
+    {
+      "key": "developerName",
+      "value": "Flix Interactive"
     }
   ],
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_DLCCAPSULE_DeadZeppelin_Mission-900x450-013262447600176336c1f752a7b4b253.jpg",
-      "md5": "013262447600176336c1f752a7b4b253",
-      "size": 299089,
-      "uploadedDate": "2021-01-05T17:20:18.440Z",
-      "width": 900,
-      "height": 450
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EN_Rebellion_ZombieArmy4_DeadZeppelin_S1_2560x1440-2560x1440-eb5cd0650af2d4b5fd74538f4eee6b49.jpg",
+      "md5": "eb5cd0650af2d4b5fd74538f4eee6b49",
+      "size": 497720,
+      "uploadedDate": "2021-01-14T18:39:16.737Z",
+      "width": 2560,
+      "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_DeadZeppelin_Mission_REDEMPTIONIMAGE-860x1180-45e52f60f91fa306ba8f37797ef41690.jpg",
-      "md5": "45e52f60f91fa306ba8f37797ef41690",
-      "size": 410069,
-      "uploadedDate": "2021-01-05T17:20:26.903Z",
-      "width": 860,
-      "height": 1180
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EN_Rebellion_ZombieArmy4_DeadZeppelin_S2_1200x1600-1200x1600-87ffc1d4c5f2b8c30c01b5fbe1983fdf.jpg",
+      "md5": "87ffc1d4c5f2b8c30c01b5fbe1983fdf",
+      "size": 511221,
+      "uploadedDate": "2021-01-14T18:39:26.621Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_DeadZeppelin_Mission_REDEMPTIONIMAGE-860x1180-45e52f60f91fa306ba8f37797ef41690.jpg",
-      "md5": "45e52f60f91fa306ba8f37797ef41690",
-      "size": 410069,
-      "uploadedDate": "2021-01-05T17:20:53.084Z",
-      "width": 860,
-      "height": 1180
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EN_Rebellion_ZombieArmy4_DeadZeppelin_S2_1200x1600-1200x1600-87ffc1d4c5f2b8c30c01b5fbe1983fdf.jpg",
+      "md5": "87ffc1d4c5f2b8c30c01b5fbe1983fdf",
+      "size": 511221,
+      "uploadedDate": "2021-01-14T18:39:34.892Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_DeadZeppelin_Mission_REDEMPTIONIMAGE-860x1180-45e52f60f91fa306ba8f37797ef41690.jpg",
-      "md5": "45e52f60f91fa306ba8f37797ef41690",
-      "size": 410069,
-      "uploadedDate": "2021-01-05T17:21:00.599Z",
-      "width": 860,
-      "height": 1180
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EN_Rebellion_ZombieArmy4_DeadZeppelin_S2_1200x1600-1200x1600-87ffc1d4c5f2b8c30c01b5fbe1983fdf.jpg",
+      "md5": "87ffc1d4c5f2b8c30c01b5fbe1983fdf",
+      "size": 511221,
+      "uploadedDate": "2021-01-14T18:39:41.668Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_DLCCAPSULE_DeadZeppelin_Mission-900x450-013262447600176336c1f752a7b4b253.jpg",
-      "md5": "013262447600176336c1f752a7b4b253",
-      "size": 299089,
-      "uploadedDate": "2021-01-05T17:21:09.830Z",
-      "width": 900,
-      "height": 450
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EN_Rebellion_ZombieArmy4_DeadZeppelin_S1_2560x1440-2560x1440-eb5cd0650af2d4b5fd74538f4eee6b49.jpg",
+      "md5": "eb5cd0650af2d4b5fd74538f4eee6b49",
+      "size": 497720,
+      "uploadedDate": "2021-01-14T18:39:54.754Z",
+      "width": 2560,
+      "height": 1440
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_DeadZeppelin_Mission_REDEMPTIONIMAGE-860x1180-45e52f60f91fa306ba8f37797ef41690.jpg",
-      "md5": "45e52f60f91fa306ba8f37797ef41690",
-      "size": 410069,
-      "uploadedDate": "2021-01-05T17:21:18.110Z",
-      "width": 860,
-      "height": 1180
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EN_Rebellion_ZombieArmy4_DeadZeppelin_S2_1200x1600-1200x1600-87ffc1d4c5f2b8c30c01b5fbe1983fdf.jpg",
+      "md5": "87ffc1d4c5f2b8c30c01b5fbe1983fdf",
+      "size": 511221,
+      "uploadedDate": "2021-01-14T18:40:01.190Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [

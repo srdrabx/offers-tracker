@@ -8,7 +8,7 @@
   "productSlug": "zombie-army-4-dead-war/molten-lava-weapon-skins",
   "urlSlug": "zombie-army-4-dead-war--molten-lava-weapon-skins",
   "creationDate": "2020-02-20T18:28:50.033Z",
-  "lastModifiedDate": "2020-07-31T02:48:59.739Z",
+  "lastModifiedDate": "2021-01-19T13:39:20.494Z",
   "effectiveDate": "2020-03-09T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -112,6 +112,10 @@
     }
   ],
   "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Rebellion"
+    },
     {
       "key": "developerName",
       "value": "Rebellion"

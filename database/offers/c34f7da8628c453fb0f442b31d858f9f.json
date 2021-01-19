@@ -8,7 +8,7 @@
   "productSlug": "zombie-army-4-dead-war/renegade-officer",
   "urlSlug": "zombie-army-4-dead-war--renegade-officer",
   "creationDate": "2020-03-30T18:55:45.638Z",
-  "lastModifiedDate": "2020-08-07T23:55:22.568Z",
+  "lastModifiedDate": "2021-01-19T13:39:20.590Z",
   "effectiveDate": "2020-04-14T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -112,6 +112,10 @@
     }
   ],
   "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Rebellion"
+    },
     {
       "key": "developerName",
       "value": "Rebellion"
