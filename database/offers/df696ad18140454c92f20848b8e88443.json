@@ -1,0 +1,53 @@
+{
+  "id": "df696ad18140454c92f20848b8e88443",
+  "namespace": "dfd2530e80e4425d801913b0879be444",
+  "title": "DLC00052",
+  "description": "DLC00052",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "zombie-army-4-dead-war--dlc",
+  "creationDate": "2021-01-19T22:48:30.019Z",
+  "lastModifiedDate": "2021-01-19T23:20:58.494Z",
+  "effectiveDate": "2021-02-09T17:47:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+    "name": "Rebellion"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Rebellion"
+    },
+    {
+      "key": "developerName",
+      "value": "Rebellion"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "72809fbbc6224479aa30f62da2df234a"
+    }
+  ],
+  "catalogNs": null
+}

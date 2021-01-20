@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "saffrontrialaudience",
   "creationDate": "2020-03-03T05:14:17.238Z",
-  "lastModifiedDate": "2021-01-19T17:13:26.636Z",
+  "lastModifiedDate": "2021-01-19T17:23:46.195Z",
   "effectiveDate": "2020-07-16T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -45,28 +45,28 @@
   "keyImages": [
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/HeroBanner_3840x2160_EN-3840x2160-24280765b963c7c7ca1c77e5dd10e90c.jpg",
-      "md5": "24280765b963c7c7ca1c77e5dd10e90c",
-      "size": 4410118,
-      "uploadedDate": "2020-07-15T18:07:34.708Z",
-      "width": 3840,
-      "height": 2160
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/BREAKPOINT_STANDARD_BREAKPOINT STANDARD_EPIC_TRIAL_WE_Portrait_Image_1200x1600-1200x1600-8b620c24084fce7c06f86361ad9e912f.png",
+      "md5": "8b620c24084fce7c06f86361ad9e912f",
+      "size": 3873448,
+      "uploadedDate": "2021-01-19T17:22:47.101Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/HeroBanner_3840x2160_EN-3840x2160-24280765b963c7c7ca1c77e5dd10e90c.jpg",
-      "md5": "24280765b963c7c7ca1c77e5dd10e90c",
-      "size": 4410118,
-      "uploadedDate": "2020-07-15T18:07:36.989Z",
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/breakpoint-standard-breakpoint-standard-epic-key-art-wide-3840x2160-uk-3840x2160-0ca419868f6e-3840x2160-66346bf6887a4a82d4b477e23d625b59.jpg",
+      "md5": "66346bf6887a4a82d4b477e23d625b59",
+      "size": 790349,
+      "uploadedDate": "2021-01-19T17:23:09.820Z",
       "width": 3840,
       "height": 2160
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/IM-POP-UP_EN-1200x1600-11461b51e66067f263c36e08bbd07aed.jpg",
-      "md5": "11461b51e66067f263c36e08bbd07aed",
-      "size": 1525710,
-      "uploadedDate": "2020-07-16T15:27:10.665Z",
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/BREAKPOINT_STANDARD_BREAKPOINT STANDARD_EPIC_TRIAL_WE_Portrait_Image_1200x1600-1200x1600-8b620c24084fce7c06f86361ad9e912f.png",
+      "md5": "8b620c24084fce7c06f86361ad9e912f",
+      "size": 3873448,
+      "uploadedDate": "2021-01-19T17:23:24.114Z",
       "width": 1200,
       "height": 1600
     }
