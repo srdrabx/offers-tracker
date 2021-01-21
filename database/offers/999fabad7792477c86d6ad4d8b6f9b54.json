@@ -1,16 +1,16 @@
 {
   "id": "999fabad7792477c86d6ad4d8b6f9b54",
   "namespace": "6af58339c2424644988e0fb83dfd9bd5",
-  "title": "Young Dumb and Broke Audience",
-  "description": "Young Dumb and Broke Audience",
-  "longDescription": null,
+  "title": "Khalid - \"Young Dumb & Broke\"",
+  "description": "Expand your FUSER™ library with \"Young Dumb & Broke\" by Khalid! Bring something new to your mixes with this additional playable track, available immediately in game.",
+  "longDescription": "Expand your FUSER™ library with \"Young Dumb & Broke\" by Khalid! Bring something new to your mixes with this additional playable track, available immediately in game. Requires FUSER base game to play. For music credits, visit www.fuser.com.",
   "status": "ACTIVE",
-  "productSlug": "[]",
-  "urlSlug": "youngdumbandbrokeaudience",
+  "productSlug": null,
+  "urlSlug": "fuser--khalid-young-dumb-and-broke",
   "creationDate": "2020-09-01T21:03:16.943Z",
-  "lastModifiedDate": "2020-11-10T04:59:53.481Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2021-01-07T22:40:07.075Z",
+  "effectiveDate": "2021-01-21T17:00:00.000Z",
+  "viewableDate": "2021-01-21T17:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-k8ltvz7rz3r7b29xdtafqvdkhnj2ux",
@@ -25,7 +25,10 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
     },
     {
       "path": "applications"
@@ -35,22 +38,55 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "[]"
     },
     {
       "key": "publisherName",
-      "value": "[]"
+      "value": "NCSOFT"
     },
     {
       "key": "developerName",
-      "value": "[]"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "[]"
+      "value": "Harmonix"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_KhalidYoungDumbBroke_HarmonixMusicSystemsInc_DLC_S1-2560x1440-1d3b1e0e0ef2ba43457848caea631021.jpg",
+      "md5": "1d3b1e0e0ef2ba43457848caea631021",
+      "size": 1004450,
+      "uploadedDate": "2021-01-04T17:44:09.244Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_KhalidYoungDumbBroke_HarmonixMusicSystemsInc_DLC_S2-1200x1600-3c8ae2c7ec7c56e3ced380908737686f.jpg",
+      "md5": "3c8ae2c7ec7c56e3ced380908737686f",
+      "size": 886892,
+      "uploadedDate": "2021-01-04T17:44:18.407Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_KhalidYoungDumbBroke_HarmonixMusicSystemsInc_DLC_S2-1200x1600-3c8ae2c7ec7c56e3ced380908737686f.jpg",
+      "md5": "3c8ae2c7ec7c56e3ced380908737686f",
+      "size": 886892,
+      "uploadedDate": "2021-01-04T17:44:33.029Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_KhalidYoungDumbBroke_HarmonixMusicSystemsInc_DLC_S2-1200x1600-3c8ae2c7ec7c56e3ced380908737686f.jpg",
+      "md5": "3c8ae2c7ec7c56e3ced380908737686f",
+      "size": 886892,
+      "uploadedDate": "2021-01-04T17:44:44.422Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "c89671f80dd344c3b640de057da14ddc"

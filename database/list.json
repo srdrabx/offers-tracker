@@ -480,7 +480,7 @@
     ],
     "Stardock Entertainment, Inc",
     1607501569,
-    1611086822,
+    1611242163,
     "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/offer/terrans tall-1200x1600-6ff1fae3a50e0a7e79039e006a7297bf.jpeg",
     ""
   ],
@@ -1196,7 +1196,7 @@
     ],
     "Raw Fury",
     1610128656,
-    1610386107,
+    1611182264,
     "",
     ""
   ],
@@ -1433,6 +1433,20 @@
     "Raw Fury",
     1582050748,
     1584627822,
+    "",
+    ""
+  ],
+  [
+    "07bed240fbc94cd1917a6ac1b4f0597d",
+    "37e6d41ce91e44988190c2f10108d4e9",
+    "DevAntimonyAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "Thermite Games",
+    1611184077,
+    1611184638,
     "",
     ""
   ],
@@ -2609,7 +2623,7 @@
     ],
     "Stardock Entertainment, Inc",
     1607501825,
-    1611086917,
+    1611242163,
     "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/offer/heroes tall-1200x1600-aa50abbe33370b9463ef1f69b6f8ab0a.jpeg",
     ""
   ],
@@ -2678,8 +2692,8 @@
     ],
     "Grinding Gear Games",
     1589829039,
-    1600460214,
-    "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/EGS_PathofExile_GrindingGearGames_S2-1200x1600-b01e41b4642829899fc495138b6cc84d.jpg",
+    1611166171,
+    "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/EGS_PathofExile_GrindingGearGames_S6-1200x1600-ba5f369d479d1c0394f1fc11ac76457f.jpg",
     "path-of-exile/home"
   ],
   [
@@ -4076,7 +4090,7 @@
     ],
     "Stardock Entertainment, Inc",
     1607501886,
-    1611087385,
+    1611242163,
     "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/offer/crisis tall-1200x1600-019711170372ad3c4c9774e2a3b8872b.jpeg",
     ""
   ],
@@ -7300,16 +7314,17 @@
   [
     "25a766abf02f4a8db5abd574dd8331ca",
     "6af58339c2424644988e0fb83dfd9bd5",
-    "Mr Brightside Audience",
+    "The Killers - \"Mr. Brightside\"",
     [
-      "games",
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "NCSoft",
     1598993714,
-    1604984393,
-    "",
-    "[]"
+    1610059207,
+    "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_TheKillersMrBrightside_HarmonixMusicSystemsInc_DLC_S2-1200x1600-6c6d926f9cff5c7d91e7d869c54d5b04.jpg",
+    ""
   ],
   [
     "25b1e680b36c46c0868f710d24aa41bf",
@@ -8305,7 +8320,7 @@
     ],
     "Stardock Entertainment, Inc",
     1607501761,
-    1611086767,
+    1611242163,
     "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/offer/mech tall-1200x1600-7b76fcdbaa91962bf96b9a2e248c51e6.jpeg",
     ""
   ],
@@ -12280,7 +12295,7 @@
     ],
     "Stardock Entertainment, Inc",
     1607501438,
-    1611087158,
+    1611242163,
     "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/offer/snathi-1200x1600-9ccb4e7713070dbf8cc16a9c8ce80c2c.jpeg",
     ""
   ],
@@ -13864,7 +13879,7 @@
     ],
     "Stardock Entertainment, Inc",
     1607501603,
-    1611086851,
+    1611242163,
     "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/offer/lost treasure tall-1200x1600-d5c85b0d2f481ea7189090e8b81eb07c.jpeg",
     ""
   ],
@@ -18475,7 +18490,7 @@
     ],
     "Stardock Entertainment, Inc",
     1604647790,
-    1610640009,
+    1611242163,
     "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/offer/EGS_GalacticCivilizationsIIICoreEdition_StardockEntertainment_S2-1200x1600-ef8767dbf731cda94a457c4a543341c1.jpg",
     "galactic-civilizations-iii"
   ],
@@ -18594,6 +18609,21 @@
     ""
   ],
   [
+    "5dca8003f6564a6fa1ae574e788847ab",
+    "d52ebad606f44f6486d9a10f6303a930",
+    "EA STAR WARS™ TRIPLE BUNDLE",
+    [
+      "bundles",
+      "bundles/games",
+      "applications"
+    ],
+    "Electronic Arts",
+    1605884118,
+    1611249059,
+    "https://cdn1.epicgames.com/d52ebad606f44f6486d9a10f6303a930/offer/EGS_EASTARWARSTRIPLEBUNDLE_DICERespawnMotive_S2-1200x1600-4fb196575d1214b09586566cf6bb450a.jpg",
+    "ea-star-wars-triple-bundle"
+  ],
+  [
     "5de1872a341c4536809185219ef71222",
     "puffin",
     "Axiom Verge",
@@ -18692,7 +18722,7 @@
     ],
     "Stardock Entertainment, Inc",
     1609784243,
-    1610639076,
+    1611242163,
     "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/offer/4a2da082-73ab-4370-8a72-961782c2e686-1200x1600-ed40cc7131b8cfeafb7cddc8bbdcae78.jpeg",
     ""
   ],
@@ -24424,7 +24454,7 @@
     ],
     "Stardock Entertainment, Inc",
     1607501500,
-    1611086803,
+    1611242163,
     "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/offer/merch tall-1200x1600-f5be33f5406604474b04ed2fc88bd3b3.jpeg",
     ""
   ],
@@ -30098,16 +30128,17 @@
   [
     "999fabad7792477c86d6ad4d8b6f9b54",
     "6af58339c2424644988e0fb83dfd9bd5",
-    "Young Dumb and Broke Audience",
+    "Khalid - \"Young Dumb & Broke\"",
     [
-      "games",
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "NCSoft",
     1598994196,
-    1604984393,
-    "",
-    "[]"
+    1610059207,
+    "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_KhalidYoungDumbBroke_HarmonixMusicSystemsInc_DLC_S2-1200x1600-3c8ae2c7ec7c56e3ced380908737686f.jpg",
+    ""
   ],
   [
     "99a373b6f48e4d3b9a40374b9cfbaf9a",
@@ -32970,6 +33001,23 @@
     "rainbow-six-siege/free-trial"
   ],
   [
+    "a5dbe3de0fb14e029d78f85b25e89ca6",
+    "73b62f4875a248d8acc95966ce94c80f",
+    "Dandara: Trials of Fear Edition",
+    [
+      "freegames",
+      "games/edition",
+      "games",
+      "games/edition/base",
+      "applications"
+    ],
+    "Raw Fury",
+    1610128656,
+    1611245298,
+    "https://cdn1.epicgames.com/73b62f4875a248d8acc95966ce94c80f/offer/EGS_DandaraTrialsofFearEdition_LongHatHouse_S2-1200x1600-432dcc4d847271ea87e18ff3c369e31a.jpg",
+    "dandara"
+  ],
+  [
     "a61454cf9fc04689b5a014996712d3f5",
     "3d4ea555f7954f06b48050b3b821d6d0",
     "Fell Seal: Arbiter's Mark",
@@ -33389,7 +33437,7 @@
     ],
     "Stardock Entertainment, Inc",
     1607501534,
-    1611086969,
+    1611242163,
     "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/offer/precursor tall-1200x1600-cf4ae4785ee0cda704b768a641ff0786.jpeg",
     ""
   ],
@@ -36020,6 +36068,20 @@
     "wilmots-warehouse"
   ],
   [
+    "b5e5f4fbdd4a40348c3a9a554f076922",
+    "37e6d41ce91e44988190c2f10108d4e9",
+    "AntimonyGeneralAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "Thermite Games",
+    1611184076,
+    1611184638,
+    "",
+    ""
+  ],
+  [
     "b5f59b5219f54326a9d9079adda40108",
     "c9be94273fe244c08032ca493ad87434",
     "AlbacoreDevAudience",
@@ -36247,7 +36309,7 @@
     ],
     "Stardock Entertainment, Inc",
     1609802465,
-    1611086930,
+    1611248602,
     "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/offer/egs-galacticcivilizationsiiiultimateedition-stardockentertainment-editions-s2-1200x1600-55dc10b92351-1200x1600-c9286d860dc606c69c1194cfa2ea00f2.jpg",
     "galactic-civilizations-iii/ultimate-edition"
   ],
@@ -38777,7 +38839,7 @@
     ],
     "Stardock Entertainment, Inc",
     1607501734,
-    1611086864,
+    1611242163,
     "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/offer/prophecy tall-1200x1600-a9fe44be782407236e020deaa5fbd7ed.jpeg",
     ""
   ],
@@ -39676,7 +39738,7 @@
     ],
     "Stardock Entertainment, Inc",
     1607501789,
-    1611087108,
+    1611242163,
     "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/offer/intrigue tall-1200x1600-505674c3037d63d3ffffa6e390076764.jpeg",
     ""
   ],
@@ -43414,6 +43476,21 @@
     "abzu/home"
   ],
   [
+    "df11e0864da3490bb7dac6e108557eed",
+    "6af58339c2424644988e0fb83dfd9bd5",
+    "Premier Pack 01",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "NCSoft",
+    1593115351,
+    1610061345,
+    "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_PremierPack01_HarmonixMusicSystemsInc_Packs_S2-1200x1600-d61ac35e15183a11a86581997c269301.jpg",
+    ""
+  ],
+  [
     "df28d63878c34a2c94883265061c4676",
     "newt",
     "Spellbreak Beta Battlemage",
@@ -44929,7 +45006,7 @@
     ],
     "IO Interactive",
     1597414550,
-    1610145382,
+    1611185342,
     "https://cdn1.epicgames.com/3c06b15a8a2845c0b725d4f952fe00aa/offer/hitman_gotyupgradeTall-1200x1600-cf3264ddc7a9cee05018f1bb038a12f2.jpg",
     "hitman/game-of-the-year-upgrade"
   ],
@@ -45950,7 +46027,6 @@
     "b156c3365a5b4cb9a01a5e1108b4e3f4",
     "STAR WARS™ Battlefront™ II: Celebration Edition",
     [
-      "freegames",
       "games",
       "games/edition/base",
       "games/edition",
@@ -45958,7 +46034,7 @@
     ],
     "Electronic Arts",
     1604929406,
-    1610639169,
+    1611245070,
     "https://cdn1.epicgames.com/b156c3365a5b4cb9a01a5e1108b4e3f4/offer/EGS_STARWARSBattlefrontIICelebrationEdition_DICE_S2-1200x1600-11d040719a8457bbf36cabbe89b200db.jpg",
     "star-wars-battlefront-2"
   ],
@@ -48015,7 +48091,7 @@
     ],
     "IO Interactive",
     1564154444,
-    1610145473,
+    1611185328,
     "https://cdn1.epicgames.com/3c06b15a8a2845c0b725d4f952fe00aa/offer/EGS_HITMANGameofTheYeardEdition_IOInteractiveAS_Bundles_S2-1200x1600-6add4f514900a2454ad226e6288df595.jpg",
     "hitman"
   ],
@@ -49596,7 +49672,7 @@
     ],
     "Stardock Entertainment, Inc",
     1607501861,
-    1611087407,
+    1611242163,
     "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/offer/villains tall-1200x1600-fffbe8c668f272c8d4f1c6a989e1cf75.jpeg",
     ""
   ],
@@ -50149,16 +50225,17 @@
   [
     "ffc270fb9cc9441bb965d5def822e5e8",
     "6af58339c2424644988e0fb83dfd9bd5",
-    "New Rules Audience",
+    "Dua Lipa - \"New Rules\"",
     [
-      "games",
+      "addons",
+      "addons/bundle",
       "applications"
     ],
     "NCSoft",
     1598993764,
-    1604984393,
-    "",
-    "[]"
+    1610059207,
+    "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_DuaLipaNewRules_HarmonixMusicSystemsInc_DLC_S2-1200x1600-eb4415c1ec460736260b2f0e908780a4.jpg",
+    ""
   ],
   [
     "ffd0ed8458ce49d89c17bf756532b25f",

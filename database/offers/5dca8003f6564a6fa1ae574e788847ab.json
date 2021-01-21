@@ -1,0 +1,133 @@
+{
+  "id": "5dca8003f6564a6fa1ae574e788847ab",
+  "namespace": "d52ebad606f44f6486d9a10f6303a930",
+  "title": "EA STAR WARS™ TRIPLE BUNDLE",
+  "description": "EA STAR WARS™ TRIPLE BUNDLE",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "ea-star-wars-triple-bundle",
+  "urlSlug": "eastarwarstriplebundle",
+  "creationDate": "2020-11-20T14:55:18.742Z",
+  "lastModifiedDate": "2021-01-21T17:10:59.698Z",
+  "effectiveDate": "2021-01-21T16:00:00.000Z",
+  "viewableDate": "2021-01-21T16:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+    "name": "Electronic Arts"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "bundles"
+    },
+    {
+      "path": "bundles/games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Electronic Arts"
+    },
+    {
+      "key": "developerName",
+      "value": "DICE"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "ea-star-wars-triple-bundle"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/d52ebad606f44f6486d9a10f6303a930/offer/EGS_EASTARWARSTRIPLEBUNDLE_DICERespawnMotive_S1-2560x1440-4aade7d678770994a7606089c971755e.jpg",
+      "md5": "4aade7d678770994a7606089c971755e",
+      "size": 965083,
+      "uploadedDate": "2021-01-20T20:32:57.779Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/d52ebad606f44f6486d9a10f6303a930/offer/EGS_EASTARWARSTRIPLEBUNDLE_DICERespawnMotive_S2-1200x1600-4fb196575d1214b09586566cf6bb450a.jpg",
+      "md5": "4fb196575d1214b09586566cf6bb450a",
+      "size": 926233,
+      "uploadedDate": "2021-01-20T20:33:25.676Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/d52ebad606f44f6486d9a10f6303a930/offer/EGS_EASTARWARSTRIPLEBUNDLE_DICERespawnMotive_S2-1200x1600-4fb196575d1214b09586566cf6bb450a.jpg",
+      "md5": "4fb196575d1214b09586566cf6bb450a",
+      "size": 926233,
+      "uploadedDate": "2021-01-20T20:33:21.663Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/d52ebad606f44f6486d9a10f6303a930/offer/EGS_EASTARWARSTRIPLEBUNDLE_DICERespawnMotive_S2-1200x1600-4fb196575d1214b09586566cf6bb450a.jpg",
+      "md5": "4fb196575d1214b09586566cf6bb450a",
+      "size": 926233,
+      "uploadedDate": "2021-01-20T20:33:39.906Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/d52ebad606f44f6486d9a10f6303a930/offer/EGS_EASTARWARSTRIPLEBUNDLE_DICERespawnMotive_S1-2560x1440-4aade7d678770994a7606089c971755e.jpg",
+      "md5": "4aade7d678770994a7606089c971755e",
+      "size": 965083,
+      "uploadedDate": "2021-01-20T20:33:49.205Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/d52ebad606f44f6486d9a10f6303a930/offer/EGS_EASTARWARSTRIPLEBUNDLE_DICERespawnMotive_S2-1200x1600-4fb196575d1214b09586566cf6bb450a.jpg",
+      "md5": "4fb196575d1214b09586566cf6bb450a",
+      "size": 926233,
+      "uploadedDate": "2021-01-20T20:33:57.098Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "976eeb766f1e4a67902a33a857b087ca"
+    },
+    {
+      "id": "f5df0f7ea3534b99bccde279e84c3f3a"
+    },
+    {
+      "id": "0f5358cfe5754a6881a7ad5a0cfef409"
+    },
+    {
+      "id": "677938c995794ceba53bc6a36885f2a6"
+    },
+    {
+      "id": "aaf21f7fc8564243981c0fab0586146f"
+    },
+    {
+      "id": "ff75ef371db448aba83f7bfe16542b03"
+    }
+  ],
+  "catalogNs": null
+}

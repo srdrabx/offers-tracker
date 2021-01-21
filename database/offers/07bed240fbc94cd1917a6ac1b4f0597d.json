@@ -1,20 +1,20 @@
 {
-  "id": "06984e7ae5594c8c8222f26a79be11b5",
-  "namespace": "73b62f4875a248d8acc95966ce94c80f",
-  "title": "DevSeleniumAudience",
-  "description": "DevSeleniumAudience",
+  "id": "07bed240fbc94cd1917a6ac1b4f0597d",
+  "namespace": "37e6d41ce91e44988190c2f10108d4e9",
+  "title": "DevAntimonyAudience",
+  "description": "DevAntimonyAudience",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "devseleniumaudience",
-  "creationDate": "2021-01-08T17:57:36.326Z",
-  "lastModifiedDate": "2021-01-20T22:37:44.140Z",
+  "urlSlug": "devantimonyaudience",
+  "creationDate": "2021-01-20T23:07:57.267Z",
+  "lastModifiedDate": "2021-01-20T23:17:18.424Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
-    "id": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
-    "name": "Raw Fury"
+    "id": "o-c4wvnkapw72ewsv6plkytlbc5f46nb",
+    "name": "Thermite Games"
   },
   "linkedOfferId": null,
   "isFeatured": false,
@@ -49,7 +49,7 @@
   "keyImages": [],
   "items": [
     {
-      "id": "cdbe6f7d76b34a90b89b858e599e6cd3"
+      "id": "feecf118a3824805aaf993ac0704a801"
     }
   ],
   "catalogNs": null

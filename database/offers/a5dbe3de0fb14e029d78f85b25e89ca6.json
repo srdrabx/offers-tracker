@@ -1,0 +1,187 @@
+{
+  "id": "a5dbe3de0fb14e029d78f85b25e89ca6",
+  "namespace": "73b62f4875a248d8acc95966ce94c80f",
+  "title": "Dandara: Trials of Fear Edition",
+  "description": "Dandara: Trials of Fear Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "dandara",
+  "urlSlug": "dandara",
+  "creationDate": "2021-01-08T17:57:36.015Z",
+  "lastModifiedDate": "2021-01-21T16:08:18.735Z",
+  "effectiveDate": "2021-01-28T16:00:00.000Z",
+  "viewableDate": "2021-01-21T15:25:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
+    "name": "Raw Fury"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "freegames"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-12-15T01:46:14.061Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-12-15T01:43:02.751Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1151",
+      "name": "PLATFORMER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:33.743Z",
+      "updated": "2020-12-15T01:48:27.201Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1247",
+      "name": "METROIDVANIA",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:21.277Z",
+      "updated": "2020-05-14T19:40:40.953Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "MAC OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX"
+      ],
+      "operator": null,
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-12-15T01:43:22.719Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Raw Fury"
+    },
+    {
+      "key": "developerName",
+      "value": "Long Hat House"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "dandara"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/73b62f4875a248d8acc95966ce94c80f/offer/EGS_DandaraTrialsofFearEdition_LongHatHouse_S1-2560x1440-d20ffd22ba6944939635a2af807d3610.jpg",
+      "md5": "d20ffd22ba6944939635a2af807d3610",
+      "size": 508169,
+      "uploadedDate": "2021-01-15T20:07:36.312Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/73b62f4875a248d8acc95966ce94c80f/offer/EGS_DandaraTrialsofFearEdition_LongHatHouse_S2-1200x1600-432dcc4d847271ea87e18ff3c369e31a.jpg",
+      "md5": "432dcc4d847271ea87e18ff3c369e31a",
+      "size": 342537,
+      "uploadedDate": "2021-01-15T20:07:44.032Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/73b62f4875a248d8acc95966ce94c80f/offer/EGS_DandaraTrialsofFearEdition_LongHatHouse_S2-1200x1600-432dcc4d847271ea87e18ff3c369e31a.jpg",
+      "md5": "432dcc4d847271ea87e18ff3c369e31a",
+      "size": 342537,
+      "uploadedDate": "2021-01-15T20:07:55.198Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/73b62f4875a248d8acc95966ce94c80f/offer/EGS_DandaraTrialsofFearEdition_LongHatHouse_S2-1200x1600-432dcc4d847271ea87e18ff3c369e31a.jpg",
+      "md5": "432dcc4d847271ea87e18ff3c369e31a",
+      "size": 342537,
+      "uploadedDate": "2021-01-15T20:08:03.007Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/73b62f4875a248d8acc95966ce94c80f/offer/EGS_DandaraTrialsofFearEdition_LongHatHouse_S1-2560x1440-d20ffd22ba6944939635a2af807d3610.jpg",
+      "md5": "d20ffd22ba6944939635a2af807d3610",
+      "size": 508169,
+      "uploadedDate": "2021-01-15T20:08:15.531Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/73b62f4875a248d8acc95966ce94c80f/offer/EGS_DandaraTrialsofFearEdition_LongHatHouse_S2-1200x1600-432dcc4d847271ea87e18ff3c369e31a.jpg",
+      "md5": "432dcc4d847271ea87e18ff3c369e31a",
+      "size": 342537,
+      "uploadedDate": "2021-01-15T20:08:28.324Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "4113d5c15e1b41b9bfe00e72aa486da7"
+    }
+  ],
+  "catalogNs": null
+}

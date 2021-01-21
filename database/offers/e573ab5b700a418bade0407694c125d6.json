@@ -8,7 +8,7 @@
   "productSlug": "hitman/game-of-the-year-upgrade",
   "urlSlug": "goty-dlc-upgrade",
   "creationDate": "2020-08-14T14:15:50.877Z",
-  "lastModifiedDate": "2021-01-08T22:36:22.576Z",
+  "lastModifiedDate": "2021-01-20T23:29:02.053Z",
   "effectiveDate": "2020-08-27T15:00:00.000Z",
   "viewableDate": "2020-08-27T14:55:00.000Z",
   "developer": null,
@@ -104,9 +104,6 @@
     }
   ],
   "items": [
-    {
-      "id": "894d1e6771044f48a8fdde934b8e443a"
-    },
     {
       "id": "81aecb49a60b47478e61e1cbd68d63c5"
     }
