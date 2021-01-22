@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "sid-meiers-civilization-vi--babylon-pack",
   "creationDate": "2020-06-08T16:09:57.556Z",
-  "lastModifiedDate": "2020-11-19T16:30:39.399Z",
+  "lastModifiedDate": "2021-01-21T22:10:43.842Z",
   "effectiveDate": "2020-11-19T16:30:00.000Z",
   "viewableDate": "2020-11-19T16:30:00.000Z",
   "developer": null,
@@ -75,7 +75,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR"
+      "value": "CU,IR,SY,VE"
     },
     {
       "key": "publisherName",
