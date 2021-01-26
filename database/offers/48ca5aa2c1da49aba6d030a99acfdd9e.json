@@ -8,7 +8,7 @@
   "productSlug": "heroes-and-generals-wwii/su-infantry-assault",
   "urlSlug": "heroes-and-generals-wii--su-infantry-assault",
   "creationDate": "2020-04-29T03:16:31.250Z",
-  "lastModifiedDate": "2020-12-18T20:32:40.661Z",
+  "lastModifiedDate": "2021-01-26T14:14:25.060Z",
   "effectiveDate": "2020-09-24T14:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -113,55 +113,55 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_SUSoldierPackInfantryAntiTank_RETOMOTO_Packs_S1-2560x1440-18f141f1bc082f4264a6882a4563dd35.jpg",
-      "md5": "18f141f1bc082f4264a6882a4563dd35",
-      "size": 863646,
-      "uploadedDate": "2020-09-24T05:22:08.951Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_SUSoldierPackInfantryAntiTank_RETOMOTO_Packs_S1-2560x1440-18f141f1bc082f4264a6882a4563dd35.jpg",
-      "md5": "18f141f1bc082f4264a6882a4563dd35",
-      "size": 863646,
-      "uploadedDate": "2020-09-24T05:22:24.226Z",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_SUSoldierPackInfantryAssault_RETOMOTO_Packs_S1-2560x1440-94c3b258cf6d8f8426ba34c6cdcff48d.jpg",
+      "md5": "94c3b258cf6d8f8426ba34c6cdcff48d",
+      "size": 963375,
+      "uploadedDate": "2021-01-25T21:07:07.142Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_HeroesGeneralsWWII_RETOMOTO_S2-1200x1600-1427359bd8c5d59ac8cbf8c07a0ff211.jpg",
-      "md5": "1427359bd8c5d59ac8cbf8c07a0ff211",
-      "size": 985222,
-      "uploadedDate": "2020-09-24T05:22:33.363Z",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/SUinfantry-1200x1600-1e102207d4a48e5738ff99e2d5174e49.jpg",
+      "md5": "1e102207d4a48e5738ff99e2d5174e49",
+      "size": 856905,
+      "uploadedDate": "2021-01-25T21:07:15.981Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_HeroesGeneralsWWII_RETOMOTO_S2-1200x1600-1427359bd8c5d59ac8cbf8c07a0ff211.jpg",
-      "md5": "1427359bd8c5d59ac8cbf8c07a0ff211",
-      "size": 985222,
-      "uploadedDate": "2020-09-24T05:22:43.732Z",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/SUinfantry-1200x1600-1e102207d4a48e5738ff99e2d5174e49.jpg",
+      "md5": "1e102207d4a48e5738ff99e2d5174e49",
+      "size": 856905,
+      "uploadedDate": "2021-01-25T21:07:27.116Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_HeroesGeneralsWWII_RETOMOTO_S2-1200x1600-1427359bd8c5d59ac8cbf8c07a0ff211.jpg",
-      "md5": "1427359bd8c5d59ac8cbf8c07a0ff211",
-      "size": 985222,
-      "uploadedDate": "2020-09-24T05:22:51.072Z",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/SUinfantry-1200x1600-1e102207d4a48e5738ff99e2d5174e49.jpg",
+      "md5": "1e102207d4a48e5738ff99e2d5174e49",
+      "size": 856905,
+      "uploadedDate": "2021-01-25T21:07:56.928Z",
       "width": 1200,
       "height": 1600
     },
     {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_SUSoldierPackInfantryAssault_RETOMOTO_Packs_S1-2560x1440-94c3b258cf6d8f8426ba34c6cdcff48d.jpg",
+      "md5": "94c3b258cf6d8f8426ba34c6cdcff48d",
+      "size": 963375,
+      "uploadedDate": "2021-01-25T21:08:10.403Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_HeroesGeneralsWWII_RETOMOTO_S2-1200x1600-1427359bd8c5d59ac8cbf8c07a0ff211.jpg",
-      "md5": "1427359bd8c5d59ac8cbf8c07a0ff211",
-      "size": 985222,
-      "uploadedDate": "2020-09-24T05:23:11.876Z",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/SUinfantry-1200x1600-1e102207d4a48e5738ff99e2d5174e49.jpg",
+      "md5": "1e102207d4a48e5738ff99e2d5174e49",
+      "size": 856905,
+      "uploadedDate": "2021-01-25T21:08:20.047Z",
       "width": 1200,
       "height": 1600
     }

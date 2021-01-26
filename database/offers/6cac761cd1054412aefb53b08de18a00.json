@@ -8,7 +8,7 @@
   "productSlug": "heroes-and-generals-wwii/us-elite-fireteam",
   "urlSlug": "heroes-and-generals-wwii--us-elite-bundle",
   "creationDate": "2020-04-29T03:18:42.768Z",
-  "lastModifiedDate": "2020-12-18T20:32:40.716Z",
+  "lastModifiedDate": "2021-01-26T14:14:25.112Z",
   "effectiveDate": "2020-10-15T14:00:00.000Z",
   "viewableDate": "2020-10-15T14:00:00.000Z",
   "developer": null,
@@ -130,38 +130,38 @@
       "height": 1440
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_HeroesGeneralsWWII_RETOMOTO_S2-1200x1600-1427359bd8c5d59ac8cbf8c07a0ff211.jpg",
-      "md5": "1427359bd8c5d59ac8cbf8c07a0ff211",
-      "size": 985222,
-      "uploadedDate": "2020-09-24T06:38:44.548Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_HeroesGeneralsWWII_RETOMOTO_S2-1200x1600-1427359bd8c5d59ac8cbf8c07a0ff211.jpg",
-      "md5": "1427359bd8c5d59ac8cbf8c07a0ff211",
-      "size": 985222,
-      "uploadedDate": "2020-09-24T06:38:52.400Z",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/USElite-1200x1600-bbf39f9edc5b668bfe0ce2b4f64ee036.jpg",
+      "md5": "bbf39f9edc5b668bfe0ce2b4f64ee036",
+      "size": 1020135,
+      "uploadedDate": "2021-01-25T21:47:06.622Z",
       "width": 1200,
       "height": 1600
     },
     {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_HeroesGeneralsWWII_RETOMOTO_S2-1200x1600-1427359bd8c5d59ac8cbf8c07a0ff211.jpg",
-      "md5": "1427359bd8c5d59ac8cbf8c07a0ff211",
-      "size": 985222,
-      "uploadedDate": "2020-09-24T06:39:01.340Z",
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/USElite-1200x1600-bbf39f9edc5b668bfe0ce2b4f64ee036.jpg",
+      "md5": "bbf39f9edc5b668bfe0ce2b4f64ee036",
+      "size": 1020135,
+      "uploadedDate": "2021-01-25T21:47:15.625Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_HeroesGeneralsWWII_RETOMOTO_S2-1200x1600-1427359bd8c5d59ac8cbf8c07a0ff211.jpg",
-      "md5": "1427359bd8c5d59ac8cbf8c07a0ff211",
-      "size": 985222,
-      "uploadedDate": "2020-09-24T06:39:10.230Z",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/USElite-1200x1600-bbf39f9edc5b668bfe0ce2b4f64ee036.jpg",
+      "md5": "bbf39f9edc5b668bfe0ce2b4f64ee036",
+      "size": 1020135,
+      "uploadedDate": "2021-01-25T21:47:24.243Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/USElite-1200x1600-bbf39f9edc5b668bfe0ce2b4f64ee036.jpg",
+      "md5": "bbf39f9edc5b668bfe0ce2b4f64ee036",
+      "size": 1020135,
+      "uploadedDate": "2021-01-25T21:47:34.723Z",
       "width": 1200,
       "height": 1600
     }
