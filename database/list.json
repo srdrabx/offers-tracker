@@ -526,7 +526,7 @@
     ],
     "Motion Twin",
     1595855357,
-    1603377234,
+    1611680313,
     "https://cdn1.epicgames.com/1368a7f14c3344bbaededbae528fafed/offer/EGS_DeadCells_MotionTwin_S2-1200x1600-34d9d5ebca89e17e0a26ddb2cb158b75.jpg",
     "dead-cells/home"
   ],
@@ -772,6 +772,21 @@
     1586891982,
     1594306671,
     "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
+    ""
+  ],
+  [
+    "04de99163e824e1c990b0951c233873f",
+    "1368a7f14c3344bbaededbae528fafed",
+    "Fatal Falls",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Motion Twin",
+    1598629517,
+    1611680313,
+    "https://cdn1.epicgames.com/1368a7f14c3344bbaededbae528fafed/offer/EGS_DeadCellsFatalFalls_MotionTwin_DLC_S2-1200x1600-61e6d64ac07d226e0d45cfccc7a7fe3d.jpg",
     ""
   ],
   [
@@ -5140,7 +5155,7 @@
     ],
     "Ubisoft Entertainment",
     1599553201,
-    1599767669,
+    1611684601,
     "https://cdn1.epicgames.com/83d6990f16444655866b04be562bf589/offer/MAD_GE_Store_Portrait_1200x1600-1200x1600-b4ffd067f9a8b4d883022238b6983df0.jpg",
     ""
   ],
@@ -23935,8 +23950,8 @@
     ],
     "Dragonest Game",
     1559850880,
-    1608413835,
-    "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/autochess_port-1200x1600-7eded2623630c34c7cd4361bc9ac7813.jpeg",
+    1611763589,
+    "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/EGS_AutoChess_DragonestGame_S4-1200x1600-d83282c514fe419dced8b0ed94c1bd45.jpg",
     "auto-chess/home"
   ],
   [
@@ -26565,9 +26580,9 @@
     ],
     "Motion Twin",
     1604060625,
-    1605096777,
+    1611680313,
     "https://cdn1.epicgames.com/1368a7f14c3344bbaededbae528fafed/offer/a7c75312-4c77-485b-8319-29869f952324-1200x1600-bd8ef79d4f15c34e4707c178e025f854.jpg",
-    "dead-cells/demake-soundtrack"
+    ""
   ],
   [
     "877ed2213e0e4b62b97e3eddd2278b92",
@@ -28013,15 +28028,14 @@
     "The Bad Seed",
     [
       "addons",
-      "games",
       "addons/durable",
       "applications"
     ],
     "Motion Twin",
     1598629501,
-    1603377235,
+    1611680313,
     "https://cdn1.epicgames.com/1368a7f14c3344bbaededbae528fafed/offer/b9c56502-d99e-46f1-8f03-8f234ce89fd6-1200x1600-92d38ba772e72fe0fd3a4e71b72a0eb4.jpg",
-    "dead-cells/the-bad-seed"
+    ""
   ],
   [
     "90317ff5b5904fc9b3c4a857451c123b",
@@ -30371,7 +30385,7 @@
     ],
     "Ubisoft Entertainment",
     1599552822,
-    1599767669,
+    1611692314,
     "https://cdn1.epicgames.com/83d6990f16444655866b04be562bf589/offer/MAD_STD_Store_Portrait_1200x1600-1200x1600-e3c7aa72fbb1c9c5eb32805aadbb29b0.jpg",
     "riders-republic/home"
   ],
@@ -35161,6 +35175,21 @@
     "walking-dead-michonne/home"
   ],
   [
+    "b10164100de143739935dd91f25a1fc5",
+    "1368a7f14c3344bbaededbae528fafed",
+    "Dead Cells: The Complete (For Now) Bundle",
+    [
+      "games/edition",
+      "games",
+      "applications"
+    ],
+    "Motion Twin",
+    1611185000,
+    1611680313,
+    "https://cdn1.epicgames.com/1368a7f14c3344bbaededbae528fafed/offer/EGS_DeadCellsTheCompleteForNowBundle_MotionTwin_Bundles_S2-1200x1600-1b1d9cd5776b74c6b8cf55a103e99a46.jpg",
+    "dead-cells/the-complete-for-now-bundle"
+  ],
+  [
     "b11584f1703543b295ee68e3e7439ce5",
     "be13f6c4fb11427fbf3313ce93b97cc0",
     "Free Game Collection",
@@ -39637,7 +39666,7 @@
     ],
     "Ubisoft Entertainment",
     1599553299,
-    1599767669,
+    1611684562,
     "https://cdn1.epicgames.com/83d6990f16444655866b04be562bf589/offer/MAD_ULT_Store_Portrait_1200x1600-1200x1600-bc41d7f2d90ec8fafb1a0cb8f1e1943d.jpg",
     ""
   ],
@@ -44538,9 +44567,9 @@
     ],
     "Motion Twin",
     1604060595,
-    1605096777,
+    1611680313,
     "https://cdn1.epicgames.com/1368a7f14c3344bbaededbae528fafed/offer/EGS_DeadCellsSoundtrack_YoannLaulan_DigitalExtras_S2-1200x1600-60838e14ea9b4dc55a5e253d7909af14.jpg",
-    "dead-cells/soundtrack"
+    ""
   ],
   [
     "e3afb2e14a164f648de5eddd5f036835",

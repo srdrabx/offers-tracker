@@ -2,13 +2,13 @@
   "id": "8776e8386214434899e85edd0235e23f",
   "namespace": "1368a7f14c3344bbaededbae528fafed",
   "title": "Dead Cells: Demake Soundtrack",
-  "description": "Dead Cells: Demake Soundtrack",
-  "longDescription": null,
+  "description": "This is the chiptune version of the Dead Cells OST. From the game. There’s like songs with guitar, and songs without. Sometimes with other instruments. Like voices, from the past, but now in the future, which is the present.",
+  "longDescription": "This is the chiptune version of the Dead Cells OST. From the game. There’s like songs with guitar, and songs without. Sometimes with other instruments. Like voices, from the past, but now in the future, which is the present.",
   "status": "ACTIVE",
-  "productSlug": "dead-cells/demake-soundtrack",
-  "urlSlug": "flangeneralaudience-04",
+  "productSlug": null,
+  "urlSlug": "dead-cells--demake-soundtrack",
   "creationDate": "2020-10-30T12:23:45.028Z",
-  "lastModifiedDate": "2020-11-11T12:12:57.302Z",
+  "lastModifiedDate": "2021-01-26T16:58:33.272Z",
   "effectiveDate": "2020-11-11T14:00:00.000Z",
   "viewableDate": "2020-11-11T13:55:00.000Z",
   "developer": null,
@@ -97,8 +97,8 @@
       "value": "Motion Twin"
     },
     {
-      "key": "com.epicgames.app.productSlug",
-      "value": "dead-cells/demake-soundtrack"
+      "key": "developerName",
+      "value": "Motion Twin"
     }
   ],
   "keyImages": [

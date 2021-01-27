@@ -2,15 +2,15 @@
   "id": "90239b7148d74c0ca8ae214e850dced6",
   "namespace": "1368a7f14c3344bbaededbae528fafed",
   "title": "The Bad Seed",
-  "description": "The Bad Seed",
-  "longDescription": null,
+  "description": "Explore a relaxing Arboretum, wade through a noxious Swamp and take on a new boss in this new early game content designed to expand the Dead Cells universe and add variety to runs for people who want to support the development of the game.",
+  "longDescription": "Explore a relaxing Arboretum, wade through a noxious Swamp and take on a new boss in this early game content, designed to add run variety for those who want to support the game's development.\n\nThe Arboretum: A relaxing and peaceful greenhouse inhabited by a peaceful clan of mushrooms, with an understandable desire to murder the Beheaded.\nThe Swamp: A noxious environment ruled by a band of tree dwelling mutants with pointy sticks, sneaky dart shooting frogmen and a bunch of deadly bloodsuckers.\nThe Heart of the Swamp: Domain of Mama Tick, if you’ve seen Starship Troopers, you get the idea...",
   "status": "ACTIVE",
-  "productSlug": "dead-cells/the-bad-seed",
-  "urlSlug": "devflanaudience-01",
+  "productSlug": null,
+  "urlSlug": "dead-cells---the-bad-seed",
   "creationDate": "2020-08-28T15:45:01.380Z",
-  "lastModifiedDate": "2020-10-22T14:33:55.020Z",
-  "effectiveDate": "2020-10-22T15:00:00.000Z",
-  "viewableDate": "2020-10-22T14:55:00.000Z",
+  "lastModifiedDate": "2021-01-26T16:58:33.181Z",
+  "effectiveDate": "2020-10-22T16:00:00.000Z",
+  "viewableDate": "2020-10-22T16:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-7saqb478dnbhsw9awuk67h7lu2ynua",
@@ -26,9 +26,6 @@
   "categories": [
     {
       "path": "addons"
-    },
-    {
-      "path": "games"
     },
     {
       "path": "addons/durable"
@@ -109,8 +106,8 @@
       "value": "Motion Twin"
     },
     {
-      "key": "com.epicgames.app.productSlug",
-      "value": "dead-cells/the-bad-seed"
+      "key": "developerName",
+      "value": "Motion Twin"
     }
   ],
   "keyImages": [

@@ -8,7 +8,7 @@
   "productSlug": "auto-chess/home",
   "urlSlug": "chickengeneralaudience",
   "creationDate": "2019-06-06T19:54:40.846Z",
-  "lastModifiedDate": "2020-12-19T21:37:15.507Z",
+  "lastModifiedDate": "2021-01-27T16:06:29.822Z",
   "effectiveDate": "2019-08-23T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -103,58 +103,58 @@
   ],
   "keyImages": [
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/autochess_port-1200x1600-7eded2623630c34c7cd4361bc9ac7813.jpeg",
-      "md5": "7eded2623630c34c7cd4361bc9ac7813",
-      "size": 1005553,
-      "uploadedDate": "2020-12-19T21:36:04.790Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/autochess_land-2560x1440-fcf91a8b6119a3dda0061e159e2bd32f.jpeg",
-      "md5": "fcf91a8b6119a3dda0061e159e2bd32f",
-      "size": 992642,
-      "uploadedDate": "2020-12-19T21:36:11.184Z",
-      "width": 2560,
-      "height": 1440
+      "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/EGS_AutoChess_DragonestGame_S5-1920x1080-a0d50fc1290f84e4b4b97f2cccedf258.jpg",
+      "md5": "a0d50fc1290f84e4b4b97f2cccedf258",
+      "size": 899863,
+      "uploadedDate": "2021-01-27T16:05:26.650Z",
+      "width": 1920,
+      "height": 1080
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/autochess_port-1200x1600-7eded2623630c34c7cd4361bc9ac7813.jpeg",
-      "md5": "7eded2623630c34c7cd4361bc9ac7813",
-      "size": 1005553,
-      "uploadedDate": "2020-12-19T21:36:27.044Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/autochess_port-1200x1600-7eded2623630c34c7cd4361bc9ac7813.jpeg",
-      "md5": "7eded2623630c34c7cd4361bc9ac7813",
-      "size": 1005553,
-      "uploadedDate": "2020-12-19T21:36:39.587Z",
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/EGS_AutoChess_DragonestGame_S4-1200x1600-d83282c514fe419dced8b0ed94c1bd45.jpg",
+      "md5": "d83282c514fe419dced8b0ed94c1bd45",
+      "size": 897732,
+      "uploadedDate": "2021-01-27T16:05:38.952Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/autochess_port-1200x1600-7eded2623630c34c7cd4361bc9ac7813.jpeg",
-      "md5": "7eded2623630c34c7cd4361bc9ac7813",
-      "size": 1005553,
-      "uploadedDate": "2020-12-19T21:36:55.776Z",
+      "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/EGS_AutoChess_DragonestGame_S4-1200x1600-d83282c514fe419dced8b0ed94c1bd45.jpg",
+      "md5": "d83282c514fe419dced8b0ed94c1bd45",
+      "size": 897732,
+      "uploadedDate": "2021-01-27T16:05:50.745Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/autochess_land-2560x1440-fcf91a8b6119a3dda0061e159e2bd32f.jpeg",
-      "md5": "fcf91a8b6119a3dda0061e159e2bd32f",
-      "size": 992642,
-      "uploadedDate": "2020-12-19T21:37:06.153Z",
+      "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/EGS_AutoChess_DragonestGame_S3-2560x1440-2970615d4777bceda2a2674c7171a1e4.jpg",
+      "md5": "2970615d4777bceda2a2674c7171a1e4",
+      "size": 881453,
+      "uploadedDate": "2021-01-27T16:05:59.278Z",
       "width": 2560,
       "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/EGS_AutoChess_DragonestGame_S4-1200x1600-d83282c514fe419dced8b0ed94c1bd45.jpg",
+      "md5": "d83282c514fe419dced8b0ed94c1bd45",
+      "size": 897732,
+      "uploadedDate": "2021-01-27T16:06:08.981Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/EGS_AutoChess_DragonestGame_S4-1200x1600-d83282c514fe419dced8b0ed94c1bd45.jpg",
+      "md5": "d83282c514fe419dced8b0ed94c1bd45",
+      "size": 897732,
+      "uploadedDate": "2021-01-27T16:06:18.351Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [
