@@ -1,0 +1,102 @@
+{
+  "id": "e2b35cc0fad2462fabbcf959f22c5132",
+  "namespace": "ca93b6d41a4e41af864942d8f0a2a826",
+  "title": "UNO® Fenyx's Quest",
+  "description": "UNO® Fenyx’s Quest is a mythological new twist on the beloved card game and features exclusive new action cards.",
+  "longDescription": "The most famous card game hosts a legendary showdown! An all-new game mode inspired by the mythical world of Immortals Fenyx Rising™, UNO® Fenyx’s Quest plunges you into the marvelous Golden Isle and its mysteries and wonders. Avoid the traps of Typhon, free the gods from their curse, and wield their mighty powers to be the first one to get rid of your hand. Olympus awaits you.\n\nUNO® Fenyx’s Quest brings a mythological touch to the classic card game experience with exciting new features centered around the cursed gods Athena, Ares, Aphrodite, and Hephaistos, as well as two exclusive Action cards, Typhon’s Trick and Fenyx Power. Take your seat around the golden board, meet the gods, and accomplish Fenyx’s Quest. You are the gods’ last hope!",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "uno--fenyxs-quest",
+  "creationDate": "2021-01-21T19:25:14.302Z",
+  "lastModifiedDate": "2021-01-28T16:10:32.694Z",
+  "effectiveDate": "2021-01-28T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ca93b6d41a4e41af864942d8f0a2a826/offer/UNO_Store_Landscape_2560x1440-2560x1440-e64dc419af3177564a9d56c033f7b25c.jpg",
+      "md5": "e64dc419af3177564a9d56c033f7b25c",
+      "size": 532824,
+      "uploadedDate": "2021-01-22T00:40:31.332Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ca93b6d41a4e41af864942d8f0a2a826/offer/UNO_Store_Portrait_1200x1600-1200x1600-cecd2c459c0769fc7f05fb6039544119.jpg",
+      "md5": "cecd2c459c0769fc7f05fb6039544119",
+      "size": 281832,
+      "uploadedDate": "2021-01-22T00:40:47.040Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ca93b6d41a4e41af864942d8f0a2a826/offer/UNO_Store_Portrait_1200x1600-1200x1600-cecd2c459c0769fc7f05fb6039544119.jpg",
+      "md5": "cecd2c459c0769fc7f05fb6039544119",
+      "size": 281832,
+      "uploadedDate": "2021-01-22T00:41:12.232Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ca93b6d41a4e41af864942d8f0a2a826/offer/UNO_Store_Portrait_1200x1600-1200x1600-cecd2c459c0769fc7f05fb6039544119.jpg",
+      "md5": "cecd2c459c0769fc7f05fb6039544119",
+      "size": 281832,
+      "uploadedDate": "2021-01-22T00:41:22.480Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "53cdba549c99445aa68e5d4b141031c4"
+    },
+    {
+      "id": "d1ddbfebad00408286d1873da8e969f8"
+    }
+  ],
+  "catalogNs": null
+}

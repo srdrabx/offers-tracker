@@ -1,0 +1,66 @@
+{
+  "id": "5e5016c12dfa4af0933ca220b1d62151",
+  "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
+  "title": "Railway Empire Japan Audience",
+  "description": "Railway Empire Japan Audience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "railway-empire/great-britain-and-ireland",
+  "urlSlug": "persiandlc4audience-01",
+  "creationDate": "2020-11-18T15:12:01.010Z",
+  "lastModifiedDate": "2020-11-18T15:12:35.651Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": "2099-01-01T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+    "name": "Kalypso Media Group GmbH"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Kalypso Media"
+    },
+    {
+      "key": "developerName",
+      "value": "Gaming Minds Studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "railway-empire/great-britain-and-ireland"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "b0d9bcc82f15440fb7be09824c10c7e2"
+    }
+  ],
+  "catalogNs": null
+}

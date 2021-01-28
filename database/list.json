@@ -57,6 +57,22 @@
     ""
   ],
   [
+    "005e465caa88467295daebfc1c55f662",
+    "conanexiles",
+    "Conan Exiles: Isle of Siptah",
+    [
+      "addons",
+      "games",
+      "addons/durable",
+      "applications"
+    ],
+    "Funcom Oslo AS",
+    1598548614,
+    1598548729,
+    "https://cdn1.epicgames.com/conanexiles/offer/EGS_ConanExiles_Funcom_S6-1200x1600-5454011d5e70ab9d4a0ebe27c5054a85.jpg",
+    "conan-exiles"
+  ],
+  [
     "0060584b4ac44f58b364bab5f79c776d",
     "c9be94273fe244c08032ca493ad87434",
     "Assassins Creed Syndicate The Dreadful Crimes",
@@ -84,7 +100,7 @@
     ],
     "Ubisoft Entertainment",
     1578930575,
-    1589468400,
+    1611850232,
     "https://cdn1.epicgames.com/ca93b6d41a4e41af864942d8f0a2a826/offer/GameName_Store_Landscape_2560x1440-2560x1440-43068caa839fc392e6bb54e0daf2e8a8.jpg",
     "uno/home"
   ],
@@ -393,6 +409,22 @@
     1588120702,
     "",
     "assassins-creed-syndicate/home"
+  ],
+  [
+    "02c16bb6eea44b7d9275d85910b52563",
+    "e1055bf1e5654b93a27e19e6bb86cb2a",
+    "Tropico 6 - Original Soundtrack",
+    [
+      "addons",
+      "games",
+      "addons/durable",
+      "applications"
+    ],
+    "Kalypso Media Group GmbH",
+    1605559917,
+    1608138605,
+    "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/offer/EGS_Tropico6OriginalSoundtrack_LimbicEntertainment_DigitalExtras_S2-1200x1600-0be11362f92fc17315592d268adee3a7.jpg",
+    ""
   ],
   [
     "02d44be4c21c4ce094c6151133c91482",
@@ -1225,7 +1257,7 @@
     ],
     "Ubisoft Entertainment",
     1583212457,
-    1611593986,
+    1611851851,
     "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/BREAKPOINT_STANDARD_BREAKPOINT STANDARD_EPIC_TRIAL_WE_Portrait_Image_1200x1600-1200x1600-8b620c24084fce7c06f86361ad9e912f.png",
     ""
   ],
@@ -1866,6 +1898,20 @@
     "for-honor/year-3-pass"
   ],
   [
+    "098aeb5a578e4aaebf322e43e360d5b8",
+    "b156c3365a5b4cb9a01a5e1108b4e3f4",
+    "DevMtMassiveAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "Electronic Arts",
+    1604929407,
+    1610032737,
+    "",
+    ""
+  ],
+  [
     "0992efe9455b4f6e93a877887f76e722",
     "244aaaa06bfa49d088205b13b9d2d115",
     "Warframe: Prime Vault – Banshee Prime Accessories",
@@ -2155,6 +2201,20 @@
     "stranger-things-3-the-game"
   ],
   [
+    "0aebfabded2b4765a42384dbecba5192",
+    "b2b41af461d94357942f198fb331bb35",
+    "DevCapricornAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "THQ Nordic GmbH",
+    1605103904,
+    1606845302,
+    "",
+    ""
+  ],
+  [
     "0af880a2d3af4661a21c1ec3ff07d9d4",
     "b6b2ef0cc19a4adaaa1cf6c7ed000dfa",
     "Godfall Deluxe Edition",
@@ -2357,6 +2417,21 @@
     1599745772,
     "https://cdn1.epicgames.com/5c99f4b1cded415592255a53c1cad617/offer/EGS_TheUnfinishedSwan_GiantSparrow_S2-1200x1600-9950b20d20f362a591ace024949a43cc.jpg",
     "the-unfinished-swan"
+  ],
+  [
+    "0c61a78d9805437e9ab2da3f4872b790",
+    "100aa04135c6441b9b31d7af84f768c0",
+    "Marketing & Malpractice",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Positech Computing Ltd",
+    1609955749,
+    1611850505,
+    "https://cdn1.epicgames.com/100aa04135c6441b9b31d7af84f768c0/offer/EGS_MarketingMalpractice_PositechGames_DLC_S2-1200x1600-92457db5510c86b50343bbe46892bee9.jpg",
+    ""
   ],
   [
     "0c7d3018036a41f296d2628afa9cf350",
@@ -3185,6 +3260,22 @@
     ""
   ],
   [
+    "1045fb691c15439c9f9a41d755b1a80e",
+    "9bcf72043732431397782f3a32efbbd5",
+    "Darksiders Genesis",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "THQ Nordic GmbH",
+    1589911287,
+    1605111447,
+    "https://cdn1.epicgames.com/9bcf72043732431397782f3a32efbbd5/offer/EGS_DarksidersGenesis_AirshipSyndicate_S2-1200x1600-7d9136a9cc2b8a14acd44e7b68b923fe.jpg",
+    "darksiders-genesis/home"
+  ],
+  [
     "1053bf59dfe646539e25d7a6b3a1e242",
     "SeaQA",
     "Junit smoke test",
@@ -3721,6 +3812,22 @@
     ""
   ],
   [
+    "12985b3ba6c24b35936aa3c2d80b0678",
+    "2d831f372e6343cc85cceda5c9c808cf",
+    "Haven",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "The Game Bakers",
+    1605808365,
+    1611842852,
+    "https://cdn1.epicgames.com/2d831f372e6343cc85cceda5c9c808cf/offer/EGS_Haven_TheGameBakers_S2-1200x1600-35fea9e06d5585f67a0be2974701d573.jpg",
+    "haven"
+  ],
+  [
     "129cac114ff643818c5050e983b911cc",
     "affc33b82405457595a032f00284abd2",
     "Horzine Supply Cosmetic Crate | Series #10 Gold Bundle Pack",
@@ -3980,15 +4087,18 @@
   [
     "13cc10ad974841a6b0a5c3c23d2d1f22",
     "aa54bad47e504fdca79a3eb77be8c465",
-    "PearlGeneralAudience",
+    "Monkey Barrels",
     [
-      "games"
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
     ],
     "Good-Feel Co",
     1587041679,
-    1587041766,
-    "",
-    ""
+    1610121098,
+    "https://cdn1.epicgames.com/aa54bad47e504fdca79a3eb77be8c465/offer/EGS_MONKEYBARRELS_GoodFeelCoLtd_S2-1200x1600-2a1d398bad097402dcdca68d72c61641.jpg",
+    "monkey-barrels"
   ],
   [
     "13e70cb21eda428dbdf8d8b0a013880f",
@@ -5888,6 +5998,20 @@
     ""
   ],
   [
+    "1d9e59c98f2146069bc2c42337fb4916",
+    "6f43ab8025ad42d18510aa91e9eb688b",
+    "DevPineappleAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "Square Enix Japan",
+    1606767439,
+    1606767753,
+    "",
+    ""
+  ],
+  [
     "1da8d0dbf83d4abaaa36dfb8305c3579",
     "b0ebefb11a9145488af78f6d2488afff",
     "Neon Abyss OST",
@@ -7221,6 +7345,20 @@
     1495754893,
     1584040988,
     "",
+    ""
+  ],
+  [
+    "2500dbf92f32419e9a368410b3f5cc0a",
+    "newt",
+    "Spellbreak Community Skin 006",
+    [
+      "games",
+      "applications"
+    ],
+    "Proletariat, Inc.",
+    1598615051,
+    1598615098,
+    "https://cdn1.epicgames.com/newt/offer/Spellbreak_PurchaseImage-330x550-ed4a5d030d2af17e8e41dd9c26d9c0c6.jpg",
     ""
   ],
   [
@@ -10405,7 +10543,7 @@
     ],
     "Ubisoft Entertainment",
     1560016201,
-    1607011544,
+    1611849338,
     "https://cdn1.epicgames.com/4b35838425c74992ad42e1276b2161ca/offer/IFR_EPIC_GOLD_Store_Portrait_1200x1600_UK-1200x1600-49ffaa4564bf9ceff393d20d5333dbde.jpg",
     "immortals-fenyx-rising/gold-edition"
   ],
@@ -12077,7 +12215,7 @@
     ],
     "Ubisoft Entertainment",
     1605812308,
-    1607010350,
+    1611849338,
     "",
     "immortals-fenyx-rising/ultimate-heroes-pack"
   ],
@@ -12121,6 +12259,19 @@
     "Bethesda Softworks LLC",
     1597792793,
     1598291395,
+    "",
+    ""
+  ],
+  [
+    "3c8c7982474145e9ab639354fdbf628d",
+    "fn",
+    "Fortnite Battle Royale - Wingman Starter Pack",
+    [
+      "testing"
+    ],
+    "Epic Games",
+    1527723390,
+    1572780436,
     "",
     ""
   ],
@@ -13434,6 +13585,20 @@
     "anno-1800/complete-edition"
   ],
   [
+    "43a2c9d6bb37407489a071101d7b8212",
+    "72324f542dc4488681e617b0d39ad115",
+    "DevHydrogenAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "THQ Nordic GmbH",
+    1603898868,
+    1603900449,
+    "",
+    ""
+  ],
+  [
     "43c24a8c2a0f4eb2933c361a7a666168",
     "dfd2530e80e4425d801913b0879be444",
     "DLC00035 Audience",
@@ -14412,7 +14577,7 @@
     ],
     "Ubisoft Entertainment",
     1579305315,
-    1596842385,
+    1611850232,
     "https://cdn1.epicgames.com/ca93b6d41a4e41af864942d8f0a2a826/offer/UNO S2 -BANNERS-1280x1440-1280x1440-a43c9c1eff3b99f3024eee11256e306b-1280x1440-a43c9c1eff3b99f3024eee11256e306b.jpg",
     "uno/just-dance-theme-dlc"
   ],
@@ -14456,6 +14621,20 @@
     1587488299,
     "",
     ""
+  ],
+  [
+    "48bb8979d7e6469a9a5adcbca67c2abb",
+    "57dfd95548214a138218e56cd9e5b9d8",
+    "FluorineGeneralAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "Warner Bros.",
+    1605900423,
+    1608178583,
+    "https://cdn1.epicgames.com/57dfd95548214a138218e56cd9e5b9d8/offer/EGS_Back4Blood_TurtleRockStudios_S4-1200x1600-0cd4ac84bb5491a81aa6ebfcbea9dfbf.jpg",
+    "back-4-blood/home"
   ],
   [
     "48bfde9ee1194cffa721625e94c8cb2d",
@@ -14667,6 +14846,19 @@
     1581973973,
     1596554313,
     "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Paladins_EGS_200Crystals_2560x1440-2560x1440-0be8871b6cbc48924f81591e400e3418.jpg",
+    ""
+  ],
+  [
+    "494b1e73046543d6ba53c4574fd1b54c",
+    "fn",
+    "The Ace Pack",
+    [
+      "testing"
+    ],
+    "Epic Games",
+    1533842956,
+    1572966123,
+    "",
     ""
   ],
   [
@@ -15525,6 +15717,21 @@
     "predator-hunting-grounds/home"
   ],
   [
+    "4dde943c84694632bab1f60e75e7588f",
+    "03f7951c81af45e48a1caf6f8e24dba9",
+    "Design Variety Pack",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Positech Computing Ltd",
+    1610054886,
+    1611850006,
+    "https://cdn1.epicgames.com/03f7951c81af45e48a1caf6f8e24dba9/offer/EGS_DesignVarietyPack_PositechGames_DLC_S2-1200x1600-6af4e5661023cb3e5c1102881ef8101c.jpg",
+    ""
+  ],
+  [
     "4dfe723e347f43a68084b77e5f747e81",
     "epic",
     "Falcon Age",
@@ -15572,11 +15779,13 @@
     "BerylGeneralAudience",
     [
       "games",
+      "games/edition",
+      "games/edition/base",
       "applications"
     ],
-    "Plastic S.C.",
+    "Plastic",
     1584450897,
-    1588121205,
+    1611072020,
     "",
     ""
   ],
@@ -16135,6 +16344,20 @@
     "might-and-magic-heroes-7/home"
   ],
   [
+    "500b3ae2326a4555aa7f6e959f620083",
+    "0610384879594dd0b42c73e2d8af88ae",
+    "DevCentaurAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "Coatsink",
+    1605111982,
+    1605112408,
+    "",
+    ""
+  ],
+  [
     "5014d355b4684d80a095a570219c3443",
     "2744acda6a2e493e9894b389b6564df7",
     "SnowRunner",
@@ -16149,6 +16372,20 @@
     1607383489,
     "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/Diesel_productv2_snowrunner_home_SnowRunner_EpicGames_PortraitImage_860x1148-860x1148-bdf591a23e5a348671dc2a77465d0ba6c5871d68-860x1148-5a5adeae2140a3f0b5586750f70bf8e2-860x1148-5a5adeae2140a3f0b5586750f70bf8e2.jpg",
     "snowrunner/home"
+  ],
+  [
+    "501c0519a1b241ab8af32ba08831646b",
+    "6e7faac262f04035aeb848e660b2d18c",
+    "DevCalciumAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "Handy Games",
+    1605887025,
+    1607620884,
+    "",
+    ""
   ],
   [
     "503a4fd4a6494e01a46723c8a09e70bf",
@@ -16317,7 +16554,7 @@
     ],
     "THQ Nordic GmbH",
     1605110648,
-    1605111447,
+    1605115970,
     "https://cdn1.epicgames.com/9bcf72043732431397782f3a32efbbd5/offer/EGS_DarksidersGenesisDigitalExtras_AirshipSyndicate_DigitalExtras_S2-1200x1600-554d5378b7c677c5bfb010d6e02bda96.jpg",
     ""
   ],
@@ -18649,7 +18886,7 @@
     ],
     "Electronic Arts",
     1605884118,
-    1611348428,
+    1611769602,
     "https://cdn1.epicgames.com/d52ebad606f44f6486d9a10f6303a930/offer/EGS_EASTARWARSTRIPLEBUNDLE_DICERespawnMotive_S2-1200x1600-4fb196575d1214b09586566cf6bb450a.jpg",
     "ea-star-wars-triple-bundle"
   ],
@@ -18843,6 +19080,22 @@
     ""
   ],
   [
+    "5e5016c12dfa4af0933ca220b1d62151",
+    "93b333eb973b45b582f3bdf68dfc1dc9",
+    "Railway Empire Japan Audience",
+    [
+      "addons",
+      "games",
+      "addons/durable",
+      "applications"
+    ],
+    "Kalypso Media Group GmbH",
+    1605712321,
+    1605712355,
+    "",
+    "railway-empire/great-britain-and-ireland"
+  ],
+  [
     "5e597893462c48c7ab66c55de77e5c53",
     "a646020cb93b4ea995cda70647bbe001",
     "BarracudaDevAudience",
@@ -18984,6 +19237,20 @@
     1608220377,
     "https://cdn1.epicgames.com/e1809e1742cb498080d8849b11a99c5a/offer/EGS_AirborneKingdom_TheWanderingBan_S2-1200x1600-ef7b5c8d74730358fcc7d1f4c8c87252.jpg",
     "airborne-kingdom/home"
+  ],
+  [
+    "5f589d58f9a34cdaa7c2cf8b2fb23d17",
+    "ca16315212fe486b96969e8fc6d6faf6",
+    "DevFluteAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "Devolver Digital, Inc.",
+    1600781784,
+    1603333604,
+    "",
+    ""
   ],
   [
     "5f66f227255e4ce2a789148d6134d1e1",
@@ -21161,6 +21428,21 @@
     ""
   ],
   [
+    "6a5b6b3a0f52464fbdef273d26c0e01f",
+    "53310576ce1d4446b20dbbdac4f09f2d",
+    "A Total War Saga: TROY – AJAX & DIOMEDES",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "SEGA of Europe",
+    1602618545,
+    1611846149,
+    "https://cdn1.epicgames.com/53310576ce1d4446b20dbbdac4f09f2d/offer/EGS_ATotalWarSagaTROYAJAXDIOMEDES_CREATIVEASSEMBLY_DLC_S2-1200x1600-c274aff775b27c7aeeadfb50ca8e54e2.jpg",
+    "a-total-war-saga-troy/ajax-and-diomedes"
+  ],
+  [
     "6a612192c0ed499f8c7db747b3049107",
     "ffe512fa1e594ee6a75d4643d1e21b43",
     "Totally Accurate Battle Simulator",
@@ -21357,6 +21639,20 @@
     1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/ZA4_DLC_DeeperThanHell_1200x1600-1200x1600-8b84cb60762566399f8abaefc985818e.jpg",
     "zombie-army-4-dead-war/deeper-than-hell"
+  ],
+  [
+    "6b3b9b1ad3a940b68bd2986165eb978d",
+    "7c6d889f36124ae4b6269f8e1698a547",
+    "DevCelloAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "Devolver Digital, Inc.",
+    1603129314,
+    1603975188,
+    "",
+    ""
   ],
   [
     "6b3bd787d8434705813c926c0b978c5b",
@@ -21931,7 +22227,7 @@
     ],
     "Snapshot Games",
     1572893619,
-    1607017601,
+    1607648930,
     "https://cdn1.epicgames.com/iris/offer/PhoenixPoint_CodeRedemption-340x440-8ddd13489c7216a86f4cfa9e96452981-340x440-8ddd13489c7216a86f4cfa9e96452981.jpg",
     "phoenix-point/festering-skies"
   ],
@@ -22074,6 +22370,20 @@
     1571071435,
     1589400091,
     "https://cdn1.epicgames.com/undefined/offer/Spellbreak_CodeRedemption-330x440-2dc90247f1d1977f1f7b85cf73bf19e7-330x440-2dc90247f1d1977f1f7b85cf73bf19e7.png",
+    ""
+  ],
+  [
+    "6fa1a232a30e4bd0941eca156c465200",
+    "920fd14e9d90478ba2e9b5a5ae987b02",
+    "SoraGeneralAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "2K Games CoreTech",
+    1569366405,
+    1611768396,
+    "",
     ""
   ],
   [
@@ -22738,7 +23048,7 @@
   [
     "731ddf2017db4ca9934be701150ec366",
     "ca93b6d41a4e41af864942d8f0a2a826",
-    "Uno - Ultimate Edition",
+    "Retire Uno - Ultimate Edition",
     [
       "games",
       "games/edition",
@@ -22746,7 +23056,7 @@
     ],
     "Ubisoft Entertainment",
     1579304686,
-    1587049200,
+    1611850232,
     "https://cdn1.epicgames.com/ca93b6d41a4e41af864942d8f0a2a826/offer/Key_Art_Wide_Uno Ultimate_EPIC_Key_Art_Wide_with logo_3840x2160-3840x2160-09e7357da492c29c12daea28b85d24e2.png",
     "uno/ultimate-edition"
   ],
@@ -23186,6 +23496,22 @@
     1610482333,
     "https://cdn1.epicgames.com/catnip/offer/CodeRedemption_BL_SuperDeluxe-340x440-46c7ac76071433b32c89be85520c2337.jpg",
     "borderlands-3/super-deluxe-edition"
+  ],
+  [
+    "74987e01b587481ebf0614d907246b52",
+    "8a574ca3cbfc46c69ea8d3491932e973",
+    "Wreckfest Season Pass 1",
+    [
+      "addons",
+      "games",
+      "addons/durable",
+      "applications"
+    ],
+    "THQ Nordic GmbH",
+    1605124532,
+    1605126258,
+    "https://cdn1.epicgames.com/8a574ca3cbfc46c69ea8d3491932e973/offer/EGS_WreckfestSeasonPass1_Bugbear_SeasonPass_S2-1200x1600-e3355d6fce8bbf77a9923f1482a84bd1.jpg",
+    ""
   ],
   [
     "74e43f2eb9564dd98489b69afbbac424",
@@ -23633,6 +23959,20 @@
     "walking-dead-season-two/home"
   ],
   [
+    "7748e3ecd63041ff96cd29c4d8238dbe",
+    "9c7a70d78df948ddaf1b51722b16d6b8",
+    "DevHemeraAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "White Thorn Digital",
+    1603804398,
+    1606150106,
+    "",
+    ""
+  ],
+  [
     "774f4a1cb9a14bc1b8ee5f5d981d96a0",
     "affc33b82405457595a032f00284abd2",
     "Horzine Supply Weapon Crate | Series #5 Gold Bundle Pack",
@@ -23734,6 +24074,21 @@
     1611147164,
     "https://cdn1.epicgames.com/ed55aa5edc5941de92fd7f64de415793/offer/EGS_HITMAN3_IOInteractiveAS_S2-1200x1600-b285fb6eb586113c9479ff33ed646b69.jpg",
     "hitman-3"
+  ],
+  [
+    "782587c9c7a34ae4972fe1b4b11b3cfb",
+    "0ffb7cf5cff64cd0a621222a8e969c28",
+    "JackfruitFountain",
+    [
+      "addons",
+      "addons/consumable",
+      "applications"
+    ],
+    "Improbable Worlds Limited",
+    1608082569,
+    1608082569,
+    "",
+    ""
   ],
   [
     "783b7fbd8d8045fea2f7425a82824d70",
@@ -23850,7 +24205,7 @@
     ],
     "SEGA of Europe",
     1609980226,
-    1610635998,
+    1611846149,
     "https://cdn1.epicgames.com/53310576ce1d4446b20dbbdac4f09f2d/offer/EGS_ATotalWarSagaTROYAJAXDIOMEDES_CREATIVEASSEMBLY_DLC_S2-1200x1600-c274aff775b27c7aeeadfb50ca8e54e2.jpg",
     "a-total-war-saga-troy/ajax-and-diomedes"
   ],
@@ -24294,6 +24649,7 @@
     "4492ce99b4124b74a0bb83f78b3d70b8",
     "For The King",
     [
+      "freegames",
       "games",
       "games/edition/base",
       "games/edition",
@@ -24301,7 +24657,7 @@
     ],
     "Curve Digital",
     1575390910,
-    1588258837,
+    1611846305,
     "https://cdn1.epicgames.com/4492ce99b4124b74a0bb83f78b3d70b8/offer/EGS_IronOakGames_ForTheKing_S4-510x680-7591bc93f2768be40c30f242fc986cd0.jpg",
     "for-the-king/home"
   ],
@@ -24519,6 +24875,20 @@
     ""
   ],
   [
+    "7bc6e2f0d67344ad925f1aceaac2617f",
+    "6ad92d14cc544743831d4f70c964d39d",
+    "DevGingersnapsAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "THQ Nordic GmbH",
+    1603799450,
+    1603800375,
+    "",
+    ""
+  ],
+  [
     "7bdd47c29f6c43128c7508199f6d5c71",
     "62d6f15b1bb345f6a42585b4c8c847a0",
     "ParakeetDevAudience",
@@ -24676,7 +25046,7 @@
     ],
     "Ubisoft Entertainment",
     1579305222,
-    1596842385,
+    1611850232,
     "https://cdn1.epicgames.com/ca93b6d41a4e41af864942d8f0a2a826/offer/UNO S2 -BANNERS-1280x1440-1280x1440-a43c9c1eff3b99f3024eee11256e306b-1280x1440-a43c9c1eff3b99f3024eee11256e306b.jpg",
     "uno/rayman-theme-dlc"
   ],
@@ -25171,6 +25541,20 @@
     1588120715,
     "",
     "super-meat-boy-forever"
+  ],
+  [
+    "7faa54cd128a427891a60b1015a02a4e",
+    "4158b699dd70447a981fee752d970a3e",
+    "DevGrapefruitAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "Square Enix Japan",
+    1599825581,
+    1599825864,
+    "",
+    ""
   ],
   [
     "7fafe6cb13574c239cf54acf9175bf35",
@@ -26267,6 +26651,21 @@
     ""
   ],
   [
+    "85b2724970614708838111584147f706",
+    "a69c5a82682c43148e4e2542fe2fcd0f",
+    "Ruined King: A League of Legends Story™ Deluxe Edition",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Riot Forge",
+    1605878175,
+    1605878226,
+    "https://cdn1.epicgames.com/a69c5a82682c43148e4e2542fe2fcd0f/offer/EGS_RuinedKingALeagueofLegendsStory_AirshipSyndicate_S2-1200x1600-7860241c71d96a6a93b610fa41210959.jpg",
+    "ruined-king-a-league-of-legends-story/home"
+  ],
+  [
     "85eaa66c61be40ddb307483309165620",
     "25ef88acc7f34afc8ac6669e11573882",
     "PochardDevAudience",
@@ -27191,6 +27590,20 @@
     ""
   ],
   [
+    "8b26194f915c47b988cd98686d14f298",
+    "1abab99ab9d54d16abba65857355f017",
+    "MinskinGeneralAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "Bossa Studios",
+    1604944986,
+    1604945149,
+    "",
+    ""
+  ],
+  [
     "8b2fb9510fc34785b5ed14d7a6fd4670",
     "c3e63401d6ba410493de31ed69a798a1",
     "2.200 Gold",
@@ -27580,6 +27993,20 @@
     ""
   ],
   [
+    "8dbf5a7f8d18400ea42f6c17492be282",
+    "c8ff067c1c984cd7ab1998e8a9afc8b6",
+    "DevPeachAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "Square Enix Japan",
+    1599825606,
+    1599825947,
+    "",
+    ""
+  ],
+  [
     "8dc2fea9fedc4d89b121b417b3a48b25",
     "ut",
     "Lea Observatory",
@@ -27735,6 +28162,22 @@
     1588120702,
     "",
     "walking-dead-a-new-frontier/home"
+  ],
+  [
+    "8e83204e859041c899c692ba078c6658",
+    "df9dccc5ebe4449db2300af4c061615c",
+    "Olija",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Devolver Digital, Inc.",
+    1610553492,
+    1611844801,
+    "https://cdn1.epicgames.com/df9dccc5ebe4449db2300af4c061615c/offer/EGS_FaradaysquestthroughthemysteriousTerraphage_SkeletonCrewStudio_S2-1200x1600-c627ce9ef77c13cc268203a69b58c7ca.jpg",
+    "olija"
   ],
   [
     "8eaa735f94294aa292cc77491f7a8d87",
@@ -30670,6 +31113,21 @@
     ""
   ],
   [
+    "9b974b8c1c444fab9c366c3843fc1ee9",
+    "6af58339c2424644988e0fb83dfd9bd5",
+    "Dua Lipa ft. BLACKPINK - \"Kiss and Make Up\"",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "NCSoft",
+    1607653200,
+    1607653766,
+    "",
+    ""
+  ],
+  [
     "9ba3fc12794248dc8ed3bbae2fb18cd1",
     "7ad5508d382e46228056f1d1a0189ae2",
     "Faithsworn Pack",
@@ -32059,6 +32517,21 @@
     ""
   ],
   [
+    "a0ca09bba00246c18e0b516918249d83",
+    "ca93b6d41a4e41af864942d8f0a2a826",
+    "New Uno - Ultimate Edition",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Ubisoft Entertainment",
+    1611269059,
+    1611850232,
+    "https://cdn1.epicgames.com/ca93b6d41a4e41af864942d8f0a2a826/offer/uno-ult-store-portrait-1200x1600-1200x1600-068853fa8ff2-1200x1600-96a1e051d1b1ed8a9eb3c1625b08f624.jpg",
+    "uno/ultimate-edition"
+  ],
+  [
     "a0d9cdcec88e4204a7c1285d1f82c7d5",
     "6af58339c2424644988e0fb83dfd9bd5",
     "Combo Pack: Donut Squad",
@@ -32585,6 +33058,20 @@
     "shenmue-3/battle-rally"
   ],
   [
+    "a3bafd89e53d4eb48b25845210dd8392",
+    "fefe1db11f534484987ef50ec1e25225",
+    "DevMtElbertAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "Electronic Arts",
+    1604929383,
+    1610639571,
+    "",
+    ""
+  ],
+  [
     "a3c3d5884d164b21b58fea4e810c58f3",
     "493e9ad801e8487497fe7840cb8404bb",
     "StellulaDevDLCOffer",
@@ -32956,6 +33443,22 @@
     ""
   ],
   [
+    "a57daf2d6452486a865c49f0cfb54dd9",
+    "4b35838425c74992ad42e1276b2161ca",
+    "Immortals Fenyx Rising™ DLC 1 A New God",
+    [
+      "addons",
+      "games",
+      "addons/durable",
+      "applications"
+    ],
+    "Ubisoft Entertainment",
+    1611162060,
+    1611849338,
+    "https://cdn1.epicgames.com/4b35838425c74992ad42e1276b2161ca/offer/Immortals_DLC1_EPIC_Store_Portrait_1200x1600-1200x1600-f9264b0cc65d293cef048415691b18a9.jpg",
+    "immortals-fenyx-rising/a-new-god"
+  ],
+  [
     "a57e0820ce5645c4a207fe49d2f9f99c",
     "6009be9994c2409099588cde6f3a5ed0",
     "Cities: Skylines - Rock City Radio",
@@ -33042,7 +33545,7 @@
     ],
     "Raw Fury",
     1610128656,
-    1611245298,
+    1611846809,
     "https://cdn1.epicgames.com/73b62f4875a248d8acc95966ce94c80f/offer/EGS_DandaraTrialsofFearEdition_LongHatHouse_S2-1200x1600-432dcc4d847271ea87e18ff3c369e31a.jpg",
     "dandara"
   ],
@@ -33161,7 +33664,7 @@
     ],
     "Ubisoft Entertainment",
     1560013982,
-    1607010350,
+    1611849338,
     "",
     ""
   ],
@@ -34394,7 +34897,7 @@
     ],
     "Ubisoft Entertainment",
     1560016548,
-    1607010350,
+    1611849338,
     "",
     "immortals-fenyx-rising/season-pass"
   ],
@@ -34427,6 +34930,22 @@
     1610121098,
     "https://cdn1.epicgames.com/aa54bad47e504fdca79a3eb77be8c465/offer/EGS_MONKEYBARRELS_GoodFeelCoLtd_S2-1200x1600-2a1d398bad097402dcdca68d72c61641.jpg",
     "monkey-barrels"
+  ],
+  [
+    "ad0144e6748349119a2a387957742d31",
+    "8a574ca3cbfc46c69ea8d3491932e973",
+    "Wreckfest",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "THQ Nordic GmbH",
+    1589911309,
+    1605126258,
+    "https://cdn1.epicgames.com/8a574ca3cbfc46c69ea8d3491932e973/offer/EGS_Wreckfest_Bugbear_S2-1200x1600-9ff32ee440228e6523a26cfb1a746987.jpg",
+    "wreckfest/home"
   ],
   [
     "ad10a96c8c8e4c34a4f5a0fde656fad2",
@@ -35085,7 +35604,7 @@
     ],
     "Ubisoft Entertainment",
     1579304886,
-    1596842385,
+    1611850232,
     "https://cdn1.epicgames.com/ca93b6d41a4e41af864942d8f0a2a826/offer/UNO S2 -BANNERS-1280x1440-1280x1440-a43c9c1eff3b99f3024eee11256e306b-1280x1440-a43c9c1eff3b99f3024eee11256e306b.jpg",
     "uno/flip-dlc"
   ],
@@ -35304,7 +35823,7 @@
     ],
     "2K Games CoreTech",
     1580264933,
-    1588100183,
+    1611766730,
     "",
     ""
   ],
@@ -35452,7 +35971,7 @@
     ],
     "Ubisoft Entertainment",
     1560016209,
-    1607010350,
+    1611849338,
     "",
     ""
   ],
@@ -35544,6 +36063,21 @@
     1596844066,
     "https://cdn1.epicgames.com/oregano/offer/AN18_UCS15139_Store_Portrait_1200x1600-1200x1600-8c2b93c45c40fafe1c06389406538be9.jpg",
     "anno-1800/holiday-pack"
+  ],
+  [
+    "b326d94ba2eb4ba3b12eb7afa06068b9",
+    "6af58339c2424644988e0fb83dfd9bd5",
+    "Shawn Mendes - \"Higher\"",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "NCSoft",
+    1607652733,
+    1607652733,
+    "",
+    ""
   ],
   [
     "b329c389284d47ad8c4630a438f70a09",
@@ -36822,6 +37356,20 @@
     "phoenix-point/season-pass"
   ],
   [
+    "b9dee1c5b83745f6a3f92d85c38cdce9",
+    "1abab99ab9d54d16abba65857355f017",
+    "DevMinskinAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "Bossa Studios",
+    1604944986,
+    1604945149,
+    "",
+    ""
+  ],
+  [
     "b9f5c1078e9348ad994b0b0b6231ab40",
     "0aaf0617ee0d47df87c0dc93509159dd",
     "Carcassonne - Winter and Gingerbread Man",
@@ -36966,6 +37514,20 @@
     1596163724,
     "https://cdn1.epicgames.com/52b90f9a982a404781b189f6a7903226/offer/Diesel_productv2_totally-reliable-delivery-service_dress-code_DressCode_SuperHeroArt_Titled-1920x1080-2e6601e0488caaa34824e9a16f5e2607a9bdf8de-1920x1080-b5611ecc9863ac0ac5d7605e8c2bca61.png",
     "totally-reliable-delivery-service/dress-code"
+  ],
+  [
+    "bb04b2f296104e32b70df72c2ce0634b",
+    "0610384879594dd0b42c73e2d8af88ae",
+    "CentaurGeneralAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "Coatsink",
+    1605111982,
+    1605112408,
+    "",
+    ""
   ],
   [
     "bb0b588fed4c43f8bb048f2a5955341b",
@@ -37965,6 +38527,22 @@
     "vampire-the-masquerade-bloodlines-2/blood-moon-edition"
   ],
   [
+    "c0c3f2bab211451493cccb9d4caa96ae",
+    "70fa3dd4efb549f9a09f1fc019d8e751",
+    "SpellForce 3: Soul Harvest Digital Extras",
+    [
+      "addons",
+      "games",
+      "addons/durable",
+      "applications"
+    ],
+    "THQ Nordic GmbH",
+    1605116117,
+    1605116427,
+    "https://cdn1.epicgames.com/70fa3dd4efb549f9a09f1fc019d8e751/offer/EGS_SpellForce3SoulHarvestDigitalExtras_GrimloreGames_DigitalExtras_S2-1200x1600-4f202b6cec4b9acf1a67637051815eae.jpg",
+    ""
+  ],
+  [
     "c0c74a2cafcc437588e6cf7456335421",
     "affc33b82405457595a032f00284abd2",
     "Horzine Supply Cosmetic Crate | Series #5 Silver Bundle Pack",
@@ -38286,7 +38864,7 @@
     ],
     "Ubisoft Entertainment",
     1605812179,
-    1607010350,
+    1611849338,
     "",
     "immortals-fenyx-rising/adventurers-starter-pack"
   ],
@@ -38575,7 +39153,7 @@
     ],
     "Epic Dev Test Account",
     1578930575,
-    1584455164,
+    1611850232,
     "",
     ""
   ],
@@ -39044,6 +39622,20 @@
     1566627801,
     1567695567,
     "https://cdn1.epicgames.com/530eeeaffca14275a451d7cff61ee6bb/offer/CodeRedemption_TheEndisNigh-340x440-ad607bfe8e369571676c469d69d1ed2b.jpg",
+    ""
+  ],
+  [
+    "c65d0ccf854849cc92bf8c562a562c72",
+    "70fa3dd4efb549f9a09f1fc019d8e751",
+    "DevLithiumAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "THQ Nordic GmbH",
+    1605114237,
+    1605116427,
+    "",
     ""
   ],
   [
@@ -39534,7 +40126,7 @@
     ],
     "Epic Dev Test Account",
     1579305401,
-    1584455164,
+    1611850232,
     "",
     ""
   ],
@@ -40011,9 +40603,9 @@
       "games",
       "applications"
     ],
-    "Kalypso Media",
+    "Kalypso Media Group GmbH",
     1588955714,
-    1588984415,
+    1608138605,
     "",
     ""
   ],
@@ -40153,6 +40745,36 @@
     ""
   ],
   [
+    "cc789763c7b74d7a98e00e4f8edc0894",
+    "70fa3dd4efb549f9a09f1fc019d8e751",
+    "SpellForce 3: Soul Harvest",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "THQ Nordic GmbH",
+    1605114236,
+    1605116427,
+    "https://cdn1.epicgames.com/70fa3dd4efb549f9a09f1fc019d8e751/offer/EGS_SpellForce3SoulHarvest_GrimloreGames_S2-1200x1600-ee36cca63cdc2bf50da4777c69932f0c.jpg",
+    "spellforce-3-soul-harvest/home"
+  ],
+  [
+    "cca1487906d84402ad0eb1159bc559b1",
+    "02ad04ef7a91432b93caef1f421ca67f",
+    "ScandiumGeneralAudience",
+    [
+      "software",
+      "applications"
+    ],
+    "Brave Software, Inc",
+    1605914462,
+    1605914915,
+    "",
+    "[]"
+  ],
+  [
     "cca34203a3484550abe5a46054bceb39",
     "a140ff4439624f99a32934a151a6d914",
     "Watch Dogs: Legion Gold Edition",
@@ -40179,6 +40801,19 @@
     1588120702,
     "",
     "zombey"
+  ],
+  [
+    "cccddba2ac264ac6ae6512334de81379",
+    "fn",
+    "ESPORTS_WINNER",
+    [
+      "accesscontrol"
+    ],
+    "Epic Games",
+    1535449998,
+    1539758375,
+    "",
+    ""
   ],
   [
     "cd047d2137504474b35f236c56280022",
@@ -40418,6 +41053,20 @@
     1497992400,
     "",
     ""
+  ],
+  [
+    "ce61c9aa1fd445209cf7016add45fb1e",
+    "bc2b0372eaa448469cb9a769f27acea1",
+    "Star Wars Squadrons Press",
+    [
+      "games",
+      "applications"
+    ],
+    "Electronic Arts",
+    1600706919,
+    1601524553,
+    "https://cdn1.epicgames.com/bc2b0372eaa448469cb9a769f27acea1/offer/MAV_EPIC_PORTRAIT-Product-Image_1200x1600-1200x1600-6a837e2b6a5b216a2d994b4ad6661a33.jpg",
+    "star-wars-squadrons/home"
   ],
   [
     "ce631960235d4377b7b50711ebbe8a96",
@@ -40825,6 +41474,20 @@
     "saturnalia/home"
   ],
   [
+    "d0f6b4b32c2349918f1e38a6a13e3cd4",
+    "6f43ab8025ad42d18510aa91e9eb688b",
+    "PineappleGeneralAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "Square Enix Japan",
+    1606767438,
+    1606767753,
+    "",
+    ""
+  ],
+  [
     "d0f9745ad1904fdc90052bc7039b4802",
     "fc8d1547232045f6a23257cfd04ef3e8",
     "AnchovyDevAudience",
@@ -40927,6 +41590,21 @@
     ""
   ],
   [
+    "d1ba5b5ad32946e092f390a58c671989",
+    "45baf6c4e5df46f0b21593d5b2268769",
+    "British Starter Pack",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Gaijin Distribution KFT",
+    1604930908,
+    1605879445,
+    "",
+    "war-thunder/british-starter-pack"
+  ],
+  [
     "d1d925cb3b1c4740b65287b6c472f294",
     "jackal",
     "Dauntless - 2,500 (+650 Bonus) Platinum",
@@ -40992,6 +41670,20 @@
     "Rebellion",
     1611097960,
     1611098458,
+    "",
+    ""
+  ],
+  [
+    "d294725796114096a9d1da9914bb1a1f",
+    "3671db367c594e2ab5020105dc52dc65",
+    "ismDPCGeneralAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "Square Enix Japan",
+    1603721203,
+    1603721941,
     "",
     ""
   ],
@@ -41105,6 +41797,22 @@
     1544632695,
     1588121206,
     "",
+    ""
+  ],
+  [
+    "d2e9c21bbe9147439be2ff38aeb7250d",
+    "8a574ca3cbfc46c69ea8d3491932e973",
+    "Wreckfest - Season Pass 2",
+    [
+      "addons",
+      "games",
+      "addons/durable",
+      "applications"
+    ],
+    "THQ Nordic GmbH",
+    1605124822,
+    1605126258,
+    "https://cdn1.epicgames.com/8a574ca3cbfc46c69ea8d3491932e973/offer/EGS_WreckfestSeasonPass2_Bugbear_SeasonPass_S2-1200x1600-b3f2faf22e224377b9b3896572ed8247.jpg",
     ""
   ],
   [
@@ -44389,6 +45097,22 @@
     ""
   ],
   [
+    "e2b35cc0fad2462fabbcf959f22c5132",
+    "ca93b6d41a4e41af864942d8f0a2a826",
+    "UNO® Fenyx's Quest",
+    [
+      "addons",
+      "games",
+      "addons/durable",
+      "applications"
+    ],
+    "Ubisoft Entertainment",
+    1611257114,
+    1611850232,
+    "https://cdn1.epicgames.com/ca93b6d41a4e41af864942d8f0a2a826/offer/UNO_Store_Portrait_1200x1600-1200x1600-cecd2c459c0769fc7f05fb6039544119.jpg",
+    ""
+  ],
+  [
     "e2b4a2d010b1413285abdcf5ba15521d",
     "ocn",
     "Starter Pack",
@@ -44786,7 +45510,7 @@
     ],
     "Ubisoft Entertainment",
     1560013982,
-    1607011546,
+    1611849338,
     "https://cdn1.epicgames.com/4b35838425c74992ad42e1276b2161ca/offer/IFR_EPIC_STD_Store_Portrait_1200x1600_UK-1200x1600-160024289fd98b6a67a4dec9fadf9774.jpg",
     "immortals-fenyx-rising/home"
   ],
@@ -46678,6 +47402,20 @@
     "borderlands-3/designers-cut"
   ],
   [
+    "ed5c67bd3221472da6db244dacadeec8",
+    "3671db367c594e2ab5020105dc52dc65",
+    "DevismDPCAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "Square Enix Japan",
+    1603721204,
+    1603721941,
+    "",
+    ""
+  ],
+  [
     "ed72ebec898043b098da2316c6a91a70",
     "affc33b82405457595a032f00284abd2",
     "Infernal Insurrection Weapon Bundle",
@@ -48421,6 +49159,20 @@
     "tetris-effect/home"
   ],
   [
+    "f672d724c18e4fb7bf81329e7f13ef56",
+    "92e8ff0ca9bb421c831dc0f6fc8ef54d",
+    "DevNeonAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "White Thorn Digital",
+    1604952215,
+    1608055252,
+    "",
+    ""
+  ],
+  [
     "f67db8cc6bad48928f69028e7b74b332",
     "bf333e6236914222a95a536389c05813",
     "DLC 09",
@@ -48509,6 +49261,21 @@
     1609783338,
     "https://cdn1.epicgames.com/e099f2abf3324d248054bf14c476fbc0/offer/EGS_OddworldSoulstorm_OddworldInhabitantsInc_S2-1200x1600-bf4e7a1052f737e16db6bc3d9c603f14.jpg",
     "oddworld-soulstorm"
+  ],
+  [
+    "f70932c97947442b843bad77a5378627",
+    "03f7951c81af45e48a1caf6f8e24dba9",
+    "Doors That Go Like This",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Positech Computing Ltd",
+    1610054183,
+    1611850006,
+    "https://cdn1.epicgames.com/03f7951c81af45e48a1caf6f8e24dba9/offer/EGS_Doorsthatgolikethis_PositechGames_DLC_S2-1200x1600-bca02c689f35f191e020eb4eec581a52.jpg",
+    ""
   ],
   [
     "f70a3eeb068c4566bef81c6c384d1bf7",
@@ -48772,6 +49539,22 @@
     1594306671,
     "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
     ""
+  ],
+  [
+    "f83354d936b74f7e9419366862b1e024",
+    "e099f2abf3324d248054bf14c476fbc0",
+    "Oddworld Soulstorm",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Oddworld Inhabitants Inc.",
+    1565888400,
+    1609783338,
+    "https://cdn1.epicgames.com/e099f2abf3324d248054bf14c476fbc0/offer/EGS_OddworldSoulstorm_OddworldInhabitantsInc_S2-1200x1600-bf4e7a1052f737e16db6bc3d9c603f14.jpg",
+    "oddworld-soulstorm"
   ],
   [
     "f835527adf3e42c489e8606f957f1007",
@@ -49432,9 +50215,9 @@
       "games",
       "applications"
     ],
-    "Kalypso Media",
+    "Kalypso Media Group GmbH",
     1588958163,
-    1588963172,
+    1608142902,
     "",
     ""
   ],

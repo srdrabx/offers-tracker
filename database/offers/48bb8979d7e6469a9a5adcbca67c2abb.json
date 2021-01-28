@@ -1,0 +1,115 @@
+{
+  "id": "48bb8979d7e6469a9a5adcbca67c2abb",
+  "namespace": "57dfd95548214a138218e56cd9e5b9d8",
+  "title": "FluorineGeneralAudience",
+  "description": "FluorineGeneralAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "back-4-blood/home",
+  "urlSlug": "fluorinegeneralaudience",
+  "creationDate": "2020-11-20T19:27:03.740Z",
+  "lastModifiedDate": "2020-12-17T04:16:23.213Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": "2099-01-01T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+    "name": "Warner Bros."
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Warner Bros. Games"
+    },
+    {
+      "key": "developerName",
+      "value": "Turtle Rock Studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "back-4-blood/home"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/57dfd95548214a138218e56cd9e5b9d8/offer/EGS_Back4Blood_TurtleRockStudios_S1-2560x1440-c50bb45e4f6f4805a26914e28491c15a.jpg",
+      "md5": "c50bb45e4f6f4805a26914e28491c15a",
+      "size": 734071,
+      "uploadedDate": "2020-12-07T13:27:14.328Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/57dfd95548214a138218e56cd9e5b9d8/offer/EGS_Back4Blood_TurtleRockStudios_S2-1200x1600-0cd4ac84bb5491a81aa6ebfcbea9dfbf.jpg",
+      "md5": "0cd4ac84bb5491a81aa6ebfcbea9dfbf",
+      "size": 673952,
+      "uploadedDate": "2020-12-07T13:27:19.712Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/57dfd95548214a138218e56cd9e5b9d8/offer/EGS_Back4Blood_TurtleRockStudios_S1-2560x1440-c50bb45e4f6f4805a26914e28491c15a.jpg",
+      "md5": "c50bb45e4f6f4805a26914e28491c15a",
+      "size": 734071,
+      "uploadedDate": "2020-12-07T13:27:26.078Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/57dfd95548214a138218e56cd9e5b9d8/offer/EGS_Back4Blood_TurtleRockStudios_S4-1200x1600-0cd4ac84bb5491a81aa6ebfcbea9dfbf.jpg",
+      "md5": "0cd4ac84bb5491a81aa6ebfcbea9dfbf",
+      "size": 673952,
+      "uploadedDate": "2020-12-07T13:27:32.836Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/57dfd95548214a138218e56cd9e5b9d8/offer/EGS_Back4Blood_TurtleRockStudios_S4-1200x1600-0cd4ac84bb5491a81aa6ebfcbea9dfbf.jpg",
+      "md5": "0cd4ac84bb5491a81aa6ebfcbea9dfbf",
+      "size": 673952,
+      "uploadedDate": "2020-12-07T13:27:39.124Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/57dfd95548214a138218e56cd9e5b9d8/offer/EGS_Back4Blood_TurtleRockStudios_S6-1200x1600-0cd4ac84bb5491a81aa6ebfcbea9dfbf.jpg",
+      "md5": "0cd4ac84bb5491a81aa6ebfcbea9dfbf",
+      "size": 673952,
+      "uploadedDate": "2020-12-07T13:27:45.295Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "7022e7ac45be42b385df85b131d0de12"
+    }
+  ],
+  "catalogNs": null
+}

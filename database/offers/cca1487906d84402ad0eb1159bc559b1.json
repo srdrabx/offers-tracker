@@ -1,0 +1,56 @@
+{
+  "id": "cca1487906d84402ad0eb1159bc559b1",
+  "namespace": "02ad04ef7a91432b93caef1f421ca67f",
+  "title": "ScandiumGeneralAudience",
+  "description": "ScandiumGeneralAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "[]",
+  "urlSlug": "scandiumgeneralaudience",
+  "creationDate": "2020-11-20T23:21:02.641Z",
+  "lastModifiedDate": "2020-11-20T23:28:35.155Z",
+  "effectiveDate": "2099-01-01T17:19:00.000Z",
+  "viewableDate": "2099-01-01T17:19:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-hx4hxya49vl4zjxyjz5wc3ujukplfq",
+    "name": "Brave Software, Inc"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "software"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Brave Software, Inc."
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "d882eaeccde44f0eb8ab623df331060a"
+    }
+  ],
+  "catalogNs": null
+}

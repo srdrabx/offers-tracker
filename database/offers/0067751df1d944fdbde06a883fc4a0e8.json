@@ -8,7 +8,7 @@
   "productSlug": "uno/home",
   "urlSlug": "hussargeneralaudience",
   "creationDate": "2020-01-13T15:49:35.214Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.591Z",
+  "lastModifiedDate": "2021-01-28T16:10:32.572Z",
   "effectiveDate": "2020-03-17T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -39,54 +39,6 @@
   ],
   "tags": [
     {
-      "id": "1296",
-      "name": "CASUAL",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:45.644Z",
-      "updated": "2020-12-15T01:48:06.235Z",
-      "status": "ACTIVE",
-      "referenceCount": 18,
-      "comment": null
-    },
-    {
-      "id": "1203",
-      "name": "MULTIPLAYER",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2020-12-15T01:44:09.654Z",
-      "status": "ACTIVE",
-      "referenceCount": 46,
-      "comment": null
-    },
-    {
-      "id": "1370",
-      "name": "SINGLEPLAYER",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-12-15T01:43:50.926Z",
-      "status": "ACTIVE",
-      "referenceCount": 195,
-      "comment": null
-    },
-    {
-      "id": "1386",
-      "name": "TURN-BASED",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:30.372Z",
-      "updated": "2020-12-15T01:49:00.686Z",
-      "status": "ACTIVE",
-      "referenceCount": 14,
-      "comment": null
-    },
-    {
       "id": "14346",
       "name": "Holiday Sale 2020",
       "namespace": null,
@@ -97,30 +49,6 @@
       "status": "ACTIVE",
       "referenceCount": 584,
       "comment": ""
-    },
-    {
-      "id": "9547",
-      "name": "WINDOWS",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-12-15T01:43:02.751Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "1181",
-      "name": "CARD GAME",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:48.401Z",
-      "updated": "2020-12-15T01:50:52.088Z",
-      "status": "ACTIVE",
-      "referenceCount": 5,
-      "comment": null
     }
   ],
   "customAttributes": [

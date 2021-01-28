@@ -8,7 +8,7 @@
   "productSlug": "dandara",
   "urlSlug": "dandara",
   "creationDate": "2021-01-08T17:57:36.015Z",
-  "lastModifiedDate": "2021-01-21T16:08:18.735Z",
+  "lastModifiedDate": "2021-01-28T15:13:29.101Z",
   "effectiveDate": "2021-01-28T16:00:00.000Z",
   "viewableDate": "2021-01-21T15:25:00.000Z",
   "developer": null,
@@ -107,7 +107,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR"
+      "value": "[]"
     },
     {
       "key": "publisherName",

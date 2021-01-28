@@ -8,13 +8,13 @@
   "productSlug": null,
   "urlSlug": "berylgeneralaudience",
   "creationDate": "2020-03-17T13:14:57.757Z",
-  "lastModifiedDate": "2020-04-29T00:46:45.587Z",
+  "lastModifiedDate": "2021-01-19T16:00:20.941Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "viewableDate": "2099-01-01T00:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-8q457d6jnzq4ekyab7cfye87v9s8me",
-    "name": "Plastic S.C."
+    "name": "Plastic"
   },
   "linkedOfferId": null,
   "isFeatured": false,
@@ -28,10 +28,29 @@
       "path": "games"
     },
     {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "9559",
+      "name": "EDITORS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T21:11:57.763Z",
+      "updated": "2020-09-08T12:04:40.805Z",
+      "status": "ACTIVE",
+      "referenceCount": 18,
+      "comment": null
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",

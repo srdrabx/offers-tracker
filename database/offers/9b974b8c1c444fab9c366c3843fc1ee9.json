@@ -1,0 +1,59 @@
+{
+  "id": "9b974b8c1c444fab9c366c3843fc1ee9",
+  "namespace": "6af58339c2424644988e0fb83dfd9bd5",
+  "title": "Dua Lipa ft. BLACKPINK - \"Kiss and Make Up\"",
+  "description": "Dua Lipa ft. BLACKPINK - \"Kiss and Make Up\"",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "fuser--kiss-and-make-up",
+  "creationDate": "2020-12-11T02:20:00.904Z",
+  "lastModifiedDate": "2020-12-11T02:29:26.913Z",
+  "effectiveDate": "2021-02-11T16:00:00.000Z",
+  "viewableDate": "2021-02-11T16:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-k8ltvz7rz3r7b29xdtafqvdkhnj2ux",
+    "name": "NCSoft"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "NCSoft"
+    },
+    {
+      "key": "developerName",
+      "value": "Harmonix"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "c636b18b9f204c8bb3575dac506b3117"
+    }
+  ],
+  "catalogNs": null
+}

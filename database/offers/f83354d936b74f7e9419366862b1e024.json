@@ -1,0 +1,178 @@
+{
+  "id": "f83354d936b74f7e9419366862b1e024",
+  "namespace": "e099f2abf3324d248054bf14c476fbc0",
+  "title": "Oddworld Soulstorm",
+  "description": "Oddworld Soulstorm",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "oddworld-soulstorm",
+  "urlSlug": "larkgeneralaudience",
+  "creationDate": "2019-08-15T17:00:00.365Z",
+  "lastModifiedDate": "2021-01-04T18:02:18.404Z",
+  "effectiveDate": "2050-01-04T16:00:00.000Z",
+  "viewableDate": "2050-01-04T16:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-wbsj4csbacqdc7e8xvdhkmmjpzm87v",
+    "name": "Oddworld Inhabitants Inc."
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-12-15T01:46:14.061Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1298",
+      "name": "PUZZLE",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2020-12-15T01:47:26.504Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-12-15T01:43:50.926Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-12-15T01:43:02.751Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1151",
+      "name": "PLATFORMER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:33.743Z",
+      "updated": "2020-12-15T01:48:27.201Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Oddworld Inhabitants, Inc."
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "oddworld-soulstorm"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/e099f2abf3324d248054bf14c476fbc0/offer/EGS_OddworldSoulstorm_OddworldInhabitantsInc_S1-2560x1440-cfea6e52c2a4563585573b70e8c8e547.jpg",
+      "md5": "cfea6e52c2a4563585573b70e8c8e547",
+      "size": 964085,
+      "uploadedDate": "2020-12-10T18:14:16.213Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/e099f2abf3324d248054bf14c476fbc0/offer/EGS_OddworldSoulstorm_OddworldInhabitantsInc_S2-1200x1600-bf4e7a1052f737e16db6bc3d9c603f14.jpg",
+      "md5": "bf4e7a1052f737e16db6bc3d9c603f14",
+      "size": 516584,
+      "uploadedDate": "2020-12-10T18:14:23.865Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/e099f2abf3324d248054bf14c476fbc0/offer/EGS_OddworldSoulstorm_OddworldInhabitantsInc_S2-1200x1600-bf4e7a1052f737e16db6bc3d9c603f14.jpg",
+      "md5": "bf4e7a1052f737e16db6bc3d9c603f14",
+      "size": 516584,
+      "uploadedDate": "2020-12-10T18:14:36.923Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/e099f2abf3324d248054bf14c476fbc0/offer/EGS_OddworldSoulstorm_OddworldInhabitantsInc_S2-1200x1600-bf4e7a1052f737e16db6bc3d9c603f14.jpg",
+      "md5": "bf4e7a1052f737e16db6bc3d9c603f14",
+      "size": 516584,
+      "uploadedDate": "2020-12-10T18:14:46.399Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/e099f2abf3324d248054bf14c476fbc0/offer/EGS_OddworldSoulstorm_OddworldInhabitantsInc_S1-2560x1440-cfea6e52c2a4563585573b70e8c8e547.jpg",
+      "md5": "cfea6e52c2a4563585573b70e8c8e547",
+      "size": 964085,
+      "uploadedDate": "2020-12-10T18:14:59.659Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/e099f2abf3324d248054bf14c476fbc0/offer/EGS_OddworldSoulstorm_OddworldInhabitantsInc_S2-1200x1600-bf4e7a1052f737e16db6bc3d9c603f14.jpg",
+      "md5": "bf4e7a1052f737e16db6bc3d9c603f14",
+      "size": 516584,
+      "uploadedDate": "2020-12-10T18:15:09.432Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "992d66bca7aa4319966e5c510df7bdcc"
+    }
+  ],
+  "catalogNs": null
+}

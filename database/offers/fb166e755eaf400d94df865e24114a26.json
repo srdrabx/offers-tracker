@@ -8,13 +8,13 @@
   "productSlug": null,
   "urlSlug": "devsiameseaudience",
   "creationDate": "2020-05-08T17:16:03.900Z",
-  "lastModifiedDate": "2020-05-08T18:39:32.368Z",
+  "lastModifiedDate": "2020-12-16T18:21:42.665Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "viewableDate": "2099-01-01T00:00:00.000Z",
   "developer": null,
   "seller": {
-    "id": "o-ntj9m7f2v76uksvjujurjfxtjkfawq",
-    "name": "Kalypso Media"
+    "id": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+    "name": "Kalypso Media Group GmbH"
   },
   "linkedOfferId": null,
   "isFeatured": false,

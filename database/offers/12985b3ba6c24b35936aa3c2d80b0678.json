@@ -1,0 +1,134 @@
+{
+  "id": "12985b3ba6c24b35936aa3c2d80b0678",
+  "namespace": "2d831f372e6343cc85cceda5c9c808cf",
+  "title": "Haven",
+  "description": "Haven",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "haven",
+  "urlSlug": "aluminiumgeneralaudience",
+  "creationDate": "2020-11-19T17:52:45.140Z",
+  "lastModifiedDate": "2021-01-28T14:07:32.962Z",
+  "effectiveDate": "2021-02-04T14:00:00.000Z",
+  "viewableDate": "2021-01-28T14:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-xe5cwmfzsj4nrmn3uhfnzgmf3g6anj",
+    "name": "The Game Bakers"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-12-15T01:46:33.012Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "The Game Bakers"
+    },
+    {
+      "key": "developerName",
+      "value": "The Game Bakers"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "haven"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/2d831f372e6343cc85cceda5c9c808cf/offer/EGS_Haven_TheGameBakers_S2-1200x1600-35fea9e06d5585f67a0be2974701d573.jpg",
+      "md5": "35fea9e06d5585f67a0be2974701d573",
+      "size": 807253,
+      "uploadedDate": "2021-01-22T17:43:03.300Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/2d831f372e6343cc85cceda5c9c808cf/offer/EGS_Haven_TheGameBakers_S1-2560x1440-6c2cf61d4e7af3af8b10632c4a625c31.jpg",
+      "md5": "6c2cf61d4e7af3af8b10632c4a625c31",
+      "size": 1019751,
+      "uploadedDate": "2021-01-22T17:43:10.658Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/2d831f372e6343cc85cceda5c9c808cf/offer/EGS_Haven_TheGameBakers_S2-1200x1600-35fea9e06d5585f67a0be2974701d573.jpg",
+      "md5": "35fea9e06d5585f67a0be2974701d573",
+      "size": 807253,
+      "uploadedDate": "2021-01-22T17:43:56.752Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/2d831f372e6343cc85cceda5c9c808cf/offer/EGS_Haven_TheGameBakers_S2-1200x1600-35fea9e06d5585f67a0be2974701d573.jpg",
+      "md5": "35fea9e06d5585f67a0be2974701d573",
+      "size": 807253,
+      "uploadedDate": "2021-01-22T17:44:04.994Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/2d831f372e6343cc85cceda5c9c808cf/offer/EGS_Haven_TheGameBakers_S2-1200x1600-35fea9e06d5585f67a0be2974701d573.jpg",
+      "md5": "35fea9e06d5585f67a0be2974701d573",
+      "size": 807253,
+      "uploadedDate": "2021-01-22T17:44:13.205Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/2d831f372e6343cc85cceda5c9c808cf/offer/EGS_Haven_TheGameBakers_S1-2560x1440-6c2cf61d4e7af3af8b10632c4a625c31.jpg",
+      "md5": "6c2cf61d4e7af3af8b10632c4a625c31",
+      "size": 1019751,
+      "uploadedDate": "2021-01-22T17:44:20.981Z",
+      "width": 2560,
+      "height": 1440
+    }
+  ],
+  "items": [
+    {
+      "id": "152891f6b2cd40b7822c1e136c34802e"
+    }
+  ],
+  "catalogNs": null
+}

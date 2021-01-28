@@ -1,0 +1,205 @@
+{
+  "id": "005e465caa88467295daebfc1c55f662",
+  "namespace": "conanexiles",
+  "title": "Conan Exiles: Isle of Siptah",
+  "description": "Conan Exiles: Isle of Siptah",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "conan-exiles",
+  "urlSlug": "jacinthgeneralaudience-01",
+  "creationDate": "2020-08-27T17:16:54.469Z",
+  "lastModifiedDate": "2020-08-27T17:18:49.362Z",
+  "effectiveDate": "2099-01-01T15:00:00.000Z",
+  "viewableDate": "2099-01-01T15:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+    "name": "Funcom Oslo AS"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-12-15T01:44:09.654Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1080",
+      "name": "SURVIVAL",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2020-12-15T01:49:20.300Z",
+      "status": "ACTIVE",
+      "referenceCount": 11,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-12-15T01:43:50.926Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "OPEN WORLD",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2020-12-15T01:46:59.402Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-12-15T01:43:02.751Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-12-15T01:43:59.524Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1279",
+      "name": "VAMPIRE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:37.207Z",
+      "updated": "2020-09-16T19:19:59.211Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "Funcom"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "conan-exiles"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/conanexiles/offer/EGS_ConanExiles_Funcom_S5-1920x1080-80181a084cf786f9aa8e81190f8725be.jpg",
+      "md5": "80181a084cf786f9aa8e81190f8725be",
+      "size": 849966,
+      "uploadedDate": "2020-06-12T17:08:03.501Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/conanexiles/offer/EGS_ConanExiles_Funcom_S6-1200x1600-5454011d5e70ab9d4a0ebe27c5054a85.jpg",
+      "md5": "5454011d5e70ab9d4a0ebe27c5054a85",
+      "size": 955277,
+      "uploadedDate": "2020-06-12T17:08:13.793Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/conanexiles/offer/EGS_ConanExiles_Funcom_S6-1200x1600-5454011d5e70ab9d4a0ebe27c5054a85.jpg",
+      "md5": "5454011d5e70ab9d4a0ebe27c5054a85",
+      "size": 955277,
+      "uploadedDate": "2020-06-12T17:08:24.334Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/conanexiles/offer/EGS_ConanExiles_Funcom_S6-1200x1600-5454011d5e70ab9d4a0ebe27c5054a85.jpg",
+      "md5": "5454011d5e70ab9d4a0ebe27c5054a85",
+      "size": 955277,
+      "uploadedDate": "2020-06-12T17:08:37.667Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/conanexiles/offer/EGS_ConanExiles_Funcom_S5-1920x1080-80181a084cf786f9aa8e81190f8725be.jpg",
+      "md5": "80181a084cf786f9aa8e81190f8725be",
+      "size": 849966,
+      "uploadedDate": "2020-06-12T17:08:48.958Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/conanexiles/offer/EGS_ConanExiles_Funcom_S6-1200x1600-5454011d5e70ab9d4a0ebe27c5054a85.jpg",
+      "md5": "5454011d5e70ab9d4a0ebe27c5054a85",
+      "size": 955277,
+      "uploadedDate": "2020-06-12T17:08:59.313Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "53817e9dd7e744ff97625009638cea17"
+    },
+    {
+      "id": "ab8056a236c543e28f1efe1d4d5f2368"
+    }
+  ],
+  "catalogNs": null
+}

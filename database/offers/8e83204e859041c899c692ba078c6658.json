@@ -1,0 +1,121 @@
+{
+  "id": "8e83204e859041c899c692ba078c6658",
+  "namespace": "df9dccc5ebe4449db2300af4c061615c",
+  "title": "Olija",
+  "description": "Olija",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "olija",
+  "urlSlug": "pianogeneralaudience",
+  "creationDate": "2021-01-13T15:58:12.938Z",
+  "lastModifiedDate": "2021-01-28T14:40:01.279Z",
+  "effectiveDate": "2021-01-28T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+    "name": "Devolver Digital, Inc."
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Devolver Digital"
+    },
+    {
+      "key": "developerName",
+      "value": "Skeleton Crew Studio"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "olija"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/df9dccc5ebe4449db2300af4c061615c/offer/EGS_FaradaysquestthroughthemysteriousTerraphage_SkeletonCrewStudio_S1-2560x1440-17f56f168941458167fca83a2b77d99c.jpg",
+      "md5": "17f56f168941458167fca83a2b77d99c",
+      "size": 714929,
+      "uploadedDate": "2021-01-26T20:30:22.579Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/df9dccc5ebe4449db2300af4c061615c/offer/EGS_FaradaysquestthroughthemysteriousTerraphage_SkeletonCrewStudio_S2-1200x1600-c627ce9ef77c13cc268203a69b58c7ca.jpg",
+      "md5": "c627ce9ef77c13cc268203a69b58c7ca",
+      "size": 908591,
+      "uploadedDate": "2021-01-26T20:30:38.752Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/df9dccc5ebe4449db2300af4c061615c/offer/EGS_FaradaysquestthroughthemysteriousTerraphage_SkeletonCrewStudio_S2-1200x1600-c627ce9ef77c13cc268203a69b58c7ca.jpg",
+      "md5": "c627ce9ef77c13cc268203a69b58c7ca",
+      "size": 908591,
+      "uploadedDate": "2021-01-26T20:40:10.427Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/df9dccc5ebe4449db2300af4c061615c/offer/EGS_FaradaysquestthroughthemysteriousTerraphage_SkeletonCrewStudio_S2-1200x1600-c627ce9ef77c13cc268203a69b58c7ca.jpg",
+      "md5": "c627ce9ef77c13cc268203a69b58c7ca",
+      "size": 908591,
+      "uploadedDate": "2021-01-26T20:40:25.113Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/df9dccc5ebe4449db2300af4c061615c/offer/EGS_FaradaysquestthroughthemysteriousTerraphage_SkeletonCrewStudio_S1-2560x1440-17f56f168941458167fca83a2b77d99c.jpg",
+      "md5": "17f56f168941458167fca83a2b77d99c",
+      "size": 714929,
+      "uploadedDate": "2021-01-26T20:45:51.679Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/df9dccc5ebe4449db2300af4c061615c/offer/EGS_FaradaysquestthroughthemysteriousTerraphage_SkeletonCrewStudio_S2-1200x1600-c627ce9ef77c13cc268203a69b58c7ca.jpg",
+      "md5": "c627ce9ef77c13cc268203a69b58c7ca",
+      "size": 908591,
+      "uploadedDate": "2021-01-26T20:46:05.900Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "cd10f2ade9fd4f5b999f21d12857576b"
+    }
+  ],
+  "catalogNs": null
+}

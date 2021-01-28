@@ -8,7 +8,7 @@
   "productSlug": "immortals-fenyx-rising/gold-edition",
   "urlSlug": "pheasantgoldaudience",
   "creationDate": "2019-06-08T17:50:01.744Z",
-  "lastModifiedDate": "2020-12-03T16:05:44.659Z",
+  "lastModifiedDate": "2021-01-28T15:55:38.289Z",
   "effectiveDate": "2020-09-10T20:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -97,9 +97,6 @@
     }
   ],
   "items": [
-    {
-      "id": "b2aaf50259434c8c9e5aaf8a00354414"
-    },
     {
       "id": "0679f61321564625b2cd4ed131c571a5"
     },

@@ -1,0 +1,120 @@
+{
+  "id": "a0ca09bba00246c18e0b516918249d83",
+  "namespace": "ca93b6d41a4e41af864942d8f0a2a826",
+  "title": "New Uno - Ultimate Edition",
+  "description": "New Uno - Ultimate Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "uno/ultimate-edition",
+  "urlSlug": "hussarifreditionaudience",
+  "creationDate": "2021-01-21T22:44:19.147Z",
+  "lastModifiedDate": "2021-01-28T16:10:32.708Z",
+  "effectiveDate": "2021-01-28T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "This will be the new version!",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "uno/ultimate-edition"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ca93b6d41a4e41af864942d8f0a2a826/offer/uno-ult-store-landscape-2560x1440-2560x1440-11a0e9025717-2560x1440-7fd29e39250621da87d03bf1d376f27f.jpg",
+      "md5": "7fd29e39250621da87d03bf1d376f27f",
+      "size": 336855,
+      "uploadedDate": "2021-01-26T01:28:33.201Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ca93b6d41a4e41af864942d8f0a2a826/offer/uno-ult-store-portrait-1200x1600-1200x1600-068853fa8ff2-1200x1600-96a1e051d1b1ed8a9eb3c1625b08f624.jpg",
+      "md5": "96a1e051d1b1ed8a9eb3c1625b08f624",
+      "size": 214799,
+      "uploadedDate": "2021-01-26T01:28:44.485Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ca93b6d41a4e41af864942d8f0a2a826/offer/uno-ult-store-portrait-1200x1600-1200x1600-068853fa8ff2-1200x1600-96a1e051d1b1ed8a9eb3c1625b08f624.jpg",
+      "md5": "96a1e051d1b1ed8a9eb3c1625b08f624",
+      "size": 214799,
+      "uploadedDate": "2021-01-26T01:28:58.902Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ca93b6d41a4e41af864942d8f0a2a826/offer/uno-ult-store-portrait-1200x1600-1200x1600-068853fa8ff2-1200x1600-96a1e051d1b1ed8a9eb3c1625b08f624.jpg",
+      "md5": "96a1e051d1b1ed8a9eb3c1625b08f624",
+      "size": 214799,
+      "uploadedDate": "2021-01-26T01:29:09.730Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/ca93b6d41a4e41af864942d8f0a2a826/offer/uno-ult-store-landscape-2560x1440-2560x1440-11a0e9025717-2560x1440-7fd29e39250621da87d03bf1d376f27f.jpg",
+      "md5": "7fd29e39250621da87d03bf1d376f27f",
+      "size": 336855,
+      "uploadedDate": "2021-01-26T01:29:27.469Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/ca93b6d41a4e41af864942d8f0a2a826/offer/uno-ult-store-portrait-1200x1600-1200x1600-068853fa8ff2-1200x1600-96a1e051d1b1ed8a9eb3c1625b08f624.jpg",
+      "md5": "96a1e051d1b1ed8a9eb3c1625b08f624",
+      "size": 214799,
+      "uploadedDate": "2021-01-26T01:29:36.310Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "d8129f675506413db22c74b44ee6f9e6"
+    },
+    {
+      "id": "24ec591ebe9a40628fd1ae12bafab98a"
+    },
+    {
+      "id": "53cdba549c99445aa68e5d4b141031c4"
+    }
+  ],
+  "catalogNs": null
+}

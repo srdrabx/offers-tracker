@@ -1,0 +1,116 @@
+{
+  "id": "a57daf2d6452486a865c49f0cfb54dd9",
+  "namespace": "4b35838425c74992ad42e1276b2161ca",
+  "title": "Immortals Fenyx Rising™ DLC 1 A New God",
+  "description": "Expand your Immortals Fenyx Rising™ adventure with this first DLC, A New God, for more epic adventures and puzzles!",
+  "longDescription": "Expand your Immortals Fenyx Rising™ adventure with this first DLC for more epic adventures and puzzles!\nIn A New God, play as Fenyx to overcome the trials of the gods of Olympos. In these trials, Fenyx hones her godly powers and finds ways to become even stronger as they attempt to earn a place among the inner circle of the Pantheon.",
+  "status": "ACTIVE",
+  "productSlug": "immortals-fenyx-rising/a-new-god",
+  "urlSlug": "immortals-fenyx-rising--a-new-god",
+  "creationDate": "2021-01-20T17:01:00.202Z",
+  "lastModifiedDate": "2021-01-28T15:55:38.361Z",
+  "effectiveDate": "2021-01-28T16:00:00.000Z",
+  "viewableDate": "2021-01-20T15:55:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "immortals-fenyx-rising/a-new-god"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/4b35838425c74992ad42e1276b2161ca/offer/Immortals_DLC1_EPIC_Store_Landscape_2560x1440-2560x1440-7a628b1ed3d0c1d3388c271c63b6cce9.jpg",
+      "md5": "7a628b1ed3d0c1d3388c271c63b6cce9",
+      "size": 496371,
+      "uploadedDate": "2021-01-20T19:39:02.529Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/4b35838425c74992ad42e1276b2161ca/offer/Immortals_DLC1_EPIC_Store_Portrait_1200x1600-1200x1600-f9264b0cc65d293cef048415691b18a9.jpg",
+      "md5": "f9264b0cc65d293cef048415691b18a9",
+      "size": 936794,
+      "uploadedDate": "2021-01-20T19:39:11.434Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/4b35838425c74992ad42e1276b2161ca/offer/Immortals_DLC1_EPIC_Store_Portrait_1200x1600-1200x1600-f9264b0cc65d293cef048415691b18a9.jpg",
+      "md5": "f9264b0cc65d293cef048415691b18a9",
+      "size": 936794,
+      "uploadedDate": "2021-01-20T19:39:27.204Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/4b35838425c74992ad42e1276b2161ca/offer/Immortals_DLC1_EPIC_Store_Portrait_1200x1600-1200x1600-f9264b0cc65d293cef048415691b18a9.jpg",
+      "md5": "f9264b0cc65d293cef048415691b18a9",
+      "size": 936794,
+      "uploadedDate": "2021-01-20T19:39:37.765Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/4b35838425c74992ad42e1276b2161ca/offer/Immortals_DLC1_EPIC_Key_Art_Wide_3840x2160-3840x2160-a273cbdc239a07959a9d01b2e1d3c0a5.jpg",
+      "md5": "a273cbdc239a07959a9d01b2e1d3c0a5",
+      "size": 925483,
+      "uploadedDate": "2021-01-20T19:40:09.644Z",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/4b35838425c74992ad42e1276b2161ca/offer/Immortals_DLC1_EPIC_Store_Portrait_1200x1600-1200x1600-f9264b0cc65d293cef048415691b18a9.jpg",
+      "md5": "f9264b0cc65d293cef048415691b18a9",
+      "size": 936794,
+      "uploadedDate": "2021-01-20T19:40:20.301Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "a78a2231bdef42f69b2ec2ff484beee9"
+    },
+    {
+      "id": "4809380409a14553adb058148f6967ad"
+    }
+  ],
+  "catalogNs": null
+}

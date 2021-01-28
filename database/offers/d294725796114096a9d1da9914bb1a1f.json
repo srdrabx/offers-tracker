@@ -1,0 +1,56 @@
+{
+  "id": "d294725796114096a9d1da9914bb1a1f",
+  "namespace": "3671db367c594e2ab5020105dc52dc65",
+  "title": "ismDPCGeneralAudience",
+  "description": "ismDPCGeneralAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "ismdpcgeneralaudience",
+  "creationDate": "2020-10-26T14:06:43.775Z",
+  "lastModifiedDate": "2020-10-26T14:19:01.243Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": "2099-01-01T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-xbmhhs32ajtuszar863dprgnwtvedk",
+    "name": "Square Enix Japan"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "ea8bbd5c5b4e476f941eabc9fda7efc4"
+    }
+  ],
+  "catalogNs": null
+}

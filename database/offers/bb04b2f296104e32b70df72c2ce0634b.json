@@ -1,0 +1,56 @@
+{
+  "id": "bb04b2f296104e32b70df72c2ce0634b",
+  "namespace": "0610384879594dd0b42c73e2d8af88ae",
+  "title": "CentaurGeneralAudience",
+  "description": "CentaurGeneralAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "centaurgeneralaudience",
+  "creationDate": "2020-11-11T16:26:22.168Z",
+  "lastModifiedDate": "2020-11-11T16:33:28.739Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": "2099-01-01T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-bhd3mh54edbkdtbzehl9wz6jnfeyea",
+    "name": "Coatsink"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "adf3833218c4437e9c48161cd88e78d6"
+    }
+  ],
+  "catalogNs": null
+}

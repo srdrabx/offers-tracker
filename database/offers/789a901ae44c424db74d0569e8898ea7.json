@@ -8,7 +8,7 @@
   "productSlug": "a-total-war-saga-troy/ajax-and-diomedes",
   "urlSlug": "haddock-ajax-diomedes-prepurchase",
   "creationDate": "2021-01-07T00:43:46.079Z",
-  "lastModifiedDate": "2021-01-14T14:53:18.204Z",
+  "lastModifiedDate": "2021-01-28T15:02:29.430Z",
   "effectiveDate": "2021-01-14T15:00:00.000Z",
   "viewableDate": "2021-01-14T15:00:00.000Z",
   "developer": null,
@@ -43,14 +43,6 @@
     {
       "key": "publisherName",
       "value": "SEGA"
-    },
-    {
-      "key": "isPrepurchase",
-      "value": "true"
-    },
-    {
-      "key": "availableDate",
-      "value": "1611846043"
     },
     {
       "key": "developerName",

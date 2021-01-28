@@ -1,0 +1,59 @@
+{
+  "id": "b326d94ba2eb4ba3b12eb7afa06068b9",
+  "namespace": "6af58339c2424644988e0fb83dfd9bd5",
+  "title": "Shawn Mendes - \"Higher\"",
+  "description": "Shawn Mendes - \"Higher\"",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "fuser--higher",
+  "creationDate": "2020-12-11T02:12:13.316Z",
+  "lastModifiedDate": "2020-12-11T02:12:13.316Z",
+  "effectiveDate": "2021-02-04T16:00:00.000Z",
+  "viewableDate": "2021-02-04T16:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-k8ltvz7rz3r7b29xdtafqvdkhnj2ux",
+    "name": "NCSoft"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "NCSoft"
+    },
+    {
+      "key": "developerName",
+      "value": "Harmonix"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "5f2bc0d5e1864e3b819f6a0a6b33250a"
+    }
+  ],
+  "catalogNs": null
+}
