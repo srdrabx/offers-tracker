@@ -1,0 +1,121 @@
+{
+  "id": "5a9a0a7fd1bd47a8a5c39a903f6c25a1",
+  "namespace": "e192c537dd6d47ce9a9b00b643c3cdb9",
+  "title": "The Medium",
+  "description": "The Medium",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "the-medium/home",
+  "urlSlug": "tauruslaunchaudience",
+  "creationDate": "2020-10-07T15:30:37.200Z",
+  "lastModifiedDate": "2021-01-28T17:00:13.214Z",
+  "effectiveDate": "2021-01-28T17:00:00.000Z",
+  "viewableDate": "2021-01-28T17:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-8nzuqrvr3dvkn9l7dydvhkekqd3xa9",
+    "name": "Bloober Team"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Bloober Team SA"
+    },
+    {
+      "key": "developerName",
+      "value": "Bloober Team"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-medium/home"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/e192c537dd6d47ce9a9b00b643c3cdb9/offer/EGS_TheMedium_BlooberTeam_S1-2560x1440-f8a3d12a0df00278617130bd72540050.jpg",
+      "md5": "f8a3d12a0df00278617130bd72540050",
+      "size": 1008773,
+      "uploadedDate": "2020-10-07T15:25:38.333Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/e192c537dd6d47ce9a9b00b643c3cdb9/offer/EGS_TheMedium_BlooberTeam_S2-1200x1600-ae6bf4c64b365f9d90dba125c562f59a.jpg",
+      "md5": "ae6bf4c64b365f9d90dba125c562f59a",
+      "size": 799723,
+      "uploadedDate": "2020-10-07T15:25:47.142Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/e192c537dd6d47ce9a9b00b643c3cdb9/offer/EGS_TheMedium_BlooberTeam_S2-1200x1600-ae6bf4c64b365f9d90dba125c562f59a.jpg",
+      "md5": "ae6bf4c64b365f9d90dba125c562f59a",
+      "size": 799723,
+      "uploadedDate": "2020-10-07T15:25:57.893Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/e192c537dd6d47ce9a9b00b643c3cdb9/offer/EGS_TheMedium_BlooberTeam_S2-1200x1600-ae6bf4c64b365f9d90dba125c562f59a.jpg",
+      "md5": "ae6bf4c64b365f9d90dba125c562f59a",
+      "size": 799723,
+      "uploadedDate": "2020-10-07T15:26:06.039Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/e192c537dd6d47ce9a9b00b643c3cdb9/offer/EGS_TheMedium_BlooberTeam_S1-2560x1440-f8a3d12a0df00278617130bd72540050.jpg",
+      "md5": "f8a3d12a0df00278617130bd72540050",
+      "size": 1008773,
+      "uploadedDate": "2020-10-07T15:26:17.171Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/e192c537dd6d47ce9a9b00b643c3cdb9/offer/EGS_TheMedium_BlooberTeam_S2-1200x1600-ae6bf4c64b365f9d90dba125c562f59a.jpg",
+      "md5": "ae6bf4c64b365f9d90dba125c562f59a",
+      "size": 799723,
+      "uploadedDate": "2020-10-07T15:26:26.344Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "9e9cd893cf33425a8acb0d2d05cac7c4"
+    }
+  ],
+  "catalogNs": null
+}

@@ -7445,7 +7445,7 @@
     ],
     "IO Interactive",
     1580923881,
-    1611147163,
+    1611929005,
     "https://cdn1.epicgames.com/ed55aa5edc5941de92fd7f64de415793/offer/Portrait-1200x1600-a3fde0e00e56746208d481d8a8a220b3.jpg",
     ""
   ],
@@ -14243,7 +14243,7 @@
     ],
     "IO Interactive",
     1607459452,
-    1611147163,
+    1611928686,
     "https://cdn1.epicgames.com/ed55aa5edc5941de92fd7f64de415793/offer/b4c8b89f-73d2-4dc8-afd0-971743607d69-1200x1600-a5a835bb91b300add70e5e4aa8a9c484.jfif",
     ""
   ],
@@ -16685,6 +16685,22 @@
     ""
   ],
   [
+    "5207cdd79e9145d0bbb947c6bd3699a3",
+    "28d06644e2f84b398c1b7fb96a2b6bd5",
+    "Gods Will Fall",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Koch Media",
+    1602694273,
+    1611878507,
+    "https://cdn1.epicgames.com/28d06644e2f84b398c1b7fb96a2b6bd5/offer/GWF_Tall-1200x1600-406d07b465790161632b25aaa1613dfe.jpg",
+    "gods-will-fall"
+  ],
+  [
     "521dc9aff2174e1faa50d860cdef140b",
     "meerkat",
     "Meerkat",
@@ -17780,7 +17796,7 @@
     ],
     "Koch Media",
     1605125452,
-    1609867471,
+    1611878507,
     "https://cdn1.epicgames.com/28d06644e2f84b398c1b7fb96a2b6bd5/offer/GWF_VOTDG_Artwork_Portrait_Final-1524x1900-5ad71a9c34545441b2d54a10a228fb81.png",
     ""
   ],
@@ -18147,6 +18163,21 @@
     ""
   ],
   [
+    "5a3c83c6507e46a79f344fc93d765a15",
+    "6af58339c2424644988e0fb83dfd9bd5",
+    "Look Pack: Get Funky",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "NCSoft",
+    1605048598,
+    1611856276,
+    "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_LookPackGetFunky_HarmonixMusicSystemsInc_DLC_S2-1200x1600-7e2fcce937543329256c183f78e82662.jpg",
+    ""
+  ],
+  [
     "5a61584bafd1403d852a0cd721742c71",
     "epic",
     "Unreal Tournament Editor",
@@ -18187,6 +18218,22 @@
     1606407036,
     "https://cdn1.epicgames.com/azalea/offer/UI_Art_StarterPacks_S-672x1104-5a0781512cd5d376bc6c7a1a7a70accd.png",
     "thecycle/maverick-pack"
+  ],
+  [
+    "5a9a0a7fd1bd47a8a5c39a903f6c25a1",
+    "e192c537dd6d47ce9a9b00b643c3cdb9",
+    "The Medium",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Bloober Team",
+    1602084637,
+    1611853213,
+    "https://cdn1.epicgames.com/e192c537dd6d47ce9a9b00b643c3cdb9/offer/EGS_TheMedium_BlooberTeam_S2-1200x1600-ae6bf4c64b365f9d90dba125c562f59a.jpg",
+    "the-medium/home"
   ],
   [
     "5aa36928d61c4271b19cca1ed2ec24e4",
@@ -18749,7 +18796,6 @@
     "3c52fbac843d4375803187739db84801",
     "Galactic Civilizations III",
     [
-      "freegames",
       "games",
       "games/edition",
       "games/edition/base",
@@ -18757,7 +18803,7 @@
     ],
     "Stardock Entertainment, Inc",
     1604647790,
-    1611242163,
+    1611855483,
     "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/offer/EGS_GalacticCivilizationsIIICoreEdition_StardockEntertainment_S2-1200x1600-ef8767dbf731cda94a457c4a543341c1.jpg",
     "galactic-civilizations-iii"
   ],
@@ -21438,7 +21484,7 @@
     ],
     "SEGA of Europe",
     1602618545,
-    1611846149,
+    1611865589,
     "https://cdn1.epicgames.com/53310576ce1d4446b20dbbdac4f09f2d/offer/EGS_ATotalWarSagaTROYAJAXDIOMEDES_CREATIVEASSEMBLY_DLC_S2-1200x1600-c274aff775b27c7aeeadfb50ca8e54e2.jpg",
     "a-total-war-saga-troy/ajax-and-diomedes"
   ],
@@ -21538,7 +21584,7 @@
     ],
     "IO Interactive",
     1607459535,
-    1611147163,
+    1611928666,
     "https://cdn1.epicgames.com/ed55aa5edc5941de92fd7f64de415793/offer/Portrait-1200x1600-9c6d2d89a5a9bac951c1f0e3f7392211.jpg",
     ""
   ],
@@ -23700,6 +23746,21 @@
     ""
   ],
   [
+    "759faef38723494fa60de724df04d0a3",
+    "6af58339c2424644988e0fb83dfd9bd5",
+    "Jason Derulo - \"Take You Dancing\"",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "NCSoft",
+    1605048393,
+    1611853278,
+    "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_JasonDeruloTakeYouDancing_HarmonixMusicSystemsInc_DLC_S2-1200x1600-f27c55c1e571a2f914d7a43e72f536e6.jpg",
+    ""
+  ],
+  [
     "75c3e1cebad243b6adad68ed41eaaccd",
     "cf87285950ba492bbdc370b9d265ea36",
     "Far Cry 4 Season Pass",
@@ -24035,15 +24096,15 @@
     "Chivalry 2",
     [
       "games",
-      "games/edition/base",
       "games/edition",
+      "games/edition/base",
       "applications"
     ],
     "Tripwire Interactive",
     1559638418,
-    1597882237,
+    1611864492,
     "https://cdn1.epicgames.com/bd46d4ce259349e5bd8b3ded20274737/offer/1200x600b-1200x1600-d2045ec65147297d8a7cebd13cd68d4b.jpg",
-    "chivalry-2/home"
+    "chivalry-2"
   ],
   [
     "780ba45b7623488581b9e871d7e4faf8",
@@ -25146,7 +25207,7 @@
     ],
     "Tripwire Interactive",
     1559638419,
-    1569626829,
+    1611864449,
     "",
     ""
   ],
@@ -27054,6 +27115,21 @@
     1606773479,
     "https://cdn1.epicgames.com/3fafb94f3f804d6bbe85da723c90e689/offer/EGS_FootballManager2021Touch_SportsInteractive_DLC_S2-1200x1600-3eaf4f6e401d44eb1099aa57c74a94c6.jpg",
     "football-manager-2021-touch"
+  ],
+  [
+    "882cd9fbf0f74b65a3a70313660d764d",
+    "cd14dcaa4f3443f19f7169a980559c62",
+    "Civilization VI – Vietnam & Kublai Khan Pack",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "2K Games, Inc.",
+    1611266786,
+    1611852978,
+    "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_CivilizationVIVietnamKublaiKhanPack_FiraxisGames_DLC_S2-1200x1600-449fb455f814b596496bbb50e71001cb.jpg",
+    ""
   ],
   [
     "8843eb0f373d4a45a1bf57246476e730",
@@ -29608,7 +29684,7 @@
     ],
     "IO Interactive",
     1607459681,
-    1611147163,
+    1611928632,
     "https://cdn1.epicgames.com/ed55aa5edc5941de92fd7f64de415793/offer/Portrait-1200x1600-3fc0bd6600d6b73d5aef1754e68f2e9a.jpg",
     ""
   ],
@@ -30917,6 +30993,21 @@
     1590174043,
     1611063779,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EN_Rebellion_ZombieArmy4_DeadZeppelin_S2_1200x1600-1200x1600-87ffc1d4c5f2b8c30c01b5fbe1983fdf.jpg",
+    ""
+  ],
+  [
+    "9a7f9e34f7dd4383a3da0c07309e4724",
+    "6af58339c2424644988e0fb83dfd9bd5",
+    "Marshmello ft. Bastille - \"Happier\"",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "NCSoft",
+    1605048463,
+    1611853278,
+    "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_MarshmelloftBastilleHappier_HarmonixMusicSystemsInc_DLC_S2-1200x1600-58202ced5cbc19d5f5c6ca8dfdb69633.jpg",
     ""
   ],
   [
@@ -34212,7 +34303,7 @@
     ],
     "Massive Damage",
     1611253634,
-    1611254457,
+    1611868622,
     "",
     ""
   ],
@@ -40103,6 +40194,21 @@
     "disc-room/home"
   ],
   [
+    "c8d360884788452dad0d3d96b48d20f3",
+    "6af58339c2424644988e0fb83dfd9bd5",
+    "Shaggy - \"Boombastic (Hot Shot 2020)\"",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "NCSoft",
+    1605048438,
+    1611853278,
+    "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_ShaggyBoombasticHotShot2020_HarmonixMusicSystemsInc_DLC_S2-1200x1600-2c08808dcb525ab2f19215f9a8691dc1.jpg",
+    ""
+  ],
+  [
     "c8d599f0cc2d4dfa8b30750974aa1110",
     "azalea",
     "Gunslinger Pack",
@@ -41826,7 +41932,7 @@
     ],
     "IO Interactive",
     1607459597,
-    1611147163,
+    1611928648,
     "https://cdn1.epicgames.com/ed55aa5edc5941de92fd7f64de415793/offer/Portrait-1200x1600-aa1dcd0cf896ddd4960f6060d4bfbcaa.jpg",
     ""
   ],
@@ -47288,6 +47394,21 @@
     "godfall"
   ],
   [
+    "ecbb654bd93a4ca7bf33bd4394cf5671",
+    "28d06644e2f84b398c1b7fb96a2b6bd5",
+    "Gods Will Fall: Valiant Edition",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Koch Media",
+    1605125332,
+    1611879278,
+    "https://cdn1.epicgames.com/28d06644e2f84b398c1b7fb96a2b6bd5/offer/GWFE_tall-1200x1600-107f404172a7cd13cf1adef75b4cd7ea.jpg",
+    "gods-will-fall/valiant-edition"
+  ],
+  [
     "ecbd1d5ae04649c0b0dec3ac79c3d061",
     "newt",
     "Spellbreak Press Audience",
@@ -49704,6 +49825,21 @@
     1588867223,
     "https://cdn1.epicgames.com/4930dde6add240a9bfc7ddc415dc2799/offer/Wishlist_860x1148-860x1148-1dab42c1ec68e479aaf6d9f1cf0cb44e.jpg",
     "chorus"
+  ],
+  [
+    "f90fc9961b064b7eb52cddf24851fe67",
+    "e192c537dd6d47ce9a9b00b643c3cdb9",
+    "The Medium - Deluxe Edition",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Bloober Team",
+    1611094496,
+    1611853213,
+    "https://cdn1.epicgames.com/e192c537dd6d47ce9a9b00b643c3cdb9/offer/egs-themediumdeluxeedition-blooberteam-editions-s2-1200x1600-e06fd81ffcab-1200x1600-221de9eb09089a13323993217fe026fe.jpg",
+    "the-medium/deluxe-edition"
   ],
   [
     "f916cf610fcc4880b535f5832f227272",

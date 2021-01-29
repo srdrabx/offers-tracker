@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "hitman-3--access-pass-hitman-2-standard-01",
   "creationDate": "2020-12-08T20:32:15.555Z",
-  "lastModifiedDate": "2021-01-20T12:52:43.331Z",
+  "lastModifiedDate": "2021-01-29T13:57:46.532Z",
   "effectiveDate": "2021-01-20T13:00:00.000Z",
   "viewableDate": "2021-01-20T13:00:00.000Z",
   "developer": null,
@@ -42,6 +42,10 @@
     },
     {
       "key": "publisherName",
+      "value": "IO Interactive"
+    },
+    {
+      "key": "developerName",
       "value": "IO Interactive"
     }
   ],
