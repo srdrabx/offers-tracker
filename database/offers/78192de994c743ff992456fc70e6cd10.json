@@ -8,7 +8,7 @@
   "productSlug": "hitman-3",
   "urlSlug": "hitman-01",
   "creationDate": "2019-09-10T19:03:59.117Z",
-  "lastModifiedDate": "2021-01-20T12:52:44.039Z",
+  "lastModifiedDate": "2021-01-30T16:00:40.960Z",
   "effectiveDate": "2021-01-20T13:00:00.000Z",
   "viewableDate": "2021-01-20T13:00:00.000Z",
   "developer": null,
@@ -172,9 +172,6 @@
   "items": [
     {
       "id": "1dea1e39a8044a69b4020845afb4bd97"
-    },
-    {
-      "id": "e698e1a4b63947b0bc9349a5ae2dc015"
     },
     {
       "id": "feeac4b521734f22ae99e8ac55a5f896"
