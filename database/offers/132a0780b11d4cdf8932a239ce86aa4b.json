@@ -1,0 +1,134 @@
+{
+  "id": "132a0780b11d4cdf8932a239ce86aa4b",
+  "namespace": "ef361cdf19514595a8cb0945fb66962e",
+  "title": "Cris Tales",
+  "description": "Cris Tales",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "cris-tales",
+  "urlSlug": "meitneriumgeneralaudience",
+  "creationDate": "2020-11-18T04:44:44.983Z",
+  "lastModifiedDate": "2021-02-01T15:17:19.054Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": "2021-02-01T14:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-a6k23slslegbhbwtel4qx423kuzc3y",
+    "name": "Maximum Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-12-15T01:46:33.012Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Modus Games"
+    },
+    {
+      "key": "developerName",
+      "value": "Dreams Uncorporated, SYCK"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "cris-tales"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ef361cdf19514595a8cb0945fb66962e/offer/EGS_AgorgeousindielovelettertoclassicJRPGs_DreamsUncorporatedSYCK_S1-2560x1440-8c27d8ecb673f1438c6a4b0da48ff880.jpg",
+      "md5": "8c27d8ecb673f1438c6a4b0da48ff880",
+      "size": 1024603,
+      "uploadedDate": "2021-01-28T17:54:16.355Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ef361cdf19514595a8cb0945fb66962e/offer/EGS_AgorgeousindielovelettertoclassicJRPGs_DreamsUncorporatedSYCK_S2-1200x1600-1cb9e1f4514ece8e580803edccc2e99e.jpg",
+      "md5": "1cb9e1f4514ece8e580803edccc2e99e",
+      "size": 858787,
+      "uploadedDate": "2021-01-28T17:54:57.022Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ef361cdf19514595a8cb0945fb66962e/offer/EGS_AgorgeousindielovelettertoclassicJRPGs_DreamsUncorporatedSYCK_S2-1200x1600-1cb9e1f4514ece8e580803edccc2e99e.jpg",
+      "md5": "1cb9e1f4514ece8e580803edccc2e99e",
+      "size": 858787,
+      "uploadedDate": "2021-01-28T17:55:06.875Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ef361cdf19514595a8cb0945fb66962e/offer/EGS_AgorgeousindielovelettertoclassicJRPGs_DreamsUncorporatedSYCK_S2-1200x1600-1cb9e1f4514ece8e580803edccc2e99e.jpg",
+      "md5": "1cb9e1f4514ece8e580803edccc2e99e",
+      "size": 858787,
+      "uploadedDate": "2021-01-28T17:55:15.027Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/ef361cdf19514595a8cb0945fb66962e/offer/EGS_AgorgeousindielovelettertoclassicJRPGs_DreamsUncorporatedSYCK_S1-2560x1440-8c27d8ecb673f1438c6a4b0da48ff880.jpg",
+      "md5": "8c27d8ecb673f1438c6a4b0da48ff880",
+      "size": 1024603,
+      "uploadedDate": "2021-01-28T17:55:38.169Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/ef361cdf19514595a8cb0945fb66962e/offer/EGS_AgorgeousindielovelettertoclassicJRPGs_DreamsUncorporatedSYCK_S2-1200x1600-1cb9e1f4514ece8e580803edccc2e99e.jpg",
+      "md5": "1cb9e1f4514ece8e580803edccc2e99e",
+      "size": 858787,
+      "uploadedDate": "2021-01-28T17:55:45.556Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "5be9275cf4f4443b895b5cb9ca96d701"
+    }
+  ],
+  "catalogNs": null
+}
