@@ -8,9 +8,9 @@
   "productSlug": "football-manager-2020/in-game-editor",
   "urlSlug": "football-manager-2020-editor",
   "creationDate": "2020-09-03T19:31:57.537Z",
-  "lastModifiedDate": "2021-01-11T17:33:29.115Z",
-  "effectiveDate": "2099-09-17T15:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2021-02-02T01:55:31.328Z",
+  "effectiveDate": "2020-09-17T20:40:00.000Z",
+  "viewableDate": "2020-09-17T20:40:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
@@ -25,10 +25,7 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "addons"
-    },
-    {
-      "path": "addons/durable"
+      "path": "games"
     },
     {
       "path": "applications"

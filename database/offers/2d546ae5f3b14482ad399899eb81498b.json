@@ -2,13 +2,13 @@
   "id": "2d546ae5f3b14482ad399899eb81498b",
   "namespace": "493e9ad801e8487497fe7840cb8404bb",
   "title": "Farming Simulator 19 - GRIMME Equipment Pack",
-  "description": "Farming Simulator 19 - GRIMME Equipment Pack",
-  "longDescription": null,
+  "description": "Expand your gaming experience with this new expansion for Farming Simulator 19, created by the winners of the Farming Simulator Mod Contest Special Award! The DLC contains 13 new tools from GRIMME and 1 Lizard bonus tool.",
+  "longDescription": "Expand your gaming experience with this new expansion for Farming Simulator 19, created by the winners of the Farming Simulator Mod Contest Special Award!\n\nThe DLC contains 13 new tools from GRIMME and one additional Lizard tool:\n• GRIMME GH 2 - Weeder\n• GRIMME GH 4 - Weeder\n• GRIMME GH 8 - Weeder\n• GRIMME GL 32 E - Potato Planter\n• GRIMME GL 32 F - Potato Planter\n• GRIMME WH 200 Eco - Potato Harvester\n• GRIMME WH 200 S - Potato Harvester\n• GRIMME WR 200 CDW - Potato Harvester\n• GRIMME SE 85-55 - Potato Harvester\n• GRIMME GBF- Transport Belt\n• GRIMME PS 511 - Transport Belt\n• GRIMME MultiTrailer 190 - Trailer\n• GRIMME MultiTrailer 350 - Trailer\n• Lizard Conveyor Belt - Receiving Hopper\n\nOnce downloaded, the additional content will be available through the in-game shop. Be sure to have sufficient in-game currency to buy them!\n\nThis DLC is included in the Season Pass.",
   "status": "ACTIVE",
   "productSlug": "farming-simulator-19/grimme-equipment-pack",
   "urlSlug": "farming-simulator-19--grimme-equipment-pack",
   "creationDate": "2021-01-13T19:54:55.767Z",
-  "lastModifiedDate": "2021-01-26T14:06:25.663Z",
+  "lastModifiedDate": "2021-02-02T16:43:43.966Z",
   "effectiveDate": "2021-01-26T14:00:00.000Z",
   "viewableDate": "2021-01-26T14:00:00.000Z",
   "developer": null,
@@ -26,9 +26,6 @@
   "categories": [
     {
       "path": "addons"
-    },
-    {
-      "path": "addons/durable"
     },
     {
       "path": "applications"
