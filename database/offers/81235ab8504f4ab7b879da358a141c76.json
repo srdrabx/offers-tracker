@@ -1,0 +1,96 @@
+{
+  "id": "81235ab8504f4ab7b879da358a141c76",
+  "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+  "title": "Rogue Company: Year 1 Pass",
+  "description": "Gear up for Year 1 of Rogue Company with the Year 1 Pass. Unlock Kestrel immediately and 7 more upcoming Year 1 Rogues throughout Rogue Company Year 1.",
+  "longDescription": "Includes:\n- Year 1 Pass: Kestrel + 7 Upcoming Year 1 Rogues\n- 500 Rogue Bucks\n- North Star Phantom Legendary Outfit\n- Iced Out Primary Weapon Wrap\n- Iced Out Secondary Weapon Wrap\n- Iced Out Melee Wrap\n- Jackal Avatar\n- Jackal Banner\n- Jackal Border",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "rogue-company--year-one-pass",
+  "creationDate": "2021-01-11T20:48:21.383Z",
+  "lastModifiedDate": "2021-02-03T05:50:36.636Z",
+  "effectiveDate": "2021-02-03T12:00:00.000Z",
+  "viewableDate": "2021-02-03T12:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+    "name": "Hi-Rez Studios"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Hi-Rez Studios"
+    },
+    {
+      "key": "developerName",
+      "value": "First Watch Games"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo-EGS-Year1DLC-LandscapeOfferImage-2560x1440-2560x1440-c895feec7de03c5172346a95515a324b.jpg",
+      "md5": "c895feec7de03c5172346a95515a324b",
+      "size": 381207,
+      "uploadedDate": "2021-02-01T21:20:20.168Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo-EGS-Year1DLC-Portrait_Offer_1200x1600-1200x1600-2d7c98050fcb25474e0bbd006fd47aab.jpg",
+      "md5": "2d7c98050fcb25474e0bbd006fd47aab",
+      "size": 222391,
+      "uploadedDate": "2021-02-01T21:20:29.159Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo-EGS-Year1DLC-Portrait_Offer_1200x1600-1200x1600-2d7c98050fcb25474e0bbd006fd47aab.jpg",
+      "md5": "2d7c98050fcb25474e0bbd006fd47aab",
+      "size": 222391,
+      "uploadedDate": "2021-02-01T21:21:30.218Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo-EGS-Year1DLC-Portrait_Offer_1200x1600-1200x1600-2d7c98050fcb25474e0bbd006fd47aab.jpg",
+      "md5": "2d7c98050fcb25474e0bbd006fd47aab",
+      "size": 222391,
+      "uploadedDate": "2021-02-01T21:21:34.051Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "104af0e3e44f439a8fa03146f1c9c9c1"
+    },
+    {
+      "id": "608e19d90bd8487eae723bdea81bb8a4"
+    }
+  ],
+  "catalogNs": null
+}

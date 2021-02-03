@@ -1,0 +1,96 @@
+{
+  "id": "32d8d913159542b0ad014c1f3c96c933",
+  "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+  "title": "Rogue Company: Ultimate Edition",
+  "description": "Save the Day, Look Good, and Get Paid with the Ultimate Edition of Rogue Company.  Includes:  500 Rogue Bucks, Year 1 Pass, Rogue Edition",
+  "longDescription": "Save the Day, Look Good, and Get Paid with the Ultimate Edition of Rogue Company.\n\nIncludes:\n- 500 Rogue Bucks\n- Year 1 Pass\n- Rogue Edition",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "rogue-company--ultimate-edition",
+  "creationDate": "2021-01-11T20:52:32.106Z",
+  "lastModifiedDate": "2021-02-03T05:52:15.042Z",
+  "effectiveDate": "2021-02-03T12:00:00.000Z",
+  "viewableDate": "2021-02-03T12:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+    "name": "Hi-Rez Studios"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Hi-Rez Studios"
+    },
+    {
+      "key": "developerName",
+      "value": "First Watch Games"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo-EGS-UltimateEdition2021-LandscapeOfferIMG-2560x1440-2560x1440-1e2a5bcb1bd9f735c5efe1a1091e9af7.jpg",
+      "md5": "1e2a5bcb1bd9f735c5efe1a1091e9af7",
+      "size": 623810,
+      "uploadedDate": "2021-02-01T21:59:41.676Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo-EGS-UltimateEdition2021-PortraitOfferIMG-1200x1600-1200x1600-22592b3bb5e615f79a9995c9e9707471.jpg",
+      "md5": "22592b3bb5e615f79a9995c9e9707471",
+      "size": 381109,
+      "uploadedDate": "2021-02-01T21:59:46.307Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo-EGS-UltimateEdition2021-PortraitOfferIMG-1200x1600-1200x1600-22592b3bb5e615f79a9995c9e9707471.jpg",
+      "md5": "22592b3bb5e615f79a9995c9e9707471",
+      "size": 381109,
+      "uploadedDate": "2021-02-01T21:59:57.869Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo-EGS-UltimateEdition2021-PortraitOfferIMG-1200x1600-1200x1600-22592b3bb5e615f79a9995c9e9707471.jpg",
+      "md5": "22592b3bb5e615f79a9995c9e9707471",
+      "size": 381109,
+      "uploadedDate": "2021-02-01T22:00:01.948Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "0fee2e6c405b48f6aaff045bf451604e"
+    },
+    {
+      "id": "0c81def222b64660b7cd44bf97a83e00"
+    }
+  ],
+  "catalogNs": null
+}

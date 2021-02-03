@@ -1,15 +1,15 @@
 {
   "id": "d24f57bdebff41a4968c8a8746654819",
   "namespace": "dfd2530e80e4425d801913b0879be444",
-  "title": "DLC00031",
-  "description": "DLC00031",
-  "longDescription": null,
+  "title": "Classic Sports Headgear Bundle",
+  "description": "Take those zombies out to the MAUL game with this headgear! With these sporty artifacts on your head, that team spirit is sure to come out.",
+  "longDescription": "Take those zombies out to the MAUL game with this headgear! With these sporty artifacts on your head, that team spirit is sure to come out.\n\nThis Bundle contains 4 pieces of Classic Sports Headgear, usable by all characters.",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "zombie-army-4-dead-war--dlc",
+  "urlSlug": "zombie-army-4-dead-war--classic-sports-headgear-bundle",
   "creationDate": "2021-01-19T23:12:40.742Z",
-  "lastModifiedDate": "2021-01-19T23:20:58.530Z",
-  "effectiveDate": "2021-02-09T17:47:00.000Z",
+  "lastModifiedDate": "2021-02-02T19:12:52.510Z",
+  "effectiveDate": "2021-02-11T14:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -43,7 +43,62 @@
       "value": "Rebellion"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_ClassicSports_Headgear_CAROUSEL_06-1920x1080-8fddae163a6f321d6f8146f322b6b70c.jpg",
+      "md5": "8fddae163a6f321d6f8146f322b6b70c",
+      "size": 1183644,
+      "uploadedDate": "2021-02-02T18:22:07.474Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_ClassicSports_Headgear_REDEMPTIONIMAGE-860x1180-1122a1cada9182735d72cd806939910b.jpg",
+      "md5": "1122a1cada9182735d72cd806939910b",
+      "size": 451195,
+      "uploadedDate": "2021-02-02T18:22:12.733Z",
+      "width": 860,
+      "height": 1180
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_ClassicSports_Headgear_REDEMPTIONIMAGE-860x1180-1122a1cada9182735d72cd806939910b.jpg",
+      "md5": "1122a1cada9182735d72cd806939910b",
+      "size": 451195,
+      "uploadedDate": "2021-02-02T18:22:21.806Z",
+      "width": 860,
+      "height": 1180
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_ClassicSports_Headgear_REDEMPTIONIMAGE-860x1180-1122a1cada9182735d72cd806939910b.jpg",
+      "md5": "1122a1cada9182735d72cd806939910b",
+      "size": 451195,
+      "uploadedDate": "2021-02-02T18:22:36.753Z",
+      "width": 860,
+      "height": 1180
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_ClassicSports_Headgear_CAROUSEL_06-1920x1080-8fddae163a6f321d6f8146f322b6b70c.jpg",
+      "md5": "8fddae163a6f321d6f8146f322b6b70c",
+      "size": 1183644,
+      "uploadedDate": "2021-02-02T18:22:44.541Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_ClassicSports_Headgear_REDEMPTIONIMAGE-860x1180-1122a1cada9182735d72cd806939910b.jpg",
+      "md5": "1122a1cada9182735d72cd806939910b",
+      "size": 451195,
+      "uploadedDate": "2021-02-02T18:22:50.553Z",
+      "width": 860,
+      "height": 1180
+    }
+  ],
   "items": [
     {
       "id": "c27d74d04b62484993978451914e1d42"

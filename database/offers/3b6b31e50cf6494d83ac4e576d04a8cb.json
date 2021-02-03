@@ -1,0 +1,52 @@
+{
+  "id": "3b6b31e50cf6494d83ac4e576d04a8cb",
+  "namespace": "7e508f543b05465abe3a935960eb70ac",
+  "title": "DLC 003",
+  "description": "DLC 003",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "banedlc003",
+  "creationDate": "2021-02-02T23:19:24.530Z",
+  "lastModifiedDate": "2021-02-02T23:21:47.767Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+    "name": "Codename Entertainment"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "4cf73c36f76246fba8dd0c12f3270032"
+    }
+  ],
+  "catalogNs": null
+}

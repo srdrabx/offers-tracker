@@ -8,7 +8,7 @@
   "productSlug": "paladins",
   "urlSlug": "antbirdgeneralaudience",
   "creationDate": "2019-10-18T01:57:09.917Z",
-  "lastModifiedDate": "2021-01-06T14:59:26.582Z",
+  "lastModifiedDate": "2021-02-03T11:58:02.717Z",
   "effectiveDate": "2020-03-24T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -37,68 +37,7 @@
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "1203",
-      "name": "MULTIPLAYER",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2020-12-15T01:44:09.654Z",
-      "status": "ACTIVE",
-      "referenceCount": 46,
-      "comment": null
-    },
-    {
-      "id": "1299",
-      "name": "COMPETITIVE",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:47.106Z",
-      "updated": "2020-12-15T01:44:44.025Z",
-      "status": "ACTIVE",
-      "referenceCount": 4,
-      "comment": null
-    },
-    {
-      "id": "1210",
-      "name": "SHOOTER",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:02.690Z",
-      "updated": "2020-12-15T01:47:09.800Z",
-      "status": "ACTIVE",
-      "referenceCount": 28,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "WINDOWS",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-12-15T01:43:02.751Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "1279",
-      "name": "VAMPIRE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:37.207Z",
-      "updated": "2020-09-16T19:19:59.211Z",
-      "status": "ACTIVE",
-      "referenceCount": 3,
-      "comment": null
-    }
-  ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -120,55 +59,55 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Epic-Paladins-Angels-BP-LandscapeIMG-2560x1440-2560x1440-3a1d95e9c2bb516698d16721b7d5b449.jpg",
-      "md5": "3a1d95e9c2bb516698d16721b7d5b449",
-      "size": 477061,
-      "uploadedDate": "2021-01-06T01:02:56.310Z",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Epic-Paladins-21.2-Yagorath-LandscapeIMG-2560x1440-2560x1440-183096a4e7be2cf5335903d3e250d0f6.jpg",
+      "md5": "183096a4e7be2cf5335903d3e250d0f6",
+      "size": 492772,
+      "uploadedDate": "2021-02-03T03:04:06.819Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Epic-Paladins-Angels-BP-PortraitIMG-860x1148-860x1148-157384b3b66e5fd005854137ed7c0e1c.jpg",
-      "md5": "157384b3b66e5fd005854137ed7c0e1c",
-      "size": 232382,
-      "uploadedDate": "2021-01-06T01:03:04.274Z",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Epic-Paladins-21.2-Yagorath-PortraitIMG-860x1148-860x1148-6e36428b2382b6365107c163fe60c198.jpg",
+      "md5": "6e36428b2382b6365107c163fe60c198",
+      "size": 355714,
+      "uploadedDate": "2021-02-03T03:04:13.072Z",
       "width": 860,
       "height": 1148
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Epic-Paladins-Angels-BP-PortraitIMG-860x1148-860x1148-157384b3b66e5fd005854137ed7c0e1c.jpg",
-      "md5": "157384b3b66e5fd005854137ed7c0e1c",
-      "size": 232382,
-      "uploadedDate": "2021-01-06T01:03:14.913Z",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Epic-Paladins-21.2-Yagorath-PortraitIMG-860x1148-860x1148-6e36428b2382b6365107c163fe60c198.jpg",
+      "md5": "6e36428b2382b6365107c163fe60c198",
+      "size": 355714,
+      "uploadedDate": "2021-02-03T03:04:37.808Z",
       "width": 860,
       "height": 1148
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Epic-Paladins-Angels-BP-PortraitIMG-860x1148-860x1148-157384b3b66e5fd005854137ed7c0e1c.jpg",
-      "md5": "157384b3b66e5fd005854137ed7c0e1c",
-      "size": 232382,
-      "uploadedDate": "2021-01-06T01:03:21.027Z",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Epic-Paladins-21.2-Yagorath-PortraitIMG-860x1148-860x1148-6e36428b2382b6365107c163fe60c198.jpg",
+      "md5": "6e36428b2382b6365107c163fe60c198",
+      "size": 355714,
+      "uploadedDate": "2021-02-03T03:04:45.064Z",
       "width": 860,
       "height": 1148
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Epic-Paladins-Angels-BP-LandscapeIMG-2560x1440-2560x1440-3a1d95e9c2bb516698d16721b7d5b449.jpg",
-      "md5": "3a1d95e9c2bb516698d16721b7d5b449",
-      "size": 477061,
-      "uploadedDate": "2021-01-06T01:03:48.471Z",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Epic-Paladins-21.2-Yagorath-LandscapeIMG-2560x1440-2560x1440-183096a4e7be2cf5335903d3e250d0f6.jpg",
+      "md5": "183096a4e7be2cf5335903d3e250d0f6",
+      "size": 492772,
+      "uploadedDate": "2021-02-03T03:04:56.305Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Epic-Paladins-Angels-BP-PortraitIMG-860x1148-860x1148-157384b3b66e5fd005854137ed7c0e1c.jpg",
-      "md5": "157384b3b66e5fd005854137ed7c0e1c",
-      "size": 232382,
-      "uploadedDate": "2021-01-06T01:03:56.842Z",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Epic-Paladins-21.2-Yagorath-PortraitIMG-860x1148-860x1148-6e36428b2382b6365107c163fe60c198.jpg",
+      "md5": "6e36428b2382b6365107c163fe60c198",
+      "size": 355714,
+      "uploadedDate": "2021-02-03T03:05:03.977Z",
       "width": 860,
       "height": 1148
     }

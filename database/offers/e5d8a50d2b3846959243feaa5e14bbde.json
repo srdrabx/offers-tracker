@@ -1,0 +1,118 @@
+{
+  "id": "e5d8a50d2b3846959243feaa5e14bbde",
+  "namespace": "badb0ee71b474ed591ec43212547cfc8",
+  "title": "Paladins Starter Edition",
+  "description": "Experience the best way to play Paladins! Start building your Champion roster in Paladins! Dive into Paladins with a huge selection of Champions!",
+  "longDescription": "The Paladins Starter Edition includes 8 fan-favorite Champions at one low price! The Paladins Starter Edition instantly unlocks 2 Champions from each role for a total of 8 Champions!\n\n2 Damage Champions: Lian and Tyra\n2 Support Champions: Grover and Pip\n2 Flank Champions: Koga and Skye\n2 Frontline Champions: Barik and Fernando",
+  "status": "ACTIVE",
+  "productSlug": "paladins/starter-edition",
+  "urlSlug": "paladins--starter-edition",
+  "creationDate": "2021-01-12T00:39:39.111Z",
+  "lastModifiedDate": "2021-02-03T03:13:33.683Z",
+  "effectiveDate": "2021-02-03T12:00:00.000Z",
+  "viewableDate": "2021-02-03T12:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+    "name": "Hi-Rez Studios"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Hi-Rez Studios"
+    },
+    {
+      "key": "developerName",
+      "value": "Evil Mojo Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "paladins/starter-edition"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/6a619cc8-a67a-4171-8b4d-08d15f1cf9b7-2560x1440-0d5dff87c31681a5e27f85c62e4ce9cb.jpg",
+      "md5": "0d5dff87c31681a5e27f85c62e4ce9cb",
+      "size": 635504,
+      "uploadedDate": "2021-01-29T01:36:59.314Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/0e5be77a-7b3c-4b29-987a-3401283f617b-1200x1600-6d781a6df726eecb34df225c2b9cd8d8.jpg",
+      "md5": "6d781a6df726eecb34df225c2b9cd8d8",
+      "size": 432460,
+      "uploadedDate": "2021-01-29T01:37:06.282Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/0e5be77a-7b3c-4b29-987a-3401283f617b-1200x1600-6d781a6df726eecb34df225c2b9cd8d8.jpg",
+      "md5": "6d781a6df726eecb34df225c2b9cd8d8",
+      "size": 432460,
+      "uploadedDate": "2021-01-29T01:37:15.999Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/0e5be77a-7b3c-4b29-987a-3401283f617b-1200x1600-6d781a6df726eecb34df225c2b9cd8d8.jpg",
+      "md5": "6d781a6df726eecb34df225c2b9cd8d8",
+      "size": 432460,
+      "uploadedDate": "2021-01-29T01:37:26.399Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/6a619cc8-a67a-4171-8b4d-08d15f1cf9b7-2560x1440-0d5dff87c31681a5e27f85c62e4ce9cb.jpg",
+      "md5": "0d5dff87c31681a5e27f85c62e4ce9cb",
+      "size": 635504,
+      "uploadedDate": "2021-01-29T01:37:44.550Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/0e5be77a-7b3c-4b29-987a-3401283f617b-1200x1600-6d781a6df726eecb34df225c2b9cd8d8.jpg",
+      "md5": "6d781a6df726eecb34df225c2b9cd8d8",
+      "size": 432460,
+      "uploadedDate": "2021-01-29T01:37:54.781Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "495fc30119a44ecf849da91f2eac91ed"
+    }
+  ],
+  "catalogNs": null
+}

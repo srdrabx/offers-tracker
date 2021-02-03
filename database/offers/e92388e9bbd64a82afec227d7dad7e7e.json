@@ -1,15 +1,15 @@
 {
   "id": "e92388e9bbd64a82afec227d7dad7e7e",
   "namespace": "dfd2530e80e4425d801913b0879be444",
-  "title": "DLC00054",
-  "description": "DLC00054",
-  "longDescription": null,
+  "title": "Armoured Giant Weapon Skins",
+  "description": "These weapons look downright monstrous! Buy now and apply a bloodied bone look to your guns with these weapon skins.",
+  "longDescription": "These weapons look downright monstrous! Buy now and apply a bloodied bone look to your guns with these weapon skins*.\n\n*Skins apply to all weapons included in the base game, and are not compatible with DLC weapons.",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "zombie-army-4-dead-war--dlc",
+  "urlSlug": "zombie-army-4-dead-war--armoured-giant-weapon-skins",
   "creationDate": "2021-01-19T23:15:53.656Z",
-  "lastModifiedDate": "2021-01-19T23:20:58.543Z",
-  "effectiveDate": "2021-02-09T17:47:00.000Z",
+  "lastModifiedDate": "2021-02-02T19:12:52.534Z",
+  "effectiveDate": "2021-02-11T14:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -43,7 +43,62 @@
       "value": "Rebellion"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_ArmouredGiantWeaponSkins_C5_1920x1080-1920x1080-ede3b230661d6c11311b800e2a19ffc2.jpg",
+      "md5": "ede3b230661d6c11311b800e2a19ffc2",
+      "size": 941228,
+      "uploadedDate": "2021-02-02T18:29:46.044Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EN_Rebellion_ZombieArmy4_BombLanceShotgunBundle__S2_1200x1600-1200x1600-92b88ba0d41701cf5be2dfb899c20cc5.jpg",
+      "md5": "92b88ba0d41701cf5be2dfb899c20cc5",
+      "size": 506397,
+      "uploadedDate": "2021-02-02T18:29:51.495Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EN_Rebellion_ZombieArmy4_BombLanceShotgunBundle__S2_1200x1600-1200x1600-92b88ba0d41701cf5be2dfb899c20cc5.jpg",
+      "md5": "92b88ba0d41701cf5be2dfb899c20cc5",
+      "size": 506397,
+      "uploadedDate": "2021-02-02T18:29:59.244Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EN_Rebellion_ZombieArmy4_BombLanceShotgunBundle__S2_1200x1600-1200x1600-92b88ba0d41701cf5be2dfb899c20cc5.jpg",
+      "md5": "92b88ba0d41701cf5be2dfb899c20cc5",
+      "size": 506397,
+      "uploadedDate": "2021-02-02T18:30:19.393Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_ArmouredGiantWeaponSkins_C5_1920x1080-1920x1080-ede3b230661d6c11311b800e2a19ffc2.jpg",
+      "md5": "ede3b230661d6c11311b800e2a19ffc2",
+      "size": 941228,
+      "uploadedDate": "2021-02-02T18:30:40.180Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EN_Rebellion_ZombieArmy4_BombLanceShotgunBundle__S2_1200x1600-1200x1600-92b88ba0d41701cf5be2dfb899c20cc5.jpg",
+      "md5": "92b88ba0d41701cf5be2dfb899c20cc5",
+      "size": 506397,
+      "uploadedDate": "2021-02-02T18:30:58.640Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "a5f8e2b6a0264369bb8fbd17d9f30f8e"

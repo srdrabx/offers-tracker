@@ -3540,6 +3540,20 @@
     ""
   ],
   [
+    "11b13d59de994d1494730c007eff65db",
+    "7e508f543b05465abe3a935960eb70ac",
+    "DLC 099",
+    [
+      "games",
+      "applications"
+    ],
+    "Codename Entertainment",
+    1612304229,
+    1612304229,
+    "",
+    ""
+  ],
+  [
     "11b1aad3c22d4fe58c361b8c913477d6",
     "wex",
     "Battle Breaker Collection",
@@ -3823,7 +3837,7 @@
     ],
     "The Game Bakers",
     1605808365,
-    1611842852,
+    1612299939,
     "https://cdn1.epicgames.com/2d831f372e6343cc85cceda5c9c808cf/offer/EGS_Haven_TheGameBakers_S2-1200x1600-35fea9e06d5585f67a0be2974701d573.jpg",
     "haven"
   ],
@@ -5124,6 +5138,20 @@
     ""
   ],
   [
+    "190237b4494844c9ac81492287506674",
+    "7e508f543b05465abe3a935960eb70ac",
+    "DLC 006",
+    [
+      "games",
+      "applications"
+    ],
+    "Codename Entertainment",
+    1612308227,
+    1612308227,
+    "",
+    ""
+  ],
+  [
     "1911ccf15b3d4508a6e195b31eee1372",
     "e1055bf1e5654b93a27e19e6bb86cb2a",
     "Tropico 6",
@@ -5714,6 +5742,20 @@
     1558139484,
     1605290449,
     "https://cdn1.epicgames.com/cosmos/offer/RuneII_WarriorPack-355x150-2ce56ef2874d2501e858d3bef96b1217.png",
+    ""
+  ],
+  [
+    "1c7a2d08600b4ff187e85886839d0b43",
+    "7e508f543b05465abe3a935960eb70ac",
+    "DLC 008",
+    [
+      "games",
+      "applications"
+    ],
+    "Codename Entertainment",
+    1612308938,
+    1612308938,
+    "",
     ""
   ],
   [
@@ -8613,6 +8655,22 @@
     "assassins-creed-syndicate/season-pass"
   ],
   [
+    "2b31680489584d2fa80a24e5f81d95a3",
+    "dda64c2956b54f1ba3cd97f6aaee775f",
+    "Total War: WARHAMMER III",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "SEGA of Europe",
+    1611177634,
+    1612365732,
+    "https://cdn1.epicgames.com/dda64c2956b54f1ba3cd97f6aaee775f/offer/EGS_TotalWarWARHAMMERIII_CreativeAssembly_S6-1200x1600-bf935f14317eaf51f4906079a2888ced.jpg",
+    "total-war-warhammer-3"
+  ],
+  [
     "2b6df25d595546f58275daf655932704",
     "epic",
     "Ashen",
@@ -9038,11 +9096,12 @@
     "Farming Simulator 19 - GRIMME Equipment Pack",
     [
       "addons",
+      "addons/durable",
       "applications"
     ],
     "Focus Home",
     1610567695,
-    1612284223,
+    1612291507,
     "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/offer/EGS_GRIMMEEquipmentPack_GiantsSoftwareGmbH_DLC_S2-1200x1600-08308020d100a67cfcfb8a90082494fd.jpg",
     "farming-simulator-19/grimme-equipment-pack"
   ],
@@ -10243,6 +10302,20 @@
     ""
   ],
   [
+    "32d8d913159542b0ad014c1f3c96c933",
+    "933ada2ec45e4184ae840d64c99e0ba9",
+    "Rogue Company: Ultimate Edition",
+    [
+      "addons",
+      "addons/durable"
+    ],
+    "Hi-Rez Studios",
+    1610398352,
+    1612331535,
+    "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo-EGS-UltimateEdition2021-PortraitOfferIMG-1200x1600-1200x1600-22592b3bb5e615f79a9995c9e9707471.jpg",
+    ""
+  ],
+  [
     "32e2f79db2ce4c04a69c91b5c74b320f",
     "epic",
     "SMITE",
@@ -10962,8 +11035,8 @@
     ],
     "Hi-Rez Studios",
     1565990547,
-    1607098826,
-    "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo_EGS_BaseGame_PortraitProduct_1200x1600-1200x1600-886450991cadd15b0e5e08b80f671556.jpg",
+    1612353621,
+    "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo-EGS-Kestrel-Boxart-PortraitProductImage-1200x1600-1200x1600-f9df422de636cc3a1a8de10ace9f1a1c.jpg",
     "rogue-company/home"
   ],
   [
@@ -11678,7 +11751,7 @@
     ],
     "Electronic Arts",
     1571351464,
-    1610036773,
+    1612288865,
     "",
     ""
   ],
@@ -12047,6 +12120,21 @@
     ""
   ],
   [
+    "3b56eaffeb224956a76504b2ea20a443",
+    "badb0ee71b474ed591ec43212547cfc8",
+    "Paladins Gold Edition",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Hi-Rez Studios",
+    1610412115,
+    1612322013,
+    "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/3f8ec12e-c0d0-4b89-96b2-266a319a0cfb-1200x1600-20b65f0087e9f3e6fec96ec28dc7a56c.jpg",
+    "paladins/gold-edition"
+  ],
+  [
     "3b58972f27fa4f9ab3c2fa936588fa93",
     "3542a1df211e492bb2abecb7c734f7f9",
     "Specialist Pack DLC",
@@ -12058,6 +12146,20 @@
     1574376575,
     1602179451,
     "https://cdn1.epicgames.com/3542a1df211e492bb2abecb7c734f7f9/offer/rs2v_tall-860x1440-14ca9c8b6a4f9d3c717129356375954e.jpg",
+    ""
+  ],
+  [
+    "3b6b31e50cf6494d83ac4e576d04a8cb",
+    "7e508f543b05465abe3a935960eb70ac",
+    "DLC 003",
+    [
+      "games",
+      "applications"
+    ],
+    "Codename Entertainment",
+    1612307964,
+    1612308107,
+    "",
     ""
   ],
   [
@@ -12835,6 +12937,20 @@
     1588672800,
     "https://cdn1.epicgames.com/wombat/offer/world-war-z_promo-1920x1080-db15a2a2755fc0fbec95bb199d340ea9.jpg",
     "wwzgeneralaudience"
+  ],
+  [
+    "3f482775b0a941638f76efd6e4a47165",
+    "7e508f543b05465abe3a935960eb70ac",
+    "DLC 026",
+    [
+      "games",
+      "applications"
+    ],
+    "Codename Entertainment",
+    1612303964,
+    1612304306,
+    "",
+    ""
   ],
   [
     "3f4df5a576a44161844967c925ce5979",
@@ -15555,6 +15671,20 @@
     "assassins-creed-1"
   ],
   [
+    "4c9cdc81f1474ccd84f6c6b16a8b72bd",
+    "7e508f543b05465abe3a935960eb70ac",
+    "DLC 028",
+    [
+      "games",
+      "applications"
+    ],
+    "Codename Entertainment",
+    1612303586,
+    1612304296,
+    "",
+    ""
+  ],
+  [
     "4cc3cba56f5b459caaa4d5a5fefcd80b",
     "f6dcd5bf17c0469789292d1166bf91a1",
     "WoodpeckerDevAudience",
@@ -15909,7 +16039,7 @@
     ],
     "Electronic Arts",
     1571353709,
-    1610036785,
+    1612288874,
     "https://cdn1.epicgames.com/e509c16d53714b13ba8e393966507255/offer/SWJFODE_ADHOC_510X680-510x680-f2abf31f8cac8ec134fa84f21cf935aa.jpg",
     "star-wars-jedi-fallen-order/deluxe-edition"
   ],
@@ -17030,6 +17160,20 @@
     "Epic Dev Test Account",
     1566944291,
     1568902454,
+    "",
+    ""
+  ],
+  [
+    "53dad846f0a0494c8d75bad8d62da6cc",
+    "7e508f543b05465abe3a935960eb70ac",
+    "DLC 004",
+    [
+      "games",
+      "applications"
+    ],
+    "Codename Entertainment",
+    1612308059,
+    1612308082,
     "",
     ""
   ],
@@ -18946,7 +19090,7 @@
     ],
     "Electronic Arts",
     1605884118,
-    1611769602,
+    1612288908,
     "https://cdn1.epicgames.com/d52ebad606f44f6486d9a10f6303a930/offer/EGS_EASTARWARSTRIPLEBUNDLE_DICERespawnMotive_S2-1200x1600-4fb196575d1214b09586566cf6bb450a.jpg",
     "ea-star-wars-triple-bundle"
   ],
@@ -19424,8 +19568,8 @@
     ],
     "Hi-Rez Studios",
     1571363829,
-    1609945166,
-    "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Epic-Paladins-Angels-BP-PortraitIMG-860x1148-860x1148-157384b3b66e5fd005854137ed7c0e1c.jpg",
+    1612353482,
+    "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Epic-Paladins-21.2-Yagorath-PortraitIMG-860x1148-860x1148-6e36428b2382b6365107c163fe60c198.jpg",
     "paladins"
   ],
   [
@@ -19947,14 +20091,14 @@
   [
     "62678d2ffba64beba54775abbb5a8c4a",
     "dfd2530e80e4425d801913b0879be444",
-    "DLC00053",
+    "Grease Gun SMG Bundle",
     [
       "applications"
     ],
     "Rebellion",
     1611098108,
-    1611098458,
-    "",
+    1612293172,
+    "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EN_Rebellion_ZombieArmy4_GreaseGunSMGBundle__S2_1200x1600-1200x1600-7e1602310ccfb1843cf592cc722bec61.jpg",
     ""
   ],
   [
@@ -21741,6 +21885,22 @@
     1596241188,
     "https://cdn1.epicgames.com/ace4435645d9489cacfbb422b7c1c817/offer/EGS_SEASONPASS2_SNKCORPORATION_SeasonPass_S2-1200x1600-f8b6c66b2018200793114a72c06ccff6.jpg",
     "samurai-shodown-reboot/season-pass-2"
+  ],
+  [
+    "6b6c8b5b4a334dbb86f62ca6c2ee786f",
+    "badb0ee71b474ed591ec43212547cfc8",
+    "Obsidian Pack",
+    [
+      "addons",
+      "games",
+      "addons/durable",
+      "applications"
+    ],
+    "Hi-Rez Studios",
+    1581973897,
+    1612322013,
+    "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Paladins-EPS-ObsidianPack-2560x1440-2560x1440-d8b5cd2a164bfa46adc9e9c5fd3dab6d.jpg",
+    "paladins/obsidian-pack"
   ],
   [
     "6b6e7b3035c94e13852578a1c9c21134",
@@ -24004,6 +24164,20 @@
     ""
   ],
   [
+    "77003f7868f547778320e66291cfd096",
+    "7e508f543b05465abe3a935960eb70ac",
+    "DLC 002",
+    [
+      "games",
+      "applications"
+    ],
+    "Codename Entertainment",
+    1612304808,
+    1612308127,
+    "",
+    ""
+  ],
+  [
     "770fe381b6b74a4f98d48c4cf29450ab",
     "jackal",
     "Dauntless - Platinum + Oculus Umbra Booster Bundle",
@@ -24300,14 +24474,14 @@
   [
     "789d25705ba2403cbe3043af2e312749",
     "dfd2530e80e4425d801913b0879be444",
-    "DLC00049",
+    "M1903 Springfield Rifle Bundle",
     [
       "applications"
     ],
     "Rebellion",
     1611098271,
-    1611098458,
-    "",
+    1612293172,
+    "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_Rebellion_ZombieArmy4_S2_1200x1600-1200x1598-892a9209d778ad61f72560f9ba8d7ab4.jpg",
     ""
   ],
   [
@@ -25905,6 +26079,20 @@
     ""
   ],
   [
+    "81235ab8504f4ab7b879da358a141c76",
+    "933ada2ec45e4184ae840d64c99e0ba9",
+    "Rogue Company: Year 1 Pass",
+    [
+      "addons",
+      "addons/durable"
+    ],
+    "Hi-Rez Studios",
+    1610398101,
+    1612331436,
+    "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo-EGS-Year1DLC-Portrait_Offer_1200x1600-1200x1600-2d7c98050fcb25474e0bbd006fd47aab.jpg",
+    ""
+  ],
+  [
     "812b3f9ae5064e7fa040132fd60ceddb",
     "epic",
     "Kine",
@@ -27009,7 +27197,7 @@
     ],
     "Electronic Arts",
     1569531795,
-    1610036773,
+    1612288865,
     "https://cdn1.epicgames.com/e509c16d53714b13ba8e393966507255/offer/SWJFO_ADHOC_510X680-510x680-04ec2ab0afa8b571f51c34577bf1ec09.jpg",
     "star-wars-jedi-fallen-order/home"
   ],
@@ -28312,6 +28500,21 @@
     ""
   ],
   [
+    "8ed11ba69f7047868b5fde61d031c31d",
+    "badb0ee71b474ed591ec43212547cfc8",
+    "Paladins Deluxe Edition",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Hi-Rez Studios",
+    1610412244,
+    1612322013,
+    "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/1abdce6a-8e62-42bd-b92c-6ed48c9b7e7b-1200x1600-033b024421729248e897d611024c2151.jpg",
+    "paladins/deluxe-edition"
+  ],
+  [
     "8ede13dd51824416801728c43a338494",
     "wex",
     "Trade Route",
@@ -28701,6 +28904,20 @@
     "Focus Home",
     1585328973,
     1605535256,
+    "",
+    ""
+  ],
+  [
+    "90ad5f61623c4e608bb20914a3b11889",
+    "7e508f543b05465abe3a935960eb70ac",
+    "DLC 007",
+    [
+      "games",
+      "applications"
+    ],
+    "Codename Entertainment",
+    1612308354,
+    1612308354,
     "",
     ""
   ],
@@ -33541,8 +33758,8 @@
     ],
     "Brace Yourself Games",
     1552886727,
-    1606849154,
-    "https://cdn1.epicgames.com/protea/offer/IoT_TT7_EGS_Library Tile Portrait_1d2c36-1200x1600-a0aa2846ed6cbd31102559ffb61de95f.jpg",
+    1612297224,
+    "https://cdn1.epicgames.com/protea/offer/IoT_TT8_EGS_Library Tile Portrait_29433f-1200x1600-f160f481f01395e6c8c558051a1d8e9a.jpg",
     "industries-of-titan"
   ],
   [
@@ -33992,14 +34209,14 @@
   [
     "a73643de08d24d748d629d62961c9a1b",
     "dfd2530e80e4425d801913b0879be444",
-    "DLC00055",
+    "Sports Charm Pack",
     [
       "applications"
     ],
     "Rebellion",
     1611098217,
-    1611098458,
-    "",
+    1612293172,
+    "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_Rebellion_ZombieArmy4_S2_1200x1600-1200x1598-bda27de2bf7345b667e456b8a51c12ec.jpg",
     ""
   ],
   [
@@ -34544,6 +34761,20 @@
     "Epic Games",
     1415749210,
     1599582546,
+    "",
+    ""
+  ],
+  [
+    "ab123cca24074f3f8624b9bf7836c2e3",
+    "7e508f543b05465abe3a935960eb70ac",
+    "DLC 001",
+    [
+      "games",
+      "applications"
+    ],
+    "Codename Entertainment",
+    1612304762,
+    1612304762,
     "",
     ""
   ],
@@ -35866,7 +36097,7 @@
     ],
     "Electronic Arts",
     1571351630,
-    1610036785,
+    1612288874,
     "",
     ""
   ],
@@ -38907,6 +39138,20 @@
     "chivalry-2/home"
   ],
   [
+    "c1db1f02d0a74e94a98b1750903648ca",
+    "7e508f543b05465abe3a935960eb70ac",
+    "DLC 097",
+    [
+      "games",
+      "applications"
+    ],
+    "Codename Entertainment",
+    1612304124,
+    1612304191,
+    "",
+    ""
+  ],
+  [
     "c1dcdea06fa743d8b0cdcef8b05066a2",
     "adenium",
     "AdeniumQAAudience",
@@ -38923,14 +39168,14 @@
   [
     "c2042733096740579c910fa00453b2a6",
     "dfd2530e80e4425d801913b0879be444",
-    "DLC00048",
+    "Afrika Karl Outfit",
     [
       "applications"
     ],
     "Rebellion",
     1611097828,
-    1611098458,
-    "",
+    1612293172,
+    "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EN_Rebellion_ZombieArmy4_AfrikaKarlOutfit__S2_1200x1600-1200x1600-a193945f01e5381ab67b667f720764ad.jpg",
     ""
   ],
   [
@@ -41796,14 +42041,14 @@
   [
     "d24f57bdebff41a4968c8a8746654819",
     "dfd2530e80e4425d801913b0879be444",
-    "DLC00031",
+    "Classic Sports Headgear Bundle",
     [
       "applications"
     ],
     "Rebellion",
     1611097960,
-    1611098458,
-    "",
+    1612293172,
+    "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_ClassicSports_Headgear_REDEMPTIONIMAGE-860x1180-1122a1cada9182735d72cd806939910b.jpg",
     ""
   ],
   [
@@ -43001,14 +43246,14 @@
   [
     "d8b6ab1dfa2a42918d1f0f4cf64ea7a8",
     "dfd2530e80e4425d801913b0879be444",
-    "DLC00050",
+    "Desert Damaged Weapon Skins",
     [
       "applications"
     ],
     "Rebellion",
     1611097890,
-    1611098458,
-    "",
+    1612293172,
+    "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_DLC_Desert_Damaged_Weapon_Skins_REDEMPTIONIMAGE-860x1145-4854ed3933a0a26657f99f43c43b7aec.png",
     ""
   ],
   [
@@ -44436,13 +44681,13 @@
   [
     "df696ad18140454c92f20848b8e88443",
     "dfd2530e80e4425d801913b0879be444",
-    "DLC00052",
+    "Armour Plated Shola Outfit",
     [
       "applications"
     ],
     "Rebellion",
     1611096510,
-    1611098458,
+    1612293172,
     "",
     ""
   ],
@@ -45143,14 +45388,14 @@
   [
     "e23b68a9fa6e429fb32f678134249618",
     "dfd2530e80e4425d801913b0879be444",
-    "DLC00058",
+    "Bomb Lance Shotgun Bundle",
     [
       "applications"
     ],
     "Rebellion",
     1611098321,
-    1611098458,
-    "",
+    1612293172,
+    "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EN_Rebellion_ZombieArmy4_BombLanceShotgunBundle__S2_1200x1600-1200x1600-1ef8024785666da65012c13836d8bcef.jpg",
     ""
   ],
   [
@@ -46000,6 +46245,21 @@
     "[]"
   ],
   [
+    "e5d8a50d2b3846959243feaa5e14bbde",
+    "badb0ee71b474ed591ec43212547cfc8",
+    "Paladins Starter Edition",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Hi-Rez Studios",
+    1610411979,
+    1612322013,
+    "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/0e5be77a-7b3c-4b29-987a-3401283f617b-1200x1600-6d781a6df726eecb34df225c2b9cd8d8.jpg",
+    "paladins/starter-edition"
+  ],
+  [
     "e5e7b5fcc99c484b85f80dbee446710a",
     "epic",
     "Assassin's Creed Origins",
@@ -46514,14 +46774,14 @@
   [
     "e92388e9bbd64a82afec227d7dad7e7e",
     "dfd2530e80e4425d801913b0879be444",
-    "DLC00054",
+    "Armoured Giant Weapon Skins",
     [
       "applications"
     ],
     "Rebellion",
     1611098153,
-    1611098458,
-    "",
+    1612293172,
+    "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EN_Rebellion_ZombieArmy4_BombLanceShotgunBundle__S2_1200x1600-1200x1600-92b88ba0d41701cf5be2dfb899c20cc5.jpg",
     ""
   ],
   [
@@ -46890,6 +47150,20 @@
     1597792525,
     1598291369,
     "",
+    ""
+  ],
+  [
+    "ea38f9f15073460ebc5d03a33fc8f445",
+    "933ada2ec45e4184ae840d64c99e0ba9",
+    "Rogue Company: Rogue Edition",
+    [
+      "addons",
+      "addons/durable"
+    ],
+    "Hi-Rez Studios",
+    1610398267,
+    1612331436,
+    "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo-EGS-RogueEdition-Portrait_Offer_1200x1600-1200x1600-32e60e78b0578a4e5ba2453f292a6b5f.jpg",
     ""
   ],
   [
@@ -49732,6 +50006,21 @@
     1599657233,
     "https://cdn1.epicgames.com/93b333eb973b45b582f3bdf68dfc1dc9/offer/EGS_France_GamingMindsStudios_DLC_S2-1200x1600-15f1f5df3b646b63aaf33b162bfb83c4.jpg",
     "railway-empire/france"
+  ],
+  [
+    "f84e7a9814dc4e5fa70a6b11a91afde8",
+    "badb0ee71b474ed591ec43212547cfc8",
+    "Paladins Season Pass 2021",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Hi-Rez Studios",
+    1610404133,
+    1612322013,
+    "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/41e8f34a-86b8-4e9a-a258-b937258f3931-1200x1600-1d545395117cae9eee34b13144bf4639.jfif",
+    "paladins/season-pass-2021"
   ],
   [
     "f8554704641d4a2995077d54caf299ce",

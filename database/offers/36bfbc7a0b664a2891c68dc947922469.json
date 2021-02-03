@@ -6,9 +6,9 @@
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": "rogue-company/home",
-  "urlSlug": "peweegeneralaudience",
+  "urlSlug": "rogue-company",
   "creationDate": "2019-08-16T21:22:27.582Z",
-  "lastModifiedDate": "2020-12-04T16:20:26.633Z",
+  "lastModifiedDate": "2021-02-03T12:00:21.192Z",
   "effectiveDate": "2020-09-30T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -37,80 +37,7 @@
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "1216",
-      "name": "ACTION",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2020-12-15T01:46:14.061Z",
-      "status": "ACTIVE",
-      "referenceCount": 110,
-      "comment": null
-    },
-    {
-      "id": "1264",
-      "name": "CO-OP",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.700Z",
-      "updated": "2020-12-15T01:44:18.661Z",
-      "status": "ACTIVE",
-      "referenceCount": 27,
-      "comment": null
-    },
-    {
-      "id": "1210",
-      "name": "SHOOTER",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:02.690Z",
-      "updated": "2020-12-15T01:47:09.800Z",
-      "status": "ACTIVE",
-      "referenceCount": 28,
-      "comment": null
-    },
-    {
-      "id": "1370",
-      "name": "SINGLEPLAYER",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-12-15T01:43:50.926Z",
-      "status": "ACTIVE",
-      "referenceCount": 195,
-      "comment": null
-    },
-    {
-      "id": "1115",
-      "name": "STRATEGY",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2020-12-15T01:46:50.820Z",
-      "status": "ACTIVE",
-      "referenceCount": 33,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "WINDOWS",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-12-15T01:43:02.751Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    }
-  ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -127,56 +54,56 @@
   ],
   "keyImages": [
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo_EGS_BaseGame_PortraitProduct_1200x1600-1200x1600-886450991cadd15b0e5e08b80f671556.jpg",
-      "md5": "886450991cadd15b0e5e08b80f671556",
-      "size": 477073,
-      "uploadedDate": "2020-07-20T15:02:39.681Z",
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo-EGS-Kestrel-Boxart-LandscapeProductImage-2560x1440-2560x1440-5a1d53a02bebe1d0b1fb9295675f6492.jpg",
+      "md5": "5a1d53a02bebe1d0b1fb9295675f6492",
+      "size": 290837,
+      "uploadedDate": "2021-02-02T01:12:20.486Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo-EGS-Kestrel-Boxart-PortraitProductImage-1200x1600-1200x1600-f9df422de636cc3a1a8de10ace9f1a1c.jpg",
+      "md5": "f9df422de636cc3a1a8de10ace9f1a1c",
+      "size": 190292,
+      "uploadedDate": "2021-02-02T01:12:25.288Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo_EGS_BaseGame_HeroCarousel_1920x1080-1920x1080-ccb9e1e2dc0a89e1c1b5aa29c1a18769.jpg",
-      "md5": "ccb9e1e2dc0a89e1c1b5aa29c1a18769",
-      "size": 570945,
-      "uploadedDate": "2020-07-20T15:02:45.815Z",
-      "width": 1920,
-      "height": 1080
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo-EGS-Kestrel-Boxart-LandscapeProductImage-2560x1440-2560x1440-5a1d53a02bebe1d0b1fb9295675f6492.jpg",
+      "md5": "5a1d53a02bebe1d0b1fb9295675f6492",
+      "size": 290837,
+      "uploadedDate": "2021-02-02T01:12:35.822Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo_EGS_BaseGame_HeroCarousel_1920x1080-1920x1080-ccb9e1e2dc0a89e1c1b5aa29c1a18769.jpg",
-      "md5": "ccb9e1e2dc0a89e1c1b5aa29c1a18769",
-      "size": 570945,
-      "uploadedDate": "2020-07-20T15:03:00.919Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo_EGS_BaseGame_PortraitProduct_1200x1600-1200x1600-886450991cadd15b0e5e08b80f671556.jpg",
-      "md5": "886450991cadd15b0e5e08b80f671556",
-      "size": 477073,
-      "uploadedDate": "2020-07-20T15:03:49.255Z",
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo-EGS-Kestrel-Boxart-PortraitProductImage-1200x1600-1200x1600-f9df422de636cc3a1a8de10ace9f1a1c.jpg",
+      "md5": "f9df422de636cc3a1a8de10ace9f1a1c",
+      "size": 190292,
+      "uploadedDate": "2021-02-02T01:12:40.356Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo_EGS_BaseGame_PortraitProduct_1200x1600-1200x1600-886450991cadd15b0e5e08b80f671556.jpg",
-      "md5": "886450991cadd15b0e5e08b80f671556",
-      "size": 477073,
-      "uploadedDate": "2020-07-20T15:06:03.508Z",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo-EGS-Kestrel-Boxart-PortraitProductImage-1200x1600-1200x1600-f9df422de636cc3a1a8de10ace9f1a1c.jpg",
+      "md5": "f9df422de636cc3a1a8de10ace9f1a1c",
+      "size": 190292,
+      "uploadedDate": "2021-02-02T01:12:52.940Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo_EGS_BaseGame_PortraitProduct_1200x1600-1200x1600-886450991cadd15b0e5e08b80f671556.jpg",
-      "md5": "886450991cadd15b0e5e08b80f671556",
-      "size": 477073,
-      "uploadedDate": "2020-07-20T15:06:52.817Z",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo-EGS-Kestrel-Boxart-PortraitProductImage-1200x1600-1200x1600-f9df422de636cc3a1a8de10ace9f1a1c.jpg",
+      "md5": "f9df422de636cc3a1a8de10ace9f1a1c",
+      "size": 190292,
+      "uploadedDate": "2021-02-02T01:12:56.927Z",
       "width": 1200,
       "height": 1600
     }

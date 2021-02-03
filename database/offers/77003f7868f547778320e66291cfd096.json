@@ -1,0 +1,52 @@
+{
+  "id": "77003f7868f547778320e66291cfd096",
+  "namespace": "7e508f543b05465abe3a935960eb70ac",
+  "title": "DLC 002",
+  "description": "DLC 002",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "banedlc002",
+  "creationDate": "2021-02-02T22:26:48.150Z",
+  "lastModifiedDate": "2021-02-02T23:22:07.657Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+    "name": "Codename Entertainment"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "3f63231017a742b88487c8856b12e85f"
+    }
+  ],
+  "catalogNs": null
+}
