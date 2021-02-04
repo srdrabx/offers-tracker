@@ -1,0 +1,103 @@
+{
+  "id": "ad81712e9b634eb4b87b4c310eaca831",
+  "namespace": "bd46d4ce259349e5bd8b3ded20274737",
+  "title": "TESTDLC1",
+  "description": "TESTDLC1",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "[]",
+  "urlSlug": "testdlc1",
+  "creationDate": "2021-02-02T04:05:35.135Z",
+  "lastModifiedDate": "2021-02-04T01:20:18.444Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+    "name": "Tripwire Interactive"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Tripwire Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Torn Banner Studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Chivalry2_PortraitPromo-1288x1450-159c4b1186699491cb232b6eb002606b.jpeg",
+      "md5": "159c4b1186699491cb232b6eb002606b",
+      "size": 146238,
+      "uploadedDate": "2019-06-07T14:33:10.604Z",
+      "width": 1288,
+      "height": 1450
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Chivalry2_PrimaryPromo-2580x1456-e143f2de31873eccc51c47e9d493787e.jpeg",
+      "md5": "e143f2de31873eccc51c47e9d493787e",
+      "size": 244630,
+      "uploadedDate": "2019-06-07T14:33:28.692Z",
+      "width": 2580,
+      "height": 1456
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Chivalry-2-Full-Brand-Colour (2)-1746x594-88f5ba869080f7b0fa7a11c13e7cf05e.png",
+      "md5": "88f5ba869080f7b0fa7a11c13e7cf05e",
+      "size": 750142,
+      "uploadedDate": "2019-09-17T02:41:42.806Z",
+      "width": 1746,
+      "height": 594
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Chivalry2_PortraitPromo-1288x1450-159c4b1186699491cb232b6eb002606b.jpeg",
+      "md5": "159c4b1186699491cb232b6eb002606b",
+      "size": 146238,
+      "uploadedDate": "2019-06-07T14:33:10.604Z",
+      "width": 1288,
+      "height": 1450
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/bd46d4ce259349e5bd8b3ded20274737/offer/Wishlist-Landscape-2560x1440-a48745f2dde9b492b4100291e23bba10.jpg",
+      "md5": "a48745f2dde9b492b4100291e23bba10",
+      "size": 2043381,
+      "uploadedDate": "2020-02-24T20:36:18.184Z",
+      "width": 2560,
+      "height": 1440
+    }
+  ],
+  "items": [
+    {
+      "id": "9ab9f9441ad64c3290779263c9454bf0"
+    }
+  ],
+  "catalogNs": null
+}

@@ -8,7 +8,7 @@
   "productSlug": "dandara",
   "urlSlug": "dandara",
   "creationDate": "2021-01-08T17:57:36.015Z",
-  "lastModifiedDate": "2021-01-28T15:13:29.101Z",
+  "lastModifiedDate": "2021-02-04T16:01:16.357Z",
   "effectiveDate": "2021-01-28T16:00:00.000Z",
   "viewableDate": "2021-01-21T15:25:00.000Z",
   "developer": null,
@@ -24,9 +24,6 @@
   "technicalDetails": null,
   "recurrence": "ONCE",
   "categories": [
-    {
-      "path": "freegames"
-    },
     {
       "path": "games/edition"
     },
@@ -91,14 +88,14 @@
     },
     {
       "id": "10719",
-      "name": "MAC OS",
+      "name": "Mac OS",
       "namespace": "epic",
       "aliases": [
         "OSX"
       ],
       "operator": null,
       "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2020-12-15T01:43:22.719Z",
+      "updated": "2021-02-03T16:27:46.634Z",
       "status": "ACTIVE",
       "referenceCount": 19,
       "comment": null

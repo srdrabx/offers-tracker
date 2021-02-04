@@ -1,0 +1,52 @@
+{
+  "id": "6ffa1a1f1e34462b81f01843266beac6",
+  "namespace": "7e508f543b05465abe3a935960eb70ac",
+  "title": "DLC 015",
+  "description": "DLC 015",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "banedlc028-05",
+  "creationDate": "2021-02-03T21:15:10.811Z",
+  "lastModifiedDate": "2021-02-03T22:09:12.168Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+    "name": "Codename Entertainment"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "048593503774476381e42b01def92ca5"
+    }
+  ],
+  "catalogNs": null
+}

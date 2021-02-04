@@ -1,0 +1,52 @@
+{
+  "id": "857ca5a58dc14f40a1fe5ed945693434",
+  "namespace": "7e508f543b05465abe3a935960eb70ac",
+  "title": "DLC 072",
+  "description": "DLC 072",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "banedlc006-09",
+  "creationDate": "2021-02-03T20:37:04.643Z",
+  "lastModifiedDate": "2021-02-03T22:11:11.542Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+    "name": "Codename Entertainment"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "4bc621d2f71540248610834cf1407d81"
+    }
+  ],
+  "catalogNs": null
+}

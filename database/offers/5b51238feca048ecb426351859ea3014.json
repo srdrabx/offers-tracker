@@ -1,0 +1,131 @@
+{
+  "id": "5b51238feca048ecb426351859ea3014",
+  "namespace": "9c86694776c04893bec691f13f4b60fc",
+  "title": "Werewolf: The Apocalypse Earthblood Champion of Gaia",
+  "description": "Werewolf: The Apocalypse Earthblood Champion of Gaia",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "werewolf-the-apocalypse-earthblood/gaia-edition",
+  "urlSlug": "launchdeluxeaudience",
+  "creationDate": "2021-01-27T21:53:48.369Z",
+  "lastModifiedDate": "2021-02-04T12:54:18.356Z",
+  "effectiveDate": "2021-02-04T13:00:00.000Z",
+  "viewableDate": "2021-02-04T13:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+    "name": "Nacon"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "This is the launch offer",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-12-15T01:46:33.012Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Nacon"
+    },
+    {
+      "key": "developerName",
+      "value": "Cyanide Studio"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "werewolf-the-apocalypse-earthblood/gaia-edition"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/9c86694776c04893bec691f13f4b60fc/offer/EGS_WerewolfTheApocalypseEarthbloodGaiaPreOrder_CyanideStudio_Editions_S1-2560x1440-f93ebed9f4537f309743f4353e209134.jpg",
+      "md5": "f93ebed9f4537f309743f4353e209134",
+      "size": 466685,
+      "uploadedDate": "2020-12-04T15:06:05.549Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/9c86694776c04893bec691f13f4b60fc/offer/EGS_WerewolfTheApocalypseEarthbloodGaiaPreOrder_CyanideStudio_Editions_S2-1200x1600-5f776d69195920301748d05357ca1319.jpg",
+      "md5": "5f776d69195920301748d05357ca1319",
+      "size": 772259,
+      "uploadedDate": "2020-12-04T15:06:11.734Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/9c86694776c04893bec691f13f4b60fc/offer/EGS_WerewolfTheApocalypseEarthbloodGaiaPreOrder_CyanideStudio_Editions_S1-2560x1440-f93ebed9f4537f309743f4353e209134.jpg",
+      "md5": "f93ebed9f4537f309743f4353e209134",
+      "size": 466685,
+      "uploadedDate": "2020-12-04T15:06:18.225Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/9c86694776c04893bec691f13f4b60fc/offer/EGS_WerewolfTheApocalypseEarthbloodGaiaPreOrder_CyanideStudio_Editions_S2-1200x1600-5f776d69195920301748d05357ca1319.jpg",
+      "md5": "5f776d69195920301748d05357ca1319",
+      "size": 772259,
+      "uploadedDate": "2020-12-04T15:06:24.617Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/9c86694776c04893bec691f13f4b60fc/offer/EGS_WerewolfTheApocalypseEarthbloodGaiaPreOrder_CyanideStudio_Editions_S2-1200x1600-5f776d69195920301748d05357ca1319.jpg",
+      "md5": "5f776d69195920301748d05357ca1319",
+      "size": 772259,
+      "uploadedDate": "2020-12-04T15:06:31.988Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/9c86694776c04893bec691f13f4b60fc/offer/EGS_WerewolfTheApocalypseEarthbloodGaiaPreOrder_CyanideStudio_Editions_S2-1200x1600-5f776d69195920301748d05357ca1319.jpg",
+      "md5": "5f776d69195920301748d05357ca1319",
+      "size": 772259,
+      "uploadedDate": "2020-12-04T15:06:39.169Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "e02c37b347464e5db087f8890e14fd2c"
+    }
+  ],
+  "catalogNs": null
+}

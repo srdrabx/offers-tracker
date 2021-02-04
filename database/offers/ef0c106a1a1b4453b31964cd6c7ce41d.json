@@ -1,0 +1,52 @@
+{
+  "id": "ef0c106a1a1b4453b31964cd6c7ce41d",
+  "namespace": "7e508f543b05465abe3a935960eb70ac",
+  "title": "DLC 014",
+  "description": "DLC 014",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "banedlc028-04",
+  "creationDate": "2021-02-03T21:14:20.535Z",
+  "lastModifiedDate": "2021-02-03T22:09:05.542Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+    "name": "Codename Entertainment"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "fe01350bce974af99737c9ecbf97c433"
+    }
+  ],
+  "catalogNs": null
+}

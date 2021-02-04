@@ -1,16 +1,16 @@
 {
   "id": "a33e97c058a2480abcc5cd5f94baa218",
   "namespace": "4492ce99b4124b74a0bb83f78b3d70b8",
-  "title": "JUNGLE DLC",
-  "description": "JUNGLE DLC",
-  "longDescription": null,
+  "title": "For The King: Lost Civilization Adventure Pack",
+  "description": "Explore the mysterious Jungle Falls and uncover the secrets of an ancient civilization in this thrilling adventure pack add-on. Includes the jungle realm, arena battles, wands and dual wielding, 2 new playable characters, and tons of unique enemies and loot.",
+  "longDescription": "# Explore the lost Jungle Falls Realm\n\nA lush jungle forest beckons adventurers to explore its dense wood, but what dangers lurk under its thick mysterious canopy?  \n\n# Two New Playable Characters\n\nGo on the offensive with the glory-seeking Gladiator or harness dark energy from the heavens with the wise Astronomer!  \n\n# Spectacular Arena Battles\n\nFor Glory! Defeat waves of enemies before a cheering crowd in the new gladiator arenas.\n\n# New Weapons\n\nThrow caution to the wind with devastating dual wield weapons or gamble on the destructive power of the versatile wands.\n\n# New Enemies and Loot\n\nMore than 90 new items closely guarded by over 50 new enemies. From giant snakes to petrifying golems, the rewards are great but the stakes are even higher.",
   "status": "ACTIVE",
-  "productSlug": "[]",
-  "urlSlug": "discusgeneralaudience-01",
+  "productSlug": null,
+  "urlSlug": "for-the-king--lost-civilization",
   "creationDate": "2020-09-23T21:09:59.699Z",
-  "lastModifiedDate": "2020-11-18T23:18:08.827Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2021-02-04T15:24:28.361Z",
+  "effectiveDate": "2021-02-10T18:00:00.000Z",
+  "viewableDate": "2021-02-04T16:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-ws89bsbfb8trgdl3zmerugg4rsuvvt",
@@ -25,62 +25,16 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
     },
     {
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "1264",
-      "name": "CO-OP",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.700Z",
-      "updated": "2020-12-15T01:44:18.661Z",
-      "status": "ACTIVE",
-      "referenceCount": 27,
-      "comment": null
-    },
-    {
-      "id": "1386",
-      "name": "TURN-BASED",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:30.372Z",
-      "updated": "2020-12-15T01:49:00.686Z",
-      "status": "ACTIVE",
-      "referenceCount": 14,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "WINDOWS",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-12-15T01:43:02.751Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "1117",
-      "name": "ADVENTURE",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2020-12-15T01:46:19.709Z",
-      "status": "ACTIVE",
-      "referenceCount": 84,
-      "comment": null
-    }
-  ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -93,13 +47,64 @@
     {
       "key": "developerName",
       "value": "IronOak Games"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "[]"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/4492ce99b4124b74a0bb83f78b3d70b8/offer/EGS_ForTheKingLostCivilizationAdventurePack_IronOakGames_DLC_S1-2560x1440-9e392ecec63d731a488237251f95281a.jpg",
+      "md5": "9e392ecec63d731a488237251f95281a",
+      "size": 987887,
+      "uploadedDate": "2021-01-12T23:40:26.679Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/4492ce99b4124b74a0bb83f78b3d70b8/offer/EGS_ForTheKingLostCivilizationAdventurePack_IronOakGames_DLC_S2-1200x1600-5ef32411464cd36174bfd24449c8519c.jpg",
+      "md5": "5ef32411464cd36174bfd24449c8519c",
+      "size": 747956,
+      "uploadedDate": "2021-01-12T23:40:34.655Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/4492ce99b4124b74a0bb83f78b3d70b8/offer/EGS_ForTheKingLostCivilizationAdventurePack_IronOakGames_DLC_S2-1200x1600-5ef32411464cd36174bfd24449c8519c.jpg",
+      "md5": "5ef32411464cd36174bfd24449c8519c",
+      "size": 747956,
+      "uploadedDate": "2021-01-12T23:40:46.530Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/4492ce99b4124b74a0bb83f78b3d70b8/offer/EGS_ForTheKingLostCivilizationAdventurePack_IronOakGames_DLC_S2-1200x1600-5ef32411464cd36174bfd24449c8519c.jpg",
+      "md5": "5ef32411464cd36174bfd24449c8519c",
+      "size": 747956,
+      "uploadedDate": "2021-01-12T23:40:57.804Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/4492ce99b4124b74a0bb83f78b3d70b8/offer/EGS_ForTheKingLostCivilizationAdventurePack_IronOakGames_DLC_S1-2560x1440-9e392ecec63d731a488237251f95281a.jpg",
+      "md5": "9e392ecec63d731a488237251f95281a",
+      "size": 987887,
+      "uploadedDate": "2021-01-12T23:41:27.971Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/4492ce99b4124b74a0bb83f78b3d70b8/offer/EGS_ForTheKingLostCivilizationAdventurePack_IronOakGames_DLC_S2-1200x1600-5ef32411464cd36174bfd24449c8519c.jpg",
+      "md5": "5ef32411464cd36174bfd24449c8519c",
+      "size": 747956,
+      "uploadedDate": "2021-01-12T23:41:39.374Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "9247639b34a24e099bba29fa6c80e681"

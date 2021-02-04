@@ -8,7 +8,7 @@
   "productSlug": "paladins/starter-edition",
   "urlSlug": "paladins--starter-edition",
   "creationDate": "2021-01-12T00:39:39.111Z",
-  "lastModifiedDate": "2021-02-03T03:13:33.683Z",
+  "lastModifiedDate": "2021-02-03T23:26:38.491Z",
   "effectiveDate": "2021-02-03T12:00:00.000Z",
   "viewableDate": "2021-02-03T12:00:00.000Z",
   "developer": null,
@@ -110,6 +110,9 @@
     }
   ],
   "items": [
+    {
+      "id": "20e5b2a076fe443eb929a4ec07862f01"
+    },
     {
       "id": "495fc30119a44ecf849da91f2eac91ed"
     }

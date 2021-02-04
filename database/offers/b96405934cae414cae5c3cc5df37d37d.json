@@ -1,0 +1,127 @@
+{
+  "id": "b96405934cae414cae5c3cc5df37d37d",
+  "namespace": "9c86694776c04893bec691f13f4b60fc",
+  "title": "Champion of Gaia Pack",
+  "description": "The Champion of Gaia pack includes:\n- 3 outfits for Cahal\n- 4 exclusive furs for the Wolf and Werewolf\n- A nature spirit to help you in combat\n- A unique finishing move",
+  "longDescription": "The Champion of Gaia pack includes:\n- 3 outfits for Cahal\n- 4 exclusive furs for the Wolf and Werewolf\n- A nature spirit to help you in combat\n- A unique finishing move",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "werewolf-the-apocalypse-earthblood--gaia-pack",
+  "creationDate": "2021-01-27T22:25:12.133Z",
+  "lastModifiedDate": "2021-02-04T12:54:18.157Z",
+  "effectiveDate": "2021-02-04T13:00:00.000Z",
+  "viewableDate": "2021-02-04T13:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+    "name": "Nacon"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "This is the launch offer",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-12-15T01:46:33.012Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Nacon"
+    },
+    {
+      "key": "developerName",
+      "value": "Cyanide Studio"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/9c86694776c04893bec691f13f4b60fc/offer/EGS_WerewolfTheApocalypseEarthbloodGaiaPack_Cyanide_DLC_S1-2560x1440-9c3657e0db999454ed68eb1d119a48ea.jpg",
+      "md5": "9c3657e0db999454ed68eb1d119a48ea",
+      "size": 436618,
+      "uploadedDate": "2021-01-27T22:54:45.804Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/9c86694776c04893bec691f13f4b60fc/offer/EGS_WerewolfTheApocalypseEarthbloodGaiaPack_Cyanide_DLC_S2-1200x1600-1c1c7d4260ce137a9bcd1abe421e0115.jpg",
+      "md5": "1c1c7d4260ce137a9bcd1abe421e0115",
+      "size": 780922,
+      "uploadedDate": "2021-01-27T22:55:06.403Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/9c86694776c04893bec691f13f4b60fc/offer/EGS_WerewolfTheApocalypseEarthbloodGaiaPack_Cyanide_DLC_S2-1200x1600-1c1c7d4260ce137a9bcd1abe421e0115.jpg",
+      "md5": "1c1c7d4260ce137a9bcd1abe421e0115",
+      "size": 780922,
+      "uploadedDate": "2021-01-27T22:55:17.047Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/9c86694776c04893bec691f13f4b60fc/offer/EGS_WerewolfTheApocalypseEarthbloodGaiaPack_Cyanide_DLC_S2-1200x1600-1c1c7d4260ce137a9bcd1abe421e0115.jpg",
+      "md5": "1c1c7d4260ce137a9bcd1abe421e0115",
+      "size": 780922,
+      "uploadedDate": "2021-01-27T22:55:33.557Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/9c86694776c04893bec691f13f4b60fc/offer/EGS_WerewolfTheApocalypseEarthbloodGaiaPack_Cyanide_DLC_S1-2560x1440-9c3657e0db999454ed68eb1d119a48ea.jpg",
+      "md5": "9c3657e0db999454ed68eb1d119a48ea",
+      "size": 436618,
+      "uploadedDate": "2021-01-27T22:55:47.310Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/9c86694776c04893bec691f13f4b60fc/offer/EGS_WerewolfTheApocalypseEarthbloodGaiaPack_Cyanide_DLC_S2-1200x1600-1c1c7d4260ce137a9bcd1abe421e0115.jpg",
+      "md5": "1c1c7d4260ce137a9bcd1abe421e0115",
+      "size": 780922,
+      "uploadedDate": "2021-01-27T22:56:01.364Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "92d2d73f068f452c9c45ca7863b06e24"
+    }
+  ],
+  "catalogNs": null
+}

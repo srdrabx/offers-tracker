@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "fuser--higher",
   "creationDate": "2020-12-11T02:12:13.316Z",
-  "lastModifiedDate": "2020-12-11T02:12:13.316Z",
+  "lastModifiedDate": "2021-01-28T17:08:12.597Z",
   "effectiveDate": "2021-02-04T16:00:00.000Z",
   "viewableDate": "2021-02-04T16:00:00.000Z",
   "developer": null,
@@ -24,12 +24,6 @@
   "technicalDetails": null,
   "recurrence": "ONCE",
   "categories": [
-    {
-      "path": "addons"
-    },
-    {
-      "path": "addons/durable"
-    },
     {
       "path": "applications"
     }

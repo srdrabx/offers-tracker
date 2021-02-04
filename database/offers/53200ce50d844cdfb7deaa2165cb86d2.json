@@ -1,0 +1,117 @@
+{
+  "id": "53200ce50d844cdfb7deaa2165cb86d2",
+  "namespace": "66e9c042d8cd42b7956f5e195e0442de",
+  "title": "Rayman Origins",
+  "description": "Rayman Origins",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "rayman-origins",
+  "urlSlug": "rayman-origins",
+  "creationDate": "2020-07-24T22:05:32.944Z",
+  "lastModifiedDate": "2021-02-04T15:23:13.501Z",
+  "effectiveDate": "2021-02-04T16:00:00.000Z",
+  "viewableDate": "2021-02-04T16:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "rayman-origins"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/66e9c042d8cd42b7956f5e195e0442de/offer/RAYL_Store_Landscape_2560x1440-2560x1440-a702bbe430965879098d84d3a9c78668.jpg",
+      "md5": "a702bbe430965879098d84d3a9c78668",
+      "size": 447125,
+      "uploadedDate": "2021-01-27T07:36:52.171Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/66e9c042d8cd42b7956f5e195e0442de/offer/RAYL_Store_Portrait_1200x1600-1200x1600-e11263350a8c01a6d7e99fa0b0ef634b.jpg",
+      "md5": "e11263350a8c01a6d7e99fa0b0ef634b",
+      "size": 314926,
+      "uploadedDate": "2021-01-27T07:36:55.264Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/66e9c042d8cd42b7956f5e195e0442de/offer/RAYL_Store_Landscape_2560x1440-2560x1440-a702bbe430965879098d84d3a9c78668.jpg",
+      "md5": "a702bbe430965879098d84d3a9c78668",
+      "size": 447125,
+      "uploadedDate": "2021-01-27T07:37:11.998Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/66e9c042d8cd42b7956f5e195e0442de/offer/RAYL_Store_Portrait_1200x1600-1200x1600-e11263350a8c01a6d7e99fa0b0ef634b.jpg",
+      "md5": "e11263350a8c01a6d7e99fa0b0ef634b",
+      "size": 314926,
+      "uploadedDate": "2021-01-27T07:37:15.529Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/66e9c042d8cd42b7956f5e195e0442de/offer/RAYL_Store_Portrait_1200x1600-1200x1600-e11263350a8c01a6d7e99fa0b0ef634b.jpg",
+      "md5": "e11263350a8c01a6d7e99fa0b0ef634b",
+      "size": 314926,
+      "uploadedDate": "2021-01-27T07:37:25.772Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/66e9c042d8cd42b7956f5e195e0442de/offer/RAYL_Store_Portrait_1200x1600-1200x1600-e11263350a8c01a6d7e99fa0b0ef634b.jpg",
+      "md5": "e11263350a8c01a6d7e99fa0b0ef634b",
+      "size": 314926,
+      "uploadedDate": "2021-01-27T07:37:34.528Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "19a3fead56f046e289d315bdf1921b8c"
+    }
+  ],
+  "catalogNs": null
+}

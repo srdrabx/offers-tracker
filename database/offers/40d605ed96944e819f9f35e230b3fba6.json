@@ -1,0 +1,52 @@
+{
+  "id": "40d605ed96944e819f9f35e230b3fba6",
+  "namespace": "7e508f543b05465abe3a935960eb70ac",
+  "title": "DLC 029",
+  "description": "DLC 029",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "banedlc028-12",
+  "creationDate": "2021-02-03T22:15:32.058Z",
+  "lastModifiedDate": "2021-02-03T22:15:32.058Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+    "name": "Codename Entertainment"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "eb8669e69661453dab223807b70286ae"
+    }
+  ],
+  "catalogNs": null
+}

@@ -8,7 +8,7 @@
   "productSlug": "paladins/deluxe-edition",
   "urlSlug": "paladins--deluxe-edition",
   "creationDate": "2021-01-12T00:44:04.657Z",
-  "lastModifiedDate": "2021-02-03T03:13:33.662Z",
+  "lastModifiedDate": "2021-02-03T23:36:33.629Z",
   "effectiveDate": "2021-02-03T12:00:00.000Z",
   "viewableDate": "2021-02-03T12:00:00.000Z",
   "developer": null,
@@ -111,22 +111,10 @@
   ],
   "items": [
     {
-      "id": "2f3c73b0eba444f3bff97b0f58565ad8"
-    },
-    {
-      "id": "495fc30119a44ecf849da91f2eac91ed"
+      "id": "728bf5b537d94e0d80d8213adba3ad25"
     },
     {
       "id": "5deb4fb1e07640fb8f63b1ddb02987f9"
-    },
-    {
-      "id": "1daf1be9a62e43848ae47a7a61bc6b5c"
-    },
-    {
-      "id": "39b030d7149748caa3253596b70a0e56"
-    },
-    {
-      "id": "2b12951ac2f548058b73b35c554ab19b"
     }
   ],
   "catalogNs": null

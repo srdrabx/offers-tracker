@@ -1,0 +1,181 @@
+{
+  "id": "e7946db0d53a418e8cb17a92dd908cd5",
+  "namespace": "3dd7b519d7ab4631ae96d3efa8588514",
+  "title": "Halcyon 6",
+  "description": "Halcyon 6",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "halcyon-6",
+  "urlSlug": "arsenicgeneralaudience",
+  "creationDate": "2021-01-21T18:27:13.706Z",
+  "lastModifiedDate": "2021-02-04T16:02:02.968Z",
+  "effectiveDate": "2021-02-11T16:00:00.000Z",
+  "viewableDate": "2021-02-04T15:25:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-nfrzd5cr4auuxqxmyzuezwhahtmstc",
+    "name": "Massive Damage"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "freegames"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-12-15T01:46:33.012Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-12-15T01:43:50.926Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-12-15T01:46:50.820Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-12-15T01:43:02.751Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-12-15T01:46:42.546Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Massive Damage"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "halcyon-6"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/3dd7b519d7ab4631ae96d3efa8588514/offer/egs-halcyon6starbasecommanderlightspeededition-massivedamageinc-s1-2560x1440-93175c05e6e9-2560x1440-5f46f77b1b82d8c5d169a4d9734a3043.jpg",
+      "md5": "5f46f77b1b82d8c5d169a4d9734a3043",
+      "size": 208540,
+      "uploadedDate": "2021-02-03T20:09:33.998Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/3dd7b519d7ab4631ae96d3efa8588514/offer/egs-halcyon6starbasecommanderlightspeededition-massivedamageinc-s2-1200x1600-e612ba915488-1200x1600-de7223f3cc553fb677476dcc18f7626a.jpg",
+      "md5": "de7223f3cc553fb677476dcc18f7626a",
+      "size": 145187,
+      "uploadedDate": "2021-02-03T20:09:45.315Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/3dd7b519d7ab4631ae96d3efa8588514/offer/egs-halcyon6starbasecommanderlightspeededition-massivedamageinc-s2-1200x1600-e612ba915488-1200x1600-de7223f3cc553fb677476dcc18f7626a.jpg",
+      "md5": "de7223f3cc553fb677476dcc18f7626a",
+      "size": 145187,
+      "uploadedDate": "2021-02-03T20:09:56.966Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/3dd7b519d7ab4631ae96d3efa8588514/offer/egs-halcyon6starbasecommanderlightspeededition-massivedamageinc-s2-1200x1600-e612ba915488-1200x1600-de7223f3cc553fb677476dcc18f7626a.jpg",
+      "md5": "de7223f3cc553fb677476dcc18f7626a",
+      "size": 145187,
+      "uploadedDate": "2021-02-03T20:10:10.122Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/3dd7b519d7ab4631ae96d3efa8588514/offer/egs-halcyon6starbasecommanderlightspeededition-massivedamageinc-s1-2560x1440-93175c05e6e9-2560x1440-5f46f77b1b82d8c5d169a4d9734a3043.jpg",
+      "md5": "5f46f77b1b82d8c5d169a4d9734a3043",
+      "size": 208540,
+      "uploadedDate": "2021-02-03T20:10:23.056Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/3dd7b519d7ab4631ae96d3efa8588514/offer/egs-halcyon6starbasecommanderlightspeededition-massivedamageinc-s2-1200x1600-e612ba915488-1200x1600-de7223f3cc553fb677476dcc18f7626a.jpg",
+      "md5": "de7223f3cc553fb677476dcc18f7626a",
+      "size": 145187,
+      "uploadedDate": "2021-02-03T20:10:37.249Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "e912595a5951497ca88ef5bc428b087a"
+    }
+  ],
+  "catalogNs": null
+}

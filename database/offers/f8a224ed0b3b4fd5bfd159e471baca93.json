@@ -1,0 +1,127 @@
+{
+  "id": "f8a224ed0b3b4fd5bfd159e471baca93",
+  "namespace": "9c86694776c04893bec691f13f4b60fc",
+  "title": "Exiled One",
+  "description": "This DLC includes:\n- The exclusive Cahal The Exiled One outfit - Dark fur for the Werewolf and Wolf - An Auspice of Ahroun emblem embroidered on the outfit",
+  "longDescription": "# This DLC includes:\n- The exclusive Cahal The Exiled One outfit\n- Dark fur for the Werewolf and Wolf\n- An Auspice of Ahroun emblem embroidered on the outfit\n\n# Exile was the only option to protect his family.\nAlone and far away from his loved ones, Cahal's spirit has darkened over time. Put on Cahal's black jacket, proudly display your Ahroun warrior Auspice and transform into a dark wolf to take on those who threaten your pack.\n\nHe can transform into a wolf and a Crinos, a huge ferocious beast.\nEach form has its advantages: the wolf can sneak around undetected, Cahal as a human can interact with other people, and the Werewolf can unleash its rage to tear enemies apart.",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "werewolf-the-apocalypse-earthblood--exiled-one",
+  "creationDate": "2021-01-27T22:19:49.003Z",
+  "lastModifiedDate": "2021-02-04T12:54:18.172Z",
+  "effectiveDate": "2021-02-04T13:00:00.000Z",
+  "viewableDate": "2021-02-04T13:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+    "name": "Nacon"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "This is the launch offer",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-12-15T01:46:33.012Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Nacon"
+    },
+    {
+      "key": "developerName",
+      "value": "Cyanide Studio"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/9c86694776c04893bec691f13f4b60fc/offer/EGS_WerewolfTheApocalypseEarthbloodExiledOne_CyanideStudio_DLC_S1-2560x1440-6a80d4fb564ee9507987138d9b690099.jpg",
+      "md5": "6a80d4fb564ee9507987138d9b690099",
+      "size": 742511,
+      "uploadedDate": "2021-01-27T22:47:11.126Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/9c86694776c04893bec691f13f4b60fc/offer/EGS_WerewolfTheApocalypseEarthbloodExiledOne_CyanideStudio_DLC_S2-1200x1600-a704dec7abeceec0fe74a807054b5317.jpg",
+      "md5": "a704dec7abeceec0fe74a807054b5317",
+      "size": 755780,
+      "uploadedDate": "2021-01-27T22:47:24.461Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/9c86694776c04893bec691f13f4b60fc/offer/EGS_WerewolfTheApocalypseEarthbloodExiledOne_CyanideStudio_DLC_S2-1200x1600-a704dec7abeceec0fe74a807054b5317.jpg",
+      "md5": "a704dec7abeceec0fe74a807054b5317",
+      "size": 755780,
+      "uploadedDate": "2021-01-27T22:47:44.838Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/9c86694776c04893bec691f13f4b60fc/offer/EGS_WerewolfTheApocalypseEarthbloodExiledOne_CyanideStudio_DLC_S2-1200x1600-a704dec7abeceec0fe74a807054b5317.jpg",
+      "md5": "a704dec7abeceec0fe74a807054b5317",
+      "size": 755780,
+      "uploadedDate": "2021-01-27T22:47:54.753Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/9c86694776c04893bec691f13f4b60fc/offer/EGS_WerewolfTheApocalypseEarthbloodExiledOne_CyanideStudio_DLC_S1-2560x1440-6a80d4fb564ee9507987138d9b690099.jpg",
+      "md5": "6a80d4fb564ee9507987138d9b690099",
+      "size": 742511,
+      "uploadedDate": "2021-01-27T22:48:27.126Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/9c86694776c04893bec691f13f4b60fc/offer/EGS_WerewolfTheApocalypseEarthbloodExiledOne_CyanideStudio_DLC_S2-1200x1600-a704dec7abeceec0fe74a807054b5317.jpg",
+      "md5": "a704dec7abeceec0fe74a807054b5317",
+      "size": 755780,
+      "uploadedDate": "2021-01-27T22:48:40.643Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "e96427c095f84eeab66371a0ee47e7a4"
+    }
+  ],
+  "catalogNs": null
+}

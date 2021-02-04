@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "zombie-army-4-dead-war--armour-plated-shola-outfit",
   "creationDate": "2021-01-19T22:48:30.019Z",
-  "lastModifiedDate": "2021-02-02T19:12:52.461Z",
+  "lastModifiedDate": "2021-02-04T15:59:52.766Z",
   "effectiveDate": "2021-02-11T14:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -43,7 +43,62 @@
       "value": "Rebellion"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EN_Rebellion_ZombieArmy4_ArmourPlatedSholaOutfit__S1_2560x1440-2560x1440-4a800f158b7a4bbf7a4cf94f08a0c7ba.jpg",
+      "md5": "4a800f158b7a4bbf7a4cf94f08a0c7ba",
+      "size": 500395,
+      "uploadedDate": "2021-02-04T15:44:56.659Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EN_Rebellion_ZombieArmy4_ArmourPlatedSholaOutfit__S2_1200x1600-1200x1600-6885b710245260150bedfcff76beb17e.jpg",
+      "md5": "6885b710245260150bedfcff76beb17e",
+      "size": 505505,
+      "uploadedDate": "2021-02-04T15:45:18.827Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EN_Rebellion_ZombieArmy4_ArmourPlatedSholaOutfit__S2_1200x1600-1200x1600-6885b710245260150bedfcff76beb17e.jpg",
+      "md5": "6885b710245260150bedfcff76beb17e",
+      "size": 505505,
+      "uploadedDate": "2021-02-04T15:45:52.014Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EN_Rebellion_ZombieArmy4_ArmourPlatedSholaOutfit__S2_1200x1600-1200x1600-6885b710245260150bedfcff76beb17e.jpg",
+      "md5": "6885b710245260150bedfcff76beb17e",
+      "size": 505505,
+      "uploadedDate": "2021-02-04T15:46:27.347Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EN_Rebellion_ZombieArmy4_ArmourPlatedSholaOutfit__S1_2560x1440-2560x1440-4a800f158b7a4bbf7a4cf94f08a0c7ba.jpg",
+      "md5": "4a800f158b7a4bbf7a4cf94f08a0c7ba",
+      "size": 500395,
+      "uploadedDate": "2021-02-04T15:46:36.296Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EN_Rebellion_ZombieArmy4_ArmourPlatedSholaOutfit__S2_1200x1600-1200x1600-6885b710245260150bedfcff76beb17e.jpg",
+      "md5": "6885b710245260150bedfcff76beb17e",
+      "size": 505505,
+      "uploadedDate": "2021-02-04T15:46:43.795Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "72809fbbc6224479aa30f62da2df234a"
