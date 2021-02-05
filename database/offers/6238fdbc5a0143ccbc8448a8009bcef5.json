@@ -40,12 +40,12 @@
   "tags": [
     {
       "id": "1287",
-      "name": "FANTASY",
+      "name": "Fantasy",
       "namespace": "epic",
-      "aliases": null,
+      "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:41.164Z",
-      "updated": "2020-09-09T11:26:33.532Z",
+      "updated": "2021-02-05T16:08:44.511Z",
       "status": "ACTIVE",
       "referenceCount": 1,
       "comment": null

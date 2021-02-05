@@ -8,7 +8,7 @@
   "productSlug": "windbound",
   "urlSlug": "windbound",
   "creationDate": "2020-05-28T23:45:28.999Z",
-  "lastModifiedDate": "2020-08-28T11:58:21.091Z",
+  "lastModifiedDate": "2021-02-04T20:59:04.117Z",
   "effectiveDate": "2020-08-28T12:00:00.000Z",
   "viewableDate": "2020-08-28T11:55:00.000Z",
   "developer": null,
@@ -187,15 +187,6 @@
   ],
   "keyImages": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/a47cb01bef994749ac731aa3366796e8/offer/Wishlist_2560x1440-2560x1140-0942f3c760dc6c7862b938975f1c2c9e-2560x1140-0942f3c760dc6c7862b938975f1c2c9e.jpg",
-      "md5": "0942f3c760dc6c7862b938975f1c2c9e",
-      "size": 2085253,
-      "uploadedDate": "2020-06-11T13:47:04.351Z",
-      "width": 2560,
-      "height": 1140
-    },
-    {
       "type": "OfferImageTall",
       "url": "https://cdn1.epicgames.com/a47cb01bef994749ac731aa3366796e8/offer/Wishlist_860x1148-860x1148-c3a63f1a4502fb9da688c6f91eb9a4d2-860x1148-c3a63f1a4502fb9da688c6f91eb9a4d2.jpg",
       "md5": "c3a63f1a4502fb9da688c6f91eb9a4d2",
@@ -223,15 +214,6 @@
       "height": 1148
     },
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/a47cb01bef994749ac731aa3366796e8/offer/Wishlist_2560x1440-2560x1140-0942f3c760dc6c7862b938975f1c2c9e-2560x1140-0942f3c760dc6c7862b938975f1c2c9e.jpg",
-      "md5": "0942f3c760dc6c7862b938975f1c2c9e",
-      "size": 2085253,
-      "uploadedDate": "2020-06-11T13:47:40.673Z",
-      "width": 2560,
-      "height": 1140
-    },
-    {
       "type": "DieselStoreFrontTall",
       "url": "https://cdn1.epicgames.com/a47cb01bef994749ac731aa3366796e8/offer/Wishlist_860x1148-860x1148-c3a63f1a4502fb9da688c6f91eb9a4d2-860x1148-c3a63f1a4502fb9da688c6f91eb9a4d2.jpg",
       "md5": "c3a63f1a4502fb9da688c6f91eb9a4d2",
@@ -239,6 +221,24 @@
       "uploadedDate": "2020-06-11T13:47:49.897Z",
       "width": 860,
       "height": 1148
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/a47cb01bef994749ac731aa3366796e8/offer/windbound_wide_image-1360x766-adaf83124f9d81fa27b7c9eb5c094bd3.jpg",
+      "md5": "adaf83124f9d81fa27b7c9eb5c094bd3",
+      "size": 208414,
+      "uploadedDate": "2021-02-04T20:58:40.289Z",
+      "width": 1360,
+      "height": 766
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/a47cb01bef994749ac731aa3366796e8/offer/windbound_wide_image-1360x766-adaf83124f9d81fa27b7c9eb5c094bd3.jpg",
+      "md5": "adaf83124f9d81fa27b7c9eb5c094bd3",
+      "size": 208414,
+      "uploadedDate": "2021-02-04T20:58:52.869Z",
+      "width": 1360,
+      "height": 766
     }
   ],
   "items": [

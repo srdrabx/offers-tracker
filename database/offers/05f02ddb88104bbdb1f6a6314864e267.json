@@ -8,7 +8,7 @@
   "productSlug": "spellbreak/starter-pack",
   "urlSlug": "spellbreak-starter-pack",
   "creationDate": "2020-04-09T14:55:47.301Z",
-  "lastModifiedDate": "2020-09-03T13:37:40.448Z",
+  "lastModifiedDate": "2021-02-04T19:02:16.041Z",
   "effectiveDate": "2020-08-27T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -39,30 +39,6 @@
   ],
   "tags": [
     {
-      "id": "1216",
-      "name": "ACTION",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2020-12-15T01:46:14.061Z",
-      "status": "ACTIVE",
-      "referenceCount": 110,
-      "comment": null
-    },
-    {
-      "id": "1203",
-      "name": "MULTIPLAYER",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2020-12-15T01:44:09.654Z",
-      "status": "ACTIVE",
-      "referenceCount": 46,
-      "comment": null
-    },
-    {
       "id": "1156",
       "name": "BATTLE ROYALE",
       "namespace": "epic",
@@ -84,30 +60,6 @@
       "updated": "2020-12-15T01:46:33.012Z",
       "status": "ACTIVE",
       "referenceCount": 43,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "WINDOWS",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-12-15T01:43:02.751Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "1279",
-      "name": "VAMPIRE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:37.207Z",
-      "updated": "2020-09-16T19:19:59.211Z",
-      "status": "ACTIVE",
-      "referenceCount": 3,
       "comment": null
     }
   ],
