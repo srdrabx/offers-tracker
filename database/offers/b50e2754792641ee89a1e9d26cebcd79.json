@@ -43,12 +43,12 @@
     },
     {
       "id": "1159",
-      "name": "ARCADE",
+      "name": "Arcade",
       "namespace": "epic",
-      "aliases": null,
+      "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:37.620Z",
-      "updated": "2020-07-29T19:47:49.823Z",
+      "updated": "2021-02-05T16:12:11.582Z",
       "status": "ACTIVE",
       "referenceCount": 2,
       "comment": null
@@ -67,12 +67,12 @@
     },
     {
       "id": "9547",
-      "name": "WINDOWS",
+      "name": "Windows",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-12-15T01:43:02.751Z",
+      "updated": "2021-02-05T16:07:21.852Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null

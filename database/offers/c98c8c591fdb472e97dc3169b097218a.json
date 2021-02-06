@@ -43,12 +43,12 @@
     },
     {
       "id": "1080",
-      "name": "SURVIVAL",
+      "name": "Survival",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:58:58.070Z",
-      "updated": "2020-12-15T01:49:20.300Z",
+      "updated": "2021-02-05T16:19:16.566Z",
       "status": "ACTIVE",
       "referenceCount": 11,
       "comment": null
@@ -79,12 +79,12 @@
     },
     {
       "id": "9547",
-      "name": "WINDOWS",
+      "name": "Windows",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-12-15T01:43:02.751Z",
+      "updated": "2021-02-05T16:07:21.852Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null

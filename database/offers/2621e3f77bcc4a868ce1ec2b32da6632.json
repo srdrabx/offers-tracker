@@ -55,12 +55,12 @@
     },
     {
       "id": "9547",
-      "name": "WINDOWS",
+      "name": "Windows",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-12-15T01:43:02.751Z",
+      "updated": "2021-02-05T16:07:21.852Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -82,12 +82,12 @@
     },
     {
       "id": "1102",
-      "name": "PROGRAMMING",
+      "name": "Programming",
       "namespace": "epic",
-      "aliases": null,
+      "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:09.264Z",
-      "updated": "2020-04-02T01:41:35.676Z",
+      "updated": "2021-02-05T16:13:08.102Z",
       "status": "ACTIVE",
       "referenceCount": 3,
       "comment": null

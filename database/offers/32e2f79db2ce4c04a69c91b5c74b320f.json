@@ -43,24 +43,24 @@
     },
     {
       "id": "1299",
-      "name": "COMPETITIVE",
+      "name": "Competitive",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:47.106Z",
-      "updated": "2020-12-15T01:44:44.025Z",
+      "updated": "2021-02-05T16:13:20.502Z",
       "status": "ACTIVE",
       "referenceCount": 4,
       "comment": null
     },
     {
       "id": "9547",
-      "name": "WINDOWS",
+      "name": "Windows",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-12-15T01:43:02.751Z",
+      "updated": "2021-02-05T16:07:21.852Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null

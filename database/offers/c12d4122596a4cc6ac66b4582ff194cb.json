@@ -1,0 +1,52 @@
+{
+  "id": "c12d4122596a4cc6ac66b4582ff194cb",
+  "namespace": "7e508f543b05465abe3a935960eb70ac",
+  "title": "DLC101",
+  "description": "DLC101",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "banedlc101",
+  "creationDate": "2021-02-06T00:45:29.258Z",
+  "lastModifiedDate": "2021-02-06T00:45:29.258Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+    "name": "Codename Entertainment"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "a3bf2bf5775e4a6ebdc2ebb34bb5fea2"
+    }
+  ],
+  "catalogNs": null
+}

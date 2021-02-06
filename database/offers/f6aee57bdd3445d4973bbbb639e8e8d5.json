@@ -52,12 +52,12 @@
     },
     {
       "id": "9547",
-      "name": "WINDOWS",
+      "name": "Windows",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-12-15T01:43:02.751Z",
+      "updated": "2021-02-05T16:07:21.852Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -91,12 +91,12 @@
     },
     {
       "id": "1247",
-      "name": "METROIDVANIA",
+      "name": "Metroidvania",
       "namespace": "epic",
-      "aliases": null,
+      "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:21.277Z",
-      "updated": "2020-05-14T19:40:40.953Z",
+      "updated": "2021-02-05T16:14:10.517Z",
       "status": "ACTIVE",
       "referenceCount": 3,
       "comment": null

@@ -40,12 +40,12 @@
   "tags": [
     {
       "id": "1283",
-      "name": "SPORTS",
+      "name": "Sports",
       "namespace": "epic",
-      "aliases": null,
+      "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:39.226Z",
-      "updated": "2020-09-16T23:47:27.335Z",
+      "updated": "2021-02-05T16:10:53.103Z",
       "status": "ACTIVE",
       "referenceCount": 2,
       "comment": null
@@ -64,12 +64,12 @@
     },
     {
       "id": "9547",
-      "name": "WINDOWS",
+      "name": "Windows",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-12-15T01:43:02.751Z",
+      "updated": "2021-02-05T16:07:21.852Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null

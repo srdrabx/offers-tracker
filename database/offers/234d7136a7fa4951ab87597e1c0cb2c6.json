@@ -1,0 +1,52 @@
+{
+  "id": "234d7136a7fa4951ab87597e1c0cb2c6",
+  "namespace": "7e508f543b05465abe3a935960eb70ac",
+  "title": "DLC100",
+  "description": "DLC100",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "banedlc100",
+  "creationDate": "2021-02-06T00:37:04.213Z",
+  "lastModifiedDate": "2021-02-06T00:44:54.951Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+    "name": "Codename Entertainment"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "a467b6b59b65485cba2be7411794a6f5"
+    }
+  ],
+  "catalogNs": null
+}
