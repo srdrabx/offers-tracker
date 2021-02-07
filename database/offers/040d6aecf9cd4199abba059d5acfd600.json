@@ -63,6 +63,18 @@
       "comment": null
     },
     {
+      "id": "14944",
+      "name": "The Showcase Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-02-04T17:51:00.530Z",
+      "updated": "2021-02-04T17:51:00.530Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": ""
+    },
+    {
       "id": "1393",
       "name": "SIMULATION",
       "namespace": "epic",
@@ -100,12 +112,12 @@
     },
     {
       "id": "1110",
-      "name": "PARTY",
+      "name": "Party",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:13.150Z",
-      "updated": "2020-12-15T01:49:10.560Z",
+      "updated": "2021-02-05T16:19:28.751Z",
       "status": "ACTIVE",
       "referenceCount": 12,
       "comment": null

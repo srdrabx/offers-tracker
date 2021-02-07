@@ -51,6 +51,18 @@
       "comment": null
     },
     {
+      "id": "14944",
+      "name": "The Showcase Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-02-04T17:51:00.530Z",
+      "updated": "2021-02-04T17:51:00.530Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": ""
+    },
+    {
       "id": "1121",
       "name": "SPACE",
       "namespace": "epic",
@@ -64,12 +76,12 @@
     },
     {
       "id": "1281",
-      "name": "SPACE SIM",
+      "name": "Space Sim",
       "namespace": "epic",
-      "aliases": null,
+      "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:38.182Z",
-      "updated": "2020-04-02T01:42:00.031Z",
+      "updated": "2021-02-05T16:13:43.665Z",
       "status": "ACTIVE",
       "referenceCount": 4,
       "comment": null

@@ -85,12 +85,12 @@
   },
   "1110": {
     "id": "1110",
-    "name": "PARTY",
+    "name": "Party",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
     "created": "2019-06-20T11:59:13.150Z",
-    "updated": "2020-12-15T01:49:10.560Z",
+    "updated": "2021-02-05T16:19:28.751Z",
     "status": "ACTIVE",
     "referenceCount": 12,
     "comment": null
@@ -541,12 +541,12 @@
   },
   "1281": {
     "id": "1281",
-    "name": "SPACE SIM",
+    "name": "Space Sim",
     "namespace": "epic",
-    "aliases": null,
+    "aliases": [],
     "operator": null,
     "created": "2019-06-20T12:00:38.182Z",
-    "updated": "2020-04-02T01:42:00.031Z",
+    "updated": "2021-02-05T16:13:43.665Z",
     "status": "ACTIVE",
     "referenceCount": 4,
     "comment": null
@@ -673,12 +673,12 @@
   },
   "1318": {
     "id": "1318",
-    "name": "TRIVIA",
+    "name": "Trivia",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
     "created": "2019-06-20T12:00:56.576Z",
-    "updated": "2020-12-15T01:49:59.314Z",
+    "updated": "2021-02-05T16:17:48.213Z",
     "status": "ACTIVE",
     "referenceCount": 9,
     "comment": null
@@ -829,12 +829,12 @@
   },
   "1381": {
     "id": "1381",
-    "name": "EXPLORATION",
+    "name": "Exploration",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
     "created": "2019-06-20T12:01:27.799Z",
-    "updated": "2020-12-15T01:48:37.666Z",
+    "updated": "2021-02-05T16:20:12.282Z",
     "status": "ACTIVE",
     "referenceCount": 14,
     "comment": null
@@ -1038,6 +1038,18 @@
     "updated": "2021-02-04T15:59:37.083Z",
     "status": "ACTIVE",
     "referenceCount": 17,
+    "comment": ""
+  },
+  "14944": {
+    "id": "14944",
+    "name": "The Showcase Sale",
+    "namespace": null,
+    "aliases": [],
+    "operator": null,
+    "created": "2021-02-04T17:51:00.530Z",
+    "updated": "2021-02-04T17:51:00.530Z",
+    "status": "ACTIVE",
+    "referenceCount": null,
     "comment": ""
   }
 }

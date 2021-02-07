@@ -31,12 +31,12 @@
   "tags": [
     {
       "id": "1281",
-      "name": "SPACE SIM",
+      "name": "Space Sim",
       "namespace": "epic",
-      "aliases": null,
+      "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:38.182Z",
-      "updated": "2020-04-02T01:42:00.031Z",
+      "updated": "2021-02-05T16:13:43.665Z",
       "status": "ACTIVE",
       "referenceCount": 4,
       "comment": null
@@ -55,12 +55,12 @@
     },
     {
       "id": "1381",
-      "name": "EXPLORATION",
+      "name": "Exploration",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:27.799Z",
-      "updated": "2020-12-15T01:48:37.666Z",
+      "updated": "2021-02-05T16:20:12.282Z",
       "status": "ACTIVE",
       "referenceCount": 14,
       "comment": null
