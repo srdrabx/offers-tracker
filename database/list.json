@@ -4183,7 +4183,7 @@
     ],
     "Good-Feel Co",
     1587041679,
-    1610121098,
+    1612886305,
     "https://cdn1.epicgames.com/aa54bad47e504fdca79a3eb77be8c465/offer/EGS_MONKEYBARRELS_GoodFeelCoLtd_S2-1200x1600-2a1d398bad097402dcdca68d72c61641.jpg",
     "monkey-barrels"
   ],
@@ -10075,6 +10075,22 @@
     ""
   ],
   [
+    "3119a7edcaaa45208cd45818b951c0cd",
+    "45bd0f6fc2704e22a3c1933f7bb972bf",
+    "The Life and Suffering of Sir Brante",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "101XP Limited",
+    1612744697,
+    1612874437,
+    "https://cdn1.epicgames.com/45bd0f6fc2704e22a3c1933f7bb972bf/offer/EGS_TheLifeandSufferingofSirBrante_Sever_S2-1200x1600-06beede908bd1dc03f18bec5693e7cff.jpg",
+    "the-life-and-suffering-of-sir-brante"
+  ],
+  [
     "311b2e51cc1242a999517570f4524411",
     "1368a7f14c3344bbaededbae528fafed",
     "Dead Cells: The Bad Seed + Soundtracks Bundle",
@@ -14171,7 +14187,7 @@
     ],
     "SEGA of Europe",
     1599161517,
-    1612230931,
+    1612810985,
     "https://cdn1.epicgames.com/c1ccf2ba1bc1473abb6ca5168e1a670c/offer/FM20_tall-1200x1600-458c5f71663d769a40cbac02466d51db.jpg",
     "football-manager-2020/in-game-editor"
   ],
@@ -17376,7 +17392,7 @@
     ],
     "Proletariat, Inc.",
     1608211062,
-    1612793165,
+    1612821656,
     "https://cdn1.epicgames.com/newt/offer/EGS_SpellbreakRoguePack_ProletariatInc_DLC_S2-1200x1600-bc9debcb2857e9b13b3b6a3210fa220c.jpg",
     "spellbreak/rogue-pack"
   ],
@@ -19599,6 +19615,21 @@
     1608061144,
     "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
     ""
+  ],
+  [
+    "5e618d5f46994461877428f07b092541",
+    "oregano",
+    "Complete Edition Year 3",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Ubisoft Entertainment",
+    1612287789,
+    1612882851,
+    "https://cdn1.epicgames.com/oregano/offer/an18-completey3-epic-store-portrait-1200x1600-1200x1600-e344d61abd31-1200x1600-581c3b08baaf44ec61ed2e1d91465e2c.jpg",
+    "anno-1800/complete-edition"
   ],
   [
     "5e763412e0aa4db1ab8d3d2f7335b81e",
@@ -30846,6 +30877,21 @@
     "watch-dogs-legion"
   ],
   [
+    "973fae3f4a6b4300af38f0341c65b1a0",
+    "oregano",
+    "Season 3 Pass",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Ubisoft Entertainment",
+    1611961921,
+    1612882930,
+    "https://cdn1.epicgames.com/oregano/offer/an18-seasonpass3-epic-store-portrait-1200x1600-1200x1600-c042156fce98-1200x1600-1fdbebf480248006f24b11db54dd2083.jpg",
+    "anno-1800/season-pass-3"
+  ],
+  [
     "97408232545d484f881925718dcbdebe",
     "3fafb94f3f804d6bbe85da723c90e689",
     "Morale Boost",
@@ -38261,6 +38307,21 @@
     "shadowhand"
   ],
   [
+    "b9988da9129b486b91e437ee928ee613",
+    "oregano",
+    "Gold Edition Year 3",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Ubisoft Entertainment",
+    1612230426,
+    1612882851,
+    "https://cdn1.epicgames.com/oregano/offer/an18-goldy3-epic-store-portrait-1200x1600-1200x1600-23ff74d50289-1200x1600-24cd83b9861c5a9edc24dbdff8005072.jpg",
+    "anno-1800/gold-edition"
+  ],
+  [
     "b9b8a0ee56354f9a99543613bd70c9b5",
     "cobra",
     "CobraDevAudience",
@@ -39951,11 +40012,12 @@
     [
       "games",
       "games/edition",
+      "games/edition/base",
       "applications"
     ],
     "505 Games",
     1598635152,
-    1599695970,
+    1612865365,
     "https://cdn1.epicgames.com/calluna/offer/1200x1600_CUE_OfferAsset-1200x1600-3c855cea4b117462d074ceb2c7b9f83e.jpg",
     "control/ultimate-edition"
   ],
@@ -51669,7 +51731,7 @@
     ],
     "Proletariat, Inc.",
     1608211106,
-    1608211138,
+    1612821939,
     "",
     "spellbreak/warlock-chapter-pack"
   ],

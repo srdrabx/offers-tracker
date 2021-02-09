@@ -1,0 +1,111 @@
+{
+  "id": "973fae3f4a6b4300af38f0341c65b1a0",
+  "namespace": "oregano",
+  "title": "Season 3 Pass",
+  "description": "Season 3 Pass",
+  "longDescription": "",
+  "status": "ACTIVE",
+  "productSlug": "anno-1800/season-pass-3",
+  "urlSlug": "anno-1800--season-pass-y3",
+  "creationDate": "2021-01-29T23:12:01.897Z",
+  "lastModifiedDate": "2021-02-09T15:02:10.969Z",
+  "effectiveDate": "2021-02-09T16:00:00.000Z",
+  "viewableDate": "2021-02-09T16:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "availableDate",
+      "value": "1614096000"
+    },
+    {
+      "key": "developerName",
+      "value": "Blue Byte"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "anno-1800/season-pass-3"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/oregano/offer/an18-seasonpass3-epic-store-landscape-2560x1440-2560x1440-ce1c215e9524-2560x1440-8e86ebfea295c5fcaa111c535cc347d3.jpg",
+      "md5": "8e86ebfea295c5fcaa111c535cc347d3",
+      "size": 470105,
+      "uploadedDate": "2021-02-03T21:07:53.873Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/oregano/offer/an18-seasonpass3-epic-store-portrait-1200x1600-1200x1600-c042156fce98-1200x1600-1fdbebf480248006f24b11db54dd2083.jpg",
+      "md5": "1fdbebf480248006f24b11db54dd2083",
+      "size": 345132,
+      "uploadedDate": "2021-02-03T21:08:13.140Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/oregano/offer/an18-seasonpass3-epic-store-portrait-1200x1600-1200x1600-c042156fce98-1200x1600-1fdbebf480248006f24b11db54dd2083.jpg",
+      "md5": "1fdbebf480248006f24b11db54dd2083",
+      "size": 345132,
+      "uploadedDate": "2021-02-03T21:08:25.335Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/oregano/offer/an18-seasonpass3-epic-store-portrait-1200x1600-1200x1600-c042156fce98-1200x1600-1fdbebf480248006f24b11db54dd2083.jpg",
+      "md5": "1fdbebf480248006f24b11db54dd2083",
+      "size": 345132,
+      "uploadedDate": "2021-02-03T21:08:38.413Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "d742b5a1c3e84154ae0fbf7c0f46964c"
+    },
+    {
+      "id": "cdddd52ad3dd4cd7b21b6a80634d95a4"
+    }
+  ],
+  "catalogNs": null
+}

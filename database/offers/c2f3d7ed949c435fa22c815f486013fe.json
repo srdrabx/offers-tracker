@@ -8,7 +8,7 @@
   "productSlug": "control/ultimate-edition",
   "urlSlug": "control-ultimate-edition",
   "creationDate": "2020-08-28T17:19:12.386Z",
-  "lastModifiedDate": "2020-09-09T23:59:30.380Z",
+  "lastModifiedDate": "2021-02-09T10:09:25.304Z",
   "effectiveDate": "2020-09-09T20:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -29,6 +29,9 @@
     },
     {
       "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
     },
     {
       "path": "applications"

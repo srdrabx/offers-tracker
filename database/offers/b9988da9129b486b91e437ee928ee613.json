@@ -1,0 +1,116 @@
+{
+  "id": "b9988da9129b486b91e437ee928ee613",
+  "namespace": "oregano",
+  "title": "Gold Edition Year 3",
+  "description": "Gold Edition Year 3",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "anno-1800/gold-edition",
+  "urlSlug": "oregano-y3-gold-edition",
+  "creationDate": "2021-02-02T01:47:06.572Z",
+  "lastModifiedDate": "2021-02-09T15:00:51.139Z",
+  "effectiveDate": "2021-02-09T16:00:00.000Z",
+  "viewableDate": "2021-02-09T16:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "14944",
+      "name": "The Showcase Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-02-04T17:51:00.530Z",
+      "updated": "2021-02-08T16:07:03.328Z",
+      "status": "ACTIVE",
+      "referenceCount": 366,
+      "comment": ""
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "developerName",
+      "value": "Blue Byte"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "anno-1800/gold-edition"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/oregano/offer/an18-goldy3-epic-store-landscape-2560x1440-2560x1440-6e57ec9c8af6-2560x1440-173e0ba039c27403bbbd5811e977cf43.jpg",
+      "md5": "173e0ba039c27403bbbd5811e977cf43",
+      "size": 386356,
+      "uploadedDate": "2021-02-03T20:54:29.979Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/oregano/offer/an18-goldy3-epic-store-portrait-1200x1600-1200x1600-23ff74d50289-1200x1600-24cd83b9861c5a9edc24dbdff8005072.jpg",
+      "md5": "24cd83b9861c5a9edc24dbdff8005072",
+      "size": 331898,
+      "uploadedDate": "2021-02-03T20:54:39.517Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/oregano/offer/an18-goldy3-epic-store-portrait-1200x1600-1200x1600-23ff74d50289-1200x1600-24cd83b9861c5a9edc24dbdff8005072.jpg",
+      "md5": "24cd83b9861c5a9edc24dbdff8005072",
+      "size": 331898,
+      "uploadedDate": "2021-02-03T20:54:50.835Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/oregano/offer/an18-goldy3-epic-store-portrait-1200x1600-1200x1600-23ff74d50289-1200x1600-24cd83b9861c5a9edc24dbdff8005072.jpg",
+      "md5": "24cd83b9861c5a9edc24dbdff8005072",
+      "size": 331898,
+      "uploadedDate": "2021-02-03T20:55:04.098Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "fa57396db52041358c98549c10c669d4"
+    },
+    {
+      "id": "f3ea3bc78b1240b59d13731d24b83cdf"
+    }
+  ],
+  "catalogNs": null
+}
