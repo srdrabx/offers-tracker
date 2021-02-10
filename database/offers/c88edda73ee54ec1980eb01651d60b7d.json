@@ -1,14 +1,14 @@
 {
   "id": "c88edda73ee54ec1980eb01651d60b7d",
   "namespace": "7e508f543b05465abe3a935960eb70ac",
-  "title": "DLC104",
-  "description": "DLC104",
+  "title": "DLC075",
+  "description": "DLC075",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "banedlc104",
+  "urlSlug": "banedlc075",
   "creationDate": "2021-02-06T00:47:06.375Z",
-  "lastModifiedDate": "2021-02-06T00:47:06.375Z",
+  "lastModifiedDate": "2021-02-09T21:46:21.963Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -45,7 +45,7 @@
   "keyImages": [],
   "items": [
     {
-      "id": "5ceb21430a2f47d5812d2dacd372ee08"
+      "id": "06ad9aa80f1c46eaaeae63201717f6ad"
     }
   ],
   "catalogNs": null

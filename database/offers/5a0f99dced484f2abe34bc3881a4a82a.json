@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "19-dlc",
   "creationDate": "2021-01-04T20:49:38.352Z",
-  "lastModifiedDate": "2021-02-03T18:05:56.613Z",
+  "lastModifiedDate": "2021-02-10T01:01:24.295Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -28,7 +28,7 @@
       "path": "addons"
     },
     {
-      "path": "addons/consumable"
+      "path": "addons/durable"
     },
     {
       "path": "applications"

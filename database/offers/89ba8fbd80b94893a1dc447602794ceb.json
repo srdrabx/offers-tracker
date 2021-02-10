@@ -1,0 +1,52 @@
+{
+  "id": "89ba8fbd80b94893a1dc447602794ceb",
+  "namespace": "7e508f543b05465abe3a935960eb70ac",
+  "title": "DLC087",
+  "description": "DLC087",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "banedlc087",
+  "creationDate": "2021-02-09T22:37:24.974Z",
+  "lastModifiedDate": "2021-02-09T22:38:09.602Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+    "name": "Codename Entertainment"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "3318b4a9dc514171b28f9171beead717"
+    }
+  ],
+  "catalogNs": null
+}

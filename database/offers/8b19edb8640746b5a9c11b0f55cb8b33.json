@@ -1,0 +1,52 @@
+{
+  "id": "8b19edb8640746b5a9c11b0f55cb8b33",
+  "namespace": "7e508f543b05465abe3a935960eb70ac",
+  "title": "DLC076",
+  "description": "DLC076",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "banedlc075-01",
+  "creationDate": "2021-02-09T21:47:01.525Z",
+  "lastModifiedDate": "2021-02-09T21:47:01.525Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+    "name": "Codename Entertainment"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "0a099d63ff8444829f25ce9e259f9146"
+    }
+  ],
+  "catalogNs": null
+}
