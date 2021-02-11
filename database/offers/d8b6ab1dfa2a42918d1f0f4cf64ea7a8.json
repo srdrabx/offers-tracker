@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "zombie-army-4-dead-war--desert-damaged-weapon-skins",
   "creationDate": "2021-01-19T23:11:30.393Z",
-  "lastModifiedDate": "2021-02-02T19:12:52.497Z",
+  "lastModifiedDate": "2021-02-11T13:50:09.055Z",
   "effectiveDate": "2021-02-11T14:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -24,6 +24,12 @@
   "technicalDetails": null,
   "recurrence": "ONCE",
   "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
     {
       "path": "applications"
     }

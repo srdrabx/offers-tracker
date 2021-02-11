@@ -2,13 +2,13 @@
   "id": "0332d045bd914c78bc295f4e7abace93",
   "namespace": "dfd2530e80e4425d801913b0879be444",
   "title": "SVT-38 Rifle Bundle",
-  "description": "Boris’ weapon of choice, the Tokarev SVT-38 is a powerful semi-automatic rifle. Russian-made, of course. Simple and effective, this pioneering weapon is a marvel of Soviet engineering – powerful and deadly!",
-  "longDescription": "Boris’ weapon of choice, the Tokarev SVT-38 is a powerful semi-automatic rifle. Russian-made, of course. Simple and effective, this pioneering weapon is a marvel of Soviet engineering – powerful and deadly! \n\nThis Weapon Bundle contains;\n- The Tokarev SVT-38 Rifle\n- 2 Charms (Broken Cuffs, Weapons Crest)\n- 2 Bespoke Weapon Skins (Prison Tattoos, Huntsman)",
+  "description": "Boris’ weapon of choice, the SVT-38 is a powerful semi-automatic rifle. Russian-made, of course. Simple and effective, this pioneering weapon is a marvel of Soviet engineering – powerful and deadly!",
+  "longDescription": "Boris’ weapon of choice, the SVT-38 is a powerful semi-automatic rifle. Russian-made, of course. Simple and effective, this pioneering weapon is a marvel of Soviet engineering – powerful and deadly! \n\nThis Weapon Bundle contains;\n- The SVT-38 Rifle\n- 2 Charms (Broken Cuffs, Weapons Crest)\n- 2 Bespoke Weapon Skins (Prison Tattoos, Huntsman)",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "zombie-army-4-dead-war--svt-38-rifle-bundle",
   "creationDate": "2020-09-04T12:23:40.818Z",
-  "lastModifiedDate": "2021-01-19T13:39:20.988Z",
+  "lastModifiedDate": "2021-02-11T13:50:08.922Z",
   "effectiveDate": "2020-12-08T17:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -55,57 +55,57 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_DLCCAPSULE_SVT38_Rifle_Bundle-900x450-3dd8e9458a7c87cd63b78c9ce53d1044.jpg",
-      "md5": "3dd8e9458a7c87cd63b78c9ce53d1044",
-      "size": 498674,
-      "uploadedDate": "2020-12-01T17:41:55.448Z",
-      "width": 900,
-      "height": 450
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EN_Rebellion_ZombieArmy4_SVT-38_S1_2560x1440-2560x1440-25fe4ee773fcd1787673741d359a25d0.jpg",
+      "md5": "25fe4ee773fcd1787673741d359a25d0",
+      "size": 507129,
+      "uploadedDate": "2021-02-02T19:37:45.308Z",
+      "width": 2560,
+      "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_SVT38_Rifle_Bundle_REDEMPTIONIMAGE-860x1180-dce8f8a3f2c80531b4b3ae0310a105c4.jpg",
-      "md5": "dce8f8a3f2c80531b4b3ae0310a105c4",
-      "size": 460698,
-      "uploadedDate": "2020-12-01T17:42:01.767Z",
-      "width": 860,
-      "height": 1180
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EN_Rebellion_ZombieArmy4_SVT-38_S2_1200x1600-1200x1600-bfffd00917061ed77aa60ed304c71435.jpg",
+      "md5": "bfffd00917061ed77aa60ed304c71435",
+      "size": 506711,
+      "uploadedDate": "2021-02-02T19:37:51.093Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_SVT38_Rifle_Bundle_REDEMPTIONIMAGE-860x1180-dce8f8a3f2c80531b4b3ae0310a105c4.jpg",
-      "md5": "dce8f8a3f2c80531b4b3ae0310a105c4",
-      "size": 460698,
-      "uploadedDate": "2020-12-01T17:42:16.275Z",
-      "width": 860,
-      "height": 1180
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EN_Rebellion_ZombieArmy4_SVT-38_S2_1200x1600-1200x1600-bfffd00917061ed77aa60ed304c71435.jpg",
+      "md5": "bfffd00917061ed77aa60ed304c71435",
+      "size": 506711,
+      "uploadedDate": "2021-02-02T19:38:01.676Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_SVT38_Rifle_Bundle_REDEMPTIONIMAGE-860x1180-dce8f8a3f2c80531b4b3ae0310a105c4.jpg",
-      "md5": "dce8f8a3f2c80531b4b3ae0310a105c4",
-      "size": 460698,
-      "uploadedDate": "2020-12-01T17:42:25.930Z",
-      "width": 860,
-      "height": 1180
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EN_Rebellion_ZombieArmy4_SVT-38_S2_1200x1600-1200x1600-bfffd00917061ed77aa60ed304c71435.jpg",
+      "md5": "bfffd00917061ed77aa60ed304c71435",
+      "size": 506711,
+      "uploadedDate": "2021-02-02T19:38:09.180Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_DLCCAPSULE_SVT38_Rifle_Bundle-900x450-3dd8e9458a7c87cd63b78c9ce53d1044.jpg",
-      "md5": "3dd8e9458a7c87cd63b78c9ce53d1044",
-      "size": 498674,
-      "uploadedDate": "2020-12-01T17:42:35.959Z",
-      "width": 900,
-      "height": 450
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EN_Rebellion_ZombieArmy4_SVT-38_S1_2560x1440-2560x1440-25fe4ee773fcd1787673741d359a25d0.jpg",
+      "md5": "25fe4ee773fcd1787673741d359a25d0",
+      "size": 507129,
+      "uploadedDate": "2021-02-02T19:38:19.995Z",
+      "width": 2560,
+      "height": 1440
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_SVT38_Rifle_Bundle_REDEMPTIONIMAGE-860x1180-dce8f8a3f2c80531b4b3ae0310a105c4.jpg",
-      "md5": "dce8f8a3f2c80531b4b3ae0310a105c4",
-      "size": 460698,
-      "uploadedDate": "2020-12-01T17:42:42.514Z",
-      "width": 860,
-      "height": 1180
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EN_Rebellion_ZombieArmy4_SVT-38_S2_1200x1600-1200x1600-bfffd00917061ed77aa60ed304c71435.jpg",
+      "md5": "bfffd00917061ed77aa60ed304c71435",
+      "size": 506711,
+      "uploadedDate": "2021-02-02T19:38:26.958Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [

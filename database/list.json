@@ -497,8 +497,8 @@
     ],
     "Rebellion",
     1599222220,
-    1611063560,
-    "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_SVT38_Rifle_Bundle_REDEMPTIONIMAGE-860x1180-dce8f8a3f2c80531b4b3ae0310a105c4.jpg",
+    1613051408,
+    "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EN_Rebellion_ZombieArmy4_SVT-38_S2_1200x1600-1200x1600-bfffd00917061ed77aa60ed304c71435.jpg",
     ""
   ],
   [
@@ -595,13 +595,11 @@
     "bf333e6236914222a95a536389c05813",
     "DLC 02",
     [
-      "addons",
-      "addons/consumable",
       "applications"
     ],
     "SEGA",
     1609792386,
-    1610129273,
+    1612980453,
     "",
     ""
   ],
@@ -1043,13 +1041,11 @@
     "bf333e6236914222a95a536389c05813",
     "DLC 10",
     [
-      "addons",
-      "addons/consumable",
       "applications"
     ],
     "SEGA",
     1609792674,
-    1610129336,
+    1612980410,
     "",
     ""
   ],
@@ -1099,13 +1095,11 @@
     "bf333e6236914222a95a536389c05813",
     "DLC 06",
     [
-      "addons",
-      "addons/consumable",
       "applications"
     ],
     "SEGA",
     1609792529,
-    1610129306,
+    1612980431,
     "",
     ""
   ],
@@ -1576,13 +1570,11 @@
     "bf333e6236914222a95a536389c05813",
     "DLC 13",
     [
-      "addons",
-      "addons/durable",
       "applications"
     ],
     "SEGA",
     1609793092,
-    1610129359,
+    1612980391,
     "",
     ""
   ],
@@ -1984,6 +1976,21 @@
     ""
   ],
   [
+    "099cbe1eb3774bc18e96c39425234b6b",
+    "3dd7b519d7ab4631ae96d3efa8588514",
+    "Halcyon 6: The Precursor Legacy",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Massive Damage",
+    1611868601,
+    1613056553,
+    "https://cdn1.epicgames.com/3dd7b519d7ab4631ae96d3efa8588514/offer/e6883a14-e6d1-4a56-9f4c-e110230468c8-1200x1600-d0ef8edc825f21048d2f23eebd7115b6.jpeg",
+    ""
+  ],
+  [
     "09ba170469614cde82d99537c7d756e2",
     "93b333eb973b45b582f3bdf68dfc1dc9",
     "Railway Empire - DLC Bundle",
@@ -1995,7 +2002,7 @@
     ],
     "Kalypso Media Group GmbH",
     1605194845,
-    1606403541,
+    1613057195,
     "https://cdn1.epicgames.com/93b333eb973b45b582f3bdf68dfc1dc9/offer/EGS_RailwayEmpireDLCBundle_GamingMindsStudios_Bundles_S2-1200x1600-65799b1ce0c274ec63f6db2641275d87.jpg",
     "railway-empire/dlc-bundle"
   ],
@@ -2506,6 +2513,23 @@
     1605809430,
     "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/offer/CodeRedemption_QUBE2-340x440-f1d1382e13c4016059e0b41baa6f38ce.jpg",
     "q-u-b-e-2"
+  ],
+  [
+    "0c90d229f27a4251beee8b4776a8fb44",
+    "9d2f484bbec64aa8ad234b3199dcaf1c",
+    "Absolute Drift",
+    [
+      "freegames",
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Funselektor Labs INC",
+    1605598653,
+    1613060402,
+    "https://cdn1.epicgames.com/9d2f484bbec64aa8ad234b3199dcaf1c/offer/EGS_AbsoluteDrift_FunselektorLabsInc_S2-1200x1600-d61d185c1a25c41b211b497b89648832.jpg",
+    "absolute-drift"
   ],
   [
     "0c9611d15c814639948ed535acbdbb9a",
@@ -4411,6 +4435,20 @@
     "20xx"
   ],
   [
+    "14f5bfd552814aa08f0a4fc3531a40d2",
+    "newt",
+    "RMT Trickster",
+    [
+      "games",
+      "applications"
+    ],
+    "Proletariat, Inc.",
+    1612976593,
+    1612985490,
+    "",
+    "spellbreak/trickster"
+  ],
+  [
     "14f7d8fdd5a44768b8aad40c6a5ae018",
     "8e66d3f552b448afb1889c32ac855fc9",
     "TowerFall Ascension",
@@ -5262,7 +5300,7 @@
     ],
     "Kalypso Media Group GmbH",
     1588955714,
-    1609858445,
+    1613056805,
     "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/offer/EGS_Tropico6_LimbicEntertainment_S2-1200x1600-9dd14a5f6c7120e220dfe8c952f31633.jpg",
     "tropico-6/home"
   ],
@@ -5610,7 +5648,7 @@
     ],
     "Kalypso Media Group GmbH",
     1593439358,
-    1608138605,
+    1613056861,
     "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/offer/EGS_TheLlamaofWallStreet_LimbicEntertainment_DLC_S2-1200x1600-f7b732c53014e9cb978e96eaffefbeaf.jpg",
     ""
   ],
@@ -5673,6 +5711,21 @@
     1588120702,
     "",
     "ancestors/home"
+  ],
+  [
+    "1b38a52fc1264929b5045c130c17d8d6",
+    "9a4a6536096c4307bfb235d811f754ce",
+    "Heartfelt Pack of Love",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Perfect World",
+    1612374855,
+    1613055572,
+    "https://cdn1.epicgames.com/9a4a6536096c4307bfb235d811f754ce/offer/EGS_HeartfeltPackofLove_CrypticStudios_Packs_S2-1200x1600-6f9941900b91f39c4d7c21d72f5d8376.jpg",
+    ""
   ],
   [
     "1b4f07d046a2482aa918a1716e993b32",
@@ -6239,7 +6292,7 @@
     ],
     "Kalypso Media Group GmbH",
     1596462829,
-    1602155137,
+    1613056723,
     "https://cdn1.epicgames.com/e89efaeec0cd408abee8bd4dd02c8d32/offer/EGS_PortRoyale4StandardEdition_GamingMindsStudios_S2-1200x1600-d64a2c6eb6f754d0b5f09fe7f325cd72.jpg",
     "port-royale-4/home"
   ],
@@ -6519,13 +6572,11 @@
     "bf333e6236914222a95a536389c05813",
     "DLC 17",
     [
-      "addons",
-      "addons/consumable",
       "applications"
     ],
     "SEGA",
     1609793243,
-    1612375567,
+    1612980367,
     "",
     ""
   ],
@@ -7326,6 +7377,21 @@
     "ark/the-center"
   ],
   [
+    "2383cdf29fb44d5598ce4e140a232f70",
+    "6af58339c2424644988e0fb83dfd9bd5",
+    "Surf Mesa ft. Emilee - \"ily (i love you baby)\"",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "NCSoft",
+    1607653250,
+    1613061128,
+    "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_SurfMesaftEmileeilyiloveyoubaby_HarmonixMusicSystemsInc_DLC_S2-1200x1600-9c8b98eef1c3d6bb47553daed6a29889.jpg",
+    ""
+  ],
+  [
     "2385d033d11a469fa08cbae090ae97d8",
     "2dbd2f64abdc4bbab077424d5c85e01b",
     "Tom Clancy's Ghost Recon Breakpoint",
@@ -7644,7 +7710,7 @@
     ],
     "Kalypso Media Group GmbH",
     1586976669,
-    1605197279,
+    1613057078,
     "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/offer/EGS_Dungeons3_RealmforgeStudios_S4-1200x1600-1bd28634e22cae5706b41f0e3ef9cc0c.jpg",
     "dungeons-3/home"
   ],
@@ -8038,6 +8104,23 @@
     "path-of-exile/elite-faithsworn-pack"
   ],
   [
+    "26c8bec5ae4f44b6b942b9564e81cafc",
+    "2736ab9fec9c4a93a7a2872ed5154d4b",
+    "Rage 2",
+    [
+      "freegames",
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Bethesda Softworks LLC",
+    1604518482,
+    1613060251,
+    "https://cdn1.epicgames.com/2736ab9fec9c4a93a7a2872ed5154d4b/offer/egs-rage2-idsoftware-s2-1200x1600-ee8fcbffe5b0-1200x1600-d692008156cef0c206454ef84c987499.jpg",
+    "rage-2"
+  ],
+  [
     "26c93a790d334c1db4993f170a4441d5",
     "244aaaa06bfa49d088205b13b9d2d115",
     "Warframe: 4300 Platinum + Triple Rare Mod",
@@ -8286,15 +8369,16 @@
   [
     "284a7f3a45a241c2ac17c726695ed1da",
     "2736ab9fec9c4a93a7a2872ed5154d4b",
-    "DLC3",
+    "Rage 2 - 2500 RAGE Coins",
     [
-      "games",
+      "addons",
+      "addons/consumable",
       "applications"
     ],
     "Bethesda Softworks LLC",
     1604519547,
-    1604527218,
-    "",
+    1613056669,
+    "https://cdn1.epicgames.com/2736ab9fec9c4a93a7a2872ed5154d4b/offer/egs-rage2-idsoftware-s2-1200x1600-ee8fcbffe5b0-1200x1600-d692008156cef0c206454ef84c987499.jpg",
     ""
   ],
   [
@@ -10309,13 +10393,11 @@
     "bf333e6236914222a95a536389c05813",
     "DLC 14",
     [
-      "addons",
-      "addons/durable",
       "applications"
     ],
     "SEGA",
     1609793129,
-    1610129370,
+    1612980385,
     "",
     ""
   ],
@@ -10656,6 +10738,21 @@
     1594306676,
     "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
     ""
+  ],
+  [
+    "3308d6da86d94969a5087d64e49b7b23",
+    "2736ab9fec9c4a93a7a2872ed5154d4b",
+    "Rage 2 - Deluxe Edition",
+    [
+      "games/edition",
+      "games",
+      "applications"
+    ],
+    "Bethesda Softworks LLC",
+    1604518743,
+    1613056669,
+    "https://cdn1.epicgames.com/2736ab9fec9c4a93a7a2872ed5154d4b/offer/EGS_DeluxeEdition_idSoftware_Editions_S2-1200x1600-5d895b0b85139e108a8d89c6cd6bd197.jpg",
+    "rage-2/deluxe-edition"
   ],
   [
     "3323679b37a547e7801efcd7facb8223",
@@ -11225,15 +11322,16 @@
   [
     "364197b6ea3c457c99e9105799452a1d",
     "2736ab9fec9c4a93a7a2872ed5154d4b",
-    "DLC2",
+    "Rage 2 - 1100 RAGE Coins",
     [
-      "games",
+      "addons",
+      "addons/consumable",
       "applications"
     ],
     "Bethesda Softworks LLC",
     1604519523,
-    1607483218,
-    "",
+    1613056670,
+    "https://cdn1.epicgames.com/2736ab9fec9c4a93a7a2872ed5154d4b/offer/egs-rage2-idsoftware-s2-1200x1600-ee8fcbffe5b0-1200x1600-d692008156cef0c206454ef84c987499.jpg",
     ""
   ],
   [
@@ -13943,15 +14041,16 @@
   [
     "4303877227c44c7d89f2c8c012e3226c",
     "2736ab9fec9c4a93a7a2872ed5154d4b",
-    "DLC4",
+    "Rage 2 - 4500 RAGE Coins",
     [
-      "games",
+      "addons",
+      "addons/consumable",
       "applications"
     ],
     "Bethesda Softworks LLC",
     1604519681,
-    1604527229,
-    "",
+    1613056670,
+    "https://cdn1.epicgames.com/2736ab9fec9c4a93a7a2872ed5154d4b/offer/egs-rage2-idsoftware-s2-1200x1600-ee8fcbffe5b0-1200x1600-d692008156cef0c206454ef84c987499.jpg",
     ""
   ],
   [
@@ -15761,13 +15860,11 @@
     "bf333e6236914222a95a536389c05813",
     "DLC 05",
     [
-      "addons",
-      "addons/consumable",
       "applications"
     ],
     "SEGA",
     1609792499,
-    1610129299,
+    1612980436,
     "",
     ""
   ],
@@ -18667,13 +18764,11 @@
     "bf333e6236914222a95a536389c05813",
     "DLC 19",
     [
-      "addons",
-      "addons/durable",
       "applications"
     ],
     "SEGA",
     1609793378,
-    1612918884,
+    1612980355,
     "",
     ""
   ],
@@ -20515,7 +20610,7 @@
     ],
     "Kalypso Media Group GmbH",
     1605553214,
-    1608142902,
+    1613057037,
     "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/offer/EGS_Tropico5DLCBundle_HaemimontGames_Bundles_S2-1200x1600-b160ae28e5f09b90d32aeb8639ba2a14.jpg",
     ""
   ],
@@ -20524,11 +20619,13 @@
     "dfd2530e80e4425d801913b0879be444",
     "Grease Gun SMG Bundle",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Rebellion",
     1611098108,
-    1612293172,
+    1613051408,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EN_Rebellion_ZombieArmy4_GreaseGunSMGBundle__S2_1200x1600-1200x1600-7e1602310ccfb1843cf592cc722bec61.jpg",
     ""
   ],
@@ -22590,7 +22687,7 @@
     ],
     "2K Games, Inc.",
     1592926492,
-    1596163751,
+    1613059958,
     "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_BOUNTY_OF_BLOOD_EPIC_1200x1600-1200x1600-75069b6d8e6cfdae09c12513eaae7edc.jpg",
     "borderlands-3/bounty-of-blood"
   ],
@@ -22762,6 +22859,19 @@
     1539639879,
     1539758375,
     "",
+    ""
+  ],
+  [
+    "6ddb319834b74f8db7768eec7d6090f0",
+    "2736ab9fec9c4a93a7a2872ed5154d4b",
+    "Rage 2 - 4500 RAGE Coins (JP)",
+    [
+      "applications"
+    ],
+    "Bethesda Softworks LLC",
+    1607380693,
+    1613056670,
+    "https://cdn1.epicgames.com/2736ab9fec9c4a93a7a2872ed5154d4b/offer/egs-rage2-idsoftware-s2-1200x1600-ee8fcbffe5b0-1200x1600-d692008156cef0c206454ef84c987499.jpg",
     ""
   ],
   [
@@ -24248,7 +24358,7 @@
     ],
     "Kalypso Media Group GmbH",
     1593439190,
-    1608138605,
+    1613056888,
     "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/offer/EGS_Spitter_LimbicEntertainment_DLC_S2-1200x1600-7572ab79f3e499fdc685004ce88fe53b.jpg",
     ""
   ],
@@ -24521,7 +24631,7 @@
     ],
     "2K Games, Inc.",
     1597791424,
-    1605818631,
+    1613059958,
     "https://cdn1.epicgames.com/catnip/offer/blsFLk_tall-1200x1600-94d24f8db3c336fbed52a4da39bd586f.jpg",
     "borderlands-3/multiverse-final-form-fl4k-cosmetic-pack"
   ],
@@ -24995,11 +25105,13 @@
     "dfd2530e80e4425d801913b0879be444",
     "M1903 Springfield Rifle Bundle",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Rebellion",
     1611098271,
-    1612293172,
+    1613052380,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_Rebellion_ZombieArmy4_S2_1200x1600-1200x1598-892a9209d778ad61f72560f9ba8d7ab4.jpg",
     ""
   ],
@@ -25166,13 +25278,11 @@
     "bf333e6236914222a95a536389c05813",
     "DLC 08",
     [
-      "addons",
-      "addons/consumable",
       "applications"
     ],
     "SEGA",
     1609792610,
-    1610129322,
+    1612980421,
     "",
     ""
   ],
@@ -26126,13 +26236,11 @@
     "bf333e6236914222a95a536389c05813",
     "DLC 04",
     [
-      "addons",
-      "addons/consumable",
       "applications"
     ],
     "SEGA",
     1609792471,
-    1610129291,
+    1612980442,
     "",
     ""
   ],
@@ -27479,13 +27587,11 @@
     "bf333e6236914222a95a536389c05813",
     "DLC 18",
     [
-      "addons",
-      "addons/consumable",
       "applications"
     ],
     "SEGA",
     1609793334,
-    1612375561,
+    1612980361,
     "",
     ""
   ],
@@ -27623,13 +27729,11 @@
     "bf333e6236914222a95a536389c05813",
     "DLC 07",
     [
-      "addons",
-      "addons/consumable",
       "applications"
     ],
     "SEGA",
     1609792583,
-    1610129314,
+    1612980426,
     "",
     ""
   ],
@@ -28634,6 +28738,19 @@
     "predator-hunting-grounds/dutch-2025-dlc-pack"
   ],
   [
+    "8bc48964234345d0a603e30b6b1839ab",
+    "2736ab9fec9c4a93a7a2872ed5154d4b",
+    "Rage 2 - 500 RAGE Coins (JP)",
+    [
+      "applications"
+    ],
+    "Bethesda Softworks LLC",
+    1607380455,
+    1613056670,
+    "https://cdn1.epicgames.com/2736ab9fec9c4a93a7a2872ed5154d4b/offer/egs-rage2-idsoftware-s2-1200x1600-ee8fcbffe5b0-1200x1600-d692008156cef0c206454ef84c987499.jpg",
+    ""
+  ],
+  [
     "8c02538c55314c22b0e2216502bdac20",
     "eb9117fdc2a1493ba4e8a4e1d2286e2f",
     "Pathway",
@@ -28709,6 +28826,20 @@
     1608262801,
     "https://cdn1.epicgames.com/f312bc218b1d46f7921619cc9f3bf3c7/offer/LangaugeCode_Developer_GameTitle_S4_1200x1600-1200x1600-1959c0d06d2128b2eabeced598f497a0.jpg",
     ""
+  ],
+  [
+    "8c4e1b392fd94ff2a74b3776e305b6f4",
+    "newt",
+    "RMT Priestess",
+    [
+      "games",
+      "applications"
+    ],
+    "Proletariat, Inc.",
+    1612976710,
+    1612985478,
+    "",
+    "spellbreak/priestess"
   ],
   [
     "8c5623737865495fb7cd2a5b0c9e5c6f",
@@ -29002,6 +29133,22 @@
     1605799922,
     "https://cdn1.epicgames.com/39697c68e46b48d2b75e17bdc417d859/offer/EGS_BridgeConstructorTheWalkingDead_ClockStoneSoftware_S2-1200x1600-a6fe394eb2f1d31fe4646b1539487ac3.jpg",
     "bridge-constructor-the-walking-dead/home"
+  ],
+  [
+    "8e407b7130594f55ae16261a1069f83f",
+    "a15e35cda898480d8fed214dc889f199",
+    "Trials Evolution",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Ubisoft Entertainment",
+    1597342309,
+    1613059025,
+    "https://cdn1.epicgames.com/a15e35cda898480d8fed214dc889f199/offer/GameName_Store_Portrait_1200x1600-1200x1600-37a77b043668125a5f70563b1b999732.jpg",
+    "trials-evolution"
   ],
   [
     "8e50ff9ef289489f811da14c33891760",
@@ -30060,13 +30207,11 @@
     "bf333e6236914222a95a536389c05813",
     "DLC 01",
     [
-      "addons",
-      "addons/consumable",
       "applications"
     ],
     "SEGA",
     1609792144,
-    1610129264,
+    1612980460,
     "",
     ""
   ],
@@ -30348,15 +30493,16 @@
   [
     "945fcbf830c1496aab38d13ad3273c3d",
     "2736ab9fec9c4a93a7a2872ed5154d4b",
-    "DLC1",
+    "Rage 2 - 500 RAGE Coins",
     [
-      "games",
+      "addons",
+      "addons/consumable",
       "applications"
     ],
     "Bethesda Softworks LLC",
     1604519072,
-    1604527211,
-    "",
+    1613056670,
+    "https://cdn1.epicgames.com/2736ab9fec9c4a93a7a2872ed5154d4b/offer/egs-rage2-idsoftware-s2-1200x1600-ee8fcbffe5b0-1200x1600-d692008156cef0c206454ef84c987499.jpg",
     ""
   ],
   [
@@ -30498,13 +30644,11 @@
     "bf333e6236914222a95a536389c05813",
     "DLC 03",
     [
-      "addons",
-      "addons/consumable",
       "applications"
     ],
     "SEGA",
     1609792435,
-    1610129282,
+    1612980448,
     "",
     ""
   ],
@@ -32155,7 +32299,7 @@
   [
     "9b974b8c1c444fab9c366c3843fc1ee9",
     "6af58339c2424644988e0fb83dfd9bd5",
-    "Dua Lipa ft. BLACKPINK - \"Kiss and Make Up\"",
+    "Dua Lipa & BLACKPINK - \"Kiss and Make Up\"",
     [
       "addons",
       "addons/durable",
@@ -32163,8 +32307,8 @@
     ],
     "NCSoft",
     1607653200,
-    1607653766,
-    "",
+    1613061128,
+    "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_DuaLipaBLACKPINKKissandMakeUp_HarmonixMusicSystemsInc_DLC_S2-1200x1600-7fa539d22b09c5579f6552dda4c9b60a.jpg",
     ""
   ],
   [
@@ -32566,7 +32710,7 @@
   [
     "9cccea7d88e64bf58a8cdab26f6fa019",
     "dfd2530e80e4425d801913b0879be444",
-    "Luger Pistol Bundle",
+    "Wehrmacht P08 Pistol Bundle",
     [
       "addons",
       "addons/durable",
@@ -32574,9 +32718,9 @@
     ],
     "Rebellion",
     1590177237,
-    1611063560,
-    "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_LUGERPISTOLBUNDLE_REDEMPTIONIMAGE-860x1180-934e6d2a8c9a3d3834bc301e3994eb72.jpg",
-    "zombie-army-4-dead-war/luger-pistol-bundle"
+    1613051408,
+    "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EN_Rebellion_ZombieArmy4_WehrmachtP08PistolBundle__S2_1200x1600-1200x1600-36116658bdd012174df5d6844afa1756.jpg",
+    ""
   ],
   [
     "9ccfdd9d080949f99d4d2b0aa321b165",
@@ -33633,13 +33777,11 @@
     "bf333e6236914222a95a536389c05813",
     "DLC 12",
     [
-      "addons",
-      "addons/durable",
       "applications"
     ],
     "SEGA",
     1609792785,
-    1612918909,
+    1612980398,
     "",
     ""
   ],
@@ -33844,7 +33986,7 @@
     ],
     "Kalypso Media Group GmbH",
     1588958092,
-    1608142902,
+    1613057013,
     "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/offer/EGS_Tropico5_HaemimontGames_S6-1200x1600-e61be120538ecdbc6e43c24605d8eac5.jpg",
     "tropico-5/home"
   ],
@@ -34070,13 +34212,11 @@
     "bf333e6236914222a95a536389c05813",
     "DLC 15",
     [
-      "addons",
-      "addons/durable",
       "applications"
     ],
     "SEGA",
     1609793161,
-    1610129379,
+    1612980378,
     "",
     ""
   ],
@@ -34986,11 +35126,13 @@
     "dfd2530e80e4425d801913b0879be444",
     "Sports Charm Pack",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Rebellion",
     1611098217,
-    1612293172,
+    1613051409,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_Rebellion_ZombieArmy4_S2_1200x1600-1200x1598-bda27de2bf7345b667e456b8a51c12ec.jpg",
     ""
   ],
@@ -35350,7 +35492,7 @@
     ],
     "Massive Damage",
     1611253634,
-    1612451367,
+    1613056553,
     "",
     ""
   ],
@@ -36375,12 +36517,14 @@
     "catnip",
     "Borderlands 3: Season Pass 2",
     [
+      "addons",
       "games",
+      "addons/consumable",
       "applications"
     ],
     "2K Games, Inc.",
     1597783441,
-    1605802830,
+    1613059958,
     "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_SEASONPASS_2_EPIC_Portrait_860x1148-860x1148-732b89a412767c9d2c705fd5972d159e.jpg",
     "borderlands-3/season-pass-2"
   ],
@@ -38172,6 +38316,21 @@
     "star-wars-squadrons/home"
   ],
   [
+    "b82c0387484b4904befcaa0f46816e97",
+    "6af58339c2424644988e0fb83dfd9bd5",
+    "David Guetta & Sia - \"Let's Love\"",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "NCSoft",
+    1607653324,
+    1613061128,
+    "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_DavidGuettaSiaLetsLove_HarmonixMusicSystemsInc_DLC_S2-1200x1600-686f7487328e457a5faeec365a1ce62f.jpg",
+    ""
+  ],
+  [
     "b83329b2de0640478b84f62de3e1ebe1",
     "dfd2530e80e4425d801913b0879be444",
     "Mission 1 - Terror Lab",
@@ -38469,7 +38628,7 @@
     ],
     "Kalypso Media Group GmbH",
     1606913861,
-    1608750175,
+    1613056969,
     "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/offer/EGS_CarribeanSkies_RealmforgeStudios_DLC_S2-1200x1600-38235b5b247b395b9f82642cbb7ff840.jpg",
     ""
   ],
@@ -39630,6 +39789,21 @@
     ""
   ],
   [
+    "bfeb8e21d14b4a30ac35a4c2835c574e",
+    "3dd7b519d7ab4631ae96d3efa8588514",
+    "Halcyon 6 Soundtrack",
+    [
+      "digitalextras",
+      "digitalextras/soundtrack",
+      "applications"
+    ],
+    "Massive Damage",
+    1611868550,
+    1613056553,
+    "https://cdn1.epicgames.com/3dd7b519d7ab4631ae96d3efa8588514/offer/a15191cd-e9ba-4c1a-8734-addd0ec59957-1200x1600-9b42a87cdb3a82b4a80a03fb0e7b43d9.jpeg",
+    ""
+  ],
+  [
     "bff1d0022b6f4e409daa3663d67edab0",
     "b9def67e597b4be7a16146146a044d02",
     "Mechwarrior 5",
@@ -40132,11 +40306,13 @@
     "dfd2530e80e4425d801913b0879be444",
     "Afrika Karl Outfit",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Rebellion",
     1611097828,
-    1612293172,
+    1613051409,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EN_Rebellion_ZombieArmy4_AfrikaKarlOutfit__S2_1200x1600-1200x1600-a193945f01e5381ab67b667f720764ad.jpg",
     ""
   ],
@@ -41755,7 +41931,7 @@
     ],
     "2K Games, Inc.",
     1597786894,
-    1605818600,
+    1613059958,
     "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_Zane_Final_Form_Pack_EPIC_Portrait_Image_1200x1600-1200x1600-e8cf8dd4849e4967d78410a383b928a5.jpg",
     "borderlands-3/multiverse-final-form-zane-cosmetic-pack"
   ],
@@ -42745,6 +42921,19 @@
     ""
   ],
   [
+    "cfe73f10575847eaa5929618141553a2",
+    "2736ab9fec9c4a93a7a2872ed5154d4b",
+    "Rage 2 - 2500 RAGE Coins (JP)",
+    [
+      "applications"
+    ],
+    "Bethesda Softworks LLC",
+    1607380636,
+    1613056670,
+    "https://cdn1.epicgames.com/2736ab9fec9c4a93a7a2872ed5154d4b/offer/egs-rage2-idsoftware-s2-1200x1600-ee8fcbffe5b0-1200x1600-d692008156cef0c206454ef84c987499.jpg",
+    ""
+  ],
+  [
     "d012b71b8d4a464988aea628a5f214f6",
     "sundrop",
     "For Honor - Marching Fire Expansion Pack",
@@ -43062,11 +43251,13 @@
     "dfd2530e80e4425d801913b0879be444",
     "Classic Sports Headgear Bundle",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Rebellion",
     1611097960,
-    1612293172,
+    1613051409,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_ClassicSports_Headgear_REDEMPTIONIMAGE-860x1180-1122a1cada9182735d72cd806939910b.jpg",
     ""
   ],
@@ -43426,7 +43617,7 @@
     ],
     "Kalypso Media Group GmbH",
     1593439324,
-    1608138605,
+    1613056913,
     "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/offer/EGS_Lobbyistico_LimbicEntertainment_DLC_S2-1200x1600-05a54dc41b1e7fba4b37f3aeb147eda8.jpg",
     ""
   ],
@@ -44310,11 +44501,13 @@
     "dfd2530e80e4425d801913b0879be444",
     "Desert Damaged Weapon Skins",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Rebellion",
     1611097890,
-    1612293172,
+    1613051409,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_DLC_Desert_Damaged_Weapon_Skins_REDEMPTIONIMAGE-860x1145-4854ed3933a0a26657f99f43c43b7aec.png",
     ""
   ],
@@ -44657,13 +44850,11 @@
     "bf333e6236914222a95a536389c05813",
     "DLC 16",
     [
-      "addons",
-      "addons/durable",
       "applications"
     ],
     "SEGA",
     1609793194,
-    1610129388,
+    1612980373,
     "",
     ""
   ],
@@ -45504,7 +45695,7 @@
   [
     "ddb2eade9de94cf2954efc3fc22b8a00",
     "dfd2530e80e4425d801913b0879be444",
-    "Lee Enfield Rifle Bundle",
+    "Lee No. 4 Bolt-Action Rifle Bundle",
     [
       "addons",
       "games",
@@ -45513,8 +45704,8 @@
     ],
     "Rebellion",
     1599222133,
-    1611063560,
-    "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_Lee_Enfield_Rifle_Bundle_REDEMPTIONIMAGE-860x1180-3eb534012140bbc0be0a5b21abff6ae0.png",
+    1613051409,
+    "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EN_Rebellion_ZombieArmy4_LeeNo.4Bolt-ActionRifle_S2_1200x1600-1200x1600-c80bdf224908a4f8625689ac4c748a8e.jpg",
     ""
   ],
   [
@@ -45759,11 +45950,13 @@
     "dfd2530e80e4425d801913b0879be444",
     "Armour Plated Shola Outfit",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Rebellion",
     1611096510,
-    1612454392,
+    1613051409,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EN_Rebellion_ZombieArmy4_ArmourPlatedSholaOutfit__S2_1200x1600-1200x1600-6885b710245260150bedfcff76beb17e.jpg",
     ""
   ],
@@ -46466,11 +46659,13 @@
     "dfd2530e80e4425d801913b0879be444",
     "Bomb Lance Shotgun Bundle",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Rebellion",
     1611098321,
-    1612293172,
+    1613051409,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EN_Rebellion_ZombieArmy4_BombLanceShotgunBundle__S2_1200x1600-1200x1600-1ef8024785666da65012c13836d8bcef.jpg",
     ""
   ],
@@ -47349,6 +47544,21 @@
     "assassins-creed-origins"
   ],
   [
+    "e6258e1b14eb4463916ff2d2f4eb3c3e",
+    "3dd7b519d7ab4631ae96d3efa8588514",
+    "Halcyon 6: Lightspeed Edition Artbook",
+    [
+      "digitalextras/book",
+      "digitalextras",
+      "applications"
+    ],
+    "Massive Damage",
+    1611868500,
+    1613056553,
+    "https://cdn1.epicgames.com/3dd7b519d7ab4631ae96d3efa8588514/offer/4c34d4b7-89d5-4c51-ad07-fbf9e4c0c063-1200x1600-26332b3b78e497944e021620920ed212.jpeg",
+    ""
+  ],
+  [
     "e6350a0f93aa44048f4f050ad3752871",
     "bb9f87bb3d0042258bb1c97397bc60f2",
     "Crayta: Deluxe Edition",
@@ -47434,6 +47644,19 @@
     1596163715,
     "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_Elements_EpicGamesStore_N1_Newsfeed_ApprovedPublic-2560x1440-7eb48fdc124aef71c962973430169dc2.jpg",
     "faeria/elements"
+  ],
+  [
+    "e6b274481b5946dd8a1fbf9b6fb6f223",
+    "2736ab9fec9c4a93a7a2872ed5154d4b",
+    "Rage 2 - 1100 RAGE Coins (JP)",
+    [
+      "applications"
+    ],
+    "Bethesda Softworks LLC",
+    1607380541,
+    1613056670,
+    "https://cdn1.epicgames.com/2736ab9fec9c4a93a7a2872ed5154d4b/offer/egs-rage2-idsoftware-s2-1200x1600-ee8fcbffe5b0-1200x1600-d692008156cef0c206454ef84c987499.jpg",
+    ""
   ],
   [
     "e6bf19cb235948468dc359d232bed523",
@@ -47637,13 +47860,13 @@
     [
       "freegames",
       "games",
-      "games/edition/base",
       "games/edition",
+      "games/edition/base",
       "applications"
     ],
     "Massive Damage",
     1611253633,
-    1612454522,
+    1613056553,
     "https://cdn1.epicgames.com/3dd7b519d7ab4631ae96d3efa8588514/offer/egs-halcyon6starbasecommanderlightspeededition-massivedamageinc-s2-1200x1600-e612ba915488-1200x1600-de7223f3cc553fb677476dcc18f7626a.jpg",
     "halcyon-6"
   ],
@@ -47899,11 +48122,13 @@
     "dfd2530e80e4425d801913b0879be444",
     "Armoured Giant Weapon Skins",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Rebellion",
     1611098153,
-    1612293172,
+    1613051409,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EN_Rebellion_ZombieArmy4_BombLanceShotgunBundle__S2_1200x1600-1200x1600-92b88ba0d41701cf5be2dfb899c20cc5.jpg",
     ""
   ],
@@ -48125,7 +48350,7 @@
     ],
     "Kalypso Media Group GmbH",
     1593439095,
-    1608138605,
+    1613056830,
     "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/offer/EGS_Tropico6ElPrezEdition_LimbicEntertainment_Editions_S2-1200x1600-0ac5b88d7bf76949d8f0057e4ca62413.jpg",
     "tropico-6/el-prez-edition"
   ],
@@ -48713,7 +48938,7 @@
     ],
     "Kalypso Media Group GmbH",
     1601901299,
-    1604348244,
+    1613057121,
     "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/offer/EGS_Dungeons3DLCBundle_RealmforgeStudios_Bundles_S2-1200x1600-b8378d0c8d5c74c93da5df6d13b40741.jpg",
     "dungeons-3/dlc-bundle"
   ],
@@ -49995,7 +50220,7 @@
     ],
     "Kalypso Media Group GmbH",
     1599741763,
-    1602155150,
+    1613056743,
     "https://cdn1.epicgames.com/e89efaeec0cd408abee8bd4dd02c8d32/offer/EGS_PortRoyale4ExtendedEdition_GamingMindsStudios_Editions_S2-1200x1600-05c82fd06f22eb0e1e19da32be010082.jpg",
     "port-royale-4/extended-edition"
   ],
@@ -50680,7 +50905,7 @@
     ],
     "Kalypso Media Group GmbH",
     1592514055,
-    1600354842,
+    1613057165,
     "https://cdn1.epicgames.com/93b333eb973b45b582f3bdf68dfc1dc9/offer/EGS_RailwayEmpire_GamingMindsStudios_S2-1200x1600-aa3f6d77c91bd7801de2f530ca7faca6.jpg",
     "railway-empire/home"
   ],
@@ -50764,13 +50989,11 @@
     "bf333e6236914222a95a536389c05813",
     "DLC 09",
     [
-      "addons",
-      "addons/consumable",
       "applications"
     ],
     "SEGA",
     1609792642,
-    1610129329,
+    1612980415,
     "",
     ""
   ],
@@ -50846,6 +51069,22 @@
     1612571751,
     "",
     ""
+  ],
+  [
+    "f6fb771bec434d1082cc419b9b4b8bfb",
+    "bf333e6236914222a95a536389c05813",
+    "PHANTASY STAR ONLINE 2",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "SEGA",
+    1590598317,
+    1612977787,
+    "https://cdn1.epicgames.com/bf333e6236914222a95a536389c05813/offer/EGS_PHANTASYSTARONLINE2_SEGACorporation_S2-1200x1600-08cb584274b92255c62f60a996deef0e.jpg",
+    "phantasy-star-online-2"
   ],
   [
     "f7034d693e3f4407a39ef13e7d23c8da",
@@ -51588,13 +51827,11 @@
     "bf333e6236914222a95a536389c05813",
     "DLC 11",
     [
-      "addons",
-      "addons/consumable",
       "applications"
     ],
     "SEGA",
     1609792742,
-    1610129344,
+    1612980404,
     "",
     ""
   ],
@@ -52074,7 +52311,7 @@
     ],
     "Proletariat, Inc.",
     1608211106,
-    1612821939,
+    1612975796,
     "",
     "spellbreak/warlock-chapter-pack"
   ],

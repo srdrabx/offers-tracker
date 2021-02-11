@@ -1,0 +1,158 @@
+{
+  "id": "f6fb771bec434d1082cc419b9b4b8bfb",
+  "namespace": "bf333e6236914222a95a536389c05813",
+  "title": "PHANTASY STAR ONLINE 2",
+  "description": "PHANTASY STAR ONLINE 2",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "phantasy-star-online-2",
+  "urlSlug": "phantasy-star-online",
+  "creationDate": "2020-05-27T16:51:57.931Z",
+  "lastModifiedDate": "2021-02-10T17:23:07.869Z",
+  "effectiveDate": "2021-02-17T18:00:00.000Z",
+  "viewableDate": "2021-02-10T18:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-yqy54tnq77et5vf5dtpvz8czyahm2y",
+    "name": "SEGA"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1333",
+      "name": "Action RPG",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:03.965Z",
+      "updated": "2021-02-05T16:12:39.524Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-12-15T01:46:33.012Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "SZ, NL, AN, BL, SD, MF, SH, PN, BV, TF, HM, BE, KR, SS, JP, AQ, CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "SEGA Corporation"
+    },
+    {
+      "key": "developerName",
+      "value": "SEGA Corporation"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "phantasy-star-online-2"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/bf333e6236914222a95a536389c05813/offer/EGS_PHANTASYSTARONLINE2_SEGACorporation_S1-2560x1440-9d2f81dfbc4ba2a6ce53169a995415e2.jpg",
+      "md5": "9d2f81dfbc4ba2a6ce53169a995415e2",
+      "size": 987939,
+      "uploadedDate": "2021-01-04T20:13:46.332Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/bf333e6236914222a95a536389c05813/offer/EGS_PHANTASYSTARONLINE2_SEGACorporation_S1-2560x1440-9d2f81dfbc4ba2a6ce53169a995415e2.jpg",
+      "md5": "9d2f81dfbc4ba2a6ce53169a995415e2",
+      "size": 987939,
+      "uploadedDate": "2021-01-04T20:13:54.797Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/bf333e6236914222a95a536389c05813/offer/EGS_PHANTASYSTARONLINE2_SEGACorporation_S2-1200x1600-08cb584274b92255c62f60a996deef0e.jpg",
+      "md5": "08cb584274b92255c62f60a996deef0e",
+      "size": 980798,
+      "uploadedDate": "2021-01-04T20:14:05.163Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/bf333e6236914222a95a536389c05813/offer/EGS_PHANTASYSTARONLINE2_SEGACorporation_S2-1200x1600-08cb584274b92255c62f60a996deef0e.jpg",
+      "md5": "08cb584274b92255c62f60a996deef0e",
+      "size": 980798,
+      "uploadedDate": "2021-01-04T20:14:13.503Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/bf333e6236914222a95a536389c05813/offer/EGS_PHANTASYSTARONLINE2_SEGACorporation_S2-1200x1600-08cb584274b92255c62f60a996deef0e.jpg",
+      "md5": "08cb584274b92255c62f60a996deef0e",
+      "size": 980798,
+      "uploadedDate": "2021-01-04T20:14:24.623Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/bf333e6236914222a95a536389c05813/offer/EGS_PHANTASYSTARONLINE2_SEGACorporation_S2-1200x1600-08cb584274b92255c62f60a996deef0e.jpg",
+      "md5": "08cb584274b92255c62f60a996deef0e",
+      "size": 980798,
+      "uploadedDate": "2021-01-04T20:14:37.860Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "426096cc3eb14b8ab690e9682a918172"
+    }
+  ],
+  "catalogNs": null
+}

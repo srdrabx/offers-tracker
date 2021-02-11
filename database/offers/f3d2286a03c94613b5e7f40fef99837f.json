@@ -31,12 +31,12 @@
   "tags": [
     {
       "id": "1218",
-      "name": "HORROR",
+      "name": "Horror",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:06.599Z",
-      "updated": "2020-12-15T01:48:47.591Z",
+      "updated": "2021-02-10T17:14:06.043Z",
       "status": "ACTIVE",
       "referenceCount": 14,
       "comment": null
@@ -67,12 +67,12 @@
     },
     {
       "id": "1263",
-      "name": "INDIE",
+      "name": "Indie",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2020-12-15T01:46:42.546Z",
+      "updated": "2021-02-10T17:35:19.827Z",
       "status": "ACTIVE",
       "referenceCount": 46,
       "comment": null
@@ -82,11 +82,12 @@
       "name": "Mac OS",
       "namespace": "epic",
       "aliases": [
-        "OSX"
+        "OSX",
+        "macOS"
       ],
       "operator": null,
       "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2021-02-03T16:27:46.634Z",
+      "updated": "2021-02-10T17:26:31.125Z",
       "status": "ACTIVE",
       "referenceCount": 19,
       "comment": null

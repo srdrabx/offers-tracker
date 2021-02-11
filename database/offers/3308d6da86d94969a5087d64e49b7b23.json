@@ -1,0 +1,167 @@
+{
+  "id": "3308d6da86d94969a5087d64e49b7b23",
+  "namespace": "2736ab9fec9c4a93a7a2872ed5154d4b",
+  "title": "Rage 2 - Deluxe Edition",
+  "description": "The Deluxe Edition includes the following: Rise of the Ghosts Expansion, DOOM BFG, Wasteland Wizard Cheat Codes, Progress Booster, Battle Standard",
+  "longDescription": "The Deluxe Edition includes the following:\n* Rise of the Ghosts Expansion\n* DOOM BFG\n* Wasteland Wizard Cheat Codes\n* Progress Booster\n* Battle Standard",
+  "status": "ACTIVE",
+  "productSlug": "rage-2/deluxe-edition",
+  "urlSlug": "hiddenitedeluxeeditiongeneralaudience",
+  "creationDate": "2020-11-04T19:39:03.503Z",
+  "lastModifiedDate": "2021-02-11T15:17:49.990Z",
+  "effectiveDate": "2021-02-25T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+    "name": "Bethesda Softworks LLC"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-12-15T01:46:14.061Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1185",
+      "name": "FPS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:50.376Z",
+      "updated": "2020-09-05T13:11:46.644Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "Open World",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2021-02-10T17:34:58.080Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Bethesda Softworks"
+    },
+    {
+      "key": "developerName",
+      "value": "id Software"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "rage-2/deluxe-edition"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/2736ab9fec9c4a93a7a2872ed5154d4b/offer/EGS_DeluxeEdition_idSoftware_Editions_S1-2560x1440-47406432c9e1aa1405597bf35f2902ba.jpg",
+      "md5": "47406432c9e1aa1405597bf35f2902ba",
+      "size": 821685,
+      "uploadedDate": "2021-01-20T03:02:36.542Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/2736ab9fec9c4a93a7a2872ed5154d4b/offer/EGS_DeluxeEdition_idSoftware_Editions_S2-1200x1600-5d895b0b85139e108a8d89c6cd6bd197.jpg",
+      "md5": "5d895b0b85139e108a8d89c6cd6bd197",
+      "size": 615897,
+      "uploadedDate": "2021-01-20T03:02:44.802Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/2736ab9fec9c4a93a7a2872ed5154d4b/offer/EGS_DeluxeEdition_idSoftware_Editions_S2-1200x1600-5d895b0b85139e108a8d89c6cd6bd197.jpg",
+      "md5": "5d895b0b85139e108a8d89c6cd6bd197",
+      "size": 615897,
+      "uploadedDate": "2021-01-20T03:02:59.303Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/2736ab9fec9c4a93a7a2872ed5154d4b/offer/EGS_DeluxeEdition_idSoftware_Editions_S2-1200x1600-5d895b0b85139e108a8d89c6cd6bd197.jpg",
+      "md5": "5d895b0b85139e108a8d89c6cd6bd197",
+      "size": 615897,
+      "uploadedDate": "2021-01-20T03:03:08.935Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/2736ab9fec9c4a93a7a2872ed5154d4b/offer/EGS_DeluxeEdition_idSoftware_Editions_S1-2560x1440-47406432c9e1aa1405597bf35f2902ba.jpg",
+      "md5": "47406432c9e1aa1405597bf35f2902ba",
+      "size": 821685,
+      "uploadedDate": "2021-01-20T03:03:22.579Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/2736ab9fec9c4a93a7a2872ed5154d4b/offer/EGS_DeluxeEdition_idSoftware_Editions_S2-1200x1600-5d895b0b85139e108a8d89c6cd6bd197.jpg",
+      "md5": "5d895b0b85139e108a8d89c6cd6bd197",
+      "size": 615897,
+      "uploadedDate": "2021-01-20T03:03:31.540Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "8e50bce8811f4a43a9fd6038371271d9"
+    }
+  ],
+  "catalogNs": null
+}

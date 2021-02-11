@@ -70,12 +70,12 @@
     },
     {
       "id": "9549",
-      "name": "CONTROLLER SUPPORT",
+      "name": "Controller Support",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2020-12-15T01:43:59.524Z",
+      "updated": "2021-02-10T17:36:06.452Z",
       "status": "ACTIVE",
       "referenceCount": 103,
       "comment": null
@@ -94,12 +94,12 @@
     },
     {
       "id": "1263",
-      "name": "INDIE",
+      "name": "Indie",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2020-12-15T01:46:42.546Z",
+      "updated": "2021-02-10T17:35:19.827Z",
       "status": "ACTIVE",
       "referenceCount": 46,
       "comment": null

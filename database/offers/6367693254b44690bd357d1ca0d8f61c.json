@@ -52,12 +52,12 @@
     },
     {
       "id": "1307",
-      "name": "OPEN WORLD",
+      "name": "Open World",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:51.191Z",
-      "updated": "2020-12-15T01:46:59.402Z",
+      "updated": "2021-02-10T17:34:58.080Z",
       "status": "ACTIVE",
       "referenceCount": 32,
       "comment": null
@@ -76,12 +76,12 @@
     },
     {
       "id": "1294",
-      "name": "FIRST-PERSON",
+      "name": "First Person",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:44.596Z",
-      "updated": "2020-12-15T01:47:39.866Z",
+      "updated": "2021-02-10T17:33:51.253Z",
       "status": "ACTIVE",
       "referenceCount": 24,
       "comment": null

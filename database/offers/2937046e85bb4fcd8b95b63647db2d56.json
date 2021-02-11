@@ -52,12 +52,12 @@
     },
     {
       "id": "1203",
-      "name": "MULTIPLAYER",
+      "name": "Multiplayer",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2020-12-15T01:44:09.654Z",
+      "updated": "2021-02-10T17:35:33.537Z",
       "status": "ACTIVE",
       "referenceCount": 46,
       "comment": null
@@ -88,12 +88,12 @@
     },
     {
       "id": "1294",
-      "name": "FIRST-PERSON",
+      "name": "First Person",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:44.596Z",
-      "updated": "2020-12-15T01:47:39.866Z",
+      "updated": "2021-02-10T17:33:51.253Z",
       "status": "ACTIVE",
       "referenceCount": 24,
       "comment": null

@@ -1,0 +1,66 @@
+{
+  "id": "8c4e1b392fd94ff2a74b3776e305b6f4",
+  "namespace": "newt",
+  "title": "RMT Priestess",
+  "description": "RMT Priestess",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "spellbreak/priestess",
+  "urlSlug": "spellbreak--priestess",
+  "creationDate": "2021-02-10T17:05:10.762Z",
+  "lastModifiedDate": "2021-02-10T19:31:18.980Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+    "name": "Proletariat, Inc."
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Proletariat, Inc."
+    },
+    {
+      "key": "developerName",
+      "value": "Proletariat, Inc."
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "spellbreak/priestess"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/newt/item/ESRB_Spellbreak-842x404-fce4fa7233ed80170a8e36079d1e1bde.png",
+      "md5": "fce4fa7233ed80170a8e36079d1e1bde",
+      "size": 51194,
+      "uploadedDate": "2019-04-23T19:23:19.054Z",
+      "width": 842,
+      "height": 404
+    }
+  ],
+  "items": [
+    {
+      "id": "d4ca030e6c7c4e8180f3c67e87d8d071"
+    }
+  ],
+  "catalogNs": null
+}

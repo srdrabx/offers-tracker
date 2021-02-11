@@ -64,12 +64,12 @@
     },
     {
       "id": "1370",
-      "name": "SINGLEPLAYER",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-12-15T01:43:50.926Z",
+      "updated": "2021-02-10T17:36:35.389Z",
       "status": "ACTIVE",
       "referenceCount": 195,
       "comment": null
@@ -100,24 +100,24 @@
     },
     {
       "id": "1307",
-      "name": "OPEN WORLD",
+      "name": "Open World",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:51.191Z",
-      "updated": "2020-12-15T01:46:59.402Z",
+      "updated": "2021-02-10T17:34:58.080Z",
       "status": "ACTIVE",
       "referenceCount": 32,
       "comment": null
     },
     {
       "id": "1117",
-      "name": "ADVENTURE",
+      "name": "Adventure",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2020-12-15T01:46:19.709Z",
+      "updated": "2021-02-10T17:35:47.790Z",
       "status": "ACTIVE",
       "referenceCount": 84,
       "comment": null

@@ -43,24 +43,24 @@
     },
     {
       "id": "1395",
-      "name": "NARRATION",
+      "name": "Narration",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:34.825Z",
-      "updated": "2020-12-15T01:47:46.172Z",
+      "updated": "2021-02-10T17:33:17.320Z",
       "status": "ACTIVE",
       "referenceCount": 22,
       "comment": null
     },
     {
       "id": "1370",
-      "name": "SINGLEPLAYER",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-12-15T01:43:50.926Z",
+      "updated": "2021-02-10T17:36:35.389Z",
       "status": "ACTIVE",
       "referenceCount": 195,
       "comment": null

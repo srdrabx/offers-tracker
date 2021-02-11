@@ -8,7 +8,7 @@
   "productSlug": "borderlands-3/bounty-of-blood",
   "urlSlug": "borderlands-3--bounty-of-blood",
   "creationDate": "2020-06-23T15:34:52.206Z",
-  "lastModifiedDate": "2020-07-31T02:49:11.389Z",
+  "lastModifiedDate": "2021-02-11T16:12:38.031Z",
   "effectiveDate": "2020-06-25T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -37,20 +37,7 @@
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "14346",
-      "name": "Holiday Sale 2020",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2020-10-21T21:58:03.125Z",
-      "updated": "2021-01-07T16:00:15.373Z",
-      "status": "ACTIVE",
-      "referenceCount": 584,
-      "comment": ""
-    }
-  ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",

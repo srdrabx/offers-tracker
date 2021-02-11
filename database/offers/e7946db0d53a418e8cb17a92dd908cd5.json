@@ -8,7 +8,7 @@
   "productSlug": "halcyon-6",
   "urlSlug": "arsenicgeneralaudience",
   "creationDate": "2021-01-21T18:27:13.706Z",
-  "lastModifiedDate": "2021-02-04T16:02:02.968Z",
+  "lastModifiedDate": "2021-02-11T15:15:53.764Z",
   "effectiveDate": "2021-02-11T16:00:00.000Z",
   "viewableDate": "2021-02-04T15:25:00.000Z",
   "developer": null,
@@ -31,10 +31,10 @@
       "path": "games"
     },
     {
-      "path": "games/edition/base"
+      "path": "games/edition"
     },
     {
-      "path": "games/edition"
+      "path": "games/edition/base"
     },
     {
       "path": "applications"
@@ -55,24 +55,24 @@
     },
     {
       "id": "1370",
-      "name": "SINGLEPLAYER",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-12-15T01:43:50.926Z",
+      "updated": "2021-02-10T17:36:35.389Z",
       "status": "ACTIVE",
       "referenceCount": 195,
       "comment": null
     },
     {
       "id": "1115",
-      "name": "STRATEGY",
+      "name": "Strategy",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2020-12-15T01:46:50.820Z",
+      "updated": "2021-02-10T17:35:11.878Z",
       "status": "ACTIVE",
       "referenceCount": 33,
       "comment": null
@@ -91,12 +91,12 @@
     },
     {
       "id": "1263",
-      "name": "INDIE",
+      "name": "Indie",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2020-12-15T01:46:42.546Z",
+      "updated": "2021-02-10T17:35:19.827Z",
       "status": "ACTIVE",
       "referenceCount": 46,
       "comment": null

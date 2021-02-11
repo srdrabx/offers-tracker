@@ -8,7 +8,7 @@
   "productSlug": "dungeons-3/dlc-bundle",
   "urlSlug": "devragdollaudience-09",
   "creationDate": "2020-10-05T12:34:59.952Z",
-  "lastModifiedDate": "2020-11-02T20:17:24.386Z",
+  "lastModifiedDate": "2021-02-11T15:25:21.605Z",
   "effectiveDate": "2020-11-05T16:00:00.000Z",
   "viewableDate": "2020-11-02T20:00:00.000Z",
   "developer": null,
@@ -39,15 +39,15 @@
   ],
   "tags": [
     {
-      "id": "14346",
-      "name": "Holiday Sale 2020",
+      "id": "14944",
+      "name": "The Showcase Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2020-10-21T21:58:03.125Z",
-      "updated": "2021-01-07T16:00:15.373Z",
+      "created": "2021-02-04T17:51:00.530Z",
+      "updated": "2021-02-08T16:07:03.328Z",
       "status": "ACTIVE",
-      "referenceCount": 584,
+      "referenceCount": 366,
       "comment": ""
     }
   ],

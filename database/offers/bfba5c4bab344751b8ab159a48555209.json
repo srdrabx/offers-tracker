@@ -40,12 +40,12 @@
   "tags": [
     {
       "id": "1395",
-      "name": "NARRATION",
+      "name": "Narration",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:34.825Z",
-      "updated": "2020-12-15T01:47:46.172Z",
+      "updated": "2021-02-10T17:33:17.320Z",
       "status": "ACTIVE",
       "referenceCount": 22,
       "comment": null
@@ -76,24 +76,24 @@
     },
     {
       "id": "1117",
-      "name": "ADVENTURE",
+      "name": "Adventure",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2020-12-15T01:46:19.709Z",
+      "updated": "2021-02-10T17:35:47.790Z",
       "status": "ACTIVE",
       "referenceCount": 84,
       "comment": null
     },
     {
       "id": "1151",
-      "name": "PLATFORMER",
+      "name": "Platformer",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:33.743Z",
-      "updated": "2020-12-15T01:48:27.201Z",
+      "updated": "2021-02-10T17:14:16.761Z",
       "status": "ACTIVE",
       "referenceCount": 14,
       "comment": null
@@ -103,11 +103,12 @@
       "name": "Mac OS",
       "namespace": "epic",
       "aliases": [
-        "OSX"
+        "OSX",
+        "macOS"
       ],
       "operator": null,
       "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2021-02-03T16:27:46.634Z",
+      "updated": "2021-02-10T17:26:31.125Z",
       "status": "ACTIVE",
       "referenceCount": 19,
       "comment": null

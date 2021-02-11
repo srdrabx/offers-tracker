@@ -52,12 +52,12 @@
     },
     {
       "id": "1264",
-      "name": "CO-OP",
+      "name": "Co-op",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:29.700Z",
-      "updated": "2020-12-15T01:44:18.661Z",
+      "updated": "2021-02-10T17:34:35.309Z",
       "status": "ACTIVE",
       "referenceCount": 27,
       "comment": null
@@ -127,11 +127,12 @@
       "name": "Mac OS",
       "namespace": "epic",
       "aliases": [
-        "OSX"
+        "OSX",
+        "macOS"
       ],
       "operator": null,
       "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2021-02-03T16:27:46.634Z",
+      "updated": "2021-02-10T17:26:31.125Z",
       "status": "ACTIVE",
       "referenceCount": 19,
       "comment": null

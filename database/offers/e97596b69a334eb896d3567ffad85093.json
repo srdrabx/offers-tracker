@@ -40,12 +40,12 @@
   "tags": [
     {
       "id": "1296",
-      "name": "CASUAL",
+      "name": "Casual",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:45.644Z",
-      "updated": "2020-12-15T01:48:06.235Z",
+      "updated": "2021-02-10T17:32:53.431Z",
       "status": "ACTIVE",
       "referenceCount": 18,
       "comment": null
@@ -64,24 +64,24 @@
     },
     {
       "id": "1263",
-      "name": "INDIE",
+      "name": "Indie",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2020-12-15T01:46:42.546Z",
+      "updated": "2021-02-10T17:35:19.827Z",
       "status": "ACTIVE",
       "referenceCount": 46,
       "comment": null
     },
     {
       "id": "1151",
-      "name": "PLATFORMER",
+      "name": "Platformer",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:33.743Z",
-      "updated": "2020-12-15T01:48:27.201Z",
+      "updated": "2021-02-10T17:14:16.761Z",
       "status": "ACTIVE",
       "referenceCount": 14,
       "comment": null
@@ -91,11 +91,12 @@
       "name": "Mac OS",
       "namespace": "epic",
       "aliases": [
-        "OSX"
+        "OSX",
+        "macOS"
       ],
       "operator": null,
       "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2021-02-03T16:27:46.634Z",
+      "updated": "2021-02-10T17:26:31.125Z",
       "status": "ACTIVE",
       "referenceCount": 19,
       "comment": null
