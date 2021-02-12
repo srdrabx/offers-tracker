@@ -8,7 +8,7 @@
   "productSlug": "godfall",
   "urlSlug": "godfall",
   "creationDate": "2020-11-18T21:45:01.338Z",
-  "lastModifiedDate": "2020-11-19T20:54:52.696Z",
+  "lastModifiedDate": "2021-02-11T20:57:26.428Z",
   "effectiveDate": "2020-11-19T21:00:00.000Z",
   "viewableDate": "2020-11-19T21:00:00.000Z",
   "developer": null,
@@ -40,12 +40,12 @@
   "tags": [
     {
       "id": "1216",
-      "name": "ACTION",
+      "name": "Action",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2020-12-15T01:46:14.061Z",
+      "updated": "2021-02-10T17:36:19.203Z",
       "status": "ACTIVE",
       "referenceCount": 110,
       "comment": null
@@ -143,56 +143,56 @@
   ],
   "keyImages": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/b6b2ef0cc19a4adaaa1cf6c7ed000dfa/offer/EGS_Godfall_CounterplayGames_S1-2560x1440-4f3224f838dd8af7e655698d9b36662d.jpg",
-      "md5": "4f3224f838dd8af7e655698d9b36662d",
-      "size": 1014842,
-      "uploadedDate": "2020-06-13T17:41:32.358Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/b6b2ef0cc19a4adaaa1cf6c7ed000dfa/offer/EGS_Godfall_CounterplayGames_S2-1200x1600-ebfebb142ab90bddf35934f0f2ff707e.jpg",
-      "md5": "ebfebb142ab90bddf35934f0f2ff707e",
-      "size": 938261,
-      "uploadedDate": "2020-06-13T17:41:41.201Z",
+      "url": "https://cdn1.epicgames.com/b6b2ef0cc19a4adaaa1cf6c7ed000dfa/offer/EGS_Godfall_CounterplayGames_S2-1200x1600-2ec1c619129c3ac76a6229397d71bddf.jpg",
+      "md5": "2ec1c619129c3ac76a6229397d71bddf",
+      "size": 627749,
+      "uploadedDate": "2021-02-11T20:56:17.730Z",
       "width": 1200,
       "height": 1600
     },
     {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/b6b2ef0cc19a4adaaa1cf6c7ed000dfa/offer/EGS_Godfall_CounterplayGames_S1-2560x1440-bdbc1ebe4f0070feb4301562f521395e.jpg",
+      "md5": "bdbc1ebe4f0070feb4301562f521395e",
+      "size": 943574,
+      "uploadedDate": "2021-02-11T20:56:25.224Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/b6b2ef0cc19a4adaaa1cf6c7ed000dfa/offer/EGS_Godfall_CounterplayGames_S2-1200x1600-ebfebb142ab90bddf35934f0f2ff707e.jpg",
-      "md5": "ebfebb142ab90bddf35934f0f2ff707e",
-      "size": 938261,
-      "uploadedDate": "2020-06-13T17:41:50.002Z",
+      "url": "https://cdn1.epicgames.com/b6b2ef0cc19a4adaaa1cf6c7ed000dfa/offer/EGS_Godfall_CounterplayGames_S2-1200x1600-2ec1c619129c3ac76a6229397d71bddf.jpg",
+      "md5": "2ec1c619129c3ac76a6229397d71bddf",
+      "size": 627749,
+      "uploadedDate": "2021-02-11T20:56:35.130Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/b6b2ef0cc19a4adaaa1cf6c7ed000dfa/offer/EGS_Godfall_CounterplayGames_S2-1200x1600-ebfebb142ab90bddf35934f0f2ff707e.jpg",
-      "md5": "ebfebb142ab90bddf35934f0f2ff707e",
-      "size": 938261,
-      "uploadedDate": "2020-06-13T17:41:57.762Z",
+      "url": "https://cdn1.epicgames.com/b6b2ef0cc19a4adaaa1cf6c7ed000dfa/offer/EGS_Godfall_CounterplayGames_S2-1200x1600-2ec1c619129c3ac76a6229397d71bddf.jpg",
+      "md5": "2ec1c619129c3ac76a6229397d71bddf",
+      "size": 627749,
+      "uploadedDate": "2021-02-11T20:56:43.513Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/b6b2ef0cc19a4adaaa1cf6c7ed000dfa/offer/EGS_Godfall_CounterplayGames_S1-2560x1440-4f3224f838dd8af7e655698d9b36662d.jpg",
-      "md5": "4f3224f838dd8af7e655698d9b36662d",
-      "size": 1014842,
-      "uploadedDate": "2020-06-13T17:42:06.430Z",
+      "url": "https://cdn1.epicgames.com/b6b2ef0cc19a4adaaa1cf6c7ed000dfa/offer/EGS_Godfall_CounterplayGames_S1-2560x1440-bdbc1ebe4f0070feb4301562f521395e.jpg",
+      "md5": "bdbc1ebe4f0070feb4301562f521395e",
+      "size": 943574,
+      "uploadedDate": "2021-02-11T20:56:56.533Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/b6b2ef0cc19a4adaaa1cf6c7ed000dfa/offer/EGS_Godfall_CounterplayGames_S2-1200x1600-ebfebb142ab90bddf35934f0f2ff707e.jpg",
-      "md5": "ebfebb142ab90bddf35934f0f2ff707e",
-      "size": 938261,
-      "uploadedDate": "2020-06-13T17:42:15.858Z",
+      "url": "https://cdn1.epicgames.com/b6b2ef0cc19a4adaaa1cf6c7ed000dfa/offer/EGS_Godfall_CounterplayGames_S2-1200x1600-2ec1c619129c3ac76a6229397d71bddf.jpg",
+      "md5": "2ec1c619129c3ac76a6229397d71bddf",
+      "size": 627749,
+      "uploadedDate": "2021-02-11T20:57:03.565Z",
       "width": 1200,
       "height": 1600
     }

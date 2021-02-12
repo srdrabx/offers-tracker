@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "rage-2--4500-rage-coins-jp",
   "creationDate": "2020-12-07T22:38:13.503Z",
-  "lastModifiedDate": "2021-02-11T15:17:50.058Z",
+  "lastModifiedDate": "2021-02-11T20:22:11.588Z",
   "effectiveDate": "2021-02-18T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -25,6 +25,12 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "addons"
+    },
+    {
+      "path": "addons/consumable"
+    },
+    {
       "path": "applications"
     }
   ],
@@ -37,6 +43,10 @@
     {
       "key": "publisherName",
       "value": "Bethesda Softworks"
+    },
+    {
+      "key": "com.epicgames.app.whitelist",
+      "value": "JP"
     },
     {
       "key": "developerName",

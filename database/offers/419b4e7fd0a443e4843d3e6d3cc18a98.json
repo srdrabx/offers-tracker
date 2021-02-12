@@ -1,0 +1,170 @@
+{
+  "id": "419b4e7fd0a443e4843d3e6d3cc18a98",
+  "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+  "title": "World of Warships",
+  "description": "World of Warships",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "world-of-warships",
+  "urlSlug": "world-of-warships",
+  "creationDate": "2020-09-11T22:24:58.032Z",
+  "lastModifiedDate": "2021-02-11T20:08:02.803Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+    "name": "Wargaming Group Limited"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2021-02-10T17:36:19.203Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2021-02-10T17:35:33.537Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1299",
+      "name": "Competitive",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:47.106Z",
+      "updated": "2021-02-05T16:13:20.502Z",
+      "status": "ACTIVE",
+      "referenceCount": 4,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Wargaming"
+    },
+    {
+      "key": "developerName",
+      "value": "Wargaming"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "world-of-warships"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/84c76746bce94effb8e1047fabfd7eb7/offer/EGS_Game_Wargaming_S1-2560x1440-b03dc162a149a6c97deb9eab514ab52e.jpg",
+      "md5": "b03dc162a149a6c97deb9eab514ab52e",
+      "size": 884551,
+      "uploadedDate": "2021-02-10T23:29:52.059Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/84c76746bce94effb8e1047fabfd7eb7/offer/EGS_Game_Wargaming_S1-2560x1440-b03dc162a149a6c97deb9eab514ab52e.jpg",
+      "md5": "b03dc162a149a6c97deb9eab514ab52e",
+      "size": 884551,
+      "uploadedDate": "2021-02-10T23:31:39.863Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/84c76746bce94effb8e1047fabfd7eb7/offer/EGS_WorldofWarships_WargamingGroupLimited_S2-1200x1600-f96166935d3d0b84086c6021c188ac0e.jpg",
+      "md5": "f96166935d3d0b84086c6021c188ac0e",
+      "size": 918896,
+      "uploadedDate": "2021-02-11T18:31:15.150Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/84c76746bce94effb8e1047fabfd7eb7/offer/EGS_WorldofWarships_WargamingGroupLimited_S2-1200x1600-f96166935d3d0b84086c6021c188ac0e.jpg",
+      "md5": "f96166935d3d0b84086c6021c188ac0e",
+      "size": 918896,
+      "uploadedDate": "2021-02-11T18:31:26.952Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/84c76746bce94effb8e1047fabfd7eb7/offer/EGS_WorldofWarships_WargamingGroupLimited_S2-1200x1600-f96166935d3d0b84086c6021c188ac0e.jpg",
+      "md5": "f96166935d3d0b84086c6021c188ac0e",
+      "size": 918896,
+      "uploadedDate": "2021-02-11T18:31:43.200Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/84c76746bce94effb8e1047fabfd7eb7/offer/EGS_WorldofWarships_WargamingGroupLimited_S2-1200x1600-f96166935d3d0b84086c6021c188ac0e.jpg",
+      "md5": "f96166935d3d0b84086c6021c188ac0e",
+      "size": 918896,
+      "uploadedDate": "2021-02-11T18:31:50.237Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "9f6e3a7758fe468ab12187a1ead11829"
+    }
+  ],
+  "catalogNs": null
+}

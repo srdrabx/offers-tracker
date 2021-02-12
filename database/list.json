@@ -2076,6 +2076,22 @@
     ""
   ],
   [
+    "0a4a1e658de44751a47c089fdb03fe77",
+    "c8ff067c1c984cd7ab1998e8a9afc8b6",
+    "KINGDOM HEARTS HD 2.8 Final Chapter Prologue",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Square Enix (Japan)",
+    1612319337,
+    1613070698,
+    "https://cdn1.epicgames.com/c8ff067c1c984cd7ab1998e8a9afc8b6/offer/EGS_KINGDOMHEARTSHD28FinalChapterPrologue_SquareEnix_S6-1200x1600-a3fc8fc218fe1ff3541dc2b5b9f076d7.jpg",
+    "kingdom-hearts-hd-2-8-final-chapter-prologue"
+  ],
+  [
     "0a4b437d7ffc411bb42d391a6a8ed2b0",
     "morpho",
     "MorphoCodeRedemptionOnly",
@@ -3767,16 +3783,18 @@
   [
     "12193f976e3342769eb7448cfe19cf02",
     "2ccd3d825eff465393503a7a8ef7b5a0",
-    "PalladiumGeneralAudience",
+    "Aground",
     [
       "games",
+      "games/edition",
+      "games/edition/base",
       "applications"
     ],
     "White Thorn Digital",
     1610522603,
-    1612542058,
-    "",
-    ""
+    1612989819,
+    "https://cdn1.epicgames.com/2ccd3d825eff465393503a7a8ef7b5a0/offer/EGS_Aground_FancyFishGames_S2-1200x1600-85e17aec192e24812ede62e19329ea72.jpg",
+    "aground"
   ],
   [
     "12198c1b8d7f4e8ba096fea7a72ae083",
@@ -4191,7 +4209,7 @@
     ],
     "Tripwire Interactive",
     1591223851,
-    1596555180,
+    1613071180,
     "",
     ""
   ],
@@ -6345,16 +6363,17 @@
   [
     "1e0605309db6411584abb7cd0cdc50d9",
     "2744acda6a2e493e9894b389b6564df7",
-    "DLC8 - PHASE 3 Locate and Deliver",
+    "Snowrunner - Season 3: Locate & Deliver",
     [
-      "games",
+      "addons",
+      "addons/durable",
       "applications"
     ],
-    "Epic Dev Test Account",
+    "Focus Home",
     1578610756,
-    1605535256,
-    "",
-    ""
+    1612998219,
+    "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/EGS_Season3LocateDeliver_SaberInteractive_DLC_S2-1200x1600-89fceee2a1eada46792721a29d431f68.jpg",
+    "snowrunner/season-3-locate-deliver"
   ],
   [
     "1e1c963a7f1946f988469cf817938a1d",
@@ -6797,6 +6816,22 @@
     1573668015,
     "https://cdn1.epicgames.com/wex/offer/BB_InGame_StoreArt_Collection-512x512-03916083c870df5d62bad565313b36db.jpg",
     ""
+  ],
+  [
+    "206cbd3720c8414c84302ba575ecf28a",
+    "0712176b5e3e49bfa8866c0ee1359f2d",
+    "KINGDOM HEARTS III + Re Mind",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Square Enix (Japan)",
+    1611705429,
+    1613070679,
+    "https://cdn1.epicgames.com/0712176b5e3e49bfa8866c0ee1359f2d/offer/EGS_KINGDOMHEARTSIIIReMindDLC_SquareEnix_S6-1200x1600-54d8b062dc7488c71874fe2455d6c2bd.jpg",
+    "kingdom-hearts-iii"
   ],
   [
     "20ab8b1e7b2c4791ba52475b0b60196d",
@@ -7387,7 +7422,7 @@
     ],
     "NCSoft",
     1607653250,
-    1613061128,
+    1613068543,
     "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_SurfMesaftEmileeilyiloveyoubaby_HarmonixMusicSystemsInc_DLC_S2-1200x1600-9c8b98eef1c3d6bb47553daed6a29889.jpg",
     ""
   ],
@@ -8229,7 +8264,7 @@
     ],
     "Santa Ragione",
     1584650091,
-    1589480980,
+    1613086571,
     "https://cdn1.epicgames.com/c749cd78da34408d8434a46271f4bb79/offer/EGS_Saturnalia_SantaRagionesrl_S1-2560x1440-62a841e178df1331230c2f8ed09087fa.jpg",
     "saturnalia/home"
   ],
@@ -9257,6 +9292,22 @@
     1596163692,
     "https://cdn1.epicgames.com/6110c92696a54f108c8e9002713ea5f9/offer/EGS_BorderlandsThePreSequelUltraHDTexturePack_GearboxSoftware_Expansion_S2-1200x1600-97098ad0da753c6ff5e19255d6b0105c.jpg",
     "borderlands-the-pre-sequel/ultra-hd-pack"
+  ],
+  [
+    "2cc7e51ff4ed420f98913c0e6e328486",
+    "5ac6ed1380e94c7384b5cb89d38bb73e",
+    "Binary Smoke",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Outside Game Studio, Inc",
+    1600375374,
+    1613075236,
+    "https://cdn1.epicgames.com/5ac6ed1380e94c7384b5cb89d38bb73e/offer/EGS_BinarySmoke_OutsideGameStudio_S2-1200x1600-e16fed0f8cfb659d76b20bd83ccc9e7e.jpg",
+    "binary-smoke"
   ],
   [
     "2cd2f0793c8c414798ea880019bbc1fe",
@@ -11680,7 +11731,7 @@
     ],
     "Tripwire Interactive",
     1585858453,
-    1585858467,
+    1613071180,
     "https://cdn1.epicgames.com/bd46d4ce259349e5bd8b3ded20274737/offer/Wishlist-Landscape-2560x1440-a48745f2dde9b492b4100291e23bba10-2560x1440-a48745f2dde9b492b4100291e23bba10.jpg",
     ""
   ],
@@ -13503,6 +13554,22 @@
     "where-cards-fall"
   ],
   [
+    "400d34fa07a44e039ba0d3cde3ceeba2",
+    "4158b699dd70447a981fee752d970a3e",
+    "KINGDOM HEARTS HD 1.5+2.5 ReMIX",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Square Enix (Japan)",
+    1612315940,
+    1613070720,
+    "https://cdn1.epicgames.com/4158b699dd70447a981fee752d970a3e/offer/EGS_KINGDOMHEARTSHD1525ReMIX_SquareEnix_S6-1200x1600-132fc1f63bf40a41cddbff3bab7acc52.jpg",
+    "kingdom-hearts-hd-1-5-2-5-remix"
+  ],
+  [
     "4019722ac05540b69f172d5182468175",
     "d0230ef21b1f4ef29aec0d49946912fc",
     "Torchlight",
@@ -13849,6 +13916,22 @@
     1588120702,
     "",
     "auto-chess/home"
+  ],
+  [
+    "419b4e7fd0a443e4843d3e6d3cc18a98",
+    "84c76746bce94effb8e1047fabfd7eb7",
+    "World of Warships",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Wargaming Group Limited",
+    1599863098,
+    1613074082,
+    "https://cdn1.epicgames.com/84c76746bce94effb8e1047fabfd7eb7/offer/EGS_WorldofWarships_WargamingGroupLimited_S2-1200x1600-f96166935d3d0b84086c6021c188ac0e.jpg",
+    "world-of-warships"
   ],
   [
     "41bc6f9760b544a6a4907ba001ab41b3",
@@ -15654,6 +15737,22 @@
     "faeria/premium-bundle"
   ],
   [
+    "4a27d8ed281147cd9f40096f95d5d8bb",
+    "ce9774c9678a4377befaa8fdfc8ef71b",
+    "Magic: Legends",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Perfect World",
+    1611364146,
+    1613072848,
+    "https://cdn1.epicgames.com/ce9774c9678a4377befaa8fdfc8ef71b/offer/EGS_MagicLegends_CrypticStudios_S4-1200x1600-dfa374ef3b6283847ca520495f668c42.jpg",
+    "magic-legends"
+  ],
+  [
     "4a2a39415a524491a46bb192a9a8586c",
     "bb9f87bb3d0042258bb1c97397bc60f2",
     "Crayta: Champion Edition",
@@ -15754,6 +15853,22 @@
     1612226834,
     "https://cdn1.epicgames.com/9a4a6536096c4307bfb235d811f754ce/offer/EGS_1000ZENBundle_CrypticStudios_AddOn_S2-1200x1600-5dbdd1dc575af5b22e6778cff1387e2d.jpg",
     ""
+  ],
+  [
+    "4a9df8f320804dc891cb139697b10b66",
+    "3671db367c594e2ab5020105dc52dc65",
+    "KINGDOM HEARTS Melody of Memory",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Square Enix (Japan)",
+    1611796711,
+    1613070742,
+    "https://cdn1.epicgames.com/3671db367c594e2ab5020105dc52dc65/offer/EGS_KINGDOMHEARTSMelodyofMemory_SQUAREENIX_S2-1200x1600-bc6932a1e7cbb7eeca4f66740f711f11.jpg",
+    "kingdom-hearts-melody-of-memory"
   ],
   [
     "4aa076a3d6b845599facee6f3a4394d1",
@@ -16890,7 +17005,7 @@
     ],
     "Tripwire Interactive",
     1584737210,
-    1584737497,
+    1613071180,
     "https://cdn1.epicgames.com/bd46d4ce259349e5bd8b3ded20274737/offer/Wishlist-Landscape-2560x1440-a48745f2dde9b492b4100291e23bba10-2560x1440-a48745f2dde9b492b4100291e23bba10.jpg",
     ""
   ],
@@ -18455,6 +18570,22 @@
     1611878507,
     "https://cdn1.epicgames.com/28d06644e2f84b398c1b7fb96a2b6bd5/offer/GWF_VOTDG_Artwork_Portrait_Final-1524x1900-5ad71a9c34545441b2d54a10a228fb81.png",
     ""
+  ],
+  [
+    "57a252222c5a4dd490b1555e7b84db4c",
+    "5e834b926aa547029903e0ae4f649a70",
+    "Axiom Verge 2",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Thomas Happ Games LLC",
+    1611877205,
+    1613073193,
+    "https://cdn1.epicgames.com/5e834b926aa547029903e0ae4f649a70/offer/EGS_AxiomVerge2_ThomasHappGamesLLC_S2-1200x1600-952cf5df48a0e0c7e6104b5aabfc7277.jpg",
+    "axiom-verge-2"
   ],
   [
     "57ba67fbc9f04b988413a3f570fe9feb",
@@ -22866,11 +22997,13 @@
     "2736ab9fec9c4a93a7a2872ed5154d4b",
     "Rage 2 - 4500 RAGE Coins (JP)",
     [
+      "addons",
+      "addons/consumable",
       "applications"
     ],
     "Bethesda Softworks LLC",
     1607380693,
-    1613056670,
+    1613074931,
     "https://cdn1.epicgames.com/2736ab9fec9c4a93a7a2872ed5154d4b/offer/egs-rage2-idsoftware-s2-1200x1600-ee8fcbffe5b0-1200x1600-d692008156cef0c206454ef84c987499.jpg",
     ""
   ],
@@ -24932,9 +25065,25 @@
     ],
     "Tripwire Interactive",
     1559638418,
-    1611864492,
+    1613071180,
     "https://cdn1.epicgames.com/bd46d4ce259349e5bd8b3ded20274737/offer/1200x600b-1200x1600-d2045ec65147297d8a7cebd13cd68d4b.jpg",
     "chivalry-2"
+  ],
+  [
+    "77e88821724447efbff0b46252304d8f",
+    "7a6c7ce416d7436895e12c94917eb5f9",
+    "GALAHAD 3093",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Simutronics",
+    1602253485,
+    1613071235,
+    "https://cdn1.epicgames.com/7a6c7ce416d7436895e12c94917eb5f9/offer/EGS_Amechbasedheroshootersetin3093_SimutronicsCorp_S2-1200x1600-886b2fc5069380d7b8ce9c9bbaf08f16.jpg",
+    "galahad-3093"
   ],
   [
     "780ba45b7623488581b9e871d7e4faf8",
@@ -26051,7 +26200,7 @@
     ],
     "Tripwire Interactive",
     1559638419,
-    1611864449,
+    1613071180,
     "",
     ""
   ],
@@ -28742,11 +28891,13 @@
     "2736ab9fec9c4a93a7a2872ed5154d4b",
     "Rage 2 - 500 RAGE Coins (JP)",
     [
+      "addons",
+      "addons/consumable",
       "applications"
     ],
     "Bethesda Softworks LLC",
     1607380455,
-    1613056670,
+    1613074884,
     "https://cdn1.epicgames.com/2736ab9fec9c4a93a7a2872ed5154d4b/offer/egs-rage2-idsoftware-s2-1200x1600-ee8fcbffe5b0-1200x1600-d692008156cef0c206454ef84c987499.jpg",
     ""
   ],
@@ -31472,7 +31623,7 @@
     ],
     "Codename Entertainment",
     1612571777,
-    1612571795,
+    1613061631,
     "",
     ""
   ],
@@ -32307,7 +32458,7 @@
     ],
     "NCSoft",
     1607653200,
-    1613061128,
+    1613068543,
     "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_DuaLipaBLACKPINKKissandMakeUp_HarmonixMusicSystemsInc_DLC_S2-1200x1600-7fa539d22b09c5579f6552dda4c9b60a.jpg",
     ""
   ],
@@ -32575,14 +32726,14 @@
   [
     "9c5684bc40fb47a0b8e68a767885fece",
     "920fd14e9d90478ba2e9b5a5ae987b02",
-    "SoraDevAudience",
+    "SoraConsumableAudience",
     [
       "games",
       "applications"
     ],
     "2K Games CoreTech",
     1569366405,
-    1589402650,
+    1613088339,
     "",
     ""
   ],
@@ -33179,7 +33330,7 @@
     ],
     "Tripwire Interactive",
     1584737595,
-    1584737595,
+    1613071180,
     "https://cdn1.epicgames.com/bd46d4ce259349e5bd8b3ded20274737/offer/Wishlist-Landscape-2560x1440-a48745f2dde9b492b4100291e23bba10-2560x1440-a48745f2dde9b492b4100291e23bba10.jpg",
     ""
   ],
@@ -34677,6 +34828,21 @@
     1612297224,
     "https://cdn1.epicgames.com/protea/offer/IoT_TT8_EGS_Library Tile Portrait_29433f-1200x1600-f160f481f01395e6c8c558051a1d8e9a.jpg",
     "industries-of-titan"
+  ],
+  [
+    "a54523dedfa141f1a7a848f98f6f2bfa",
+    "9cf250606722448887fa1447b1d9da06",
+    "WRC 9 FIA Rally Star",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Nacon",
+    1602688470,
+    1613138599,
+    "",
+    ""
   ],
   [
     "a55fffbb111c43bf8703847159d79bf6",
@@ -38326,7 +38492,7 @@
     ],
     "NCSoft",
     1607653324,
-    1613061128,
+    1613068543,
     "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_DavidGuettaSiaLetsLove_HarmonixMusicSystemsInc_DLC_S2-1200x1600-686f7487328e457a5faeec365a1ce62f.jpg",
     ""
   ],
@@ -40157,8 +40323,8 @@
     ],
     "Gearbox Publishing",
     1605735901,
-    1605819292,
-    "https://cdn1.epicgames.com/b6b2ef0cc19a4adaaa1cf6c7ed000dfa/offer/EGS_Godfall_CounterplayGames_S2-1200x1600-ebfebb142ab90bddf35934f0f2ff707e.jpg",
+    1613077046,
+    "https://cdn1.epicgames.com/b6b2ef0cc19a4adaaa1cf6c7ed000dfa/offer/EGS_Godfall_CounterplayGames_S2-1200x1600-2ec1c619129c3ac76a6229397d71bddf.jpg",
     "godfall"
   ],
   [
@@ -42916,7 +43082,7 @@
     ],
     "Tripwire Interactive",
     1591221985,
-    1596555168,
+    1613071180,
     "",
     ""
   ],
@@ -42925,11 +43091,13 @@
     "2736ab9fec9c4a93a7a2872ed5154d4b",
     "Rage 2 - 2500 RAGE Coins (JP)",
     [
+      "addons",
+      "addons/consumable",
       "applications"
     ],
     "Bethesda Softworks LLC",
     1607380636,
-    1613056670,
+    1613074783,
     "https://cdn1.epicgames.com/2736ab9fec9c4a93a7a2872ed5154d4b/offer/egs-rage2-idsoftware-s2-1200x1600-ee8fcbffe5b0-1200x1600-d692008156cef0c206454ef84c987499.jpg",
     ""
   ],
@@ -42974,6 +43142,22 @@
     1608057399,
     "https://cdn1.epicgames.com/244aaaa06bfa49d088205b13b9d2d115/offer/WF_PlatinumPack2100_1200x1600-1200x1600-4a8085dab8d0cb6515168015b6a0ca82.jpg",
     ""
+  ],
+  [
+    "d02607edf33e45538193c458f78d9e8d",
+    "3fbe0be2f0a44febb56dc080c3a53775",
+    "RemiLore: Lost Girl in the Lands of Lore",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Nicalis",
+    1611617603,
+    1613087354,
+    "https://cdn1.epicgames.com/3fbe0be2f0a44febb56dc080c3a53775/offer/EGS_RemiLoreLostGirlintheLandsofLore_PixelloreIncREMIMORY_S2-1200x1600-c864fbf6d2654003dad1c92c08f6fab2.jpg",
+    "remilore-lost-girl-in-the-lands-of-lore"
   ],
   [
     "d02b4731d3714805aef9c7eedd8ce4fc",
@@ -43953,6 +44137,20 @@
     ""
   ],
   [
+    "d6053e0dda9941d68aa0eb6b108c2001",
+    "7e508f543b05465abe3a935960eb70ac",
+    "DLC104",
+    [
+      "games",
+      "applications"
+    ],
+    "Codename Entertainment",
+    1613088293,
+    1613088293,
+    "",
+    ""
+  ],
+  [
     "d61167b196e449aa90731ad8d95e56f2",
     "puma",
     "Genesis Alpha One: Pre-purchase Only",
@@ -44767,7 +44965,7 @@
     ],
     "Tripwire Interactive",
     1591223730,
-    1596555128,
+    1613071180,
     "",
     ""
   ],
@@ -45628,8 +45826,8 @@
     ],
     "2K Games, Inc.",
     1567175101,
-    1610570910,
-    "https://cdn1.epicgames.com/catnip/offer/BL3TallNologo-1200x1440-c1200ae70b5e054025e296746d1987a8.jpg",
+    1613062903,
+    "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_BROKENHEARTSDAY_EPIC_1200X1600_P2-1200x1600-6a98df3795d46e9c7252ef709f4c4200.jpg",
     "borderlands-3"
   ],
   [
@@ -46239,6 +46437,20 @@
     1596842868,
     "https://cdn1.epicgames.com/clary/offer/GameName_Store_Portrait_1200x1600 (1)-1200x1600-857825ac4bbed8c1f7531fee9baa003b.jpg",
     "assassins-creed-odyssey/dlc-2"
+  ],
+  [
+    "e0c3594d619145658a5726992f6fd6fe",
+    "7e508f543b05465abe3a935960eb70ac",
+    "DLC062",
+    [
+      "games",
+      "applications"
+    ],
+    "Codename Entertainment",
+    1613085858,
+    1613085858,
+    "",
+    ""
   ],
   [
     "e0df531c5d254171a174c8eab5e8903f",
@@ -47650,11 +47862,13 @@
     "2736ab9fec9c4a93a7a2872ed5154d4b",
     "Rage 2 - 1100 RAGE Coins (JP)",
     [
+      "addons",
+      "addons/consumable",
       "applications"
     ],
     "Bethesda Softworks LLC",
     1607380541,
-    1613056670,
+    1613074821,
     "https://cdn1.epicgames.com/2736ab9fec9c4a93a7a2872ed5154d4b/offer/egs-rage2-idsoftware-s2-1200x1600-ee8fcbffe5b0-1200x1600-d692008156cef0c206454ef84c987499.jpg",
     ""
   ],
@@ -48386,16 +48600,18 @@
   [
     "e9b574eacfaf4c7bb244670eded87d31",
     "8ff186a4415d4ce6b5a287ccfd11cf04",
-    "LykoiGeneralAudience",
+    "Core",
     [
       "games",
+      "games/edition",
+      "games/edition/base",
       "applications"
     ],
     "Manticore Games",
     1585887612,
-    1585887848,
-    "",
-    ""
+    1613072678,
+    "https://cdn1.epicgames.com/8ff186a4415d4ce6b5a287ccfd11cf04/offer/EGS_Core_ManticoreGames_S2-1200x1600-6724c3b1a1b771d1fcfd34af273281bb.jpg",
+    "core"
   ],
   [
     "e9bd25e46a9049579b3640bfc00bfcb4",
@@ -48570,7 +48786,7 @@
     ],
     "Epic Games",
     1602267702,
-    1612544777,
+    1613081308,
     "https://cdn1.epicgames.com/fn/offer/EN_FN_Store_LastLaugh_512x512-512x512-976067d7867a922711bddc03d0a38b96.jpg",
     "fortnite/the-last-laugh-bundle"
   ],
@@ -49837,6 +50053,22 @@
     ""
   ],
   [
+    "f087b9a61cf840dbbc055854008d3660",
+    "9eea232af06e4e60bb90f9bc5c2a4638",
+    "Skate City",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Snowman",
+    1593744829,
+    1613071097,
+    "https://cdn1.epicgames.com/9eea232af06e4e60bb90f9bc5c2a4638/offer/EGS_SkateCity_Agens_S2-1200x1600-0e27f416b79d0a39f34a95ea0253096e.jpg",
+    "skate-city"
+  ],
+  [
     "f08e4c3a18b546568ccd07997590bee3",
     "nutmeg",
     "SuperMash",
@@ -50728,7 +50960,7 @@
     ],
     "Tripwire Interactive",
     1591223783,
-    1596555155,
+    1613071180,
     "",
     ""
   ],
@@ -51066,7 +51298,7 @@
     ],
     "Codename Entertainment",
     1612571751,
-    1612571751,
+    1613061607,
     "",
     ""
   ],
@@ -51098,7 +51330,7 @@
     ],
     "Oddworld Inhabitants Inc.",
     1607623976,
-    1609783338,
+    1613080908,
     "https://cdn1.epicgames.com/e099f2abf3324d248054bf14c476fbc0/offer/EGS_OddworldSoulstorm_OddworldInhabitantsInc_S2-1200x1600-bf4e7a1052f737e16db6bc3d9c603f14.jpg",
     "oddworld-soulstorm"
   ],

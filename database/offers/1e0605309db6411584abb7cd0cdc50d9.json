@@ -1,20 +1,20 @@
 {
   "id": "1e0605309db6411584abb7cd0cdc50d9",
   "namespace": "2744acda6a2e493e9894b389b6564df7",
-  "title": "DLC8 - PHASE 3 Locate and Deliver",
-  "description": "DLC8 - PHASE 3 Locate and Deliver",
+  "title": "Snowrunner - Season 3: Locate & Deliver",
+  "description": "Snowrunner - Season 3: Locate & Deliver",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
+  "productSlug": "snowrunner/season-3-locate-deliver",
   "urlSlug": "mayflower-dlc3",
   "creationDate": "2020-01-09T22:59:16.581Z",
-  "lastModifiedDate": "2020-11-16T14:00:56.198Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2021-02-10T23:03:39.749Z",
+  "effectiveDate": "2021-02-11T19:16:00.000Z",
+  "viewableDate": "2021-02-11T19:16:00.000Z",
   "developer": null,
   "seller": {
-    "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
-    "name": "Epic Dev Test Account"
+    "id": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+    "name": "Focus Home"
   },
   "linkedOfferId": null,
   "isFeatured": false,
@@ -25,7 +25,10 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
     },
     {
       "path": "applications"
@@ -39,14 +42,73 @@
     },
     {
       "key": "publisherName",
-      "value": "[]"
+      "value": "Focus Home Interactive"
     },
     {
       "key": "developerName",
-      "value": "[]"
+      "value": "Saber Interactive"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "snowrunner/season-3-locate-deliver"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/EGS_Season3LocateDeliver_SaberInteractive_DLC_S1-2560x1440-7d15fd513905d34d1b2251eec84a8522.jpg",
+      "md5": "7d15fd513905d34d1b2251eec84a8522",
+      "size": 413192,
+      "uploadedDate": "2021-02-03T01:09:03.923Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/EGS_Season3LocateDeliver_SaberInteractive_DLC_S2-1200x1600-89fceee2a1eada46792721a29d431f68.jpg",
+      "md5": "89fceee2a1eada46792721a29d431f68",
+      "size": 631989,
+      "uploadedDate": "2021-02-03T01:09:14.206Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/EGS_Season3LocateDeliver_SaberInteractive_DLC_S2-1200x1600-89fceee2a1eada46792721a29d431f68.jpg",
+      "md5": "89fceee2a1eada46792721a29d431f68",
+      "size": 631989,
+      "uploadedDate": "2021-02-03T01:09:29.580Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/EGS_Season3LocateDeliver_SaberInteractive_DLC_S2-1200x1600-89fceee2a1eada46792721a29d431f68.jpg",
+      "md5": "89fceee2a1eada46792721a29d431f68",
+      "size": 631989,
+      "uploadedDate": "2021-02-03T01:09:37.248Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/EGS_Season3LocateDeliver_SaberInteractive_DLC_S1-2560x1440-7d15fd513905d34d1b2251eec84a8522.jpg",
+      "md5": "7d15fd513905d34d1b2251eec84a8522",
+      "size": 413192,
+      "uploadedDate": "2021-02-03T01:09:46.907Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/EGS_Season3LocateDeliver_SaberInteractive_DLC_S2-1200x1600-89fceee2a1eada46792721a29d431f68.jpg",
+      "md5": "89fceee2a1eada46792721a29d431f68",
+      "size": 631989,
+      "uploadedDate": "2021-02-03T01:09:56.294Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "d37d8b5c4b0e4e5382cb128201f15784"

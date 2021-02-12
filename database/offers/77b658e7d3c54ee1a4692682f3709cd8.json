@@ -8,8 +8,8 @@
   "productSlug": "chivalry-2",
   "urlSlug": "peppermintprepurchase",
   "creationDate": "2019-06-04T08:53:38.829Z",
-  "lastModifiedDate": "2021-01-28T20:08:12.990Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2021-02-11T19:19:40.451Z",
+  "effectiveDate": "2021-02-11T19:15:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -37,15 +37,84 @@
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2021-02-10T17:36:19.203Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1344",
+      "name": "Fighting",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:09.322Z",
+      "updated": "2021-02-05T16:17:17.035Z",
+      "status": "ACTIVE",
+      "referenceCount": 8,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2021-02-10T17:35:33.537Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1294",
+      "name": "First Person",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:44.596Z",
+      "updated": "2021-02-10T17:33:51.253Z",
+      "status": "ACTIVE",
+      "referenceCount": 24,
+      "comment": null
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "[]"
+      "value": "KR"
     },
     {
       "key": "publisherName",
       "value": "Tripwire Interactive"
+    },
+    {
+      "key": "availableDate",
+      "value": "1623124800"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
     },
     {
       "key": "developerName",

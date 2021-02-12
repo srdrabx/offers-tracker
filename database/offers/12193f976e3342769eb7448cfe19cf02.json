@@ -1,16 +1,16 @@
 {
   "id": "12193f976e3342769eb7448cfe19cf02",
   "namespace": "2ccd3d825eff465393503a7a8ef7b5a0",
-  "title": "PalladiumGeneralAudience",
-  "description": "PalladiumGeneralAudience",
+  "title": "Aground",
+  "description": "Aground",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
+  "productSlug": "aground",
   "urlSlug": "palladiumgeneralaudience",
   "creationDate": "2021-01-13T07:23:23.907Z",
-  "lastModifiedDate": "2021-02-05T16:20:58.359Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2021-02-10T20:43:39.522Z",
+  "effectiveDate": "2021-02-11T17:00:00.000Z",
+  "viewableDate": "2021-02-11T17:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-v7c8xq9bmhtqhakulz7lrptnz8b628",
@@ -28,10 +28,52 @@
       "path": "games"
     },
     {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
       "path": "applications"
     }
   ],
   "tags": [
+    {
+      "id": "1381",
+      "name": "Exploration",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:27.799Z",
+      "updated": "2021-02-05T16:20:12.282Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "Open World",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2021-02-10T17:34:58.080Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
+    },
     {
       "id": "9547",
       "name": "Windows",
@@ -45,15 +87,40 @@
       "comment": null
     },
     {
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2021-02-10T17:35:47.790Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2021-02-10T17:36:06.452Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
       "id": "10719",
       "name": "Mac OS",
       "namespace": "epic",
       "aliases": [
-        "OSX"
+        "OSX",
+        "macOS"
       ],
       "operator": null,
       "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2021-02-03T16:27:46.634Z",
+      "updated": "2021-02-10T17:26:31.125Z",
       "status": "ACTIVE",
       "referenceCount": 19,
       "comment": null
@@ -66,14 +133,73 @@
     },
     {
       "key": "publisherName",
-      "value": "[]"
+      "value": "Whitethorn Games"
     },
     {
       "key": "developerName",
-      "value": "[]"
+      "value": "Fancy Fish Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "aground"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/2ccd3d825eff465393503a7a8ef7b5a0/offer/EGS_Aground_FancyFishGames_S3-2560x1440-fc24e6830ef8feb712d430a5f42c96a1.jpg",
+      "md5": "fc24e6830ef8feb712d430a5f42c96a1",
+      "size": 557281,
+      "uploadedDate": "2021-02-09T20:28:43.481Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/2ccd3d825eff465393503a7a8ef7b5a0/offer/EGS_Aground_FancyFishGames_S2-1200x1600-85e17aec192e24812ede62e19329ea72.jpg",
+      "md5": "85e17aec192e24812ede62e19329ea72",
+      "size": 419221,
+      "uploadedDate": "2021-02-09T20:28:50.810Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/2ccd3d825eff465393503a7a8ef7b5a0/offer/EGS_Aground_FancyFishGames_S2-1200x1600-85e17aec192e24812ede62e19329ea72.jpg",
+      "md5": "85e17aec192e24812ede62e19329ea72",
+      "size": 419221,
+      "uploadedDate": "2021-02-09T20:29:00.951Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/2ccd3d825eff465393503a7a8ef7b5a0/offer/EGS_Aground_FancyFishGames_S2-1200x1600-85e17aec192e24812ede62e19329ea72.jpg",
+      "md5": "85e17aec192e24812ede62e19329ea72",
+      "size": 419221,
+      "uploadedDate": "2021-02-09T20:29:08.388Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/2ccd3d825eff465393503a7a8ef7b5a0/offer/EGS_Aground_FancyFishGames_S1-2560x1440-fc24e6830ef8feb712d430a5f42c96a1.jpg",
+      "md5": "fc24e6830ef8feb712d430a5f42c96a1",
+      "size": 557281,
+      "uploadedDate": "2021-02-09T20:29:21.070Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/2ccd3d825eff465393503a7a8ef7b5a0/offer/EGS_Aground_FancyFishGames_S2-1200x1600-85e17aec192e24812ede62e19329ea72.jpg",
+      "md5": "85e17aec192e24812ede62e19329ea72",
+      "size": 419221,
+      "uploadedDate": "2021-02-09T20:29:41.285Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "84f1fc413c064aeba7d35184fb15eafb"

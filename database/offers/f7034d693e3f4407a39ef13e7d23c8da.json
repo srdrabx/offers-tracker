@@ -8,7 +8,7 @@
   "productSlug": "oddworld-soulstorm",
   "urlSlug": "larkprepurchaseaudience",
   "creationDate": "2020-12-10T18:12:56.961Z",
-  "lastModifiedDate": "2021-01-04T18:02:18.407Z",
+  "lastModifiedDate": "2021-02-11T22:01:48.696Z",
   "effectiveDate": "2020-12-11T01:00:00.000Z",
   "viewableDate": "2020-12-11T01:00:00.000Z",
   "developer": null,
@@ -40,12 +40,12 @@
   "tags": [
     {
       "id": "1216",
-      "name": "ACTION",
+      "name": "Action",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2020-12-15T01:46:14.061Z",
+      "updated": "2021-02-10T17:36:19.203Z",
       "status": "ACTIVE",
       "referenceCount": 110,
       "comment": null
@@ -102,7 +102,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "CN"
     },
     {
       "key": "publisherName",

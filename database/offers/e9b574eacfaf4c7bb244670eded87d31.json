@@ -1,16 +1,16 @@
 {
   "id": "e9b574eacfaf4c7bb244670eded87d31",
   "namespace": "8ff186a4415d4ce6b5a287ccfd11cf04",
-  "title": "LykoiGeneralAudience",
-  "description": "LykoiGeneralAudience",
+  "title": "Core",
+  "description": "Core",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
+  "productSlug": "core",
   "urlSlug": "lykoigeneralaudience",
   "creationDate": "2020-04-03T04:20:12.248Z",
-  "lastModifiedDate": "2020-04-03T04:24:08.282Z",
+  "lastModifiedDate": "2021-02-11T19:44:38.413Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "viewableDate": "2021-02-11T19:07:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-gef9apdv7sv2tr6vrvz6efgfv6p858",
@@ -28,25 +28,139 @@
       "path": "games"
     },
     {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2021-02-10T17:36:19.203Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-12-15T01:46:33.012Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1210",
+      "name": "Shooter",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2021-02-10T17:34:46.127Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "KR"
     },
     {
       "key": "publisherName",
-      "value": "[]"
+      "value": "Manticore Games"
     },
     {
       "key": "developerName",
-      "value": "[]"
+      "value": "Manticore Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "core"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/8ff186a4415d4ce6b5a287ccfd11cf04/offer/EGS_Core_ManticoreGames_S9-1920x1080-e1b43d736cc16cce2e1b1be816582d74.jpg",
+      "md5": "e1b43d736cc16cce2e1b1be816582d74",
+      "size": 915990,
+      "uploadedDate": "2021-02-10T22:31:42.590Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/8ff186a4415d4ce6b5a287ccfd11cf04/offer/EGS_Core_ManticoreGames_S2-1200x1600-6724c3b1a1b771d1fcfd34af273281bb.jpg",
+      "md5": "6724c3b1a1b771d1fcfd34af273281bb",
+      "size": 652773,
+      "uploadedDate": "2021-02-10T22:31:51.078Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/8ff186a4415d4ce6b5a287ccfd11cf04/offer/EGS_Core_ManticoreGames_S2-1200x1600-6724c3b1a1b771d1fcfd34af273281bb.jpg",
+      "md5": "6724c3b1a1b771d1fcfd34af273281bb",
+      "size": 652773,
+      "uploadedDate": "2021-02-10T22:32:00.375Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/8ff186a4415d4ce6b5a287ccfd11cf04/offer/EGS_Core_ManticoreGames_S2-1200x1600-6724c3b1a1b771d1fcfd34af273281bb.jpg",
+      "md5": "6724c3b1a1b771d1fcfd34af273281bb",
+      "size": 652773,
+      "uploadedDate": "2021-02-10T22:32:08.153Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/8ff186a4415d4ce6b5a287ccfd11cf04/offer/EGS_Core_ManticoreGames_S9-1920x1080-e1b43d736cc16cce2e1b1be816582d74.jpg",
+      "md5": "e1b43d736cc16cce2e1b1be816582d74",
+      "size": 915990,
+      "uploadedDate": "2021-02-10T22:32:18.381Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/8ff186a4415d4ce6b5a287ccfd11cf04/offer/EGS_Core_ManticoreGames_S2-1200x1600-6724c3b1a1b771d1fcfd34af273281bb.jpg",
+      "md5": "6724c3b1a1b771d1fcfd34af273281bb",
+      "size": 652773,
+      "uploadedDate": "2021-02-10T22:32:29.984Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "b0e39838823c471e86bcdba53ff3e1b8"

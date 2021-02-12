@@ -1,14 +1,14 @@
 {
   "id": "9c5684bc40fb47a0b8e68a767885fece",
   "namespace": "920fd14e9d90478ba2e9b5a5ae987b02",
-  "title": "SoraDevAudience",
-  "description": "SoraDevAudience",
+  "title": "SoraConsumableAudience",
+  "description": "SoraConsumableAudience",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "soradevaudience",
+  "urlSlug": "soraconsumableaudience",
   "creationDate": "2019-09-24T23:06:45.443Z",
-  "lastModifiedDate": "2020-05-13T20:44:10.594Z",
+  "lastModifiedDate": "2021-02-12T00:05:39.936Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -18,7 +18,7 @@
   },
   "linkedOfferId": null,
   "isFeatured": false,
-  "ignoreOrder": true,
+  "ignoreOrder": false,
   "freeDays": 0,
   "collectionOfferIds": [],
   "technicalDetails": null,
@@ -49,7 +49,7 @@
   "keyImages": [],
   "items": [
     {
-      "id": "f1b7245505ca4496a1638e9899259775"
+      "id": "4bd8ffead3dd4c1cbd178bc43fdc09cd"
     }
   ],
   "catalogNs": null

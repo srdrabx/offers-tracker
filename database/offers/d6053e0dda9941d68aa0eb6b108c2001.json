@@ -1,0 +1,52 @@
+{
+  "id": "d6053e0dda9941d68aa0eb6b108c2001",
+  "namespace": "7e508f543b05465abe3a935960eb70ac",
+  "title": "DLC104",
+  "description": "DLC104",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "banedlc075-02",
+  "creationDate": "2021-02-12T00:04:53.254Z",
+  "lastModifiedDate": "2021-02-12T00:04:53.254Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+    "name": "Codename Entertainment"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "5ceb21430a2f47d5812d2dacd372ee08"
+    }
+  ],
+  "catalogNs": null
+}

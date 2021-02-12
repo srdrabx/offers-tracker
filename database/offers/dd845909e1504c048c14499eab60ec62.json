@@ -8,7 +8,7 @@
   "productSlug": "borderlands-3",
   "urlSlug": "borderlands-3-standard-edition",
   "creationDate": "2019-08-30T14:25:01.885Z",
-  "lastModifiedDate": "2021-01-13T20:48:30.442Z",
+  "lastModifiedDate": "2021-02-11T17:01:43.572Z",
   "effectiveDate": "2019-09-12T10:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -135,21 +135,6 @@
       "comment": null
     },
     {
-      "id": "9548",
-      "name": "OSX",
-      "namespace": "epic",
-      "aliases": [
-        "OS X",
-        "MAC OS"
-      ],
-      "operator": null,
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2020-09-15T18:08:53.889Z",
-      "status": "ACTIVE",
-      "referenceCount": 48,
-      "comment": null
-    },
-    {
       "id": "9549",
       "name": "Controller Support",
       "namespace": "epic",
@@ -198,58 +183,58 @@
   ],
   "keyImages": [
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/catnip/offer/BL3TallNologo-1200x1440-c1200ae70b5e054025e296746d1987a8.jpg",
-      "md5": "c1200ae70b5e054025e296746d1987a8",
-      "size": 1507215,
-      "uploadedDate": "2021-01-13T20:46:10.218Z",
-      "width": 1200,
-      "height": 1440
-    },
-    {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/catnip/offer/BL3Wide-2560x1440-462318f36bee20de4412e111ef72dc62.jpg",
-      "md5": "462318f36bee20de4412e111ef72dc62",
-      "size": 708051,
-      "uploadedDate": "2021-01-13T20:46:21.509Z",
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_BROKENHEARTSDAY_EPIC_2560X1440-2560x1440-56116bd1fdbdb9446db315b992725d33.jpg",
+      "md5": "56116bd1fdbdb9446db315b992725d33",
+      "size": 1095243,
+      "uploadedDate": "2021-02-10T22:34:11.202Z",
       "width": 2560,
       "height": 1440
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/catnip/offer/BL3TallNologo-1200x1440-c1200ae70b5e054025e296746d1987a8.jpg",
-      "md5": "c1200ae70b5e054025e296746d1987a8",
-      "size": 1507215,
-      "uploadedDate": "2021-01-13T20:46:32.655Z",
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_BROKENHEARTSDAY_EPIC_1200X1600_P2-1200x1600-6a98df3795d46e9c7252ef709f4c4200.jpg",
+      "md5": "6a98df3795d46e9c7252ef709f4c4200",
+      "size": 2454671,
+      "uploadedDate": "2021-02-10T22:34:20.541Z",
       "width": 1200,
-      "height": 1440
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_BROKENHEARTSDAY_EPIC_1200X1600_P2-1200x1600-6a98df3795d46e9c7252ef709f4c4200.jpg",
+      "md5": "6a98df3795d46e9c7252ef709f4c4200",
+      "size": 2454671,
+      "uploadedDate": "2021-02-10T22:34:31.241Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/catnip/offer/BL3TallNologo-1200x1440-c1200ae70b5e054025e296746d1987a8.jpg",
-      "md5": "c1200ae70b5e054025e296746d1987a8",
-      "size": 1507215,
-      "uploadedDate": "2021-01-13T20:46:44.250Z",
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_BROKENHEARTSDAY_EPIC_1200X1600_P2-1200x1600-6a98df3795d46e9c7252ef709f4c4200.jpg",
+      "md5": "6a98df3795d46e9c7252ef709f4c4200",
+      "size": 2454671,
+      "uploadedDate": "2021-02-10T22:34:41.985Z",
       "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_BROKENHEARTSDAY_EPIC_2560X1440-2560x1440-56116bd1fdbdb9446db315b992725d33.jpg",
+      "md5": "56116bd1fdbdb9446db315b992725d33",
+      "size": 1095243,
+      "uploadedDate": "2021-02-10T22:34:56.511Z",
+      "width": 2560,
       "height": 1440
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/catnip/offer/BL3TallNologo-1200x1440-c1200ae70b5e054025e296746d1987a8.jpg",
-      "md5": "c1200ae70b5e054025e296746d1987a8",
-      "size": 1507215,
-      "uploadedDate": "2021-01-13T20:46:56.124Z",
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_BROKENHEARTSDAY_EPIC_1200X1600_P2-1200x1600-6a98df3795d46e9c7252ef709f4c4200.jpg",
+      "md5": "6a98df3795d46e9c7252ef709f4c4200",
+      "size": 2454671,
+      "uploadedDate": "2021-02-10T22:35:11.892Z",
       "width": 1200,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/catnip/offer/BL3Wide-2560x1440-462318f36bee20de4412e111ef72dc62.jpg",
-      "md5": "462318f36bee20de4412e111ef72dc62",
-      "size": 708051,
-      "uploadedDate": "2021-01-13T20:47:08.589Z",
-      "width": 2560,
-      "height": 1440
+      "height": 1600
     }
   ],
   "items": [
