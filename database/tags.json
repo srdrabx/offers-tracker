@@ -71,6 +71,18 @@
     "referenceCount": 1,
     "comment": null
   },
+  "1102": {
+    "id": "1102",
+    "name": "Programming",
+    "namespace": "epic",
+    "aliases": [],
+    "operator": null,
+    "created": "2019-06-20T11:59:09.264Z",
+    "updated": "2021-02-05T16:13:08.102Z",
+    "status": "ACTIVE",
+    "referenceCount": 3,
+    "comment": null
+  },
   "1110": {
     "id": "1110",
     "name": "Party",
@@ -133,12 +145,12 @@
   },
   "1127": {
     "id": "1127",
-    "name": "INVESTIGATION",
+    "name": "Investigation",
     "namespace": "epic",
-    "aliases": null,
+    "aliases": [],
     "operator": null,
     "created": "2019-06-20T11:59:21.604Z",
-    "updated": "2020-09-15T15:53:57.309Z",
+    "updated": "2021-02-05T16:14:26.407Z",
     "status": "ACTIVE",
     "referenceCount": 4,
     "comment": null
@@ -289,14 +301,26 @@
   },
   "1181": {
     "id": "1181",
-    "name": "CARD GAME",
+    "name": "Card Game",
     "namespace": "epic",
-    "aliases": null,
+    "aliases": [],
     "operator": null,
     "created": "2019-06-20T11:59:48.401Z",
-    "updated": "2020-08-27T12:00:04.032Z",
+    "updated": "2021-02-05T16:15:32.594Z",
     "status": "ACTIVE",
     "referenceCount": 5,
+    "comment": null
+  },
+  "1183": {
+    "id": "1183",
+    "name": "Local Multiplayer",
+    "namespace": "epic",
+    "aliases": [],
+    "operator": null,
+    "created": "2019-06-20T11:59:49.408Z",
+    "updated": "2021-02-05T16:09:21.196Z",
+    "status": "ACTIVE",
+    "referenceCount": 1,
     "comment": null
   },
   "1185": {
@@ -645,6 +669,18 @@
     "updated": "2019-06-20T12:00:56.092Z",
     "status": "ACTIVE",
     "referenceCount": null,
+    "comment": null
+  },
+  "1318": {
+    "id": "1318",
+    "name": "Trivia",
+    "namespace": "epic",
+    "aliases": [],
+    "operator": null,
+    "created": "2019-06-20T12:00:56.576Z",
+    "updated": "2021-02-05T16:17:48.213Z",
+    "status": "ACTIVE",
+    "referenceCount": 9,
     "comment": null
   },
   "1321": {
