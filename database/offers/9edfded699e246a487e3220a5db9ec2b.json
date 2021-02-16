@@ -1,0 +1,56 @@
+{
+  "id": "9edfded699e246a487e3220a5db9ec2b",
+  "namespace": "dfd2530e80e4425d801913b0879be444",
+  "title": "SparrowMission8",
+  "description": "SparrowMission8",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "zombie-army-4-dead-war--mission",
+  "creationDate": "2021-02-15T23:56:11.722Z",
+  "lastModifiedDate": "2021-02-15T23:57:40.892Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+    "name": "Rebellion"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Rebellion"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "d0117219e1e84c8396407a37e88fd932"
+    }
+  ],
+  "catalogNs": null
+}

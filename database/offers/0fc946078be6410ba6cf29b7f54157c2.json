@@ -8,7 +8,7 @@
   "productSlug": "mafia-iii-definitive-edition",
   "urlSlug": "mafia-iii-definitive-edition",
   "creationDate": "2020-03-13T22:17:12.371Z",
-  "lastModifiedDate": "2020-09-24T23:31:48.057Z",
+  "lastModifiedDate": "2021-02-15T22:28:31.874Z",
   "effectiveDate": "2020-09-24T23:00:00.000Z",
   "viewableDate": "2020-05-19T16:00:00.000Z",
   "developer": null,
@@ -51,18 +51,6 @@
       "comment": null
     },
     {
-      "id": "14944",
-      "name": "The Showcase Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-02-04T17:51:00.530Z",
-      "updated": "2021-02-08T16:07:03.328Z",
-      "status": "ACTIVE",
-      "referenceCount": 366,
-      "comment": ""
-    },
-    {
       "id": "14869",
       "name": "2K Publisher Sale",
       "namespace": null,
@@ -75,18 +63,6 @@
       "comment": ""
     },
     {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2021-02-10T17:36:35.389Z",
-      "status": "ACTIVE",
-      "referenceCount": 195,
-      "comment": null
-    },
-    {
       "id": "1210",
       "name": "Shooter",
       "namespace": "epic",
@@ -96,6 +72,18 @@
       "updated": "2021-02-10T17:34:46.127Z",
       "status": "ACTIVE",
       "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
       "comment": null
     },
     {

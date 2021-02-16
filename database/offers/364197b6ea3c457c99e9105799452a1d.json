@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "rage-2--1100-rage-coins",
   "creationDate": "2020-11-04T19:52:03.759Z",
-  "lastModifiedDate": "2021-02-11T15:17:50.019Z",
+  "lastModifiedDate": "2021-02-15T23:27:43.000Z",
   "effectiveDate": "2021-02-18T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -38,7 +38,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "[]"
+      "value": "JP"
     },
     {
       "key": "publisherName",

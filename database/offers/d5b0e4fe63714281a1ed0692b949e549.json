@@ -2,13 +2,13 @@
   "id": "d5b0e4fe63714281a1ed0692b949e549",
   "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
   "title": "Viking Predator Pack",
-  "description": "Viking Predator Pack",
-  "longDescription": null,
+  "description": "Send your foes to the halls of Valhalla with the fearsome Viking Predator premium class. This DLC pack also includes access to the devastating Predator weapon, the Battle Axe.",
+  "longDescription": "Viking raiders consumed lands far from their own borders, and by doing so managed to draw attention they never imagined. Over centuries, the strongest and bravest warriors would seek this legendary hunter, luring it into ritual combat. Now you can send your foes to the feasting halls of Valhalla as the fearsome Viking Predator.\n\nThis DLC pack includes the premium Predator class with armor tints and early access* to the devastating new Predator weapon, the Battle Axe.\n\n*Battle Axe unlockable to all via gameplay by December 2020.",
   "status": "ACTIVE",
   "productSlug": "predator-hunting-grounds/viking-predator-pack",
-  "urlSlug": "viking-predator-pack",
+  "urlSlug": "predator-hunting-grounds-viking-predator-pack",
   "creationDate": "2020-06-09T01:08:10.564Z",
-  "lastModifiedDate": "2020-12-02T07:00:40.533Z",
+  "lastModifiedDate": "2021-02-16T15:41:24.348Z",
   "effectiveDate": "2020-10-27T14:00:00.000Z",
   "viewableDate": "2020-10-27T14:00:00.000Z",
   "developer": null,
@@ -26,9 +26,6 @@
   "categories": [
     {
       "path": "addons"
-    },
-    {
-      "path": "games"
     },
     {
       "path": "addons/durable"
@@ -108,18 +105,6 @@
       "updated": "2021-02-05T16:07:21.852Z",
       "status": "ACTIVE",
       "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "1279",
-      "name": "Vampire",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:37.207Z",
-      "updated": "2021-02-05T16:12:54.271Z",
-      "status": "ACTIVE",
-      "referenceCount": 3,
       "comment": null
     }
   ],

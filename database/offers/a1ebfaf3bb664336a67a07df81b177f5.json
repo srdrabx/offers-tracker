@@ -2,13 +2,13 @@
   "id": "a1ebfaf3bb664336a67a07df81b177f5",
   "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
   "title": "Dante “Beast Mode” Jefferson Pack",
-  "description": "Dante “Beast Mode” Jefferson Pack",
-  "longDescription": null,
+  "description": "Play as Dante “Beast Mode” Jefferson, featuring the look and voice of Marshawn Lynch. This DLC pack also includes early access to the Rocket Launcher Fireteam weapon.",
+  "longDescription": "Charge into the hunt as Dante “Beast Mode” Jefferson, featuring the iconic look and voice lines of the legendary running back Marshawn Lynch. Fitting for the “Beast”, this DLC pack includes the premium Fireteam skin with armor tints and early access* to the destructive new weapon, the Rocket Launcher.\n \n\n*Rocket Launcher unlockable to all via gameplay by February 2021.",
   "status": "ACTIVE",
   "productSlug": "predator-hunting-grounds/dante-beast-mode-jefferson-pack",
-  "urlSlug": "dante-beast-mode-jefferson-pack",
+  "urlSlug": "predator-hunting-grounds--dante-beast-mode-jefferson-pack",
   "creationDate": "2020-06-09T01:18:19.278Z",
-  "lastModifiedDate": "2020-12-08T14:25:18.621Z",
+  "lastModifiedDate": "2021-02-16T15:41:24.334Z",
   "effectiveDate": "2020-12-08T15:00:00.000Z",
   "viewableDate": "2020-12-08T15:00:00.000Z",
   "developer": null,
@@ -26,9 +26,6 @@
   "categories": [
     {
       "path": "addons"
-    },
-    {
-      "path": "games"
     },
     {
       "path": "addons/durable"

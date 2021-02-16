@@ -8,7 +8,7 @@
   "productSlug": "shadow-complex",
   "urlSlug": "viperdevplaytest",
   "creationDate": "2015-07-30T18:15:59.033Z",
-  "lastModifiedDate": "2020-07-31T13:39:17.372Z",
+  "lastModifiedDate": "2021-02-15T18:44:12.267Z",
   "effectiveDate": "2015-07-30T00:00:00.000Z",
   "viewableDate": "2015-07-30T00:00:00.000Z",
   "developer": null,
@@ -106,15 +106,6 @@
   ],
   "keyImages": [
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/shadown_logo-548x552-907ea59706669232c47ceb46ac71956b-548x552-907ea59706669232c47ceb46ac71956b.png",
-      "md5": "907ea59706669232c47ceb46ac71956b",
-      "size": 300933,
-      "uploadedDate": "2018-11-29T00:17:35.554Z",
-      "width": 548,
-      "height": 552
-    },
-    {
       "type": "DieselStoreFrontTall",
       "url": "https://cdn1.epicgames.com/epic/offer/EpicStore_Medium_NoLogo_1288x1450-1288x1450-784edc73d4f0d6b1fb992b9dcbd64c83.jpg",
       "md5": "784edc73d4f0d6b1fb992b9dcbd64c83",
@@ -149,6 +140,15 @@
       "uploadedDate": "2020-02-11T09:41:44.790Z",
       "width": 960,
       "height": 540
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/vpr/offer/shadown_logo-548x552-907ea59706669232c47ceb46ac71956b-548x552-907ea59706669232c47ceb46ac71956b-548x552-393c35ae6d12a7edd0f81b91291cebe7.png",
+      "md5": "393c35ae6d12a7edd0f81b91291cebe7",
+      "size": 91301,
+      "uploadedDate": "2021-02-15T18:44:06.271Z",
+      "width": 548,
+      "height": 552
     }
   ],
   "items": [

@@ -8,7 +8,7 @@
   "productSlug": "mafia-definitive-edition",
   "urlSlug": "mafia-definitive-edition",
   "creationDate": "2020-03-13T22:28:51.451Z",
-  "lastModifiedDate": "2020-11-27T17:12:47.085Z",
+  "lastModifiedDate": "2021-02-15T22:27:55.087Z",
   "effectiveDate": "2020-09-24T23:00:00.000Z",
   "viewableDate": "2020-09-24T23:00:00.000Z",
   "developer": null,
@@ -49,18 +49,6 @@
       "status": "ACTIVE",
       "referenceCount": 110,
       "comment": null
-    },
-    {
-      "id": "14944",
-      "name": "The Showcase Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-02-04T17:51:00.530Z",
-      "updated": "2021-02-08T16:07:03.328Z",
-      "status": "ACTIVE",
-      "referenceCount": 366,
-      "comment": ""
     },
     {
       "id": "14869",

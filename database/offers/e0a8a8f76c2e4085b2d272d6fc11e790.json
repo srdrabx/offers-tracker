@@ -8,9 +8,9 @@
   "productSlug": "predator-hunting-grounds/samurai-predator-dlc-pack",
   "urlSlug": "predator-hunting-grounds--samurai-predator-dlc-pack",
   "creationDate": "2020-06-09T01:05:25.093Z",
-  "lastModifiedDate": "2020-12-02T07:00:40.558Z",
+  "lastModifiedDate": "2021-02-16T14:48:42.321Z",
   "effectiveDate": "2020-06-30T09:00:00.000Z",
-  "viewableDate": null,
+  "viewableDate": "2020-06-30T09:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
@@ -26,9 +26,6 @@
   "categories": [
     {
       "path": "addons"
-    },
-    {
-      "path": "games"
     },
     {
       "path": "addons/durable"

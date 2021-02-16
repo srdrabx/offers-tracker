@@ -2,13 +2,13 @@
   "id": "73b91d734b674604917a38399df3500e",
   "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
   "title": "Dutch '87 DLC Pack",
-  "description": "PHG DLC04",
-  "longDescription": null,
+  "description": "Play as the legendary Major Alan ‘Dutch’ Schaefer from his first encounter with the Predator. This DLC pack features his iconic voice and look from the 1987 film.",
+  "longDescription": "Play as Major Alan ‘Dutch’ Schaefer with this premium Fireteam character, complete with his iconic voice and look from his first encounter with the Predator in the original 1987 film.\n\nThis DLC pack includes the Dutch ’87 premium Fireteam character with custom voice lines and 8 tints, as well as early access* to the Mercenary weapon and 3 weapon tints.",
   "status": "ACTIVE",
   "productSlug": "predator-hunting-grounds/dutch-87-dlc-pack",
-  "urlSlug": "dutch-87-dlc-pack",
+  "urlSlug": "predator-hunting-grounds--dutch-87-dlc-pack",
   "creationDate": "2020-06-09T01:07:20.521Z",
-  "lastModifiedDate": "2020-12-02T07:00:40.488Z",
+  "lastModifiedDate": "2021-02-16T15:41:24.316Z",
   "effectiveDate": "2020-09-01T14:00:00.000Z",
   "viewableDate": "2020-09-01T13:55:00.000Z",
   "developer": null,
@@ -26,9 +26,6 @@
   "categories": [
     {
       "path": "addons"
-    },
-    {
-      "path": "games"
     },
     {
       "path": "addons/durable"

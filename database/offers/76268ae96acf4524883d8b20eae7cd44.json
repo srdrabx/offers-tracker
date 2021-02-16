@@ -1,0 +1,56 @@
+{
+  "id": "76268ae96acf4524883d8b20eae7cd44",
+  "namespace": "4a9527d6d2984bb39d527631b94ec7f2",
+  "title": "Germanium Limited Edition Liveries",
+  "description": "Germanium Limited Edition Liveries",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "germaniumgermaniumlimitededitionliveries",
+  "creationDate": "2021-02-10T01:48:54.325Z",
+  "lastModifiedDate": "2021-02-16T02:51:32.952Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-n7dnjfk8y2kzquszv8mfn55fg68f7a",
+    "name": "Milestone Srl"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "c4438f31414d430ba66f0ca47cb2adb3"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,56 @@
+{
+  "id": "3cde7db5fd4242afa821ca78e64df47b",
+  "namespace": "4a9527d6d2984bb39d527631b94ec7f2",
+  "title": "Germanium VIP Multiplier Pack",
+  "description": "Germanium VIP Multiplier Pack",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "germaniumvipmultiplierpack",
+  "creationDate": "2021-02-10T01:50:36.646Z",
+  "lastModifiedDate": "2021-02-16T02:51:16.766Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-n7dnjfk8y2kzquszv8mfn55fg68f7a",
+    "name": "Milestone Srl"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "19caa5b8b53e45b6961915af6ea53404"
+    }
+  ],
+  "catalogNs": null
+}
