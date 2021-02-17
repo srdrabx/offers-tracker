@@ -1,16 +1,16 @@
 {
   "id": "4c9cdc81f1474ccd84f6c6b16a8b72bd",
   "namespace": "7e508f543b05465abe3a935960eb70ac",
-  "title": "DLC 028",
-  "description": "DLC 028",
-  "longDescription": null,
+  "title": "Exceptionally Geared Champion",
+  "description": "Recruit a Champion and get 42 Chests and a Golden Epic for them!",
+  "longDescription": "Recruit a Champion and get 42 Chests and a Golden Epic for them!",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "banedlc028",
   "creationDate": "2021-02-02T22:06:26.631Z",
-  "lastModifiedDate": "2021-02-09T21:10:39.877Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2021-02-16T16:06:11.762Z",
+  "effectiveDate": "2021-02-16T17:00:00.000Z",
+  "viewableDate": "2021-02-16T17:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
@@ -42,7 +42,17 @@
       "value": "[]"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
+      "md5": "c67f1998f4ed6ba79d9e5e71cfb30b23",
+      "size": 254582,
+      "uploadedDate": "2021-02-11T23:00:20.603Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "c6509af02aa9478a997e55becc92671b"

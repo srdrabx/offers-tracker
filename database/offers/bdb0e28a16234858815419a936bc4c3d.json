@@ -1,0 +1,49 @@
+{
+  "id": "bdb0e28a16234858815419a936bc4c3d",
+  "namespace": "244aaaa06bfa49d088205b13b9d2d115",
+  "title": "DLC 23",
+  "description": "DLC 23",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "warframe--nezha-prime-access-fire-walker-pack-02",
+  "creationDate": "2021-02-16T20:24:09.367Z",
+  "lastModifiedDate": "2021-02-16T20:50:35.314Z",
+  "effectiveDate": "2099-01-11T15:16:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-nvl9gfg7wr3taz2semsy269894sau5",
+    "name": "Digital Extremes"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Digital Extremes"
+    },
+    {
+      "key": "developerName",
+      "value": "Digital Extremes"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "418cf1b566a84a869b92b01878668b32"
+    }
+  ],
+  "catalogNs": null
+}

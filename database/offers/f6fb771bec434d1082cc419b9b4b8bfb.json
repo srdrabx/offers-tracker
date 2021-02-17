@@ -8,8 +8,8 @@
   "productSlug": "phantasy-star-online-2",
   "urlSlug": "phantasy-star-online",
   "creationDate": "2020-05-27T16:51:57.931Z",
-  "lastModifiedDate": "2021-02-10T17:23:07.869Z",
-  "effectiveDate": "2021-02-17T18:00:00.000Z",
+  "lastModifiedDate": "2021-02-17T06:00:05.854Z",
+  "effectiveDate": "2021-02-17T06:00:00.000Z",
   "viewableDate": "2021-02-10T18:00:00.000Z",
   "developer": null,
   "seller": {
@@ -38,6 +38,30 @@
     }
   ],
   "tags": [
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2021-02-10T17:36:19.203Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2021-02-10T17:35:33.537Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
     {
       "id": "1333",
       "name": "Action RPG",

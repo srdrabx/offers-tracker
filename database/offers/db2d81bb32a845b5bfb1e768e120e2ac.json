@@ -8,7 +8,7 @@
   "productSlug": "neverwinter",
   "urlSlug": "neverwinter",
   "creationDate": "2020-06-30T02:17:01.180Z",
-  "lastModifiedDate": "2021-02-02T00:44:55.965Z",
+  "lastModifiedDate": "2021-02-16T17:05:43.412Z",
   "effectiveDate": "2020-11-10T17:00:00.000Z",
   "viewableDate": "2020-11-10T17:00:00.000Z",
   "developer": null,
@@ -38,42 +38,6 @@
     }
   ],
   "tags": [
-    {
-      "id": "1264",
-      "name": "Co-op",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.700Z",
-      "updated": "2021-02-10T17:34:35.309Z",
-      "status": "ACTIVE",
-      "referenceCount": 27,
-      "comment": null
-    },
-    {
-      "id": "1203",
-      "name": "Multiplayer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2021-02-10T17:35:33.537Z",
-      "status": "ACTIVE",
-      "referenceCount": 46,
-      "comment": null
-    },
-    {
-      "id": "1381",
-      "name": "Exploration",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:27.799Z",
-      "updated": "2021-02-05T16:20:12.282Z",
-      "status": "ACTIVE",
-      "referenceCount": 14,
-      "comment": null
-    },
     {
       "id": "1367",
       "name": "RPG",
@@ -108,55 +72,55 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/9a4a6536096c4307bfb235d811f754ce/offer/EGS_Neverwinter_CrypticStudios_S1-2560x1440-c83ba8217837ef48925f3c4ec95be391.jpg",
-      "md5": "c83ba8217837ef48925f3c4ec95be391",
-      "size": 445977,
-      "uploadedDate": "2020-11-09T17:28:11.569Z",
+      "url": "https://cdn1.epicgames.com/9a4a6536096c4307bfb235d811f754ce/offer/EGS_Neverwinter_CrypticStudios_S1-2560x1440-d5b5c06a4c1495f1156c34d08eb159b9.jpg",
+      "md5": "d5b5c06a4c1495f1156c34d08eb159b9",
+      "size": 455183,
+      "uploadedDate": "2021-02-05T22:50:20.327Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/9a4a6536096c4307bfb235d811f754ce/offer/EGS_Neverwinter_CrypticStudios_S2-1200x1600-f12c4be0ebea98e268175c3ee4f058c4.jpg",
-      "md5": "f12c4be0ebea98e268175c3ee4f058c4",
-      "size": 371525,
-      "uploadedDate": "2020-11-09T17:28:16.839Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/9a4a6536096c4307bfb235d811f754ce/offer/EGS_Neverwinter_CrypticStudios_S2-1200x1600-f12c4be0ebea98e268175c3ee4f058c4.jpg",
-      "md5": "f12c4be0ebea98e268175c3ee4f058c4",
-      "size": 371525,
-      "uploadedDate": "2020-11-09T17:28:26.160Z",
+      "url": "https://cdn1.epicgames.com/9a4a6536096c4307bfb235d811f754ce/offer/EGS_Neverwinter_CrypticStudios_S2-1200x1600-2ec7ab288f9ab9dd4a89cef7b49b4a0f.jpg",
+      "md5": "2ec7ab288f9ab9dd4a89cef7b49b4a0f",
+      "size": 280294,
+      "uploadedDate": "2021-02-05T22:50:29.409Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/9a4a6536096c4307bfb235d811f754ce/offer/EGS_Neverwinter_CrypticStudios_S2-1200x1600-f12c4be0ebea98e268175c3ee4f058c4.jpg",
-      "md5": "f12c4be0ebea98e268175c3ee4f058c4",
-      "size": 371525,
-      "uploadedDate": "2020-11-09T17:28:34.057Z",
+      "url": "https://cdn1.epicgames.com/9a4a6536096c4307bfb235d811f754ce/offer/EGS_Neverwinter_CrypticStudios_S2-1200x1600-2ec7ab288f9ab9dd4a89cef7b49b4a0f.jpg",
+      "md5": "2ec7ab288f9ab9dd4a89cef7b49b4a0f",
+      "size": 280294,
+      "uploadedDate": "2021-02-05T22:51:11.094Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/9a4a6536096c4307bfb235d811f754ce/offer/EGS_Neverwinter_CrypticStudios_S2-1200x1600-2ec7ab288f9ab9dd4a89cef7b49b4a0f.jpg",
+      "md5": "2ec7ab288f9ab9dd4a89cef7b49b4a0f",
+      "size": 280294,
+      "uploadedDate": "2021-02-05T22:51:20.809Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/9a4a6536096c4307bfb235d811f754ce/offer/EGS_Neverwinter_CrypticStudios_S1-2560x1440-c83ba8217837ef48925f3c4ec95be391.jpg",
-      "md5": "c83ba8217837ef48925f3c4ec95be391",
-      "size": 445977,
-      "uploadedDate": "2020-11-09T17:28:41.607Z",
+      "url": "https://cdn1.epicgames.com/9a4a6536096c4307bfb235d811f754ce/offer/EGS_Neverwinter_CrypticStudios_S1-2560x1440-d5b5c06a4c1495f1156c34d08eb159b9.jpg",
+      "md5": "d5b5c06a4c1495f1156c34d08eb159b9",
+      "size": 455183,
+      "uploadedDate": "2021-02-05T22:51:40.162Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/9a4a6536096c4307bfb235d811f754ce/offer/EGS_Neverwinter_CrypticStudios_S2-1200x1600-f12c4be0ebea98e268175c3ee4f058c4.jpg",
-      "md5": "f12c4be0ebea98e268175c3ee4f058c4",
-      "size": 371525,
-      "uploadedDate": "2020-11-09T17:28:48.741Z",
+      "url": "https://cdn1.epicgames.com/9a4a6536096c4307bfb235d811f754ce/offer/EGS_Neverwinter_CrypticStudios_S2-1200x1600-2ec7ab288f9ab9dd4a89cef7b49b4a0f.jpg",
+      "md5": "2ec7ab288f9ab9dd4a89cef7b49b4a0f",
+      "size": 280294,
+      "uploadedDate": "2021-02-05T22:51:50.529Z",
       "width": 1200,
       "height": 1600
     }

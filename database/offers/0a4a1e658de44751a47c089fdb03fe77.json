@@ -8,7 +8,7 @@
   "productSlug": "kingdom-hearts-hd-2-8-final-chapter-prologue",
   "urlSlug": "kingdom-hearts-hd-2-8-final-chapter-prologue-pre-purchase",
   "creationDate": "2021-02-03T02:28:57.740Z",
-  "lastModifiedDate": "2021-02-15T17:43:47.998Z",
+  "lastModifiedDate": "2021-02-17T03:53:19.133Z",
   "effectiveDate": "2021-02-11T16:00:00.000Z",
   "viewableDate": "2021-02-11T16:00:00.000Z",
   "developer": null,
@@ -102,7 +102,7 @@
     },
     {
       "key": "availableDate",
-      "value": "1617159600"
+      "value": "1617109200"
     },
     {
       "key": "com.epicgames.app.productSlug",

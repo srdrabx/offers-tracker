@@ -1,16 +1,16 @@
 {
   "id": "05aaf965df834554a717e50ec031ae8d",
   "namespace": "bf333e6236914222a95a536389c05813",
-  "title": "DLC 10",
-  "description": "DLC 10",
-  "longDescription": "DLC 10",
+  "title": "5150AC Exchange Ticket",
+  "description": "This is the Phantasy Star Online 2 exclusive in-game currency 5150 ArksCash (AC) Exchange Ticket.\n\n･By purchasing this exchange ticket, and by logging into Phantasy Star Online 2, you will be able to obtain 5150AC in-game currency.",
+  "longDescription": "This is the Phantasy Star Online 2 exclusive in-game currency 5150 ArksCash (AC) Exchange Ticket.\n\n･By purchasing this exchange ticket, and by logging into Phantasy Star Online 2, you will be able to obtain 5150AC in-game currency. The Exchange Ticket is not an item that can be used in-game. AC will be rewarded automatically upon purchasing it and several seconds after logging in. Please confirm the transaction in the Log Window.\n･You can use AC to purchase items from the AC shop, and AC scratch tickets.\n・AC is the exclusive in-game currency for Phantasy Star Online 2.\n　This cannot be used in other services, including the Japanese service.\n・Phantasy Star Online 2 is required in order to use this content.\n　Please update to the latest patch before using this content.\n・ It may take up to 24 hours for the product to be reflected upon your first billed purchase. If over 48 hours have passed and the product has still not been reflected, please contact us through the Phantasy Star Online 2 Official Website.",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "10-dlc",
+  "urlSlug": "phantasy-star-online-2--5150ac-exchange-ticket",
   "creationDate": "2021-01-04T20:37:54.008Z",
-  "lastModifiedDate": "2021-02-10T18:06:50.369Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2021-02-17T06:00:05.702Z",
+  "effectiveDate": "2021-02-17T06:00:00.000Z",
+  "viewableDate": "2021-02-17T06:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-yqy54tnq77et5vf5dtpvz8czyahm2y",
@@ -25,6 +25,12 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "addons"
+    },
+    {
+      "path": "addons/consumable"
+    },
+    {
       "path": "applications"
     }
   ],
@@ -33,9 +39,72 @@
     {
       "key": "com.epicgames.app.blacklist",
       "value": "SZ, NL, AN, BL, SD, MF, SH, PN, BV, TF, HM, BE, KR, SS, JP, AQ"
+    },
+    {
+      "key": "publisherName",
+      "value": "SEGA Corporation"
+    },
+    {
+      "key": "developerName",
+      "value": "SEGA Corporation"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/bf333e6236914222a95a536389c05813/offer/367c727f-1f12-4743-aeff-94901133c46d-2560x1440-24b1abcaf044e81dd19a984f642834cb.jfif",
+      "md5": "24b1abcaf044e81dd19a984f642834cb",
+      "size": 975934,
+      "uploadedDate": "2021-01-08T22:03:39.657Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/bf333e6236914222a95a536389c05813/offer/94f46388-c599-4304-ab21-ff3c7c31a18b-1200x1600-3bfc7badf48a2c4c5ad47db076be3fbc.jfif",
+      "md5": "3bfc7badf48a2c4c5ad47db076be3fbc",
+      "size": 979813,
+      "uploadedDate": "2021-01-08T22:03:57.445Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/bf333e6236914222a95a536389c05813/offer/94f46388-c599-4304-ab21-ff3c7c31a18b-1200x1600-3bfc7badf48a2c4c5ad47db076be3fbc.jfif",
+      "md5": "3bfc7badf48a2c4c5ad47db076be3fbc",
+      "size": 979813,
+      "uploadedDate": "2021-01-08T22:04:08.878Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/bf333e6236914222a95a536389c05813/offer/94f46388-c599-4304-ab21-ff3c7c31a18b-1200x1600-3bfc7badf48a2c4c5ad47db076be3fbc.jfif",
+      "md5": "3bfc7badf48a2c4c5ad47db076be3fbc",
+      "size": 979813,
+      "uploadedDate": "2021-01-08T22:04:18.079Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/bf333e6236914222a95a536389c05813/offer/367c727f-1f12-4743-aeff-94901133c46d-2560x1440-24b1abcaf044e81dd19a984f642834cb.jfif",
+      "md5": "24b1abcaf044e81dd19a984f642834cb",
+      "size": 975934,
+      "uploadedDate": "2021-01-08T22:04:31.103Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/bf333e6236914222a95a536389c05813/offer/94f46388-c599-4304-ab21-ff3c7c31a18b-1200x1600-3bfc7badf48a2c4c5ad47db076be3fbc.jfif",
+      "md5": "3bfc7badf48a2c4c5ad47db076be3fbc",
+      "size": 979813,
+      "uploadedDate": "2021-01-08T22:04:41.147Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "7a105c5b3bb442d29f72cfc8919995a6"

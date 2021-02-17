@@ -1,0 +1,49 @@
+{
+  "id": "c685b34f37f144e59a763f85ca716c84",
+  "namespace": "244aaaa06bfa49d088205b13b9d2d115",
+  "title": "Upgrade DLC 10",
+  "description": "Upgrade DLC 10",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "warframe--",
+  "creationDate": "2021-02-16T20:38:57.333Z",
+  "lastModifiedDate": "2021-02-16T20:50:35.335Z",
+  "effectiveDate": "2099-01-11T15:16:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-nvl9gfg7wr3taz2semsy269894sau5",
+    "name": "Digital Extremes"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Digital Extremes"
+    },
+    {
+      "key": "developerName",
+      "value": "Digital Extremes"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "bf5aa8af43284e858530eaf71b31fc12"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,16 +1,16 @@
 {
   "id": "25cf3a9524bd468393ebeae00c456bc2",
   "namespace": "7e508f543b05465abe3a935960eb70ac",
-  "title": "DLC 020",
-  "description": "DLC 020",
-  "longDescription": null,
+  "title": "Complete Force Grey Pack",
+  "description": "Buy ALL the Force Grey packs including all their Golden Epic Gear for all five Champions! Plus 25 Gold Chests too",
+  "longDescription": "Buy ALL the Force Grey packs including all their Golden Epic Gear for all five Champions! Plus 25 Gold Chests too",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "banedlc028-10",
   "creationDate": "2021-02-03T21:18:31.166Z",
-  "lastModifiedDate": "2021-02-03T22:09:56.634Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2021-02-16T16:06:11.685Z",
+  "effectiveDate": "2021-02-16T17:00:00.000Z",
+  "viewableDate": "2021-02-16T17:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
@@ -42,7 +42,17 @@
       "value": "[]"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
+      "md5": "c67f1998f4ed6ba79d9e5e71cfb30b23",
+      "size": 254582,
+      "uploadedDate": "2021-02-11T18:28:55.117Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "c6d60be058a44d5eadf94685330549cd"

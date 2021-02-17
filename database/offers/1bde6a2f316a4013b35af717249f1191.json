@@ -1,0 +1,170 @@
+{
+  "id": "1bde6a2f316a4013b35af717249f1191",
+  "namespace": "da0fa474b1c04bfe8ee6c1f980285214",
+  "title": "Tales from the Borderlands",
+  "description": "Tales from the Borderlands",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "tales-from-the-borderlands",
+  "urlSlug": "caramelgeneralaudience",
+  "creationDate": "2020-09-21T15:41:39.341Z",
+  "lastModifiedDate": "2021-02-17T00:06:57.602Z",
+  "effectiveDate": "2021-02-17T01:00:00.000Z",
+  "viewableDate": "2021-02-17T01:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+    "name": "2K Games, Inc."
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1395",
+      "name": "Narration",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:34.825Z",
+      "updated": "2021-02-10T17:33:17.320Z",
+      "status": "ACTIVE",
+      "referenceCount": 22,
+      "comment": null
+    },
+    {
+      "id": "1381",
+      "name": "Exploration",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:27.799Z",
+      "updated": "2021-02-05T16:20:12.282Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2021-02-10T17:35:47.790Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "2K"
+    },
+    {
+      "key": "developerName",
+      "value": "Telltale Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "tales-from-the-borderlands"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/da0fa474b1c04bfe8ee6c1f980285214/offer/EGS_TalesfromtheBorderlands_TelltaleGames_S5-1920x1080-9461ecb6c4ec0002fdb7aab6d1e89541.jpg",
+      "md5": "9461ecb6c4ec0002fdb7aab6d1e89541",
+      "size": 997576,
+      "uploadedDate": "2021-02-11T00:09:45.631Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/da0fa474b1c04bfe8ee6c1f980285214/offer/EGS_TalesfromtheBorderlands_TelltaleGames_S6-1200x1600-cd596711a9d40c3442ac242dd5f20242.jpg",
+      "md5": "cd596711a9d40c3442ac242dd5f20242",
+      "size": 890977,
+      "uploadedDate": "2021-02-11T00:10:20.005Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/da0fa474b1c04bfe8ee6c1f980285214/offer/EGS_TalesfromtheBorderlands_TelltaleGames_S6-1200x1600-cd596711a9d40c3442ac242dd5f20242.jpg",
+      "md5": "cd596711a9d40c3442ac242dd5f20242",
+      "size": 890977,
+      "uploadedDate": "2021-02-11T00:11:06.882Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/da0fa474b1c04bfe8ee6c1f980285214/offer/EGS_TalesfromtheBorderlands_TelltaleGames_S6-1200x1600-cd596711a9d40c3442ac242dd5f20242.jpg",
+      "md5": "cd596711a9d40c3442ac242dd5f20242",
+      "size": 890977,
+      "uploadedDate": "2021-02-11T00:11:20.255Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/da0fa474b1c04bfe8ee6c1f980285214/offer/EGS_TalesfromtheBorderlands_TelltaleGames_S5-1920x1080-9461ecb6c4ec0002fdb7aab6d1e89541.jpg",
+      "md5": "9461ecb6c4ec0002fdb7aab6d1e89541",
+      "size": 997576,
+      "uploadedDate": "2021-02-11T00:11:35.326Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/da0fa474b1c04bfe8ee6c1f980285214/offer/EGS_TalesfromtheBorderlands_TelltaleGames_S6-1200x1600-cd596711a9d40c3442ac242dd5f20242.jpg",
+      "md5": "cd596711a9d40c3442ac242dd5f20242",
+      "size": 890977,
+      "uploadedDate": "2021-02-11T00:11:47.493Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "5d8532a00f4b43fdb3d91ad31df9db6b"
+    }
+  ],
+  "catalogNs": null
+}

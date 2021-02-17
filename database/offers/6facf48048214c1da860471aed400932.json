@@ -8,7 +8,7 @@
   "productSlug": "phantom-brigade",
   "urlSlug": "chiligeneralaudience",
   "creationDate": "2019-06-08T15:15:16.856Z",
-  "lastModifiedDate": "2021-01-19T19:00:08.310Z",
+  "lastModifiedDate": "2021-02-16T18:58:42.252Z",
   "effectiveDate": "2020-11-16T18:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -60,18 +60,6 @@
       "updated": "2021-02-10T17:36:35.389Z",
       "status": "ACTIVE",
       "referenceCount": 195,
-      "comment": null
-    },
-    {
-      "id": "1386",
-      "name": "Turn-Based",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:30.372Z",
-      "updated": "2021-02-05T16:19:58.338Z",
-      "status": "ACTIVE",
-      "referenceCount": 14,
       "comment": null
     },
     {
@@ -128,57 +116,57 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/935fa66c485e4c988eb939f86dc458b5/offer/PB_EGS_Library Tile Landscape_PB2-2560x1440-ee5c0145e388a58fc3edc1c573a70058.jpg",
-      "md5": "ee5c0145e388a58fc3edc1c573a70058",
-      "size": 1430940,
-      "uploadedDate": "2021-01-19T18:39:25.783Z",
+      "url": "https://cdn1.epicgames.com/935fa66c485e4c988eb939f86dc458b5/offer/PB_EGS_Library Tile Landscape_TT3-2560x1440-d430b3844caa34b4f329e91ea900b481.jpg",
+      "md5": "d430b3844caa34b4f329e91ea900b481",
+      "size": 1037656,
+      "uploadedDate": "2021-02-12T17:18:18.670Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/935fa66c485e4c988eb939f86dc458b5/offer/PB_EGS_Library Tile Portrait_PB2-1200x1600-46c259f9081010b7994bc2e67453a5ba.jpg",
-      "md5": "46c259f9081010b7994bc2e67453a5ba",
-      "size": 1002723,
-      "uploadedDate": "2021-01-19T18:39:34.633Z",
+      "url": "https://cdn1.epicgames.com/935fa66c485e4c988eb939f86dc458b5/offer/PB_EGS_Library Tile Portrait_TT3-1200x1600-b93be520e1fd4388d9151f7d94df8bbf.jpg",
+      "md5": "b93be520e1fd4388d9151f7d94df8bbf",
+      "size": 492359,
+      "uploadedDate": "2021-02-12T17:18:27.996Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/935fa66c485e4c988eb939f86dc458b5/offer/PB_EGS_Library Tile Portrait_PB2-1200x1600-46c259f9081010b7994bc2e67453a5ba.jpg",
-      "md5": "46c259f9081010b7994bc2e67453a5ba",
-      "size": 1002723,
-      "uploadedDate": "2021-01-19T18:39:44.841Z",
+      "url": "https://cdn1.epicgames.com/935fa66c485e4c988eb939f86dc458b5/offer/PB_EGS_Library Tile Portrait_TT3-1200x1600-b93be520e1fd4388d9151f7d94df8bbf.jpg",
+      "md5": "b93be520e1fd4388d9151f7d94df8bbf",
+      "size": 492359,
+      "uploadedDate": "2021-02-12T17:18:35.414Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/935fa66c485e4c988eb939f86dc458b5/offer/PB_EGS_Library Tile Portrait_PB2-1200x1600-46c259f9081010b7994bc2e67453a5ba.jpg",
-      "md5": "46c259f9081010b7994bc2e67453a5ba",
-      "size": 1002723,
-      "uploadedDate": "2021-01-19T18:39:55.653Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/935fa66c485e4c988eb939f86dc458b5/offer/PB_EGS_Library Tile Portrait_PB2-1200x1600-46c259f9081010b7994bc2e67453a5ba.jpg",
-      "md5": "46c259f9081010b7994bc2e67453a5ba",
-      "size": 1002723,
-      "uploadedDate": "2021-01-19T18:40:09.287Z",
+      "url": "https://cdn1.epicgames.com/935fa66c485e4c988eb939f86dc458b5/offer/PB_EGS_Library Tile Portrait_TT3-1200x1600-b93be520e1fd4388d9151f7d94df8bbf.jpg",
+      "md5": "b93be520e1fd4388d9151f7d94df8bbf",
+      "size": 492359,
+      "uploadedDate": "2021-02-12T17:18:40.782Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/935fa66c485e4c988eb939f86dc458b5/offer/PB_EGS_Library Tile Landscape_PB2-2560x1440-ee5c0145e388a58fc3edc1c573a70058.jpg",
-      "md5": "ee5c0145e388a58fc3edc1c573a70058",
-      "size": 1430940,
-      "uploadedDate": "2021-01-19T18:40:24.228Z",
+      "url": "https://cdn1.epicgames.com/935fa66c485e4c988eb939f86dc458b5/offer/PB_EGS_Library Tile Landscape_TT3-2560x1440-d430b3844caa34b4f329e91ea900b481.jpg",
+      "md5": "d430b3844caa34b4f329e91ea900b481",
+      "size": 1037656,
+      "uploadedDate": "2021-02-12T17:18:49.880Z",
       "width": 2560,
       "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/935fa66c485e4c988eb939f86dc458b5/offer/PB_EGS_Library Tile Portrait_TT3-1200x1600-b93be520e1fd4388d9151f7d94df8bbf.jpg",
+      "md5": "b93be520e1fd4388d9151f7d94df8bbf",
+      "size": 492359,
+      "uploadedDate": "2021-02-12T17:18:55.021Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [
