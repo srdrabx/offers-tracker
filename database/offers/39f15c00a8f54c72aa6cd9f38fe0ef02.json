@@ -8,7 +8,7 @@
   "productSlug": "mafia-trilogy",
   "urlSlug": "mafia-trilogy",
   "creationDate": "2020-05-08T19:04:31.018Z",
-  "lastModifiedDate": "2021-02-15T22:28:47.605Z",
+  "lastModifiedDate": "2021-02-18T16:00:52.432Z",
   "effectiveDate": "2020-09-24T23:00:00.000Z",
   "viewableDate": "2020-09-24T23:00:00.000Z",
   "developer": null,
@@ -51,6 +51,18 @@
       "comment": null
     },
     {
+      "id": "14944",
+      "name": "The Showcase Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-02-04T17:51:00.530Z",
+      "updated": "2021-02-08T16:07:03.328Z",
+      "status": "ACTIVE",
+      "referenceCount": 366,
+      "comment": ""
+    },
+    {
       "id": "14869",
       "name": "2K Publisher Sale",
       "namespace": null,
@@ -85,18 +97,6 @@
       "status": "ACTIVE",
       "referenceCount": 195,
       "comment": null
-    },
-    {
-      "id": "14346",
-      "name": "Holiday Sale 2020",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2020-10-21T21:58:03.125Z",
-      "updated": "2021-01-07T16:00:15.373Z",
-      "status": "ACTIVE",
-      "referenceCount": 584,
-      "comment": ""
     },
     {
       "id": "9547",

@@ -1,0 +1,184 @@
+{
+  "id": "5d921696022d4bbe850c76be8c9bc98f",
+  "namespace": "f672c20984f04f69936e6057feefe3d1",
+  "title": "Sunless Sea",
+  "description": "Sunless Sea",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "sunless-sea",
+  "urlSlug": "rheniumgeneralaudience",
+  "creationDate": "2021-02-11T01:29:33.510Z",
+  "lastModifiedDate": "2021-02-18T16:00:10.127Z",
+  "effectiveDate": "2021-02-25T16:00:00.000Z",
+  "viewableDate": "2021-02-18T15:25:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-rtt3u6nfx2dlvv3zuwr53utk9gjz82",
+    "name": "Failbetter Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "freegames"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-12-15T01:46:33.012Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2021-02-10T17:35:47.790Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2021-02-10T17:35:19.827Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "Mac OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX",
+        "macOS"
+      ],
+      "operator": null,
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2021-02-10T17:26:31.125Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Failbetter Games Ltd"
+    },
+    {
+      "key": "developerName",
+      "value": "Failbetter Games Ltd"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "sunless-sea"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/f672c20984f04f69936e6057feefe3d1/offer/EGS_SunlessSea_FailbetterGames_S1-2560x1440-af1c9bc575a90fb04f6acf5db6e93019.jpg",
+      "md5": "af1c9bc575a90fb04f6acf5db6e93019",
+      "size": 483666,
+      "uploadedDate": "2021-02-17T19:17:20.859Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/f672c20984f04f69936e6057feefe3d1/offer/EGS_SunlessSea_FailbetterGames_S6-1200x1600-68d9c3a68026b8542212f0e69f04f741.jpg",
+      "md5": "68d9c3a68026b8542212f0e69f04f741",
+      "size": 461549,
+      "uploadedDate": "2021-02-17T19:17:41.739Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/f672c20984f04f69936e6057feefe3d1/offer/EGS_SunlessSea_FailbetterGames_S6-1200x1600-68d9c3a68026b8542212f0e69f04f741.jpg",
+      "md5": "68d9c3a68026b8542212f0e69f04f741",
+      "size": 461549,
+      "uploadedDate": "2021-02-17T19:17:57.748Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/f672c20984f04f69936e6057feefe3d1/offer/EGS_SunlessSea_FailbetterGames_S6-1200x1600-68d9c3a68026b8542212f0e69f04f741.jpg",
+      "md5": "68d9c3a68026b8542212f0e69f04f741",
+      "size": 461549,
+      "uploadedDate": "2021-02-17T19:18:08.455Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/f672c20984f04f69936e6057feefe3d1/offer/EGS_SunlessSea_FailbetterGames_S1-2560x1440-af1c9bc575a90fb04f6acf5db6e93019.jpg",
+      "md5": "af1c9bc575a90fb04f6acf5db6e93019",
+      "size": 483666,
+      "uploadedDate": "2021-02-17T19:18:20.588Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/f672c20984f04f69936e6057feefe3d1/offer/EGS_SunlessSea_FailbetterGames_S6-1200x1600-68d9c3a68026b8542212f0e69f04f741.jpg",
+      "md5": "68d9c3a68026b8542212f0e69f04f741",
+      "size": 461549,
+      "uploadedDate": "2021-02-17T19:18:35.211Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "f38d35da767c44819b94c683317a0101"
+    }
+  ],
+  "catalogNs": null
+}

@@ -8,7 +8,7 @@
   "productSlug": "sid-meiers-civilization-vi",
   "urlSlug": "sid-meiers-civilization-vi",
   "creationDate": "2019-08-19T20:19:15.826Z",
-  "lastModifiedDate": "2021-02-15T22:29:35.408Z",
+  "lastModifiedDate": "2021-02-18T15:59:54.448Z",
   "effectiveDate": "2020-05-21T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -49,6 +49,18 @@
       "status": "ACTIVE",
       "referenceCount": 1,
       "comment": null
+    },
+    {
+      "id": "14944",
+      "name": "The Showcase Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-02-04T17:51:00.530Z",
+      "updated": "2021-02-08T16:07:03.328Z",
+      "status": "ACTIVE",
+      "referenceCount": 366,
+      "comment": ""
     },
     {
       "id": "1203",
@@ -97,18 +109,6 @@
       "status": "ACTIVE",
       "referenceCount": 14,
       "comment": null
-    },
-    {
-      "id": "14346",
-      "name": "Holiday Sale 2020",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2020-10-21T21:58:03.125Z",
-      "updated": "2021-01-07T16:00:15.373Z",
-      "status": "ACTIVE",
-      "referenceCount": 584,
-      "comment": ""
     },
     {
       "id": "1115",

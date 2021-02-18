@@ -3147,7 +3147,7 @@
     ],
     "2K Games, Inc.",
     1584137832,
-    1613428111,
+    1613663935,
     "https://cdn1.epicgames.com/8ad9396e01f046aaa784a33f7e60dfbe/offer/EGS_MafiaIIIDefinitiveEdition_Hangar13_S2-1200x1600-5090188980551261df50e7897fe43f90.jpg",
     "mafia-iii-definitive-edition"
   ],
@@ -5087,6 +5087,21 @@
     1599752561,
     "https://cdn1.epicgames.com/c14dd3d3c8214149b27477dd4619f029/offer/EGS_AsFarAsTheEye_UnexpectedStudio_S2-1200x1600-54d45d0a4e42603f0bceea6290da5a02.jpg",
     "as-far-as-the-eye/soundtrack"
+  ],
+  [
+    "17a79e64dffe4c8e990755b6da8cee1f",
+    "f672c20984f04f69936e6057feefe3d1",
+    "Sunless Sea - Zubmariner",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Failbetter Games",
+    1613409929,
+    1613662794,
+    "https://cdn1.epicgames.com/f672c20984f04f69936e6057feefe3d1/offer/EGS_SunlessSeaZubmariner_FailbetterGames_DLC_S2-1200x1600-95563ab46481a92881d9c8d02beef56e.jpg",
+    ""
   ],
   [
     "17b5b8a36adb4fdf876eea5e5eeab3e1",
@@ -8487,12 +8502,11 @@
     "Rage 2 - 2500 RAGE Coins",
     [
       "addons",
-      "addons/consumable",
-      "applications"
+      "addons/consumable"
     ],
     "Bethesda Softworks LLC",
     1604519547,
-    1613513586,
+    1613609315,
     "https://cdn1.epicgames.com/2736ab9fec9c4a93a7a2872ed5154d4b/offer/egs-rage2-idsoftware-s2-1200x1600-ee8fcbffe5b0-1200x1600-d692008156cef0c206454ef84c987499.jpg",
     ""
   ],
@@ -9079,6 +9093,20 @@
     1588120702,
     "",
     "ashen"
+  ],
+  [
+    "2b7e8b50cd954255a5ab35b6edf2be38",
+    "ab139ee5b644412781cf99f48b993b45",
+    "CaliforniumGeneralAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "PlayEveryWare, Inc.",
+    1612880268,
+    1613607003,
+    "",
+    ""
   ],
   [
     "2b8c18c792714824bb9879c93e73d792",
@@ -11458,12 +11486,11 @@
     "Rage 2 - 1100 RAGE Coins",
     [
       "addons",
-      "addons/consumable",
-      "applications"
+      "addons/consumable"
     ],
     "Bethesda Softworks LLC",
     1604519523,
-    1613513569,
+    1613609317,
     "https://cdn1.epicgames.com/2736ab9fec9c4a93a7a2872ed5154d4b/offer/egs-rage2-idsoftware-s2-1200x1600-ee8fcbffe5b0-1200x1600-d692008156cef0c206454ef84c987499.jpg",
     ""
   ],
@@ -12339,7 +12366,7 @@
     ],
     "2K Games, Inc.",
     1588964671,
-    1613428127,
+    1613664052,
     "https://cdn1.epicgames.com/fb06f4b5bc25417cbe7c6217cf069649/offer/EGS_MafiaTrilogy_Hangar13_S2-1200x1600-0fb438a12c5f50ade1d4dc2b1159b7a2.jpg",
     "mafia-trilogy"
   ],
@@ -14167,7 +14194,7 @@
     ],
     "Terrible Posture Games, Inc.",
     1599602822,
-    1613579540,
+    1613579869,
     "",
     ""
   ],
@@ -14225,12 +14252,11 @@
     "Rage 2 - 4500 RAGE Coins",
     [
       "addons",
-      "addons/consumable",
-      "applications"
+      "addons/consumable"
     ],
     "Bethesda Softworks LLC",
     1604519681,
-    1613513595,
+    1613609313,
     "https://cdn1.epicgames.com/2736ab9fec9c4a93a7a2872ed5154d4b/offer/egs-rage2-idsoftware-s2-1200x1600-ee8fcbffe5b0-1200x1600-d692008156cef0c206454ef84c987499.jpg",
     ""
   ],
@@ -18744,6 +18770,20 @@
     ""
   ],
   [
+    "581b348d27e94082ba6fb734b233eee8",
+    "ab139ee5b644412781cf99f48b993b45",
+    "DevCaliforniumAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "PlayEveryWare, Inc.",
+    1612880268,
+    1613607441,
+    "",
+    ""
+  ],
+  [
     "581d01b51b3545c081744f14c0c6cb4b",
     "5d582c08e31a43128a61093a2c3ff7f0",
     "Shenmue III - Big Merry Cruise",
@@ -19765,6 +19805,23 @@
     1611249215,
     "https://cdn1.epicgames.com/95b4d5a753d042678f775d5e1eb5ab25/offer/EGS_SurvivingtheAftermath_IceflakeStudiosOy_S2-1200x1600-a1d6907066d2b2120d33c02f67f3fa9c.jpg",
     "surviving-the-aftermath/home"
+  ],
+  [
+    "5d921696022d4bbe850c76be8c9bc98f",
+    "f672c20984f04f69936e6057feefe3d1",
+    "Sunless Sea",
+    [
+      "freegames",
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Failbetter Games",
+    1613006973,
+    1613664010,
+    "https://cdn1.epicgames.com/f672c20984f04f69936e6057feefe3d1/offer/EGS_SunlessSea_FailbetterGames_S6-1200x1600-68d9c3a68026b8542212f0e69f04f741.jpg",
+    "sunless-sea"
   ],
   [
     "5d9946a004534c0ba9fb38cbb9b105ce",
@@ -23126,12 +23183,11 @@
     "Rage 2 - 4500 RAGE Coins (JP)",
     [
       "addons",
-      "addons/consumable",
-      "applications"
+      "addons/consumable"
     ],
     "Bethesda Softworks LLC",
     1607380693,
-    1613513530,
+    1613609302,
     "https://cdn1.epicgames.com/2736ab9fec9c4a93a7a2872ed5154d4b/offer/egs-rage2-idsoftware-s2-1200x1600-ee8fcbffe5b0-1200x1600-d692008156cef0c206454ef84c987499.jpg",
     ""
   ],
@@ -25846,7 +25902,6 @@
     "4492ce99b4124b74a0bb83f78b3d70b8",
     "For The King",
     [
-      "freegames",
       "games",
       "games/edition/base",
       "games/edition",
@@ -25854,7 +25909,7 @@
     ],
     "Curve Digital",
     1575390910,
-    1611846305,
+    1613663325,
     "https://cdn1.epicgames.com/4492ce99b4124b74a0bb83f78b3d70b8/offer/EGS_IronOakGames_ForTheKing_S4-510x680-7591bc93f2768be40c30f242fc986cd0.jpg",
     "for-the-king/home"
   ],
@@ -26447,7 +26502,7 @@
     ],
     "2K Games, Inc.",
     1584138495,
-    1613428089,
+    1613663969,
     "https://cdn1.epicgames.com/107bd7324f39429ca4e7e9e44765d8cf/offer/Diesel_productv2_mafia-ii-definitive-edition_home_EGS_MafiaIIDefinitiveEdition_RedKiteGames_S2-1200x1600-4cbc94d86b3b82ef8a532fa96a2f28145dae0713-1200x1600-f2cdf5d42079674921f4a36e0254e088.jpg",
     "mafia-ii-definitive-edition"
   ],
@@ -29054,12 +29109,11 @@
     "Rage 2 - 500 RAGE Coins (JP)",
     [
       "addons",
-      "addons/consumable",
-      "applications"
+      "addons/consumable"
     ],
     "Bethesda Softworks LLC",
     1607380455,
-    1613513523,
+    1613609310,
     "https://cdn1.epicgames.com/2736ab9fec9c4a93a7a2872ed5154d4b/offer/egs-rage2-idsoftware-s2-1200x1600-ee8fcbffe5b0-1200x1600-d692008156cef0c206454ef84c987499.jpg",
     ""
   ],
@@ -30811,12 +30865,11 @@
     "Rage 2 - 500 RAGE Coins",
     [
       "addons",
-      "addons/consumable",
-      "applications"
+      "addons/consumable"
     ],
     "Bethesda Softworks LLC",
     1604519072,
-    1613513577,
+    1613609320,
     "https://cdn1.epicgames.com/2736ab9fec9c4a93a7a2872ed5154d4b/offer/egs-rage2-idsoftware-s2-1200x1600-ee8fcbffe5b0-1200x1600-d692008156cef0c206454ef84c987499.jpg",
     ""
   ],
@@ -33018,8 +33071,8 @@
     ],
     "RETO MOTO",
     1585697546,
-    1611670464,
-    "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/HnG_1600x1200_Winter_Boxart-1200x1600-b1233e3ed1130feaff5a77c6701c1b86.png",
+    1613665087,
+    "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/hng_default_boxart-1200x1600-f47e0091839c038ee0a5473116268220.jpg",
     "heroes-and-generals-wwii/home"
   ],
   [
@@ -35219,7 +35272,7 @@
     ],
     "2K Games, Inc.",
     1588010819,
-    1613428152,
+    1613664012,
     "https://cdn1.epicgames.com/85189f7cf7a64f86aa6aa91d81d36c08/offer/EGS_BorderlandsTheHandsomeCollection_GearboxSoftware_S2-860x1148-3866989a6d20f8dcb14ee310fdacd8ac.jpg",
     "borderlands-the-handsome-collection"
   ],
@@ -39599,7 +39652,6 @@
     "c5e786eddfd041caa9984213e3f9621d",
     "Metro: Last Light Redux",
     [
-      "freegames",
       "games",
       "games/edition/base",
       "games/edition",
@@ -39607,7 +39659,7 @@
     ],
     "Koch Media",
     1555952172,
-    1612453794,
+    1613663300,
     "https://cdn1.epicgames.com/c5e786eddfd041caa9984213e3f9621d/offer/MetroLastLight_CodeRedemption-340x440-f16871ea412435f9d7c3b7d3e9f91c40.jpg",
     "metro-last-light-redux"
   ],
@@ -43364,12 +43416,11 @@
     "Rage 2 - 2500 RAGE Coins (JP)",
     [
       "addons",
-      "addons/consumable",
-      "applications"
+      "addons/consumable"
     ],
     "Bethesda Softworks LLC",
     1607380636,
-    1613513527,
+    1613609305,
     "https://cdn1.epicgames.com/2736ab9fec9c4a93a7a2872ed5154d4b/offer/egs-rage2-idsoftware-s2-1200x1600-ee8fcbffe5b0-1200x1600-d692008156cef0c206454ef84c987499.jpg",
     ""
   ],
@@ -43497,7 +43548,7 @@
     ],
     "2K Games, Inc.",
     1600705017,
-    1613428046,
+    1613664124,
     "https://cdn1.epicgames.com/dd7371cb38ea42469d9ba0df57aa394d/offer/EGS_CarnivalGames_MassMediaGames_S2-1200x1600-d31a90472d6d46891bb3cf9f4b523e04.jpg",
     "carnival-games"
   ],
@@ -46125,7 +46176,7 @@
     ],
     "2K Games, Inc.",
     1567175101,
-    1613428213,
+    1613663983,
     "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_BROKENHEARTSDAY_EPIC_1200X1600_P2-1200x1600-6a98df3795d46e9c7252ef709f4c4200.jpg",
     "borderlands-3"
   ],
@@ -48161,12 +48212,11 @@
     "Rage 2 - 1100 RAGE Coins (JP)",
     [
       "addons",
-      "addons/consumable",
-      "applications"
+      "addons/consumable"
     ],
     "Bethesda Softworks LLC",
     1607380541,
-    1613513515,
+    1613609308,
     "https://cdn1.epicgames.com/2736ab9fec9c4a93a7a2872ed5154d4b/offer/egs-rage2-idsoftware-s2-1200x1600-ee8fcbffe5b0-1200x1600-d692008156cef0c206454ef84c987499.jpg",
     ""
   ],
@@ -48370,7 +48420,6 @@
     "3dd7b519d7ab4631ae96d3efa8588514",
     "Halcyon 6",
     [
-      "freegames",
       "games",
       "games/edition",
       "games/edition/base",
@@ -48378,7 +48427,7 @@
     ],
     "Massive Damage",
     1611253633,
-    1613056553,
+    1613664008,
     "https://cdn1.epicgames.com/3dd7b519d7ab4631ae96d3efa8588514/offer/egs-halcyon6starbasecommanderlightspeededition-massivedamageinc-s2-1200x1600-e612ba915488-1200x1600-de7223f3cc553fb677476dcc18f7626a.jpg",
     "halcyon-6"
   ],
@@ -53313,7 +53362,7 @@
     ],
     "2K Games, Inc.",
     1566245955,
-    1613428175,
+    1613663994,
     "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVI_FiraxisGames_S2-860x1148-bffad83909595b7c5c60489a17056a59.jpg",
     "sid-meiers-civilization-vi"
   ],

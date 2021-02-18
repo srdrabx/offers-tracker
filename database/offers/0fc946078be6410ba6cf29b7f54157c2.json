@@ -8,7 +8,7 @@
   "productSlug": "mafia-iii-definitive-edition",
   "urlSlug": "mafia-iii-definitive-edition",
   "creationDate": "2020-03-13T22:17:12.371Z",
-  "lastModifiedDate": "2021-02-15T22:28:31.874Z",
+  "lastModifiedDate": "2021-02-18T15:58:55.359Z",
   "effectiveDate": "2020-09-24T23:00:00.000Z",
   "viewableDate": "2020-05-19T16:00:00.000Z",
   "developer": null,
@@ -51,6 +51,18 @@
       "comment": null
     },
     {
+      "id": "14944",
+      "name": "The Showcase Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-02-04T17:51:00.530Z",
+      "updated": "2021-02-08T16:07:03.328Z",
+      "status": "ACTIVE",
+      "referenceCount": 366,
+      "comment": ""
+    },
+    {
       "id": "14869",
       "name": "2K Publisher Sale",
       "namespace": null,
@@ -85,18 +97,6 @@
       "status": "ACTIVE",
       "referenceCount": 195,
       "comment": null
-    },
-    {
-      "id": "14346",
-      "name": "Holiday Sale 2020",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2020-10-21T21:58:03.125Z",
-      "updated": "2021-01-07T16:00:15.373Z",
-      "status": "ACTIVE",
-      "referenceCount": 584,
-      "comment": ""
     },
     {
       "id": "9547",

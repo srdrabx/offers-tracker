@@ -8,7 +8,7 @@
   "productSlug": "borderlands-3",
   "urlSlug": "borderlands-3-standard-edition",
   "creationDate": "2019-08-30T14:25:01.885Z",
-  "lastModifiedDate": "2021-02-15T22:30:13.156Z",
+  "lastModifiedDate": "2021-02-18T15:59:43.586Z",
   "effectiveDate": "2019-09-12T10:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -49,6 +49,18 @@
       "status": "ACTIVE",
       "referenceCount": 27,
       "comment": null
+    },
+    {
+      "id": "14944",
+      "name": "The Showcase Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-02-04T17:51:00.530Z",
+      "updated": "2021-02-08T16:07:03.328Z",
+      "status": "ACTIVE",
+      "referenceCount": 366,
+      "comment": ""
     },
     {
       "id": "14869",
@@ -97,18 +109,6 @@
       "status": "ACTIVE",
       "referenceCount": 195,
       "comment": null
-    },
-    {
-      "id": "14346",
-      "name": "Holiday Sale 2020",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2020-10-21T21:58:03.125Z",
-      "updated": "2021-01-07T16:00:15.373Z",
-      "status": "ACTIVE",
-      "referenceCount": 584,
-      "comment": ""
     },
     {
       "id": "9547",

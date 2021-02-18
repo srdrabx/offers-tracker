@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "rage-2--500-rage-coins-jp",
   "creationDate": "2020-12-07T22:34:15.574Z",
-  "lastModifiedDate": "2021-02-16T22:12:03.898Z",
+  "lastModifiedDate": "2021-02-18T00:48:30.740Z",
   "effectiveDate": "2021-02-18T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -29,9 +29,6 @@
     },
     {
       "path": "addons/consumable"
-    },
-    {
-      "path": "applications"
     }
   ],
   "tags": [],

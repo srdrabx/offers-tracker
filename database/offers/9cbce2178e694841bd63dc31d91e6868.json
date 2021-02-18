@@ -8,7 +8,7 @@
   "productSlug": "heroes-and-generals-wwii/home",
   "urlSlug": "heroes-and-general-wwii",
   "creationDate": "2020-03-31T23:32:26.684Z",
-  "lastModifiedDate": "2021-01-26T14:14:24.842Z",
+  "lastModifiedDate": "2021-02-18T16:18:07.253Z",
   "effectiveDate": "2020-09-24T14:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -61,6 +61,18 @@
       "status": "ACTIVE",
       "referenceCount": 27,
       "comment": null
+    },
+    {
+      "id": "14944",
+      "name": "The Showcase Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-02-04T17:51:00.530Z",
+      "updated": "2021-02-08T16:07:03.328Z",
+      "status": "ACTIVE",
+      "referenceCount": 366,
+      "comment": ""
     },
     {
       "id": "1185",
@@ -170,37 +182,37 @@
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/HnG_1600x1200_Winter_Boxart-1200x1600-b1233e3ed1130feaff5a77c6701c1b86.png",
-      "md5": "b1233e3ed1130feaff5a77c6701c1b86",
-      "size": 3180274,
-      "uploadedDate": "2020-12-18T20:01:51.743Z",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/hng_default_boxart-1200x1600-f47e0091839c038ee0a5473116268220.jpg",
+      "md5": "f47e0091839c038ee0a5473116268220",
+      "size": 987357,
+      "uploadedDate": "2021-02-18T16:17:28.609Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/HnG_1600x1200_Winter_Boxart-1200x1600-b1233e3ed1130feaff5a77c6701c1b86.png",
-      "md5": "b1233e3ed1130feaff5a77c6701c1b86",
-      "size": 3180274,
-      "uploadedDate": "2020-12-18T20:02:01.793Z",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/hng_default_boxart-1200x1600-f47e0091839c038ee0a5473116268220.jpg",
+      "md5": "f47e0091839c038ee0a5473116268220",
+      "size": 987357,
+      "uploadedDate": "2021-02-18T16:17:40.701Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/HnG_1600x1200_Winter_Boxart-1200x1600-b1233e3ed1130feaff5a77c6701c1b86.png",
-      "md5": "b1233e3ed1130feaff5a77c6701c1b86",
-      "size": 3180274,
-      "uploadedDate": "2020-12-18T20:02:14.816Z",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/hng_default_boxart-1200x1600-f47e0091839c038ee0a5473116268220.jpg",
+      "md5": "f47e0091839c038ee0a5473116268220",
+      "size": 987357,
+      "uploadedDate": "2021-02-18T16:17:50.327Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/HnG_1600x1200_Winter_Boxart-1200x1600-b1233e3ed1130feaff5a77c6701c1b86.png",
-      "md5": "b1233e3ed1130feaff5a77c6701c1b86",
-      "size": 3180274,
-      "uploadedDate": "2020-12-18T20:02:32.538Z",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/hng_default_boxart-1200x1600-f47e0091839c038ee0a5473116268220.jpg",
+      "md5": "f47e0091839c038ee0a5473116268220",
+      "size": 987357,
+      "uploadedDate": "2021-02-18T16:18:00.576Z",
       "width": 1200,
       "height": 1600
     }
