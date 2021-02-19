@@ -1,0 +1,53 @@
+{
+  "id": "d7443724893c4c7eb649601f880fad12",
+  "namespace": "bb9f87bb3d0042258bb1c97397bc60f2",
+  "title": "2500 Credits Audience",
+  "description": "2500 Credits Audience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "pikespeakgeneralaudience-03",
+  "creationDate": "2020-11-13T12:55:16.933Z",
+  "lastModifiedDate": "2021-02-19T00:27:57.378Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-3wg8cebzdas9bt56adlsslgzr8mcue",
+    "name": "Unit 2 Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "f75b83bae6bf43f1abb3ad6a27458681"
+    }
+  ],
+  "catalogNs": null
+}

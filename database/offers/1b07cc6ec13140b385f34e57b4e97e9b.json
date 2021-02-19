@@ -1,0 +1,182 @@
+{
+  "id": "1b07cc6ec13140b385f34e57b4e97e9b",
+  "namespace": "c532b0ba77e64c64b44bcd2d5e8d1546",
+  "title": "Wrath: Aeon of Ruin",
+  "description": "Wrath: Aeon of Ruin",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "wrath-aeon-of-ruin",
+  "urlSlug": "hypnos",
+  "creationDate": "2021-02-01T11:30:47.409Z",
+  "lastModifiedDate": "2021-02-18T17:03:53.151Z",
+  "effectiveDate": "2021-02-18T18:00:00.000Z",
+  "viewableDate": "2021-02-18T18:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-n4d8bf5e8fnr4kujuut9j6v4d29muc",
+    "name": "1C Online Games Ltd"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2021-02-10T17:36:19.203Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1185",
+      "name": "FPS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:50.376Z",
+      "updated": "2020-09-05T13:11:46.644Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:52.671Z",
+      "updated": "2020-09-10T15:44:03.705Z",
+      "status": "ACTIVE",
+      "referenceCount": 0,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "1C Entertainment"
+    },
+    {
+      "key": "developerName",
+      "value": "KillPixel"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "wrath-aeon-of-ruin"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/c532b0ba77e64c64b44bcd2d5e8d1546/offer/EGS_WrathAeonofRuin_KillPixel_S1-2560x1440-32177924c6fbe1fc0956ea97a05c78f1.jpg",
+      "md5": "32177924c6fbe1fc0956ea97a05c78f1",
+      "size": 348788,
+      "uploadedDate": "2021-02-17T21:26:12.791Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/c532b0ba77e64c64b44bcd2d5e8d1546/offer/EGS_WrathAeonofRuin_KillPixel_S2-1200x1600-c8d921fc0f985ec5d47ccb86a7925d47.jpg",
+      "md5": "c8d921fc0f985ec5d47ccb86a7925d47",
+      "size": 188440,
+      "uploadedDate": "2021-02-17T21:26:19.212Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/c532b0ba77e64c64b44bcd2d5e8d1546/offer/EGS_WrathAeonofRuin_KillPixel_S2-1200x1600-c8d921fc0f985ec5d47ccb86a7925d47.jpg",
+      "md5": "c8d921fc0f985ec5d47ccb86a7925d47",
+      "size": 188440,
+      "uploadedDate": "2021-02-17T21:26:28.731Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/c532b0ba77e64c64b44bcd2d5e8d1546/offer/EGS_WrathAeonofRuin_KillPixel_S2-1200x1600-c8d921fc0f985ec5d47ccb86a7925d47.jpg",
+      "md5": "c8d921fc0f985ec5d47ccb86a7925d47",
+      "size": 188440,
+      "uploadedDate": "2021-02-17T21:26:34.989Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/c532b0ba77e64c64b44bcd2d5e8d1546/offer/EGS_WrathAeonofRuin_KillPixel_S1-2560x1440-32177924c6fbe1fc0956ea97a05c78f1.jpg",
+      "md5": "32177924c6fbe1fc0956ea97a05c78f1",
+      "size": 348788,
+      "uploadedDate": "2021-02-17T21:26:44.343Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/c532b0ba77e64c64b44bcd2d5e8d1546/offer/EGS_WrathAeonofRuin_KillPixel_S2-1200x1600-c8d921fc0f985ec5d47ccb86a7925d47.jpg",
+      "md5": "c8d921fc0f985ec5d47ccb86a7925d47",
+      "size": 188440,
+      "uploadedDate": "2021-02-17T21:26:50.693Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "52c4564e11834ff8b30e4be8701e4481"
+    }
+  ],
+  "catalogNs": null
+}

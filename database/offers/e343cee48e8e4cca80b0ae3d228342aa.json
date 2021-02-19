@@ -8,7 +8,7 @@
   "productSlug": "rogue-legacy-2",
   "urlSlug": "biscuitgeneralaudience",
   "creationDate": "2020-06-23T12:42:06.065Z",
-  "lastModifiedDate": "2020-10-27T16:54:11.029Z",
+  "lastModifiedDate": "2021-02-18T18:04:35.714Z",
   "effectiveDate": "2020-08-18T17:00:00.000Z",
   "viewableDate": "2020-07-18T17:00:00.000Z",
   "developer": null,
@@ -49,6 +49,18 @@
       "status": "ACTIVE",
       "referenceCount": 366,
       "comment": ""
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
     },
     {
       "id": "14346",
@@ -140,55 +152,55 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/4966d5da285c4f2c876937844b0e23ee/offer/RL2_epicstore_carousel_desktop-1920x1080-f8289c7bd009645b2822876e92db2684.jpg",
-      "md5": "f8289c7bd009645b2822876e92db2684",
-      "size": 940044,
-      "uploadedDate": "2020-10-26T18:33:44.345Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/4966d5da285c4f2c876937844b0e23ee/offer/RL2_epicstore_carousel_mobile-1200x1600-37939e741c5cb79e737a0beddfcb1ae5.jpg",
-      "md5": "37939e741c5cb79e737a0beddfcb1ae5",
-      "size": 857283,
-      "uploadedDate": "2020-10-26T18:33:51.060Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/4966d5da285c4f2c876937844b0e23ee/offer/RL2_epicstore_product_landscape-2560x1440-acf8592198319f2fe64d8bb380049a66.jpg",
-      "md5": "acf8592198319f2fe64d8bb380049a66",
-      "size": 1003877,
-      "uploadedDate": "2020-10-26T18:33:58.024Z",
+      "url": "https://cdn1.epicgames.com/4966d5da285c4f2c876937844b0e23ee/offer/RL2_epicstore_product_landscape-2560x1440-b79e986c7cd35f4a576b76f50022364e.jpg",
+      "md5": "b79e986c7cd35f4a576b76f50022364e",
+      "size": 1750818,
+      "uploadedDate": "2021-02-18T17:59:19.428Z",
       "width": 2560,
       "height": 1440
     },
     {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/4966d5da285c4f2c876937844b0e23ee/offer/RL2_epicstore_carousel_mobile-1200x1600-37939e741c5cb79e737a0beddfcb1ae5.jpg",
-      "md5": "37939e741c5cb79e737a0beddfcb1ae5",
-      "size": 857283,
-      "uploadedDate": "2020-10-26T18:34:05.169Z",
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/4966d5da285c4f2c876937844b0e23ee/offer/RL2_epicstore_carousel_mobile-1200x1600-4afff12377f0220a4d2b948ef54ca295.jpg",
+      "md5": "4afff12377f0220a4d2b948ef54ca295",
+      "size": 1112768,
+      "uploadedDate": "2021-02-18T17:59:28.696Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/4966d5da285c4f2c876937844b0e23ee/offer/RL2_epicstore_carousel_mobile-1200x1600-37939e741c5cb79e737a0beddfcb1ae5.jpg",
-      "md5": "37939e741c5cb79e737a0beddfcb1ae5",
-      "size": 857283,
-      "uploadedDate": "2020-10-26T18:34:12.720Z",
+      "url": "https://cdn1.epicgames.com/4966d5da285c4f2c876937844b0e23ee/offer/RL2_epicstore_carousel_mobile-1200x1600-4afff12377f0220a4d2b948ef54ca295.jpg",
+      "md5": "4afff12377f0220a4d2b948ef54ca295",
+      "size": 1112768,
+      "uploadedDate": "2021-02-18T17:59:57.382Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/4966d5da285c4f2c876937844b0e23ee/offer/RL2_epicstore_carousel_mobile-1200x1600-37939e741c5cb79e737a0beddfcb1ae5.jpg",
-      "md5": "37939e741c5cb79e737a0beddfcb1ae5",
-      "size": 857283,
-      "uploadedDate": "2020-10-26T18:34:19.378Z",
+      "url": "https://cdn1.epicgames.com/4966d5da285c4f2c876937844b0e23ee/offer/RL2_epicstore_carousel_mobile-1200x1600-4afff12377f0220a4d2b948ef54ca295.jpg",
+      "md5": "4afff12377f0220a4d2b948ef54ca295",
+      "size": 1112768,
+      "uploadedDate": "2021-02-18T17:59:52.686Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/4966d5da285c4f2c876937844b0e23ee/offer/RL2_epicstore_product_landscape-2560x1440-b79e986c7cd35f4a576b76f50022364e.jpg",
+      "md5": "b79e986c7cd35f4a576b76f50022364e",
+      "size": 1750818,
+      "uploadedDate": "2021-02-18T18:00:08.168Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/4966d5da285c4f2c876937844b0e23ee/offer/RL2_epicstore_carousel_mobile-1200x1600-4afff12377f0220a4d2b948ef54ca295.jpg",
+      "md5": "4afff12377f0220a4d2b948ef54ca295",
+      "size": 1112768,
+      "uploadedDate": "2021-02-18T18:00:18.253Z",
       "width": 1200,
       "height": 1600
     }
