@@ -1,0 +1,206 @@
+{
+  "id": "623106d906bd4a129de745d52a94ec46",
+  "namespace": "c1e33e7e700f42429ea2b8a7459bb55b",
+  "title": "Curse of the Dead Gods",
+  "description": "Curse of the Dead Gods",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "curse-of-the-dead-gods",
+  "urlSlug": "olympusgeneralaudience",
+  "creationDate": "2020-10-22T20:26:21.756Z",
+  "lastModifiedDate": "2021-02-19T17:06:20.417Z",
+  "effectiveDate": "2021-02-23T17:00:00.000Z",
+  "viewableDate": "2021-02-19T17:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+    "name": "Focus Home"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2021-02-10T17:36:19.203Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1336",
+      "name": "Action-Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:05.439Z",
+      "updated": "2020-12-15T02:17:02.957Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1083",
+      "name": "Rogue-Lite",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:58:59.720Z",
+      "updated": "2021-02-05T16:16:40.749Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2021-02-10T17:35:47.790Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2021-02-10T17:36:06.452Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Focus Home Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Passtech Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "curse-of-the-dead-gods"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/c1e33e7e700f42429ea2b8a7459bb55b/offer/EGS_CurseoftheDeadGods_PasstechGames_S1-2560x1440-dc57d8037106795b122e0a3c1e9f747e.jpg",
+      "md5": "dc57d8037106795b122e0a3c1e9f747e",
+      "size": 531536,
+      "uploadedDate": "2021-02-19T16:39:48.568Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/c1e33e7e700f42429ea2b8a7459bb55b/offer/EGS_CurseoftheDeadGods_PasstechGames_S2-1200x1600-0d6a3c05e0d19e767decd9c3187bb427.jpg",
+      "md5": "0d6a3c05e0d19e767decd9c3187bb427",
+      "size": 925448,
+      "uploadedDate": "2021-02-19T16:39:57.189Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/c1e33e7e700f42429ea2b8a7459bb55b/offer/EGS_CurseoftheDeadGods_PasstechGames_S2-1200x1600-0d6a3c05e0d19e767decd9c3187bb427.jpg",
+      "md5": "0d6a3c05e0d19e767decd9c3187bb427",
+      "size": 925448,
+      "uploadedDate": "2021-02-19T16:40:09.551Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/c1e33e7e700f42429ea2b8a7459bb55b/offer/EGS_CurseoftheDeadGods_PasstechGames_S2-1200x1600-0d6a3c05e0d19e767decd9c3187bb427.jpg",
+      "md5": "0d6a3c05e0d19e767decd9c3187bb427",
+      "size": 925448,
+      "uploadedDate": "2021-02-19T16:40:21.859Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/c1e33e7e700f42429ea2b8a7459bb55b/offer/EGS_CurseoftheDeadGods_PasstechGames_S1-2560x1440-dc57d8037106795b122e0a3c1e9f747e.jpg",
+      "md5": "dc57d8037106795b122e0a3c1e9f747e",
+      "size": 531536,
+      "uploadedDate": "2021-02-19T16:40:31.138Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/c1e33e7e700f42429ea2b8a7459bb55b/offer/EGS_CurseoftheDeadGods_PasstechGames_S2-1200x1600-0d6a3c05e0d19e767decd9c3187bb427.jpg",
+      "md5": "0d6a3c05e0d19e767decd9c3187bb427",
+      "size": 925448,
+      "uploadedDate": "2021-02-19T16:40:40.905Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "9ffe67fe3c924ebf96e939d62735c249"
+    }
+  ],
+  "catalogNs": null
+}
