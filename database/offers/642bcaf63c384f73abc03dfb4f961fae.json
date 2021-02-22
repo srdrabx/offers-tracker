@@ -1,0 +1,56 @@
+{
+  "id": "642bcaf63c384f73abc03dfb4f961fae",
+  "namespace": "badb0ee71b474ed591ec43212547cfc8",
+  "title": "SS Audience",
+  "description": "SS Audience",
+  "longDescription": "",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "paladins--ss",
+  "creationDate": "2021-02-22T15:57:40.291Z",
+  "lastModifiedDate": "2021-02-22T15:58:09.292Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+    "name": "Hi-Rez Studios"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Hi-Rez Studios"
+    },
+    {
+      "key": "developerName",
+      "value": "Evil Mojo Games"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "85df840a815143bfaf8ec3dad79e8a5a"
+    },
+    {
+      "id": "4db914e6f7be4ff09142ec6622549581"
+    }
+  ],
+  "catalogNs": null
+}
