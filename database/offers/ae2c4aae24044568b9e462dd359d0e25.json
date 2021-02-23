@@ -1,0 +1,121 @@
+{
+  "id": "ae2c4aae24044568b9e462dd359d0e25",
+  "namespace": "oregano",
+  "title": "Docklands - DLC",
+  "description": "Docklands - DLC",
+  "longDescription": "",
+  "status": "ACTIVE",
+  "productSlug": "anno-1800/docklands",
+  "urlSlug": "anno-1800--docklands",
+  "creationDate": "2021-02-02T01:25:57.900Z",
+  "lastModifiedDate": "2021-02-23T15:55:17.187Z",
+  "effectiveDate": "2021-02-23T16:00:00.000Z",
+  "viewableDate": "2021-02-23T15:55:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "Granted if you must call Partner Integration to redeem season pass separately from the game. Not necessary if the edition you buy already includes it",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "developerName",
+      "value": "Blue Byte"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "anno-1800/docklands"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/oregano/offer/en-an18-dlc7-docklands-epic-store-landscape-2560x1440-2560x1440-3d49d0cf6570-2560x1440-7869f9b529994958007f8b9569965549.jpg",
+      "md5": "7869f9b529994958007f8b9569965549",
+      "size": 492905,
+      "uploadedDate": "2021-02-22T18:52:20.540Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/oregano/offer/en-an18-dlc7-docklands-epic-store-portrait-1200x1600-1200x1600-d178ec5861c7-1200x1600-231781060bba0c701672c1abaeb0abcb.jpg",
+      "md5": "231781060bba0c701672c1abaeb0abcb",
+      "size": 335524,
+      "uploadedDate": "2021-02-22T18:56:52.520Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/oregano/offer/en-an18-dlc7-docklands-epic-store-portrait-1200x1600-1200x1600-d178ec5861c7-1200x1600-231781060bba0c701672c1abaeb0abcb.jpg",
+      "md5": "231781060bba0c701672c1abaeb0abcb",
+      "size": 335524,
+      "uploadedDate": "2021-02-22T18:57:17.663Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/oregano/offer/en-an18-dlc7-docklands-epic-store-portrait-1200x1600-1200x1600-d178ec5861c7-1200x1600-231781060bba0c701672c1abaeb0abcb.jpg",
+      "md5": "231781060bba0c701672c1abaeb0abcb",
+      "size": 335524,
+      "uploadedDate": "2021-02-22T18:57:31.503Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/oregano/offer/en-an18-dlc7-docklands-epic-store-landscape-2560x1440-2560x1440-3d49d0cf6570-2560x1440-7869f9b529994958007f8b9569965549.jpg",
+      "md5": "7869f9b529994958007f8b9569965549",
+      "size": 492905,
+      "uploadedDate": "2021-02-22T18:57:48.578Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/oregano/offer/en-an18-dlc7-docklands-epic-store-portrait-1200x1600-1200x1600-d178ec5861c7-1200x1600-231781060bba0c701672c1abaeb0abcb.jpg",
+      "md5": "231781060bba0c701672c1abaeb0abcb",
+      "size": 335524,
+      "uploadedDate": "2021-02-22T18:58:05.949Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "31b96ef2e368400192fb09f906ffe729"
+    },
+    {
+      "id": "c3cba914ba7840bda5a296a53536c5d3"
+    }
+  ],
+  "catalogNs": null
+}

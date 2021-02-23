@@ -8,8 +8,8 @@
   "productSlug": "vampire-the-masquerade-bloodlines-2/blood-moon-edition",
   "urlSlug": "nemesia-blood-moon-edition-pre-purchase",
   "creationDate": "2019-03-15T17:31:16.550Z",
-  "lastModifiedDate": "2020-05-13T18:52:49.525Z",
-  "effectiveDate": "2019-03-08T04:00:00.000Z",
+  "lastModifiedDate": "2021-02-23T13:02:09.140Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -120,10 +120,6 @@
     {
       "key": "isPrepurchase",
       "value": "true"
-    },
-    {
-      "key": "availableDate",
-      "value": "1609473600"
     },
     {
       "key": "developerName",

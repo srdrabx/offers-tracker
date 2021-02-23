@@ -966,7 +966,7 @@
   [
     "0552d26ecc9644fea9839ee94d093457",
     "oregano",
-    "Anno 1800 Trial",
+    "Anno 1800™: Trial Weekend",
     [
       "games/trial",
       "games",
@@ -974,8 +974,8 @@
     ],
     "Ubisoft Entertainment",
     1575649107,
-    1596163748,
-    "https://cdn1.epicgames.com/oregano/offer/AN18_UCS14089_EGST_Edition_Capsule_355x150-355x150-13ee04a4335019805ddaf61d15ae9a49.jpg",
+    1614096450,
+    "https://cdn1.epicgames.com/oregano/offer/an18-store-portrait-1200x1600-1200x1600-665115795-1200x1600-a714948f3c93306d618c279edded0525.jpg",
     "anno-1800/free-trial"
   ],
   [
@@ -2801,7 +2801,7 @@
     ],
     "Paradox Interactive",
     1552618039,
-    1589396102,
+    1614085385,
     "https://cdn1.epicgames.com/nemesia/offer/EGS_UnsanctionedEdition_HardsuitLabs_Editions_S2-1200x1600-852c74d82b23fcabed323095f23ff781.jpg",
     "vampire-the-masquerade-bloodlines-2/unsanctioned-edition"
   ],
@@ -2983,7 +2983,7 @@
     ],
     "Paradox Interactive",
     1552479755,
-    1607444030,
+    1614085342,
     "https://cdn1.epicgames.com/nemesia/offer/EGS_VampireTheMasqueradeBloodlines2_HardsuitLabs_S2-1200x1600-29b9f030725c7871fa0c379c269958a6.jpg",
     ""
   ],
@@ -4571,7 +4571,7 @@
     ],
     "Paradox Interactive",
     1552670423,
-    1607444030,
+    1614085342,
     "https://cdn1.epicgames.com/nemesia/offer/EGS_VampireTheMasqueradeBloodlines2_HardsuitLabs_S2-1200x1600-29b9f030725c7871fa0c379c269958a6.jpg",
     "vampire-the-masquerade-bloodlines-2"
   ],
@@ -19334,7 +19334,7 @@
     ],
     "Paradox Interactive",
     1552618398,
-    1589395969,
+    1614085329,
     "https://cdn1.epicgames.com/nemesia/offer/EGS_BloodMoonEdition_HardsuitLabs_Editions_S2-1200x1600-f5ad8d08f0584b290cff61c4f025e51b.jpg",
     "vampire-the-masquerade-bloodlines-2/blood-moon-edition"
   ],
@@ -23420,6 +23420,20 @@
     1588120702,
     "",
     "minit/home"
+  ],
+  [
+    "6e74cc0851a641b8b317cdc743fc6e1d",
+    "0114ea1a5d674c6b8c99015e6c994aff",
+    "RutheniumGeneralAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "Raw Fury",
+    1614025219,
+    1614026442,
+    "",
+    ""
   ],
   [
     "6e77039b69a64a76bcbb082bb8442141",
@@ -28526,6 +28540,20 @@
     "pumpkin-jack/home"
   ],
   [
+    "8876fc28224f4b7d8fb1d3f5080804e0",
+    "ed8a79694c054f70a6350cb2c8c45316",
+    "test_entryGeneralAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "Gameloft SE",
+    1614016474,
+    1614016591,
+    "",
+    ""
+  ],
+  [
     "8883f99d1703435fb2a2765c5be32c60",
     "3102f48ad7bd409ab6e34f2ad697e961",
     "Corruption 2029 Press",
@@ -31757,7 +31785,7 @@
     ],
     "Ubisoft Entertainment",
     1611961921,
-    1612882930,
+    1614095717,
     "https://cdn1.epicgames.com/oregano/offer/an18-seasonpass3-epic-store-portrait-1200x1600-1200x1600-c042156fce98-1200x1600-1fdbebf480248006f24b11db54dd2083.jpg",
     "anno-1800/season-pass-3"
   ],
@@ -35305,7 +35333,7 @@
     ],
     "Epic Games",
     1537486568,
-    1613674623,
+    1614042472,
     "",
     ""
   ],
@@ -36888,15 +36916,15 @@
   [
     "ad81712e9b634eb4b87b4c310eaca831",
     "bd46d4ce259349e5bd8b3ded20274737",
-    "TESTDLC1",
+    "Special Edition Upgrade",
     [
       "applications"
     ],
     "Tripwire Interactive",
     1612238735,
-    1612401618,
+    1614092678,
     "",
-    "[]"
+    "chivalry-2/special-edition-upgrade"
   ],
   [
     "ad839f9aa2f74087a3dd68f29bc80e0f",
@@ -37058,6 +37086,21 @@
     1589468400,
     "https://cdn1.epicgames.com/f5d58106a0e143758ddf2bb30dd72ae2/offer/EGS_WheelsofAurelia_SantaRagionesrl_S3-1360x766-f545997d49707e2e13987b7af855b9a1.jpg",
     "wheels-of-aurelia/home"
+  ],
+  [
+    "ae2c4aae24044568b9e462dd359d0e25",
+    "oregano",
+    "Docklands - DLC",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Ubisoft Entertainment",
+    1612229157,
+    1614095717,
+    "",
+    "anno-1800/docklands"
   ],
   [
     "ae61e787a67149a481ee4aafa4efe562",
@@ -39543,7 +39586,7 @@
     ],
     "Focus Home",
     1613575709,
-    1613754380,
+    1614033542,
     "https://cdn1.epicgames.com/c1e33e7e700f42429ea2b8a7459bb55b/offer/COTG_OST.2-1200x1600-be5c0a5164a5b33cb87ec7b64180f51d.jpg",
     ""
   ],
@@ -40597,7 +40640,7 @@
     ],
     "Paradox Interactive",
     1552671076,
-    1589395969,
+    1614085329,
     "https://cdn1.epicgames.com/nemesia/offer/EGS_BloodMoonEdition_HardsuitLabs_Editions_S2-1200x1600-f5ad8d08f0584b290cff61c4f025e51b.jpg",
     "vampire-the-masquerade-bloodlines-2/blood-moon-edition"
   ],
@@ -42348,7 +42391,7 @@
     ],
     "Paradox Interactive",
     1552670557,
-    1589396102,
+    1614085385,
     "https://cdn1.epicgames.com/nemesia/offer/EGS_UnsanctionedEdition_HardsuitLabs_Editions_S2-1200x1600-852c74d82b23fcabed323095f23ff781.jpg",
     "vampire-the-masquerade-bloodlines-2/unsanctioned-edition"
   ],
@@ -46692,6 +46735,20 @@
     "Humble Bundle",
     1593532220,
     1610032357,
+    "",
+    ""
+  ],
+  [
+    "df5650e836f54dbcb9de4d6ddd91bbd2",
+    "0114ea1a5d674c6b8c99015e6c994aff",
+    "DevRutheniumAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "Raw Fury",
+    1614025219,
+    1614026442,
     "",
     ""
   ],
@@ -51598,8 +51655,8 @@
     ],
     "Hi-Rez Studios",
     1571363584,
-    1611662264,
-    "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite-EGS-S8Bellona-PortraitIMG-1200x1600-1200x1600-6a3e8e3c089a28f39caf80056eea9eb7.jpg",
+    1614081415,
+    "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/PortraitIMG-Tiamat-860x1148-860x1148-a8d37c57584931c1590c992c49d7fac7.jpg",
     "smite"
   ],
   [
@@ -52632,6 +52689,20 @@
     1609792742,
     1613541605,
     "https://cdn1.epicgames.com/bf333e6236914222a95a536389c05813/offer/f132de24-5a61-40f7-8118-8cca93ab3c17-1200x1600-0131298991e5a44421475e8454af3f0b.jfif",
+    ""
+  ],
+  [
+    "f9cb4bbb91a34f19972d26ab9f911a93",
+    "ed8a79694c054f70a6350cb2c8c45316",
+    "Devtest_entryAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "Gameloft SE",
+    1614016474,
+    1614016591,
+    "",
     ""
   ],
   [

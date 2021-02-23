@@ -8,8 +8,8 @@
   "productSlug": "vampire-the-masquerade-bloodlines-2",
   "urlSlug": "vampire-the-masquerade-bloodlines-2-pre-purchase",
   "creationDate": "2019-03-15T17:20:23.156Z",
-  "lastModifiedDate": "2020-12-08T16:13:50.778Z",
-  "effectiveDate": "2019-03-08T04:00:00.000Z",
+  "lastModifiedDate": "2021-02-23T13:02:22.722Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -123,10 +123,6 @@
     {
       "key": "isPrepurchase",
       "value": "true"
-    },
-    {
-      "key": "availableDate",
-      "value": "1638349200"
     },
     {
       "key": "developerName",

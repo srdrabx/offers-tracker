@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "create-item-for-priceengine-05",
   "creationDate": "2018-09-20T23:36:08.063Z",
-  "lastModifiedDate": "2021-02-18T18:57:03.761Z",
+  "lastModifiedDate": "2021-02-23T01:07:52.265Z",
   "effectiveDate": "2010-01-01T00:02:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -42,7 +42,16 @@
       "comment": null
     }
   ],
-  "customAttributes": [],
+  "customAttributes": [
+    {
+      "key": "test2",
+      "value": "jason2"
+    },
+    {
+      "key": "test",
+      "value": "jason"
+    }
+  ],
   "keyImages": [
     {
       "type": "image name",

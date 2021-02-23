@@ -8,7 +8,7 @@
   "productSlug": "smite",
   "urlSlug": "smite",
   "creationDate": "2019-10-18T01:53:04.996Z",
-  "lastModifiedDate": "2021-01-26T11:57:44.495Z",
+  "lastModifiedDate": "2021-02-23T11:56:55.937Z",
   "effectiveDate": "2020-04-28T15:00:00.000Z",
   "viewableDate": "2020-04-28T15:00:00.000Z",
   "developer": null,
@@ -120,57 +120,57 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite-EGS-S8Bellona-LandscapeIMG-2560x1440-2560x1440-59771ef76f17d6cebe533889a69b447d.jpg",
-      "md5": "59771ef76f17d6cebe533889a69b447d",
-      "size": 402240,
-      "uploadedDate": "2021-01-22T21:56:53.853Z",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/LandscapeIMG-Tiamat-2560x1440-2560x1440-bd434eb41e6730059570204f6f0513ec.jpg",
+      "md5": "bd434eb41e6730059570204f6f0513ec",
+      "size": 600631,
+      "uploadedDate": "2021-02-23T01:40:29.387Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite-EGS-S8Bellona-PortraitIMG-1200x1600-1200x1600-6a3e8e3c089a28f39caf80056eea9eb7.jpg",
-      "md5": "6a3e8e3c089a28f39caf80056eea9eb7",
-      "size": 272561,
-      "uploadedDate": "2021-01-22T21:56:57.987Z",
-      "width": 1200,
-      "height": 1600
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/PortraitIMG-Tiamat-860x1148-860x1148-a8d37c57584931c1590c992c49d7fac7.jpg",
+      "md5": "a8d37c57584931c1590c992c49d7fac7",
+      "size": 235777,
+      "uploadedDate": "2021-02-23T01:40:34.997Z",
+      "width": 860,
+      "height": 1148
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite-EGS-S8Bellona-LandscapeIMG-2560x1440-2560x1440-59771ef76f17d6cebe533889a69b447d.jpg",
-      "md5": "59771ef76f17d6cebe533889a69b447d",
-      "size": 402240,
-      "uploadedDate": "2021-01-22T21:57:09.951Z",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/LandscapeIMG-Tiamat-2560x1440-2560x1440-bd434eb41e6730059570204f6f0513ec.jpg",
+      "md5": "bd434eb41e6730059570204f6f0513ec",
+      "size": 600631,
+      "uploadedDate": "2021-02-23T01:40:47.393Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite-EGS-S8Bellona-PortraitIMG-1200x1600-1200x1600-6a3e8e3c089a28f39caf80056eea9eb7.jpg",
-      "md5": "6a3e8e3c089a28f39caf80056eea9eb7",
-      "size": 272561,
-      "uploadedDate": "2021-01-22T21:57:13.263Z",
-      "width": 1200,
-      "height": 1600
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/PortraitIMG-Tiamat-860x1148-860x1148-a8d37c57584931c1590c992c49d7fac7.jpg",
+      "md5": "a8d37c57584931c1590c992c49d7fac7",
+      "size": 235777,
+      "uploadedDate": "2021-02-23T01:40:50.229Z",
+      "width": 860,
+      "height": 1148
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite-EGS-S8Bellona-PortraitIMG-1200x1600-1200x1600-6a3e8e3c089a28f39caf80056eea9eb7.jpg",
-      "md5": "6a3e8e3c089a28f39caf80056eea9eb7",
-      "size": 272561,
-      "uploadedDate": "2021-01-22T21:57:28.399Z",
-      "width": 1200,
-      "height": 1600
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/PortraitIMG-Tiamat-860x1148-860x1148-a8d37c57584931c1590c992c49d7fac7.jpg",
+      "md5": "a8d37c57584931c1590c992c49d7fac7",
+      "size": 235777,
+      "uploadedDate": "2021-02-23T01:41:01.401Z",
+      "width": 860,
+      "height": 1148
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite-EGS-S8Bellona-PortraitIMG-1200x1600-1200x1600-6a3e8e3c089a28f39caf80056eea9eb7.jpg",
-      "md5": "6a3e8e3c089a28f39caf80056eea9eb7",
-      "size": 272561,
-      "uploadedDate": "2021-01-22T21:57:33.182Z",
-      "width": 1200,
-      "height": 1600
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/PortraitIMG-Tiamat-860x1148-860x1148-a8d37c57584931c1590c992c49d7fac7.jpg",
+      "md5": "a8d37c57584931c1590c992c49d7fac7",
+      "size": 235777,
+      "uploadedDate": "2021-02-23T01:41:04.007Z",
+      "width": 860,
+      "height": 1148
     }
   ],
   "items": [

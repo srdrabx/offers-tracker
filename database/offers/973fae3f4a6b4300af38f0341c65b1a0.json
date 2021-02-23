@@ -8,7 +8,7 @@
   "productSlug": "anno-1800/season-pass-3",
   "urlSlug": "anno-1800--season-pass-y3",
   "creationDate": "2021-01-29T23:12:01.897Z",
-  "lastModifiedDate": "2021-02-09T15:02:10.969Z",
+  "lastModifiedDate": "2021-02-23T15:55:17.168Z",
   "effectiveDate": "2021-02-09T16:00:00.000Z",
   "viewableDate": "2021-02-09T16:00:00.000Z",
   "developer": null,
@@ -43,14 +43,6 @@
     {
       "key": "publisherName",
       "value": "Ubisoft"
-    },
-    {
-      "key": "isPrepurchase",
-      "value": "true"
-    },
-    {
-      "key": "availableDate",
-      "value": "1614096000"
     },
     {
       "key": "developerName",

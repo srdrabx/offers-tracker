@@ -1,16 +1,16 @@
 {
   "id": "0552d26ecc9644fea9839ee94d093457",
   "namespace": "oregano",
-  "title": "Anno 1800 Trial",
-  "description": "Play the award-winning Anno 1800™ for free from March 12-15! Lead the Industrial Revolution and build your empire.",
-  "longDescription": "Play a free demo of Anno 1800 from 12th March, 2020 3pm UTC to 16th March, 2020 2pm UTC on EPIC PC. The game is provided AS-IS, may not function as expected, and may crash. Please note that maintenance may also occur at any time during this period, rendering you unable to access parts or all of the game. Internet access and Ubisoft Account registration required.",
+  "title": "Anno 1800™: Trial Weekend",
+  "description": "Anno 1800™: Trial Weekend",
+  "longDescription": "",
   "status": "ACTIVE",
   "productSlug": "anno-1800/free-trial",
   "urlSlug": "anno-1800--free-trial",
   "creationDate": "2019-12-06T16:18:27.537Z",
-  "lastModifiedDate": "2020-07-31T02:49:08.036Z",
-  "effectiveDate": "2099-03-09T17:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2021-02-23T16:07:30.065Z",
+  "effectiveDate": "2021-02-23T16:00:00.000Z",
+  "viewableDate": "2021-02-23T16:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
@@ -45,6 +45,14 @@
       "value": "Ubisoft"
     },
     {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "availableDate",
+      "value": "1614258000"
+    },
+    {
       "key": "developerName",
       "value": "Blue Byte"
     },
@@ -55,31 +63,58 @@
   ],
   "keyImages": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_UCS14089_EGST_Edition_Capsule_355x150-355x150-13ee04a4335019805ddaf61d15ae9a49.jpg",
-      "md5": "13ee04a4335019805ddaf61d15ae9a49",
-      "size": 35534,
-      "uploadedDate": "2019-12-10T16:34:30.289Z",
-      "width": 355,
-      "height": 150
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/oregano/offer/en-anno-epic-fwe-herobanner-3840x2160-3840x2160-8b5f4baf28ce-3840x2160-5939e07c72e48642c3b2e042aa81c054.jpg",
+      "md5": "5939e07c72e48642c3b2e042aa81c054",
+      "size": 709815,
+      "uploadedDate": "2021-02-22T19:24:14.299Z",
+      "width": 3840,
+      "height": 2160
     },
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/oregano/offer/Hero-Banner-TW-3840x2160-c6f8f9a4e672c4be93144e9edff9f7fa.jpg",
-      "md5": "c6f8f9a4e672c4be93144e9edff9f7fa",
-      "size": 5257036,
-      "uploadedDate": "2020-03-07T05:11:52.170Z",
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/oregano/offer/en-anno-epic-fwe-herobanner-3840x2160-3840x2160-8b5f4baf28ce-3840x2160-5939e07c72e48642c3b2e042aa81c054.jpg",
+      "md5": "5939e07c72e48642c3b2e042aa81c054",
+      "size": 709815,
+      "uploadedDate": "2021-02-22T19:24:54.420Z",
       "width": 3840,
       "height": 2160
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/oregano/offer/Portrait-TW-1280x1420-777a8d2b302988327b16c88c5bde1fd4.jpg",
-      "md5": "777a8d2b302988327b16c88c5bde1fd4",
-      "size": 1433098,
-      "uploadedDate": "2020-03-07T05:12:09.606Z",
-      "width": 1280,
-      "height": 1420
+      "url": "https://cdn1.epicgames.com/oregano/offer/an18-store-portrait-1200x1600-1200x1600-665115795-1200x1600-a714948f3c93306d618c279edded0525.jpg",
+      "md5": "a714948f3c93306d618c279edded0525",
+      "size": 319037,
+      "uploadedDate": "2021-02-23T16:05:18.001Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/oregano/offer/an18-store-portrait-1200x1600-1200x1600-665115795-1200x1600-a714948f3c93306d618c279edded0525.jpg",
+      "md5": "a714948f3c93306d618c279edded0525",
+      "size": 319037,
+      "uploadedDate": "2021-02-23T16:05:36.620Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/oregano/offer/an18-store-portrait-1200x1600-1200x1600-665115795-1200x1600-a714948f3c93306d618c279edded0525.jpg",
+      "md5": "a714948f3c93306d618c279edded0525",
+      "size": 319037,
+      "uploadedDate": "2021-02-23T16:07:10.816Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/oregano/offer/an18-store-portrait-1200x1600-1200x1600-665115795-1200x1600-a714948f3c93306d618c279edded0525.jpg",
+      "md5": "a714948f3c93306d618c279edded0525",
+      "size": 319037,
+      "uploadedDate": "2021-02-23T16:07:23.124Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [
