@@ -974,8 +974,8 @@
     ],
     "Ubisoft Entertainment",
     1575649107,
-    1614096450,
-    "https://cdn1.epicgames.com/oregano/offer/an18-store-portrait-1200x1600-1200x1600-665115795-1200x1600-a714948f3c93306d618c279edded0525.jpg",
+    1614099963,
+    "https://cdn1.epicgames.com/oregano/offer/ANNO_Epic_FWE_Portrait_1200x1600-1200x1600-df01914dc01425f1836605299d17d8f4.png",
     "anno-1800/free-trial"
   ],
   [
@@ -1025,14 +1025,14 @@
   [
     "0585bd08e51443bda62b0c66ef117b2b",
     "244aaaa06bfa49d088205b13b9d2d115",
-    "Upgrade DLC 11",
+    "Octavia Prime Resonator to Amp Pack",
     [
       "applications"
     ],
     "Digital Extremes",
     1613507986,
-    1613759325,
-    "",
+    1614106948,
+    "https://cdn1.epicgames.com/244aaaa06bfa49d088205b13b9d2d115/offer/octavia.amp.2-1200x1600-17c0078ce646b64566de475bb57570cd.jpg",
     ""
   ],
   [
@@ -3184,14 +3184,16 @@
   [
     "0fe8ae68fad3442d90df6cc7f8403225",
     "244aaaa06bfa49d088205b13b9d2d115",
-    "DLC 22",
+    "Warframe: Octavia Prime Access - Resonator Pack",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Digital Extremes",
     1613506691,
-    1613759254,
-    "",
+    1614106949,
+    "https://cdn1.epicgames.com/244aaaa06bfa49d088205b13b9d2d115/offer/octavia.res.2-1200x1600-53a0af6704acda60812e3cf657f1badd.jpg",
     ""
   ],
   [
@@ -21844,14 +21846,14 @@
   [
     "66f311895e6a4000a01278b4716dfb07",
     "244aaaa06bfa49d088205b13b9d2d115",
-    "Upgrade DLC 15",
+    "Octavia Prime Resonator +  Accessories to Amp Pack",
     [
       "applications"
     ],
     "Digital Extremes",
     1613508107,
-    1613759287,
-    "",
+    1614106949,
+    "https://cdn1.epicgames.com/244aaaa06bfa49d088205b13b9d2d115/offer/octavia.amp.2-1200x1600-17c0078ce646b64566de475bb57570cd.jpg",
     ""
   ],
   [
@@ -21998,14 +22000,14 @@
   [
     "676ef8ec01e04b1094ad7af3f10887d2",
     "244aaaa06bfa49d088205b13b9d2d115",
-    "Upgrade DLC 13",
+    "Octavia Prime Accessories to Amp Pack",
     [
       "applications"
     ],
     "Digital Extremes",
     1613508045,
-    1613759310,
-    "",
+    1614106949,
+    "https://cdn1.epicgames.com/244aaaa06bfa49d088205b13b9d2d115/offer/octavia.amp.2-1200x1600-17c0078ce646b64566de475bb57570cd.jpg",
     ""
   ],
   [
@@ -24070,6 +24072,21 @@
     1586528904,
     "https://cdn1.epicgames.com/rosemallow/offer/CodeRedemption_OuterWorlds-340x440-68201d88144e1fb2fb55398a0114ea4b.jpg",
     ""
+  ],
+  [
+    "71f7b3d1755744e5b85d73b9b32e5831",
+    "ed85e819ef2f48588bdfad2fd270b70e",
+    "DCL the Game - Track Editor",
+    [
+      "engines",
+      "editors",
+      "applications"
+    ],
+    "Drone Champions AG",
+    1611307619,
+    1614182184,
+    "https://cdn1.epicgames.com/ed85e819ef2f48588bdfad2fd270b70e/offer/EGS_DCLtheGameTrackEditor_DRONECHAMPIONSAG_S2-1200x1600-45d3307e370bb3124f2940a61766050a.jpg",
+    "dcl-the-game/home"
   ],
   [
     "7206ba9ba2d6441f9f7907cecf547951",
@@ -26953,14 +26970,14 @@
   [
     "7fbad7fb9420499bba5ee1ac139e15c2",
     "244aaaa06bfa49d088205b13b9d2d115",
-    "Upgrade DLC 14",
+    "Octavia Prime Mallet + Accessories to Amp Pack",
     [
       "applications"
     ],
     "Digital Extremes",
     1613508070,
-    1613759301,
-    "",
+    1614106949,
+    "https://cdn1.epicgames.com/244aaaa06bfa49d088205b13b9d2d115/offer/octavia.amp.2-1200x1600-17c0078ce646b64566de475bb57570cd.jpg",
     ""
   ],
   [
@@ -39579,14 +39596,13 @@
     "c1e33e7e700f42429ea2b8a7459bb55b",
     "Curse of the Dead Gods - Original Soundtrack",
     [
-      "addons",
-      "games",
-      "addons/durable",
+      "digitalextras",
+      "digitalextras/soundtrack",
       "applications"
     ],
     "Focus Home",
     1613575709,
-    1614033542,
+    1614127498,
     "https://cdn1.epicgames.com/c1e33e7e700f42429ea2b8a7459bb55b/offer/COTG_OST.2-1200x1600-be5c0a5164a5b33cb87ec7b64180f51d.jpg",
     ""
   ],
@@ -40035,14 +40051,16 @@
   [
     "bdb0e28a16234858815419a936bc4c3d",
     "244aaaa06bfa49d088205b13b9d2d115",
-    "DLC 23",
+    "Warframe: Octavia Prime Access - Amp Pack",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Digital Extremes",
     1613507049,
-    1613759243,
-    "",
+    1614106949,
+    "https://cdn1.epicgames.com/244aaaa06bfa49d088205b13b9d2d115/offer/octavia.amp.2-1200x1600-17c0078ce646b64566de475bb57570cd.jpg",
     ""
   ],
   [
@@ -41849,14 +41867,14 @@
   [
     "c685b34f37f144e59a763f85ca716c84",
     "244aaaa06bfa49d088205b13b9d2d115",
-    "Upgrade DLC 10",
+    "Octavia Prime Mallet to Resonator Pack",
     [
       "applications"
     ],
     "Digital Extremes",
     1613507937,
-    1613760293,
-    "",
+    1614106949,
+    "https://cdn1.epicgames.com/244aaaa06bfa49d088205b13b9d2d115/offer/octavia.res.2-1200x1600-53a0af6704acda60812e3cf657f1badd.jpg",
     ""
   ],
   [
@@ -45201,7 +45219,7 @@
     ],
     "Spiderweb Software, Inc.",
     1613169418,
-    1613757484,
+    1614175172,
     "https://cdn1.epicgames.com/308652d49c89470fbf45fe8696b9c1c1/offer/egs-geneforge1mutagen-spiderwebsoftware-s2-1200x1600-047ee886480c-1200x1600-668dc5abed1824b419b20b21c362904e.jpg",
     "geneforge-1-mutagen"
   ],
@@ -45774,14 +45792,16 @@
   [
     "dafd586d4fa94a4cb874765bdc00a7ea",
     "244aaaa06bfa49d088205b13b9d2d115",
-    "DLC 24",
+    "Warframe: Octavia Prime Access - Accessories Pack",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Digital Extremes",
     1613507206,
-    1613759226,
-    "",
+    1614106949,
+    "https://cdn1.epicgames.com/244aaaa06bfa49d088205b13b9d2d115/offer/octavia.2-1200x1600-042ebb637793e6908bd8de66e8fa0550.jpg",
     ""
   ],
   [
@@ -46357,14 +46377,16 @@
   [
     "dd52cc785de74f63a16ad0283fd08d4d",
     "244aaaa06bfa49d088205b13b9d2d115",
-    "DLC 21",
+    "Warframe: Octavia Prime Access - Mallet Pack",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Digital Extremes",
     1613506628,
-    1613759269,
-    "",
+    1614106949,
+    "https://cdn1.epicgames.com/244aaaa06bfa49d088205b13b9d2d115/offer/mallet.2-1200x1600-7ea6cb085c0ad54a6b996d95e2ba831b.jpg",
     ""
   ],
   [
@@ -48878,6 +48900,22 @@
     1598538681,
     "https://cdn1.epicgames.com/3c06b15a8a2845c0b725d4f952fe00aa/offer/EGS_IOInteractiveAS_HITMANTheCompleteFirstSeason_S2-860x1148-cb3bc2b2ef92dd133e1baa2edde5e232.jpg",
     "hitman/standard-edition"
+  ],
+  [
+    "e8f40aec9dbe49d4a3e98a9908382fdb",
+    "c1edd23d035a4df0bbc419f2d0fbb40d",
+    "Scrapnaut",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "RockGame S.A.",
+    1613668181,
+    1614114338,
+    "https://cdn1.epicgames.com/c1edd23d035a4df0bbc419f2d0fbb40d/offer/egs-scrapnaut-spiffybit-s2-1200x1600-c122d37a048e-1200x1600-7ee87251c36a90ed724dfa50e6aa29f7.jpg",
+    "scrapnaut"
   ],
   [
     "e907f4843884473d95c3e39d85722cc8",
@@ -53376,14 +53414,14 @@
   [
     "fd842a86c1694980ab89204ffd43aa72",
     "244aaaa06bfa49d088205b13b9d2d115",
-    "Upgrade DLC 12",
+    "Octavia Prime Mallet to Amp Pack",
     [
       "applications"
     ],
     "Digital Extremes",
     1613508013,
-    1613759317,
-    "",
+    1614106949,
+    "https://cdn1.epicgames.com/244aaaa06bfa49d088205b13b9d2d115/offer/octavia.amp.2-1200x1600-17c0078ce646b64566de475bb57570cd.jpg",
     ""
   ],
   [
