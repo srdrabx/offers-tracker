@@ -1,14 +1,14 @@
 {
-  "id": "694b38334ae1468f9eca74bf530f24f5",
+  "id": "b075a8268c45465ca1a3104b0e4477da",
   "namespace": "84c76746bce94effb8e1047fabfd7eb7",
-  "title": "Warships Premium: 3 days",
-  "description": "Warships Premium: 3 days",
+  "title": "Limited 2,500 Doubloons",
+  "description": "Limited 2,500 Doubloons",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "threedaypremiumaccountaudience",
-  "creationDate": "2021-01-13T15:21:13.266Z",
-  "lastModifiedDate": "2021-02-25T04:26:01.960Z",
+  "urlSlug": "limited2500doubloons",
+  "creationDate": "2021-02-25T03:30:53.956Z",
+  "lastModifiedDate": "2021-02-25T04:17:57.788Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -49,7 +49,7 @@
   "keyImages": [],
   "items": [
     {
-      "id": "2a225fccb79d403fa8c2a38c1e723376"
+      "id": "39b46d5a474f4171b33c8996a74edda0"
     }
   ],
   "catalogNs": null

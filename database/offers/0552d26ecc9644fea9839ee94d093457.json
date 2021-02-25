@@ -8,7 +8,7 @@
   "productSlug": "anno-1800/free-trial",
   "urlSlug": "anno-1800--free-trial",
   "creationDate": "2019-12-06T16:18:27.537Z",
-  "lastModifiedDate": "2021-02-23T17:06:03.062Z",
+  "lastModifiedDate": "2021-02-25T14:59:56.700Z",
   "effectiveDate": "2021-02-23T16:00:00.000Z",
   "viewableDate": "2021-02-23T16:00:00.000Z",
   "developer": null,
@@ -43,14 +43,6 @@
     {
       "key": "publisherName",
       "value": "Ubisoft"
-    },
-    {
-      "key": "isPrepurchase",
-      "value": "true"
-    },
-    {
-      "key": "availableDate",
-      "value": "1614258000"
     },
     {
       "key": "developerName",

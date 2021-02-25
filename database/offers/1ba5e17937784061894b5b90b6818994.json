@@ -1,14 +1,14 @@
 {
-  "id": "694b38334ae1468f9eca74bf530f24f5",
+  "id": "1ba5e17937784061894b5b90b6818994",
   "namespace": "84c76746bce94effb8e1047fabfd7eb7",
-  "title": "Warships Premium: 3 days",
-  "description": "Warships Premium: 3 days",
+  "title": "Limited Small Credit Stock",
+  "description": "Limited Small Credit Stock",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "threedaypremiumaccountaudience",
-  "creationDate": "2021-01-13T15:21:13.266Z",
-  "lastModifiedDate": "2021-02-25T04:26:01.960Z",
+  "urlSlug": "limitedsmallcreditstock",
+  "creationDate": "2021-02-25T03:35:08.100Z",
+  "lastModifiedDate": "2021-02-25T04:17:34.555Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -49,7 +49,7 @@
   "keyImages": [],
   "items": [
     {
-      "id": "2a225fccb79d403fa8c2a38c1e723376"
+      "id": "b23f4d0597604c51899006e62fe36622"
     }
   ],
   "catalogNs": null

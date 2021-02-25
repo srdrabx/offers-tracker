@@ -1,20 +1,20 @@
 {
-  "id": "694b38334ae1468f9eca74bf530f24f5",
-  "namespace": "84c76746bce94effb8e1047fabfd7eb7",
-  "title": "Warships Premium: 3 days",
-  "description": "Warships Premium: 3 days",
+  "id": "0ffea3d8b7f84144be28ba521b9920af",
+  "namespace": "ce9774c9678a4377befaa8fdfc8ef71b",
+  "title": "Iron 5,000 + 300(Bonus) Zen",
+  "description": "Iron 5,000 + 300(Bonus) Zen",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "threedaypremiumaccountaudience",
-  "creationDate": "2021-01-13T15:21:13.266Z",
-  "lastModifiedDate": "2021-02-25T04:26:01.960Z",
+  "urlSlug": "iron5000zen",
+  "creationDate": "2021-02-09T03:21:02.637Z",
+  "lastModifiedDate": "2021-02-25T16:10:58.188Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
-    "id": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
-    "name": "Wargaming Group Limited"
+    "id": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+    "name": "Perfect World"
   },
   "linkedOfferId": null,
   "isFeatured": false,
@@ -35,7 +35,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR"
+      "value": "KR,RU,BY,UA,KZ,KG,TJ,MD,UZ"
     },
     {
       "key": "publisherName",
@@ -49,7 +49,7 @@
   "keyImages": [],
   "items": [
     {
-      "id": "2a225fccb79d403fa8c2a38c1e723376"
+      "id": "922cc50d954f422da2d2f52d57fed847"
     }
   ],
   "catalogNs": null

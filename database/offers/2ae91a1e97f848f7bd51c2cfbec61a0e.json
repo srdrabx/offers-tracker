@@ -8,7 +8,7 @@
   "productSlug": "donut-county/home",
   "urlSlug": "kestrelgeneralaudience",
   "creationDate": "2019-01-08T01:15:43.537Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.592Z",
+  "lastModifiedDate": "2021-02-25T16:24:53.509Z",
   "effectiveDate": "2019-01-08T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -129,7 +129,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR"
+      "value": "[]"
     },
     {
       "key": "publisherName",

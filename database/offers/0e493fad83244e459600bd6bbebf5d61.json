@@ -8,8 +8,8 @@
   "productSlug": null,
   "urlSlug": "1fc9ac60eed14f7cbaccddf56ab19a60",
   "creationDate": "2020-09-25T17:30:48.234Z",
-  "lastModifiedDate": "2021-02-16T12:12:48.736Z",
-  "effectiveDate": "2021-02-16T12:12:20.816Z",
+  "lastModifiedDate": "2021-02-25T16:06:32.388Z",
+  "effectiveDate": "2021-02-25T16:06:03.713Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -38,9 +38,9 @@
       ],
       "operator": null,
       "created": "2020-09-25T17:19:19.694Z",
-      "updated": "2021-02-19T15:59:53.828Z",
+      "updated": "2021-02-25T16:06:45.697Z",
       "status": "ACTIVE",
-      "referenceCount": 11,
+      "referenceCount": 12,
       "comment": ""
     }
   ],
