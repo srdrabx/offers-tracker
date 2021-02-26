@@ -2514,7 +2514,7 @@
     ],
     "Annapurna Interactive",
     1597703694,
-    1599745772,
+    1614272716,
     "https://cdn1.epicgames.com/5c99f4b1cded415592255a53c1cad617/offer/EGS_TheUnfinishedSwan_GiantSparrow_S2-1200x1600-9950b20d20f362a591ace024949a43cc.jpg",
     "the-unfinished-swan"
   ],
@@ -3813,6 +3813,22 @@
     1541447907,
     "",
     ""
+  ],
+  [
+    "11e6c3b2b0014434a20c416098aee654",
+    "7c53d7dc86494d5abcdc974b0ef0a843",
+    "Kena: Bridge of Spirits",
+    [
+      "games/edition/base",
+      "games/edition",
+      "games",
+      "applications"
+    ],
+    "Ember Lab",
+    1614014830,
+    1614295314,
+    "https://cdn1.epicgames.com/7c53d7dc86494d5abcdc974b0ef0a843/offer/EGS_KenaBridgeofSpirits_EmberLab_S6-1200x1600-e701bd947727ee14b81626c7f9757e4f.jpg",
+    "kena-bridge-of-spirits"
   ],
   [
     "11f58d32918d48498af228f191433add",
@@ -6795,7 +6811,7 @@
     ],
     "NIS America, Inc.",
     1597356614,
-    1608224356,
+    1614274343,
     "https://cdn1.epicgames.com/cb6352a885e2466d900f4f1b737c295a/offer/EGS_DisasterReport4SummerMemories_GranzellaInc_S2-1200x1600-4e8797eb6546818450edc281dd67d482.jpg",
     "disaster-report-4-summer-memories"
   ],
@@ -6929,6 +6945,22 @@
     1588120702,
     "",
     "overpass/home"
+  ],
+  [
+    "1feff55345b347f488d44153aa5c65d4",
+    "45bd0f6fc2704e22a3c1933f7bb972bf",
+    "The Life and Suffering of Sir Brante",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "101XP Limited",
+    1614281170,
+    1614284712,
+    "https://cdn1.epicgames.com/45bd0f6fc2704e22a3c1933f7bb972bf/offer/EGS_TheLifeandSufferingofSirBrante_Sever_S2-1200x1600-06beede908bd1dc03f18bec5693e7cff.jpg",
+    "the-life-and-suffering-of-sir-brante"
   ],
   [
     "2007a0b1b81c41c8a627cf297672d6be",
@@ -8327,7 +8359,6 @@
     "2736ab9fec9c4a93a7a2872ed5154d4b",
     "Rage 2",
     [
-      "freegames",
       "games",
       "games/edition/base",
       "games/edition",
@@ -8335,7 +8366,7 @@
     ],
     "Bethesda Softworks LLC",
     1604518482,
-    1613060251,
+    1614275874,
     "https://cdn1.epicgames.com/2736ab9fec9c4a93a7a2872ed5154d4b/offer/egs-rage2-idsoftware-s2-1200x1600-ee8fcbffe5b0-1200x1600-d692008156cef0c206454ef84c987499.jpg",
     "rage-2"
   ],
@@ -10174,6 +10205,21 @@
     1581364828,
     1586442809,
     "",
+    ""
+  ],
+  [
+    "300a2544aab2451ea784246da05b3ec8",
+    "6af58339c2424644988e0fb83dfd9bd5",
+    "DaBaby - \"BOP\"",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "NCSoft",
+    1607653610,
+    1614268303,
+    "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_DaBabyBOP_HarmonixMusicSystemsInc_DLC_S2-1200x1600-9ce383ed9d511507108d43b007c04663.jpg",
     ""
   ],
   [
@@ -12491,6 +12537,21 @@
     "samurai-shodown-reboot/kazuki-kazama"
   ],
   [
+    "3a16491653a64cd2bed9cf3fe953ba47",
+    "6af58339c2424644988e0fb83dfd9bd5",
+    "Look Pack: Peppermint Ecstatic",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "NCSoft",
+    1607653737,
+    1614268303,
+    "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_LookPackPeppermintEcstatic_HarmonixMusicSystemsInc_DLC_S2-1200x1600-e8af7ffcc741afc82adcd69ac403dc79.jpg",
+    ""
+  ],
+  [
     "3a1b4add3f1942d39ff54fa7d136e6e0",
     "epic",
     "Thimbleweed Park",
@@ -14185,7 +14246,7 @@
     ],
     "Wargaming Group Limited",
     1599863098,
-    1613074082,
+    1614309162,
     "https://cdn1.epicgames.com/84c76746bce94effb8e1047fabfd7eb7/offer/EGS_WorldofWarships_WargamingGroupLimited_S2-1200x1600-f96166935d3d0b84086c6021c188ac0e.jpg",
     "world-of-warships"
   ],
@@ -16940,7 +17001,7 @@
     ],
     "Annapurna Interactive",
     1543539328,
-    1585791699,
+    1614272256,
     "https://cdn1.epicgames.com/lemur/offer/Journey_CodeRedemption-330x440-0347f691acfea0a60655a94dc8065a92.png",
     "journey/home"
   ],
@@ -19203,7 +19264,7 @@
     ],
     "Annapurna Interactive",
     1543540858,
-    1585791713,
+    1614273274,
     "https://cdn1.epicgames.com/starfish/offer/OuterWilds_PrimaryPromo-1290x725-930b33ddbd98f10b26d8d2bd72551095.png",
     "outerwilds"
   ],
@@ -19454,7 +19515,7 @@
     ],
     "Positech Computing Ltd",
     1600917810,
-    1603293394,
+    1614273832,
     "https://cdn1.epicgames.com/74b602736d704ed2a5915c31319d99f6/offer/EGS_Theultimatepoliticalstrategygameisback_PositechGames_S2-1200x1600-ec91fbed991c7124fb9257b86d57c90b.jpg",
     "democracy-4/home"
   ],
@@ -19921,6 +19982,21 @@
     1588120702,
     "",
     "lego-batman-3/home"
+  ],
+  [
+    "5d84a15a97ff43848c757263ecf417e2",
+    "7c53d7dc86494d5abcdc974b0ef0a843",
+    "Kena: Bridge of Spirits - Deluxe Edition",
+    [
+      "games/edition",
+      "games",
+      "applications"
+    ],
+    "Ember Lab",
+    1614014930,
+    1614295332,
+    "https://cdn1.epicgames.com/7c53d7dc86494d5abcdc974b0ef0a843/offer/EGS_KenaBridgeofSpiritsDigitalDeluxe_EmberLab_Editions_S2-1200x1600-7203ddaa88367a3092f5f7449cff7942.jpg",
+    "kena-bridge-of-spirits/deluxe-edition"
   ],
   [
     "5d85a88ea2a14ab49d3e7407c6f35691",
@@ -24177,6 +24253,21 @@
     ""
   ],
   [
+    "71f2df5fff2b46e4b6cec080e449bbfa",
+    "6af58339c2424644988e0fb83dfd9bd5",
+    "Daddy Yankee ft. Snow - \"Con Calma\"",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "NCSoft",
+    1607655753,
+    1614268303,
+    "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_DaddyYankeeftSnowConCalma_HarmonixMusicSystemsInc_DLC_S2-1200x1600-bccc82f64dee1994b5df77810d0c9f47.jpg",
+    ""
+  ],
+  [
     "71f7b3d1755744e5b85d73b9b32e5831",
     "ed85e819ef2f48588bdfad2fd270b70e",
     "DCL the Game - Track Editor",
@@ -25510,7 +25601,7 @@
     ],
     "Tripwire Interactive",
     1559638418,
-    1613071180,
+    1614274730,
     "https://cdn1.epicgames.com/bd46d4ce259349e5bd8b3ded20274737/offer/1200x600b-1200x1600-d2045ec65147297d8a7cebd13cd68d4b.jpg",
     "chivalry-2"
   ],
@@ -26062,7 +26153,7 @@
   [
     "7aa335f58cc34d3abd6559c35f12596e",
     "fe5a2e3e842a4394938a81f3308df2ed",
-    "Solar Ash Kingdom",
+    "Solar Ash",
     [
       "games",
       "games/edition/base",
@@ -26071,9 +26162,9 @@
     ],
     "Annapurna Interactive",
     1559849747,
-    1585791727,
+    1614295696,
     "",
-    "solar-ash-kingdom/home"
+    "solar-ash/home"
   ],
   [
     "7ab1f8e424a044db8f8ee6ae394c2f88",
@@ -27871,8 +27962,8 @@
     ],
     "Hypetrain Digital",
     1612208267,
-    1612889138,
-    "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/egs-breathedge-redruinssoftworks-s2-1200x1600-637871a675fc-1200x1600-29911ee4bfb59a2d6326e599261a6a57.jpg",
+    1614276306,
+    "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/EGS_Breathedge_RedRuinsSoftworks_S2-1200x1600-c0559585221ea11c9d48273c3a79b1ba.jpg",
     "breathedge"
   ],
   [
@@ -40639,7 +40730,7 @@
     ],
     "NIS America, Inc.",
     1605215582,
-    1608219168,
+    1614274308,
     "https://cdn1.epicgames.com/cb6352a885e2466d900f4f1b737c295a/offer/DR4-OST_Portrait-1200x1600-9ce95531e3309ff8febe203e36085af7.jpg",
     "disaster-report-4-summer-memories"
   ],
@@ -43822,6 +43913,21 @@
     ""
   ],
   [
+    "cf8efdaf066f4179b378b0d2c5a5ff96",
+    "6af58339c2424644988e0fb83dfd9bd5",
+    "Bell Biv Devoe - \"Poison\"",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "NCSoft",
+    1607653540,
+    1614268303,
+    "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_BellBivDeVoePoison_HarmonixMusicSystemsInc_DLC_S2-1200x1600-e86b18d3ee6fe1934c03606b1d3fb123.jpg",
+    ""
+  ],
+  [
     "cfad5d2f222e43c1a9fadb55cc63bbb1",
     "bd46d4ce259349e5bd8b3ded20274737",
     "TEST 499 USD cents",
@@ -46256,6 +46362,22 @@
     ""
   ],
   [
+    "dbfa7d82892f406e8ba87d31a09adcad",
+    "1f436e99203a49479f4a4d5951374fe8",
+    "Stonefly",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "MWM Interactive",
+    1614201405,
+    1614346780,
+    "https://cdn1.epicgames.com/1f436e99203a49479f4a4d5951374fe8/offer/EGS_Stonefly_FlightSchoolStudio_S2-1200x1600-8b64e82cffebfa0bb04ca82740832d5a.jpg",
+    "stonefly"
+  ],
+  [
     "dc04085806054c1b927147e55fe7f4ac",
     "cd14dcaa4f3443f19f7169a980559c62",
     "Civilization VI : Civilization & Scenario Pack",
@@ -46785,7 +46907,7 @@
     ],
     "Annapurna Interactive",
     1548350224,
-    1589468400,
+    1614271806,
     "https://cdn1.epicgames.com/yarrow/offer/Flower_CodeRedemption-330x440-47276d6704e36aa485fdb283ca3e8148.png",
     "flower/home"
   ],
@@ -48926,7 +49048,7 @@
     ],
     "NIS America, Inc.",
     1602802245,
-    1608219168,
+    1614274325,
     "https://cdn1.epicgames.com/cb6352a885e2466d900f4f1b737c295a/offer/DR4-Demo_Portrait-1200x1600-de355b8064b28ea903ea9322ac5b9399.jpg",
     "disaster-report-4-summer-memories"
   ],
@@ -51900,6 +52022,22 @@
     1588120702,
     "",
     "alan-wake-american-nightmare/home"
+  ],
+  [
+    "f572c9e553fc42fa8ece7d3e759fab0d",
+    "b7b42e2078524ab386a8b2a9856ef557",
+    "Sifu",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Sloclap",
+    1610145356,
+    1614309127,
+    "https://cdn1.epicgames.com/b7b42e2078524ab386a8b2a9856ef557/offer/EGS_Greeneye_Sloclap_S2-1200x1600-1d977762841536e3b8fbff0b3ee4eb65.jpg",
+    "sifu"
   ],
   [
     "f57ba5dd7e074e3487b3b3d672dbeb96",

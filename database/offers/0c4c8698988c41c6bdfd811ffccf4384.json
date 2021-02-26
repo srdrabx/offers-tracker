@@ -8,7 +8,7 @@
   "productSlug": "the-unfinished-swan",
   "urlSlug": "mojitogeneralaudience",
   "creationDate": "2020-08-17T22:34:54.598Z",
-  "lastModifiedDate": "2020-09-10T13:49:32.713Z",
+  "lastModifiedDate": "2021-02-25T17:05:16.648Z",
   "effectiveDate": "2020-09-10T16:00:00.000Z",
   "viewableDate": "2020-09-10T16:00:00.000Z",
   "developer": null,
@@ -102,7 +102,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR"
+      "value": "[]"
     },
     {
       "key": "publisherName",

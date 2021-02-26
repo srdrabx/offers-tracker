@@ -8,7 +8,7 @@
   "productSlug": "disaster-report-4-summer-memories",
   "urlSlug": "broccolisoundtrackaudience",
   "creationDate": "2020-11-12T21:13:02.326Z",
-  "lastModifiedDate": "2020-12-17T15:32:48.059Z",
+  "lastModifiedDate": "2021-02-25T17:31:48.029Z",
   "effectiveDate": "2020-12-17T16:00:00.000Z",
   "viewableDate": "2020-12-17T16:00:00.000Z",
   "developer": null,
@@ -41,7 +41,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR"
+      "value": "[]"
     },
     {
       "key": "publisherName",

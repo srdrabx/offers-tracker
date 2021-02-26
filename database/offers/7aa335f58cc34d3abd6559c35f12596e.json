@@ -1,14 +1,14 @@
 {
   "id": "7aa335f58cc34d3abd6559c35f12596e",
   "namespace": "fe5a2e3e842a4394938a81f3308df2ed",
-  "title": "Solar Ash Kingdom",
-  "description": "Solar Ash Kingdom",
+  "title": "Solar Ash",
+  "description": "Solar Ash",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "solar-ash-kingdom/home",
+  "productSlug": "solar-ash/home",
   "urlSlug": "owlgeneralaudience",
   "creationDate": "2019-06-06T19:35:47.449Z",
-  "lastModifiedDate": "2020-04-02T01:42:07.708Z",
+  "lastModifiedDate": "2021-02-25T23:28:16.088Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -78,7 +78,7 @@
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "solar-ash-kingdom/home"
+      "value": "solar-ash/home"
     }
   ],
   "keyImages": [

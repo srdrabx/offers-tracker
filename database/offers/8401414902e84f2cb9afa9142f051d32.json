@@ -8,8 +8,8 @@
   "productSlug": "breathedge",
   "urlSlug": "osmiumgeneralaudience",
   "creationDate": "2021-02-01T19:37:47.330Z",
-  "lastModifiedDate": "2021-02-09T16:45:38.421Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2021-02-25T18:05:06.731Z",
+  "effectiveDate": "2021-02-25T18:00:00.000Z",
   "viewableDate": "2021-02-09T17:00:00.000Z",
   "developer": null,
   "seller": {
@@ -39,6 +39,18 @@
   ],
   "tags": [
     {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2021-02-10T17:36:19.203Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
       "id": "1281",
       "name": "Space Sim",
       "namespace": "epic",
@@ -63,6 +75,18 @@
       "comment": null
     },
     {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
       "id": "9547",
       "name": "Windows",
       "namespace": "epic",
@@ -72,6 +96,18 @@
       "updated": "2021-02-05T16:07:21.852Z",
       "status": "ACTIVE",
       "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2021-02-10T17:36:06.452Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
       "comment": null
     }
   ],
@@ -100,33 +136,6 @@
       "height": 1440
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/egs-breathedge-redruinssoftworks-s2-1200x1600-637871a675fc-1200x1600-29911ee4bfb59a2d6326e599261a6a57.jpg",
-      "md5": "29911ee4bfb59a2d6326e599261a6a57",
-      "size": 213446,
-      "uploadedDate": "2021-02-08T16:32:57.783Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/egs-breathedge-redruinssoftworks-s2-1200x1600-637871a675fc-1200x1600-29911ee4bfb59a2d6326e599261a6a57.jpg",
-      "md5": "29911ee4bfb59a2d6326e599261a6a57",
-      "size": 213446,
-      "uploadedDate": "2021-02-08T16:33:09.772Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/egs-breathedge-redruinssoftworks-s2-1200x1600-637871a675fc-1200x1600-29911ee4bfb59a2d6326e599261a6a57.jpg",
-      "md5": "29911ee4bfb59a2d6326e599261a6a57",
-      "size": 213446,
-      "uploadedDate": "2021-02-08T16:33:19.111Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "DieselStoreFrontWide",
       "url": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/egs-breathedge-redruinssoftworks-s1-2560x1440-76fd08cd9c2d-2560x1440-783424f6d4a7f32a0e75fc074f2f928e.jpg",
       "md5": "783424f6d4a7f32a0e75fc074f2f928e",
@@ -136,11 +145,38 @@
       "height": 1440
     },
     {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/EGS_Breathedge_RedRuinsSoftworks_S2-1200x1600-c0559585221ea11c9d48273c3a79b1ba.jpg",
+      "md5": "c0559585221ea11c9d48273c3a79b1ba",
+      "size": 653165,
+      "uploadedDate": "2021-02-25T18:04:27.006Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/EGS_Breathedge_RedRuinsSoftworks_S2-1200x1600-c0559585221ea11c9d48273c3a79b1ba.jpg",
+      "md5": "c0559585221ea11c9d48273c3a79b1ba",
+      "size": 653165,
+      "uploadedDate": "2021-02-25T18:04:38.494Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/EGS_Breathedge_RedRuinsSoftworks_S2-1200x1600-c0559585221ea11c9d48273c3a79b1ba.jpg",
+      "md5": "c0559585221ea11c9d48273c3a79b1ba",
+      "size": 653165,
+      "uploadedDate": "2021-02-25T18:04:49.641Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/egs-breathedge-redruinssoftworks-s2-1200x1600-637871a675fc-1200x1600-29911ee4bfb59a2d6326e599261a6a57.jpg",
-      "md5": "29911ee4bfb59a2d6326e599261a6a57",
-      "size": 213446,
-      "uploadedDate": "2021-02-08T16:33:44.715Z",
+      "url": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/EGS_Breathedge_RedRuinsSoftworks_S2-1200x1600-c0559585221ea11c9d48273c3a79b1ba.jpg",
+      "md5": "c0559585221ea11c9d48273c3a79b1ba",
+      "size": 653165,
+      "uploadedDate": "2021-02-25T18:05:00.528Z",
       "width": 1200,
       "height": 1600
     }
