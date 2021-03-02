@@ -1,0 +1,182 @@
+{
+  "id": "16ca7a26e9274d768771378e152b2d00",
+  "namespace": "8f08ba8f76c940f89fa9d84658535a02",
+  "title": "Mundaun",
+  "description": "Mundaun",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "mundaun",
+  "urlSlug": "mundaungeneralaudience",
+  "creationDate": "2021-02-24T22:44:57.505Z",
+  "lastModifiedDate": "2021-03-02T13:34:51.679Z",
+  "effectiveDate": "2021-03-16T13:00:00.000Z",
+  "viewableDate": "2021-03-02T14:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-f4rsv826ngcpw4wvunwntql3n23m46",
+    "name": "MWM Interactive"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1218",
+      "name": "Horror",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:06.599Z",
+      "updated": "2021-02-10T17:14:06.043Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2021-02-10T17:35:47.790Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2021-02-10T17:35:19.827Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "MWM Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Hidden Fields"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "mundaun"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/8f08ba8f76c940f89fa9d84658535a02/offer/EGS_Mundaun_HiddenFields_S1-2560x1440-7b6555d4ab16483beda9d9efe347998f.jpg",
+      "md5": "7b6555d4ab16483beda9d9efe347998f",
+      "size": 1004258,
+      "uploadedDate": "2021-02-25T21:20:43.778Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/8f08ba8f76c940f89fa9d84658535a02/offer/EGS_Mundaun_HiddenFields_S2-1200x1600-0e209f071069b203df62c2f80a3f624f.jpg",
+      "md5": "0e209f071069b203df62c2f80a3f624f",
+      "size": 966692,
+      "uploadedDate": "2021-02-25T21:21:02.480Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/8f08ba8f76c940f89fa9d84658535a02/offer/EGS_Mundaun_HiddenFields_S2-1200x1600-0e209f071069b203df62c2f80a3f624f.jpg",
+      "md5": "0e209f071069b203df62c2f80a3f624f",
+      "size": 966692,
+      "uploadedDate": "2021-02-25T21:21:15.487Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/8f08ba8f76c940f89fa9d84658535a02/offer/EGS_Mundaun_HiddenFields_S2-1200x1600-0e209f071069b203df62c2f80a3f624f.jpg",
+      "md5": "0e209f071069b203df62c2f80a3f624f",
+      "size": 966692,
+      "uploadedDate": "2021-02-25T21:21:24.385Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/8f08ba8f76c940f89fa9d84658535a02/offer/EGS_Mundaun_HiddenFields_S1-2560x1440-7b6555d4ab16483beda9d9efe347998f.jpg",
+      "md5": "7b6555d4ab16483beda9d9efe347998f",
+      "size": 1004258,
+      "uploadedDate": "2021-02-25T21:21:38.242Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/8f08ba8f76c940f89fa9d84658535a02/offer/EGS_Mundaun_HiddenFields_S2-1200x1600-0e209f071069b203df62c2f80a3f624f.jpg",
+      "md5": "0e209f071069b203df62c2f80a3f624f",
+      "size": 966692,
+      "uploadedDate": "2021-02-25T21:21:49.626Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "3856c644e4474d1496848f22dafbbeb1"
+    }
+  ],
+  "catalogNs": null
+}

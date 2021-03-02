@@ -8,7 +8,7 @@
   "productSlug": "gravewood-high/demo",
   "urlSlug": "styxgeneralaudience-01",
   "creationDate": "2021-02-10T23:21:20.123Z",
-  "lastModifiedDate": "2021-02-25T15:46:46.106Z",
+  "lastModifiedDate": "2021-03-01T16:37:21.709Z",
   "effectiveDate": "2021-02-25T16:00:00.000Z",
   "viewableDate": "2021-02-25T16:00:00.000Z",
   "developer": null,
@@ -107,7 +107,7 @@
     },
     {
       "key": "developerName",
-      "value": "EvilCoGames"
+      "value": "HeroCraft"
     },
     {
       "key": "com.epicgames.app.productSlug",

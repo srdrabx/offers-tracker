@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "6500credits",
   "creationDate": "2020-03-30T19:49:56.203Z",
-  "lastModifiedDate": "2020-10-21T00:44:35.067Z",
+  "lastModifiedDate": "2021-03-02T03:13:00.395Z",
   "effectiveDate": "2020-09-23T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -24,9 +24,6 @@
   "technicalDetails": null,
   "recurrence": "ONCE",
   "categories": [
-    {
-      "path": "games"
-    },
     {
       "path": "applications"
     }
