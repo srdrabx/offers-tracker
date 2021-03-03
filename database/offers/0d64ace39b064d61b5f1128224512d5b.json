@@ -8,8 +8,8 @@
   "productSlug": null,
   "urlSlug": "limited12500doubloons",
   "creationDate": "2021-02-25T03:32:32.733Z",
-  "lastModifiedDate": "2021-02-25T04:17:46.944Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2021-03-03T02:35:49.649Z",
+  "effectiveDate": "2021-03-02T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -24,9 +24,6 @@
   "technicalDetails": null,
   "recurrence": "ONCE",
   "categories": [
-    {
-      "path": "games"
-    },
     {
       "path": "applications"
     }

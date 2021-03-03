@@ -1,16 +1,16 @@
 {
   "id": "9fc33e99abf342138323856854e745ec",
   "namespace": "b829cfd910554ad3ad2eb3b314e2b1ef",
-  "title": "MooncakeGeneralAudience",
-  "description": "MooncakeGeneralAudience",
+  "title": "3 out of 10: Season Two",
+  "description": "3 out of 10: Season Two",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
+  "productSlug": "3-out-of-10-season-2",
   "urlSlug": "mooncakegeneralaudience",
   "creationDate": "2020-09-08T21:58:00.563Z",
-  "lastModifiedDate": "2020-09-08T23:03:51.039Z",
+  "lastModifiedDate": "2021-03-02T17:39:50.894Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "viewableDate": "2021-03-03T15:30:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-2yllrrr7vufkhal9nk3cswwgug977c",
@@ -28,25 +28,151 @@
       "path": "games"
     },
     {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1116",
+      "name": "Comedy",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.126Z",
+      "updated": "2021-02-05T16:17:33.152Z",
+      "status": "ACTIVE",
+      "referenceCount": 8,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2021-02-10T17:35:47.790Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2021-02-10T17:36:06.452Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "[]"
     },
     {
       "key": "publisherName",
-      "value": "[]"
+      "value": "Terrible Posture Games, Inc."
     },
     {
       "key": "developerName",
-      "value": "[]"
+      "value": "Terrible Posture Games, Inc."
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "3-out-of-10-season-2"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/b829cfd910554ad3ad2eb3b314e2b1ef/offer/EGS_3outof10SeasonTwo_TerriblePostureGamesInc_G1A_00-1920x1080-77430376a4fbbafe73030bae814a2f34.jpg",
+      "md5": "77430376a4fbbafe73030bae814a2f34",
+      "size": 537944,
+      "uploadedDate": "2021-03-02T17:36:33.947Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/b829cfd910554ad3ad2eb3b314e2b1ef/offer/EGS_3outof10SeasonTwo_TerriblePostureGamesInc_S2-1200x1600-0526ebb8c316a36e20e97271782bd31d.jpg",
+      "md5": "0526ebb8c316a36e20e97271782bd31d",
+      "size": 512749,
+      "uploadedDate": "2021-03-02T17:36:47.498Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/b829cfd910554ad3ad2eb3b314e2b1ef/offer/EGS_3outof10SeasonTwo_TerriblePostureGamesInc_S2-1200x1600-0526ebb8c316a36e20e97271782bd31d.jpg",
+      "md5": "0526ebb8c316a36e20e97271782bd31d",
+      "size": 512749,
+      "uploadedDate": "2021-03-02T17:36:55.125Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/b829cfd910554ad3ad2eb3b314e2b1ef/offer/EGS_3outof10SeasonTwo_TerriblePostureGamesInc_S2-1200x1600-0526ebb8c316a36e20e97271782bd31d.jpg",
+      "md5": "0526ebb8c316a36e20e97271782bd31d",
+      "size": 512749,
+      "uploadedDate": "2021-03-02T17:37:03.558Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/b829cfd910554ad3ad2eb3b314e2b1ef/offer/EGS_3outof10SeasonTwo_TerriblePostureGamesInc_S1-2560x1440-03f957380c64f41b4241cfb591a263ce.jpg",
+      "md5": "03f957380c64f41b4241cfb591a263ce",
+      "size": 754974,
+      "uploadedDate": "2021-03-02T17:37:12.634Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/b829cfd910554ad3ad2eb3b314e2b1ef/offer/EGS_3outof10SeasonTwo_TerriblePostureGamesInc_S2-1200x1600-0526ebb8c316a36e20e97271782bd31d.jpg",
+      "md5": "0526ebb8c316a36e20e97271782bd31d",
+      "size": 512749,
+      "uploadedDate": "2021-03-02T17:37:19.023Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "0a8ad6d224e649bb84fd54c2e08159da"

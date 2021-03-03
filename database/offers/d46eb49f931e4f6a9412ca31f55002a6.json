@@ -8,7 +8,7 @@
   "productSlug": "crayta",
   "urlSlug": "pikespeakprepurchaseaudience",
   "creationDate": "2021-02-06T02:08:27.262Z",
-  "lastModifiedDate": "2021-02-10T14:56:02.296Z",
+  "lastModifiedDate": "2021-03-02T19:11:02.021Z",
   "effectiveDate": "2021-02-10T15:00:00.000Z",
   "viewableDate": "2021-02-10T15:00:00.000Z",
   "developer": null,
@@ -54,7 +54,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR"
+      "value": "KR,JP,CN"
     },
     {
       "key": "publisherName",

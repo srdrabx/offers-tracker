@@ -8,8 +8,8 @@
   "productSlug": null,
   "urlSlug": "limitedsmallcreditstock",
   "creationDate": "2021-02-25T03:35:08.100Z",
-  "lastModifiedDate": "2021-02-25T04:17:34.555Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2021-03-03T02:36:14.472Z",
+  "effectiveDate": "2021-03-02T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -24,9 +24,6 @@
   "technicalDetails": null,
   "recurrence": "ONCE",
   "categories": [
-    {
-      "path": "games"
-    },
     {
       "path": "applications"
     }

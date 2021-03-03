@@ -1,0 +1,146 @@
+{
+  "id": "56f3a910b1c74a399df1f0388da11753",
+  "namespace": "dd7c9906a9604b68af4ffe0405f51af5",
+  "title": "Open Country",
+  "description": "Open Country",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "open-country",
+  "urlSlug": "nitrogengeneralaudience",
+  "creationDate": "2021-02-24T00:28:33.659Z",
+  "lastModifiedDate": "2021-03-02T16:52:37.403Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": "2021-03-02T17:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+    "name": "505 Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "505 games"
+    },
+    {
+      "key": "developerName",
+      "value": "FunLabs"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "open-country"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/dd7c9906a9604b68af4ffe0405f51af5/offer/Epic_OC1920x1080-1920x1080-c92456aed28c1cbb362737cc553e9cc7.jpg",
+      "md5": "c92456aed28c1cbb362737cc553e9cc7",
+      "size": 564991,
+      "uploadedDate": "2021-02-25T04:33:47.484Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/dd7c9906a9604b68af4ffe0405f51af5/offer/Epic_OC1200x1600-1200x1600-355a886f2f63aa51541b239e2566a0a4.jpg",
+      "md5": "355a886f2f63aa51541b239e2566a0a4",
+      "size": 439133,
+      "uploadedDate": "2021-02-25T04:33:54.036Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/dd7c9906a9604b68af4ffe0405f51af5/offer/Epic_OC1200x1600-1200x1600-355a886f2f63aa51541b239e2566a0a4.jpg",
+      "md5": "355a886f2f63aa51541b239e2566a0a4",
+      "size": 439133,
+      "uploadedDate": "2021-02-25T04:34:02.900Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/dd7c9906a9604b68af4ffe0405f51af5/offer/Epic_OC1200x1600-1200x1600-355a886f2f63aa51541b239e2566a0a4.jpg",
+      "md5": "355a886f2f63aa51541b239e2566a0a4",
+      "size": 439133,
+      "uploadedDate": "2021-02-25T04:34:09.569Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/dd7c9906a9604b68af4ffe0405f51af5/offer/Epic_OC2560x1440-2560x1440-28d3b6f6dc3776a92bf31677cb876b47.jpg",
+      "md5": "28d3b6f6dc3776a92bf31677cb876b47",
+      "size": 892154,
+      "uploadedDate": "2021-02-25T04:34:24.945Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/dd7c9906a9604b68af4ffe0405f51af5/offer/Epic_OC1200x1600-1200x1600-355a886f2f63aa51541b239e2566a0a4.jpg",
+      "md5": "355a886f2f63aa51541b239e2566a0a4",
+      "size": 439133,
+      "uploadedDate": "2021-02-25T04:34:33.351Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "5bbcf77bf2344c9aad556dacdc56a281"
+    }
+  ],
+  "catalogNs": null
+}

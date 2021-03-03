@@ -1,0 +1,158 @@
+{
+  "id": "78551ede85d5424ba1d28a5f549b5905",
+  "namespace": "e65e11fc4aee4bb28c3bddf0b6d490bd",
+  "title": "Monster Jam Steel Titans 2",
+  "description": "Monster Jam Steel Titans 2",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "monster-jam-steel-titans-2",
+  "urlSlug": "monster-jam-steel-titans2",
+  "creationDate": "2021-02-18T19:21:36.137Z",
+  "lastModifiedDate": "2021-03-02T17:54:22.478Z",
+  "effectiveDate": "2021-03-02T18:00:00.000Z",
+  "viewableDate": "2021-03-02T18:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+    "name": "THQ Nordic GmbH"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2021-02-10T17:36:19.203Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1212",
+      "name": "Racing",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:03.663Z",
+      "updated": "2021-02-05T16:17:00.647Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "THQ Nordic"
+    },
+    {
+      "key": "developerName",
+      "value": "Rainbow Studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "monster-jam-steel-titans-2"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/e65e11fc4aee4bb28c3bddf0b6d490bd/offer/EGS_MonsterJamSteelTitans2_RainbowStudios_S1-2560x1440-df85ecfe8eb74d7a7689d2890470fc1b.jpg",
+      "md5": "df85ecfe8eb74d7a7689d2890470fc1b",
+      "size": 684578,
+      "uploadedDate": "2021-02-18T20:37:37.949Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/e65e11fc4aee4bb28c3bddf0b6d490bd/offer/EGS_MonsterJamSteelTitans2_RainbowStudios_S2-1200x1600-47003425c734e1f616d48c3bd90a9f31.jpg",
+      "md5": "47003425c734e1f616d48c3bd90a9f31",
+      "size": 439594,
+      "uploadedDate": "2021-02-18T20:38:05.523Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/e65e11fc4aee4bb28c3bddf0b6d490bd/offer/EGS_MonsterJamSteelTitans2_RainbowStudios_S2-1200x1600-47003425c734e1f616d48c3bd90a9f31.jpg",
+      "md5": "47003425c734e1f616d48c3bd90a9f31",
+      "size": 439594,
+      "uploadedDate": "2021-02-18T20:38:22.324Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/e65e11fc4aee4bb28c3bddf0b6d490bd/offer/EGS_MonsterJamSteelTitans2_RainbowStudios_S2-1200x1600-47003425c734e1f616d48c3bd90a9f31.jpg",
+      "md5": "47003425c734e1f616d48c3bd90a9f31",
+      "size": 439594,
+      "uploadedDate": "2021-02-18T20:38:30.667Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/e65e11fc4aee4bb28c3bddf0b6d490bd/offer/EGS_MonsterJamSteelTitans2_RainbowStudios_S1-2560x1440-df85ecfe8eb74d7a7689d2890470fc1b.jpg",
+      "md5": "df85ecfe8eb74d7a7689d2890470fc1b",
+      "size": 684578,
+      "uploadedDate": "2021-02-18T20:38:41.061Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/e65e11fc4aee4bb28c3bddf0b6d490bd/offer/EGS_MonsterJamSteelTitans2_RainbowStudios_S2-1200x1600-47003425c734e1f616d48c3bd90a9f31.jpg",
+      "md5": "47003425c734e1f616d48c3bd90a9f31",
+      "size": 439594,
+      "uploadedDate": "2021-02-18T20:38:51.564Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "fba0f5903fff436da6e188fd20797100"
+    }
+  ],
+  "catalogNs": null
+}

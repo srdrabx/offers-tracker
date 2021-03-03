@@ -1241,6 +1241,19 @@
     "godfall"
   ],
   [
+    "06311f4fd9d042a8bfec8c6c3c81aa8a",
+    "dfd2530e80e4425d801913b0879be444",
+    "DLC00073",
+    [
+      "applications"
+    ],
+    "Rebellion",
+    1614621205,
+    1614725035,
+    "",
+    ""
+  ],
+  [
     "0636e339a59e4274ad1ffa51d88813b8",
     "933ada2ec45e4184ae840d64c99e0ba9",
     "Free Tough Enough Primary Wrap",
@@ -2763,12 +2776,11 @@
     "84c76746bce94effb8e1047fabfd7eb7",
     "Limited 12,500 Doubloons",
     [
-      "games",
       "applications"
     ],
     "Wargaming Group Limited",
     1614223952,
-    1614226666,
+    1614738949,
     "",
     ""
   ],
@@ -4468,6 +4480,19 @@
     ""
   ],
   [
+    "1433f17d2b924d95b18c3889ff58f1df",
+    "dfd2530e80e4425d801913b0879be444",
+    "DLC00085",
+    [
+      "applications"
+    ],
+    "Rebellion",
+    1614623766,
+    1614725035,
+    "",
+    ""
+  ],
+  [
     "14348c3089c547c5bb0eb8d559e027db",
     "6af58339c2424644988e0fb83dfd9bd5",
     "Harry Styles - \"Adore You\"",
@@ -5222,6 +5247,19 @@
     "3-out-of-10-season-one"
   ],
   [
+    "17e0936217664ec19aeeb8e150f71295",
+    "dfd2530e80e4425d801913b0879be444",
+    "DLC00082",
+    [
+      "applications"
+    ],
+    "Rebellion",
+    1614623273,
+    1614725035,
+    "",
+    ""
+  ],
+  [
     "17ead950fd7641019216b172c3654741",
     "28d06644e2f84b398c1b7fb96a2b6bd5",
     "Gods Will Fall",
@@ -5765,6 +5803,19 @@
     ""
   ],
   [
+    "1a4fbd5e23ea4fb99e198a1e35295329",
+    "dfd2530e80e4425d801913b0879be444",
+    "DLC00083",
+    [
+      "applications"
+    ],
+    "Rebellion",
+    1614623308,
+    1614725035,
+    "",
+    ""
+  ],
+  [
     "1a632d3045eb4c85a47a18ddd4b82c42",
     "df37f065c3f14eadbf011177396e2966",
     "QA_B_DLC_2_ContactGeneralAudience",
@@ -5991,12 +6042,11 @@
     "84c76746bce94effb8e1047fabfd7eb7",
     "Limited Small Credit Stock",
     [
-      "games",
       "applications"
     ],
     "Wargaming Group Limited",
     1614224108,
-    1614226654,
+    1614738974,
     "",
     ""
   ],
@@ -6733,7 +6783,7 @@
     ],
     "Rebellion",
     1613433327,
-    1613433460,
+    1614725035,
     "",
     ""
   ],
@@ -6986,7 +7036,7 @@
     ],
     "101XP Limited",
     1614281170,
-    1614284712,
+    1614727055,
     "https://cdn1.epicgames.com/45bd0f6fc2704e22a3c1933f7bb972bf/offer/EGS_TheLifeandSufferingofSirBrante_Sever_S2-1200x1600-06beede908bd1dc03f18bec5693e7cff.jpg",
     "the-life-and-suffering-of-sir-brante"
   ],
@@ -7493,6 +7543,19 @@
     1549312179,
     1588120729,
     "https://cdn1.epicgames.com/lotus/offer/OxygenNotIncluded_GameIcon-400x400-0ca35ebc6f717bb02db4a46d0b596dd3.png",
+    ""
+  ],
+  [
+    "2291575b6e04410196e9bebe95dbd701",
+    "dfd2530e80e4425d801913b0879be444",
+    "DLC00070",
+    [
+      "applications"
+    ],
+    "Rebellion",
+    1614621082,
+    1614725035,
+    "",
     ""
   ],
   [
@@ -8237,6 +8300,19 @@
     "Focus Home",
     1589309560,
     1605535256,
+    "",
+    ""
+  ],
+  [
+    "2649ea40ecbd496d809f85544062f735",
+    "dfd2530e80e4425d801913b0879be444",
+    "DLC00076",
+    [
+      "applications"
+    ],
+    "Rebellion",
+    1614622673,
+    1614725035,
     "",
     ""
   ],
@@ -14413,7 +14489,7 @@
     ],
     "Terrible Posture Games, Inc.",
     1599602822,
-    1613579869,
+    1614706790,
     "",
     ""
   ],
@@ -16106,7 +16182,7 @@
     ],
     "Unit 2 Games",
     1612577791,
-    1612968962,
+    1614712317,
     "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_CraytaChampionEditionVol1_Unit2Games_Editions_S2-1200x1600-20a810cfd70f00b3f322da32c776df19.jpg",
     "crayta/champion-edition"
   ],
@@ -18826,6 +18902,22 @@
     ""
   ],
   [
+    "56f3a910b1c74a399df1f0388da11753",
+    "dd7c9906a9604b68af4ffe0405f51af5",
+    "Open Country",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "505 Games",
+    1614126513,
+    1614703957,
+    "https://cdn1.epicgames.com/dd7c9906a9604b68af4ffe0405f51af5/offer/Epic_OC1200x1600-1200x1600-355a886f2f63aa51541b239e2566a0a4.jpg",
+    "open-country"
+  ],
+  [
     "57001074e2cf4d048839e4a2ebb44d71",
     "angelonia",
     "Watch Dogs 2",
@@ -18856,6 +18948,19 @@
     1607615817,
     "https://cdn1.epicgames.com/sundrop/offer/HRO_Y4S4Premium_Store_Portrait_1200x1600-1200x1600-19339f746b4658c6ad09dfbf8edc1643.jpg",
     "for-honor/year-4-bundle-season-4"
+  ],
+  [
+    "57426ecd031e42aab4262f634c8e42d0",
+    "dfd2530e80e4425d801913b0879be444",
+    "DLC00064",
+    [
+      "applications"
+    ],
+    "Rebellion",
+    1614297648,
+    1614725035,
+    "",
+    ""
   ],
   [
     "574aede92f4745ab8b6638b17f8c2f1f",
@@ -20488,7 +20593,7 @@
     ],
     "Unit 2 Games",
     1605272900,
-    1614620156,
+    1614722206,
     "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_CraytaAlienConspiracyBattlePass_Unit2Games_AddOn_S2-1200x1600-4cae3c54b8d8f355fe7f7a0fa676c0ca.jpg",
     ""
   ],
@@ -21047,6 +21152,19 @@
     1589468400,
     "https://cdn1.epicgames.com/f7dc1618d0bd4810a61f50d44333900e/offer/EGS_SubsetGames_FTLFasterThanLight_IC2-128x128-128x128-6d5fa51a522cd712e87b7ede859d2229.png",
     "faster-than-light/home"
+  ],
+  [
+    "61bdbeffda774c1a8663375af6af19be",
+    "dfd2530e80e4425d801913b0879be444",
+    "DLC00078",
+    [
+      "applications"
+    ],
+    "Rebellion",
+    1614622745,
+    1614725035,
+    "",
+    ""
   ],
   [
     "61da4813b18248e1be0b9cd1c34ea312",
@@ -21803,6 +21921,19 @@
     "Wizards of the Coast",
     1572994980,
     1575668659,
+    "",
+    ""
+  ],
+  [
+    "652619abcf9a4bc69b50d449662df673",
+    "dfd2530e80e4425d801913b0879be444",
+    "DLC00069",
+    [
+      "applications"
+    ],
+    "Rebellion",
+    1614620977,
+    1614725035,
     "",
     ""
   ],
@@ -25559,6 +25690,19 @@
     "walking-dead-season-two/home"
   ],
   [
+    "774260049e2f491dabf810f7ed45ee78",
+    "dfd2530e80e4425d801913b0879be444",
+    "DLC00080",
+    [
+      "applications"
+    ],
+    "Rebellion",
+    1614623207,
+    1614725035,
+    "",
+    ""
+  ],
+  [
     "7748e3ecd63041ff96cd29c4d8238dbe",
     "9c7a70d78df948ddaf1b51722b16d6b8",
     "DevHemeraAudience",
@@ -25736,6 +25880,22 @@
     "dread-nautical/home"
   ],
   [
+    "78551ede85d5424ba1d28a5f549b5905",
+    "e65e11fc4aee4bb28c3bddf0b6d490bd",
+    "Monster Jam Steel Titans 2",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "THQ Nordic GmbH",
+    1613676096,
+    1614707662,
+    "https://cdn1.epicgames.com/e65e11fc4aee4bb28c3bddf0b6d490bd/offer/EGS_MonsterJamSteelTitans2_RainbowStudios_S2-1200x1600-47003425c734e1f616d48c3bd90a9f31.jpg",
+    "monster-jam-steel-titans-2"
+  ],
+  [
     "785b37a897c14ad589d2d5f79aaf372e",
     "917551a8060244469eb4e6ab8a99cf24",
     "Amnesia: The Dark Descent",
@@ -25897,6 +26057,22 @@
     1611670465,
     "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/SUelite-1200x1600-e0d775f1454a78c9dddfd49b39c0425e.jpg",
     "heroes-and-generals-wwii/su-elite-fireteam"
+  ],
+  [
+    "78ef30a57d9a4f7da54ff00dc257dd4c",
+    "4912067a5f4f4346b312aa226b2787ac",
+    "Might & Magic Heroes 3",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Ubisoft Entertainment",
+    1595628189,
+    1614784999,
+    "https://cdn1.epicgames.com/4912067a5f4f4346b312aa226b2787ac/offer/HEROES_III_COMPLETE_EPIC_Store_Portrait_1200x1600-1200x1600-4f4decb5338074c8b8a1ccc8902ee896.jpg",
+    "might-and-magic-heroes-3"
   ],
   [
     "790e8a7b05d24058b1df179ae28fa8fb",
@@ -28122,6 +28298,19 @@
     ""
   ],
   [
+    "84b00ed539bd468db131b3e25034c077",
+    "dfd2530e80e4425d801913b0879be444",
+    "DLC00072",
+    [
+      "applications"
+    ],
+    "Rebellion",
+    1614621164,
+    1614725035,
+    "",
+    ""
+  ],
+  [
     "84dd14288c424b5aa251e7ca4dd68183",
     "epic",
     "Spellbreak",
@@ -28926,6 +29115,19 @@
     ""
   ],
   [
+    "89063b260f2f43c78e22014125582e07",
+    "dfd2530e80e4425d801913b0879be444",
+    "DLC00068",
+    [
+      "applications"
+    ],
+    "Rebellion",
+    1614298917,
+    1614725035,
+    "",
+    ""
+  ],
+  [
     "890c5a23bc654a1f94993c7976b3baa2",
     "1e58a1653e6846d3a05cccb2ae5b7385",
     "Missile Command: Recharged",
@@ -29112,6 +29314,19 @@
     1558139897,
     1588120725,
     "https://cdn1.epicgames.com/cosmos/offer/CodeRedemption_Rune2-340x440-f08e22c1d9e2df849a51bbab19de7627-340x440-f08e22c1d9e2df849a51bbab19de7627.png",
+    ""
+  ],
+  [
+    "8a245db653604308aa2446d6d53a7234",
+    "dfd2530e80e4425d801913b0879be444",
+    "DLC00087",
+    [
+      "applications"
+    ],
+    "Rebellion",
+    1614623837,
+    1614725035,
+    "",
     ""
   ],
   [
@@ -29632,6 +29847,19 @@
     "shadowrun-returns/home"
   ],
   [
+    "8c681dbc881043468eaf93ad99c42fb7",
+    "dfd2530e80e4425d801913b0879be444",
+    "DLC00074",
+    [
+      "applications"
+    ],
+    "Rebellion",
+    1614622525,
+    1614725035,
+    "",
+    ""
+  ],
+  [
     "8c89e34e41c346e989631ffbeabefcd3",
     "fn",
     "400 V-Bucks (Comp)",
@@ -29761,6 +29989,19 @@
     "Paradox Interactive",
     1597706052,
     1598539379,
+    "",
+    ""
+  ],
+  [
+    "8d85ad21ccb74eb78b5b7ef850583f1e",
+    "dfd2530e80e4425d801913b0879be444",
+    "DLC00079",
+    [
+      "applications"
+    ],
+    "Rebellion",
+    1614623168,
+    1614725035,
     "",
     ""
   ],
@@ -30339,7 +30580,20 @@
     ],
     "Wargaming Group Limited",
     1614224153,
-    1614226603,
+    1614738996,
+    "",
+    ""
+  ],
+  [
+    "904f2b63606c436590f9b5b69bf06fe2",
+    "dfd2530e80e4425d801913b0879be444",
+    "DLC00071",
+    [
+      "applications"
+    ],
+    "Rebellion",
+    1614621128,
+    1614725035,
     "",
     ""
   ],
@@ -30929,6 +31183,19 @@
     "Wizards of the Coast",
     1573005559,
     1573053248,
+    "",
+    ""
+  ],
+  [
+    "9328ca0b6865454682f3fceef2e0f57f",
+    "dfd2530e80e4425d801913b0879be444",
+    "DLC00075",
+    [
+      "applications"
+    ],
+    "Rebellion",
+    1614622627,
+    1614725035,
     "",
     ""
   ],
@@ -32137,7 +32404,7 @@
     ],
     "Rebellion",
     1613433412,
-    1613433460,
+    1614725035,
     "",
     ""
   ],
@@ -33970,7 +34237,7 @@
     ],
     "Rebellion",
     1613433371,
-    1613433460,
+    1614725035,
     "",
     ""
   ],
@@ -34240,16 +34507,18 @@
   [
     "9fc33e99abf342138323856854e745ec",
     "b829cfd910554ad3ad2eb3b314e2b1ef",
-    "MooncakeGeneralAudience",
+    "3 out of 10: Season Two",
     [
       "games",
+      "games/edition",
+      "games/edition/base",
       "applications"
     ],
     "Terrible Posture Games, Inc.",
     1599602280,
-    1599606231,
-    "",
-    ""
+    1614706790,
+    "https://cdn1.epicgames.com/b829cfd910554ad3ad2eb3b314e2b1ef/offer/EGS_3outof10SeasonTwo_TerriblePostureGamesInc_S2-1200x1600-0526ebb8c316a36e20e97271782bd31d.jpg",
+    "3-out-of-10-season-2"
   ],
   [
     "9fd5168913d04eb2b9afdd722cfe7929",
@@ -35566,8 +35835,8 @@
     ],
     "Brace Yourself Games",
     1552886727,
-    1612297224,
-    "https://cdn1.epicgames.com/protea/offer/IoT_TT8_EGS_Library Tile Portrait_29433f-1200x1600-f160f481f01395e6c8c558051a1d8e9a.jpg",
+    1614726484,
+    "https://cdn1.epicgames.com/protea/offer/IoT_TT4_EGS_Library Tile Portrait_00000-1200x1600-36ae8d56a496436b142e84a14c0c5038.jpg",
     "industries-of-titan"
   ],
   [
@@ -36157,6 +36426,19 @@
     1607501534,
     1611527558,
     "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/offer/precursor tall-1200x1600-cf4ae4785ee0cda704b768a641ff0786.jpeg",
+    ""
+  ],
+  [
+    "a829204e321642c79e2e10ef3a40deb5",
+    "dfd2530e80e4425d801913b0879be444",
+    "DLC00065",
+    [
+      "applications"
+    ],
+    "Rebellion",
+    1614297931,
+    1614725035,
+    "",
     ""
   ],
   [
@@ -37826,6 +38108,22 @@
     ""
   ],
   [
+    "afded2bee4b4421981e30547bfe30636",
+    "c9e311e119034b25a02ed1ebfdffc0d1",
+    "Anno 2070: Complete Edition",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Ubisoft Entertainment",
+    1578930558,
+    1614785041,
+    "https://cdn1.epicgames.com/c9e311e119034b25a02ed1ebfdffc0d1/offer/AN70_UCS15626_Store_Portrait_1200x1600-1200x1600-3df317740f7b1aea3d0a7cfc7d53660f.jpg",
+    "anno-2070"
+  ],
+  [
     "afe30d1ebc664482b74afc7087fab321",
     "epic",
     "Layers of Fear",
@@ -37890,12 +38188,11 @@
     "84c76746bce94effb8e1047fabfd7eb7",
     "Limited 2,500 Doubloons",
     [
-      "games",
       "applications"
     ],
     "Wargaming Group Limited",
     1614223853,
-    1614226677,
+    1614738926,
     "",
     ""
   ],
@@ -40438,6 +40735,19 @@
     "back-4-blood/deluxe-edition"
   ],
   [
+    "be0f224d899a49a3a695f177939476aa",
+    "dfd2530e80e4425d801913b0879be444",
+    "DLC00086",
+    [
+      "applications"
+    ],
+    "Rebellion",
+    1614623802,
+    1614725035,
+    "",
+    ""
+  ],
+  [
     "be188e672dde452d9e517e5782e93f97",
     "epic",
     "Operencia: The Stolen Sun",
@@ -40460,7 +40770,7 @@
     ],
     "Terrible Posture Games, Inc.",
     1599602280,
-    1599606231,
+    1614706790,
     "",
     ""
   ],
@@ -41006,6 +41316,19 @@
     1597337615,
     1599482657,
     "https://cdn1.epicgames.com/newt/offer/EGS_MagePack_ProletariatInc_DLC_S2-1200x1600-82261547563bf9062ec41dc258f76a30.jpg",
+    ""
+  ],
+  [
+    "c085bc0f06a14122b4f057c8378abdee",
+    "dfd2530e80e4425d801913b0879be444",
+    "DLC00066",
+    [
+      "applications"
+    ],
+    "Rebellion",
+    1614298419,
+    1614725035,
+    "",
     ""
   ],
   [
@@ -43623,6 +43946,19 @@
     "steep/road-to-the-olympics-dlc"
   ],
   [
+    "cda0def6b0844b82935a5f154e849077",
+    "dfd2530e80e4425d801913b0879be444",
+    "DLC00067",
+    [
+      "applications"
+    ],
+    "Rebellion",
+    1614298652,
+    1614725036,
+    "",
+    ""
+  ],
+  [
     "cdc5562e7d9842b1af2d7b64c0a9090b",
     "cbbb7e8728a3476f97e44f3856c3cb13",
     "Anno 2205 Season Pass",
@@ -44263,6 +44599,19 @@
     "falcon-age"
   ],
   [
+    "d17b251945024889b63f2885d1a8a61c",
+    "dfd2530e80e4425d801913b0879be444",
+    "DLC00088",
+    [
+      "applications"
+    ],
+    "Rebellion",
+    1614623876,
+    1614725036,
+    "",
+    ""
+  ],
+  [
     "d17ece98ed784a5ebbf178af73534cb3",
     "dfd2530e80e4425d801913b0879be444",
     "Solid Gold Weapon Skins",
@@ -44835,7 +45184,7 @@
     ],
     "Unit 2 Games",
     1612577307,
-    1612968962,
+    1614712262,
     "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_CraytaStarterEdition_Unit2Games_S2-1200x1600-9d74e509e07a02ed9007ec5e5696544b.jpg",
     "crayta"
   ],
@@ -45389,6 +45738,21 @@
     1608084706,
     1608909135,
     "https://cdn1.epicgames.com/21916c391ae4425d8f6cce2382aebd0c/offer/EGS_DarkestDungeonTheCrimsonCourt_RedHookStudios_DLC_S2-1200x1600-cb84bdd5422b9ed018a4cea5e43c4ec8.jpg",
+    ""
+  ],
+  [
+    "d76971a8aa7a4ef8841c334be54766ea",
+    "e65e11fc4aee4bb28c3bddf0b6d490bd",
+    "Inverse Truck Pack",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "THQ Nordic GmbH",
+    1613682934,
+    1614707135,
+    "https://cdn1.epicgames.com/e65e11fc4aee4bb28c3bddf0b6d490bd/offer/EGS_MonsterJamSteelTitans2InverseTruckPack_RainbowStudios_DLC_S2-1200x1600-6bcf38e4663d989afe05abfede8d156e.jpg",
     ""
   ],
   [
@@ -46204,7 +46568,7 @@
     ],
     "Digital Extremes",
     1613507206,
-    1614106949,
+    1614724447,
     "https://cdn1.epicgames.com/244aaaa06bfa49d088205b13b9d2d115/offer/octavia.2-1200x1600-042ebb637793e6908bd8de66e8fa0550.jpg",
     ""
   ],
@@ -48888,7 +49252,7 @@
     ],
     "Unit 2 Games",
     1612578126,
-    1612968962,
+    1614712295,
     "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_CraytaDeluxeEdition_Unit2Games_Editions_S2-1200x1600-e6113564d2b0b478b4d25160594fa6dd.jpg",
     "crayta/deluxe-edition"
   ],
@@ -49390,7 +49754,7 @@
     ],
     "RockGame S.A.",
     1613668181,
-    1614114338,
+    1614785155,
     "https://cdn1.epicgames.com/c1edd23d035a4df0bbc419f2d0fbb40d/offer/egs-scrapnaut-spiffybit-s2-1200x1600-c122d37a048e-1200x1600-7ee87251c36a90ed724dfa50e6aa29f7.jpg",
     "scrapnaut"
   ],
@@ -49863,6 +50227,19 @@
     1610398267,
     1612331436,
     "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo-EGS-RogueEdition-Portrait_Offer_1200x1600-1200x1600-32e60e78b0578a4e5ba2453f292a6b5f.jpg",
+    ""
+  ],
+  [
+    "ea39b7efd5cc4482a80c16dafce4c766",
+    "dfd2530e80e4425d801913b0879be444",
+    "DLC00081",
+    [
+      "applications"
+    ],
+    "Rebellion",
+    1614623242,
+    1614725036,
+    "",
     ""
   ],
   [
@@ -51942,6 +52319,19 @@
     "a-short-hike/home"
   ],
   [
+    "f4189ef2bd154a7697471745950b43b7",
+    "dfd2530e80e4425d801913b0879be444",
+    "DLC00077",
+    [
+      "applications"
+    ],
+    "Rebellion",
+    1614622713,
+    1614725036,
+    "",
+    ""
+  ],
+  [
     "f439385855384d039b3c0827502fd51e",
     "84c76746bce94effb8e1047fabfd7eb7",
     "Offer of the Month",
@@ -53899,6 +54289,19 @@
     "Epic Dev Test Account",
     1568311813,
     1578333127,
+    "",
+    ""
+  ],
+  [
+    "fd55ba6d1be646d7b7b09c59d98a2fc2",
+    "dfd2530e80e4425d801913b0879be444",
+    "DLC00084",
+    [
+      "applications"
+    ],
+    "Rebellion",
+    1614623727,
+    1614725036,
     "",
     ""
   ],

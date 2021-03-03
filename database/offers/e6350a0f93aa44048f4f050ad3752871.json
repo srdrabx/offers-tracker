@@ -8,7 +8,7 @@
   "productSlug": "crayta/deluxe-edition",
   "urlSlug": "pikespeak--prepurchase-deluxe-edition",
   "creationDate": "2021-02-06T02:22:06.570Z",
-  "lastModifiedDate": "2021-02-10T14:56:02.368Z",
+  "lastModifiedDate": "2021-03-02T19:11:35.468Z",
   "effectiveDate": "2021-02-10T15:00:00.000Z",
   "viewableDate": "2021-02-10T15:00:00.000Z",
   "developer": null,
@@ -51,7 +51,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR"
+      "value": "KR,JP,CN"
     },
     {
       "key": "publisherName",
