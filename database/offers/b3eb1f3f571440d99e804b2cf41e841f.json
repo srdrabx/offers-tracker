@@ -8,9 +8,9 @@
   "productSlug": null,
   "urlSlug": "wargame-red-dragon--nation-pack-netherlands",
   "creationDate": "2020-10-15T16:23:39.389Z",
-  "lastModifiedDate": "2020-10-29T14:26:21.536Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2021-03-04T15:50:47.507Z",
+  "effectiveDate": "2021-03-04T16:00:00.000Z",
+  "viewableDate": "2021-03-04T16:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-dcl7pwxvcjx2f42g8sexmmbwjcx44t",
@@ -25,7 +25,10 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
     },
     {
       "path": "applications"
@@ -46,7 +49,62 @@
       "value": "Eugen Systems"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/d66c34349a054c3ea529726a5687520e/offer/EGS_WargameRedDragonNationPackNetherlands_EugenSystems_DLC_S1-2560x1440-300f7ef2c4b0f994757eddac0c1d7b8b.jpg",
+      "md5": "300f7ef2c4b0f994757eddac0c1d7b8b",
+      "size": 945614,
+      "uploadedDate": "2021-03-02T01:19:03.267Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/d66c34349a054c3ea529726a5687520e/offer/EGS_WargameRedDragonNationPackNetherlands_EugenSystems_DLC_S2-1200x1600-33b48620fe2fe3b6ea4a2ff26eb69a5c.jpg",
+      "md5": "33b48620fe2fe3b6ea4a2ff26eb69a5c",
+      "size": 925201,
+      "uploadedDate": "2021-03-02T01:19:10.386Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/d66c34349a054c3ea529726a5687520e/offer/EGS_WargameRedDragonNationPackNetherlands_EugenSystems_DLC_S2-1200x1600-33b48620fe2fe3b6ea4a2ff26eb69a5c.jpg",
+      "md5": "33b48620fe2fe3b6ea4a2ff26eb69a5c",
+      "size": 925201,
+      "uploadedDate": "2021-03-02T01:19:17.872Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/d66c34349a054c3ea529726a5687520e/offer/EGS_WargameRedDragonNationPackNetherlands_EugenSystems_DLC_S2-1200x1600-33b48620fe2fe3b6ea4a2ff26eb69a5c.jpg",
+      "md5": "33b48620fe2fe3b6ea4a2ff26eb69a5c",
+      "size": 925201,
+      "uploadedDate": "2021-03-02T01:19:23.807Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/d66c34349a054c3ea529726a5687520e/offer/EGS_WargameRedDragonNationPackNetherlands_EugenSystems_DLC_S1-2560x1440-300f7ef2c4b0f994757eddac0c1d7b8b.jpg",
+      "md5": "300f7ef2c4b0f994757eddac0c1d7b8b",
+      "size": 945614,
+      "uploadedDate": "2021-03-02T01:19:36.007Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/d66c34349a054c3ea529726a5687520e/offer/EGS_WargameRedDragonNationPackNetherlands_EugenSystems_DLC_S2-1200x1600-33b48620fe2fe3b6ea4a2ff26eb69a5c.jpg",
+      "md5": "33b48620fe2fe3b6ea4a2ff26eb69a5c",
+      "size": 925201,
+      "uploadedDate": "2021-03-02T01:19:44.971Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "8e076342c74742b8b56db1866d6a1d53"

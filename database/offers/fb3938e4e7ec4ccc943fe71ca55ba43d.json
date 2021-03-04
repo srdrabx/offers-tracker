@@ -1,0 +1,135 @@
+{
+  "id": "fb3938e4e7ec4ccc943fe71ca55ba43d",
+  "namespace": "dfd2530e80e4425d801913b0879be444",
+  "title": "Sparrow Season Pass 3 Audience",
+  "description": "Sparrow Season Pass 3 Audience",
+  "longDescription": "Sparrow Season Pass 3 Audience",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "zombie-army-4-dead-war--season-pass-03",
+  "creationDate": "2021-03-03T18:58:09.727Z",
+  "lastModifiedDate": "2021-03-03T18:58:09.727Z",
+  "effectiveDate": "2099-01-04T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+    "name": "Rebellion"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2021-02-10T17:36:19.203Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1218",
+      "name": "Horror",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:06.599Z",
+      "updated": "2021-02-10T17:14:06.043Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2021-02-10T17:35:33.537Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1210",
+      "name": "Shooter",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2021-02-10T17:34:46.127Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1279",
+      "name": "Vampire",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:37.207Z",
+      "updated": "2021-02-05T16:12:54.271Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Rebellion"
+    },
+    {
+      "key": "developerName",
+      "value": "Rebellion"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+      "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+      "size": 109719,
+      "uploadedDate": "2020-05-05T14:37:11.413Z",
+      "width": 842,
+      "height": 485
+    }
+  ],
+  "items": [
+    {
+      "id": "487e4ee46f7441bd9faea37c7efba6dd"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,90 @@
+{
+  "id": "1ee008d8a3774f19896c12f2f9a8bdb4",
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "title": "Armory Season Pass",
+  "description": "The first armory season pass for Killing Floor 2, provides an all-access pass to the full collection of available weapons DLC including all upcoming 2021 weapons to be released throughout the year.",
+  "longDescription": "The first armory season pass for Killing Floor 2, provides an all-access pass to the full collection of available weapons DLC including all upcoming 2021 weapons to be released throughout the year.  Offers a bulk discount compared to buying them individually.\n\nDay One purchase of the pass includes 11 weapon bundles :\n- Ion Thruster Weapon Bundle,\n- Rhino Revolver Weapon Bundle,\n- Mosin Nagant Weapon Bundle,\n- Riot Shield & Glock 18 Weapon Bundle, \n- Compound Bow Weapon Bundle, \n- Blunderbuss Weapon Bundle,\n- Single & Dual Glock 18c Weapon Bundle,\n- Minigun Weapon Bundle,\n- Mine Reconstructor Weapon Bundle,\n- Frost Fang Weapon Bundle,\n- and the brand new Gravity Imploder Weapon Bundle released with the Spring 2021 Update!\n\nThe Killing Floor 2 Armory Season Pass also include access to the next 5 \nWeapon Bundles scheduled as follows:\n- 2 Weapons for Summer 2021\n- 2 Weapons for Fall 2021\n- 1 Weapon for WInter 2021\n\nEach weapon bundle comes with 5 unique skin variants. Expand your repertoire of Zed descrution today!",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "armory-season-pass",
+  "creationDate": "2021-01-26T02:30:59.527Z",
+  "lastModifiedDate": "2021-01-26T02:55:27.271Z",
+  "effectiveDate": "2099-12-31T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+    "name": "Tripwire Interactive"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Tripwire Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "{}"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
+      "md5": "3871a312bd2800d12a24e3498b1018c8",
+      "size": 673242,
+      "uploadedDate": "2020-04-24T18:11:43.447Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_2560x1440-2560x1440-644173a0251b030bd2612e8f33b800d5.jpg",
+      "md5": "644173a0251b030bd2612e8f33b800d5",
+      "size": 2243509,
+      "uploadedDate": "2020-04-24T18:11:58.413Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
+      "md5": "3871a312bd2800d12a24e3498b1018c8",
+      "size": 673242,
+      "uploadedDate": "2020-04-24T18:13:31.394Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
+      "md5": "3871a312bd2800d12a24e3498b1018c8",
+      "size": 673242,
+      "uploadedDate": "2020-04-24T18:13:44.643Z",
+      "width": 860,
+      "height": 1148
+    }
+  ],
+  "items": [
+    {
+      "id": "1b5af7433b4244e698b6bbe3d8047347"
+    }
+  ],
+  "catalogNs": null
+}

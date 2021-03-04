@@ -1,12 +1,12 @@
 {
   "id": "036fb10545a74dfcb2fb791485f45711",
   "namespace": "b6b2ef0cc19a4adaaa1cf6c7ed000dfa",
-  "title": "Godfall Pre-Order Content",
+  "title": "Godfall Pre-Purchase Contents",
   "description": "Starter Pack: Get off to a headstart with a selection of empowering items!",
   "longDescription": "Starter Pack: Get off to a headstart with a selection of empowering items\nChrome Valorplate skins for Silvermane, Phoenix, and Greyhawk\nZer0’s Sword Longsword: \nUnleash the blade of a master assassin from another universe\"\nYellow Valorplate skin for Typhon",
   "status": "ACTIVE",
-  "productSlug": "godfall/pre-order-content",
-  "urlSlug": "godfall--pre-order-content",
+  "productSlug": null,
+  "urlSlug": "godfall--pre-purchase-contents",
   "creationDate": "2020-10-26T19:17:22.107Z",
   "lastModifiedDate": "2020-11-19T20:53:11.775Z",
   "effectiveDate": "2020-11-19T21:00:00.000Z",
@@ -96,10 +96,6 @@
     {
       "key": "developerName",
       "value": "Counterplay Games"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "godfall/pre-order-content"
     }
   ],
   "keyImages": [

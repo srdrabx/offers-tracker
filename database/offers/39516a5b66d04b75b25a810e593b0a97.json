@@ -25,6 +25,9 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "freegames"
+    },
+    {
       "path": "games"
     },
     {

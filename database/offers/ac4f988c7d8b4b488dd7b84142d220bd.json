@@ -1,0 +1,73 @@
+{
+  "id": "ac4f988c7d8b4b488dd7b84142d220bd",
+  "namespace": "e8882546f28e4832af823c646aed232e",
+  "title": "Interdimensional",
+  "description": "Interdimensional",
+  "longDescription": "# About this DLC \n\nTBC",
+  "status": "ACTIVE",
+  "productSlug": "offworld-trading-company/interdimensional",
+  "urlSlug": "offworld-trading-company--interdimensional",
+  "creationDate": "2020-11-18T21:28:58.185Z",
+  "lastModifiedDate": "2020-11-18T21:43:50.765Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": "2099-01-01T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+    "name": "Stardock Entertainment, Inc"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "offworld-trading-company/interdimensional"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "f71eb32ee77648feb69b866653c50076"
+    }
+  ],
+  "catalogNs": null
+}

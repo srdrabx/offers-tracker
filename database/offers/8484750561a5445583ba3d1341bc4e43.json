@@ -8,9 +8,9 @@
   "productSlug": null,
   "urlSlug": "wargame-red-dragon--double-nation-pack-reds",
   "creationDate": "2020-10-15T16:30:54.803Z",
-  "lastModifiedDate": "2020-10-29T14:26:21.518Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2021-03-04T15:50:47.466Z",
+  "effectiveDate": "2021-03-04T16:00:00.000Z",
+  "viewableDate": "2021-03-04T16:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-dcl7pwxvcjx2f42g8sexmmbwjcx44t",
@@ -25,7 +25,10 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
     },
     {
       "path": "applications"
@@ -46,7 +49,62 @@
       "value": "Eugen Systems"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/d66c34349a054c3ea529726a5687520e/offer/EGS_WargameRedDragonDoubleNationPackREDS_EugenSystems_DLC_S1-2560x1440-925e9ef03d33adaccf91cc2d37169b0c.jpg",
+      "md5": "925e9ef03d33adaccf91cc2d37169b0c",
+      "size": 914457,
+      "uploadedDate": "2021-03-02T01:20:16.115Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/d66c34349a054c3ea529726a5687520e/offer/EGS_WargameRedDragonDoubleNationPackREDS_EugenSystems_DLC_S2-1200x1600-d6800222f6496518c137255cde96ccf2.jpg",
+      "md5": "d6800222f6496518c137255cde96ccf2",
+      "size": 495979,
+      "uploadedDate": "2021-03-02T01:20:23.818Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/d66c34349a054c3ea529726a5687520e/offer/EGS_WargameRedDragonDoubleNationPackREDS_EugenSystems_DLC_S2-1200x1600-d6800222f6496518c137255cde96ccf2.jpg",
+      "md5": "d6800222f6496518c137255cde96ccf2",
+      "size": 495979,
+      "uploadedDate": "2021-03-02T01:20:33.052Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/d66c34349a054c3ea529726a5687520e/offer/EGS_WargameRedDragonDoubleNationPackREDS_EugenSystems_DLC_S2-1200x1600-d6800222f6496518c137255cde96ccf2.jpg",
+      "md5": "d6800222f6496518c137255cde96ccf2",
+      "size": 495979,
+      "uploadedDate": "2021-03-02T01:20:42.338Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/d66c34349a054c3ea529726a5687520e/offer/EGS_WargameRedDragonDoubleNationPackREDS_EugenSystems_DLC_S1-2560x1440-925e9ef03d33adaccf91cc2d37169b0c.jpg",
+      "md5": "925e9ef03d33adaccf91cc2d37169b0c",
+      "size": 914457,
+      "uploadedDate": "2021-03-02T01:20:50.358Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/d66c34349a054c3ea529726a5687520e/offer/EGS_WargameRedDragonDoubleNationPackREDS_EugenSystems_DLC_S2-1200x1600-d6800222f6496518c137255cde96ccf2.jpg",
+      "md5": "d6800222f6496518c137255cde96ccf2",
+      "size": 495979,
+      "uploadedDate": "2021-03-02T01:21:05.349Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "61ec585351b748f98b2ce0875b99eab5"

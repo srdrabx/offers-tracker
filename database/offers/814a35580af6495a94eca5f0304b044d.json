@@ -1,0 +1,56 @@
+{
+  "id": "814a35580af6495a94eca5f0304b044d",
+  "namespace": "ab2f9078bcb04065a5c6c2fede9cb3b0",
+  "title": "MtAugustaGeneralAudience",
+  "description": "MtAugustaGeneralAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "mtaugustageneralaudience",
+  "creationDate": "2020-11-11T23:19:06.274Z",
+  "lastModifiedDate": "2021-01-29T21:18:43.457Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": "2099-01-01T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-wc3gy6s683brl6424p7kqlrldhy7vd",
+    "name": "Beamdog"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "12bfc258dc1743cc9f19164266f5a3ae"
+    }
+  ],
+  "catalogNs": null
+}

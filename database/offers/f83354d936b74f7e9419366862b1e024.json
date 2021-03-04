@@ -8,7 +8,7 @@
   "productSlug": "oddworld-soulstorm",
   "urlSlug": "larkgeneralaudience",
   "creationDate": "2019-08-15T17:00:00.365Z",
-  "lastModifiedDate": "2021-01-04T18:02:18.404Z",
+  "lastModifiedDate": "2021-02-12T23:30:57.645Z",
   "effectiveDate": "2050-01-04T16:00:00.000Z",
   "viewableDate": "2050-01-04T16:00:00.000Z",
   "developer": null,
@@ -40,60 +40,60 @@
   "tags": [
     {
       "id": "1216",
-      "name": "ACTION",
+      "name": "Action",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2020-12-15T01:46:14.061Z",
+      "updated": "2021-02-10T17:36:19.203Z",
       "status": "ACTIVE",
       "referenceCount": 110,
       "comment": null
     },
     {
       "id": "1298",
-      "name": "PUZZLE",
+      "name": "Puzzle",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:46.616Z",
-      "updated": "2020-12-15T01:47:26.504Z",
+      "updated": "2021-02-10T17:34:06.225Z",
       "status": "ACTIVE",
       "referenceCount": 27,
       "comment": null
     },
     {
       "id": "1370",
-      "name": "SINGLEPLAYER",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-12-15T01:43:50.926Z",
+      "updated": "2021-02-10T17:36:35.389Z",
       "status": "ACTIVE",
       "referenceCount": 195,
       "comment": null
     },
     {
       "id": "9547",
-      "name": "WINDOWS",
+      "name": "Windows",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-12-15T01:43:02.751Z",
+      "updated": "2021-02-05T16:07:21.852Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
     },
     {
       "id": "1151",
-      "name": "PLATFORMER",
+      "name": "Platformer",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:33.743Z",
-      "updated": "2020-12-15T01:48:27.201Z",
+      "updated": "2021-02-10T17:14:16.761Z",
       "status": "ACTIVE",
       "referenceCount": 14,
       "comment": null
@@ -102,7 +102,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "CN"
     },
     {
       "key": "publisherName",

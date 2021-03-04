@@ -1,16 +1,16 @@
 {
   "id": "6e74cc0851a641b8b317cdc743fc6e1d",
   "namespace": "0114ea1a5d674c6b8c99015e6c994aff",
-  "title": "RutheniumGeneralAudience",
-  "description": "RutheniumGeneralAudience",
+  "title": "Star Renegades",
+  "description": "Star Renegades",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
+  "productSlug": "star-renegades",
   "urlSlug": "rutheniumgeneralaudience",
   "creationDate": "2021-02-22T20:20:19.615Z",
-  "lastModifiedDate": "2021-02-22T20:40:42.143Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2021-03-04T15:23:42.434Z",
+  "effectiveDate": "2021-03-04T16:00:00.000Z",
+  "viewableDate": "2021-03-04T16:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
@@ -28,25 +28,163 @@
       "path": "games"
     },
     {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-12-15T01:46:33.012Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "Strategy",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2021-02-10T17:35:11.878Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2021-02-10T17:36:06.452Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2021-02-10T17:35:19.827Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "KR"
     },
     {
       "key": "publisherName",
-      "value": "[]"
+      "value": "Raw Fury"
     },
     {
       "key": "developerName",
-      "value": "[]"
+      "value": "Massive Damage, Inc."
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "star-renegades"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/0114ea1a5d674c6b8c99015e6c994aff/offer/EGS_StarRenegades_MassiveDamageInc_S1-2560x1440-78ba910841e75e4cc0323ecfcc8ccc26.jpg",
+      "md5": "78ba910841e75e4cc0323ecfcc8ccc26",
+      "size": 1007685,
+      "uploadedDate": "2021-03-04T15:05:41.008Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/0114ea1a5d674c6b8c99015e6c994aff/offer/EGS_StarRenegades_MassiveDamageInc_S2-1200x1600-74ebfd5e2e4d4a9c48ea41b9d3e14047.jpg",
+      "md5": "74ebfd5e2e4d4a9c48ea41b9d3e14047",
+      "size": 1017036,
+      "uploadedDate": "2021-03-04T15:05:48.704Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/0114ea1a5d674c6b8c99015e6c994aff/offer/EGS_StarRenegades_MassiveDamageInc_S2-1200x1600-74ebfd5e2e4d4a9c48ea41b9d3e14047.jpg",
+      "md5": "74ebfd5e2e4d4a9c48ea41b9d3e14047",
+      "size": 1017036,
+      "uploadedDate": "2021-03-04T15:06:00.118Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/0114ea1a5d674c6b8c99015e6c994aff/offer/EGS_StarRenegades_MassiveDamageInc_S2-1200x1600-74ebfd5e2e4d4a9c48ea41b9d3e14047.jpg",
+      "md5": "74ebfd5e2e4d4a9c48ea41b9d3e14047",
+      "size": 1017036,
+      "uploadedDate": "2021-03-04T15:06:14.331Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/0114ea1a5d674c6b8c99015e6c994aff/offer/EGS_StarRenegades_MassiveDamageInc_S1-2560x1440-78ba910841e75e4cc0323ecfcc8ccc26.jpg",
+      "md5": "78ba910841e75e4cc0323ecfcc8ccc26",
+      "size": 1007685,
+      "uploadedDate": "2021-03-04T15:06:28.466Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/0114ea1a5d674c6b8c99015e6c994aff/offer/EGS_StarRenegades_MassiveDamageInc_S2-1200x1600-74ebfd5e2e4d4a9c48ea41b9d3e14047.jpg",
+      "md5": "74ebfd5e2e4d4a9c48ea41b9d3e14047",
+      "size": 1017036,
+      "uploadedDate": "2021-03-04T15:06:37.464Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "832e1a8ee04e4dee9d529c1465dbc1c5"

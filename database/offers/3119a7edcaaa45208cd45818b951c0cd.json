@@ -8,9 +8,9 @@
   "productSlug": "the-life-and-suffering-of-sir-brante",
   "urlSlug": "thalliumgeneralaudience",
   "creationDate": "2021-02-08T00:38:17.168Z",
-  "lastModifiedDate": "2021-02-16T18:06:06.903Z",
-  "effectiveDate": "2099-12-31T13:00:00.000Z",
-  "viewableDate": "2021-02-09T12:40:00.000Z",
+  "lastModifiedDate": "2021-03-04T12:37:30.432Z",
+  "effectiveDate": "2021-03-04T13:00:00.000Z",
+  "viewableDate": "2021-03-04T13:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-8kptgx6fhwgfv38jl63mrfstuvljre",
@@ -28,10 +28,10 @@
       "path": "games"
     },
     {
-      "path": "games/edition/base"
+      "path": "games/edition"
     },
     {
-      "path": "games/edition"
+      "path": "games/edition/base"
     },
     {
       "path": "applications"
@@ -100,10 +100,6 @@
     }
   ],
   "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "KR"
-    },
     {
       "key": "publisherName",
       "value": "101XP"

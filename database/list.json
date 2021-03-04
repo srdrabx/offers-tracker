@@ -622,7 +622,7 @@
   [
     "036fb10545a74dfcb2fb791485f45711",
     "b6b2ef0cc19a4adaaa1cf6c7ed000dfa",
-    "Godfall Pre-Order Content",
+    "Godfall Pre-Purchase Contents",
     [
       "addons",
       "addons/durable",
@@ -632,7 +632,7 @@
     1603739842,
     1605819191,
     "https://cdn1.epicgames.com/b6b2ef0cc19a4adaaa1cf6c7ed000dfa/offer/Godfall_Tall-1200x1600-ebfebb142ab90bddf35934f0f2ff707e.jpg",
-    "godfall/pre-order-content"
+    ""
   ],
   [
     "0394bcc34ee54c13bf1d84590c11fd18",
@@ -986,8 +986,8 @@
     ],
     "Ubisoft Entertainment",
     1575649107,
-    1614265196,
-    "https://cdn1.epicgames.com/oregano/offer/ANNO_Epic_FWE_Portrait_1200x1600-1200x1600-df01914dc01425f1836605299d17d8f4.png",
+    1614628733,
+    "",
     "anno-1800/free-trial"
   ],
   [
@@ -1643,13 +1643,14 @@
     "d66c34349a054c3ea529726a5687520e",
     "Wargame: Red Dragon - Nation Pack: Israel",
     [
-      "games",
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Eugen Systems",
     1602778922,
-    1603981581,
-    "",
+    1614873047,
+    "https://cdn1.epicgames.com/d66c34349a054c3ea529726a5687520e/offer/EGS_WargameRedDragonNationPackIsrael_EugenSystems_DLC_S2-1200x1600-7c35ab8da7b9fd35d412e2443a1df805.jpg",
     ""
   ],
   [
@@ -4261,6 +4262,19 @@
     ""
   ],
   [
+    "136cbaaa52a44d57a0ee405690787cce",
+    "affc33b82405457595a032f00284abd2",
+    "Dystopian Devastation Full Gear Bundle",
+    [
+      "applications"
+    ],
+    "Tripwire Interactive",
+    1611552719,
+    1611553908,
+    "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
+    ""
+  ],
+  [
     "136f52a60c474fa0b9ca07ceff377eac",
     "30bf97ae13f74c3d87c9f3fe04d507ba",
     "Dread Nautical Wallpaper",
@@ -6136,6 +6150,22 @@
     ""
   ],
   [
+    "1c27856d15bc466fb60e84d6ecab790e",
+    "b2192c4b00db40fe8848b3be6753cfd5",
+    "Primordials: Battle of Gods",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "WIREGAMES d.o.o.",
+    1614292142,
+    1614872822,
+    "https://cdn1.epicgames.com/b2192c4b00db40fe8848b3be6753cfd5/offer/pbog_keyart_315x399-315x399-a5853d2902b2a6524a52a14dccf1921c.png",
+    "primordials-battle-of-gods"
+  ],
+  [
     "1c2cc5ef7619434bb58f9d92ef3f1b67",
     "e8882546f28e4832af823c646aed232e",
     "Offworld Trading Company: Soundtrack DLC",
@@ -6278,18 +6308,15 @@
   [
     "1cf67a153019404fb0380c412a074c9d",
     "456d95ca54814c8d98db2f52346ff5de",
-    "The Dungeon of Naheulbeuk Goodies Pack",
+    "Naheulbeuk DLC 1",
     [
-      "addons",
-      "games",
-      "addons/durable",
       "applications"
     ],
     "Plug In Digital SAS",
     1598021471,
-    1600352325,
-    "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/offer/EGS_GoodiesPack_ArtefactsStudio_DigitalExtras_G1A_001-1200x1600-b90bdf1108b69cb3f8ac472fdb5ed988.jpg",
-    "the-dungeon-of-naheulbeuk/goodies-pack"
+    1614022869,
+    "",
+    "[]"
   ],
   [
     "1cfc48130fc94c5080bd9de0e703ef80",
@@ -6524,9 +6551,9 @@
       "games",
       "applications"
     ],
-    "Square Enix Japan",
+    "Square Enix (Japan)",
     1606767439,
-    1606767753,
+    1613573865,
     "",
     ""
   ],
@@ -6692,6 +6719,22 @@
     ""
   ],
   [
+    "1e592550b7bd4f4daa8aefa3bfc3c62e",
+    "45bd0f6fc2704e22a3c1933f7bb972bf",
+    "The Life and Suffering of Sir Brante Artbook + OST",
+    [
+      "digitalextras/book",
+      "digitalextras",
+      "digitalextras/soundtrack",
+      "applications"
+    ],
+    "101XP Limited",
+    1614704830,
+    1614861450,
+    "https://cdn1.epicgames.com/45bd0f6fc2704e22a3c1933f7bb972bf/offer/EGS_TheLifeandSufferingofSirBranteArtbookOST_Sever_DigitalExtras_S2-1200x1600-06beede908bd1dc03f18bec5693e7cff.jpg",
+    ""
+  ],
+  [
     "1e6c33bd3dc742c8b224a9dc6958660e",
     "6504cc61472e498796e0b4963a201438",
     "The Outlast Trials",
@@ -6772,6 +6815,19 @@
     1588120702,
     "",
     "torchlight/home"
+  ],
+  [
+    "1ee008d8a3774f19896c12f2f9a8bdb4",
+    "affc33b82405457595a032f00284abd2",
+    "Armory Season Pass",
+    [
+      "applications"
+    ],
+    "Tripwire Interactive",
+    1611628259,
+    1611629727,
+    "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
+    ""
   ],
   [
     "1ee576cd98ef4f86bb0e6c0941f5991d",
@@ -9964,6 +10020,21 @@
     "snowrunner/season-pass"
   ],
   [
+    "2e9e491744c9473d9799547ab8dbb6a4",
+    "0114ea1a5d674c6b8c99015e6c994aff",
+    "Star Renegades Original Soundtrack",
+    [
+      "digitalextras",
+      "digitalextras/soundtrack",
+      "applications"
+    ],
+    "Raw Fury",
+    1614192906,
+    1614872271,
+    "https://cdn1.epicgames.com/0114ea1a5d674c6b8c99015e6c994aff/offer/OST-1200x1600-9d261d58d1c8b5472f5096cbc972c2d7.jpg",
+    ""
+  ],
+  [
     "2ea98e51e72b4d4f887a3447e3f2ccc1",
     "fb06f4b5bc25417cbe7c6217cf069649",
     "Mafia: Trilogy",
@@ -10632,13 +10703,13 @@
     "The Life and Suffering of Sir Brante",
     [
       "games",
-      "games/edition/base",
       "games/edition",
+      "games/edition/base",
       "applications"
     ],
     "101XP Limited",
     1612744697,
-    1613498766,
+    1614861450,
     "https://cdn1.epicgames.com/45bd0f6fc2704e22a3c1933f7bb972bf/offer/EGS_TheLifeandSufferingofSirBrante_Sever_S2-1200x1600-06beede908bd1dc03f18bec5693e7cff.jpg",
     "the-life-and-suffering-of-sir-brante"
   ],
@@ -11793,6 +11864,21 @@
     "rogue-company/home"
   ],
   [
+    "36c54db897954813b26e25ee0fc95360",
+    "6af58339c2424644988e0fb83dfd9bd5",
+    "Ava Max - \"My Head & My Heart\"",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "NCSoft",
+    1612341789,
+    1614874938,
+    "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_AvaMaxMyHeadMyHeart_HarmonixMusicSystemsInc_DLC_S2-1200x1600-4ee809f718a2a4eac151ae0005f827de.jpg",
+    ""
+  ],
+  [
     "36dd4251e8e744d485db2eb45ff845e3",
     "244aaaa06bfa49d088205b13b9d2d115",
     "Warframe: Prime Vault – Banshee & Mirage Dual Pack",
@@ -12366,6 +12452,7 @@
     "d759128018124dcabb1fbee9bb28e178",
     "Surviving Mars",
     [
+      "freegames",
       "games",
       "games/edition/base",
       "games/edition",
@@ -13362,6 +13449,21 @@
     1575395186,
     1577375415,
     "",
+    ""
+  ],
+  [
+    "3d6ee48be3fc4ca79f7a743767a0e00b",
+    "d66c34349a054c3ea529726a5687520e",
+    "Wargame Red Dragon - Norse Dragons",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Eugen Systems",
+    1602779075,
+    1614873047,
+    "https://cdn1.epicgames.com/d66c34349a054c3ea529726a5687520e/offer/EGS_WargameRedDragonNorseDragons_EugenSystems_DLC_S2-1200x1600-7afd0dc5cde72330c4318d84ae9e07c4.jpg",
     ""
   ],
   [
@@ -14409,6 +14511,20 @@
     1596225976,
     "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilestheimperialeastpack-funcom-dlc-s2-1200x1600-121107910-1200x1600-3e3d93dbf1987f0997823413dce9c890.jpg",
     "conan-exiles/the-imperial-east-pack"
+  ],
+  [
+    "42727e39e1a647668a1f696e7321ded1",
+    "7e508f543b05465abe3a935960eb70ac",
+    "DLC109",
+    [
+      "games",
+      "applications"
+    ],
+    "Codename Entertainment",
+    1614197291,
+    1614197291,
+    "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
+    ""
   ],
   [
     "4278895a224e44a3b53a9fc86737c9bb",
@@ -15498,6 +15614,20 @@
     "path-of-exile/divine-benevolence-pack"
   ],
   [
+    "47ba8abbf1684004b5cdf15a9eaab348",
+    "b2192c4b00db40fe8848b3be6753cfd5",
+    "x1070 Gems",
+    [
+      "games",
+      "applications"
+    ],
+    "WIREGAMES d.o.o.",
+    1614803152,
+    1614803152,
+    "https://cdn1.epicgames.com/b2192c4b00db40fe8848b3be6753cfd5/offer/gem_pack_epic_1200x1600-1200x1600-03b13aede0d6d666e9244f6564a367ea.jpg",
+    ""
+  ],
+  [
     "47c39490de7a4d99856cefe58e806d09",
     "6009be9994c2409099588cde6f3a5ed0",
     "Cities: Skylines - Snowfall",
@@ -16390,6 +16520,21 @@
     ""
   ],
   [
+    "4ba0451f2649433d8999790a2598a259",
+    "bb9f87bb3d0042258bb1c97397bc60f2",
+    "Crayta: Champion Edition",
+    [
+      "games/edition",
+      "games",
+      "applications"
+    ],
+    "Unit 2 Games",
+    1610666045,
+    1614814981,
+    "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_CraytaChampionEditionVol1_Unit2Games_Editions_S2-1200x1600-20a810cfd70f00b3f322da32c776df19.jpg",
+    "crayta/champion-edition"
+  ],
+  [
     "4ba63eedac5842b8886f8a4545727bbd",
     "bf333e6236914222a95a536389c05813",
     "2000 (+920 Bonus) SG Exchange Ticket",
@@ -16643,6 +16788,20 @@
     1603394018,
     "https://cdn1.epicgames.com/f9a21c4ce910440d82b83b01d1c48c5e/offer/ASSA_STD_Store_Portrait-860x1148-1900e7c91c1a913a9e754e3d98a41372.jpg",
     "assassins-creed-1"
+  ],
+  [
+    "4c97f0cfa61249dbbc7b1c3ea08b64fa",
+    "b2192c4b00db40fe8848b3be6753cfd5",
+    "x2670 Gems",
+    [
+      "games",
+      "applications"
+    ],
+    "WIREGAMES d.o.o.",
+    1614803249,
+    1614803249,
+    "https://cdn1.epicgames.com/b2192c4b00db40fe8848b3be6753cfd5/offer/gem_pack_epic_1200x1600-1200x1600-03b13aede0d6d666e9244f6564a367ea.jpg",
+    ""
   ],
   [
     "4c9cdc81f1474ccd84f6c6b16a8b72bd",
@@ -19269,6 +19428,20 @@
     "super-meat-boy/home"
   ],
   [
+    "591caf62212c4638b74413fa0ad203ca",
+    "7e508f543b05465abe3a935960eb70ac",
+    "DLC107",
+    [
+      "games",
+      "applications"
+    ],
+    "Codename Entertainment",
+    1614197212,
+    1614197212,
+    "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
+    ""
+  ],
+  [
     "59394b881542422b84ea096c0f8ba45b",
     "0d66818e2304485f8dc3ae90c8b622b4",
     "Shadowrun Hong Kong - Extended Edition Deluxe DLC",
@@ -20164,7 +20337,6 @@
     "f672c20984f04f69936e6057feefe3d1",
     "Sunless Sea",
     [
-      "freegames",
       "games",
       "games/edition",
       "games/edition/base",
@@ -20526,6 +20698,19 @@
     ""
   ],
   [
+    "5e866d8dc2674336b4c382a6e33b5eb4",
+    "affc33b82405457595a032f00284abd2",
+    "Paratrooper Gear Cosmetic Bundle",
+    [
+      "applications"
+    ],
+    "Tripwire Interactive",
+    1611552986,
+    1611553908,
+    "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
+    ""
+  ],
+  [
     "5e9b31ab1afa40c5a21d7ed3c1e4e49d",
     "epic",
     "Fortnite",
@@ -20537,6 +20722,19 @@
     1588120702,
     "",
     "fortnite"
+  ],
+  [
+    "5ea136ba7cd94bfb94bc2fc5d618a584",
+    "poodle",
+    "Twinmotion Trial 2020",
+    [
+      "applications"
+    ],
+    "Epic Games",
+    1578993002,
+    1597067617,
+    "https://cdn1.epicgames.com/poodle/offer/Twinmotion_Logo_Icon_White-2080x2066-b68a5566460e9d02fbada4b91d94fd22.png",
+    ""
   ],
   [
     "5ebc058aa49747059cf6bec315fe5d67",
@@ -21925,6 +22123,21 @@
     ""
   ],
   [
+    "6522f448ae01405c94a1e1298aff08f9",
+    "6af58339c2424644988e0fb83dfd9bd5",
+    "Vengaboys - \"We Like to Party! (The Vengabus)\"",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "NCSoft",
+    1612341880,
+    1614125331,
+    "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_VengaboysWeLiketoPartyTheVengabus_HarmonixMusicSystemsInc_DLC_S2-1200x1600-6382c36950e2a0d8355a6d2adeab0999.jpg",
+    ""
+  ],
+  [
     "652619abcf9a4bc69b50d449662df673",
     "dfd2530e80e4425d801913b0879be444",
     "DLC00069",
@@ -22689,6 +22902,20 @@
     1564994201,
     "",
     ""
+  ],
+  [
+    "6904d1bb60dc41b19b56f459bb57ebf9",
+    "4158b699dd70447a981fee752d970a3e",
+    "KINGDOM HEARTS HD 1.5+2.5 ReMIX",
+    [
+      "games",
+      "applications"
+    ],
+    "Square Enix (Japan)",
+    1599825580,
+    1613764460,
+    "https://cdn1.epicgames.com/4158b699dd70447a981fee752d970a3e/offer/EGS_KINGDOMHEARTSHD1525ReMIX_SquareEnix_S6-1200x1600-132fc1f63bf40a41cddbff3bab7acc52.jpg",
+    "kingdom-hearts-hd-1-5-2-5-remix"
   ],
   [
     "69136fe1321b422f97694509ce13f442",
@@ -23761,16 +23988,18 @@
   [
     "6e74cc0851a641b8b317cdc743fc6e1d",
     "0114ea1a5d674c6b8c99015e6c994aff",
-    "RutheniumGeneralAudience",
+    "Star Renegades",
     [
       "games",
+      "games/edition",
+      "games/edition/base",
       "applications"
     ],
     "Raw Fury",
     1614025219,
-    1614026442,
-    "",
-    ""
+    1614871422,
+    "https://cdn1.epicgames.com/0114ea1a5d674c6b8c99015e6c994aff/offer/EGS_StarRenegades_MassiveDamageInc_S2-1200x1600-74ebfd5e2e4d4a9c48ea41b9d3e14047.jpg",
+    "star-renegades"
   ],
   [
     "6e77039b69a64a76bcbb082bb8442141",
@@ -25402,6 +25631,20 @@
     1605822742,
     1607647982,
     "https://cdn1.epicgames.com/244aaaa06bfa49d088205b13b9d2d115/offer/WF_AccessoriesPrime_1200x1600-1200x1600-82cec2a3fa3e6706787181c5168652ec.jpg",
+    ""
+  ],
+  [
+    "75dfbdcb421144338fc2fad38b05da16",
+    "7e508f543b05465abe3a935960eb70ac",
+    "DLC106",
+    [
+      "games",
+      "applications"
+    ],
+    "Codename Entertainment",
+    1614197165,
+    1614197165,
+    "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
   [
@@ -27233,6 +27476,21 @@
     "free-games-collection"
   ],
   [
+    "7f383d44d81340b9b9b09b46d5a1fb4a",
+    "6af58339c2424644988e0fb83dfd9bd5",
+    "Bonnie Tyler - \"Holding Out for a Hero\"",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "NCSoft",
+    1612341729,
+    1614874938,
+    "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_BonnieTylerHoldingOutforaHero_HarmonixMusicSystemsInc_DLC_S2-1200x1600-1a52cf7c73bd446cb70c7a637a1df340.jpg",
+    ""
+  ],
+  [
     "7f39641f258e4548804f24e598d2a873",
     "jackal",
     "Dauntless PTR",
@@ -27357,9 +27615,9 @@
       "games",
       "applications"
     ],
-    "Square Enix Japan",
+    "Square Enix (Japan)",
     1599825581,
-    1599825864,
+    1613762184,
     "",
     ""
   ],
@@ -27702,6 +27960,20 @@
     "Grinding Gear Games",
     1600125614,
     1600461078,
+    "",
+    ""
+  ],
+  [
+    "814a35580af6495a94eca5f0304b044d",
+    "ab2f9078bcb04065a5c6c2fede9cb3b0",
+    "MtAugustaGeneralAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "Beamdog",
+    1605136746,
+    1611955123,
     "",
     ""
   ],
@@ -28124,6 +28396,20 @@
     "zombi/home"
   ],
   [
+    "83baa356c2804362a244079a5b52c868",
+    "b2192c4b00db40fe8848b3be6753cfd5",
+    "x4500 Gems",
+    [
+      "games",
+      "applications"
+    ],
+    "WIREGAMES d.o.o.",
+    1614803296,
+    1614803296,
+    "https://cdn1.epicgames.com/b2192c4b00db40fe8848b3be6753cfd5/offer/gem_pack_epic_1200x1600-1200x1600-03b13aede0d6d666e9244f6564a367ea.jpg",
+    ""
+  ],
+  [
     "83bb29e480244c3da0307fa3916fe964",
     "6af58339c2424644988e0fb83dfd9bd5",
     "Look Pack: Masquerade",
@@ -28288,13 +28574,14 @@
     "d66c34349a054c3ea529726a5687520e",
     "Wargame Red Dragon - Double Nation Pack: REDS",
     [
-      "games",
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Eugen Systems",
     1602779454,
-    1603981581,
-    "",
+    1614873047,
+    "https://cdn1.epicgames.com/d66c34349a054c3ea529726a5687520e/offer/EGS_WargameRedDragonDoubleNationPackREDS_EugenSystems_DLC_S2-1200x1600-d6800222f6496518c137255cde96ccf2.jpg",
     ""
   ],
   [
@@ -30027,9 +30314,9 @@
       "games",
       "applications"
     ],
-    "Square Enix Japan",
+    "Square Enix (Japan)",
     1599825606,
-    1599825947,
+    1613762246,
     "",
     ""
   ],
@@ -31783,6 +32070,20 @@
     "grand-theft-auto-v"
   ],
   [
+    "956b6d1ec4314cbb9382c3048db5638f",
+    "b2192c4b00db40fe8848b3be6753cfd5",
+    "x520 Gems",
+    [
+      "games",
+      "applications"
+    ],
+    "WIREGAMES d.o.o.",
+    1614803106,
+    1614803106,
+    "https://cdn1.epicgames.com/b2192c4b00db40fe8848b3be6753cfd5/offer/gem_pack_epic_1200x1600-1200x1600-03b13aede0d6d666e9244f6564a367ea.jpg",
+    ""
+  ],
+  [
     "957e4d4d60634f7bad2047d257a49f73",
     "61449320f87347a8bf02159cbf8adb7f",
     "Before We Leave",
@@ -32089,6 +32390,20 @@
     1603200460,
     "https://cdn1.epicgames.com/116b93c8b15c4304b7629f0861523322/offer/portraitProductImageCollectors-1200x1600-1616a7ed914dd9899179792081162598.jpg",
     "aquanox-deep-descent/collectors-edition"
+  ],
+  [
+    "9636eeea8fb3441eb0272f54551d5aef",
+    "0712176b5e3e49bfa8866c0ee1359f2d",
+    "KINGDOM HEARTS III + Re Mind",
+    [
+      "games",
+      "applications"
+    ],
+    "Square Enix (Japan)",
+    1593692127,
+    1613764530,
+    "https://cdn1.epicgames.com/0712176b5e3e49bfa8866c0ee1359f2d/offer/EGS_KINGDOMHEARTSIIIReMindDLC_SquareEnix_S6-1200x1600-54d8b062dc7488c71874fe2455d6c2bd.jpg",
+    "kingdom-hearts-iii"
   ],
   [
     "9638a9311bd1485cae51480658e7f294",
@@ -33324,6 +33639,22 @@
     "hello-neighbor-hide-and-seek/home"
   ],
   [
+    "9b68e26505c045759ab603efc2deab23",
+    "1696ef78f67c411ea67d2c2b8e9bc5a6",
+    "Cartel Tycoon",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "tinyBuild Games",
+    1613004444,
+    1614790705,
+    "https://cdn1.epicgames.com/1696ef78f67c411ea67d2c2b8e9bc5a6/offer/EGS_CartelTycoon_MoonMoose_S6-1200x1600-407453ba664be5c928dd01e437afdf30.jpg",
+    "cartel-tycoon"
+  ],
+  [
     "9b84714cc39d462ead46c595d0a379fd",
     "affc33b82405457595a032f00284abd2",
     "Neon MKVI Weapon Skin Bundle Pack",
@@ -34228,6 +34559,20 @@
     ""
   ],
   [
+    "9ecd14794cb545d4b857c0ec189393b5",
+    "bb9f87bb3d0042258bb1c97397bc60f2",
+    "Crayta",
+    [
+      "games",
+      "applications"
+    ],
+    "Unit 2 Games",
+    1601063626,
+    1614814947,
+    "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_CraytaStarterEdition_Unit2Games_S2-1200x1600-9d74e509e07a02ed9007ec5e5696544b.jpg",
+    "crayta"
+  ],
+  [
     "9edfded699e246a487e3220a5db9ec2b",
     "dfd2530e80e4425d801913b0879be444",
     "SparrowMission8",
@@ -34930,6 +35275,21 @@
     1608033561,
     "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/EGS_SMITExAvatarPlusBundle_TitanForgeGames_AddOn_S2-1200x1600-d14af11cb2d3acd5fcaa8a01f40f3b15.jpg",
     "smite/avatar-bundle"
+  ],
+  [
+    "a0f28f128fad44f7995c1c9b20e8b47a",
+    "0114ea1a5d674c6b8c99015e6c994aff",
+    "Star Renegades Deluxe Edition",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Raw Fury",
+    1614619500,
+    1614871422,
+    "https://cdn1.epicgames.com/0114ea1a5d674c6b8c99015e6c994aff/offer/EGS_StarRenegades_MassiveDamageInc_S2-1200x1600-74ebfd5e2e4d4a9c48ea41b9d3e14047.jpg",
+    ""
   ],
   [
     "a10382ce8a454145abcdd38e92dcc4b8",
@@ -36037,6 +36397,21 @@
     ""
   ],
   [
+    "a6642a6761d842e5ae3d8e6046ee035d",
+    "bb9f87bb3d0042258bb1c97397bc60f2",
+    "Crayta: Deluxe Edition",
+    [
+      "games/edition",
+      "games",
+      "applications"
+    ],
+    "Unit 2 Games",
+    1605272407,
+    1614814964,
+    "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_CraytaDeluxeEdition_Unit2Games_Editions_S2-1200x1600-e6113564d2b0b478b4d25160594fa6dd.jpg",
+    "crayta/deluxe-edition"
+  ],
+  [
     "a66dc80a37d948d88048e74fe6b1d6da",
     "d5241c76f178492ea1540fce45616757",
     "Cities: Skylines",
@@ -36150,6 +36525,20 @@
     1596163720,
     "https://cdn1.epicgames.com/0aaf0617ee0d47df87c0dc93509159dd/offer/Mobile-Vertical-510x680-min-1-510x680-d011e2f37eca948504394859700d57b9-510x680-d011e2f37eca948504394859700d57b9.jpg",
     "carcassonne/the-princess-and-the-dragon"
+  ],
+  [
+    "a6b1b3c2c3a6494aa58e22b338aaf5bd",
+    "b2192c4b00db40fe8848b3be6753cfd5",
+    "x250 Gems",
+    [
+      "games",
+      "applications"
+    ],
+    "WIREGAMES d.o.o.",
+    1614803061,
+    1614803061,
+    "https://cdn1.epicgames.com/b2192c4b00db40fe8848b3be6753cfd5/offer/gem_pack_epic_1200x1600-1200x1600-03b13aede0d6d666e9244f6564a367ea.jpg",
+    ""
   ],
   [
     "a6c5b19271dd46c39a706d50496b29c5",
@@ -37246,6 +37635,20 @@
     ""
   ],
   [
+    "ac4f988c7d8b4b488dd7b84142d220bd",
+    "e8882546f28e4832af823c646aed232e",
+    "Interdimensional",
+    [
+      "games",
+      "applications"
+    ],
+    "Stardock Entertainment, Inc",
+    1605734938,
+    1605735830,
+    "",
+    "offworld-trading-company/interdimensional"
+  ],
+  [
     "ac568c32cbc04478b5f16e3e17445069",
     "affc33b82405457595a032f00284abd2",
     "Premium Halloween Treat Ticket",
@@ -37813,13 +38216,14 @@
     "d66c34349a054c3ea529726a5687520e",
     "Wargame Red Dragon - Second Korean War",
     [
-      "games",
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Eugen Systems",
     1602779345,
-    1603981581,
-    "",
+    1614873047,
+    "https://cdn1.epicgames.com/d66c34349a054c3ea529726a5687520e/offer/EGS_WargameRedDragon_EugenSystems_S2-1200x1600-7afd0dc5cde72330c4318d84ae9e07c4.jpg",
     ""
   ],
   [
@@ -38503,6 +38907,20 @@
     "hello-neighbor/modkit"
   ],
   [
+    "b1f40ae872c44df582ee1374b9f8311d",
+    "c8ff067c1c984cd7ab1998e8a9afc8b6",
+    "KINGDOM HEARTS HD 2.8 Final Chapter Prologue",
+    [
+      "games",
+      "applications"
+    ],
+    "Square Enix (Japan)",
+    1599825605,
+    1613764403,
+    "https://cdn1.epicgames.com/c8ff067c1c984cd7ab1998e8a9afc8b6/offer/EGS_KINGDOMHEARTSHD28FinalChapterPrologue_SquareEnix_S6-1200x1600-a3fc8fc218fe1ff3541dc2b5b9f076d7.jpg",
+    "kingdom-hearts-hd-2-8-final-chapter-prologue"
+  ],
+  [
     "b1f4888a7c9b4449b6bfbace4de24a9c",
     "badger",
     "What Remains of Edith Finch",
@@ -38616,6 +39034,19 @@
     1605902275,
     1608057463,
     "https://cdn1.epicgames.com/244aaaa06bfa49d088205b13b9d2d115/offer/WF_PlatinumPack75_1200x1600-1200x1600-32d3dedc29e539c082b306dee03feb1c.jpg",
+    ""
+  ],
+  [
+    "b27f421849664e39ab0735131d281fe0",
+    "affc33b82405457595a032f00284abd2",
+    "Chemical Warrior Gear Cosmetic Bundle",
+    [
+      "applications"
+    ],
+    "Tripwire Interactive",
+    1611553059,
+    1611553908,
+    "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
     ""
   ],
   [
@@ -38942,13 +39373,14 @@
     "d66c34349a054c3ea529726a5687520e",
     "Wargame Red Dragon - Nation Pack: Netherlands",
     [
-      "games",
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Eugen Systems",
     1602779019,
-    1603981581,
-    "",
+    1614873047,
+    "https://cdn1.epicgames.com/d66c34349a054c3ea529726a5687520e/offer/EGS_WargameRedDragonNationPackNetherlands_EugenSystems_DLC_S2-1200x1600-33b48620fe2fe3b6ea4a2ff26eb69a5c.jpg",
     ""
   ],
   [
@@ -40635,6 +41067,20 @@
     ""
   ],
   [
+    "bd12e8c2db354e7696d6579e901cbee5",
+    "b2192c4b00db40fe8848b3be6753cfd5",
+    "Founders Pack",
+    [
+      "games",
+      "applications"
+    ],
+    "WIREGAMES d.o.o.",
+    1614802973,
+    1614802973,
+    "https://cdn1.epicgames.com/b2192c4b00db40fe8848b3be6753cfd5/offer/founders_pack_epic_1200x1600-1200x1600-e76e2400d6b4091d19ac410724bdffab.jpg",
+    ""
+  ],
+  [
     "bd15ffd61c1744a295de36c164694e40",
     "ca4058f18b0a4a9e9e2ccc28f7f33000",
     "Kingdom Come: Deliverance",
@@ -42224,6 +42670,21 @@
     ""
   ],
   [
+    "c4fa18a6f4d64ae78a00d2e0a5b1c271",
+    "0114ea1a5d674c6b8c99015e6c994aff",
+    "The Art and Illustrations of Star Renegades",
+    [
+      "digitalextras/book",
+      "digitalextras",
+      "applications"
+    ],
+    "Raw Fury",
+    1614193139,
+    1614872271,
+    "https://cdn1.epicgames.com/0114ea1a5d674c6b8c99015e6c994aff/offer/artbook.2-1200x1600-47c72103be5fa9cb2372021274401b26.jpg",
+    ""
+  ],
+  [
     "c502236e31ba428abde0b5a35bf0c5e9",
     "076207fa2b5c4803a636af606c3c28b7",
     "SMITE x TMNT Plus Bundle",
@@ -42519,6 +42980,19 @@
     1588120702,
     "",
     "katherineofsky"
+  ],
+  [
+    "c5eed53f73a048a09085a006f90fb92a",
+    "affc33b82405457595a032f00284abd2",
+    "Gravity Imploder Weapon Bundle",
+    [
+      "applications"
+    ],
+    "Tripwire Interactive",
+    1611553148,
+    1611553908,
+    "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
+    ""
   ],
   [
     "c62df62cad344cadb89f66a3537adc01",
@@ -44533,9 +45007,9 @@
       "games",
       "applications"
     ],
-    "Square Enix Japan",
+    "Square Enix (Japan)",
     1606767438,
-    1606767753,
+    1613573881,
     "",
     ""
   ],
@@ -44743,16 +45217,16 @@
   [
     "d294725796114096a9d1da9914bb1a1f",
     "3671db367c594e2ab5020105dc52dc65",
-    "ismDPCGeneralAudience",
+    "KINGDOM HEARTS Melody of Memory",
     [
       "games",
       "applications"
     ],
-    "Square Enix Japan",
+    "Square Enix (Japan)",
     1603721203,
-    1603721941,
-    "",
-    ""
+    1613764593,
+    "https://cdn1.epicgames.com/3671db367c594e2ab5020105dc52dc65/offer/EGS_KINGDOMHEARTSMelodyofMemory_SQUAREENIX_S2-1200x1600-bc6932a1e7cbb7eeca4f66740f711f11.jpg",
+    "kingdom-hearts-melody-of-memory"
   ],
   [
     "d2987a1c41374ee6ac96855259c49ce2",
@@ -45436,13 +45910,14 @@
     "d66c34349a054c3ea529726a5687520e",
     "Wargame: Red Dragon - Russian Roulette [10v10 Map]",
     [
-      "games",
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Eugen Systems",
     1602779145,
-    1603981581,
-    "",
+    1614873047,
+    "https://cdn1.epicgames.com/d66c34349a054c3ea529726a5687520e/offer/EGS_WargameRedDragonRussianRoulette10v10Map_EugenSystems_DLC_S2-1200x1600-7afd0dc5cde72330c4318d84ae9e07c4.jpg",
     ""
   ],
   [
@@ -47016,13 +47491,14 @@
     "d66c34349a054c3ea529726a5687520e",
     "Wargame Red Dragon - The Millionth Mile",
     [
-      "games",
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Eugen Systems",
     1602779397,
-    1603981581,
-    "",
+    1614873047,
+    "https://cdn1.epicgames.com/d66c34349a054c3ea529726a5687520e/offer/EGS_WargameRedDragon_EugenSystems_S2-1200x1600-7afd0dc5cde72330c4318d84ae9e07c4.jpg",
     ""
   ],
   [
@@ -47582,7 +48058,7 @@
     ],
     "Raw Fury",
     1614025219,
-    1614026442,
+    1614871422,
     "",
     ""
   ],
@@ -50909,7 +51385,7 @@
     ],
     "Square Enix Japan",
     1603721204,
-    1603721941,
+    1613070742,
     "",
     ""
   ],
@@ -52264,6 +52740,19 @@
     ""
   ],
   [
+    "f36ce5e9b1564c868ed43f8d72936ed4",
+    "affc33b82405457595a032f00284abd2",
+    "Neon MKVII Weapon Skin Bundle Pack",
+    [
+      "applications"
+    ],
+    "Tripwire Interactive",
+    1611552816,
+    1611553908,
+    "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
+    ""
+  ],
+  [
     "f3737de50bd44c0eacc3ed48dcb9d82e",
     "6009be9994c2409099588cde6f3a5ed0",
     "Cities: Skylines - Concerts",
@@ -53181,7 +53670,7 @@
     ],
     "Oddworld Inhabitants Inc.",
     1565888400,
-    1609783338,
+    1613172657,
     "https://cdn1.epicgames.com/e099f2abf3324d248054bf14c476fbc0/offer/EGS_OddworldSoulstorm_OddworldInhabitantsInc_S2-1200x1600-bf4e7a1052f737e16db6bc3d9c603f14.jpg",
     "oddworld-soulstorm"
   ],
@@ -53952,6 +54441,20 @@
     "the-escapists-2/dungeons-and-duct-tape"
   ],
   [
+    "fb3938e4e7ec4ccc943fe71ca55ba43d",
+    "dfd2530e80e4425d801913b0879be444",
+    "Sparrow Season Pass 3 Audience",
+    [
+      "games",
+      "applications"
+    ],
+    "Rebellion",
+    1614797889,
+    1614797889,
+    "",
+    ""
+  ],
+  [
     "fb4442b491264cd3a85a3fc49f94693a",
     "3fafb94f3f804d6bbe85da723c90e689",
     "Boost Bank Balance £10m",
@@ -54413,6 +54916,21 @@
     1478203232,
     1587775420,
     "https://cdn1.epicgames.com/ut/offer/Thumbnail_Backspace-300x250-3fa6e72d57e5f8f40db1286567498466.png",
+    ""
+  ],
+  [
+    "fe17eefaf52e435f97e03d74d151e9a5",
+    "6af58339c2424644988e0fb83dfd9bd5",
+    "The White Stripes - \"Seven Nation Army\"",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "NCSoft",
+    1612341841,
+    1614125331,
+    "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_TheWhiteStripesSevenNationArmy_HarmonixMusicSystemsInc_DLC_S2-1200x1600-5d2630314f01252e1ae25ce2b082341d.jpg",
     ""
   ],
   [
