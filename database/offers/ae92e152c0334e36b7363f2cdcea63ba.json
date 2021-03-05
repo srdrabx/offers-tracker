@@ -5,7 +5,7 @@
   "description": "Borderlands 3: Season Pass 2",
   "longDescription": "",
   "status": "ACTIVE",
-  "productSlug": "borderlands-3/season-pass-2",
+  "productSlug": "borderlands-3/season-pass-02",
   "urlSlug": "borderlands-3--season-pass-02",
   "creationDate": "2020-08-18T20:44:01.312Z",
   "lastModifiedDate": "2021-02-11T16:12:38.068Z",
@@ -138,7 +138,7 @@
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "borderlands-3/season-pass-2"
+      "value": "borderlands-3/season-pass-02"
     }
   ],
   "keyImages": [
