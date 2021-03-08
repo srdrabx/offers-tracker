@@ -42343,7 +42343,6 @@
     [
       "games",
       "games/edition",
-      "games/edition/base",
       "applications"
     ],
     "505 Games",
@@ -42440,6 +42439,22 @@
     1611063560,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_RENEGADEOFFICER_REDEMPTIONIMAGE_-860x1180-2333a91e95e0bd95334659879d5c9026.jpg",
     "zombie-army-4-dead-war/renegade-officer"
+  ],
+  [
+    "c367569acede446995c5a3663e993446",
+    "768ec2d3b5114ac4a800631b12ee3f31",
+    "Cozy Grove",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Spry Fox LLC",
+    1608171073,
+    1615219374,
+    "https://cdn1.epicgames.com/768ec2d3b5114ac4a800631b12ee3f31/offer/CG.2-1200x1600-6b8cbe5523543a3d16aa1d0aef8f188d.jpg",
+    "cozy-grove"
   ],
   [
     "c3893b98643942139bce997724177675",

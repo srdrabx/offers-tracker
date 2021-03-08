@@ -31,9 +31,6 @@
       "path": "games/edition"
     },
     {
-      "path": "games/edition/base"
-    },
-    {
       "path": "applications"
     }
   ],
