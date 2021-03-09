@@ -78,5 +78,7 @@
       "id": "8c0a42f43b4a409584e1b00026afa37f"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "phlox"
+  }
 }

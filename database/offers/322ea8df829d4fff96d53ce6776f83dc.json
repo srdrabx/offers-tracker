@@ -172,5 +172,7 @@
       "id": "c1a86fefc74b40758c7bae750a5deffa"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "ark"
+  }
 }

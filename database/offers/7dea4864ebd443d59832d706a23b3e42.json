@@ -58,5 +58,7 @@
       "id": "0b8b2da5c0a24aadae5f905c646c05de"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "pansy"
+  }
 }

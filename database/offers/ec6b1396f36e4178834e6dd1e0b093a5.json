@@ -36,5 +36,7 @@
       "id": "c72c32fa205c4de88d503cb8f9efc138"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "ocn"
+  }
 }

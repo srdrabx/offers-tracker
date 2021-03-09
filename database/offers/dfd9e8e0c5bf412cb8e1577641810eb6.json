@@ -39,5 +39,7 @@
       "id": "9f1eb7f6dd444d62870618f8ac0e5eb0"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "lily"
+  }
 }

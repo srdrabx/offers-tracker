@@ -6,7 +6,7 @@
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": "grand-theft-auto-v",
-  "urlSlug": "serpentinegeneralaudience",
+  "urlSlug": "grand-theft-auto-v-premium-edition",
   "creationDate": "2020-03-20T00:38:56.086Z",
   "lastModifiedDate": "2020-07-29T19:40:33.262Z",
   "effectiveDate": "2020-05-14T15:00:00.000Z",
@@ -79,10 +79,6 @@
     {
       "key": "com.epicgames.app.blacklist",
       "value": "VE,SA,BH,LB,QA,KW,AE,OM,CU,IR,SY"
-    },
-    {
-      "key": "com.epicgames.app.freegames.vault.slug",
-      "value": "free-games"
     },
     {
       "key": "publisherName",
@@ -166,5 +162,7 @@
       "id": "d1deea7746654654a69bace466402a74"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "0584d2013f0149a791e7b9bad0eec102"
+  }
 }

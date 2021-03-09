@@ -165,5 +165,7 @@
       "id": "678bdaeb0de14dd59e358100a3498753"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "ark"
+  }
 }

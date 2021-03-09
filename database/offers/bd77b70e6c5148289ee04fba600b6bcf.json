@@ -1,0 +1,58 @@
+{
+  "id": "bd77b70e6c5148289ee04fba600b6bcf",
+  "namespace": "2362b692c2574b4ea2184540ac8c5c10",
+  "title": "ManicottiGeneralAudience",
+  "description": "ManicottiGeneralAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "manicottigeneralaudience",
+  "creationDate": "2021-03-08T23:57:31.617Z",
+  "lastModifiedDate": "2021-03-09T00:20:30.451Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-a6k23slslegbhbwtel4qx423kuzc3y",
+    "name": "Maximum Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "3f6ac14d14714d66bb3973a34a6a9a1c"
+    }
+  ],
+  "catalogNs": {
+    "name": "2362b692c2574b4ea2184540ac8c5c10"
+  }
+}

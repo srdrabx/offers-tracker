@@ -85,5 +85,7 @@
       "id": "34a37ede3156406da585a7bd4111139c"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "silene"
+  }
 }

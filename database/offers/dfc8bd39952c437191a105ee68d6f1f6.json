@@ -63,5 +63,7 @@
       "id": "3a8b329f91794815b2dce62a8bef0f90"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "aster"
+  }
 }

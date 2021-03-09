@@ -2320,7 +2320,7 @@
       "games/edition",
       "applications"
     ],
-    "En Masse Entertainment",
+    "BonusXP",
     1579566243,
     1593702388,
     "https://cdn1.epicgames.com/05279bd00f094731a273370b7c639f24/offer/egs-strangerthings3thegame-bonusxp-s2-1200x1600-235932325-1200x1600-a10bc3ec178f5e3e5423e8f767261a51.jpg",
@@ -6744,7 +6744,7 @@
     ],
     "101XP Limited",
     1614704830,
-    1614861450,
+    1615227231,
     "https://cdn1.epicgames.com/45bd0f6fc2704e22a3c1933f7bb972bf/offer/EGS_TheLifeandSufferingofSirBranteArtbookOST_Sever_DigitalExtras_S2-1200x1600-06beede908bd1dc03f18bec5693e7cff.jpg",
     ""
   ],
@@ -14294,6 +14294,20 @@
     ""
   ],
   [
+    "40d44a2758e74503889d9615abbb8371",
+    "308e79224dba4e078e44d603bc54c4db",
+    "DevBariumAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "Nicalis",
+    1611776495,
+    1615301590,
+    "",
+    ""
+  ],
+  [
     "40d605ed96944e819f9f35e230b3fba6",
     "7e508f543b05465abe3a935960eb70ac",
     "Jarlaxle's Starter Pack",
@@ -16547,6 +16561,20 @@
     1607024986,
     1608058917,
     "https://cdn1.epicgames.com/244aaaa06bfa49d088205b13b9d2d115/offer/WF_EGS_PrimeVault_MirageAccesories_1200x1600-1200x1600-aee8b5af704f73436dc87c5f864e3279.jpg",
+    ""
+  ],
+  [
+    "4b9f8dcea14f4e749bf3740ba854e43c",
+    "308e79224dba4e078e44d603bc54c4db",
+    "BariumGeneralAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "Nicalis",
+    1611776494,
+    1615301590,
+    "",
     ""
   ],
   [
@@ -19337,7 +19365,7 @@
     ],
     "Sony Interactive Entertainment",
     1575498520,
-    1606892440,
+    1615227994,
     "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/offer/CRE1089_Predator_PSStore_STD_Banner_Art_1920x1080_001_TH-1920x1080-d2921f9b50dad7960d2b9fad22ae8d84.png",
     "predator-hunting-grounds/home"
   ],
@@ -24293,6 +24321,20 @@
     1603203609,
     "https://cdn1.epicgames.com/96d9e862cd3947c28ea4206e89c1ea48/offer/Tall-1200x1600-f72389a48bb27dd90bcfa812004a48cb.jpg",
     "paper-beast"
+  ],
+  [
+    "6febc92a126c4729ba279cdb34c85d98",
+    "266c5badcfd144cbbeedd44499d85a62",
+    "DevXenonAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "Nicalis",
+    1611776442,
+    1615300881,
+    "",
+    ""
   ],
   [
     "6fec76da0f6a46daa2d5a408b59a7836",
@@ -40201,6 +40243,20 @@
     ""
   ],
   [
+    "b8c4f2ea71b34231a9e35419011704e9",
+    "2362b692c2574b4ea2184540ac8c5c10",
+    "DevManicottiAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "Maximum Games",
+    1615247851,
+    1615249230,
+    "",
+    ""
+  ],
+  [
     "b8c9b6788e4b4794b2b537076c2ced9d",
     "epic",
     "City of Brass",
@@ -41154,6 +41210,20 @@
     1589383530,
     "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg",
     "kingdom-come-deliverance/home"
+  ],
+  [
+    "bd77b70e6c5148289ee04fba600b6bcf",
+    "2362b692c2574b4ea2184540ac8c5c10",
+    "ManicottiGeneralAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "Maximum Games",
+    1615247851,
+    1615249230,
+    "",
+    ""
   ],
   [
     "bd894d7e7b55470ba8ccbddebb284818",
@@ -48821,6 +48891,7 @@
     [
       "addons",
       "addons/durable",
+      "games",
       "applications"
     ],
     "Epic Games",
@@ -52195,6 +52266,20 @@
     "conarium/home"
   ],
   [
+    "f0981cbbe2354077aca21c62b3f31671",
+    "f7c4775ed8a3431981d1b4173666fe16",
+    "NeodymiumGeneralAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "Nicalis",
+    1611776901,
+    1615305240,
+    "",
+    ""
+  ],
+  [
     "f0a07e491655435c966aeceb9a4f040a",
     "jackal",
     "Dauntless - 1,000 (+150 Bonus) Platinum",
@@ -55279,6 +55364,20 @@
     1586527620,
     1588771719,
     "https://cdn1.epicgames.com/f4a904fcef2447439c35c4e6457f3027/offer/EGS_KojimaProductions_DeathStranding_S1-2560x1440-e56d3a322a94fd7dd18b9c93ee080d01.jpg",
+    ""
+  ],
+  [
+    "ff071daf1e30467fa0d35bf9182a8bba",
+    "f7c4775ed8a3431981d1b4173666fe16",
+    "DevNeodymiumAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "Nicalis",
+    1611776901,
+    1615305240,
+    "",
     ""
   ],
   [

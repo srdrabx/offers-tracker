@@ -36,5 +36,7 @@
       "id": "ab3937f95e89428ab99e2ec3b139e3de"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "fn"
+  }
 }

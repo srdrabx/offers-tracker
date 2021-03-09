@@ -106,5 +106,7 @@
       "id": "3a60f7ff37734f9daea8f8da8d5c34d3"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "carnation"
+  }
 }

@@ -74,5 +74,7 @@
       "id": "d41f17c098b045f18f81f8f68a99cb3e"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "pansy"
+  }
 }

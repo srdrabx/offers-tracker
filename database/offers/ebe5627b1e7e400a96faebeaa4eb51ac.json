@@ -49,5 +49,7 @@
       "id": "e09446f3954a4297aa7887967603f47e"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "nutmeg"
+  }
 }

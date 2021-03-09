@@ -39,5 +39,7 @@
       "id": "683537be40b84ea5b7e5ccc746cd7cc7"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "daffodil"
+  }
 }

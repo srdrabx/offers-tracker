@@ -39,5 +39,7 @@
       "id": "3a3161c15a41416e935094525033b4c1"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "trainsimworld"
+  }
 }

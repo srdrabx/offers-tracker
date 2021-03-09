@@ -68,5 +68,7 @@
       "id": "ef41a74eb6624fa7ac7af2550d955b4a"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "rosemallow"
+  }
 }

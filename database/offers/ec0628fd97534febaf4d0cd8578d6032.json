@@ -44,5 +44,7 @@
       "id": "aaa521dc52da4b46b9d87b79a258d229"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "angelonia"
+  }
 }

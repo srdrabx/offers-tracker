@@ -58,5 +58,7 @@
       "id": "6c76514f8aaa41dea2366491d329a808"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "columbine"
+  }
 }

@@ -49,5 +49,7 @@
       "id": "ad4b4f3154b4482ba3dd2c7d3f640fc8"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "adenium"
+  }
 }

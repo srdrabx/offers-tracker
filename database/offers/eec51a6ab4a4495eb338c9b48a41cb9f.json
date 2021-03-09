@@ -42,5 +42,7 @@
       "id": "0ecceca919614855acee329378100d4c"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "crocus"
+  }
 }

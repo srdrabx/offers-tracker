@@ -54,5 +54,7 @@
       "id": "1723f87d7d9e40a3895feacfa2aa51fa"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "puffin"
+  }
 }

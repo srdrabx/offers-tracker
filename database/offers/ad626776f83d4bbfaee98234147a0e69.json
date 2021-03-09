@@ -117,5 +117,7 @@
       "id": "65fb5029cddb4de7b5fa155b6992e6a3"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "ut"
+  }
 }

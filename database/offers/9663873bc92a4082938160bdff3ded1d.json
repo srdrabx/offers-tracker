@@ -48,5 +48,7 @@
       "id": "4c2bec204e804319a96effd98c1e4fb7"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "cumin"
+  }
 }

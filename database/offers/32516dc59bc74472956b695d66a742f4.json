@@ -69,5 +69,7 @@
       "id": "25ec0db7bf0246f7bf05e268aefe9898"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "azalea"
+  }
 }

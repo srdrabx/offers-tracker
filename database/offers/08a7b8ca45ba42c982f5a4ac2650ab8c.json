@@ -55,5 +55,7 @@
       "id": "3163e86f676d4fc58f381c454c9e6b09"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "snapdragon"
+  }
 }

@@ -39,5 +39,7 @@
       "id": "c285f2cc4c714c7da545aee6c80e7685"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "clary"
+  }
 }

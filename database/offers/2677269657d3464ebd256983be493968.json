@@ -49,5 +49,7 @@
       "id": "48a4bf38c52b495687acbe5bafaff2b2"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "canna"
+  }
 }

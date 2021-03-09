@@ -44,5 +44,7 @@
       "id": "0d607aa0e4054140ba904772ae407927"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "aster"
+  }
 }

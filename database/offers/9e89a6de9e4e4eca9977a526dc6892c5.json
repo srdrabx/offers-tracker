@@ -54,5 +54,7 @@
       "id": "4c4d392098a448c78863ebee65e3a9f6"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "lily"
+  }
 }

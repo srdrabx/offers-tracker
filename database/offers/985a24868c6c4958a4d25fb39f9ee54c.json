@@ -67,5 +67,7 @@
       "id": "d1cdb9641c2e4f6fb1daa52805d7f6a8"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "plumeria"
+  }
 }

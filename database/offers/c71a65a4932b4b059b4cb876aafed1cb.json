@@ -58,5 +58,7 @@
       "id": "4af3857c6b0144a9be5618d255e99049"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "geranium"
+  }
 }

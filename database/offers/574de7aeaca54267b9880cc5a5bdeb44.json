@@ -54,5 +54,7 @@
       "id": "6e536d731efb4356ade7d2fcfc159035"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "wombat"
+  }
 }

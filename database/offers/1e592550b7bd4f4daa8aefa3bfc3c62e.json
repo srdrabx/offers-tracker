@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "the-life-and-suffering-of-sir-brante--artbook-and-ost",
   "creationDate": "2021-03-02T17:07:10.730Z",
-  "lastModifiedDate": "2021-03-04T12:37:30.356Z",
+  "lastModifiedDate": "2021-03-08T18:13:51.196Z",
   "effectiveDate": "2021-03-04T13:00:00.000Z",
   "viewableDate": "2021-03-04T13:00:00.000Z",
   "developer": null,
@@ -163,5 +163,7 @@
       "id": "0a6e63ffd55e41e1bf92e66aa4967ece"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "45bd0f6fc2704e22a3c1933f7bb972bf"
+  }
 }

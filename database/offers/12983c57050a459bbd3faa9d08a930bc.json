@@ -110,5 +110,7 @@
       "id": "e96e5c0144d24a49948c37159a5ee6e9"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "jackal"
+  }
 }

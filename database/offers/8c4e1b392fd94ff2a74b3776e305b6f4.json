@@ -62,5 +62,7 @@
       "id": "d4ca030e6c7c4e8180f3c67e87d8d071"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "newt"
+  }
 }

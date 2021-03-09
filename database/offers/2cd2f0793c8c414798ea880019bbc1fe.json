@@ -48,5 +48,7 @@
       "id": "70eb85c78fcb4081b0864040dcc1a995"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "cobra"
+  }
 }

@@ -44,5 +44,7 @@
       "id": "48d281f487154bb29dd75bd7bb95ac8e"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "ut"
+  }
 }

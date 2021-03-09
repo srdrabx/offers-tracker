@@ -114,5 +114,7 @@
       "id": "80c4a23f319e43b9a39fd3c4cf093a08"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "newt"
+  }
 }

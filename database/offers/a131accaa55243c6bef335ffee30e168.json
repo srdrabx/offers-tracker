@@ -44,5 +44,7 @@
       "id": "eac31f3df2a84aa898c13715b4badbc3"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "camellia"
+  }
 }

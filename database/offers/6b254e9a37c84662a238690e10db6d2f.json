@@ -81,5 +81,7 @@
       "id": "cf4e61d93806483e9a728ce6f2bf6022"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "sweetpea"
+  }
 }

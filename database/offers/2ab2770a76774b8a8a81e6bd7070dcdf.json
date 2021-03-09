@@ -71,5 +71,7 @@
       "id": "f51d4e238dfe4b8cbeee5a83127c4bd2"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "buttercup"
+  }
 }

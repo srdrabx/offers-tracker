@@ -115,5 +115,7 @@
       "id": "9c9fd375c29940eb8e5c6204aefae201"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "oregano"
+  }
 }

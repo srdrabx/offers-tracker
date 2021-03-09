@@ -46,5 +46,7 @@
       "id": "15cd3d5ce3c14b11904bc1c8a07d4081"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "wex"
+  }
 }

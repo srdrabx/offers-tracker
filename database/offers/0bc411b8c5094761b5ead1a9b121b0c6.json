@@ -210,5 +210,7 @@
       "id": "c2346ce61fdb4ee6a6505a7d4db32c22"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "foxglove"
+  }
 }

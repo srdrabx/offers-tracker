@@ -13,8 +13,8 @@
   "viewableDate": null,
   "developer": null,
   "seller": {
-    "id": "o-56j99pafxy5hhf4ms9rthh5vxzct92",
-    "name": "En Masse Entertainment"
+    "id": "o-af8jg364run9amwpyzr45txxttnsd5",
+    "name": "BonusXP"
   },
   "linkedOfferId": null,
   "isFeatured": false,
@@ -210,5 +210,7 @@
       "id": "569e1556d944484985d4597ca61c2fe8"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "05279bd00f094731a273370b7c639f24"
+  }
 }

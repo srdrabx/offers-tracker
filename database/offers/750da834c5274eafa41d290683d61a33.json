@@ -58,5 +58,7 @@
       "id": "09bdb4d9104444e89aaeeab00aa2b980"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "anemone"
+  }
 }
