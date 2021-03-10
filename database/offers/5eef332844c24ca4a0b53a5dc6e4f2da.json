@@ -8,8 +8,8 @@
   "productSlug": null,
   "urlSlug": "crayta--alien-conspiracy-battle-pass",
   "creationDate": "2020-11-13T13:08:20.999Z",
-  "lastModifiedDate": "2021-03-02T21:56:46.738Z",
-  "effectiveDate": "2098-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2021-03-10T11:56:22.806Z",
+  "effectiveDate": "2021-03-10T12:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -87,7 +87,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR"
+      "value": "KR,JP"
     },
     {
       "key": "publisherName",

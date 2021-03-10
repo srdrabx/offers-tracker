@@ -1,16 +1,16 @@
 {
   "id": "3f9dec527f6745fb823c1fe21385d89e",
   "namespace": "bb9f87bb3d0042258bb1c97397bc60f2",
-  "title": "15000 Credits Audience",
-  "description": "15000 Credits Audience",
-  "longDescription": null,
+  "title": "15,000 Crayta Credits",
+  "description": "Add 15,000 Crayta Credits to your account.\n\nCrayta Credits are used in our in-game store to purchase outfits, emotes, sprays, and other cosmetics!",
+  "longDescription": "Add 15,000 Crayta Credits to your account.\n\nCrayta Credits are used in our in-game store to purchase outfits, emotes, sprays, and other cosmetics!\n\n# PLAY THOUSANDS OF GAMES\n\nPlay from an endlessly growing library of user-generated multiplayer games across a huge variety of genres. From team-based shooters and obstacle courses to farming simulators and cooking games, there’s going to be something for everyone.\n\n# CREATE GAMES WITH FRIENDS\n\nCrayta is a truly collaborative game creation platform built on Unreal Engine 4 - you and your friends can jump in and create games together in the cloud, regardless of your experience.\n \n# SHOW YOUR STYLE\n\nExpress yourself in the Crayta universe with a range of high quality customisation options. Collect outfits, emotes, drones and more to tailor your identity throughout the game.\n\n# UNLOCK GEAR AS YOU PLAY\n\nCrayta comes to PC with its all-new and unique Battle Pass system! Gain XP as you complete Creator Challenges and unlock awesome cosmetics as you progress.\n\n# CRAYTA: Play a different game",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "pikespeakgeneralaudience-05",
+  "urlSlug": "crayta--15000-crayta-credits",
   "creationDate": "2020-11-13T12:55:50.822Z",
-  "lastModifiedDate": "2021-02-19T00:26:18.069Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2021-03-10T11:56:22.727Z",
+  "effectiveDate": "2021-03-10T12:00:00.000Z",
+  "viewableDate": "2021-03-10T12:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-3wg8cebzdas9bt56adlsslgzr8mcue",
@@ -25,6 +25,12 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "addons"
+    },
+    {
+      "path": "addons/consumable"
+    },
+    {
       "path": "applications"
     }
   ],
@@ -32,18 +38,64 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "KR,JP"
     },
     {
       "key": "publisherName",
-      "value": "[]"
+      "value": "Unit 2 Games"
     },
     {
       "key": "developerName",
-      "value": "[]"
+      "value": "Unit 2 Games"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_15000CraytaCredits_Unit2Games_AddOn_S1-2560x1440-865eab79eedfd4bf8e5e32e8199e8b32.jpg",
+      "md5": "865eab79eedfd4bf8e5e32e8199e8b32",
+      "size": 940612,
+      "uploadedDate": "2021-03-05T23:45:14.270Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_15000CraytaCredits_Unit2Games_AddOn_S2-1200x1600-ffba532a042cca46c039eecc615421da.jpg",
+      "md5": "ffba532a042cca46c039eecc615421da",
+      "size": 922408,
+      "uploadedDate": "2021-03-05T23:45:21.703Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_15000CraytaCredits_Unit2Games_AddOn_S2-1200x1600-ffba532a042cca46c039eecc615421da.jpg",
+      "md5": "ffba532a042cca46c039eecc615421da",
+      "size": 922408,
+      "uploadedDate": "2021-03-05T23:45:33.278Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_15000CraytaCredits_Unit2Games_AddOn_S2-1200x1600-ffba532a042cca46c039eecc615421da.jpg",
+      "md5": "ffba532a042cca46c039eecc615421da",
+      "size": 922408,
+      "uploadedDate": "2021-03-05T23:45:42.934Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_15000CraytaCredits_Unit2Games_AddOn_IC1-200x200-2d0c0309104afa772d182904dbadc131.png",
+      "md5": "2d0c0309104afa772d182904dbadc131",
+      "size": 9150,
+      "uploadedDate": "2021-03-05T23:45:56.126Z",
+      "width": 200,
+      "height": 200
+    }
+  ],
   "items": [
     {
       "id": "28a6af15b9c84582bf04efd5771df2e0"

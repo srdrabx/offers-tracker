@@ -1,0 +1,97 @@
+{
+  "id": "d3acf48fb4f549f994780e8f94bcbb7f",
+  "namespace": "fn",
+  "title": "Golden Touch Challenge Pack",
+  "description": "The femme fatale that fortune favored.  Includes Outfit, Back Bling, Pickaxe, and Quests to earn up to 1,500 V-Bucks",
+  "longDescription": "The femme fatale that fortune favored.  Ensnare your enemies with your beguiling charms and take them down with the Golden Touch Challenge Pack.  Outfit and Back Bling are reactive to eliminations and become more gold with each successful takedown.  Weapons Margiold picks up can turn to gold. Includes:\n\n-Marigold Outfit\n-Golden Gambit Back Bling\n-Golden Daggers Pickaxe\n-Golden Touch Challenges: unlock up to 1,500 V-Bucks as you complete quests\n\nV-Bucks are in-game currency that can be spent in Fortnite Battle Royale, Creative, and Save the World modes. In Battle Royale and Creative you can purchase new customization items like New Outfits, Gliders, Pickaxes, Emotes, and Wraps! In Save the World, you can purchase X-Ray Llamas that contain weapon and trap schematics, plus new Heroes, and more!  \n\nNote: Not all items may be available in Save the World mode.",
+  "status": "ACTIVE",
+  "productSlug": "fortnite/golden-touch-challenge-pack",
+  "urlSlug": "golden-touch-challenge-pack",
+  "creationDate": "2021-02-09T17:08:32.110Z",
+  "lastModifiedDate": "2021-03-08T23:28:27.524Z",
+  "effectiveDate": "2021-03-09T00:00:00.000Z",
+  "viewableDate": "2021-02-09T12:07:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "name": "Epic Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "Epic Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "fortnite/golden-touch-challenge-pack"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/fn/offer/EN_15BR_GoldenTouch_512x512-512x512-2710828a86cbfc3075057901b2562ca6.png",
+      "md5": "2710828a86cbfc3075057901b2562ca6",
+      "size": 371355,
+      "uploadedDate": "2021-03-03T17:43:16.283Z",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/fn/offer/EN_15BR_GoldenTouch_EGS_1200x1600-1200x1600-29bd67470bf909512c215fbfcf085105.jpg",
+      "md5": "29bd67470bf909512c215fbfcf085105",
+      "size": 983552,
+      "uploadedDate": "2021-03-10T02:02:09.693Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/fn/offer/EN_15BR_GoldenTouch_EGS_1200x1600-1200x1600-29bd67470bf909512c215fbfcf085105.jpg",
+      "md5": "29bd67470bf909512c215fbfcf085105",
+      "size": 983552,
+      "uploadedDate": "2021-03-10T02:02:20.588Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/fn/offer/EN_15BR_GoldenTouch_EGS_2560x1440-2560x1440-ebe1663bc23a40cb052f996d7c79870d.jpg",
+      "md5": "ebe1663bc23a40cb052f996d7c79870d",
+      "size": 1209688,
+      "uploadedDate": "2021-03-10T02:02:30.862Z",
+      "width": 2560,
+      "height": 1440
+    }
+  ],
+  "items": [
+    {
+      "id": "621648889fc34557b5a83ad38b239244"
+    }
+  ],
+  "catalogNs": {
+    "name": "fn"
+  }
+}

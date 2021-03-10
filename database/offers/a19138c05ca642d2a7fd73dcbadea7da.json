@@ -1,20 +1,20 @@
 {
-  "id": "9ecd14794cb545d4b857c0ec189393b5",
-  "namespace": "bb9f87bb3d0042258bb1c97397bc60f2",
-  "title": "Crayta",
-  "description": "Crayta",
+  "id": "a19138c05ca642d2a7fd73dcbadea7da",
+  "namespace": "85f0435aa88347d185dbcb147716609b",
+  "title": "Predecessor",
+  "description": "Predecessor",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "crayta",
-  "urlSlug": "crayta",
-  "creationDate": "2020-09-25T19:53:46.343Z",
-  "lastModifiedDate": "2021-03-10T11:56:23.428Z",
-  "effectiveDate": "2021-03-10T12:00:00.000Z",
-  "viewableDate": "2021-03-10T12:00:00.000Z",
+  "productSlug": "predecessor",
+  "urlSlug": "corngeneralaudience",
+  "creationDate": "2020-08-18T22:09:41.713Z",
+  "lastModifiedDate": "2021-03-10T16:23:15.644Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
   "developer": null,
   "seller": {
-    "id": "o-3wg8cebzdas9bt56adlsslgzr8mcue",
-    "name": "Unit 2 Games"
+    "id": "o-whjslbj96rnahy8ypck8xcb3qzmgh7",
+    "name": "Omeda Studios"
   },
   "linkedOfferId": null,
   "isFeatured": false,
@@ -28,10 +28,10 @@
       "path": "games"
     },
     {
-      "path": "games/edition/base"
+      "path": "games/edition"
     },
     {
-      "path": "games/edition"
+      "path": "games/edition/base"
     },
     {
       "path": "applications"
@@ -90,79 +90,79 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,JP"
+      "value": "KR"
     },
     {
       "key": "publisherName",
-      "value": "Unit 2 Games"
+      "value": "Omeda Studios"
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "crayta"
+      "value": "predecessor"
     }
   ],
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_CraytaStarterEdition_Wide-2560x1440-5a5af5eab33db6adbc4d3e568681af40.jpg",
-      "md5": "5a5af5eab33db6adbc4d3e568681af40",
-      "size": 876913,
-      "uploadedDate": "2021-03-06T00:02:17.758Z",
+      "url": "https://cdn1.epicgames.com/85f0435aa88347d185dbcb147716609b/offer/EGS_Predecessor_OmedaStudios_S1-2560x1440-5ab2309559173f7bbabe128b5d1988fd.jpg",
+      "md5": "5ab2309559173f7bbabe128b5d1988fd",
+      "size": 991527,
+      "uploadedDate": "2021-03-10T16:09:32.926Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_CraytaStarterEdition_Tall-1200x1600-176b7887293f0cea8b1c1e6a16dc3e7e.jpg",
-      "md5": "176b7887293f0cea8b1c1e6a16dc3e7e",
-      "size": 622582,
-      "uploadedDate": "2021-03-06T00:02:24.668Z",
+      "url": "https://cdn1.epicgames.com/85f0435aa88347d185dbcb147716609b/offer/EGS_Predecessor_OmedaStudios_S2-1200x1600-74773fe36e9ca88d17f2947d13eb2b4b.jpg",
+      "md5": "74773fe36e9ca88d17f2947d13eb2b4b",
+      "size": 940603,
+      "uploadedDate": "2021-03-10T16:09:43.040Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_CraytaStarterEdition_Tall-1200x1600-176b7887293f0cea8b1c1e6a16dc3e7e.jpg",
-      "md5": "176b7887293f0cea8b1c1e6a16dc3e7e",
-      "size": 622582,
-      "uploadedDate": "2021-03-06T00:02:35.469Z",
+      "url": "https://cdn1.epicgames.com/85f0435aa88347d185dbcb147716609b/offer/EGS_Predecessor_OmedaStudios_S2-1200x1600-74773fe36e9ca88d17f2947d13eb2b4b.jpg",
+      "md5": "74773fe36e9ca88d17f2947d13eb2b4b",
+      "size": 940603,
+      "uploadedDate": "2021-03-10T16:10:02.108Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_CraytaStarterEdition_Tall-1200x1600-176b7887293f0cea8b1c1e6a16dc3e7e.jpg",
-      "md5": "176b7887293f0cea8b1c1e6a16dc3e7e",
-      "size": 622582,
-      "uploadedDate": "2021-03-06T00:02:46.833Z",
+      "url": "https://cdn1.epicgames.com/85f0435aa88347d185dbcb147716609b/offer/EGS_Predecessor_OmedaStudios_S2-1200x1600-74773fe36e9ca88d17f2947d13eb2b4b.jpg",
+      "md5": "74773fe36e9ca88d17f2947d13eb2b4b",
+      "size": 940603,
+      "uploadedDate": "2021-03-10T16:10:10.467Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_CraytaStarterEdition_Wide-2560x1440-5a5af5eab33db6adbc4d3e568681af40.jpg",
-      "md5": "5a5af5eab33db6adbc4d3e568681af40",
-      "size": 876913,
-      "uploadedDate": "2021-03-06T00:02:59.259Z",
+      "url": "https://cdn1.epicgames.com/85f0435aa88347d185dbcb147716609b/offer/EGS_Predecessor_OmedaStudios_S1-2560x1440-5ab2309559173f7bbabe128b5d1988fd.jpg",
+      "md5": "5ab2309559173f7bbabe128b5d1988fd",
+      "size": 991527,
+      "uploadedDate": "2021-03-10T16:10:20.994Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_CraytaStarterEdition_Tall-1200x1600-176b7887293f0cea8b1c1e6a16dc3e7e.jpg",
-      "md5": "176b7887293f0cea8b1c1e6a16dc3e7e",
-      "size": 622582,
-      "uploadedDate": "2021-03-06T00:03:08.503Z",
+      "url": "https://cdn1.epicgames.com/85f0435aa88347d185dbcb147716609b/offer/EGS_Predecessor_OmedaStudios_S2-1200x1600-74773fe36e9ca88d17f2947d13eb2b4b.jpg",
+      "md5": "74773fe36e9ca88d17f2947d13eb2b4b",
+      "size": 940603,
+      "uploadedDate": "2021-03-10T16:10:29.954Z",
       "width": 1200,
       "height": 1600
     }
   ],
   "items": [
     {
-      "id": "a20cf79d9dcd420582d5fc96256d1610"
+      "id": "3c5c5a4e007d475e9447847d0ea6561b"
     }
   ],
   "catalogNs": {
-    "name": "bb9f87bb3d0042258bb1c97397bc60f2"
+    "name": "85f0435aa88347d185dbcb147716609b"
   }
 }

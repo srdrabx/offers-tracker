@@ -1,16 +1,16 @@
 {
   "id": "a6642a6761d842e5ae3d8e6046ee035d",
   "namespace": "bb9f87bb3d0042258bb1c97397bc60f2",
-  "title": "Crayta: Deluxe Edition",
-  "description": "Crayta: Deluxe Edition",
-  "longDescription": null,
+  "title": "Crayta: Deluxe Upgrade",
+  "description": "Crayta, the free-to-play game-making game is now coming to PC! Play and Create amazing multiplayer games with family, friends, and the rest of the world!",
+  "longDescription": "Crayta Deluxe Edition contains the following content:\n\n- Premium Pack: 5 x Decals, 4 x Emotes, 4 x Icons, 3 x Emoticons, 4 x Hairstyles and 3 x Makeup styles\n- Lightspeed Theme Pack\n- High Noon Theme Pack\n- Battle Pass 1: Alien Conspiracy\n- Battle Pass 2 (coming Q2 2021)\n- 500 Crayta Credits\nAND:\n- Mesmer Theme Pack\n- 1,000 Additional Crayta Credits\n\n# PLAY THOUSANDS OF GAMES\n\nPlay from an endlessly growing library of user-generated multiplayer games across a huge variety of genres. From team-based shooters and obstacle courses to farming simulators and cooking games, there’s going to be something for everyone.\n\n# CREATE GAMES WITH FRIENDS\n\nCrayta is a truly collaborative game creation platform built on Unreal Engine 4 - you and your friends can jump in and create games together in the cloud, regardless of your experience.\n\n# SHOW YOUR STYLE\n\nExpress yourself in the Crayta universe with a range of high quality customisation options. Collect outfits, emotes, drones and more to tailor your identity throughout the game.\n\n# UNLOCK GEAR AS YOU PLAY\n\nCrayta comes to PC with its all-new and unique Battle Pass system! Gain XP as you complete Creator Challenges and unlock awesome cosmetics as you progress.\n\n# CRAYTA: PLAY A DIFFERENT GAME",
   "status": "ACTIVE",
-  "productSlug": "crayta/deluxe-edition",
-  "urlSlug": "pikespeak--deluxe-edition",
+  "productSlug": null,
+  "urlSlug": "crayta--deluxe-upgrade",
   "creationDate": "2020-11-13T13:00:07.812Z",
-  "lastModifiedDate": "2021-03-03T23:42:44.052Z",
-  "effectiveDate": "2021-03-10T15:00:00.000Z",
-  "viewableDate": "2021-03-10T15:00:00.000Z",
+  "lastModifiedDate": "2021-03-10T11:56:23.502Z",
+  "effectiveDate": "2021-03-10T12:00:00.000Z",
+  "viewableDate": "2021-03-10T12:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-3wg8cebzdas9bt56adlsslgzr8mcue",
@@ -25,10 +25,10 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition"
+      "path": "addons"
     },
     {
-      "path": "games"
+      "path": "addons/durable"
     },
     {
       "path": "applications"
@@ -51,71 +51,80 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR"
+      "value": "KR,JP"
     },
     {
       "key": "publisherName",
       "value": "Unit 2 Games"
     },
     {
-      "key": "com.epicgames.app.productSlug",
-      "value": "crayta/deluxe-edition"
+      "key": "developerName",
+      "value": "Unit 2 Games"
     }
   ],
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_CraytaDeluxeEdition_Unit2Games_Editions_S1-2560x1440-d52e2102a9ba1572564114b351388c3c.jpg",
-      "md5": "d52e2102a9ba1572564114b351388c3c",
-      "size": 709729,
-      "uploadedDate": "2021-02-04T00:55:54.502Z",
+      "url": "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_CraytaDeluxeUpgrade_Unit2Games_AddOn_S1-2560x1440-13bcdd754ae9744978c5eb943b7993af.jpg",
+      "md5": "13bcdd754ae9744978c5eb943b7993af",
+      "size": 894713,
+      "uploadedDate": "2021-03-06T02:14:51.877Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_CraytaDeluxeEdition_Unit2Games_Editions_S2-1200x1600-e6113564d2b0b478b4d25160594fa6dd.jpg",
-      "md5": "e6113564d2b0b478b4d25160594fa6dd",
-      "size": 549601,
-      "uploadedDate": "2021-02-04T00:56:02.690Z",
+      "url": "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_CraytaDeluxeUpgrade_Unit2Games_AddOn_S2-1200x1600-82e6476c6171c41ed16dd60e4423d57d.jpg",
+      "md5": "82e6476c6171c41ed16dd60e4423d57d",
+      "size": 662244,
+      "uploadedDate": "2021-03-06T02:14:59.083Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_CraytaDeluxeEdition_Unit2Games_Editions_S2-1200x1600-e6113564d2b0b478b4d25160594fa6dd.jpg",
-      "md5": "e6113564d2b0b478b4d25160594fa6dd",
-      "size": 549601,
-      "uploadedDate": "2021-02-04T00:56:10.837Z",
+      "url": "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_CraytaDeluxeUpgrade_Unit2Games_AddOn_S2-1200x1600-82e6476c6171c41ed16dd60e4423d57d.jpg",
+      "md5": "82e6476c6171c41ed16dd60e4423d57d",
+      "size": 662244,
+      "uploadedDate": "2021-03-06T02:15:09.105Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_CraytaDeluxeEdition_Unit2Games_Editions_S2-1200x1600-e6113564d2b0b478b4d25160594fa6dd.jpg",
-      "md5": "e6113564d2b0b478b4d25160594fa6dd",
-      "size": 549601,
-      "uploadedDate": "2021-02-04T00:56:20.396Z",
-      "width": 1200,
-      "height": 1600
+      "url": "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_CraytaDeluxeUpgrade_Unit2Games_AddOn_S1-2560x1440-13bcdd754ae9744978c5eb943b7993af.jpg",
+      "md5": "13bcdd754ae9744978c5eb943b7993af",
+      "size": 894713,
+      "uploadedDate": "2021-03-06T02:15:15.468Z",
+      "width": 2560,
+      "height": 1440
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_CraytaDeluxeEdition_Unit2Games_Editions_S1-2560x1440-d52e2102a9ba1572564114b351388c3c.jpg",
-      "md5": "d52e2102a9ba1572564114b351388c3c",
-      "size": 709729,
-      "uploadedDate": "2021-02-04T00:56:29.838Z",
+      "url": "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_CraytaDeluxeUpgrade_Unit2Games_AddOn_S1-2560x1440-13bcdd754ae9744978c5eb943b7993af.jpg",
+      "md5": "13bcdd754ae9744978c5eb943b7993af",
+      "size": 894713,
+      "uploadedDate": "2021-03-06T02:15:29.568Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_CraytaDeluxeEdition_Unit2Games_Editions_S2-1200x1600-e6113564d2b0b478b4d25160594fa6dd.jpg",
-      "md5": "e6113564d2b0b478b4d25160594fa6dd",
-      "size": 549601,
-      "uploadedDate": "2021-02-04T00:56:37.928Z",
+      "url": "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_CraytaDeluxeUpgrade_Unit2Games_AddOn_S2-1200x1600-82e6476c6171c41ed16dd60e4423d57d.jpg",
+      "md5": "82e6476c6171c41ed16dd60e4423d57d",
+      "size": 662244,
+      "uploadedDate": "2021-03-06T02:15:36.208Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_CraytaDeluxeUpgrade_Unit2Games_AddOn_IC1-200x200-0571018eddff14d4641641aa258a0da8.png",
+      "md5": "0571018eddff14d4641641aa258a0da8",
+      "size": 11326,
+      "uploadedDate": "2021-03-06T02:15:49.590Z",
+      "width": 200,
+      "height": 200
     }
   ],
   "items": [
@@ -129,5 +138,7 @@
       "id": "9d57d292681946949c35f86d93ed8d05"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "bb9f87bb3d0042258bb1c97397bc60f2"
+  }
 }

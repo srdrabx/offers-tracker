@@ -13192,14 +13192,16 @@
   [
     "3c26aaad1a6045b5b14e291a61f3624d",
     "bb9f87bb3d0042258bb1c97397bc60f2",
-    "500 Credits Audience",
+    "500 Crayta Credits",
     [
+      "addons",
+      "addons/consumable",
       "applications"
     ],
     "Unit 2 Games",
     1605271997,
-    1613694422,
-    "",
+    1615377382,
+    "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_500CraytaCredits_Unit2Games_AddOn_S2-1200x1600-6b0645922136ce1f854468d99698c495.jpg",
     ""
   ],
   [
@@ -13986,14 +13988,16 @@
   [
     "3f9dec527f6745fb823c1fe21385d89e",
     "bb9f87bb3d0042258bb1c97397bc60f2",
-    "15000 Credits Audience",
+    "15,000 Crayta Credits",
     [
+      "addons",
+      "addons/consumable",
       "applications"
     ],
     "Unit 2 Games",
     1605272150,
-    1613694378,
-    "",
+    1615377382,
+    "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_15000CraytaCredits_Unit2Games_AddOn_S2-1200x1600-ffba532a042cca46c039eecc615421da.jpg",
     ""
   ],
   [
@@ -16580,17 +16584,17 @@
   [
     "4ba0451f2649433d8999790a2598a259",
     "bb9f87bb3d0042258bb1c97397bc60f2",
-    "Crayta: Champion Edition",
+    "Crayta: Champion Upgrade",
     [
-      "games/edition",
-      "games",
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Unit 2 Games",
     1610666045,
-    1614814981,
-    "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_CraytaChampionEditionVol1_Unit2Games_Editions_S2-1200x1600-20a810cfd70f00b3f322da32c776df19.jpg",
-    "crayta/champion-edition"
+    1615377383,
+    "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_CraytaChampionUpgrade_Tall-1200x1600-07b444443e1bce058eb1de6254906179.jpg",
+    ""
   ],
   [
     "4ba63eedac5842b8886f8a4545727bbd",
@@ -20849,7 +20853,7 @@
     ],
     "Unit 2 Games",
     1605272900,
-    1614722206,
+    1615377382,
     "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_CraytaAlienConspiracyBattlePass_Unit2Games_AddOn_S2-1200x1600-4cae3c54b8d8f355fe7f7a0fa676c0ca.jpg",
     ""
   ],
@@ -21649,14 +21653,16 @@
   [
     "62a0686495dc4cfe99109959a4a53700",
     "bb9f87bb3d0042258bb1c97397bc60f2",
-    "1000 Credits Audience",
+    "1,000 Crayta Credits",
     [
+      "addons",
+      "addons/consumable",
       "applications"
     ],
     "Unit 2 Games",
     1605272098,
-    1613694452,
-    "",
+    1615377382,
+    "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_1000CraytaCredits_Unit2Games_AddOn_S2-1200x1600-a56a9196a422cafa97b8a364092fa0fd.jpg",
     ""
   ],
   [
@@ -32551,14 +32557,16 @@
   [
     "965068490f924bfeae99dcf60e5fac5f",
     "bb9f87bb3d0042258bb1c97397bc60f2",
-    "5000 Credits Audience",
+    "5,000 Crayta Credits",
     [
+      "addons",
+      "addons/consumable",
       "applications"
     ],
     "Unit 2 Games",
     1605272134,
-    1613694504,
-    "",
+    1615377382,
+    "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_5000CraytaCredits_Unit2Games_AddOn_S2-1200x1600-905629736d8d7d5a45d81eb39fde9faf.jpg",
     ""
   ],
   [
@@ -34665,12 +34673,14 @@
     "Crayta",
     [
       "games",
+      "games/edition/base",
+      "games/edition",
       "applications"
     ],
     "Unit 2 Games",
     1601063626,
-    1614814947,
-    "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_CraytaStarterEdition_Unit2Games_S2-1200x1600-9d74e509e07a02ed9007ec5e5696544b.jpg",
+    1615377383,
+    "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_CraytaStarterEdition_Tall-1200x1600-176b7887293f0cea8b1c1e6a16dc3e7e.jpg",
     "crayta"
   ],
   [
@@ -35597,6 +35607,22 @@
     "far-cry-5/home"
   ],
   [
+    "a19138c05ca642d2a7fd73dcbadea7da",
+    "85f0435aa88347d185dbcb147716609b",
+    "Predecessor",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Omeda Studios",
+    1597788581,
+    1615393395,
+    "https://cdn1.epicgames.com/85f0435aa88347d185dbcb147716609b/offer/EGS_Predecessor_OmedaStudios_S2-1200x1600-74773fe36e9ca88d17f2947d13eb2b4b.jpg",
+    "predecessor"
+  ],
+  [
     "a1a461dfe3c741c59712aaacc38ed510",
     "7ad5508d382e46228056f1d1a0189ae2",
     "Spellblade to Master Spellblade Upgrade",
@@ -36500,17 +36526,17 @@
   [
     "a6642a6761d842e5ae3d8e6046ee035d",
     "bb9f87bb3d0042258bb1c97397bc60f2",
-    "Crayta: Deluxe Edition",
+    "Crayta: Deluxe Upgrade",
     [
-      "games/edition",
-      "games",
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Unit 2 Games",
     1605272407,
-    1614814964,
-    "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_CraytaDeluxeEdition_Unit2Games_Editions_S2-1200x1600-e6113564d2b0b478b4d25160594fa6dd.jpg",
-    "crayta/deluxe-edition"
+    1615377383,
+    "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_CraytaDeluxeUpgrade_Unit2Games_AddOn_S2-1200x1600-82e6476c6171c41ed16dd60e4423d57d.jpg",
+    ""
   ],
   [
     "a66dc80a37d948d88048e74fe6b1d6da",
@@ -39440,6 +39466,21 @@
     1605025250,
     1605200300,
     "https://cdn1.epicgames.com/0d89655f53884b09b241b60c07e684af/offer/EGS_Warhammer40000GladiusLordofSkulls_ProxyStudios_DLC_S2-1200x1600-70321fb94b9fc63f08ada0a9b2907c6f.jpg",
+    ""
+  ],
+  [
+    "b3c3876cc9774aa790b6a7e42afba8df",
+    "bb9f87bb3d0042258bb1c97397bc60f2",
+    "Crayta Battle Pass 2-Pack",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Unit 2 Games",
+    1610665948,
+    1615377382,
+    "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_CraytaBattlePass2Pack_Unit2Games_Bundles_S2-1200x1600-4cf2d0d6945189063bc8c4a329f9b22c.jpg",
     ""
   ],
   [
@@ -45704,6 +45745,22 @@
     ""
   ],
   [
+    "d3acf48fb4f549f994780e8f94bcbb7f",
+    "fn",
+    "Golden Touch Challenge Pack",
+    [
+      "addons",
+      "addons/durable",
+      "games",
+      "applications"
+    ],
+    "Epic Games",
+    1612890512,
+    1615246107,
+    "https://cdn1.epicgames.com/fn/offer/EN_15BR_GoldenTouch_512x512-512x512-2710828a86cbfc3075057901b2562ca6.png",
+    "fortnite/golden-touch-challenge-pack"
+  ],
+  [
     "d3c6163b13fa43149acf02291bc7fc49",
     "e1055bf1e5654b93a27e19e6bb86cb2a",
     "Lobbyistico",
@@ -46302,14 +46359,16 @@
   [
     "d7443724893c4c7eb649601f880fad12",
     "bb9f87bb3d0042258bb1c97397bc60f2",
-    "2500 Credits Audience",
+    "2,500 Crayta Credits",
     [
+      "addons",
+      "addons/consumable",
       "applications"
     ],
     "Unit 2 Games",
     1605272116,
-    1613694477,
-    "",
+    1615377383,
+    "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_2500CraytaCredits_Unit2Games_AddOn_S2-1200x1600-2c391532446a58299f5fc226759a17a9.jpg",
     ""
   ],
   [
