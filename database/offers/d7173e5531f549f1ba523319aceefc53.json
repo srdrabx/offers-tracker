@@ -1,0 +1,194 @@
+{
+  "id": "d7173e5531f549f1ba523319aceefc53",
+  "namespace": "d16f231f238646e881bb0cd83e1d30c8",
+  "title": "The Fall",
+  "description": "The Fall",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "the-fall",
+  "urlSlug": "cadmiumgeneralaudience",
+  "creationDate": "2021-01-21T20:27:31.361Z",
+  "lastModifiedDate": "2021-03-11T15:09:27.727Z",
+  "effectiveDate": "2021-03-18T15:00:00.000Z",
+  "viewableDate": "2021-03-11T15:25:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-ft7qxhfh9byrlh33kw6k54vy8989jd",
+    "name": "Over the Moon Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "freegames"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2021-02-10T17:36:19.203Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1298",
+      "name": "Puzzle",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2021-02-10T17:34:06.225Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2021-02-10T17:35:47.790Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "Mac OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX",
+        "macOS"
+      ],
+      "operator": null,
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2021-02-10T17:26:31.125Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Over The Moon"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-fall"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/d16f231f238646e881bb0cd83e1d30c8/offer/EGS_TheFall_overTheMoon_S1-2560x1440-7b4817dcd4a35cf5826da7f0bbc744f4.jpg",
+      "md5": "7b4817dcd4a35cf5826da7f0bbc744f4",
+      "size": 662781,
+      "uploadedDate": "2021-03-05T00:02:52.143Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/d16f231f238646e881bb0cd83e1d30c8/offer/EGS_TheFall_overTheMoon_S2-1200x1600-368b3e85b4d26f63468593c1defca54f.jpg",
+      "md5": "368b3e85b4d26f63468593c1defca54f",
+      "size": 468496,
+      "uploadedDate": "2021-03-05T00:03:07.354Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/d16f231f238646e881bb0cd83e1d30c8/offer/EGS_TheFall_overTheMoon_S2-1200x1600-368b3e85b4d26f63468593c1defca54f.jpg",
+      "md5": "368b3e85b4d26f63468593c1defca54f",
+      "size": 468496,
+      "uploadedDate": "2021-03-05T00:03:30.567Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/d16f231f238646e881bb0cd83e1d30c8/offer/EGS_TheFall_overTheMoon_S2-1200x1600-368b3e85b4d26f63468593c1defca54f.jpg",
+      "md5": "368b3e85b4d26f63468593c1defca54f",
+      "size": 468496,
+      "uploadedDate": "2021-03-05T00:03:41.099Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/d16f231f238646e881bb0cd83e1d30c8/offer/EGS_TheFall_overTheMoon_S1-2560x1440-7b4817dcd4a35cf5826da7f0bbc744f4.jpg",
+      "md5": "7b4817dcd4a35cf5826da7f0bbc744f4",
+      "size": 662781,
+      "uploadedDate": "2021-03-05T00:03:51.755Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/d16f231f238646e881bb0cd83e1d30c8/offer/EGS_TheFall_overTheMoon_S2-1200x1600-368b3e85b4d26f63468593c1defca54f.jpg",
+      "md5": "368b3e85b4d26f63468593c1defca54f",
+      "size": 468496,
+      "uploadedDate": "2021-03-05T00:03:59.134Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "2c396816fc454801b5fa2b20fc1203f2"
+    }
+  ],
+  "catalogNs": {
+    "name": "d16f231f238646e881bb0cd83e1d30c8"
+  }
+}

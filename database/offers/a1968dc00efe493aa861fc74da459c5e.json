@@ -1,0 +1,168 @@
+{
+  "id": "a1968dc00efe493aa861fc74da459c5e",
+  "namespace": "54090fbc182e44d79b2872f24994c190",
+  "title": "Splinter Cell",
+  "description": "Splinter Cell",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "splinter-cell",
+  "urlSlug": "splinter-cell",
+  "creationDate": "2020-08-06T15:50:14.148Z",
+  "lastModifiedDate": "2021-03-11T16:30:41.152Z",
+  "effectiveDate": "2021-03-11T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2021-02-10T17:36:19.203Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1187",
+      "name": "THIRD-PERSON SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:51.351Z",
+      "updated": "2020-09-01T13:53:52.413Z",
+      "status": "ACTIVE",
+      "referenceCount": 0,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1084",
+      "name": "Stealth",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:00.299Z",
+      "updated": "2021-02-05T16:18:25.590Z",
+      "status": "ACTIVE",
+      "referenceCount": 9,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "splinter-cell"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/54090fbc182e44d79b2872f24994c190/offer/SCEL_Store_Landscape_2560x1440-2560x1440-0966b116c19dc7029f8e19b918af7309.jpg",
+      "md5": "0966b116c19dc7029f8e19b918af7309",
+      "size": 979768,
+      "uploadedDate": "2021-03-08T20:25:19.865Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/54090fbc182e44d79b2872f24994c190/offer/SCEL_Store_Portrait_1200x1600-1200x1600-0da3630ec6853bf8a1d8e668c2da3f6c.jpg",
+      "md5": "0da3630ec6853bf8a1d8e668c2da3f6c",
+      "size": 766955,
+      "uploadedDate": "2021-03-08T20:25:22.620Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/54090fbc182e44d79b2872f24994c190/offer/SCEL_Store_Landscape_2560x1440-2560x1440-0966b116c19dc7029f8e19b918af7309.jpg",
+      "md5": "0966b116c19dc7029f8e19b918af7309",
+      "size": 979768,
+      "uploadedDate": "2021-03-08T20:25:50.997Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/54090fbc182e44d79b2872f24994c190/offer/SCEL_Store_Portrait_1200x1600-1200x1600-0da3630ec6853bf8a1d8e668c2da3f6c.jpg",
+      "md5": "0da3630ec6853bf8a1d8e668c2da3f6c",
+      "size": 766955,
+      "uploadedDate": "2021-03-08T20:25:54.102Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/54090fbc182e44d79b2872f24994c190/offer/SCEL_Store_Portrait_1200x1600-1200x1600-0da3630ec6853bf8a1d8e668c2da3f6c.jpg",
+      "md5": "0da3630ec6853bf8a1d8e668c2da3f6c",
+      "size": 766955,
+      "uploadedDate": "2021-03-08T20:25:57.347Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/54090fbc182e44d79b2872f24994c190/offer/SCEL_Store_Portrait_1200x1600-1200x1600-0da3630ec6853bf8a1d8e668c2da3f6c.jpg",
+      "md5": "0da3630ec6853bf8a1d8e668c2da3f6c",
+      "size": 766955,
+      "uploadedDate": "2021-03-08T20:26:00.512Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "d3e8c56676c24127a1b519dfdc4bc71d"
+    }
+  ],
+  "catalogNs": {
+    "name": "54090fbc182e44d79b2872f24994c190"
+  }
+}

@@ -8,7 +8,7 @@
   "productSlug": "rainbow-six-siege/gold-year-5-edition",
   "urlSlug": "carnation-gold-edition-y5",
   "creationDate": "2020-02-14T02:40:46.124Z",
-  "lastModifiedDate": "2020-11-26T16:18:14.452Z",
+  "lastModifiedDate": "2021-03-10T20:13:44.530Z",
   "effectiveDate": "2020-02-18T11:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -72,33 +72,6 @@
       "uploadedDate": "2020-02-12T09:41:44.790Z",
       "width": 1920,
       "height": 1080
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/carnation/offer/r6stall_new-1280x1420-7ae4d9785fcb96b0ef214654210a0e3e.jpg",
-      "md5": "7ae4d9785fcb96b0ef214654210a0e3e",
-      "size": 190772,
-      "uploadedDate": "2020-11-26T16:15:49.901Z",
-      "width": 1280,
-      "height": 1420
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/carnation/offer/r6swide_new-1920x1080-76746caf16fae4366e3500a47456b6c5.jpg",
-      "md5": "76746caf16fae4366e3500a47456b6c5",
-      "size": 199676,
-      "uploadedDate": "2020-11-26T16:17:34.740Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/carnation/offer/r6stall_new-1280x1420-7ae4d9785fcb96b0ef214654210a0e3e.jpg",
-      "md5": "7ae4d9785fcb96b0ef214654210a0e3e",
-      "size": 190772,
-      "uploadedDate": "2020-11-26T16:18:07.354Z",
-      "width": 1280,
-      "height": 1420
     }
   ],
   "items": [

@@ -1,16 +1,16 @@
 {
   "id": "75dfbdcb421144338fc2fad38b05da16",
   "namespace": "7e508f543b05465abe3a935960eb70ac",
-  "title": "DLC106",
-  "description": "DLC106",
-  "longDescription": "DLC106",
+  "title": "Grant the Baby Blue Dragon Familiar Pack",
+  "description": "Contains Grant the Baby Blue Dragon Familiar, 4 Epic Potions of Speed, 4 Epic Potions of Giant's Strength, 4 Epic Potions of Clairvoyance, and 1 Potion of Polish",
+  "longDescription": "Contains Grant the Baby Blue Dragon Familiar, 4 Epic Potions of Speed, 4 Epic Potions of Giant's Strength, 4 Epic Potions of Clairvoyance, and 1 Potion of Polish",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "banedlc075-04",
   "creationDate": "2021-02-24T20:06:05.603Z",
-  "lastModifiedDate": "2021-02-24T20:06:05.603Z",
-  "effectiveDate": "2021-03-10T17:00:00.000Z",
-  "viewableDate": "2021-03-10T17:00:00.000Z",
+  "lastModifiedDate": "2021-03-08T22:11:53.696Z",
+  "effectiveDate": "2021-03-10T20:00:00.000Z",
+  "viewableDate": "2021-03-10T20:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
@@ -58,5 +58,7 @@
       "id": "83b3102664e645479652bb5b3a9bbfbb"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "7e508f543b05465abe3a935960eb70ac"
+  }
 }

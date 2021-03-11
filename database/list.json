@@ -6459,6 +6459,19 @@
     ""
   ],
   [
+    "1d58cb7ad2db479e9f1b6b4fdcbc2b61",
+    "b57455ede0604d83892c3412ec3d610e",
+    "Total destroy",
+    [
+      "mods"
+    ],
+    "EPAM",
+    1615464040,
+    1615464040,
+    "",
+    ""
+  ],
+  [
     "1d5a23ba86f447b690af427b50df7763",
     "epic",
     "Atlas Mod Kit",
@@ -7370,7 +7383,7 @@
     ],
     "Serenity Forge",
     1614614737,
-    1614960133,
+    1615479439,
     "https://cdn1.epicgames.com/f0e736561b7d42d0bbd18c7ce039a151/offer/EGS_CyanideHappinessFreakpocalypse_ExplosmSkeletonCrewStudios_S2-1200x1600-decb2144e37ca51f73d69e4125d64f00.jpg",
     "cyanide-happiness-freakpocalypse"
   ],
@@ -9257,6 +9270,22 @@
     ""
   ],
   [
+    "2a86fd76da8b4c999ad5ec166b17896d",
+    "1cdfbaaccaab490c9305e86496c7f3fa",
+    "Splinter Cell Double Agent",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Ubisoft Entertainment",
+    1598647696,
+    1615479436,
+    "https://cdn1.epicgames.com/1cdfbaaccaab490c9305e86496c7f3fa/offer/SCL4_UCS17159_EGST_Store_Portrait_1200x1600-1200x1600-2cb5091f3265104c378c90378f36c83f.jpg",
+    "splinter-cell-double-agent"
+  ],
+  [
     "2aa893533da449c7b146c72880a414b3",
     "ace4435645d9489cacfbb422b7c1c817",
     "Samurai Shodown",
@@ -10274,6 +10303,22 @@
     1589468400,
     "https://cdn1.epicgames.com/camellia/offer/ACH_UCS12003_EGST_BannerBundle_GE_US_Edition_Capsule_1920X1080-1920x1080-a43bfe3bdf32ee5f61ca3dbb41972e38.jpg",
     "assassins-creed-origins/gold-edition"
+  ],
+  [
+    "2f898658975e4865b133fe73ea6c5d31",
+    "sundrop",
+    "For Honor® Y5S1 Battle Pass",
+    [
+      "addons",
+      "games",
+      "addons/durable",
+      "applications"
+    ],
+    "Ubisoft Entertainment",
+    1614919107,
+    1615477475,
+    "https://cdn1.epicgames.com/sundrop/offer/HRO_Y5S1_STD_Store_Portrait_1200x1600-1200x1600-2b7127279c911d206a747ebb8b2a8e6f-1200x1600-2b7127279c911d206a747ebb8b2a8e6f.jpg",
+    ""
   ],
   [
     "2f8f4b57e3054ed59a6712669231d3f3",
@@ -13387,7 +13432,6 @@
     "d66c34349a054c3ea529726a5687520e",
     "Wargame: Red Dragon",
     [
-      "freegames",
       "games",
       "games/edition",
       "games/edition/base",
@@ -13437,7 +13481,7 @@
     ],
     "Ubisoft Entertainment",
     1596729014,
-    1596729837,
+    1615475937,
     "",
     ""
   ],
@@ -17515,7 +17559,7 @@
     ],
     "Ubisoft Entertainment",
     1581647902,
-    1596645644,
+    1615407224,
     "https://cdn1.epicgames.com/carnation/offer/RAINBOW_SIX_SIEGE_YEAR_5_PASS_EPIC_Edition_Capsule_1920x1080-1920x1080-7e2582ec85702eb0685339bb0a470b2b.jpg",
     "rainbow-six-siege/year-5-pass"
   ],
@@ -23823,6 +23867,22 @@
     "heroes-and-generals-wwii/us-elite-fireteam"
   ],
   [
+    "6cd80223e1fd4d41beb0c62aa8f86e54",
+    "9afcf28baab84109ad3bc8038d07e7c1",
+    "Trials Fusion Season Pass",
+    [
+      "addons",
+      "games",
+      "addons/durable",
+      "applications"
+    ],
+    "Ubisoft Entertainment",
+    1605035080,
+    1615476084,
+    "https://cdn1.epicgames.com/9afcf28baab84109ad3bc8038d07e7c1/offer/TRFU_UCS17404_EGST_Store_Portrait_1200x1600-1200x1600-907b33b9a3415124d7212acc9e75f13a.jpg",
+    ""
+  ],
+  [
     "6cf72e00719344bf8f7aae98d5f67702",
     "ut",
     "Custom Characters",
@@ -24584,6 +24644,22 @@
     ""
   ],
   [
+    "70f924d7ae9b4cfdaf32a00722c6d15b",
+    "9afcf28baab84109ad3bc8038d07e7c1",
+    "Trials Fusion",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Ubisoft Entertainment",
+    1597339649,
+    1615479523,
+    "https://cdn1.epicgames.com/9afcf28baab84109ad3bc8038d07e7c1/offer/TRFU_UCS17402_EGST_Store_Portrait_1200x1600-1200x1600-1fff237359c345bdb2e1802e70d7b483.jpg",
+    "trials-fusion"
+  ],
+  [
     "7138add3ee2241f6a5f945baababbc0b",
     "clary",
     "Assassin's Creed Odyssey - Gold Edition",
@@ -24829,7 +24905,7 @@
     ],
     "Ubisoft Entertainment",
     1581648236,
-    1589468400,
+    1615407224,
     "https://cdn1.epicgames.com/carnation/offer/CodeRedemptionR6S_Generic_Packshot_Ultimate-312x440-1f6db0110320f5185e3b4ea44ac31fda.jpg",
     "rainbow-six-siege/ultimate-year-5-edition"
   ],
@@ -25714,14 +25790,14 @@
   [
     "75dfbdcb421144338fc2fad38b05da16",
     "7e508f543b05465abe3a935960eb70ac",
-    "DLC106",
+    "Grant the Baby Blue Dragon Familiar Pack",
     [
       "games",
       "applications"
     ],
     "Codename Entertainment",
     1614197165,
-    1614197165,
+    1615241513,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -28452,7 +28528,7 @@
     ],
     "Ubisoft Entertainment",
     1581648312,
-    1607034856,
+    1615407224,
     "https://cdn1.epicgames.com/carnation/offer/CodeRedemptionR6S_Generic_Packshot_Deluxe-312x440-5618390f481d185a31f130c7586e80b4.jpg",
     "rainbow-six-siege/deluxe-year-5-edition"
   ],
@@ -33748,6 +33824,21 @@
     "hello-neighbor-hide-and-seek/home"
   ],
   [
+    "9b532e9dd3434448abfed67af9e90ee7",
+    "9afcf28baab84109ad3bc8038d07e7c1",
+    "Trials Fusion: The Awesome Max Edition",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Ubisoft Entertainment",
+    1605034896,
+    1615476084,
+    "https://cdn1.epicgames.com/9afcf28baab84109ad3bc8038d07e7c1/offer/TRFU_UCS17403_EGST_Store_Portrait_1200x1600-1200x1600-9fec0ce4c4eb53f3c35893553e605eba.jpg",
+    ""
+  ],
+  [
     "9b68e26505c045759ab603efc2deab23",
     "1696ef78f67c411ea67d2c2b8e9bc5a6",
     "Cartel Tycoon",
@@ -35623,6 +35714,22 @@
     "predecessor"
   ],
   [
+    "a1968dc00efe493aa861fc74da459c5e",
+    "54090fbc182e44d79b2872f24994c190",
+    "Splinter Cell",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Ubisoft Entertainment",
+    1596729014,
+    1615480241,
+    "https://cdn1.epicgames.com/54090fbc182e44d79b2872f24994c190/offer/SCEL_Store_Portrait_1200x1600-1200x1600-0da3630ec6853bf8a1d8e668c2da3f6c.jpg",
+    "splinter-cell"
+  ],
+  [
     "a1a461dfe3c741c59712aaacc38ed510",
     "7ad5508d382e46228056f1d1a0189ae2",
     "Spellblade to Master Spellblade Upgrade",
@@ -36925,8 +37032,8 @@
     ],
     "Ubisoft Entertainment",
     1600101388,
-    1608219279,
-    "https://cdn1.epicgames.com/19d54f4a6d7e4ba99c5caf8972fbfd02/offer/HYPERSCAPE_STD_GAME_EPIC_Store_Portrait_1200x1600-1200x1600-8f085c29a0437027622d7f73b0f4d2a8.png",
+    1615477475,
+    "https://cdn1.epicgames.com/19d54f4a6d7e4ba99c5caf8972fbfd02/offer/EN_HYPERSCAPE SEASON 3__EPIC_Store Portrait_1200x1600-1200x1600-ece65f20a2892c405a96210620b3b1c1.png",
     "hyper-scape"
   ],
   [
@@ -40148,7 +40255,7 @@
     ],
     "Ubisoft Entertainment",
     1581648046,
-    1606407494,
+    1615407224,
     "https://cdn1.epicgames.com/carnation/offer/RAINBOW_SIX_SIEGE_STANDARD_PC ALL_Extra_Visuals_Description_1920x1080-1920x1080-95b8ea77643c7499f99fdafc32dc3f8c.jpg",
     "rainbow-six-siege/gold-year-5-edition"
   ],
@@ -46311,6 +46418,23 @@
     ""
   ],
   [
+    "d7173e5531f549f1ba523319aceefc53",
+    "d16f231f238646e881bb0cd83e1d30c8",
+    "The Fall",
+    [
+      "freegames",
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Over the Moon Games",
+    1611260851,
+    1615475367,
+    "https://cdn1.epicgames.com/d16f231f238646e881bb0cd83e1d30c8/offer/EGS_TheFall_overTheMoon_S2-1200x1600-368b3e85b4d26f63468593c1defca54f.jpg",
+    "the-fall"
+  ],
+  [
     "d718e237ee324034ab59f54307563505",
     "76339caf9e8e4d24b62761c736e82b42",
     "KiwiDLC1",
@@ -49588,6 +49712,22 @@
     1586976747,
     1607442069,
     "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
+    ""
+  ],
+  [
+    "e46b438a77ba4bbdb9cae2976981f3f2",
+    "sundrop",
+    "For Honor® Y5S1 Battle Bundle",
+    [
+      "addons",
+      "games",
+      "addons/durable",
+      "applications"
+    ],
+    "Ubisoft Entertainment",
+    1614919729,
+    1615477475,
+    "https://cdn1.epicgames.com/sundrop/offer/HRO_Y5S1_STD_Store_Portrait_1200x1600-1200x1600-ffce0c657bd027c931a09f85ec27058a.jpg",
     ""
   ],
   [
@@ -53715,6 +53855,22 @@
     1473696218,
     1573597686,
     "",
+    ""
+  ],
+  [
+    "f74599c67bcf4354a934a119edf7736d",
+    "9afcf28baab84109ad3bc8038d07e7c1",
+    "Trials Fusion – Awesome Max Level DLC",
+    [
+      "addons",
+      "games",
+      "addons/durable",
+      "applications"
+    ],
+    "Ubisoft Entertainment",
+    1605034966,
+    1615476084,
+    "https://cdn1.epicgames.com/9afcf28baab84109ad3bc8038d07e7c1/offer/TrialsFusion_Store_Portrait_1200x1600-1200x1600-ef1a80b8a04a9776b3ae19fad922f556.jpg",
     ""
   ],
   [

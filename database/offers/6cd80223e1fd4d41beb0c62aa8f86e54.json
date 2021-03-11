@@ -1,0 +1,150 @@
+{
+  "id": "6cd80223e1fd4d41beb0c62aa8f86e54",
+  "namespace": "9afcf28baab84109ad3bc8038d07e7c1",
+  "title": "Trials Fusion Season Pass",
+  "description": "Want to go beyond the unlimited fun of Trials Fusion?\nGet the Season Pass to receive all 6 DLCs, featuring new tracks, new bike parts, rider gear, and new items for the track editor, and each DLC will let you enjoy a new Career Mode Event.",
+  "longDescription": "Want to go beyond the unlimited fun of Trials Fusion?\nAdd some craziness to your game through additional content! Get the Season Pass to receive all 6 DLCs:\n- Riders of the Rustlands\n- Empire of the Sky\n- Welcome to the Abyss\n- Fire in the Deep\n- Fault One Zero\n- After The Incident\n \nOn top of this, the Season Pass also includes one exclusive item: the Crater Hazmat Suite! Stand out in the Trials Fusion universe and get the respect of your peers with this new and exclusive skin for your rider.",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "trials-fusion--season-pass",
+  "creationDate": "2020-11-10T19:04:40.974Z",
+  "lastModifiedDate": "2021-03-11T15:21:24.420Z",
+  "effectiveDate": "2021-03-11T16:00:00.000Z",
+  "viewableDate": "2021-03-11T16:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1203",
+      "name": "Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2021-02-10T17:35:33.537Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1212",
+      "name": "Racing",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:03.663Z",
+      "updated": "2021-02-05T16:17:00.647Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "developerName",
+      "value": "RedLynx"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/9afcf28baab84109ad3bc8038d07e7c1/offer/TRFU_UCS17404_EGST_Store_Landscape_2560x1440-2560x1440-9224ebd5934b5b4fb662018669cdb0fc.jpg",
+      "md5": "9224ebd5934b5b4fb662018669cdb0fc",
+      "size": 421879,
+      "uploadedDate": "2021-03-09T23:42:16.889Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/9afcf28baab84109ad3bc8038d07e7c1/offer/TRFU_UCS17404_EGST_Store_Portrait_1200x1600-1200x1600-907b33b9a3415124d7212acc9e75f13a.jpg",
+      "md5": "907b33b9a3415124d7212acc9e75f13a",
+      "size": 254397,
+      "uploadedDate": "2021-03-09T23:42:19.748Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/9afcf28baab84109ad3bc8038d07e7c1/offer/TRFU_UCS17404_EGST_Store_Portrait_1200x1600-1200x1600-907b33b9a3415124d7212acc9e75f13a.jpg",
+      "md5": "907b33b9a3415124d7212acc9e75f13a",
+      "size": 254397,
+      "uploadedDate": "2021-03-09T23:42:22.656Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/9afcf28baab84109ad3bc8038d07e7c1/offer/TRFU_UCS17404_EGST_Store_Portrait_1200x1600-1200x1600-907b33b9a3415124d7212acc9e75f13a.jpg",
+      "md5": "907b33b9a3415124d7212acc9e75f13a",
+      "size": 254397,
+      "uploadedDate": "2021-03-09T23:42:25.023Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/9afcf28baab84109ad3bc8038d07e7c1/offer/TRFU_UCS17404_EGST Game Logo color_400x150-400x150-443aa30c72aeefe59866ddfab652a2e1.png",
+      "md5": "443aa30c72aeefe59866ddfab652a2e1",
+      "size": 100868,
+      "uploadedDate": "2021-03-09T23:42:28.723Z",
+      "width": 400,
+      "height": 150
+    }
+  ],
+  "items": [
+    {
+      "id": "5df57ed980144aeaab1cf35904bdeaf6"
+    },
+    {
+      "id": "912e6d204e1749f182bc81e36dcebff3"
+    }
+  ],
+  "catalogNs": {
+    "name": "9afcf28baab84109ad3bc8038d07e7c1"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "1d58cb7ad2db479e9f1b6b4fdcbc2b61",
+  "namespace": "b57455ede0604d83892c3412ec3d610e",
+  "title": "Total destroy",
+  "description": "Unnamed mod description",
+  "longDescription": "[{\"id\":\"1615463944157.1213\",\"type\":\"text\",\"value\":{\"title\":\"erer\",\"description\":\"werwrwrwer\"}}]",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "03936f89b9a647d3ae24fbe664e1ee9a",
+  "creationDate": "2021-03-11T12:00:40.869Z",
+  "lastModifiedDate": "2021-03-11T12:00:40.869Z",
+  "effectiveDate": "2021-03-11T11:59:54.063Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-4u27qbdqvv6696cs5zlryn4hta8vrk",
+    "name": "EPAM"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "mods"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [
+    {
+      "type": "carousel",
+      "url": "https://cdn1.epicgames.com/mods/b57455ede0604d83892c3412ec3d610e/5e1a83566de841a6aff2065bc2531c2a/1615463931139_1920_1080.jpg",
+      "md5": "9b823dd34bb84c88e3b9ad00cdd35aef",
+      "size": 72261,
+      "uploadedDate": "2020-12-08T14:38:59.000Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "storefront",
+      "url": "https://cdn1.epicgames.com/mods/b57455ede0604d83892c3412ec3d610e/5e1a83566de841a6aff2065bc2531c2a/1615463935551_1200_1600.jpg",
+      "md5": "1d530b1b99b06129b1b7434c6488436a",
+      "size": 84572,
+      "uploadedDate": "2020-12-08T14:44:21.000Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/mods/b57455ede0604d83892c3412ec3d610e/5e1a83566de841a6aff2065bc2531c2a/1615463938833_2560_1440.jpg",
+      "md5": "350d13dd1f3fe2825d3c5165c4019bcf",
+      "size": 118780,
+      "uploadedDate": "2020-12-08T14:46:59.000Z",
+      "width": 2560,
+      "height": 1440
+    }
+  ],
+  "items": [
+    {
+      "id": "5e1a83566de841a6aff2065bc2531c2a"
+    }
+  ],
+  "catalogNs": {
+    "name": "b57455ede0604d83892c3412ec3d610e"
+  }
+}
