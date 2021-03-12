@@ -6466,8 +6466,8 @@
       "mods"
     ],
     "EPAM",
-    1615464040,
-    1615464040,
+    1615463898,
+    1615463898,
     "",
     ""
   ],
@@ -15346,6 +15346,19 @@
     "stranded-deep/home"
   ],
   [
+    "460e395b734847bc95881a91d6e4f380",
+    "b57455ede0604d83892c3412ec3d610e",
+    "New for Diff",
+    [
+      "mods"
+    ],
+    "EPAM",
+    1615544257,
+    1615544257,
+    "",
+    ""
+  ],
+  [
     "462844c5fc104812a53792c42d400644",
     "0a4fc789eb0143c29296de79df5387ab",
     "Crying Suns",
@@ -22241,7 +22254,7 @@
     ],
     "NCSoft",
     1612341880,
-    1614125331,
+    1615476249,
     "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_VengaboysWeLiketoPartyTheVengabus_HarmonixMusicSystemsInc_DLC_S2-1200x1600-6382c36950e2a0d8355a6d2adeab0999.jpg",
     ""
   ],
@@ -26907,6 +26920,21 @@
     1559759139,
     1588121192,
     "https://cdn1.epicgames.com/undefined/offer/Journey_CodeRedemption-330x440-0347f691acfea0a60655a94dc8065a92-330x440-0347f691acfea0a60655a94dc8065a92.png",
+    ""
+  ],
+  [
+    "7af1ca64fc014bc49e2818656adfeb82",
+    "6af58339c2424644988e0fb83dfd9bd5",
+    "David Guetta ft. Nicki Minaj & Flo Rida - \"Where Them Girls At\"",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "NCSoft",
+    1612341930,
+    1614125331,
+    "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/00f2683a-458f-4095-a556-0ce0fd81f954-1200x1600-6938b3bba4b61d3072cebcbb589f81bf.jpg",
     ""
   ],
   [
@@ -44298,6 +44326,22 @@
     ""
   ],
   [
+    "cb1570a8b78e4a7cacb8851d0f3f6873",
+    "f0e736561b7d42d0bbd18c7ce039a151",
+    "Cyanide & Happiness - Freakpocalypse",
+    [
+      "games/edition/base",
+      "games/edition",
+      "games",
+      "applications"
+    ],
+    "Serenity Forge",
+    1614222717,
+    1614963509,
+    "https://cdn1.epicgames.com/f0e736561b7d42d0bbd18c7ce039a151/offer/EGS_CyanideHappinessFreakpocalypse_ExplosmSkeletonCrewStudios_S2-1200x1600-decb2144e37ca51f73d69e4125d64f00.jpg",
+    "cyanide-happiness-freakpocalypse"
+  ],
+  [
     "cb167762a6b9490493748a0f641f01e9",
     "epic",
     "Squad Editor",
@@ -55335,7 +55379,7 @@
     ],
     "NCSoft",
     1612341841,
-    1614125331,
+    1615476249,
     "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_TheWhiteStripesSevenNationArmy_HarmonixMusicSystemsInc_DLC_S2-1200x1600-5d2630314f01252e1ae25ce2b082341d.jpg",
     ""
   ],

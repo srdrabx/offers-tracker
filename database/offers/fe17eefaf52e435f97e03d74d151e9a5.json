@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "fuser--seven-nation-army",
   "creationDate": "2021-02-03T08:44:01.877Z",
-  "lastModifiedDate": "2021-02-24T00:08:51.942Z",
+  "lastModifiedDate": "2021-03-11T15:24:09.790Z",
   "effectiveDate": "2021-03-11T17:00:00.000Z",
   "viewableDate": "2021-03-11T17:00:00.000Z",
   "developer": null,
@@ -92,5 +92,7 @@
       "id": "a41542464ea24dc1b46fd2eb7f070203"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "6af58339c2424644988e0fb83dfd9bd5"
+  }
 }
