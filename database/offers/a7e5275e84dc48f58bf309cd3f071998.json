@@ -78,7 +78,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "CN"
+      "value": "CN,KR"
     },
     {
       "key": "publisherName",

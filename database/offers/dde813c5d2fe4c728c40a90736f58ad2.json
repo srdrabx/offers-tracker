@@ -8,7 +8,7 @@
   "productSlug": "surviving-mars",
   "urlSlug": "surviving-mars-digital-deluxe-edition",
   "creationDate": "2019-10-01T21:50:18.758Z",
-  "lastModifiedDate": "2020-07-29T20:14:31.955Z",
+  "lastModifiedDate": "2021-03-15T10:54:23.919Z",
   "effectiveDate": "2019-10-17T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -117,21 +117,6 @@
       "updated": "2021-02-05T16:07:21.852Z",
       "status": "ACTIVE",
       "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "9548",
-      "name": "OSX",
-      "namespace": "epic",
-      "aliases": [
-        "OS X",
-        "MAC OS"
-      ],
-      "operator": null,
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2020-09-15T18:08:53.889Z",
-      "status": "ACTIVE",
-      "referenceCount": 48,
       "comment": null
     },
     {

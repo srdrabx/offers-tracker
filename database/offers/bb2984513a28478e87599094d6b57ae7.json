@@ -1,0 +1,189 @@
+{
+  "id": "bb2984513a28478e87599094d6b57ae7",
+  "namespace": "d759128018124dcabb1fbee9bb28e178",
+  "title": "Surviving Mars: In-Dome Buildings Pack",
+  "description": "Expand your colony with the first Surviving Mars Content Creator Pack from longtime Paradox community modder Silva - the In-Dome Buildings Pack.",
+  "longDescription": "You are clear for landing!\n\nExpand your colony with the first Surviving Mars Content Creator Pack from longtime Paradox community modder Silva - the In-Dome Buildings Pack. Take your colony to the next level with 8 buildings and technical additions to help you make the red planet feel a little more like home. This pack expands housing options and introduces more community buildings.\n\n# The In-Dome Buildings Pack Includes:\n\n**Habitats for Humanity**\n◾Smart Apartments\n◾Seniors Residence\n◾Large Nursery\n**Dome Sweet Dome**\n◾Medical Post \n◾Security Post\n◾Hospital\n◾TV Studio Workshop \n◾School Spire",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "surviving-mars--surviving-mars-in-dome-buildings-pack",
+  "creationDate": "2021-01-11T19:27:53.015Z",
+  "lastModifiedDate": "2021-03-15T10:54:42.371Z",
+  "effectiveDate": "2021-03-15T11:00:00.000Z",
+  "viewableDate": "2021-03-15T11:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+    "name": "Paradox Interactive"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1080",
+      "name": "Survival",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2021-02-05T16:19:16.566Z",
+      "status": "ACTIVE",
+      "referenceCount": 11,
+      "comment": null
+    },
+    {
+      "id": "1146",
+      "name": "City Builder",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:31.235Z",
+      "updated": "2021-02-05T16:18:08.310Z",
+      "status": "ACTIVE",
+      "referenceCount": 9,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "Strategy",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2021-02-10T17:35:11.878Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2021-02-10T17:36:06.452Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Paradox Interactive AB"
+    },
+    {
+      "key": "developerName",
+      "value": "Abstraction"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/d759128018124dcabb1fbee9bb28e178/offer/EGS_SurvivingMarsInDomeBuildingsPack_Abstraction_DLC_S1-2560x1440-13d4185535dabdd8e77b214f258adea9.jpg",
+      "md5": "13d4185535dabdd8e77b214f258adea9",
+      "size": 841989,
+      "uploadedDate": "2021-03-05T20:52:42.057Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/d759128018124dcabb1fbee9bb28e178/offer/EGS_SurvivingMarsInDomeBuildingsPack_Abstraction_DLC_S2-1200x1600-998c28c882219f4485876e4eb837e971.jpg",
+      "md5": "998c28c882219f4485876e4eb837e971",
+      "size": 802561,
+      "uploadedDate": "2021-03-05T20:52:51.534Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/d759128018124dcabb1fbee9bb28e178/offer/EGS_SurvivingMarsInDomeBuildingsPack_Abstraction_DLC_S2-1200x1600-998c28c882219f4485876e4eb837e971.jpg",
+      "md5": "998c28c882219f4485876e4eb837e971",
+      "size": 802561,
+      "uploadedDate": "2021-03-05T20:58:48.680Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/d759128018124dcabb1fbee9bb28e178/offer/EGS_SurvivingMarsInDomeBuildingsPack_Abstraction_DLC_S2-1200x1600-998c28c882219f4485876e4eb837e971.jpg",
+      "md5": "998c28c882219f4485876e4eb837e971",
+      "size": 802561,
+      "uploadedDate": "2021-03-05T20:58:57.698Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/d759128018124dcabb1fbee9bb28e178/offer/EGS_SurvivingMarsInDomeBuildingsPack_Abstraction_DLC_G1C_00-1920x1080-915587cca3c8f4c4fbd1346894030636.jpg",
+      "md5": "915587cca3c8f4c4fbd1346894030636",
+      "size": 887789,
+      "uploadedDate": "2021-03-05T20:59:41.518Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/d759128018124dcabb1fbee9bb28e178/offer/EGS_SurvivingMarsInDomeBuildingsPack_Abstraction_DLC_G1A_01-1920x1080-1f09a4a8f36a77a4c214a1b25c1d5ad7.jpg",
+      "md5": "1f09a4a8f36a77a4c214a1b25c1d5ad7",
+      "size": 891932,
+      "uploadedDate": "2021-03-05T21:12:36.152Z",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "items": [
+    {
+      "id": "cff1bed7c254491b9b41f18b195f334b"
+    }
+  ],
+  "catalogNs": {
+    "name": "d759128018124dcabb1fbee9bb28e178"
+  }
+}

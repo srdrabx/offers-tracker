@@ -14,7 +14,7 @@
   "developer": null,
   "seller": {
     "id": "o-3vwngp9neexv58akmmcd67srxym3a4",
-    "name": "Crytek"
+    "name": "Crytek GmbH"
   },
   "linkedOfferId": null,
   "isFeatured": false,
@@ -160,42 +160,6 @@
       "height": 1440
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/17a1f8585f9246808597b30780aaf4fb/offer/EGS_CrysisRemastered_Crytek_S4-1200x1600-45e894b4daa06064cf2ae91bccf6221b.jpg",
-      "md5": "45e894b4daa06064cf2ae91bccf6221b",
-      "size": 473426,
-      "uploadedDate": "2020-06-30T22:29:48.324Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/17a1f8585f9246808597b30780aaf4fb/offer/EGS_CrysisRemastered_Crytek_S2-1200x1600-45e894b4daa06064cf2ae91bccf6221b.jpg",
-      "md5": "45e894b4daa06064cf2ae91bccf6221b",
-      "size": 473426,
-      "uploadedDate": "2020-06-30T22:30:14.799Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/17a1f8585f9246808597b30780aaf4fb/offer/EGS_CrysisRemastered_Crytek_S2-1200x1600-45e894b4daa06064cf2ae91bccf6221b.jpg",
-      "md5": "45e894b4daa06064cf2ae91bccf6221b",
-      "size": 473426,
-      "uploadedDate": "2020-06-30T22:30:30.384Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/17a1f8585f9246808597b30780aaf4fb/offer/EGS_CrysisRemastered_Crytek_S2-1200x1600-45e894b4daa06064cf2ae91bccf6221b.jpg",
-      "md5": "45e894b4daa06064cf2ae91bccf6221b",
-      "size": 473426,
-      "uploadedDate": "2020-06-30T22:30:41.830Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "DieselStoreFrontWide",
       "url": "https://cdn1.epicgames.com/17a1f8585f9246808597b30780aaf4fb/offer/EGS_CrysisRemastered_Crytek_S1-2560x1440-4f8d106c1c528b43836bcf6b9f52f0cf.jpg",
       "md5": "4f8d106c1c528b43836bcf6b9f52f0cf",
@@ -203,6 +167,42 @@
       "uploadedDate": "2020-06-30T22:30:58.050Z",
       "width": 2560,
       "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/17a1f8585f9246808597b30780aaf4fb/offer/Epic_1200x1600_3-1200x1600-09e053727338431398657d372af1e62c.png",
+      "md5": "09e053727338431398657d372af1e62c",
+      "size": 2686291,
+      "uploadedDate": "2021-03-15T15:15:37.166Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/17a1f8585f9246808597b30780aaf4fb/offer/Epic_1200x1600_3-1200x1600-09e053727338431398657d372af1e62c.png",
+      "md5": "09e053727338431398657d372af1e62c",
+      "size": 2686291,
+      "uploadedDate": "2021-03-15T15:15:47.311Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/17a1f8585f9246808597b30780aaf4fb/offer/Epic_1200x1600_3-1200x1600-09e053727338431398657d372af1e62c.png",
+      "md5": "09e053727338431398657d372af1e62c",
+      "size": 2686291,
+      "uploadedDate": "2021-03-15T15:15:57.019Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/17a1f8585f9246808597b30780aaf4fb/offer/Epic_1200x1600_3-1200x1600-09e053727338431398657d372af1e62c.png",
+      "md5": "09e053727338431398657d372af1e62c",
+      "size": 2686291,
+      "uploadedDate": "2021-03-15T15:16:05.759Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [
