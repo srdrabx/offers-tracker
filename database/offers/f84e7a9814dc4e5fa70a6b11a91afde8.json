@@ -5,8 +5,8 @@
   "description": "Instantly unlock 1500 Crystals and Season Pass Limited items: the Soul-Stealer Furia Skin and Golden Gryphon Mount.\n\nYou'll also get a 10% bonus on any Crystals you purchase during the year.",
   "longDescription": "Get Exclusive content for every new Champion, all-year long, with the Paladins Season Pass 2021!\n\nYou’ll instantly unlock cosmetics you can only get in the Season Pass: The Limited Soul-Stealer Furia Skin and Golden Gryphon Mount.\n\nPlus, you’ll get 1500 Crystals instantly as well as a 10% bonus on ALL Crystals you purchase throughout the year!\n\nPlus, get incredible content for every new Champion released in 2021: Season Pass Limited Skins, Unlocked Talents, Emotes, MVP Poses, and more!",
   "status": "ACTIVE",
-  "productSlug": "paladins/season-pass-2021",
-  "urlSlug": "paladins--season-pass-01",
+  "productSlug": "paladins/season-pass2021",
+  "urlSlug": "paladins--season-pass2021",
   "creationDate": "2021-01-11T22:28:53.414Z",
   "lastModifiedDate": "2021-02-04T20:17:19.136Z",
   "effectiveDate": "2021-02-03T12:00:00.000Z",
@@ -50,7 +50,7 @@
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "paladins/season-pass-2021"
+      "value": "paladins/season-pass2021"
     }
   ],
   "keyImages": [

@@ -2,13 +2,13 @@
   "id": "9f47dad590a44949b1e2eb519adc0ca1",
   "namespace": "carnation",
   "title": "Rainbow Six Siege",
-  "description": "Rainbow Six Siege Standard Edition Y5",
+  "description": "Rainbow Six Siege Standard Edition Y6",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": "rainbow-six-siege/home",
   "urlSlug": "carnationgeneraly5audience",
   "creationDate": "2020-02-18T21:28:30.255Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
+  "lastModifiedDate": "2021-03-16T13:18:56.169Z",
   "effectiveDate": "2019-08-19T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -38,6 +38,18 @@
     }
   ],
   "tags": [
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2021-02-10T17:36:19.203Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
     {
       "id": "1264",
       "name": "Co-op",
@@ -101,10 +113,6 @@
   ],
   "customAttributes": [
     {
-      "key": "com.epicgames.app.blacklist",
-      "value": "CN"
-    },
-    {
       "key": "developerName",
       "value": "Ubisoft"
     },
@@ -115,76 +123,58 @@
   ],
   "keyImages": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/PrimaryPromo-2580x1450-98dab23be171fab753c54e811fecf075.jpg",
-      "md5": "98dab23be171fab753c54e811fecf075",
-      "size": 283768,
-      "uploadedDate": "2019-08-16T23:58:21.111Z",
-      "width": 2580,
-      "height": 1450
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Store_Portrait_Promo_1280x1420-1280x1420-7ae4d9785fcb96b0ef214654210a0e3e.jpg",
-      "md5": "7ae4d9785fcb96b0ef214654210a0e3e",
-      "size": 190772,
-      "uploadedDate": "2019-08-16T23:58:33.434Z",
-      "width": 1280,
-      "height": 1420
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/R6S_Logo_Color_1000x375-1000x375-8e2b21c06400f36fae8d6a6695cd7155.png",
-      "md5": "8e2b21c06400f36fae8d6a6695cd7155",
-      "size": 24730,
-      "uploadedDate": "2019-08-16T23:58:44.512Z",
-      "width": 1000,
-      "height": 375
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/carnation/offer/r6s-y6-epic-std-store-landscape-2560x1440-2560x1440-ada4045f97c2-2560x1440-1a29dde6790c324f62bb12216e651944.jpeg",
+      "md5": "1a29dde6790c324f62bb12216e651944",
+      "size": 265697,
+      "uploadedDate": "2021-03-14T20:23:54.351Z",
+      "width": 2560,
+      "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Store_Portrait_Promo_1280x1420-1280x1420-7ae4d9785fcb96b0ef214654210a0e3e.jpg",
-      "md5": "7ae4d9785fcb96b0ef214654210a0e3e",
-      "size": 190772,
-      "uploadedDate": "2019-08-16T23:58:33.434Z",
-      "width": 1280,
-      "height": 1420
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/carnation/offer/CodeRedemptionR6S_Generic_Packshot_Standard-311x440-13056fa642ff879148895f147afaf6c8.jpg",
-      "md5": "13056fa642ff879148895f147afaf6c8",
-      "size": 41586,
-      "uploadedDate": "2019-08-20T01:13:59.699Z",
-      "width": 311,
-      "height": 440
+      "url": "https://cdn1.epicgames.com/carnation/offer/r6s-y6-epic-std-store-portrait-1200x1600-1200x1600-8ecd88137e14-1200x1600-05e68a0aed3dc068b9b4186997b97317.jpeg",
+      "md5": "05e68a0aed3dc068b9b4186997b97317",
+      "size": 179414,
+      "uploadedDate": "2021-03-14T20:24:01.646Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/carnation/offer/CodeRedemptionR6S_Generic_Packshot_Standard-311x440-13056fa642ff879148895f147afaf6c8.jpg",
-      "md5": "13056fa642ff879148895f147afaf6c8",
-      "size": 41586,
-      "uploadedDate": "2019-08-20T01:14:10.311Z",
-      "width": 311,
-      "height": 440
+      "url": "https://cdn1.epicgames.com/carnation/offer/r6s-y6-epic-std-store-portrait-1200x1600-1200x1600-8ecd88137e14-1200x1600-05e68a0aed3dc068b9b4186997b97317.jpeg",
+      "md5": "05e68a0aed3dc068b9b4186997b97317",
+      "size": 179414,
+      "uploadedDate": "2021-03-14T20:24:12.400Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/carnation/offer/Rainbow-6-Rating-842x404-75ee5be4802354e80b9041728c4343cb.png",
-      "md5": "75ee5be4802354e80b9041728c4343cb",
-      "size": 66389,
-      "uploadedDate": "2019-11-21T13:14:58.302Z",
-      "width": 842,
-      "height": 404
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/carnation/offer/r6s-y6-epic-std-store-portrait-1200x1600-1200x1600-8ecd88137e14-1200x1600-05e68a0aed3dc068b9b4186997b97317.jpeg",
+      "md5": "05e68a0aed3dc068b9b4186997b97317",
+      "size": 179414,
+      "uploadedDate": "2021-03-14T20:24:22.575Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/carnation/offer/RAINBOW_SIX_SIEGE_STANDARD_PC-ALL_Extra_Visuals_Description_1920x1080-1920x1080-b9d9a232e21f0792765111e8e3b0861a9b4fb5b8.jpg",
-      "md5": "26cec7c60c08f3a5f9c4527ac0175129",
-      "size": 198660,
-      "uploadedDate": "2020-02-12T09:41:44.790Z",
-      "width": 1920,
-      "height": 1080
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/carnation/offer/r6s-y6-epic-std-store-landscape-2560x1440-2560x1440-ada4045f97c2-2560x1440-1a29dde6790c324f62bb12216e651944.jpeg",
+      "md5": "1a29dde6790c324f62bb12216e651944",
+      "size": 265697,
+      "uploadedDate": "2021-03-14T20:24:36.485Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/carnation/offer/r6s-y6-epic-std-store-portrait-1200x1600-1200x1600-8ecd88137e14-1200x1600-05e68a0aed3dc068b9b4186997b97317.jpeg",
+      "md5": "05e68a0aed3dc068b9b4186997b97317",
+      "size": 179414,
+      "uploadedDate": "2021-03-14T20:24:45.362Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [

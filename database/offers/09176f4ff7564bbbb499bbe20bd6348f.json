@@ -8,7 +8,7 @@
   "productSlug": "fortnite",
   "urlSlug": "fortnite-free-audience",
   "creationDate": "2017-05-16T20:01:43.170Z",
-  "lastModifiedDate": "2020-12-02T06:05:03.852Z",
+  "lastModifiedDate": "2021-03-16T08:23:41.979Z",
   "effectiveDate": "2017-09-20T13:00:00.000Z",
   "viewableDate": "2017-09-20T13:00:00.000Z",
   "developer": null,
@@ -48,18 +48,6 @@
       "updated": "2021-02-10T17:35:33.537Z",
       "status": "ACTIVE",
       "referenceCount": 46,
-      "comment": null
-    },
-    {
-      "id": "1156",
-      "name": "Battle Royale",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:36.154Z",
-      "updated": "2021-02-05T16:12:02.791Z",
-      "status": "ACTIVE",
-      "referenceCount": 2,
       "comment": null
     },
     {
@@ -162,58 +150,58 @@
   ],
   "keyImages": [
     {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/fn/offer/16BR_AgentJonesy_EGS_S2_1200x1600-1200x1600-fa3927545040bc1ce045073a16a586f3.jpg",
+      "md5": "fa3927545040bc1ce045073a16a586f3",
+      "size": 758250,
+      "uploadedDate": "2021-03-16T06:46:07.790Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/fn/offer/15BR_BPLaunch_EGS_S1_2560x1440-2560x1440-0e0c8d14d7410423275fa714acfaf41e.jpg",
-      "md5": "0e0c8d14d7410423275fa714acfaf41e",
-      "size": 1030704,
-      "uploadedDate": "2020-12-02T03:52:29.673Z",
+      "url": "https://cdn1.epicgames.com/fn/offer/16BR_AgentJonesy_EGS_S1_2560x1440-2560x1440-e113d8e97390664965842bb2d28bbb05.jpg",
+      "md5": "e113d8e97390664965842bb2d28bbb05",
+      "size": 1168360,
+      "uploadedDate": "2021-03-16T06:46:26.948Z",
       "width": 2560,
       "height": 1440
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/fn/offer/15BR_BPLaunch_EGS_S2_1200x1600-1200x1600-3e1ae198f6277d3a99e797e726a83491.jpg",
-      "md5": "3e1ae198f6277d3a99e797e726a83491",
-      "size": 619448,
-      "uploadedDate": "2020-12-02T03:53:46.629Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/fn/offer/15BR_BPLaunch_EGS_S2_1200x1600-1200x1600-3e1ae198f6277d3a99e797e726a83491.jpg",
-      "md5": "3e1ae198f6277d3a99e797e726a83491",
-      "size": 619448,
-      "uploadedDate": "2020-12-02T03:54:32.641Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/fn/offer/15BR_BPLaunch_EGS_S2_1200x1600-1200x1600-3e1ae198f6277d3a99e797e726a83491.jpg",
-      "md5": "3e1ae198f6277d3a99e797e726a83491",
-      "size": 619448,
-      "uploadedDate": "2020-12-02T03:54:45.982Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/fn/offer/15BR_BPLaunch_EGS_S2_1200x1600-1200x1600-3e1ae198f6277d3a99e797e726a83491.jpg",
-      "md5": "3e1ae198f6277d3a99e797e726a83491",
-      "size": 619448,
-      "uploadedDate": "2020-12-02T03:55:02.816Z",
+      "url": "https://cdn1.epicgames.com/fn/offer/16BR_AgentJonesy_EGS_Thumb_1200x1600-1200x1600-07f7c3f058b6c594c1ccac61480a4093.jpg",
+      "md5": "07f7c3f058b6c594c1ccac61480a4093",
+      "size": 758273,
+      "uploadedDate": "2021-03-16T06:46:46.054Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/fn/offer/15BR_BPLaunch_EGS_S1_2560x1440-2560x1440-0e0c8d14d7410423275fa714acfaf41e.jpg",
-      "md5": "0e0c8d14d7410423275fa714acfaf41e",
-      "size": 1030704,
-      "uploadedDate": "2020-12-02T03:55:20.346Z",
+      "url": "https://cdn1.epicgames.com/fn/offer/16BR_AgentJonesy_EGS_S1_2560x1440-2560x1440-e113d8e97390664965842bb2d28bbb05.jpg",
+      "md5": "e113d8e97390664965842bb2d28bbb05",
+      "size": 1168360,
+      "uploadedDate": "2021-03-16T06:47:12.473Z",
       "width": 2560,
       "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/fn/offer/16BR_AgentJonesy_EGS_S2_1200x1600-1200x1600-fa3927545040bc1ce045073a16a586f3.jpg",
+      "md5": "fa3927545040bc1ce045073a16a586f3",
+      "size": 758250,
+      "uploadedDate": "2021-03-16T06:47:43.065Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/fn/offer/16BR_AgentJonesy_EGS_Thumb_1200x1600-1200x1600-07f7c3f058b6c594c1ccac61480a4093.jpg",
+      "md5": "07f7c3f058b6c594c1ccac61480a4093",
+      "size": 758273,
+      "uploadedDate": "2021-03-16T06:48:36.140Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [

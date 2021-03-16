@@ -1,0 +1,213 @@
+{
+  "id": "2b99ce04339448ec9d3408dd40c4794d",
+  "namespace": "ace4435645d9489cacfbb422b7c1c817",
+  "title": "DLC CHARACTER \"HIBIKI TAKANE\"",
+  "description": "This digital purchase will unlock the DLC character “HIBIKI TAKANE” for your copy of SAMURAI SHODOWN.* Scheduled to be delivered within 2021",
+  "longDescription": "This digital purchase will unlock the DLC character “HIBIKI TAKANE” for your copy of SAMURAI SHODOWN.\n\n* Scheduled to be delivered within 2021",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "samurai-shodown-reboot--hibiki-takane",
+  "creationDate": "2021-03-05T00:47:10.673Z",
+  "lastModifiedDate": "2021-03-16T02:41:20.741Z",
+  "effectiveDate": "2099-01-01T01:01:00.000Z",
+  "viewableDate": "2021-03-16T01:01:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-bse2s8gp28ptrv924lby79vx66vsz6",
+    "name": "SNK CORPORATION"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2021-02-10T17:36:19.203Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1264",
+      "name": "Co-op",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.700Z",
+      "updated": "2021-02-10T17:34:35.309Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1344",
+      "name": "Fighting",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:09.322Z",
+      "updated": "2021-02-05T16:17:17.035Z",
+      "status": "ACTIVE",
+      "referenceCount": 8,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2021-02-10T17:35:33.537Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1279",
+      "name": "Vampire",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:37.207Z",
+      "updated": "2021-02-05T16:12:54.271Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "SNK"
+    },
+    {
+      "key": "developerName",
+      "value": "SNK"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ace4435645d9489cacfbb422b7c1c817/offer/EGS_DLCCHARACTERHIBIKITAKANE_SNKCORPORATION_DLC_S1-2560x1440-1506d8d77aa7319ece956f915736d15c.jpg",
+      "md5": "1506d8d77aa7319ece956f915736d15c",
+      "size": 994370,
+      "uploadedDate": "2021-03-11T21:03:49.779Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ace4435645d9489cacfbb422b7c1c817/offer/EGS_DLCCHARACTERHIBIKITAKANE_SNKCORPORATION_DLC_S2-1200x1600-d7022fa3d6a39d72a7206af480a18ebc.jpg",
+      "md5": "d7022fa3d6a39d72a7206af480a18ebc",
+      "size": 598227,
+      "uploadedDate": "2021-03-11T21:03:58.880Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ace4435645d9489cacfbb422b7c1c817/offer/EGS_DLCCHARACTERHIBIKITAKANE_SNKCORPORATION_DLC_S2-1200x1600-d7022fa3d6a39d72a7206af480a18ebc.jpg",
+      "md5": "d7022fa3d6a39d72a7206af480a18ebc",
+      "size": 598227,
+      "uploadedDate": "2021-03-11T21:04:13.753Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ace4435645d9489cacfbb422b7c1c817/offer/EGS_DLCCHARACTERHIBIKITAKANE_SNKCORPORATION_DLC_S2-1200x1600-d7022fa3d6a39d72a7206af480a18ebc.jpg",
+      "md5": "d7022fa3d6a39d72a7206af480a18ebc",
+      "size": 598227,
+      "uploadedDate": "2021-03-11T21:04:27.898Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/ace4435645d9489cacfbb422b7c1c817/offer/EGS_DLCCHARACTERHIBIKITAKANE_SNKCORPORATION_DLC_S1-2560x1440-1506d8d77aa7319ece956f915736d15c.jpg",
+      "md5": "1506d8d77aa7319ece956f915736d15c",
+      "size": 994370,
+      "uploadedDate": "2021-03-11T21:04:40.853Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/ace4435645d9489cacfbb422b7c1c817/offer/EGS_DLCCHARACTERHIBIKITAKANE_SNKCORPORATION_DLC_S2-1200x1600-d7022fa3d6a39d72a7206af480a18ebc.jpg",
+      "md5": "d7022fa3d6a39d72a7206af480a18ebc",
+      "size": 598227,
+      "uploadedDate": "2021-03-11T21:04:50.048Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/ace4435645d9489cacfbb422b7c1c817/offer/EGS_DLCCHARACTERHIBIKITAKANE_SNKCORPORATION_DLC_IC1-200x110-872ad1154a3ea788c28eb14f0bc6202f.png",
+      "md5": "872ad1154a3ea788c28eb14f0bc6202f",
+      "size": 30619,
+      "uploadedDate": "2021-03-11T21:05:04.278Z",
+      "width": 200,
+      "height": 110
+    }
+  ],
+  "items": [
+    {
+      "id": "a685d093901c401bb8eb8e3f8dd0e0ab"
+    }
+  ],
+  "catalogNs": {
+    "name": "ace4435645d9489cacfbb422b7c1c817"
+  }
+}

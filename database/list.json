@@ -722,6 +722,21 @@
     ""
   ],
   [
+    "041bca3baf6540a8b388a2f726dc2b3e",
+    "af18f75e1dc34500b374952304c6eb99",
+    "Moiré Noir",
+    [
+      "digitalextras/book",
+      "digitalextras",
+      "applications"
+    ],
+    "Fellow Traveller",
+    1614046956,
+    1615900779,
+    "https://cdn1.epicgames.com/af18f75e1dc34500b374952304c6eb99/offer/EGS_GenesisNoirMoirNoir_FeralCatDen_DigitalExtras_S2-1200x1600-92eda3b2a5048fc544028ffc4fcb90dc.jpg",
+    ""
+  ],
+  [
     "0432da2ab5744dc29d1453248a8ed06d",
     "19d54f4a6d7e4ba99c5caf8972fbfd02",
     "Hyper Scape™ – Season 2 Starter Pack",
@@ -1838,8 +1853,8 @@
     ],
     "Epic Games",
     1494964903,
-    1606889103,
-    "https://cdn1.epicgames.com/fn/offer/15BR_BPLaunch_EGS_S2_1200x1600-1200x1600-3e1ae198f6277d3a99e797e726a83491.jpg",
+    1615883021,
+    "https://cdn1.epicgames.com/fn/offer/16BR_AgentJonesy_EGS_Thumb_1200x1600-1200x1600-07f7c3f058b6c594c1ccac61480a4093.jpg",
     "fortnite"
   ],
   [
@@ -4162,6 +4177,21 @@
     "watch-dogs/season-pass"
   ],
   [
+    "12dddd5aa7e0479b8dce43d26c71abe0",
+    "af18f75e1dc34500b374952304c6eb99",
+    "An Act of Creation",
+    [
+      "digitalextras/book",
+      "digitalextras",
+      "applications"
+    ],
+    "Fellow Traveller",
+    1614047004,
+    1615900779,
+    "https://cdn1.epicgames.com/af18f75e1dc34500b374952304c6eb99/offer/EGS_GenesisNoirAnActofCreation_FeralCatDen_DigitalExtras_S2-1200x1600-8339456ebca286ec5aad50436f586c8d.jpg",
+    ""
+  ],
+  [
     "12e4d50149814b5d8a99ebcc8640a098",
     "epic",
     "Rebel Galaxy Outlaw",
@@ -5113,7 +5143,7 @@
     ],
     "MWM Interactive",
     1614206697,
-    1614692091,
+    1615898277,
     "https://cdn1.epicgames.com/8f08ba8f76c940f89fa9d84658535a02/offer/EGS_Mundaun_HiddenFields_S2-1200x1600-0e209f071069b203df62c2f80a3f624f.jpg",
     "mundaun"
   ],
@@ -5553,6 +5583,22 @@
     1613056805,
     "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/offer/EGS_Tropico6_LimbicEntertainment_S2-1200x1600-9dd14a5f6c7120e220dfe8c952f31633.jpg",
     "tropico-6/home"
+  ],
+  [
+    "191c05b719474e2fb2f68ff545312b94",
+    "6da57ad658b146ca8caf15b3434c836e",
+    "The Fall Part 2: Unbound",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Over the Moon Games",
+    1614811097,
+    1615824373,
+    "https://cdn1.epicgames.com/6da57ad658b146ca8caf15b3434c836e/offer/EGS_TheFallPart2Unbound_OverTheMoon_S2-1200x1600-7e58626e191a0586e023f833cd6868f3.jpg",
+    "the-fall-part-2-unbound"
   ],
   [
     "192974b940844a308bbeac5d65c0d3ba",
@@ -9288,7 +9334,7 @@
   [
     "2aa893533da449c7b146c72880a414b3",
     "ace4435645d9489cacfbb422b7c1c817",
-    "Samurai Shodown",
+    "SAMURAI SHODOWN",
     [
       "games",
       "games/edition/base",
@@ -9487,6 +9533,22 @@
     1588120702,
     "",
     "anno-1800/home"
+  ],
+  [
+    "2b99ce04339448ec9d3408dd40c4794d",
+    "ace4435645d9489cacfbb422b7c1c817",
+    "DLC CHARACTER \"HIBIKI TAKANE\"",
+    [
+      "addons",
+      "games",
+      "addons/durable",
+      "applications"
+    ],
+    "SNK CORPORATION",
+    1614905230,
+    1615862480,
+    "https://cdn1.epicgames.com/ace4435645d9489cacfbb422b7c1c817/offer/EGS_DLCCHARACTERHIBIKITAKANE_SNKCORPORATION_DLC_S2-1200x1600-d7022fa3d6a39d72a7206af480a18ebc.jpg",
+    ""
   ],
   [
     "2bb789800d224643a15cc490896029b1",
@@ -14575,6 +14637,21 @@
     ""
   ],
   [
+    "41dcdf10a8844d56901930ba20c98019",
+    "493e9ad801e8487497fe7840cb8404bb",
+    "Farming Simulator 19 - Rottne DLC",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Focus Home",
+    1610567801,
+    1615905279,
+    "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/offer/EGS_FarmingSimulator19RottneDLC_GiantsSoftwareGmbH_DLC_S2-1200x1600-1cf421632b8c4a15cb64b8faee91c0bf.jpg",
+    "farming-simulator-19/rottne-dlc"
+  ],
+  [
     "4240f7a851574e42919fce4d564f6ea0",
     "e89efaeec0cd408abee8bd4dd02c8d32",
     "Port Royale 4 Extended Edition",
@@ -15858,6 +15935,20 @@
     "monopoly-plus/home"
   ],
   [
+    "484b07a0b08c48f2ac6f41329ab5acc3",
+    "0bef9383794a4d779ba0628084b14cba",
+    "500 Coins",
+    [
+      "games",
+      "applications"
+    ],
+    "Epic Games Publishing",
+    1614704241,
+    1614705206,
+    "",
+    ""
+  ],
+  [
     "48705e2229b34bd4b224725f2376d6b1",
     "ca93b6d41a4e41af864942d8f0a2a826",
     "Uno - Just Dance Theme Cards Pack",
@@ -16082,6 +16173,22 @@
     1539758375,
     "",
     ""
+  ],
+  [
+    "492d9c5d82194e60baf2bb6124edfa5b",
+    "e9ab5f3a0f524fdf800f324800acda60",
+    "Biped",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Postmeta Games",
+    1610694753,
+    1615906866,
+    "https://cdn1.epicgames.com/e9ab5f3a0f524fdf800f324800acda60/offer/EGS_Bipedisacoopactionadventuregame_NEXTStudios_S2-1200x1600-da139d8ab2c0ed4de728d64f657eb62a.jpg",
+    "biped"
   ],
   [
     "4935d7e5d55e44649777310cd3ca6de4",
@@ -17828,6 +17935,21 @@
     ""
   ],
   [
+    "505fd284975548e5afbc226a52b708ea",
+    "af18f75e1dc34500b374952304c6eb99",
+    "Genesis Noir - The Cosmic Collection",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Fellow Traveller",
+    1614046810,
+    1615901416,
+    "https://cdn1.epicgames.com/af18f75e1dc34500b374952304c6eb99/offer/egs-genesisnoirthecosmiccollection-feralcatden-bundles-s2-1200x1600-4010f63edb0b-1200x1600-4d2cfcabc6931aeb3ea33f07a46ff0b2.jpeg",
+    "genesis-noir/cosmic-collection"
+  ],
+  [
     "507b0c197d8545c18b7140ce464d7b9d",
     "7ad5508d382e46228056f1d1a0189ae2",
     "Benevolence to Divine Benevolence Upgrade",
@@ -19488,6 +19610,22 @@
     ""
   ],
   [
+    "58a8a6e7c736477ba451f6fe79bf3d44",
+    "ace4435645d9489cacfbb422b7c1c817",
+    "DLC CHARACTER 4 \"???\"",
+    [
+      "addons",
+      "games",
+      "addons/durable",
+      "applications"
+    ],
+    "SNK CORPORATION",
+    1614905305,
+    1615862480,
+    "https://cdn1.epicgames.com/ace4435645d9489cacfbb422b7c1c817/offer/EGS_DLCCHARACTER4_SNKCORPORATION_DLC_S2-1200x1600-60f8faad4c9f90622797b9276adfeb01.jpg",
+    ""
+  ],
+  [
     "58b8981c05da40eb91c302471466f1ef",
     "53310576ce1d4446b20dbbdac4f09f2d",
     "Total War Saga: TROY - AMAZONS",
@@ -20405,6 +20543,21 @@
     1588120702,
     "",
     "lego-batman-3/home"
+  ],
+  [
+    "5d76488f1f1845d7a57d90e04fbf0da1",
+    "af18f75e1dc34500b374952304c6eb99",
+    "Original Soundtrack",
+    [
+      "digitalextras",
+      "digitalextras/soundtrack",
+      "applications"
+    ],
+    "Fellow Traveller",
+    1614047082,
+    1615900779,
+    "https://cdn1.epicgames.com/af18f75e1dc34500b374952304c6eb99/offer/EGS_GenesisNoirOriginalSoundtrack_FeralCatDen_DigitalExtras_S2-1200x1600-e756ba510860dba08f5e039861bff743.jpg",
+    ""
   ],
   [
     "5d84a15a97ff43848c757263ecf417e2",
@@ -23763,6 +23916,22 @@
     "the-crew-2/home"
   ],
   [
+    "6c4e2a40381f4c6b9bca6b9d6057bb3e",
+    "af18f75e1dc34500b374952304c6eb99",
+    "Genesis Noir",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Fellow Traveller",
+    1614046733,
+    1615901446,
+    "https://cdn1.epicgames.com/af18f75e1dc34500b374952304c6eb99/offer/EGS_GenesisNoir_FeralCatDen_S2-1200x1600-b56a44f29a973476ab00fb755ed2bae0-1200x1600-b56a44f29a973476ab00fb755ed2bae0.jpeg",
+    "genesis-noir"
+  ],
+  [
     "6c509086d7c3447bb1188ca6722cc9be",
     "cd14dcaa4f3443f19f7169a980559c62",
     "KingletNubiaStaging",
@@ -26542,6 +26711,22 @@
     ""
   ],
   [
+    "7950e5d4e5644cc580f6c9830854baa8",
+    "ace4435645d9489cacfbb422b7c1c817",
+    "DLC CHARACTER \"CHAM CHAM\"",
+    [
+      "addons",
+      "games",
+      "addons/durable",
+      "applications"
+    ],
+    "SNK CORPORATION",
+    1614905129,
+    1615862480,
+    "https://cdn1.epicgames.com/ace4435645d9489cacfbb422b7c1c817/offer/EGS_DLCCHARACTERCHAMCHAM_SNKCORPORATION_DLC_S2-1200x1600-8a1e131c04d4c4f052de2c9f6fe56f1c.jpg",
+    ""
+  ],
+  [
     "79642b20f2e34517af509ef0000d5acc",
     "b57455ede0604d83892c3412ec3d610e",
     "Kyrylo Test",
@@ -28093,6 +28278,20 @@
     "kingdom-new-lands/home"
   ],
   [
+    "80c66121c023449ea88899e3e9f3f13d",
+    "0bef9383794a4d779ba0628084b14cba",
+    "1000 Coins",
+    [
+      "games",
+      "applications"
+    ],
+    "Epic Games Publishing",
+    1614704262,
+    1614705206,
+    "",
+    ""
+  ],
+  [
     "80d31e377daf48698e2a2e523577a89e",
     "435aaec1220447efbcfeb4f2abeb1027",
     "C_DLC5",
@@ -29070,6 +29269,22 @@
     1609865904,
     "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/EGS_KillingFloor2_TripwireInteractive_S2-1200x1600-753c8cf3f2b17a34a867c97b578264f9.jpg",
     "killing-floor-2"
+  ],
+  [
+    "85f7a37b385e40cd8b53ea42a9b02115",
+    "ace4435645d9489cacfbb422b7c1c817",
+    "DLC CHARACTER 3  \"???\"",
+    [
+      "addons",
+      "games",
+      "addons/durable",
+      "applications"
+    ],
+    "SNK CORPORATION",
+    1614905269,
+    1615862480,
+    "https://cdn1.epicgames.com/ace4435645d9489cacfbb422b7c1c817/offer/EGS_DLCCHARACTER3_SNKCORPORATION_DLC_S2-1200x1600-03cae9bd62eaf8dc920a338b569a6e37.jpg",
+    ""
   ],
   [
     "86268a1339994714831933bb84f9ed1e",
@@ -35033,8 +35248,8 @@
     ],
     "Ubisoft Entertainment",
     1582061310,
-    1589468400,
-    "https://cdn1.epicgames.com/carnation/offer/CodeRedemptionR6S_Generic_Packshot_Standard-311x440-13056fa642ff879148895f147afaf6c8.jpg",
+    1615900736,
+    "https://cdn1.epicgames.com/carnation/offer/r6s-y6-epic-std-store-portrait-1200x1600-1200x1600-8ecd88137e14-1200x1600-05e68a0aed3dc068b9b4186997b97317.jpeg",
     "rainbow-six-siege/home"
   ],
   [
@@ -42781,6 +42996,21 @@
     "cozy-grove"
   ],
   [
+    "c3816a6937444b42be15e68ab5d4d243",
+    "ace4435645d9489cacfbb422b7c1c817",
+    "SEASON PASS 3",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "SNK CORPORATION",
+    1614905006,
+    1615862480,
+    "https://cdn1.epicgames.com/ace4435645d9489cacfbb422b7c1c817/offer/EGS_SEASONPASS3_SNKCORPORATION_SeasonPass_S2-1200x1600-35aba824978fe3b00084ac8cf45adee6.jpg",
+    ""
+  ],
+  [
     "c3893b98643942139bce997724177675",
     "fn",
     "Fortnite Android Audience",
@@ -44537,6 +44767,21 @@
     ""
   ],
   [
+    "cbcca1218ff7456d807fee4cc56aa895",
+    "bbb19a1dae4d4a46991533cfabd04383",
+    "R.B.I. Baseball 21",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition"
+    ],
+    "Major League Baseball",
+    1600955791,
+    1615910138,
+    "https://cdn1.epicgames.com/bbb19a1dae4d4a46991533cfabd04383/offer/EGS_RBIBaseball21_MLB_S2-1200x1600-04ad015b9dcd21d290e91256952dd7e9.jpg",
+    "rbi-baseball-21"
+  ],
+  [
     "cbcd4d8f73c749bdbe6cff803779779e",
     "e8882546f28e4832af823c646aed232e",
     "Offworld Trading Company: Market Corrections DLC",
@@ -45242,6 +45487,20 @@
     1607653540,
     1614268303,
     "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_BellBivDeVoePoison_HarmonixMusicSystemsInc_DLC_S2-1200x1600-e86b18d3ee6fe1934c03606b1d3fb123.jpg",
+    ""
+  ],
+  [
+    "cf9b0471a56847c4bf79664e4b299bca",
+    "0bef9383794a4d779ba0628084b14cba",
+    "Starter Pack Audience",
+    [
+      "games",
+      "applications"
+    ],
+    "Epic Games Publishing",
+    1614704335,
+    1614705206,
+    "",
     ""
   ],
   [
@@ -52084,6 +52343,20 @@
     ""
   ],
   [
+    "ee5174106784496294cf4de080953e87",
+    "0bef9383794a4d779ba0628084b14cba",
+    "1500 Coins",
+    [
+      "games",
+      "applications"
+    ],
+    "Epic Games Publishing",
+    1614704290,
+    1614705206,
+    "",
+    ""
+  ],
+  [
     "ee5b42309c2840e28b9015bedf58926d",
     "95b4d5a753d042678f775d5e1eb5ab25",
     "[UNRELEASED CONTENT] - Community",
@@ -54244,7 +54517,7 @@
     1610404133,
     1612469839,
     "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/41e8f34a-86b8-4e9a-a258-b937258f3931-1200x1600-1d545395117cae9eee34b13144bf4639.jfif",
-    "paladins/season-pass-2021"
+    "paladins/season-pass2021"
   ],
   [
     "f8554704641d4a2995077d54caf299ce",
@@ -54271,7 +54544,7 @@
     ],
     "Epic Dev Test Account",
     1549913537,
-    1566413730,
+    1615900736,
     "",
     ""
   ],
