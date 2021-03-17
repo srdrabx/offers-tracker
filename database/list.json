@@ -3013,6 +3013,20 @@
     "battalion"
   ],
   [
+    "0eb875e7cf864f53999434bc1953729f",
+    "8c8bd44c4f8a4948800b27d9c1248c0c",
+    "DemeterGeneralAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "Focus Home",
+    1614200338,
+    1615929723,
+    "",
+    ""
+  ],
+  [
     "0ee146487aa14105bfab7bf76029ef6a",
     "82e71075613847afbc510c2b84022d17",
     "jinonboarddemo Dev Audience",
@@ -4578,6 +4592,20 @@
     1607501886,
     1611527655,
     "https://cdn1.epicgames.com/3c52fbac843d4375803187739db84801/offer/crisis tall-1200x1600-019711170372ad3c4c9774e2a3b8872b.jpeg",
+    ""
+  ],
+  [
+    "145a49ba4ddb46ce92ab173c04e68e8a",
+    "8c8bd44c4f8a4948800b27d9c1248c0c",
+    "DevDemeterAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "Focus Home",
+    1614200339,
+    1615924221,
+    "",
     ""
   ],
   [
@@ -8661,6 +8689,21 @@
     ""
   ],
   [
+    "2727b470868f49888f7a77bedad1904a",
+    "carnation",
+    "Rainbow Six Siege Ultimate Edition Y6",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Ubisoft Entertainment",
+    1615410731,
+    1615992029,
+    "https://cdn1.epicgames.com/carnation/offer/r6s-y6-epic-ult--store-portrait-1200x1600-1200x1600-57ed3896ac89-1200x1600-cd9d76718934f599a02d66bfb11dac50.jpeg",
+    "rainbow-six-siege/ultimate-year-6-edition"
+  ],
+  [
     "2737a19b80f441bd815cf11b5d4aa20c",
     "244aaaa06bfa49d088205b13b9d2d115",
     "DLC 20",
@@ -11042,6 +11085,22 @@
     "tacoma"
   ],
   [
+    "32201558ff7442d583afc930fd78d1c7",
+    "19d54f4a6d7e4ba99c5caf8972fbfd02",
+    "Hyper Scape™ – Prisma Security Pack + 1,000 Bitcrowns",
+    [
+      "addons",
+      "games",
+      "addons/durable",
+      "applications"
+    ],
+    "Ubisoft Entertainment",
+    1615322703,
+    1615992607,
+    "https://cdn1.epicgames.com/19d54f4a6d7e4ba99c5caf8972fbfd02/offer/EN_HYPERSCAPE SEASON 3_PRISMA SECURITY PACK_EPIC_Store Portrait_1200x1600-1200x1600-74897036f02345f4cd3eb27871ac57ee.png",
+    ""
+  ],
+  [
     "322ea8df829d4fff96d53ce6776f83dc",
     "ark",
     "ARK Extinction",
@@ -13321,7 +13380,7 @@
     ],
     "Ubisoft Entertainment",
     1600101389,
-    1608219279,
+    1615992607,
     "",
     ""
   ],
@@ -17041,6 +17100,21 @@
     1612303586,
     1613491571,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
+    ""
+  ],
+  [
+    "4cad7e87b74f4720991ec7d0a441600d",
+    "3826377bb8fa4612a7af791a363091a6",
+    "\"Dungeons and Refrains\" Official Soundtrack",
+    [
+      "digitalextras",
+      "digitalextras/soundtrack",
+      "applications"
+    ],
+    "NIS America, Inc.",
+    1613501792,
+    1615913699,
+    "https://cdn1.epicgames.com/3826377bb8fa4612a7af791a363091a6/offer/SoSW_OST_Portrait_Image-1200x1600-4361e6808345d4f941c2c8f56402ec20.jpg",
     ""
   ],
   [
@@ -24535,8 +24609,8 @@
     ],
     "Brace Yourself Games",
     1560006916,
-    1613501922,
-    "https://cdn1.epicgames.com/935fa66c485e4c988eb939f86dc458b5/offer/PB_EGS_Library Tile Portrait_TT3-1200x1600-b93be520e1fd4388d9151f7d94df8bbf.jpg",
+    1615917254,
+    "https://cdn1.epicgames.com/935fa66c485e4c988eb939f86dc458b5/offer/PB_EGS_Library Tile Portrait_TT4_00000-1200x1600-4339347183bcdb277376c2b49db2ddc4.jpg",
     "phantom-brigade"
   ],
   [
@@ -24979,14 +25053,16 @@
   [
     "71e98a06de7741f09cef2c7b753f8594",
     "rosemallow",
-    "Rosemallow DLC02",
+    "The Outer Worlds: Murder on Eridanos",
     [
-      "games"
+      "addons",
+      "addons/durable",
+      "applications"
     ],
     "Private Division",
     1586528904,
-    1586528904,
-    "https://cdn1.epicgames.com/rosemallow/offer/CodeRedemption_OuterWorlds-340x440-68201d88144e1fb2fb55398a0114ea4b.jpg",
+    1615997655,
+    "https://cdn1.epicgames.com/rosemallow/offer/TOW_MoE_EGS_MobileCarousel_1200x1600-1200x1600-4d05cd51e070894edf5335955a07ee9e.jpg",
     ""
   ],
   [
@@ -25166,6 +25242,21 @@
     1584991035,
     "",
     ""
+  ],
+  [
+    "72e6809f479a408ca8fe49292d9299d9",
+    "3826377bb8fa4612a7af791a363091a6",
+    "Saviors of Sapphire Wings & Strangers of Sword City Revisited Digital Limited Edition",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "NIS America, Inc.",
+    1613501621,
+    1615913700,
+    "https://cdn1.epicgames.com/3826377bb8fa4612a7af791a363091a6/offer/SoSW_Bundle_Portrait_Image-1200x1600-04b1785503206362672cfeb41115e7f0.jpg",
+    "saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited/limited-edition"
   ],
   [
     "72eb83d618b248e6b5ded488edded552",
@@ -26069,6 +26160,22 @@
     1593632063,
     "https://cdn1.epicgames.com/b3d490d845c040ee82fd02f400ab0efc/offer/SpongebobPortrait-1200x1600-2f2eff0c423e7eaa3248500d67e3ba63.jpg",
     "spongebob-squarepants-battle-for-bikini-bottom-rehydrated"
+  ],
+  [
+    "7675de59f0ab47548af2b2aa197c7f81",
+    "7ac3374a63524c509541e762348a4fb8",
+    "Super Squad",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Bad Fox Studios",
+    1605567489,
+    1615992639,
+    "https://cdn1.epicgames.com/7ac3374a63524c509541e762348a4fb8/offer/EGS_SuperSquad_BadFoxStudios_S2-1200x1600-728833600c3d3e5c93cdfcf5154993bd.jpg",
+    "super-squad"
   ],
   [
     "767df2253c054bc7b3c3fddf05222d00",
@@ -27281,15 +27388,14 @@
     "The Outer Worlds Expansion Pass",
     [
       "addons",
-      "games",
       "addons/durable",
       "applications"
     ],
     "Private Division",
     1599170493,
-    1599689135,
+    1615997655,
     "https://cdn1.epicgames.com/rosemallow/offer/TOW_XP_Tall-1200x1600-87a0d14a0ca4d1b2c2e518c4d6f0e0bd.jpg",
-    "the-outer-worlds/expansion-pass"
+    ""
   ],
   [
     "7b9c2df1932c4564a89be7ca6306c641",
@@ -31059,15 +31165,14 @@
     "The Outer Worlds Peril on Gorgon",
     [
       "addons",
-      "games",
       "addons/durable",
       "applications"
     ],
     "Private Division",
     1581356605,
-    1599689071,
+    1615997655,
     "https://cdn1.epicgames.com/rosemallow/offer/TOW_DLC1_Tall-1200x1600-0fbe15c004f62671d7c1eca86e78d4c1.png",
-    "the-outer-worlds/peril-on-gorgon"
+    ""
   ],
   [
     "8f237c17ea5941aba9692a544db845c1",
@@ -34527,16 +34632,15 @@
     "rosemallow",
     "The Outer Worlds (Original Soundtrack)",
     [
-      "addons",
       "digitalextras",
-      "games",
+      "digitalextras/soundtrack",
       "applications"
     ],
     "Private Division",
     1601406330,
-    1603467622,
+    1615997655,
     "https://cdn1.epicgames.com/rosemallow/offer/EGS_TheOuterWorldsOriginalSoundtrack_ObsidianEntertainment_DigitalExtras_S2-1200x1600-5b29b0b2b6124a7097093dbaa1ee056b.jpg",
-    "the-outer-worlds/original-soundtrack"
+    ""
   ],
   [
     "9c5bdc7c5dd94d6988d87a7aa98e6ebf",
@@ -35248,7 +35352,7 @@
     ],
     "Ubisoft Entertainment",
     1582061310,
-    1615900736,
+    1615992029,
     "https://cdn1.epicgames.com/carnation/offer/r6s-y6-epic-std-store-portrait-1200x1600-1200x1600-8ecd88137e14-1200x1600-05e68a0aed3dc068b9b4186997b97317.jpeg",
     "rainbow-six-siege/home"
   ],
@@ -36755,6 +36859,22 @@
     ""
   ],
   [
+    "a56049eb0dce48e983f48666ccf21c10",
+    "3826377bb8fa4612a7af791a363091a6",
+    "Saviors of Sapphire Wings & Strangers of Sword City Revisited",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "NIS America, Inc.",
+    1602796636,
+    1615913700,
+    "https://cdn1.epicgames.com/3826377bb8fa4612a7af791a363091a6/offer/EGS_SaviorsofSapphireWingsStrangerofSwordC_ExperienceInc_S2-1200x1600-222e30253296927ecfba6db5588d1314.jpg",
+    "saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited"
+  ],
+  [
     "a57daf2d6452486a865c49f0cfb54dd9",
     "4b35838425c74992ad42e1276b2161ca",
     "Immortals Fenyx Rising™ DLC 1 A New God",
@@ -36840,8 +36960,8 @@
     ],
     "Ubisoft Entertainment",
     1566502334,
-    1598371026,
-    "https://cdn1.epicgames.com/carnation/offer/Store_Portrait_1200x1600-1200x1600-f59231ef52ab47568702849b4d99900e.jpg",
+    1615992029,
+    "https://cdn1.epicgames.com/carnation/offer/RBS_Epic__EPIC_Store_Portrait_1200x1600_UK-1200x1600-3b4d51fa168ee9ce4ab6654b153764e1.jpg",
     "rainbow-six-siege/free-trial"
   ],
   [
@@ -37323,7 +37443,7 @@
     ],
     "Ubisoft Entertainment",
     1600101388,
-    1615477475,
+    1615992607,
     "https://cdn1.epicgames.com/19d54f4a6d7e4ba99c5caf8972fbfd02/offer/EN_HYPERSCAPE SEASON 3__EPIC_Store Portrait_1200x1600-1200x1600-ece65f20a2892c405a96210620b3b1c1.png",
     "hyper-scape"
   ],
@@ -40479,6 +40599,21 @@
     ""
   ],
   [
+    "b78264519ce0429caff03fc083444143",
+    "carnation",
+    "Rainbow Six Siege Operator Edition Y6",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Ubisoft Entertainment",
+    1615411353,
+    1615992029,
+    "https://cdn1.epicgames.com/carnation/offer/r6s-y6-epic-ope-store-portrait-1200x1600-1200x1600-8de4ff10df49-1200x1600-e5be46f1386dd57b5f155c1cad27a89d.jpeg",
+    "rainbow-six-siege/operator-year-6-edition"
+  ],
+  [
     "b79c0521c5d147598b20f78b8f4918a1",
     "epic",
     "Trials Rising",
@@ -41634,6 +41769,22 @@
     1603416465,
     1608230753,
     "",
+    ""
+  ],
+  [
+    "bc92ff4b059841cda5b6ba25da16e05d",
+    "19d54f4a6d7e4ba99c5caf8972fbfd02",
+    "Hyper Scape™ – Season 3 Starter Pack + 2,875 Bitcrowns",
+    [
+      "addons",
+      "games",
+      "addons/durable",
+      "applications"
+    ],
+    "Ubisoft Entertainment",
+    1615320477,
+    1615992607,
+    "https://cdn1.epicgames.com/19d54f4a6d7e4ba99c5caf8972fbfd02/offer/EN_HYPERSCAPE SEASON 3_STARTER PACK_EPIC_Store Portrait_1200x1600-1200x1600-a264fe46e0089e3415f9d0d3d9fcd9dc.png",
     ""
   ],
   [
@@ -51140,6 +51291,21 @@
     ""
   ],
   [
+    "e94b6917e92a4de790c6a246e6e3fb52",
+    "carnation",
+    "Rainbow Six Siege Deluxe Edition Y6",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Ubisoft Entertainment",
+    1615411301,
+    1615992029,
+    "https://cdn1.epicgames.com/carnation/offer/r6s-y6-epic-dlx-store-portrait-1200x1600-1200x1600-4a157ecde456-1200x1600-1e02c69ba0341c0484aa147c15e82454.jpeg",
+    "rainbow-six-siege/deluxe-year-6-edition"
+  ],
+  [
     "e953741dce9345329d8f11902de3b700",
     "jackal",
     "Dauntless Playtest",
@@ -52649,6 +52815,21 @@
     1600961588,
     "https://cdn1.epicgames.com/d9090f3f39f64d5bb827c6e44b95cff0/offer/EGS_3outof10SeasonOneOriginalSoundtrack_TerriblePostureGamesInc_DigitalExtras_S2-1200x1600-99c76595defff15a9919d83f7892a72f.jpg",
     "3-out-of-10-ep-1/soundtrack"
+  ],
+  [
+    "ef6d72fe0d364ecd871fbe62967785db",
+    "3826377bb8fa4612a7af791a363091a6",
+    "\"Journey from Savior to Stranger\" Art Book",
+    [
+      "digitalextras/book",
+      "digitalextras",
+      "applications"
+    ],
+    "NIS America, Inc.",
+    1613501717,
+    1615913700,
+    "https://cdn1.epicgames.com/3826377bb8fa4612a7af791a363091a6/offer/SoSW_Artbook_Portrait_Image-1200x1600-4aad0344c093a656b3f7e05e4cb52d80.jpg",
+    ""
   ],
   [
     "ef763c445dc748ada03b5f04de057aa9",
@@ -54544,7 +54725,7 @@
     ],
     "Epic Dev Test Account",
     1549913537,
-    1615900736,
+    1615992029,
     "",
     ""
   ],

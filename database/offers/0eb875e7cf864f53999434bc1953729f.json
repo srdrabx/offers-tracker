@@ -1,0 +1,58 @@
+{
+  "id": "0eb875e7cf864f53999434bc1953729f",
+  "namespace": "8c8bd44c4f8a4948800b27d9c1248c0c",
+  "title": "DemeterGeneralAudience",
+  "description": "DemeterGeneralAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "demetergeneralaudience",
+  "creationDate": "2021-02-24T20:58:58.952Z",
+  "lastModifiedDate": "2021-03-16T21:22:03.407Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+    "name": "Focus Home"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "ebbb49896b5c4dc994001e6b729b70d4"
+    }
+  ],
+  "catalogNs": {
+    "name": "8c8bd44c4f8a4948800b27d9c1248c0c"
+  }
+}

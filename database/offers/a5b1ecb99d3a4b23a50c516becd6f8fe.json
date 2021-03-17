@@ -8,9 +8,9 @@
   "productSlug": "rainbow-six-siege/free-trial",
   "urlSlug": "carnationweekaudience",
   "creationDate": "2019-08-22T19:32:14.613Z",
-  "lastModifiedDate": "2020-08-25T15:57:06.688Z",
-  "effectiveDate": "2020-08-25T16:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2021-03-17T14:40:29.479Z",
+  "effectiveDate": "2021-03-16T18:00:00.000Z",
+  "viewableDate": "2021-03-16T18:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
@@ -51,65 +51,56 @@
   ],
   "keyImages": [
     {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/carnation/offer/Rainbow-6-Rating-842x404-75ee5be4802354e80b9041728c4343cb.png",
-      "md5": "75ee5be4802354e80b9041728c4343cb",
-      "size": 66389,
-      "uploadedDate": "2019-11-21T13:15:13.792Z",
-      "width": 842,
-      "height": 404
-    },
-    {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/carnation/offer/Capsule_1920x1080-1920x1080-b52f43816ccc320ada852f433dc629ce.jpg",
-      "md5": "b52f43816ccc320ada852f433dc629ce",
-      "size": 457474,
-      "uploadedDate": "2020-08-24T23:24:56.738Z",
-      "width": 1920,
-      "height": 1080
+      "url": "https://cdn1.epicgames.com/carnation/offer/RBS_Epic_FWE_HeroBanner_3840x2160_UK-3840x2160-fa0a5cdff94bce61730e6ab245a301d5.jpg",
+      "md5": "fa0a5cdff94bce61730e6ab245a301d5",
+      "size": 989673,
+      "uploadedDate": "2021-03-16T00:53:50.354Z",
+      "width": 3840,
+      "height": 2160
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/carnation/offer/Store_Portrait_1200x1600-1200x1600-f59231ef52ab47568702849b4d99900e.jpg",
-      "md5": "f59231ef52ab47568702849b4d99900e",
-      "size": 649495,
-      "uploadedDate": "2020-08-24T23:25:00.349Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/carnation/offer/Capsule_1920x1080-1920x1080-b52f43816ccc320ada852f433dc629ce.jpg",
-      "md5": "b52f43816ccc320ada852f433dc629ce",
-      "size": 457474,
-      "uploadedDate": "2020-08-24T23:25:07.196Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/carnation/offer/Store_Portrait_1200x1600-1200x1600-f59231ef52ab47568702849b4d99900e.jpg",
-      "md5": "f59231ef52ab47568702849b4d99900e",
-      "size": 649495,
-      "uploadedDate": "2020-08-24T23:25:10.979Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/carnation/offer/Store_Portrait_1200x1600-1200x1600-f59231ef52ab47568702849b4d99900e.jpg",
-      "md5": "f59231ef52ab47568702849b4d99900e",
-      "size": 649495,
-      "uploadedDate": "2020-08-24T23:25:14.547Z",
+      "url": "https://cdn1.epicgames.com/carnation/offer/RBS_Epic__EPIC_Store_Portrait_1200x1600_UK-1200x1600-3b4d51fa168ee9ce4ab6654b153764e1.jpg",
+      "md5": "3b4d51fa168ee9ce4ab6654b153764e1",
+      "size": 1006130,
+      "uploadedDate": "2021-03-16T00:54:03.297Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/carnation/offer/Store_Portrait_1200x1600-1200x1600-f59231ef52ab47568702849b4d99900e.jpg",
-      "md5": "f59231ef52ab47568702849b4d99900e",
-      "size": 649495,
-      "uploadedDate": "2020-08-24T23:25:18.130Z",
+      "url": "https://cdn1.epicgames.com/carnation/offer/RBS_Epic__EPIC_Store_Portrait_1200x1600_UK-1200x1600-3b4d51fa168ee9ce4ab6654b153764e1.jpg",
+      "md5": "3b4d51fa168ee9ce4ab6654b153764e1",
+      "size": 1006130,
+      "uploadedDate": "2021-03-16T00:54:16.673Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/carnation/offer/RBS_Epic__EPIC_Store_Portrait_1200x1600_UK-1200x1600-3b4d51fa168ee9ce4ab6654b153764e1.jpg",
+      "md5": "3b4d51fa168ee9ce4ab6654b153764e1",
+      "size": 1006130,
+      "uploadedDate": "2021-03-16T00:54:25.123Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/carnation/offer/RBS_Epic_FWE_HeroBanner_3840x2160_UK-3840x2160-fa0a5cdff94bce61730e6ab245a301d5.jpg",
+      "md5": "fa0a5cdff94bce61730e6ab245a301d5",
+      "size": 989673,
+      "uploadedDate": "2021-03-16T00:54:38.222Z",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/carnation/offer/RBS_Epic__EPIC_Store_Portrait_1200x1600_UK-1200x1600-3b4d51fa168ee9ce4ab6654b153764e1.jpg",
+      "md5": "3b4d51fa168ee9ce4ab6654b153764e1",
+      "size": 1006130,
+      "uploadedDate": "2021-03-16T00:54:49.724Z",
       "width": 1200,
       "height": 1600
     }
@@ -119,5 +110,7 @@
       "id": "4abdc6b7294b46bab6423bb4ddef1b62"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "carnation"
+  }
 }

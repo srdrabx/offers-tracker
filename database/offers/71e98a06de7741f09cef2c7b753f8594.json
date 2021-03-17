@@ -1,16 +1,16 @@
 {
   "id": "71e98a06de7741f09cef2c7b753f8594",
   "namespace": "rosemallow",
-  "title": "Rosemallow DLC02",
-  "description": "Rosemallow DLC02",
-  "longDescription": null,
+  "title": "The Outer Worlds: Murder on Eridanos",
+  "description": "The Outer Worlds: Murder on Eridanos is the final narrative expansion to the award-winning RPG from Obsidian Entertainment and Private Division. The famous Halcyon Helen has been murdered, and everyone is a suspect. There’s more than meets the eye in the colony’s grandest murder",
+  "longDescription": "The Outer Worlds: Murder on Eridanos is the second narrative expansion to the critically acclaimed and award-winning sci-fi RPG from Obsidian Entertainment and Private Division.\n\nVenture to the skies of Eridanos and unravel the grandest murder mystery in the Halcyon colony! Everyone is a suspect in this peculiar whodunit after Rizzo’s hired spokesperson, the famous Halcyon Helen, winds up dead ahead of the release of the brand-new Spectrum Brown vodka. Alongside your companions, travel across the floating islands of Eridanos and piece together clues using the Discrepancy Amplifier, a new gadget that highlights otherwise unseen hints. There’s more to this mystery than meets the eye, and it’s up to you (and your crew, if you choose) to solve the case.\n\nThe Outer Worlds: Murder on Eridanos is the second and final story expansion that can be purchased individually or bundled at a discount in The Outer Worlds Expansion Pass. \n\n•\tMurder mystery: Suspicions abound, and it’s up to you to get to the bottom of the murder of Halcyon Helen, the most well-known celebrity in the colony. Use the new Discrepancy Amplifier, your key to solving the case, as it highlights temporal inconsistencies not otherwise seen with the naked eye. \n\n•\tA unique world: Travel among the floating islands of Eridanos, from the luxurious confines of the Grand Colonial Hotel to Rizzo’s colorful groves. But be careful about the smiling employees you encounter, as there’s something dark lingering under the bright and cheerful surface.\n\n•\tNew weapons and character customization: Three new science weapons can be added to the player’s arsenal alongside weapon and armor variants to use while solving the case. And increase your level cap by three and employ new perks and flaws to create your most unique character yet.\n\nA copy of The Outer Worlds on the same platform is required to play expansion(s).",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "rosemallowdlc02",
+  "urlSlug": "the-outer-worlds--murder-on-eridanos",
   "creationDate": "2020-04-10T14:28:24.795Z",
-  "lastModifiedDate": "2020-04-10T14:28:24.795Z",
-  "effectiveDate": "2050-12-01T03:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2021-03-17T16:14:15.148Z",
+  "effectiveDate": "2021-03-17T16:00:00.000Z",
+  "viewableDate": "2021-03-17T16:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-6emrb2lpzacm9ued3z37u42x56wkaz",
@@ -25,14 +25,69 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-12-15T01:46:33.012Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2021-02-10T17:36:06.452Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "{}"
+      "value": "[]"
     },
     {
       "key": "publisherName",
@@ -45,31 +100,67 @@
   ],
   "keyImages": [
     {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/TOW_MoE_EGS_LandscapeStoreBanner_2560x1440-2560x1440-6c325475a9a4808ec10b8e5f2ba0ec4f.jpg",
+      "md5": "6c325475a9a4808ec10b8e5f2ba0ec4f",
+      "size": 3525707,
+      "uploadedDate": "2021-03-10T16:30:27.201Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/TOW_MoE_EGS_MobileCarousel_1200x1600-1200x1600-4d05cd51e070894edf5335955a07ee9e.jpg",
+      "md5": "4d05cd51e070894edf5335955a07ee9e",
+      "size": 1958586,
+      "uploadedDate": "2021-03-10T16:30:35.400Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/rosemallow/offer/CodeRedemption_OuterWorlds-340x440-68201d88144e1fb2fb55398a0114ea4b.jpg",
-      "md5": "68201d88144e1fb2fb55398a0114ea4b",
-      "size": 113481,
-      "uploadedDate": "2019-10-24T00:50:19.754Z",
-      "width": 340,
-      "height": 440
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/TOW_MoE_EGS_MobileCarousel_1200x1600-1200x1600-4d05cd51e070894edf5335955a07ee9e.jpg",
+      "md5": "4d05cd51e070894edf5335955a07ee9e",
+      "size": 1958586,
+      "uploadedDate": "2021-03-10T16:30:46.338Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/rosemallow/offer/CodeRedemption_OuterWorlds-340x440-68201d88144e1fb2fb55398a0114ea4b.jpg",
-      "md5": "68201d88144e1fb2fb55398a0114ea4b",
-      "size": 113481,
-      "uploadedDate": "2019-10-24T00:50:31.030Z",
-      "width": 340,
-      "height": 440
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/TOW_MoE_EGS_MobileCarousel_1200x1600-1200x1600-4d05cd51e070894edf5335955a07ee9e.jpg",
+      "md5": "4d05cd51e070894edf5335955a07ee9e",
+      "size": 1958586,
+      "uploadedDate": "2021-03-10T16:30:53.226Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "type": "DieselGameBoxWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/ANC_Banner_TOW_NoLogo_1920x1080 (2)-1920x1080-116966cde61a85e23878e43b37e3d364.jpg",
-      "md5": "116966cde61a85e23878e43b37e3d364",
-      "size": 304561,
-      "uploadedDate": "2020-01-13T09:41:44.790Z",
-      "width": 1920,
-      "height": 1080
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/TOW_MoE_EGS_LandscapeStoreBanner_2560x1440-2560x1440-6c325475a9a4808ec10b8e5f2ba0ec4f.jpg",
+      "md5": "6c325475a9a4808ec10b8e5f2ba0ec4f",
+      "size": 3525707,
+      "uploadedDate": "2021-03-10T16:31:07.491Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/TOW_MoE_EGS_MobileCarousel_1200x1600-1200x1600-4d05cd51e070894edf5335955a07ee9e.jpg",
+      "md5": "4d05cd51e070894edf5335955a07ee9e",
+      "size": 1958586,
+      "uploadedDate": "2021-03-10T16:31:14.445Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/TOW_MoE_EGS_Logo_400x400-400x400-db326a3f7be0ed8685ea45788718ac20.png",
+      "md5": "db326a3f7be0ed8685ea45788718ac20",
+      "size": 51276,
+      "uploadedDate": "2021-03-10T16:31:24.874Z",
+      "width": 400,
+      "height": 400
     }
   ],
   "items": [
@@ -77,5 +168,7 @@
       "id": "8d58a634be64484c95adc331720f6537"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "rosemallow"
+  }
 }

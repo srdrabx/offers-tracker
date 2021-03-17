@@ -8,7 +8,7 @@
   "productSlug": "hyper-scape",
   "urlSlug": "hyper-scape",
   "creationDate": "2020-09-14T16:36:28.913Z",
-  "lastModifiedDate": "2021-03-11T15:44:35.858Z",
+  "lastModifiedDate": "2021-03-17T14:50:07.969Z",
   "effectiveDate": "2020-12-17T16:00:00.000Z",
   "viewableDate": "2020-12-17T15:55:00.000Z",
   "developer": null,
@@ -78,7 +78,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "CN,KR"
+      "value": "CN"
     },
     {
       "key": "publisherName",

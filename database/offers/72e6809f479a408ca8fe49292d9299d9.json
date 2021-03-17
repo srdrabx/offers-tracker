@@ -1,0 +1,160 @@
+{
+  "id": "72e6809f479a408ca8fe49292d9299d9",
+  "namespace": "3826377bb8fa4612a7af791a363091a6",
+  "title": "Saviors of Sapphire Wings & Strangers of Sword City Revisited Digital Limited Edition",
+  "description": "The Saviors of Sapphire Wings / Stranger of Sword City Revisited Digital Limited Edition includes the base game, the \"Dungeons and Refrains\" Official Soundtrack and \"Journey from Savior to Stranger\" Digital Art Book.",
+  "longDescription": "The Saviors of Sapphire Wings / Stranger of Sword City Revisited Digital Limited Edition includes the base game, the \"Dungeons and Refrains\" Official Soundtrack and \"Journey from Savior to Stranger\" Digital Art Book.",
+  "status": "ACTIVE",
+  "productSlug": "saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited/limited-edition",
+  "urlSlug": "saviors-of-sapphire-wings-strangers-of-sword-city-revisited-digital--limited-edition",
+  "creationDate": "2021-02-16T18:53:41.488Z",
+  "lastModifiedDate": "2021-03-16T16:55:00.021Z",
+  "effectiveDate": "2021-03-16T17:00:00.000Z",
+  "viewableDate": "2021-03-16T17:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-24ec9efll733ggh8wybar3x8zetflu",
+    "name": "NIS America, Inc."
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1381",
+      "name": "Exploration",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:27.799Z",
+      "updated": "2021-02-05T16:20:12.282Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-12-15T01:46:33.012Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "JP"
+    },
+    {
+      "key": "publisherName",
+      "value": "NIS America, Inc."
+    },
+    {
+      "key": "developerName",
+      "value": "Experience Inc."
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited/limited-edition"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/3826377bb8fa4612a7af791a363091a6/offer/SoSW_Bundle_LandscapeImage-2560x1440-98cb03616e78171c73bebf9fcc7982b6.jpg",
+      "md5": "98cb03616e78171c73bebf9fcc7982b6",
+      "size": 821814,
+      "uploadedDate": "2021-03-09T19:55:45.272Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/3826377bb8fa4612a7af791a363091a6/offer/SoSW_Bundle_Portrait_Image-1200x1600-04b1785503206362672cfeb41115e7f0.jpg",
+      "md5": "04b1785503206362672cfeb41115e7f0",
+      "size": 735542,
+      "uploadedDate": "2021-03-09T19:55:55.353Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/3826377bb8fa4612a7af791a363091a6/offer/SoSW_Bundle_Portrait_Image-1200x1600-04b1785503206362672cfeb41115e7f0.jpg",
+      "md5": "04b1785503206362672cfeb41115e7f0",
+      "size": 735542,
+      "uploadedDate": "2021-03-09T19:56:20.226Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/3826377bb8fa4612a7af791a363091a6/offer/SoSW_Bundle_Portrait_Image-1200x1600-04b1785503206362672cfeb41115e7f0.jpg",
+      "md5": "04b1785503206362672cfeb41115e7f0",
+      "size": 735542,
+      "uploadedDate": "2021-03-09T19:56:28.050Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/3826377bb8fa4612a7af791a363091a6/offer/SoSW_Bundle_LandscapeImage-2560x1440-98cb03616e78171c73bebf9fcc7982b6.jpg",
+      "md5": "98cb03616e78171c73bebf9fcc7982b6",
+      "size": 821814,
+      "uploadedDate": "2021-03-09T19:58:13.006Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/3826377bb8fa4612a7af791a363091a6/offer/SoSW_Bundle_Portrait_Image-1200x1600-04b1785503206362672cfeb41115e7f0.jpg",
+      "md5": "04b1785503206362672cfeb41115e7f0",
+      "size": 735542,
+      "uploadedDate": "2021-03-09T19:58:20.755Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "f4e74e20de754be59a70486d10938217"
+    },
+    {
+      "id": "8db9ef49353942cda61461b6a1b3c454"
+    }
+  ],
+  "catalogNs": {
+    "name": "3826377bb8fa4612a7af791a363091a6"
+  }
+}

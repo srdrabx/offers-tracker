@@ -6,9 +6,9 @@
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": "rainbow-six-siege/home",
-  "urlSlug": "carnationgeneraly5audience",
+  "urlSlug": "carnationgeneraly5year6audience",
   "creationDate": "2020-02-18T21:28:30.255Z",
-  "lastModifiedDate": "2021-03-16T13:18:56.169Z",
+  "lastModifiedDate": "2021-03-17T14:40:29.458Z",
   "effectiveDate": "2019-08-19T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -113,6 +113,10 @@
   ],
   "customAttributes": [
     {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
       "key": "developerName",
       "value": "Ubisoft"
     },
@@ -179,7 +183,16 @@
   ],
   "items": [
     {
-      "id": "db458f11048f43c2846368d166acba91"
+      "id": "cb8a106c79904e35859a3f4c3043ecd7"
+    },
+    {
+      "id": "cff0f9b5bc9f4d6d801ca7033f463259"
+    },
+    {
+      "id": "45ab2992071f471abec46c5b27e12888"
+    },
+    {
+      "id": "c023c1be61c2404382c815983e4704fb"
     }
   ],
   "catalogNs": {

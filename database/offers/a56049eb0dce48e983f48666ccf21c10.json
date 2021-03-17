@@ -1,0 +1,172 @@
+{
+  "id": "a56049eb0dce48e983f48666ccf21c10",
+  "namespace": "3826377bb8fa4612a7af791a363091a6",
+  "title": "Saviors of Sapphire Wings & Strangers of Sword City Revisited",
+  "description": "Saviors of Sapphire Wings & Strangers of Sword City Revisited",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited",
+  "urlSlug": "saviors-of-sapphire-wings-strangers-of-sword-city-revisited",
+  "creationDate": "2020-10-15T21:17:16.929Z",
+  "lastModifiedDate": "2021-03-16T16:55:00.041Z",
+  "effectiveDate": "2021-03-16T17:00:00.000Z",
+  "viewableDate": "2021-03-16T17:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-24ec9efll733ggh8wybar3x8zetflu",
+    "name": "NIS America, Inc."
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1381",
+      "name": "Exploration",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:27.799Z",
+      "updated": "2021-02-05T16:20:12.282Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-12-15T01:46:33.012Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "NIS America, Inc."
+    },
+    {
+      "key": "developerName",
+      "value": "Experience Inc."
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/3826377bb8fa4612a7af791a363091a6/offer/EGS_SaviorsofSapphireWingsStrangerofSwordC_ExperienceInc_S1-2560x1440-9d70fecd51bc6d45fadac363f284b648.jpg",
+      "md5": "9d70fecd51bc6d45fadac363f284b648",
+      "size": 996281,
+      "uploadedDate": "2021-02-08T23:58:21.763Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/3826377bb8fa4612a7af791a363091a6/offer/EGS_SaviorsofSapphireWingsStrangerofSwordC_ExperienceInc_S2-1200x1600-222e30253296927ecfba6db5588d1314.jpg",
+      "md5": "222e30253296927ecfba6db5588d1314",
+      "size": 558600,
+      "uploadedDate": "2021-02-08T23:58:29.444Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/3826377bb8fa4612a7af791a363091a6/offer/EGS_SaviorsofSapphireWingsStrangerofSwordC_ExperienceInc_S2-1200x1600-222e30253296927ecfba6db5588d1314.jpg",
+      "md5": "222e30253296927ecfba6db5588d1314",
+      "size": 558600,
+      "uploadedDate": "2021-02-08T23:58:38.730Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/3826377bb8fa4612a7af791a363091a6/offer/EGS_SaviorsofSapphireWingsStrangerofSwordC_ExperienceInc_S2-1200x1600-222e30253296927ecfba6db5588d1314.jpg",
+      "md5": "222e30253296927ecfba6db5588d1314",
+      "size": 558600,
+      "uploadedDate": "2021-02-08T23:58:53.006Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/3826377bb8fa4612a7af791a363091a6/offer/EGS_SaviorsofSapphireWingsStrangerofSwordC_ExperienceInc_S1-2560x1440-9d70fecd51bc6d45fadac363f284b648.jpg",
+      "md5": "9d70fecd51bc6d45fadac363f284b648",
+      "size": 996281,
+      "uploadedDate": "2021-02-08T23:59:04.033Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/3826377bb8fa4612a7af791a363091a6/offer/EGS_SaviorsofSapphireWingsStrangerofSwordC_ExperienceInc_S2-1200x1600-222e30253296927ecfba6db5588d1314.jpg",
+      "md5": "222e30253296927ecfba6db5588d1314",
+      "size": 558600,
+      "uploadedDate": "2021-02-08T23:59:19.019Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "f4e74e20de754be59a70486d10938217"
+    }
+  ],
+  "catalogNs": {
+    "name": "3826377bb8fa4612a7af791a363091a6"
+  }
+}

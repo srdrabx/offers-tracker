@@ -2,13 +2,13 @@
   "id": "8f1b329b2c584644aa0684ceecc8c4d1",
   "namespace": "rosemallow",
   "title": "The Outer Worlds Peril on Gorgon",
-  "description": "The Outer Worlds Peril on Gorgon",
-  "longDescription": null,
+  "description": "The Outer Worlds: Peril on Gorgon is the first narrative expansion to the award-winning RPG from Obsidian Entertainment and Private Division. Discover a lawless den of monsters and marauders on the Gorgon Asteroid and uncover an intrigue that will change the Halcyon colony.",
+  "longDescription": "The Outer Worlds: Peril on Gorgon is the first narrative expansion to the award-winning RPG from Obsidian Entertainment and Private Division.\n\nA severed arm and a mysterious message lead the crew of the Unreliable to the Gorgon Asteroid, formerly the site of one of Halcyon’s most ambitious and disastrous scientific undertakings, now a lawless den of monsters and marauders. Wealthy recluse Minnie Ambrose tasks the crew with finding answers about Dr. Olivia Ambrose, her mother and the doomed project’s disgraced director, but they are soon ensnared in an intrigue that will change the colony forever.\n\n• Intrigue and danger: Search an abandoned Spacer’s Choice facility and encounter a cast of new characters as you uncover the mystery behind the sudden cancellation of the Gorgon Project.\n\n• New locations: Explore the treacherous canyons of the Gorgon Asteroid and encounter enemies that have been warped by science.\n\n• More science weapons: Discover three outlandish new science weapons, including the P.E.T. (Pest Extermination Tool), an exciting new melee weapon that draws in enemies for close-range attacks.\n\n• Expanded character customization and lore: An increased level cap, additional perks and flaws, wholly new armor sets, and several variants for existing gear. Plus, dig into the story of the Gorgon Asteroid with new Portable Phonograph audio logs that reveal the salacious secrets of a scientific experiment gone wrong.\n\nCopy of The Outer Worlds required to play expansion.",
   "status": "ACTIVE",
-  "productSlug": "the-outer-worlds/peril-on-gorgon",
-  "urlSlug": "tow--peril-on-gorgon",
+  "productSlug": null,
+  "urlSlug": "the-outer-worlds--peril-on-gorgon",
   "creationDate": "2020-02-10T17:43:25.008Z",
-  "lastModifiedDate": "2020-09-09T22:04:31.502Z",
+  "lastModifiedDate": "2021-03-17T16:14:15.190Z",
   "effectiveDate": "2020-09-09T21:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -28,16 +28,62 @@
       "path": "addons"
     },
     {
-      "path": "games"
-    },
-    {
       "path": "addons/durable"
     },
     {
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-12-15T01:46:33.012Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2021-02-10T17:36:06.452Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -50,10 +96,6 @@
     {
       "key": "developerName",
       "value": "Obsidian Entertainment"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "the-outer-worlds/peril-on-gorgon"
     }
   ],
   "keyImages": [
@@ -110,6 +152,15 @@
       "uploadedDate": "2020-09-03T21:43:08.823Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/tow-pog-egs-logo-400x400-400x400-957193359-400x400-1ceacbb0c6a37bf96bc4bb39531cec17.png",
+      "md5": "1ceacbb0c6a37bf96bc4bb39531cec17",
+      "size": 15243,
+      "uploadedDate": "2021-03-10T16:38:35.803Z",
+      "width": 400,
+      "height": 400
     }
   ],
   "items": [
@@ -118,6 +169,6 @@
     }
   ],
   "catalogNs": {
-    "name": null
+    "name": "rosemallow"
   }
 }
