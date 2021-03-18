@@ -1,0 +1,157 @@
+{
+  "id": "07c6a2e544274070b9e9ee78316c5774",
+  "namespace": "138c9362d8ff4c239076bc556e18cdac",
+  "title": "Ancient Enemy",
+  "description": "Ancient Enemy",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "ancient-enemy",
+  "urlSlug": "ancientenemy-general-audience",
+  "creationDate": "2021-03-04T11:38:37.025Z",
+  "lastModifiedDate": "2021-03-18T15:26:11.887Z",
+  "effectiveDate": "2021-03-18T16:00:00.000Z",
+  "viewableDate": "2021-03-18T16:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-6kqztcrvfs2kjbsfbs9hgmcgsu6brr",
+    "name": "Grey Alien Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    }
+  ],
+  "tags": [
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1181",
+      "name": "Card Game",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:48.401Z",
+      "updated": "2021-02-05T16:15:32.594Z",
+      "status": "ACTIVE",
+      "referenceCount": 5,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2021-02-10T17:35:19.827Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Grey Alien Games"
+    },
+    {
+      "key": "developerName",
+      "value": "Grey Alien Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "ancient-enemy"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/138c9362d8ff4c239076bc556e18cdac/offer/EGS_AncientEnemy_GreyAlienGames_S1-2560x1440-5611384ea3fab5cf1deb1ca1003578e6.jpg",
+      "md5": "5611384ea3fab5cf1deb1ca1003578e6",
+      "size": 579522,
+      "uploadedDate": "2021-03-16T23:24:30.532Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/138c9362d8ff4c239076bc556e18cdac/offer/EGS_AncientEnemy_GreyAlienGames_S2-1200x1600-9921cef6b2c9a854cd8c31165e2dbe8a.jpg",
+      "md5": "9921cef6b2c9a854cd8c31165e2dbe8a",
+      "size": 751329,
+      "uploadedDate": "2021-03-16T23:24:37.918Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/138c9362d8ff4c239076bc556e18cdac/offer/EGS_AncientEnemy_GreyAlienGames_S2-1200x1600-9921cef6b2c9a854cd8c31165e2dbe8a.jpg",
+      "md5": "9921cef6b2c9a854cd8c31165e2dbe8a",
+      "size": 751329,
+      "uploadedDate": "2021-03-16T23:24:45.753Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/138c9362d8ff4c239076bc556e18cdac/offer/EGS_AncientEnemy_GreyAlienGames_S2-1200x1600-9921cef6b2c9a854cd8c31165e2dbe8a.jpg",
+      "md5": "9921cef6b2c9a854cd8c31165e2dbe8a",
+      "size": 751329,
+      "uploadedDate": "2021-03-16T23:24:51.940Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/138c9362d8ff4c239076bc556e18cdac/offer/EGS_AncientEnemy_GreyAlienGames_S1-2560x1440-5611384ea3fab5cf1deb1ca1003578e6.jpg",
+      "md5": "5611384ea3fab5cf1deb1ca1003578e6",
+      "size": 579522,
+      "uploadedDate": "2021-03-16T23:25:02.027Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/138c9362d8ff4c239076bc556e18cdac/offer/EGS_AncientEnemy_GreyAlienGames_S2-1200x1600-9921cef6b2c9a854cd8c31165e2dbe8a.jpg",
+      "md5": "9921cef6b2c9a854cd8c31165e2dbe8a",
+      "size": 751329,
+      "uploadedDate": "2021-03-16T23:25:16.218Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "d5d03adf16824ea880b4031257048f0c"
+    }
+  ],
+  "catalogNs": {
+    "name": "138c9362d8ff4c239076bc556e18cdac"
+  }
+}

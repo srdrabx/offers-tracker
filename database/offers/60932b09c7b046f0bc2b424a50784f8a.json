@@ -1,0 +1,80 @@
+{
+  "id": "60932b09c7b046f0bc2b424a50784f8a",
+  "namespace": "SeaQA",
+  "title": "Viewable Date before now game1",
+  "description": "Viewable Date before now game1 Desc",
+  "longDescription": "Viewable Date before now  game1 long desc",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "create-item-for-priceengine-08",
+  "creationDate": "2021-03-09T14:03:22.250Z",
+  "lastModifiedDate": "2021-03-18T11:27:14.184Z",
+  "effectiveDate": "2020-12-16T16:00:00.000Z",
+  "viewableDate": "2020-04-21T18:53:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "name": "Epic Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "Viewable Date before now  game1 tech info",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": "15489",
+      "name": "Smoketag",
+      "namespace": "prod-SeaQA",
+      "aliases": [],
+      "operator": null,
+      "created": "2021-03-16T11:02:37.759Z",
+      "updated": "2021-03-18T11:27:14.678Z",
+      "status": "ACTIVE",
+      "referenceCount": 1,
+      "comment": ""
+    },
+    {
+      "id": "15491",
+      "name": "Smoketag2",
+      "namespace": "prod-SeaQA",
+      "aliases": [],
+      "operator": null,
+      "created": "2021-03-17T08:15:57.503Z",
+      "updated": "2021-03-18T11:27:15.080Z",
+      "status": "ACTIVE",
+      "referenceCount": 1,
+      "comment": ""
+    }
+  ],
+  "customAttributes": [],
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/SeaQA/offer/CodeRedemptionTheCycle-340x440-025af08795b0b918ea20b39b850c830b-340x440-025af08795b0b918ea20b39b850c830b.png",
+      "md5": "025af08795b0b918ea20b39b850c830b",
+      "size": 296461,
+      "uploadedDate": "2019-10-26T19:01:25.414Z",
+      "width": 340,
+      "height": 440
+    }
+  ],
+  "items": [
+    {
+      "id": "1040403ae8aa4a79be5ceb8570c20ca1"
+    }
+  ],
+  "catalogNs": {
+    "name": "SeaQA"
+  }
+}

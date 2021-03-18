@@ -8,8 +8,8 @@
   "productSlug": "world-of-warships",
   "urlSlug": "world-of-warships",
   "creationDate": "2020-09-11T22:24:58.032Z",
-  "lastModifiedDate": "2021-02-26T03:12:42.874Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2021-03-18T00:52:41.657Z",
+  "effectiveDate": "2021-03-18T13:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -90,7 +90,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "[]"
     },
     {
       "key": "publisherName",
@@ -108,55 +108,55 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/84c76746bce94effb8e1047fabfd7eb7/offer/EGS_Game_Wargaming_S1-2560x1440-b03dc162a149a6c97deb9eab514ab52e.jpg",
-      "md5": "b03dc162a149a6c97deb9eab514ab52e",
-      "size": 884551,
-      "uploadedDate": "2021-02-10T23:29:52.059Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/84c76746bce94effb8e1047fabfd7eb7/offer/EGS_Game_Wargaming_S1-2560x1440-b03dc162a149a6c97deb9eab514ab52e.jpg",
-      "md5": "b03dc162a149a6c97deb9eab514ab52e",
-      "size": 884551,
-      "uploadedDate": "2021-02-10T23:31:39.863Z",
-      "width": 2560,
-      "height": 1440
+      "url": "https://cdn1.epicgames.com/84c76746bce94effb8e1047fabfd7eb7/offer/EGS_WorldofWarships_WargamingGroupLimited_S5-1920x1080-0e04d731de30455231f06f17d743360e.jpg",
+      "md5": "0e04d731de30455231f06f17d743360e",
+      "size": 748754,
+      "uploadedDate": "2021-03-17T19:43:31.961Z",
+      "width": 1920,
+      "height": 1080
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/84c76746bce94effb8e1047fabfd7eb7/offer/EGS_WorldofWarships_WargamingGroupLimited_S2-1200x1600-f96166935d3d0b84086c6021c188ac0e.jpg",
-      "md5": "f96166935d3d0b84086c6021c188ac0e",
-      "size": 918896,
-      "uploadedDate": "2021-02-11T18:31:15.150Z",
+      "url": "https://cdn1.epicgames.com/84c76746bce94effb8e1047fabfd7eb7/offer/EGS_WorldofWarships_WargamingGroupLimited_S6-1200x1600-858f5b6aa568397ff7d5632e9fe23e1c.jpg",
+      "md5": "858f5b6aa568397ff7d5632e9fe23e1c",
+      "size": 743592,
+      "uploadedDate": "2021-03-17T19:43:37.495Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/84c76746bce94effb8e1047fabfd7eb7/offer/EGS_WorldofWarships_WargamingGroupLimited_S2-1200x1600-f96166935d3d0b84086c6021c188ac0e.jpg",
-      "md5": "f96166935d3d0b84086c6021c188ac0e",
-      "size": 918896,
-      "uploadedDate": "2021-02-11T18:31:26.952Z",
+      "url": "https://cdn1.epicgames.com/84c76746bce94effb8e1047fabfd7eb7/offer/EGS_WorldofWarships_WargamingGroupLimited_S6-1200x1600-858f5b6aa568397ff7d5632e9fe23e1c.jpg",
+      "md5": "858f5b6aa568397ff7d5632e9fe23e1c",
+      "size": 743592,
+      "uploadedDate": "2021-03-17T19:43:44.769Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/84c76746bce94effb8e1047fabfd7eb7/offer/EGS_WorldofWarships_WargamingGroupLimited_S2-1200x1600-f96166935d3d0b84086c6021c188ac0e.jpg",
-      "md5": "f96166935d3d0b84086c6021c188ac0e",
-      "size": 918896,
-      "uploadedDate": "2021-02-11T18:31:43.200Z",
+      "url": "https://cdn1.epicgames.com/84c76746bce94effb8e1047fabfd7eb7/offer/EGS_WorldofWarships_WargamingGroupLimited_S6-1200x1600-858f5b6aa568397ff7d5632e9fe23e1c.jpg",
+      "md5": "858f5b6aa568397ff7d5632e9fe23e1c",
+      "size": 743592,
+      "uploadedDate": "2021-03-17T19:43:50.167Z",
       "width": 1200,
       "height": 1600
     },
     {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/84c76746bce94effb8e1047fabfd7eb7/offer/EGS_WorldofWarships_WargamingGroupLimited_S5-1920x1080-0e04d731de30455231f06f17d743360e.jpg",
+      "md5": "0e04d731de30455231f06f17d743360e",
+      "size": 748754,
+      "uploadedDate": "2021-03-17T19:43:57.296Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/84c76746bce94effb8e1047fabfd7eb7/offer/EGS_WorldofWarships_WargamingGroupLimited_S2-1200x1600-f96166935d3d0b84086c6021c188ac0e.jpg",
-      "md5": "f96166935d3d0b84086c6021c188ac0e",
-      "size": 918896,
-      "uploadedDate": "2021-02-11T18:31:50.237Z",
+      "url": "https://cdn1.epicgames.com/84c76746bce94effb8e1047fabfd7eb7/offer/EGS_WorldofWarships_WargamingGroupLimited_S6-1200x1600-858f5b6aa568397ff7d5632e9fe23e1c.jpg",
+      "md5": "858f5b6aa568397ff7d5632e9fe23e1c",
+      "size": 743592,
+      "uploadedDate": "2021-03-17T19:44:02.858Z",
       "width": 1200,
       "height": 1600
     }

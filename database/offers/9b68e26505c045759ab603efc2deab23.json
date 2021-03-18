@@ -8,9 +8,9 @@
   "productSlug": "cartel-tycoon",
   "urlSlug": "einsteinium",
   "creationDate": "2021-02-11T00:47:24.166Z",
-  "lastModifiedDate": "2021-03-03T16:58:25.657Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": "2021-03-03T17:00:00.000Z",
+  "lastModifiedDate": "2021-03-18T15:29:48.953Z",
+  "effectiveDate": "2021-03-18T16:00:00.000Z",
+  "viewableDate": "2021-03-18T16:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
@@ -114,7 +114,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "[]"
+      "value": "KR"
     },
     {
       "key": "publisherName",

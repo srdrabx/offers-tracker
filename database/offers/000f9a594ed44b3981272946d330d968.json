@@ -1,0 +1,171 @@
+{
+  "id": "000f9a594ed44b3981272946d330d968",
+  "namespace": "e4ac2f8cd49b42f18821f3fc3b6fc1b6",
+  "title": "Creature in the Well",
+  "description": "Creature in the Well",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "creature-in-the-well",
+  "urlSlug": "tingeneralaudience",
+  "creationDate": "2021-01-22T19:28:10.602Z",
+  "lastModifiedDate": "2021-03-18T14:05:21.482Z",
+  "effectiveDate": "2021-03-25T15:00:00.000Z",
+  "viewableDate": "2021-03-18T14:25:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-f4rsv826ngcpw4wvunwntql3n23m46",
+    "name": "MWM Interactive"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "freegames"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2021-02-10T17:36:19.203Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2021-02-10T17:35:19.827Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "MWM Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Flight School Studio"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "creature-in-the-well"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/e4ac2f8cd49b42f18821f3fc3b6fc1b6/offer/EGS_CreatureintheWell_FlightSchoolStudio_S1-2560x1440-da7683852ac13a5c54aaeb11d78f1914.jpg",
+      "md5": "da7683852ac13a5c54aaeb11d78f1914",
+      "size": 988974,
+      "uploadedDate": "2021-03-16T19:05:41.775Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/e4ac2f8cd49b42f18821f3fc3b6fc1b6/offer/EGS_CreatureintheWell_FlightSchoolStudio_S2-1200x1600-42c37512ff1fdf1fb5dc0d64864b72ce.jpg",
+      "md5": "42c37512ff1fdf1fb5dc0d64864b72ce",
+      "size": 907879,
+      "uploadedDate": "2021-03-16T19:05:55.541Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/e4ac2f8cd49b42f18821f3fc3b6fc1b6/offer/EGS_CreatureintheWell_FlightSchoolStudio_S2-1200x1600-42c37512ff1fdf1fb5dc0d64864b72ce.jpg",
+      "md5": "42c37512ff1fdf1fb5dc0d64864b72ce",
+      "size": 907879,
+      "uploadedDate": "2021-03-16T19:06:13.882Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/e4ac2f8cd49b42f18821f3fc3b6fc1b6/offer/EGS_CreatureintheWell_FlightSchoolStudio_S2-1200x1600-42c37512ff1fdf1fb5dc0d64864b72ce.jpg",
+      "md5": "42c37512ff1fdf1fb5dc0d64864b72ce",
+      "size": 907879,
+      "uploadedDate": "2021-03-16T19:06:22.317Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/e4ac2f8cd49b42f18821f3fc3b6fc1b6/offer/EGS_CreatureintheWell_FlightSchoolStudio_S1-2560x1440-da7683852ac13a5c54aaeb11d78f1914.jpg",
+      "md5": "da7683852ac13a5c54aaeb11d78f1914",
+      "size": 988974,
+      "uploadedDate": "2021-03-16T19:06:32.262Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/e4ac2f8cd49b42f18821f3fc3b6fc1b6/offer/EGS_CreatureintheWell_FlightSchoolStudio_S2-1200x1600-42c37512ff1fdf1fb5dc0d64864b72ce.jpg",
+      "md5": "42c37512ff1fdf1fb5dc0d64864b72ce",
+      "size": 907879,
+      "uploadedDate": "2021-03-16T19:06:40.881Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "a828b3ba58454bc6bf5457b1ea144685"
+    }
+  ],
+  "catalogNs": {
+    "name": "e4ac2f8cd49b42f18821f3fc3b6fc1b6"
+  }
+}
