@@ -2987,6 +2987,22 @@
     ""
   ],
   [
+    "0e854f777abf42bda3f244491bd5a31c",
+    "8aed7eb334ae42a29337c6b561584790",
+    "HyperParasite",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Nicalis",
+    1611777055,
+    1616166340,
+    "https://cdn1.epicgames.com/8aed7eb334ae42a29337c6b561584790/offer/d218322c-66b2-42e0-8cba-915052d9b118-1200x1600-bf6a25702d5d6eadcc61a9ab64a80c5a.jpg",
+    "hyperparasite"
+  ],
+  [
     "0e8695f8a0a648a78f20e3412cd501e5",
     "7ad5508d382e46228056f1d1a0189ae2",
     "Path of Exile",
@@ -7324,7 +7340,7 @@
     ],
     "Square Enix (Japan)",
     1611705429,
-    1613764530,
+    1616167284,
     "https://cdn1.epicgames.com/0712176b5e3e49bfa8866c0ee1359f2d/offer/EGS_KINGDOMHEARTSIIIReMindDLC_SquareEnix_S6-1200x1600-54d8b062dc7488c71874fe2455d6c2bd.jpg",
     "kingdom-hearts-iii"
   ],
@@ -38452,15 +38468,16 @@
   [
     "ac4f988c7d8b4b488dd7b84142d220bd",
     "e8882546f28e4832af823c646aed232e",
-    "Interdimensional",
+    "Offworld Trading Company: Interdimensional",
     [
-      "games",
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Stardock Entertainment, Inc",
     1605734938,
-    1605735830,
-    "",
+    1616088843,
+    "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_OffworldTradingCompanyInterdimensional_MohawkGames_DLC_S2-1200x1600-5174f7575e2fa03d9a9e12028eaa98dd.jpg",
     "offworld-trading-company/interdimensional"
   ],
   [
@@ -47652,6 +47669,22 @@
     1596225962,
     "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilesjewelofthewestpack-funcom-dlc-s2-1200x1600-121164268-1200x1600-c26b219b00eca11cb502fb423cea8719.jpg",
     "conan-exiles/jewel-of-the-west-pack"
+  ],
+  [
+    "d91c5514b9c04a9bb7be5547f69be3b2",
+    "ad4824860bd14875936469f4ae055088",
+    "Neurodeck",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Goblinz Studio",
+    1614828796,
+    1616081219,
+    "https://cdn1.epicgames.com/ad4824860bd14875936469f4ae055088/offer/EGS_Neurodeck_TavroxGames_S2-1200x1600-40e9d2d904e2765fa6724dc3ae634357.jpg",
+    "neurodeck"
   ],
   [
     "d91e4455d68a4483a4afe530c22f5e6a",

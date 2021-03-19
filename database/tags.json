@@ -791,18 +791,6 @@
     "referenceCount": 8,
     "comment": null
   },
-  "1347": {
-    "id": "1347",
-    "name": "ALIENS",
-    "namespace": "epic",
-    "aliases": null,
-    "operator": null,
-    "created": "2019-06-20T12:01:10.791Z",
-    "updated": "2020-08-11T16:55:50.964Z",
-    "status": "ACTIVE",
-    "referenceCount": 0,
-    "comment": null
-  },
   "1349": {
     "id": "1349",
     "name": "FAST-PACED",
@@ -1010,9 +998,9 @@
     ],
     "operator": null,
     "created": "2020-09-25T17:19:19.694Z",
-    "updated": "2021-03-12T12:56:54.874Z",
+    "updated": "2021-03-19T13:39:34.616Z",
     "status": "ACTIVE",
-    "referenceCount": 16,
+    "referenceCount": 15,
     "comment": ""
   },
   "13346": {
@@ -1096,7 +1084,7 @@
     "aliases": [],
     "operator": null,
     "created": "2021-03-03T11:45:12.955Z",
-    "updated": "2021-03-11T16:00:03.922Z",
+    "updated": "2021-03-19T14:14:44.418Z",
     "status": "ACTIVE",
     "referenceCount": 3,
     "comment": ""
