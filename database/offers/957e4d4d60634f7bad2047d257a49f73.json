@@ -38,18 +38,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1146",
-      "name": "City Builder",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:31.235Z",
-      "updated": "2021-02-05T16:18:08.310Z",
-      "status": "ACTIVE",
-      "referenceCount": 9,
-      "comment": null
-    },
+    null,
     {
       "id": "1370",
       "name": "Single Player",
@@ -62,19 +51,19 @@
       "referenceCount": 195,
       "comment": null
     },
+    null,
     {
-      "id": "14346",
-      "name": "Holiday Sale 2020",
-      "namespace": null,
+      "id": "1115",
+      "name": "Strategy",
+      "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2020-10-21T21:58:03.125Z",
-      "updated": "2021-01-07T16:00:15.373Z",
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2021-02-10T17:35:11.878Z",
       "status": "ACTIVE",
-      "referenceCount": 584,
-      "comment": ""
+      "referenceCount": 33,
+      "comment": null
     },
-    null,
     {
       "id": "9547",
       "name": "Windows",

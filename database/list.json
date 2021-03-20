@@ -4400,11 +4400,10 @@
     "WRC 8 Alpine A110",
     [
       "addons",
-      "games",
       "addons/durable",
       "applications"
     ],
-    "Bigben Interactive",
+    "Nacon",
     1567197224,
     1596163734,
     "https://cdn1.epicgames.com/f6dcd5bf17c0469789292d1166bf91a1/offer/CodeRedemption_WRC8-340x440-5d61091860d976273aeefd283524e5d7-340x440-5d61091860d976273aeefd283524e5d7.jpg",
@@ -8888,11 +8887,10 @@
     "WRC 8 Ford Escort MkII 1800",
     [
       "addons",
-      "games",
       "addons/durable",
       "applications"
     ],
-    "Bigben Interactive",
+    "Nacon",
     1567197410,
     1596163734,
     "https://cdn1.epicgames.com/f6dcd5bf17c0469789292d1166bf91a1/offer/CodeRedemption_WRC8-340x440-5d61091860d976273aeefd283524e5d7-340x440-5d61091860d976273aeefd283524e5d7.jpg",
@@ -10401,11 +10399,10 @@
     "Overpass Expert Vehicles Pack",
     [
       "addons",
-      "games",
       "addons/durable",
       "applications"
     ],
-    "Bigben Interactive",
+    "Nacon",
     1578598457,
     1596638469,
     "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/EGS_Bigben_DLC2_EXPERT_VEHICLE_PACK_DLC_DesktopHorizontal-1360x766-4c7da9d5629b4e41308260f7f811d46f.JPG",
@@ -25436,11 +25433,10 @@
     "WRC 8 Lancia Delta HF Integrale Evoluzione",
     [
       "addons",
-      "games",
       "addons/durable",
       "applications"
     ],
-    "Bigben Interactive",
+    "Nacon",
     1567197605,
     1596163734,
     "https://cdn1.epicgames.com/f6dcd5bf17c0469789292d1166bf91a1/offer/CodeRedemption_WRC8-340x440-5d61091860d976273aeefd283524e5d7-340x440-5d61091860d976273aeefd283524e5d7.jpg",
@@ -32533,11 +32529,10 @@
     "Overpass Yamaha Special Pack",
     [
       "addons",
-      "games",
       "addons/durable",
       "applications"
     ],
-    "Bigben Interactive",
+    "Nacon",
     1578598282,
     1596638469,
     "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/EGS_Bigben_DLC1_YAMAHA_SPECIAL_PACK_DLC_DesktopHorizontal-1360x766-007c14a931e40deb3314ad066735b322.JPG",
@@ -33132,11 +33127,10 @@
     "WRC 8 RWD Legends",
     [
       "addons",
-      "games",
       "addons/durable",
       "applications"
     ],
-    "Bigben Interactive",
+    "Nacon",
     1567200498,
     1596163735,
     "https://cdn1.epicgames.com/f6dcd5bf17c0469789292d1166bf91a1/offer/CodeRedemption_WRC8-340x440-5d61091860d976273aeefd283524e5d7-340x440-5d61091860d976273aeefd283524e5d7.jpg",
@@ -41594,11 +41588,10 @@
     "Overpass Smart Start Pack",
     [
       "addons",
-      "games",
       "addons/durable",
       "applications"
     ],
-    "Bigben Interactive",
+    "Nacon",
     1578598378,
     1596638469,
     "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/EGS_Bigben_DLC3-SMARTSTARTPACK_DLC_DesktopHorizontal-1360x766-54bff302a49cd48e212a6ae70fd1bd06.JPG",
@@ -49419,11 +49412,10 @@
     "Overpass Drive With Style Pack",
     [
       "addons",
-      "games",
       "addons/durable",
       "applications"
     ],
-    "Bigben Interactive",
+    "Nacon",
     1578598548,
     1596638469,
     "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/EGS_Bigben_DLC4_DRIVEWITHSTYLEPACK_DLC_DesktopHorizontal-1360x766-9f2c33093a91b877cf986b9c8d61b13c.JPG",
@@ -52503,7 +52495,9 @@
     "catnip",
     "Borderlands 3: Designer's Cut",
     [
+      "addons",
       "games",
+      "addons/durable",
       "applications"
     ],
     "2K Games, Inc.",

@@ -10,7 +10,7 @@
   "creationDate": "2020-06-15T20:44:20.286Z",
   "lastModifiedDate": "2020-11-19T16:20:30.922Z",
   "effectiveDate": "2020-11-09T13:00:00.000Z",
-  "viewableDate": null,
+  "viewableDate": "2020-11-09T13:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
@@ -25,7 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "addons"
+    },
+    {
       "path": "games"
+    },
+    {
+      "path": "addons/durable"
     },
     {
       "path": "applications"

@@ -14,7 +14,7 @@
   "developer": null,
   "seller": {
     "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
-    "name": "Bigben Interactive"
+    "name": "Nacon"
   },
   "linkedOfferId": null,
   "isFeatured": false,
@@ -26,9 +26,6 @@
   "categories": [
     {
       "path": "addons"
-    },
-    {
-      "path": "games"
     },
     {
       "path": "addons/durable"
@@ -50,18 +47,7 @@
       "referenceCount": 46,
       "comment": null
     },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2021-02-05T16:07:21.852Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    },
+    null,
     {
       "id": "1212",
       "name": "Racing",

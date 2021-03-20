@@ -38,19 +38,19 @@
     }
   ],
   "tags": [
+    null,
     {
-      "id": "1216",
-      "name": "Action",
+      "id": "1370",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2021-02-10T17:36:19.203Z",
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
       "status": "ACTIVE",
-      "referenceCount": 110,
+      "referenceCount": 195,
       "comment": null
     },
-    null,
     {
       "id": "14346",
       "name": "Holiday Sale 2020",
@@ -75,29 +75,17 @@
       "referenceCount": 259,
       "comment": null
     },
-    {
-      "id": "1307",
-      "name": "Open World",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:51.191Z",
-      "updated": "2021-02-10T17:34:58.080Z",
-      "status": "ACTIVE",
-      "referenceCount": 32,
-      "comment": null
-    },
     null,
     {
-      "id": "9549",
-      "name": "Controller Support",
+      "id": "1084",
+      "name": "Stealth",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2021-02-10T17:36:06.452Z",
+      "created": "2019-06-20T11:59:00.299Z",
+      "updated": "2021-02-05T16:18:25.590Z",
       "status": "ACTIVE",
-      "referenceCount": 103,
+      "referenceCount": 9,
       "comment": null
     }
   ],
