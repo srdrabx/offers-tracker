@@ -217,6 +217,6 @@
     }
   ],
   "catalogNs": {
-    "name": "puma"
+    "name": null
   }
 }

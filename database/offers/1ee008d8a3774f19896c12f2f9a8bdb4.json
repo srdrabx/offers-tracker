@@ -2,15 +2,15 @@
   "id": "1ee008d8a3774f19896c12f2f9a8bdb4",
   "namespace": "affc33b82405457595a032f00284abd2",
   "title": "Armory Season Pass",
-  "description": "The first armory season pass for Killing Floor 2, provides an all-access pass to the full collection of available weapons DLC including all upcoming 2021 weapons to be released throughout the year.",
-  "longDescription": "The first armory season pass for Killing Floor 2, provides an all-access pass to the full collection of available weapons DLC including all upcoming 2021 weapons to be released throughout the year.  Offers a bulk discount compared to buying them individually.\n\nDay One purchase of the pass includes 11 weapon bundles :\n- Ion Thruster Weapon Bundle,\n- Rhino Revolver Weapon Bundle,\n- Mosin Nagant Weapon Bundle,\n- Riot Shield & Glock 18 Weapon Bundle, \n- Compound Bow Weapon Bundle, \n- Blunderbuss Weapon Bundle,\n- Single & Dual Glock 18c Weapon Bundle,\n- Minigun Weapon Bundle,\n- Mine Reconstructor Weapon Bundle,\n- Frost Fang Weapon Bundle,\n- and the brand new Gravity Imploder Weapon Bundle released with the Spring 2021 Update!\n\nThe Killing Floor 2 Armory Season Pass also include access to the next 5 \nWeapon Bundles scheduled as follows:\n- 2 Weapons for Summer 2021\n- 2 Weapons for Fall 2021\n- 1 Weapon for WInter 2021\n\nEach weapon bundle comes with 5 unique skin variants. Expand your repertoire of Zed descrution today!",
+  "description": "The Season Pass will secure all the current and upcoming 2021 DLC Zed hunting weapons in one convenient purchase with significant savings!",
+  "longDescription": "# 2021 Season Pass\nNew weapons included!\n\n# Spring Update:\nGravity Imploder!\n\n# Summer Update:\n2 new weapons TBD\n\n# Fall Update:\n2 new weapons TBD\n\n# Winter Update:\n1 new weapon TBD",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "armory-season-pass",
+  "urlSlug": "killing-floor-2--armory-season-pass",
   "creationDate": "2021-01-26T02:30:59.527Z",
-  "lastModifiedDate": "2021-01-26T02:55:27.271Z",
-  "effectiveDate": "2099-12-31T16:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2021-03-23T14:51:41.432Z",
+  "effectiveDate": "2021-03-23T15:00:00.000Z",
+  "viewableDate": "2021-03-23T15:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
@@ -25,6 +25,12 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
       "path": "applications"
     }
   ],
@@ -37,48 +43,62 @@
     {
       "key": "publisherName",
       "value": "Tripwire Interactive"
-    },
-    {
-      "key": "developerName",
-      "value": "{}"
     }
   ],
   "keyImages": [
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
-      "md5": "3871a312bd2800d12a24e3498b1018c8",
-      "size": 673242,
-      "uploadedDate": "2020-04-24T18:11:43.447Z",
-      "width": 860,
-      "height": 1148
-    },
-    {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_2560x1440-2560x1440-644173a0251b030bd2612e8f33b800d5.jpg",
-      "md5": "644173a0251b030bd2612e8f33b800d5",
-      "size": 2243509,
-      "uploadedDate": "2020-04-24T18:11:58.413Z",
+      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/EGS_2021SeasonPass_TripwireInteractive_SeasonPass_S1-2560x1440-7d6088dc3b9944fa562f73144cb7d866.jpg",
+      "md5": "7d6088dc3b9944fa562f73144cb7d866",
+      "size": 641829,
+      "uploadedDate": "2021-03-19T18:49:29.383Z",
       "width": 2560,
       "height": 1440
     },
     {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/EGS_2021SeasonPass_TripwireInteractive_SeasonPass_S2-1200x1600-dd2b2c018aa6dfb37b0c834b4b82ce71.jpg",
+      "md5": "dd2b2c018aa6dfb37b0c834b4b82ce71",
+      "size": 411104,
+      "uploadedDate": "2021-03-19T18:49:34.664Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
-      "md5": "3871a312bd2800d12a24e3498b1018c8",
-      "size": 673242,
-      "uploadedDate": "2020-04-24T18:13:31.394Z",
-      "width": 860,
-      "height": 1148
+      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/EGS_2021SeasonPass_TripwireInteractive_SeasonPass_S2-1200x1600-dd2b2c018aa6dfb37b0c834b4b82ce71.jpg",
+      "md5": "dd2b2c018aa6dfb37b0c834b4b82ce71",
+      "size": 411104,
+      "uploadedDate": "2021-03-19T18:49:40.922Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
-      "md5": "3871a312bd2800d12a24e3498b1018c8",
-      "size": 673242,
-      "uploadedDate": "2020-04-24T18:13:44.643Z",
-      "width": 860,
-      "height": 1148
+      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/EGS_2021SeasonPass_TripwireInteractive_SeasonPass_S2-1200x1600-dd2b2c018aa6dfb37b0c834b4b82ce71.jpg",
+      "md5": "dd2b2c018aa6dfb37b0c834b4b82ce71",
+      "size": 411104,
+      "uploadedDate": "2021-03-19T18:49:48.203Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/EGS_2021SeasonPass_TripwireInteractive_SeasonPass_S1-2560x1440-7d6088dc3b9944fa562f73144cb7d866.jpg",
+      "md5": "7d6088dc3b9944fa562f73144cb7d866",
+      "size": 641829,
+      "uploadedDate": "2021-03-19T18:49:55.228Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/EGS_2021SeasonPass_TripwireInteractive_SeasonPass_S2-1200x1600-dd2b2c018aa6dfb37b0c834b4b82ce71.jpg",
+      "md5": "dd2b2c018aa6dfb37b0c834b4b82ce71",
+      "size": 411104,
+      "uploadedDate": "2021-03-19T18:50:00.350Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [

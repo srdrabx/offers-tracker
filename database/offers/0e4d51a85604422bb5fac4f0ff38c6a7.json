@@ -1,8 +1,8 @@
 {
   "id": "0e4d51a85604422bb5fac4f0ff38c6a7",
   "namespace": "trainsimworld",
-  "title": "TrainSimGeneralAudience",
-  "description": "TrainSimGeneralAudience",
+  "title": "TrainSim1GeneralAudience",
+  "description": "TrainSim1GeneralAudience",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
@@ -45,10 +45,10 @@
   "keyImages": [],
   "items": [
     {
-      "id": "4f6845eaaead47a9b859d53791dec831"
+      "id": "ecd5c4801b3b4e95bbd284f0a05c1190"
     }
   ],
   "catalogNs": {
-    "name": "trainsimworld"
+    "name": null
   }
 }

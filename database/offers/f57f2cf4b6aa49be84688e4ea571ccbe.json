@@ -8,7 +8,7 @@
   "productSlug": "smite",
   "urlSlug": "smite",
   "creationDate": "2019-10-18T01:53:04.996Z",
-  "lastModifiedDate": "2021-02-23T11:56:55.937Z",
+  "lastModifiedDate": "2021-03-23T10:56:04.104Z",
   "effectiveDate": "2020-04-28T15:00:00.000Z",
   "viewableDate": "2020-04-28T15:00:00.000Z",
   "developer": null,
@@ -120,57 +120,57 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/LandscapeIMG-Tiamat-2560x1440-2560x1440-bd434eb41e6730059570204f6f0513ec.jpg",
-      "md5": "bd434eb41e6730059570204f6f0513ec",
-      "size": 600631,
-      "uploadedDate": "2021-02-23T01:40:29.387Z",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/LandscapeIMG-8.3-Chaac-2560x1440-2560x1440-994f435ff85b770de0f22852bb7a2c0b.jpg",
+      "md5": "994f435ff85b770de0f22852bb7a2c0b",
+      "size": 477854,
+      "uploadedDate": "2021-03-23T04:15:53.124Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/PortraitIMG-Tiamat-860x1148-860x1148-a8d37c57584931c1590c992c49d7fac7.jpg",
-      "md5": "a8d37c57584931c1590c992c49d7fac7",
-      "size": 235777,
-      "uploadedDate": "2021-02-23T01:40:34.997Z",
-      "width": 860,
-      "height": 1148
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/PortraitIMG-V2-8.3-Chaac-1200x1600-1200x1600-db4e9ef83acc4c2ce1611edafaac6774.jpg",
+      "md5": "db4e9ef83acc4c2ce1611edafaac6774",
+      "size": 403337,
+      "uploadedDate": "2021-03-23T04:15:59.951Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/LandscapeIMG-Tiamat-2560x1440-2560x1440-bd434eb41e6730059570204f6f0513ec.jpg",
-      "md5": "bd434eb41e6730059570204f6f0513ec",
-      "size": 600631,
-      "uploadedDate": "2021-02-23T01:40:47.393Z",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/LandscapeIMG-8.3-Chaac-2560x1440-2560x1440-994f435ff85b770de0f22852bb7a2c0b.jpg",
+      "md5": "994f435ff85b770de0f22852bb7a2c0b",
+      "size": 477854,
+      "uploadedDate": "2021-03-23T04:16:03.883Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/PortraitIMG-Tiamat-860x1148-860x1148-a8d37c57584931c1590c992c49d7fac7.jpg",
-      "md5": "a8d37c57584931c1590c992c49d7fac7",
-      "size": 235777,
-      "uploadedDate": "2021-02-23T01:40:50.229Z",
-      "width": 860,
-      "height": 1148
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/PortraitIMG-Tiamat-860x1148-860x1148-a8d37c57584931c1590c992c49d7fac7.jpg",
-      "md5": "a8d37c57584931c1590c992c49d7fac7",
-      "size": 235777,
-      "uploadedDate": "2021-02-23T01:41:01.401Z",
-      "width": 860,
-      "height": 1148
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/PortraitIMG-V2-8.3-Chaac-1200x1600-1200x1600-db4e9ef83acc4c2ce1611edafaac6774.jpg",
+      "md5": "db4e9ef83acc4c2ce1611edafaac6774",
+      "size": 403337,
+      "uploadedDate": "2021-03-23T04:16:06.469Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/PortraitIMG-Tiamat-860x1148-860x1148-a8d37c57584931c1590c992c49d7fac7.jpg",
-      "md5": "a8d37c57584931c1590c992c49d7fac7",
-      "size": 235777,
-      "uploadedDate": "2021-02-23T01:41:04.007Z",
-      "width": 860,
-      "height": 1148
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/PortraitIMG-V2-8.3-Chaac-1200x1600-1200x1600-db4e9ef83acc4c2ce1611edafaac6774.jpg",
+      "md5": "db4e9ef83acc4c2ce1611edafaac6774",
+      "size": 403337,
+      "uploadedDate": "2021-03-23T04:16:08.905Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/PortraitIMG-V2-8.3-Chaac-1200x1600-1200x1600-db4e9ef83acc4c2ce1611edafaac6774.jpg",
+      "md5": "db4e9ef83acc4c2ce1611edafaac6774",
+      "size": 403337,
+      "uploadedDate": "2021-03-23T04:16:13.217Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [

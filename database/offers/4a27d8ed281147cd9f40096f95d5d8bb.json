@@ -8,7 +8,7 @@
   "productSlug": "magic-legends",
   "urlSlug": "magic-legends",
   "creationDate": "2021-01-23T01:09:06.461Z",
-  "lastModifiedDate": "2021-02-11T19:47:28.530Z",
+  "lastModifiedDate": "2021-03-23T16:03:59.570Z",
   "effectiveDate": "2021-03-19T17:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -39,18 +39,6 @@
   ],
   "tags": [
     {
-      "id": "1216",
-      "name": "Action",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2021-02-10T17:36:19.203Z",
-      "status": "ACTIVE",
-      "referenceCount": 110,
-      "comment": null
-    },
-    {
       "id": "1203",
       "name": "Multiplayer",
       "namespace": "epic",
@@ -60,18 +48,6 @@
       "updated": "2021-02-10T17:35:33.537Z",
       "status": "ACTIVE",
       "referenceCount": 46,
-      "comment": null
-    },
-    {
-      "id": "1141",
-      "name": "Free to Play",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:28.688Z",
-      "updated": "2021-02-05T16:15:57.293Z",
-      "status": "ACTIVE",
-      "referenceCount": 6,
       "comment": null
     },
     {
@@ -107,10 +83,6 @@
     {
       "key": "publisherName",
       "value": "Perfect World Entertainment Inc."
-    },
-    {
-      "key": "availableDate",
-      "value": "1616518800"
     },
     {
       "key": "developerName",
