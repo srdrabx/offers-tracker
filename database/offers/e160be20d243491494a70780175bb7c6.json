@@ -8,7 +8,7 @@
   "productSlug": "manifold-garden/soundtrack",
   "urlSlug": "lorikeetsoundtrack",
   "creationDate": "2020-03-16T15:45:18.722Z",
-  "lastModifiedDate": "2020-08-11T16:19:50.560Z",
+  "lastModifiedDate": "2021-03-24T00:39:39.348Z",
   "effectiveDate": "2020-08-12T15:00:00.000Z",
   "viewableDate": "2020-08-12T15:00:00.000Z",
   "developer": null,
@@ -28,10 +28,13 @@
       "path": "addons"
     },
     {
-      "path": "games"
+      "path": "digitalextras"
     },
     {
       "path": "addons/durable"
+    },
+    {
+      "path": "digitalextras/soundtrack"
     },
     {
       "path": "applications"

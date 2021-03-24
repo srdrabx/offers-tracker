@@ -8,7 +8,7 @@
   "productSlug": "faeria/epic-launch-dlc-bundle",
   "urlSlug": "faeria--epic-launch-dlc-bundle",
   "creationDate": "2020-01-11T03:04:16.783Z",
-  "lastModifiedDate": "2020-09-24T14:58:02.355Z",
+  "lastModifiedDate": "2021-03-24T01:07:42.070Z",
   "effectiveDate": "2020-02-20T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -28,41 +28,13 @@
       "path": "addons"
     },
     {
-      "path": "games"
-    },
-    {
       "path": "addons/durable"
     },
     {
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "14944",
-      "name": "The Showcase Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-02-04T17:51:00.530Z",
-      "updated": "2021-02-25T16:37:32.464Z",
-      "status": "ACTIVE",
-      "referenceCount": 366,
-      "comment": ""
-    },
-    {
-      "id": "14346",
-      "name": "Holiday Sale 2020",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2020-10-21T21:58:03.125Z",
-      "updated": "2021-01-07T16:00:15.373Z",
-      "status": "ACTIVE",
-      "referenceCount": 584,
-      "comment": ""
-    }
-  ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.productSlug",

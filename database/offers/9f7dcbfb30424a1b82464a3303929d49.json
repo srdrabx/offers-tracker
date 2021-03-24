@@ -8,7 +8,7 @@
   "productSlug": "scourgebringer/soundtrack",
   "urlSlug": "zagrebgeneralaudience-02",
   "creationDate": "2020-10-07T12:14:06.553Z",
-  "lastModifiedDate": "2020-10-21T13:23:10.923Z",
+  "lastModifiedDate": "2021-03-24T01:01:13.851Z",
   "effectiveDate": "2020-10-21T14:00:00.000Z",
   "viewableDate": "2020-10-21T13:55:00.000Z",
   "developer": null,
@@ -28,10 +28,13 @@
       "path": "addons"
     },
     {
-      "path": "games"
+      "path": "digitalextras"
     },
     {
       "path": "addons/durable"
+    },
+    {
+      "path": "digitalextras/soundtrack"
     },
     {
       "path": "applications"

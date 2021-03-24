@@ -1,0 +1,42 @@
+{
+  "id": "813ab2a01d6448039258130bd99af8c5",
+  "namespace": "244aaaa06bfa49d088205b13b9d2d115",
+  "title": "DLC 25",
+  "description": "DLC 25",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "dlc25",
+  "creationDate": "2021-03-23T20:15:20.854Z",
+  "lastModifiedDate": "2021-03-23T20:20:12.983Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-nvl9gfg7wr3taz2semsy269894sau5",
+    "name": "Digital Extremes"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "159649429d934d539444bf9439249b98"
+    }
+  ],
+  "catalogNs": {
+    "name": "244aaaa06bfa49d088205b13b9d2d115"
+  }
+}

@@ -476,15 +476,16 @@
   [
     "02f687d5b1a144f8b5312e137c06236e",
     "ce9774c9678a4377befaa8fdfc8ef71b",
-    "Iron 20,000 + 3,000(Bonus) Zen",
+    "Magic: Legends - 20000 Zen + 3000 Bonus Bundle",
     [
-      "games",
+      "addons",
+      "addons/consumable",
       "applications"
     ],
     "Perfect World",
     1612841001,
-    1614269436,
-    "",
+    1616520217,
+    "https://cdn1.epicgames.com/ce9774c9678a4377befaa8fdfc8ef71b/offer/EGS_MagicLegends20000Zen3000BonusBundle_CrypticStudios_AddOn_S2-1200x1600-72d5e8e74da68cd322e0a4815784d58e.jpg",
     ""
   ],
   [
@@ -3387,15 +3388,16 @@
   [
     "0ffea3d8b7f84144be28ba521b9920af",
     "ce9774c9678a4377befaa8fdfc8ef71b",
-    "Iron 5,000 + 300(Bonus) Zen",
+    "Magic: Legends - 5000 Zen + 300 Bonus Bundle",
     [
-      "games",
+      "addons",
+      "addons/consumable",
       "applications"
     ],
     "Perfect World",
     1612840862,
-    1614269458,
-    "",
+    1616520207,
+    "https://cdn1.epicgames.com/ce9774c9678a4377befaa8fdfc8ef71b/offer/EGS_MagicLegends5000Zen300BonusBundle_CrypticStudios_AddOn_S2-1200x1600-56b4dc0484b6ddf1b7c2261dd32960c4.jpg",
     ""
   ],
   [
@@ -4294,6 +4296,19 @@
     1597318883,
     "https://cdn1.epicgames.com/be4b391bc31d465ebeba92b9b822b798/offer/EGS_MilkyWayPrinceTheVampireStar_LorenzoRedaelliEyeguys_S6-1200x1600-63c274606bb8e62ed944544f0db53e30.jpg",
     "milky-way-prince-the-vampire-star"
+  ],
+  [
+    "13165466800444868aaa4071e72ba5d8",
+    "50118b7f954e450f8823df1614b24e80",
+    "TestK",
+    [
+      "applications"
+    ],
+    "EGFG LLC",
+    1615836615,
+    1616518075,
+    "",
+    ""
   ],
   [
     "132a0780b11d4cdf8932a239ce86aa4b",
@@ -5346,6 +5361,21 @@
     1599752561,
     "https://cdn1.epicgames.com/c14dd3d3c8214149b27477dd4619f029/offer/EGS_AsFarAsTheEye_UnexpectedStudio_S2-1200x1600-54d45d0a4e42603f0bceea6290da5a02.jpg",
     "as-far-as-the-eye/soundtrack"
+  ],
+  [
+    "179e1468a4ce46a28b5523a8a62ada3e",
+    "ce9774c9678a4377befaa8fdfc8ef71b",
+    "Magic: Legends - Planeswalker Bundle",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Perfect World",
+    1614026673,
+    1616520914,
+    "https://cdn1.epicgames.com/ce9774c9678a4377befaa8fdfc8ef71b/offer/EGS_MagicLegendsPlaneswalkerBundle_CrypticStudios_Packs_S2-1200x1600-30a33f73e22b841c8f2056e74c97f847.jpg",
+    ""
   ],
   [
     "17a79e64dffe4c8e990755b6da8cee1f",
@@ -9249,12 +9279,11 @@
     [
       "addons",
       "addons/durable",
-      "games",
       "applications"
     ],
     "The GD Studio",
     1596720039,
-    1599136487,
+    1616547209,
     "https://cdn1.epicgames.com/36336ee97ec543bbae85abaca618182b/offer/EGS_StandardPack_TheGDStudio_AddOn_S2-1200x1600-24171852f86d319c9a85eed03efb3298.jpg",
     "diabotical/standard-pack"
   ],
@@ -12427,13 +12456,12 @@
     "Resurgence DLC",
     [
       "addons",
-      "games",
       "addons/durable",
       "applications"
     ],
     "Versus Evil",
     1578713144,
-    1600959661,
+    1616547920,
     "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_Resurgence_EpicGamesStore_N1_Newsfeed_ApprovedPublic-2560x1440-e34d2dbef428b3355bd81148adda2e27.jpg",
     "faeria/resurgence"
   ],
@@ -16024,6 +16052,22 @@
     ""
   ],
   [
+    "47e9cb097b504a0bae9285f2e4caeba7",
+    "8149b9c6be654c71aad46431d3d349a6",
+    "Knight Squad 2",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Chainsawesome Games",
+    1611080492,
+    1616598043,
+    "https://cdn1.epicgames.com/8149b9c6be654c71aad46431d3d349a6/offer/EGS_KnightSquad2_ChainsawesomeGames_S2-1200x1600-c959c726703f3959f32ba8cfdfa19a33.jpg",
+    "knight-squad-2"
+  ],
+  [
     "47fdf20af9804963b9f84d490da2d59d",
     "244aaaa06bfa49d088205b13b9d2d115",
     "Deimos Hive to Swarm Pack",
@@ -16042,13 +16086,12 @@
     "3750 coins",
     [
       "addons",
-      "games",
       "addons/consumable",
       "applications"
     ],
     "The GD Studio",
     1598273832,
-    1599136487,
+    1616547177,
     "https://cdn1.epicgames.com/36336ee97ec543bbae85abaca618182b/offer/EGS_Diabotical_TheGDStudio_S2-860x1148-4735874e9639619fd8c049cd8ebc72a8-860x1148-4735874e9639619fd8c049cd8ebc72a8.jpg",
     "diabotical/home"
   ],
@@ -17726,6 +17769,19 @@
     ""
   ],
   [
+    "4ec1862e3c9c477aa737b4aae9a7fe6e",
+    "244aaaa06bfa49d088205b13b9d2d115",
+    "DLC 28",
+    [
+      "applications"
+    ],
+    "Digital Extremes",
+    1616530644,
+    1616530812,
+    "",
+    ""
+  ],
+  [
     "4ec50a302f1449b3bf706a199c333ab8",
     "f01b3e0178d448f0b93911e292d8e614",
     "RollerCoaster Tycoon® 3: Complete Edition",
@@ -19335,13 +19391,14 @@
     "Outward Sound Track",
     [
       "addons",
-      "games",
+      "digitalextras",
       "addons/durable",
+      "digitalextras/soundtrack",
       "applications"
     ],
     "Koch Media",
     1581620956,
-    1596163752,
+    1616548397,
     "https://cdn1.epicgames.com/viola/offer/Featured_Carousel_Mobile_verticalOutward-510x680-ac37a46fb7bcd07b11861240eeb275e5.jpg",
     "outward/soundtrack"
   ],
@@ -22950,6 +23007,20 @@
     ""
   ],
   [
+    "6727bb5a90484542a6f388b092a27033",
+    "879b0d8776ab46a59a129983ba78f0ce",
+    "DLC02",
+    [
+      "games",
+      "applications"
+    ],
+    "miHoYo Co., Ltd",
+    1616524557,
+    1616551068,
+    "",
+    ""
+  ],
+  [
     "6735edfcd2a14c74bfbebffff059d1d8",
     "affc33b82405457595a032f00284abd2",
     "Spectre MKII HRG Weapon Skin Bundle Pack",
@@ -24723,6 +24794,19 @@
     "death-stranding/home"
   ],
   [
+    "6f7a9cff98704528a799ef261b48e9bd",
+    "244aaaa06bfa49d088205b13b9d2d115",
+    "DLC 26",
+    [
+      "applications"
+    ],
+    "Digital Extremes",
+    1616530585,
+    1616530812,
+    "",
+    ""
+  ],
+  [
     "6fa12155098944cea1ef1b4e32e13cb6",
     "newt",
     "Spellbreak Beta",
@@ -25262,6 +25346,22 @@
     1608476930,
     "https://cdn1.epicgames.com/0dabb0f14acf4fef84bd2b2bf3085dfc/offer/EGS_DefenseGridDLCBundle_HiddenPathEntertainment_DLC_S2-1200x1600-fa42b40f0ec83781b95cf22331805b9e.jpg",
     "defense-grid/dlc-bundle"
+  ],
+  [
+    "72266ee0bb6f46b3b81f787f31eef633",
+    "a0c5d9d8a9a940e8a8f63118c7323210",
+    "Murder by Numbers",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "The Irregular Corporation",
+    1615562009,
+    1616514918,
+    "https://cdn1.epicgames.com/a0c5d9d8a9a940e8a8f63118c7323210/offer/EGS_MurderbyNumbers_Mediatonic_S2-1200x1600-d51cf08c93c51c9d4e9b3d140ddca9ec.jpg",
+    "murder-by-numbers"
   ],
   [
     "72442f605c8c45c39df080352c99866a",
@@ -26966,8 +27066,8 @@
     ],
     "Dragonest Game",
     1559850880,
-    1611763589,
-    "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/EGS_AutoChess_DragonestGame_S4-1200x1600-d83282c514fe419dced8b0ed94c1bd45.jpg",
+    1616601597,
+    "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/EGS_AutoChess_DragonestGame_Tall-1200x1600-1ce0150d72927e152b42c6f2faac5736.jpg",
     "auto-chess/home"
   ],
   [
@@ -28615,6 +28715,19 @@
     "Klei Entertainment",
     1551705152,
     1588120696,
+    "",
+    ""
+  ],
+  [
+    "813ab2a01d6448039258130bd99af8c5",
+    "244aaaa06bfa49d088205b13b9d2d115",
+    "DLC 25",
+    [
+      "applications"
+    ],
+    "Digital Extremes",
+    1616530520,
+    1616530812,
     "",
     ""
   ],
@@ -33868,6 +33981,19 @@
     ""
   ],
   [
+    "99657fed96d642b69999342edb0a2281",
+    "244aaaa06bfa49d088205b13b9d2d115",
+    "DLC 27",
+    [
+      "applications"
+    ],
+    "Digital Extremes",
+    1616530618,
+    1616530812,
+    "",
+    ""
+  ],
+  [
     "996b75c1f04c4c639caa69387846db1c",
     "7e508f543b05465abe3a935960eb70ac",
     "Geared Champion",
@@ -34091,15 +34217,16 @@
   [
     "9a0df1612c084b42b83c8900843f0616",
     "ce9774c9678a4377befaa8fdfc8ef71b",
-    "Iron 10,000 + 1,000(Bonus) Zen",
+    "Magic: Legends - 10000 Zen + 1000 Bonus Bundle",
     [
-      "games",
+      "addons",
+      "addons/consumable",
       "applications"
     ],
     "Perfect World",
     1612840941,
-    1614269479,
-    "",
+    1616520195,
+    "https://cdn1.epicgames.com/ce9774c9678a4377befaa8fdfc8ef71b/offer/EGS_MagicLegends10000Zen1000BonusBundle_CrypticStudios_AddOn_S2-1200x1600-a4346bbc5dd8b9c08c13d962502f6969.jpg",
     ""
   ],
   [
@@ -34566,13 +34693,12 @@
     "1700 coins",
     [
       "addons",
-      "games",
       "addons/consumable",
       "applications"
     ],
     "The GD Studio",
     1598273804,
-    1599136487,
+    1616547198,
     "https://cdn1.epicgames.com/36336ee97ec543bbae85abaca618182b/offer/EGS_Diabotical_TheGDStudio_S2-860x1148-4735874e9639619fd8c049cd8ebc72a8-860x1148-4735874e9639619fd8c049cd8ebc72a8.jpg",
     "diabotical/home"
   ],
@@ -34666,13 +34792,12 @@
     "8100 coins",
     [
       "addons",
-      "games",
       "addons/consumable",
       "applications"
     ],
     "The GD Studio",
     1585683404,
-    1599136487,
+    1616547187,
     "https://cdn1.epicgames.com/36336ee97ec543bbae85abaca618182b/offer/EGS_Diabotical_TheGDStudio_S2-860x1148-4735874e9639619fd8c049cd8ebc72a8-860x1148-4735874e9639619fd8c049cd8ebc72a8.jpg",
     "diabotical/home"
   ],
@@ -34902,13 +35027,12 @@
     "Big Pack",
     [
       "addons",
-      "games",
       "addons/durable",
       "applications"
     ],
     "The GD Studio",
     1585683336,
-    1599136487,
+    1616547124,
     "https://cdn1.epicgames.com/36336ee97ec543bbae85abaca618182b/offer/EGS_BigPack_TheGDStudio_AddOn_S2-1200x1600-160a78b04d03a6e073aa3b19c59cc291.jpg",
     "diabotical/big-pack"
   ],
@@ -35570,13 +35694,14 @@
     "Scourgebringer OST",
     [
       "addons",
-      "games",
+      "digitalextras",
       "addons/durable",
+      "digitalextras/soundtrack",
       "applications"
     ],
     "Plug In Digital SAS",
     1602072846,
-    1603286590,
+    1616547673,
     "https://cdn1.epicgames.com/c03a3687567a4cf3910ea5ec7279664e/offer/egs-scourgebringer-flyingoakgames-s4-1200x1600-735206738-1200x1600-b281c5e8a0552d94babe38564224504b.jpg",
     "scourgebringer/soundtrack"
   ],
@@ -35647,13 +35772,12 @@
     "500 coins",
     [
       "addons",
-      "games",
       "addons/consumable",
       "applications"
     ],
     "The GD Studio",
     1585683304,
-    1599136487,
+    1616547114,
     "https://cdn1.epicgames.com/36336ee97ec543bbae85abaca618182b/offer/EGS_Diabotical_TheGDStudio_S2-860x1148-4735874e9639619fd8c049cd8ebc72a8-860x1148-4735874e9639619fd8c049cd8ebc72a8.jpg",
     "diabotical/home"
   ],
@@ -37138,7 +37262,7 @@
     ],
     "Ubisoft Entertainment",
     1566502334,
-    1615992029,
+    1616548715,
     "https://cdn1.epicgames.com/carnation/offer/RBS_Epic__EPIC_Store_Portrait_1200x1600_UK-1200x1600-3b4d51fa168ee9ce4ab6654b153764e1.jpg",
     "rainbow-six-siege/free-trial"
   ],
@@ -37959,7 +38083,7 @@
   [
     "aa05ffff3f9a466e95f76fcb5af9420b",
     "53310576ce1d4446b20dbbdac4f09f2d",
-    "TROY Assembly Kit",
+    "A Total War Saga: TROY – ASSEMBLY KIT",
     [
       "addons",
       "engines",
@@ -37968,7 +38092,7 @@
     ],
     "SEGA of Europe",
     1594749652,
-    1603978008,
+    1616519292,
     "https://cdn1.epicgames.com/53310576ce1d4446b20dbbdac4f09f2d/offer/ASSEMBLY KIT 1200x1600-1200x1600-9d0ac3c4d0e3ab0fb9141e3e519ed402.jpg",
     "a-total-war-saga-troy/assembly-kit"
   ],
@@ -38174,12 +38298,11 @@
     [
       "addons",
       "addons/durable",
-      "games",
       "applications"
     ],
     "The GD Studio",
     1596719989,
-    1599136487,
+    1616547166,
     "https://cdn1.epicgames.com/36336ee97ec543bbae85abaca618182b/offer/EGS_StarterPack_TheGDStudio_AddOn_S2-1200x1600-450b0620829c81ec0e76ad1f37d18066.jpg",
     "diabotical/starter-pack"
   ],
@@ -38728,6 +38851,19 @@
     1478202448,
     1587775420,
     "https://cdn1.epicgames.com/ut/offer/Thumbnail_Unsaved-300x250-90642e246c6a1084107a40acef97df59.png",
+    ""
+  ],
+  [
+    "ad66ea3e78ba41d68daef40510e5ee2c",
+    "244aaaa06bfa49d088205b13b9d2d115",
+    "DLC 29",
+    [
+      "applications"
+    ],
+    "Digital Extremes",
+    1616530671,
+    1616530813,
+    "",
     ""
   ],
   [
@@ -42093,6 +42229,21 @@
     ""
   ],
   [
+    "bdbd43aee56a4fc69b98f41bd26016e4",
+    "a0c5d9d8a9a940e8a8f63118c7323210",
+    "Murder by Numbers Soundtrack & Artbook",
+    [
+      "digitalextras/book",
+      "digitalextras",
+      "digitalextras/soundtrack"
+    ],
+    "The Irregular Corporation",
+    1616034976,
+    1616514918,
+    "https://cdn1.epicgames.com/a0c5d9d8a9a940e8a8f63118c7323210/offer/EGS_MurderbyNumbersSoundtrackArtbook_Mediatonic_DigitalExtras_S2-1200x1600-1aa9fb0dc6787968d57ebdc5ec2510ec.jpg",
+    ""
+  ],
+  [
     "bdc58220411c47d5a3b00d79eec315c1",
     "57dfd95548214a138218e56cd9e5b9d8",
     "Back 4 Blood: Deluxe Edition",
@@ -43000,13 +43151,12 @@
     "Chronicles of Gagana DLC",
     [
       "addons",
-      "games",
       "addons/durable",
       "applications"
     ],
     "Versus Evil",
     1578713522,
-    1600959676,
+    1616547993,
     "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_DLC-Chronicles_Portrait-Offer-860x1148-8892e42988d4d5aa613ca47cd3ea13d2.jpg",
     "faeria/chronicles-of-gagana"
   ],
@@ -43134,6 +43284,22 @@
     1602521364,
     "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_Cardpocolypse-340x440-c8fb8d69226e4f6faaa848f082931e9e.jpg",
     ""
+  ],
+  [
+    "c24df2bd7cb046fb92ce65669bce90ad",
+    "ad59318740674cb3adad80949d0bcc88",
+    "Syberia: The World Before",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Microids",
+    1612196574,
+    1616598183,
+    "https://cdn1.epicgames.com/ad59318740674cb3adad80949d0bcc88/offer/EGS_SyberiaTheWorldBefore_Koalabs_S2-1200x1600-a433ae317481229151f85b308666ab13.jpg",
+    "syberia-the-world-before"
   ],
   [
     "c26dcc3c828c4675b4759b031dbbbbd7",
@@ -43443,15 +43609,16 @@
   [
     "c3be674fc1c442ebaa87e82408f5e625",
     "ce9774c9678a4377befaa8fdfc8ef71b",
-    "Iron 2,000 Zen",
+    "Magic: Legends - 2000 Zen Bundle",
     [
-      "games",
+      "addons",
+      "addons/consumable",
       "applications"
     ],
     "Perfect World",
     1612840782,
-    1614269420,
-    "",
+    1616520227,
+    "https://cdn1.epicgames.com/ce9774c9678a4377befaa8fdfc8ef71b/offer/EGS_MagicLegends2000ZenBundle_CrypticStudios_AddOn_S2-1200x1600-baafaeb10aeee7fdfbd368ce81b55d26.jpg",
     ""
   ],
   [
@@ -45671,13 +45838,14 @@
     "The Dungeon of Naheulbeuk OST",
     [
       "addons",
-      "games",
+      "digitalextras",
       "addons/durable",
+      "digitalextras/soundtrack",
       "applications"
     ],
     "Plug In Digital SAS",
     1598021508,
-    1600352325,
+    1616547027,
     "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/offer/EGS_OfficialSoundtrack_ArtefactsStudio_DigitalExtras_G1A_001-1200x1600-8bab6158549453c34a2ffc85b10ff080.jpg",
     "the-dungeon-of-naheulbeuk/official-soundtrack"
   ],
@@ -48896,15 +49064,16 @@
   [
     "dde40a587bd84b2aa15373776684277d",
     "ce9774c9678a4377befaa8fdfc8ef71b",
-    "Iron 1,000 Zen",
+    "Magic: Legends - 1000 Zen Bundle",
     [
-      "games",
+      "addons",
+      "addons/consumable",
       "applications"
     ],
     "Perfect World",
     1612840650,
-    1614269517,
-    "",
+    1616520151,
+    "https://cdn1.epicgames.com/ce9774c9678a4377befaa8fdfc8ef71b/offer/EGS_MagicLegends1000ZenBundle_CrypticStudios_AddOn_S2-1200x1600-43c276669385870ce26118a601db6d3e.jpg",
     ""
   ],
   [
@@ -49337,13 +49506,14 @@
     "Hades Soundtrack",
     [
       "addons",
-      "games",
+      "digitalextras",
       "addons/durable",
+      "digitalextras/soundtrack",
       "applications"
     ],
     "Supergiant Games LLC",
     1573772423,
-    1600354752,
+    1616548317,
     "https://cdn1.epicgames.com/undefined/offer/Hades_CodeRedemption-330x440-330x440-5c3659a989e35d0fd78b5db27a5b6fee.png",
     ""
   ],
@@ -49603,13 +49773,14 @@
     "Manifold Garden Soundtrack",
     [
       "addons",
-      "games",
+      "digitalextras",
       "addons/durable",
+      "digitalextras/soundtrack",
       "applications"
     ],
     "William Chyr Studio",
     1584373518,
-    1597162790,
+    1616546379,
     "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/offer/egs-manifoldgardenoriginalsoundtrack-williamchyrstudio-digitalextras-s2-1200x1600-621798261-1200x1600-a9593f8360de8318cbdd9306bc72c07f.jpg",
     "manifold-garden/soundtrack"
   ],
@@ -50247,13 +50418,12 @@
     "Operencia: The Stolen Sun - Explorer's Pack",
     [
       "addons",
-      "games",
       "addons/durable",
       "applications"
     ],
     "Zen Studios",
     1584542463,
-    1596592398,
+    1616548247,
     "",
     "operencia/explorers-pack"
   ],
@@ -52345,6 +52515,20 @@
     ""
   ],
   [
+    "ec7ebdede72341aa8fb822a9e97fc4bf",
+    "879b0d8776ab46a59a129983ba78f0ce",
+    "DLC01",
+    [
+      "games",
+      "applications"
+    ],
+    "miHoYo Co., Ltd",
+    1616524524,
+    1616551068,
+    "",
+    ""
+  ],
+  [
     "eca149dbc59142f689eada276f71661a",
     "fn",
     "Samsung Preorder 10000 V-Bucks Promo",
@@ -53443,13 +53627,12 @@
     "Fan pack",
     [
       "addons",
-      "games",
       "addons/durable",
       "applications"
     ],
     "The GD Studio",
     1585683368,
-    1599136487,
+    1616547103,
     "https://cdn1.epicgames.com/36336ee97ec543bbae85abaca618182b/offer/EGS_FanPack_TheGDStudio_AddOn_S2-1200x1600-e6a764aba32f226509222875058b53bb.jpg",
     "diabotical/fan-pack"
   ],
@@ -53785,13 +53968,12 @@
     "Fall of Everlife DLC",
     [
       "addons",
-      "games",
       "addons/durable",
       "applications"
     ],
     "Versus Evil",
     1578712996,
-    1600959650,
+    1616548037,
     "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_FOE_EpicGamesStore_N1_Newsfeed_ApprovedPublic-2560x1440-f65be7222cb923581d736dfdc1ef68a4.jpg",
     "faeria/fall-of-everlife"
   ],
@@ -54186,13 +54368,12 @@
     "Scourgebringer Supporter Pack",
     [
       "addons",
-      "games",
       "addons/durable",
       "applications"
     ],
     "Plug In Digital SAS",
     1602072891,
-    1603286590,
+    1616547708,
     "https://cdn1.epicgames.com/c03a3687567a4cf3910ea5ec7279664e/offer/egs-scourgebringer-flyingoakgames-s4-1200x1600-735206738-1200x1600-b281c5e8a0552d94babe38564224504b.jpg",
     "scourgebringer/supporter-pack"
   ],
@@ -55402,15 +55583,29 @@
     "Epic Launch DLC Bundle",
     [
       "addons",
-      "games",
       "addons/durable",
       "applications"
     ],
     "Versus Evil",
     1578711856,
-    1600959482,
+    1616548062,
     "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_Epic-DLC_N1_Newsfeed_ApprovedPublic-2560x1440-aafc9e6d3d002034f0185db7ce9a3a83.jpg",
     "faeria/epic-launch-dlc-bundle"
+  ],
+  [
+    "fa425bcde8dc4411be3191704b9a2e61",
+    "ce9774c9678a4377befaa8fdfc8ef71b",
+    "Magic: Legends - Epic Planeswalker Starter Pack",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Perfect World",
+    1612841514,
+    1616520185,
+    "https://cdn1.epicgames.com/ce9774c9678a4377befaa8fdfc8ef71b/offer/EGS_MagicLegendsEpicPlaneswalkerStarterPack_CrypticStudios_Packs_S2-1200x1600-98d9bdde58502c38da57d98179bb603a.jpg",
+    ""
   ],
   [
     "fa4731fb6d8049269946113756cc4926",

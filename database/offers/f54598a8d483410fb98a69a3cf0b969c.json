@@ -8,7 +8,7 @@
   "productSlug": "scourgebringer/supporter-pack",
   "urlSlug": "zagrebgeneralaudience-03",
   "creationDate": "2020-10-07T12:14:51.239Z",
-  "lastModifiedDate": "2020-10-21T13:23:10.941Z",
+  "lastModifiedDate": "2021-03-24T01:01:48.426Z",
   "effectiveDate": "2020-10-21T14:00:00.000Z",
   "viewableDate": "2020-10-21T13:55:00.000Z",
   "developer": null,
@@ -26,9 +26,6 @@
   "categories": [
     {
       "path": "addons"
-    },
-    {
-      "path": "games"
     },
     {
       "path": "addons/durable"

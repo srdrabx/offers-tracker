@@ -1,0 +1,58 @@
+{
+  "id": "6727bb5a90484542a6f388b092a27033",
+  "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+  "title": "DLC02",
+  "description": "DLC02",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "tantalumgeneralaudience-01",
+  "creationDate": "2021-03-23T18:35:57.025Z",
+  "lastModifiedDate": "2021-03-24T01:57:48.473Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+    "name": "miHoYo Co., Ltd"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "e2930b29d0344bb3ad2bf0a37d4d8edd"
+    }
+  ],
+  "catalogNs": {
+    "name": "879b0d8776ab46a59a129983ba78f0ce"
+  }
+}

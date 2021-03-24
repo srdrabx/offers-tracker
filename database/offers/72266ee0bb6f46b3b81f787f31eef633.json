@@ -1,0 +1,172 @@
+{
+  "id": "72266ee0bb6f46b3b81f787f31eef633",
+  "namespace": "a0c5d9d8a9a940e8a8f63118c7323210",
+  "title": "Murder by Numbers",
+  "description": "Murder by Numbers",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "murder-by-numbers",
+  "urlSlug": "murder-by-numbers",
+  "creationDate": "2021-03-12T15:13:29.854Z",
+  "lastModifiedDate": "2021-03-23T15:55:18.664Z",
+  "effectiveDate": "2021-03-23T17:00:00.000Z",
+  "viewableDate": "2021-03-23T17:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-h3rhw2ntexmcgx44cv2pdje5bz3nqh",
+    "name": "The Irregular Corporation"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1298",
+      "name": "Puzzle",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2021-02-10T17:34:06.225Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2021-02-10T17:35:47.790Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2021-02-10T17:35:19.827Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "The Irregular Corporation"
+    },
+    {
+      "key": "developerName",
+      "value": "Mediatonic"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "murder-by-numbers"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/a0c5d9d8a9a940e8a8f63118c7323210/offer/EGS_MurderbyNumbers_Mediatonic_S1-2560x1440-c20572a6efa8b71deac98ce598f1fc6c.jpg",
+      "md5": "c20572a6efa8b71deac98ce598f1fc6c",
+      "size": 982344,
+      "uploadedDate": "2021-03-19T16:40:13.602Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/a0c5d9d8a9a940e8a8f63118c7323210/offer/EGS_MurderbyNumbers_Mediatonic_S2-1200x1600-d51cf08c93c51c9d4e9b3d140ddca9ec.jpg",
+      "md5": "d51cf08c93c51c9d4e9b3d140ddca9ec",
+      "size": 963704,
+      "uploadedDate": "2021-03-19T16:40:18.205Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/a0c5d9d8a9a940e8a8f63118c7323210/offer/EGS_MurderbyNumbers_Mediatonic_S2-1200x1600-d51cf08c93c51c9d4e9b3d140ddca9ec.jpg",
+      "md5": "d51cf08c93c51c9d4e9b3d140ddca9ec",
+      "size": 963704,
+      "uploadedDate": "2021-03-19T16:40:25.195Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/a0c5d9d8a9a940e8a8f63118c7323210/offer/EGS_MurderbyNumbers_Mediatonic_S2-1200x1600-d51cf08c93c51c9d4e9b3d140ddca9ec.jpg",
+      "md5": "d51cf08c93c51c9d4e9b3d140ddca9ec",
+      "size": 963704,
+      "uploadedDate": "2021-03-19T16:40:31.030Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/a0c5d9d8a9a940e8a8f63118c7323210/offer/EGS_MurderbyNumbers_Mediatonic_S1-2560x1440-c20572a6efa8b71deac98ce598f1fc6c.jpg",
+      "md5": "c20572a6efa8b71deac98ce598f1fc6c",
+      "size": 982344,
+      "uploadedDate": "2021-03-19T16:40:38.716Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/a0c5d9d8a9a940e8a8f63118c7323210/offer/EGS_MurderbyNumbers_Mediatonic_S2-1200x1600-d51cf08c93c51c9d4e9b3d140ddca9ec.jpg",
+      "md5": "d51cf08c93c51c9d4e9b3d140ddca9ec",
+      "size": 963704,
+      "uploadedDate": "2021-03-19T16:40:44.028Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "7e5beda69a06485f958383b63b83ff10"
+    }
+  ],
+  "catalogNs": {
+    "name": "a0c5d9d8a9a940e8a8f63118c7323210"
+  }
+}

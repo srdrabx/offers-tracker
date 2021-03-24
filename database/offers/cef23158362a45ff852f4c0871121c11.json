@@ -8,7 +8,7 @@
   "productSlug": "the-dungeon-of-naheulbeuk/official-soundtrack",
   "urlSlug": "sarajevogeneralaudience-03",
   "creationDate": "2020-08-21T14:51:48.772Z",
-  "lastModifiedDate": "2020-09-17T14:18:45.710Z",
+  "lastModifiedDate": "2021-03-24T00:50:27.687Z",
   "effectiveDate": "2020-09-17T15:00:00.000Z",
   "viewableDate": "2020-09-17T15:00:00.000Z",
   "developer": null,
@@ -28,10 +28,13 @@
       "path": "addons"
     },
     {
-      "path": "games"
+      "path": "digitalextras"
     },
     {
       "path": "addons/durable"
+    },
+    {
+      "path": "digitalextras/soundtrack"
     },
     {
       "path": "applications"

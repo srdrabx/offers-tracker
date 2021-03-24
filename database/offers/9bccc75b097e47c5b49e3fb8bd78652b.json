@@ -8,7 +8,7 @@
   "productSlug": "diabotical/home",
   "urlSlug": "honeycreepergeneralaudience-07",
   "creationDate": "2020-08-24T12:56:44.029Z",
-  "lastModifiedDate": "2020-09-03T12:34:47.371Z",
+  "lastModifiedDate": "2021-03-24T00:53:18.881Z",
   "effectiveDate": "2020-09-03T13:00:00.000Z",
   "viewableDate": "2020-09-03T13:00:00.000Z",
   "developer": null,
@@ -26,9 +26,6 @@
   "categories": [
     {
       "path": "addons"
-    },
-    {
-      "path": "games"
     },
     {
       "path": "addons/consumable"

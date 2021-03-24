@@ -8,7 +8,7 @@
   "productSlug": "diabotical/starter-pack",
   "urlSlug": "honeycreepergeneralaudience-05",
   "creationDate": "2020-08-06T13:19:49.362Z",
-  "lastModifiedDate": "2020-09-03T12:34:47.341Z",
+  "lastModifiedDate": "2021-03-24T00:52:46.318Z",
   "effectiveDate": "2020-09-03T13:00:00.000Z",
   "viewableDate": "2020-09-03T13:00:00.000Z",
   "developer": null,
@@ -29,9 +29,6 @@
     },
     {
       "path": "addons/durable"
-    },
-    {
-      "path": "games"
     },
     {
       "path": "applications"
