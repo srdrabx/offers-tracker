@@ -5,10 +5,10 @@
   "description": "Docklands - DLC",
   "longDescription": "",
   "status": "ACTIVE",
-  "productSlug": "anno-1800/docklands",
+  "productSlug": null,
   "urlSlug": "anno-1800--docklands",
   "creationDate": "2021-02-02T01:25:57.900Z",
-  "lastModifiedDate": "2021-02-23T15:55:17.187Z",
+  "lastModifiedDate": "2021-03-25T14:40:22.882Z",
   "effectiveDate": "2021-02-23T16:00:00.000Z",
   "viewableDate": "2021-02-23T15:55:00.000Z",
   "developer": null,
@@ -47,10 +47,6 @@
     {
       "key": "developerName",
       "value": "Blue Byte"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "anno-1800/docklands"
     }
   ],
   "keyImages": [

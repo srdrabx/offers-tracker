@@ -8,7 +8,7 @@
   "productSlug": "ancient-enemy",
   "urlSlug": "ancientenemy-general-audience",
   "creationDate": "2021-03-04T11:38:37.025Z",
-  "lastModifiedDate": "2021-03-18T15:26:11.887Z",
+  "lastModifiedDate": "2021-03-25T13:23:02.080Z",
   "effectiveDate": "2021-03-18T16:00:00.000Z",
   "viewableDate": "2021-03-18T16:00:00.000Z",
   "developer": null,
@@ -70,6 +70,18 @@
       "status": "ACTIVE",
       "referenceCount": 46,
       "comment": null
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-03-10T09:37:21.403Z",
+      "updated": "2021-03-25T14:59:17.162Z",
+      "status": "ACTIVE",
+      "referenceCount": 618,
+      "comment": ""
     }
   ],
   "customAttributes": [

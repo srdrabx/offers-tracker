@@ -8,7 +8,7 @@
   "productSlug": "cyberpunk-2077",
   "urlSlug": "cyberpunk",
   "creationDate": "2019-06-13T21:04:20.315Z",
-  "lastModifiedDate": "2020-12-09T23:55:33.539Z",
+  "lastModifiedDate": "2021-03-25T11:38:35.063Z",
   "effectiveDate": "2020-12-10T00:00:00.000Z",
   "viewableDate": "2020-12-10T00:00:00.000Z",
   "developer": null,
@@ -145,6 +145,30 @@
       "status": "ACTIVE",
       "referenceCount": 103,
       "comment": null
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-03-10T09:37:21.403Z",
+      "updated": "2021-03-25T14:59:17.162Z",
+      "status": "ACTIVE",
+      "referenceCount": 618,
+      "comment": ""
+    },
+    {
+      "id": "15583",
+      "name": "BAFTA Games Awards 2021",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-03-24T19:40:24.012Z",
+      "updated": "2021-03-25T14:58:55.974Z",
+      "status": "ACTIVE",
+      "referenceCount": 7,
+      "comment": ""
     }
   ],
   "customAttributes": [

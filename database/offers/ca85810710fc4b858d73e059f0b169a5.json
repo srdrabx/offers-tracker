@@ -1,16 +1,16 @@
 {
   "id": "ca85810710fc4b858d73e059f0b169a5",
   "namespace": "1b4d97cb697f4ac09ff053738f7716e4",
-  "title": "ZincGeneralAudience",
-  "description": "ZincGeneralAudience",
+  "title": "The Fabled Woods",
+  "description": "The Fabled Woods",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
+  "productSlug": "the-fabled-woods",
   "urlSlug": "zincgeneralaudience",
   "creationDate": "2020-12-10T14:46:59.977Z",
-  "lastModifiedDate": "2020-12-10T15:24:44.391Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2021-03-25T15:29:24.033Z",
+  "effectiveDate": "2021-03-25T16:00:00.000Z",
+  "viewableDate": "2021-03-25T16:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-q5rkzbndnbcwu6t6gbs59pxydk6jn8",
@@ -28,10 +28,77 @@
       "path": "games"
     },
     {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2021-02-10T17:36:19.203Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1395",
+      "name": "Narration",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:34.825Z",
+      "updated": "2021-02-10T17:33:17.320Z",
+      "status": "ACTIVE",
+      "referenceCount": 22,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1294",
+      "name": "First Person",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:44.596Z",
+      "updated": "2021-02-10T17:33:51.253Z",
+      "status": "ACTIVE",
+      "referenceCount": 24,
+      "comment": null
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -39,14 +106,73 @@
     },
     {
       "key": "publisherName",
-      "value": "[]"
+      "value": "Headup"
     },
     {
       "key": "developerName",
-      "value": "[]"
+      "value": "CyberPunch"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-fabled-woods"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/1b4d97cb697f4ac09ff053738f7716e4/offer/EGS_TheFabledWoods_CyberPunch_S1-2560x1440-e0f9bab196e51d3d70cf896c7797f7fe.jpg",
+      "md5": "e0f9bab196e51d3d70cf896c7797f7fe",
+      "size": 749184,
+      "uploadedDate": "2021-03-23T04:13:33.022Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/1b4d97cb697f4ac09ff053738f7716e4/offer/EGS_TheFabledWoods_CyberPunch_S2-1200x1600-4400b17fc44e7b7ff34d7ec2aaffe3d4.jpg",
+      "md5": "4400b17fc44e7b7ff34d7ec2aaffe3d4",
+      "size": 575998,
+      "uploadedDate": "2021-03-23T04:13:47.482Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/1b4d97cb697f4ac09ff053738f7716e4/offer/EGS_TheFabledWoods_CyberPunch_S2-1200x1600-4400b17fc44e7b7ff34d7ec2aaffe3d4.jpg",
+      "md5": "4400b17fc44e7b7ff34d7ec2aaffe3d4",
+      "size": 575998,
+      "uploadedDate": "2021-03-23T04:14:03.069Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/1b4d97cb697f4ac09ff053738f7716e4/offer/EGS_TheFabledWoods_CyberPunch_S2-1200x1600-4400b17fc44e7b7ff34d7ec2aaffe3d4.jpg",
+      "md5": "4400b17fc44e7b7ff34d7ec2aaffe3d4",
+      "size": 575998,
+      "uploadedDate": "2021-03-23T04:14:13.775Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/1b4d97cb697f4ac09ff053738f7716e4/offer/EGS_TheFabledWoods_CyberPunch_S1-2560x1440-e0f9bab196e51d3d70cf896c7797f7fe.jpg",
+      "md5": "e0f9bab196e51d3d70cf896c7797f7fe",
+      "size": 749184,
+      "uploadedDate": "2021-03-23T04:14:25.435Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/1b4d97cb697f4ac09ff053738f7716e4/offer/EGS_TheFabledWoods_CyberPunch_S2-1200x1600-4400b17fc44e7b7ff34d7ec2aaffe3d4.jpg",
+      "md5": "4400b17fc44e7b7ff34d7ec2aaffe3d4",
+      "size": 575998,
+      "uploadedDate": "2021-03-23T04:14:35.030Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "02e7b2b08f7d44f1abc38a03244ffbcd"

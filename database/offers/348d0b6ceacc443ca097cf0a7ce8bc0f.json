@@ -1,0 +1,120 @@
+{
+  "id": "348d0b6ceacc443ca097cf0a7ce8bc0f",
+  "namespace": "0a84818055e740a7be21a2e5b6162703",
+  "title": "Watch Dogs: Legion Trial Weekend",
+  "description": "Watch Dogs: Legion Trial Weekend",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "watch-dogs-legion/free-trial",
+  "urlSlug": "hawktrialaudience",
+  "creationDate": "2021-03-18T22:31:53.038Z",
+  "lastModifiedDate": "2021-03-24T17:32:21.386Z",
+  "effectiveDate": "2021-03-24T17:00:00.000Z",
+  "viewableDate": "2021-03-24T17:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "availableDate",
+      "value": "1616684400"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "watch-dogs-legion/free-trial"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/0a84818055e740a7be21a2e5b6162703/offer/EN_WDL_EPIC_Key_Art_Wide_3840x2160-3840x2160-3b8006ea6ee5739de34f25cd1ba96c61.jpg",
+      "md5": "3b8006ea6ee5739de34f25cd1ba96c61",
+      "size": 956338,
+      "uploadedDate": "2021-03-22T19:25:54.663Z",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/0a84818055e740a7be21a2e5b6162703/offer/EN_WDL_EPIC_Key_Art_Wide_3840x2160-3840x2160-3b8006ea6ee5739de34f25cd1ba96c61.jpg",
+      "md5": "3b8006ea6ee5739de34f25cd1ba96c61",
+      "size": 956338,
+      "uploadedDate": "2021-03-22T19:26:13.624Z",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/0a84818055e740a7be21a2e5b6162703/offer/WDL_EPIC_FWE_Portrait_Image_1200x1600-1200x1600-5b2406154c9e237fe2ad6b97f47c9578.png",
+      "md5": "5b2406154c9e237fe2ad6b97f47c9578",
+      "size": 2450442,
+      "uploadedDate": "2021-03-24T17:31:27.171Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/0a84818055e740a7be21a2e5b6162703/offer/WDL_EPIC_FWE_Portrait_Image_1200x1600-1200x1600-5b2406154c9e237fe2ad6b97f47c9578.png",
+      "md5": "5b2406154c9e237fe2ad6b97f47c9578",
+      "size": 2450442,
+      "uploadedDate": "2021-03-24T17:31:45.399Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/0a84818055e740a7be21a2e5b6162703/offer/WDL_EPIC_FWE_Portrait_Image_1200x1600-1200x1600-5b2406154c9e237fe2ad6b97f47c9578.png",
+      "md5": "5b2406154c9e237fe2ad6b97f47c9578",
+      "size": 2450442,
+      "uploadedDate": "2021-03-24T17:32:01.656Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/0a84818055e740a7be21a2e5b6162703/offer/WDL_EPIC_FWE_Portrait_Image_1200x1600-1200x1600-5b2406154c9e237fe2ad6b97f47c9578.png",
+      "md5": "5b2406154c9e237fe2ad6b97f47c9578",
+      "size": 2450442,
+      "uploadedDate": "2021-03-24T17:32:16.285Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "25358cea03874cbc898907db9ff90635"
+    }
+  ],
+  "catalogNs": {
+    "name": "0a84818055e740a7be21a2e5b6162703"
+  }
+}

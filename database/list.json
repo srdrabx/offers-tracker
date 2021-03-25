@@ -12,7 +12,7 @@
     ],
     "MWM Interactive",
     1611343690,
-    1616076321,
+    1616621538,
     "https://cdn1.epicgames.com/e4ac2f8cd49b42f18821f3fc3b6fc1b6/offer/EGS_CreatureintheWell_FlightSchoolStudio_S2-1200x1600-42c37512ff1fdf1fb5dc0d64864b72ce.jpg",
     "creature-in-the-well"
   ],
@@ -484,7 +484,7 @@
     ],
     "Perfect World",
     1612841001,
-    1616520217,
+    1616631851,
     "https://cdn1.epicgames.com/ce9774c9678a4377befaa8fdfc8ef71b/offer/EGS_MagicLegends20000Zen3000BonusBundle_CrypticStudios_AddOn_S2-1200x1600-72d5e8e74da68cd322e0a4815784d58e.jpg",
     ""
   ],
@@ -1004,7 +1004,7 @@
     ],
     "2K Games, Inc.",
     1604603824,
-    1610482189,
+    1616686850,
     "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_UL_ED_EPIC_Portrait_860x1148-860x1148-c040cc358321cd1fb63e6647be0ccb3c.jpg",
     "borderlands-3/ultimate-edition"
   ],
@@ -1606,7 +1606,7 @@
     ],
     "Thermite Games",
     1611184077,
-    1611184638,
+    1616681181,
     "",
     ""
   ],
@@ -1621,7 +1621,7 @@
     ],
     "Grey Alien Games",
     1614857917,
-    1616081171,
+    1616678582,
     "https://cdn1.epicgames.com/138c9362d8ff4c239076bc556e18cdac/offer/EGS_AncientEnemy_GreyAlienGames_S2-1200x1600-9921cef6b2c9a854cd8c31165e2dbe8a.jpg",
     "ancient-enemy"
   ],
@@ -3396,7 +3396,7 @@
     ],
     "Perfect World",
     1612840862,
-    1616520207,
+    1616631851,
     "https://cdn1.epicgames.com/ce9774c9678a4377befaa8fdfc8ef71b/offer/EGS_MagicLegends5000Zen300BonusBundle_CrypticStudios_AddOn_S2-1200x1600-56b4dc0484b6ddf1b7c2261dd32960c4.jpg",
     ""
   ],
@@ -5699,7 +5699,7 @@
     ],
     "Over the Moon Games",
     1614811097,
-    1615824373,
+    1616678725,
     "https://cdn1.epicgames.com/6da57ad658b146ca8caf15b3434c836e/offer/EGS_TheFallPart2Unbound_OverTheMoon_S2-1200x1600-7e58626e191a0586e023f833cd6868f3.jpg",
     "the-fall-part-2-unbound"
   ],
@@ -6454,6 +6454,22 @@
     "spacebase-startopia/extended-edition"
   ],
   [
+    "1c999b771c9146bb8f6613eca3670bcd",
+    "bd6437617fc841df8c43800901211059",
+    "Battle Chasers: Nightwar Digital Extras",
+    [
+      "digitalextras/book",
+      "digitalextras",
+      "digitalextras/soundtrack",
+      "applications"
+    ],
+    "THQ Nordic GmbH",
+    1614056260,
+    1616620695,
+    "https://cdn1.epicgames.com/bd6437617fc841df8c43800901211059/offer/EGS_BattleChasersNightwarDigitalExtras_AirshipSyndicate_DigitalExtras_S2-1200x1600-09ea045d02467f9bdf3d49a38062f0fd.jpg",
+    ""
+  ],
+  [
     "1cada26e0996498897e9ceed000c8fa1",
     "7015c51a49be4592b5ba3ae2577723c5",
     "Tropico 5 - T-Day",
@@ -6967,6 +6983,19 @@
     ""
   ],
   [
+    "1e78b5ae7dad4838b0c206d0258a247d",
+    "9773aa1aa54f4f7b80e44bef04986cea",
+    "test1",
+    [
+      "applications"
+    ],
+    "Psyonix LLC",
+    1616643806,
+    1616692029,
+    "",
+    ""
+  ],
+  [
     "1e79dc30655b4f2d9e091af8b5bcd2e1",
     "snapdragon",
     "SnapdragonMKTGAudience",
@@ -7180,7 +7209,7 @@
     ],
     "Private Division",
     1563808693,
-    1603214313,
+    1616678489,
     "https://cdn1.epicgames.com/amaranth/offer/Ancestors_EGS_PortraitProductImage_1200x1600-1200x1600-ddddb93fd9f6c66a1a34d4be4673bf17.jpg",
     "ancestors/home"
   ],
@@ -7901,7 +7930,7 @@
     ],
     "Hello Games Ltd",
     1588122557,
-    1598529084,
+    1616670574,
     "https://cdn1.epicgames.com/68214aaaa6f94c81a18c99fc2dc208cf/offer/EGS_TheLastCampfire_HelloGames_S2-1200x1600-279a0f8083fbd7fae8024f1623674329.jpg",
     "the-last-campfire"
   ],
@@ -7961,7 +7990,7 @@
     ],
     "Red Hook Studios",
     1603101886,
-    1603296145,
+    1616682578,
     "https://cdn1.epicgames.com/6ff9efdef6dc45ecb40ed20fcd2c4621/offer/EGS_DarkestDungeonII_RedHookStudios_S2-1200x1600-c54177d1168a70c7b9ddf2083a774324.jpg",
     "darkest-dungeon-2/home"
   ],
@@ -8998,6 +9027,22 @@
     ""
   ],
   [
+    "283efcdb837f4c2daae95acf4d0322b3",
+    "f7dc2f3c915444f1a6ba4105bc00d592",
+    "BIOMUTANT",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "THQ Nordic GmbH",
+    1616016616,
+    1616620966,
+    "https://cdn1.epicgames.com/f7dc2f3c915444f1a6ba4105bc00d592/offer/EGS_BIOMUTANT_Experiment101_S2-1200x1600-7f18bf0433d6631ea0383abb74e6392a.jpg",
+    "biomutant"
+  ],
+  [
     "284a7f3a45a241c2ac17c726695ed1da",
     "2736ab9fec9c4a93a7a2872ed5154d4b",
     "Rage 2 - 2500 RAGE Coins",
@@ -9546,7 +9591,7 @@
     ],
     "Supergiant Games LLC",
     1575900808,
-    1601401683,
+    1616672075,
     "https://cdn1.epicgames.com/min/offer/1200x1600-1200x1600-e92fa6b99bb20c9edee19c361b8853b9.jpg",
     "hades"
   ],
@@ -10593,6 +10638,21 @@
     1589468400,
     "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/offer/EDITION_CAPSULE_XGAMES_GOLD-1920x1080-f9343ddbef2b93a270e30745d03f98ec.jpg",
     "steep/x-games-gold-edition"
+  ],
+  [
+    "2fda269f419c41b1b98a9ece0fe5cd66",
+    "cd14dcaa4f3443f19f7169a980559c62",
+    "Civilization VI – Portugal Pack",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "2K Games, Inc.",
+    1591632713,
+    1616686493,
+    "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_CivilizationVIPortugalPack_FiraxisGames_DLC_S2-1200x1600-f4d116670794b3a81979fea76f6f944e.jpg",
+    ""
   ],
   [
     "2fe7bfe3bada4fd68edd3401068f76b0",
@@ -11771,6 +11831,21 @@
     ""
   ],
   [
+    "348d0b6ceacc443ca097cf0a7ce8bc0f",
+    "0a84818055e740a7be21a2e5b6162703",
+    "Watch Dogs: Legion Trial Weekend",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Ubisoft Entertainment",
+    1616106713,
+    1616607141,
+    "https://cdn1.epicgames.com/0a84818055e740a7be21a2e5b6162703/offer/WDL_EPIC_FWE_Portrait_Image_1200x1600-1200x1600-5b2406154c9e237fe2ad6b97f47c9578.png",
+    "watch-dogs-legion/free-trial"
+  ],
+  [
     "3497d92460cc4bc39d1d99db07377c4d",
     "7f498fbf0a4e43239d58eee6615ae806",
     "ReadySet Heroes Pre-Purchase",
@@ -12156,7 +12231,7 @@
     ],
     "Hi-Rez Studios",
     1565990547,
-    1612353621,
+    1616684629,
     "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo-EGS-Kestrel-Boxart-PortraitProductImage-1200x1600-1200x1600-f9df422de636cc3a1a8de10ace9f1a1c.jpg",
     "rogue-company/home"
   ],
@@ -17060,7 +17135,7 @@
     ],
     "SEGA of Europe",
     1602613582,
-    1610384601,
+    1616682232,
     "https://cdn1.epicgames.com/02c14a01b7044db98de3f3a10813a42e/offer/Mobile vertical                                1200 x 1600-1200x1600-45288270a8eb5ad4aa4bc24e59354ec8.jpg",
     "humankind/digital-deluxe"
   ],
@@ -17591,7 +17666,7 @@
     ],
     "Devolver Digital, Inc.",
     1603129313,
-    1603975188,
+    1616671575,
     "https://cdn1.epicgames.com/7c6d889f36124ae4b6269f8e1698a547/offer/EGS_CARRION_PhobiaGameStudio_S2-1200x1600-b955011351d133b0b7fd9a728375d07f.jpg",
     "carrion/home"
   ],
@@ -18403,8 +18478,8 @@
     ],
     "Mohawk Games",
     1583288293,
-    1602103347,
-    "https://cdn1.epicgames.com/07f4a7dd3c884e5d87e9a209716962ca/offer/EGS_OldWorld_MohawkGames_S2-1200x1600-abd8c012e54814e95dca03aaf3282ee5.jpg",
+    1616615751,
+    "https://cdn1.epicgames.com/07f4a7dd3c884e5d87e9a209716962ca/offer/EGS_OldWorld_MohawkGames_S2-860x1148-0e077ae9572c911683633fa9b19bd5c5.jpg",
     "old-world"
   ],
   [
@@ -18888,6 +18963,21 @@
     ""
   ],
   [
+    "53fb47b281234c8dbd679b8f415f3771",
+    "6af58339c2424644988e0fb83dfd9bd5",
+    "Martin Garrix - \"Animals\"",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "NCSoft",
+    1612342061,
+    1616688054,
+    "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_MartinGarrixAnimals_HarmonixMusicSystemsInc_DLC_S2-1200x1600-206e0a9fb2a3341c1a8bf0823ffd124d.jpg",
+    ""
+  ],
+  [
     "5409d3dac2884113be6f49c140973361",
     "244aaaa06bfa49d088205b13b9d2d115",
     "Warframe: 370 Platinum",
@@ -19179,7 +19269,7 @@
     ],
     "Thunder Lotus Games",
     1585576968,
-    1602169314,
+    1616671698,
     "https://cdn1.epicgames.com/8518a041f3064613a354f997aac0c3cb/offer/EGS_Spiritfarer_ThunderLotus_S2-1200x1600-94b29d653d9ba4dd4106effa6f7c954e.jpg",
     "spiritfarer"
   ],
@@ -20260,7 +20350,7 @@
     ],
     "Private Division",
     1552718104,
-    1603467392,
+    1616677467,
     "https://cdn1.epicgames.com/rosemallow/offer/TOW_EGS_PortraitProductImage_1200x1600-1200x1600-cf974f29088af4a870970a09371a404a.jpg",
     "the-outer-worlds/home"
   ],
@@ -20687,7 +20777,7 @@
     ],
     "Sony Interactive Entertainment",
     1575945799,
-    1596812367,
+    1616678829,
     "https://cdn1.epicgames.com/3328b08ac1c14540aa265a1a85c07839/offer/hzd_tall-1200x1600-d4b1057afd47f9256d8da71f2f187be4.jpg",
     "horizon-zero-dawn-complete-edition"
   ],
@@ -21008,7 +21098,7 @@
     ],
     "CD PROJEKT RED",
     1560459860,
-    1607558133,
+    1616672315,
     "https://cdn1.epicgames.com/77f2b98e2cef40c8a7437518bf420e47/offer/CYBERPUNK2077_CodeRedemption-340x440-b3562d895a2f054f83182419bf6ad598.jpg",
     "cyberpunk-2077"
   ],
@@ -21353,7 +21443,7 @@
     ],
     "The Wandering Band LLC",
     1592028975,
-    1608220377,
+    1616671738,
     "https://cdn1.epicgames.com/e1809e1742cb498080d8849b11a99c5a/offer/EGS_AirborneKingdom_TheWanderingBan_S2-1200x1600-ef7b5c8d74730358fcc7d1f4c8c87252.jpg",
     "airborne-kingdom/home"
   ],
@@ -21953,6 +22043,21 @@
     1596036365,
     "https://cdn1.epicgames.com/f312bc218b1d46f7921619cc9f3bf3c7/offer/Featured_Carousel_Mobile_vertical-510x680-e32ca30b792ec25c6eee5cf866a86ab5.jpg",
     "iron-harvest/deluxe-edition"
+  ],
+  [
+    "61eb71b91d034de6990d7260025a1e8f",
+    "ed8a79694c054f70a6350cb2c8c45316",
+    "dlc_test_iap_pack_1Audience",
+    [
+      "addons",
+      "addons/consumable",
+      "applications"
+    ],
+    "Gameloft SE",
+    1616609386,
+    1616610654,
+    "",
+    ""
   ],
   [
     "621018656f584f5f8a569a8be531ac8f",
@@ -24027,6 +24132,22 @@
     "samurai-shodown-reboot/season-pass-2"
   ],
   [
+    "6b42c7ed7e574e54bdef8e77f71d9333",
+    "f93166410da745b58b1613db66141c02",
+    "ELEX",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "THQ Nordic GmbH",
+    1613670725,
+    1616620377,
+    "https://cdn1.epicgames.com/f93166410da745b58b1613db66141c02/offer/EGS_ELEX_PiranhaBytes_S2-1200x1600-84923ac70589b4b06c13b3132cdab4d9.jpg",
+    "elex"
+  ],
+  [
     "6b6c8b5b4a334dbb86f62ca6c2ee786f",
     "badb0ee71b474ed591ec43212547cfc8",
     "Obsidian Pack",
@@ -24877,7 +24998,7 @@
     ],
     "Plug In Digital SAS",
     1599147423,
-    1603203609,
+    1616694287,
     "https://cdn1.epicgames.com/96d9e862cd3947c28ea4206e89c1ea48/offer/Tall-1200x1600-f72389a48bb27dd90bcfa812004a48cb.jpg",
     "paper-beast"
   ],
@@ -26002,7 +26123,7 @@
     ],
     "Private Division",
     1598381555,
-    1598545177,
+    1616678524,
     "https://cdn1.epicgames.com/amaranth/offer/ANC_EGS_SteamSoundtrackBundle_1200x1660-1200x1660-5aca48430bec9fde8746ebb137d48233.png",
     "ancestors/soundtrack-bundle"
   ],
@@ -27660,7 +27781,7 @@
     ],
     "Private Division",
     1599170493,
-    1615997655,
+    1616678374,
     "https://cdn1.epicgames.com/rosemallow/offer/TOW_XP_Tall-1200x1600-87a0d14a0ca4d1b2c2e518c4d6f0e0bd.jpg",
     ""
   ],
@@ -28813,7 +28934,7 @@
     ],
     "Proletariat, Inc.",
     1597337880,
-    1599140305,
+    1616687356,
     "https://cdn1.epicgames.com/newt/offer/EGS_Spellbreak_ProletariatInc_S6-1200x1600-8cf5fbf5533eb5644cec429a257b6b69.jpg",
     "spellbreak"
   ],
@@ -29984,7 +30105,7 @@
     ],
     "Timberline Studio",
     1599774627,
-    1603371389,
+    1616688247,
     "https://cdn1.epicgames.com/65add98d18a64e2ead3b8f05c84cba94/offer/EGS_TimberlineStudio_TheRedLantern_S4-510x680-89312f7bf3da012e1606f730d8e14702 (1)-510x680-89312f7bf3da012e1606f730d8e14702.jpg",
     "the-red-lantern/home"
   ],
@@ -30103,7 +30224,7 @@
     ],
     "Gameloft SE",
     1614016474,
-    1614016591,
+    1616610654,
     "",
     ""
   ],
@@ -30443,7 +30564,7 @@
     ],
     "Timberline Studio",
     1571289890,
-    1603371389,
+    1616688247,
     "https://cdn1.epicgames.com/65add98d18a64e2ead3b8f05c84cba94/offer/EGS_TimberlineStudio_TheRedLantern_S4-510x680-89312f7bf3da012e1606f730d8e14702 (1)-510x680-89312f7bf3da012e1606f730d8e14702.jpg",
     "the-red-lantern/home"
   ],
@@ -34225,7 +34346,7 @@
     ],
     "Perfect World",
     1612840941,
-    1616520195,
+    1616631851,
     "https://cdn1.epicgames.com/ce9774c9678a4377befaa8fdfc8ef71b/offer/EGS_MagicLegends10000Zen1000BonusBundle_CrypticStudios_AddOn_S2-1200x1600-a4346bbc5dd8b9c08c13d962502f6969.jpg",
     ""
   ],
@@ -35017,7 +35138,7 @@
     ],
     "RETO MOTO",
     1585697546,
-    1613665087,
+    1616684265,
     "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/hng_default_boxart-1200x1600-f47e0091839c038ee0a5473116268220.jpg",
     "heroes-and-generals-wwii/home"
   ],
@@ -39078,9 +39199,9 @@
     ],
     "Ubisoft Entertainment",
     1612229157,
-    1614095717,
+    1616683222,
     "",
-    "anno-1800/docklands"
+    ""
   ],
   [
     "ae61e787a67149a481ee4aafa4efe562",
@@ -39457,6 +39578,22 @@
     "steep/home"
   ],
   [
+    "afc199324f86439383b0188ea7451c1b",
+    "f93166410da745b58b1613db66141c02",
+    "ELEX Digital Extras",
+    [
+      "digitalextras/book",
+      "digitalextras",
+      "digitalextras/soundtrack",
+      "applications"
+    ],
+    "THQ Nordic GmbH",
+    1614058787,
+    1616620377,
+    "https://cdn1.epicgames.com/f93166410da745b58b1613db66141c02/offer/EGS_ELEXDigitalExtras_PiranhaBytes_DigitalExtras_S2-1200x1600-2b549f85d9fa4f3fcadd0c058def7e34.jpg",
+    ""
+  ],
+  [
     "afc75e16826247f1b39b999a1f7c7a34",
     "c556d22537ed4a14a454813c9faedd3a",
     "Medieval Dynasty - Digital Supporter Pack",
@@ -39515,6 +39652,21 @@
     1591149334,
     "https://cdn1.epicgames.com/400cc6605aee41de88f976b587a48aa0/offer/EGS_Croteam_TheTalosPrinciple_S2-1280x1440-1280x1440-ed4a53c3bd76eddb70383025ec0f87dd.jpg",
     "the-talos-principle/home"
+  ],
+  [
+    "b0131c80e3374edcb5c70c08efdf9416",
+    "6af58339c2424644988e0fb83dfd9bd5",
+    "Modern English - \"I Melt With You\"",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "NCSoft",
+    1612342095,
+    1616688054,
+    "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_ModernEnglishIMeltWithYou_HarmonixMusicSystemsInc_DLC_S2-1200x1600-2c3a8715255ebca818e6fb296ba3765b.jpg",
+    ""
   ],
   [
     "b0240309128f4a74a5c623cb982415ee",
@@ -40685,16 +40837,19 @@
   [
     "b5e5f4fbdd4a40348c3a9a554f076922",
     "37e6d41ce91e44988190c2f10108d4e9",
-    "AntimonyGeneralAudience",
+    "Tales of the Neon Sea",
     [
+      "freegames",
       "games",
+      "games/edition",
+      "games/edition/base",
       "applications"
     ],
     "Thermite Games",
     1611184076,
-    1611184638,
-    "",
-    ""
+    1616684574,
+    "https://cdn1.epicgames.com/37e6d41ce91e44988190c2f10108d4e9/offer/EGS_TalesoftheNeonSea_PalmPioneer_S2-1200x1600-d794e2e82ea70067704178ce9b632b52.jpg",
+    "tales-of-the-neon-sea"
   ],
   [
     "b5f59b5219f54326a9d9079adda40108",
@@ -40824,7 +40979,7 @@
     ],
     "NCSoft",
     1593115504,
-    1604984394,
+    1616686971,
     "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_FUSERVIPEdition_HarmonixMusicSystemsInc_Editions_S2-1200x1600-1200x1600-2e8a29e7780109ba104a2fafbf864d97.jpg",
     "fuser/vip-edition"
   ],
@@ -42127,6 +42282,19 @@
     1614802973,
     1614802973,
     "https://cdn1.epicgames.com/b2192c4b00db40fe8848b3be6753cfd5/offer/founders_pack_epic_1200x1600-1200x1600-e76e2400d6b4091d19ac410724bdffab.jpg",
+    ""
+  ],
+  [
+    "bd15c3b80aeb4a1b9358e6dd4537c427",
+    "9773aa1aa54f4f7b80e44bef04986cea",
+    "test2",
+    [
+      "applications"
+    ],
+    "Psyonix LLC",
+    1616643838,
+    1616692037,
+    "",
     ""
   ],
   [
@@ -43557,7 +43725,7 @@
     ],
     "2K Games, Inc.",
     1568220761,
-    1604965512,
+    1616686823,
     "https://cdn1.epicgames.com/catnip/offer/CodeRedemption_B3_SeasonPass-340x440-09cba32f1f9c1461192fc56bbd98300c.jpg",
     "borderlands-3/season-pass"
   ],
@@ -43617,7 +43785,7 @@
     ],
     "Perfect World",
     1612840782,
-    1616520227,
+    1616631851,
     "https://cdn1.epicgames.com/ce9774c9678a4377befaa8fdfc8ef71b/offer/EGS_MagicLegends2000ZenBundle_CrypticStudios_AddOn_S2-1200x1600-baafaeb10aeee7fdfbd368ce81b55d26.jpg",
     ""
   ],
@@ -43805,6 +43973,22 @@
     1608033561,
     "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite-EGS-800Gems-860x1148-860x1148-82addd73979813a87d6890c9f7a1258e.jpg",
     ""
+  ],
+  [
+    "c4f3c186c273404695ac6639c272b195",
+    "bd6437617fc841df8c43800901211059",
+    "Battle Chasers: Nightwar",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "THQ Nordic GmbH",
+    1613675216,
+    1616620695,
+    "https://cdn1.epicgames.com/bd6437617fc841df8c43800901211059/offer/EGS_BattleChasersNightwar_AirshipSyndicate_S2-1200x1600-8ad49910c9560bbc9bb2267d8793d185.jpg",
+    "battle-chasers-nightwar"
   ],
   [
     "c4fa18a6f4d64ae78a00d2e0a5b1c271",
@@ -44923,16 +45107,18 @@
   [
     "ca85810710fc4b858d73e059f0b169a5",
     "1b4d97cb697f4ac09ff053738f7716e4",
-    "ZincGeneralAudience",
+    "The Fabled Woods",
     [
       "games",
+      "games/edition/base",
+      "games/edition",
       "applications"
     ],
     "Headup Gmbh",
     1607611619,
-    1607613884,
-    "",
-    ""
+    1616686164,
+    "https://cdn1.epicgames.com/1b4d97cb697f4ac09ff053738f7716e4/offer/EGS_TheFabledWoods_CyberPunch_S2-1200x1600-4400b17fc44e7b7ff34d7ec2aaffe3d4.jpg",
+    "the-fabled-woods"
   ],
   [
     "ca9e038d351d493f91f7823a175c5acf",
@@ -45599,6 +45785,21 @@
     ""
   ],
   [
+    "cdb7fa259a404e48a2153986b12401b2",
+    "6af58339c2424644988e0fb83dfd9bd5",
+    "Linkin Park - \"Numb\"",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "NCSoft",
+    1612342034,
+    1616688054,
+    "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_LinkinParkNumb_HarmonixMusicSystemsInc_DLC_S2-1200x1600-64643a69c8e7220dafe84db6339ecb1e.jpg",
+    ""
+  ],
+  [
     "cdc5562e7d9842b1af2d7b64c0a9090b",
     "cbbb7e8728a3476f97e44f3856c3cb13",
     "Anno 2205 Season Pass",
@@ -46108,6 +46309,21 @@
     1568642027,
     1607098826,
     "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_RogueCompany-340x440-1556563c6bc7bb49090240e42b8ecc68.jpg",
+    ""
+  ],
+  [
+    "d0494314632344cda36df8a48d0e85e9",
+    "4b35838425c74992ad42e1276b2161ca",
+    "Immortals Fenyx Rising™ - DLC 2: Myths of the Eastern Realm",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Ubisoft Entertainment",
+    1616088370,
+    1616689287,
+    "https://cdn1.epicgames.com/4b35838425c74992ad42e1276b2161ca/offer/Immortals_DLC2_EPIC_Store Portrait_1200x1600_UK-1200x1600-533e78dc897c5bbda5b80159eba5fa47.jpg",
     ""
   ],
   [
@@ -47230,7 +47446,7 @@
     ],
     "Ubisoft Entertainment",
     1588096135,
-    1605024351,
+    1616671846,
     "https://cdn1.epicgames.com/400347196e674de89c23cc2a7f2121db/offer/AC KINGDOM PREORDER_STANDARD EDITION_EPIC_Key_Art_Portrait_640x854-640x854-288120c5573756cb988b6c1968cebd86.png",
     "assassins-creed-valhalla/home"
   ],
@@ -47311,7 +47527,6 @@
     "d16f231f238646e881bb0cd83e1d30c8",
     "The Fall",
     [
-      "freegames",
       "games",
       "games/edition",
       "games/edition/base",
@@ -47319,7 +47534,7 @@
     ],
     "Over the Moon Games",
     1611260851,
-    1615475367,
+    1616684663,
     "https://cdn1.epicgames.com/d16f231f238646e881bb0cd83e1d30c8/offer/EGS_TheFall_overTheMoon_S2-1200x1600-368b3e85b4d26f63468593c1defca54f.jpg",
     "the-fall"
   ],
@@ -47678,7 +47893,7 @@
     ],
     "Spiderweb Software, Inc.",
     1613169418,
-    1614175172,
+    1616687295,
     "https://cdn1.epicgames.com/308652d49c89470fbf45fe8696b9c1c1/offer/egs-geneforge1mutagen-spiderwebsoftware-s2-1200x1600-047ee886480c-1200x1600-668dc5abed1824b419b20b21c362904e.jpg",
     "geneforge-1-mutagen"
   ],
@@ -49072,7 +49287,7 @@
     ],
     "Perfect World",
     1612840650,
-    1616520151,
+    1616631851,
     "https://cdn1.epicgames.com/ce9774c9678a4377befaa8fdfc8ef71b/offer/EGS_MagicLegends1000ZenBundle_CrypticStudios_AddOn_S2-1200x1600-43c276669385870ce26118a601db6d3e.jpg",
     ""
   ],
@@ -49749,7 +49964,7 @@
     ],
     "Private Division",
     1601406183,
-    1603467562,
+    1616678305,
     "https://cdn1.epicgames.com/rosemallow/offer/EGS_TWONonMandatoryCorporateSponsored_ObsidianEntertainment_Bundles_S2-1200x1600-2e5e69a0e4536d06fedb7c274fd70fe0.jpg",
     "the-outer-worlds/non-mandatory-corporate-sponsored-bundle"
   ],
@@ -51554,7 +51769,7 @@
     ],
     "Private Division",
     1560013593,
-    1603467392,
+    1616677467,
     "https://cdn1.epicgames.com/rosemallow/offer/TheOuterWorlds_CodeRedemption-340x440-b6b1d651f08bd558d8e8d7d68d12cf18.jpg",
     ""
   ],
@@ -54308,16 +54523,18 @@
   [
     "f51ebf66eb42420bba6cdd7d87cf56af",
     "1c4745021d4243a783b459d928b9088f",
-    "FrigateGeneralAudience",
+    "OCTOPATH TRAVELER™",
     [
       "games",
+      "games/edition/base",
+      "games/edition",
       "applications"
     ],
-    "Square Enix Japan",
+    "Square Enix (Japan)",
     1582038985,
-    1602852589,
-    "",
-    ""
+    1616630402,
+    "https://cdn1.epicgames.com/1c4745021d4243a783b459d928b9088f/offer/EGS_OCTOPATHTRAVELER_SquareEnixACQUIRECorp_S6-1200x1600-b9743674fc7c7d858f7fc127854d5e1b.jpg",
+    "octopath-traveler"
   ],
   [
     "f532a57ca71449d6a23da17df9179ea5",
@@ -54699,7 +54916,7 @@
     ],
     "Square Enix",
     1572920259,
-    1587654009,
+    1616687256,
     "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/offer/JC4-Reloaded-860x1148-860x1148-145b58e1d3d597871b8585f824540c57-860x1148-145b58e1d3d597871b8585f824540c57.jpg",
     "just-cause-4"
   ],
@@ -55510,7 +55727,7 @@
     ],
     "Gameloft SE",
     1614016474,
-    1614016591,
+    1616610654,
     "",
     ""
   ],
@@ -55603,7 +55820,7 @@
     ],
     "Perfect World",
     1612841514,
-    1616520185,
+    1616631851,
     "https://cdn1.epicgames.com/ce9774c9678a4377befaa8fdfc8ef71b/offer/EGS_MagicLegendsEpicPlaneswalkerStarterPack_CrypticStudios_Packs_S2-1200x1600-98d9bdde58502c38da57d98179bb603a.jpg",
     ""
   ],
@@ -56011,16 +56228,18 @@
   [
     "fc46c62f4ce24bc8bae95894f73753fc",
     "newt",
-    "RMT Aerial",
+    "Spellbreak - Aerialist Pack",
     [
+      "addons",
       "games",
+      "addons/durable",
       "applications"
     ],
     "Proletariat, Inc.",
     1608211106,
-    1612975796,
-    "",
-    "spellbreak/warlock-chapter-pack"
+    1616687445,
+    "https://cdn1.epicgames.com/newt/offer/EGS_SpellbreakAerialistPack_ProletariatInc_DLC_S2-1200x1600-68e7f36aae2449f5cd9d1e84798370b5.jpg",
+    "spellbreak/aerialist-pack"
   ],
   [
     "fc57c1b0eb74409abeefa3504c2989ff",

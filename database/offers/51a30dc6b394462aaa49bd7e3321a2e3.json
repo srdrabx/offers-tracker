@@ -8,7 +8,7 @@
   "productSlug": "old-world",
   "urlSlug": "nightjargeneralaudience-01",
   "creationDate": "2020-03-04T02:18:13.708Z",
-  "lastModifiedDate": "2020-10-07T20:42:27.862Z",
+  "lastModifiedDate": "2021-03-24T19:55:51.187Z",
   "effectiveDate": "2020-05-05T15:00:00.000Z",
   "viewableDate": "2020-05-05T15:00:00.000Z",
   "developer": null,
@@ -38,18 +38,6 @@
     }
   ],
   "tags": [
-    {
-      "id": "1386",
-      "name": "Turn-Based",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:30.372Z",
-      "updated": "2021-02-05T16:19:58.338Z",
-      "status": "ACTIVE",
-      "referenceCount": 14,
-      "comment": null
-    },
     {
       "id": "1370",
       "name": "Single Player",
@@ -87,18 +75,6 @@
       "comment": null
     },
     {
-      "id": "1310",
-      "name": "EARLY ACCESS",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:52.671Z",
-      "updated": "2020-09-10T15:44:03.705Z",
-      "status": "ACTIVE",
-      "referenceCount": 0,
-      "comment": null
-    },
-    {
       "id": "1166",
       "name": "4X",
       "namespace": "epic",
@@ -109,12 +85,27 @@
       "status": "ACTIVE",
       "referenceCount": 1,
       "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "Mac OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX",
+        "macOS"
+      ],
+      "operator": null,
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2021-02-10T17:26:31.125Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
     }
   ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "{}"
+      "value": "KR"
     },
     {
       "key": "publisherName",
@@ -128,55 +119,55 @@
   "keyImages": [
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/07f4a7dd3c884e5d87e9a209716962ca/offer/EGS_OldWorld_MohawkGames_S2-1200x1600-abd8c012e54814e95dca03aaf3282ee5.jpg",
-      "md5": "abd8c012e54814e95dca03aaf3282ee5",
-      "size": 739642,
-      "uploadedDate": "2020-10-07T20:41:21.845Z",
-      "width": 1200,
-      "height": 1600
+      "url": "https://cdn1.epicgames.com/07f4a7dd3c884e5d87e9a209716962ca/offer/EGS_OldWorld_MohawkGames_S2-860x1148-0e077ae9572c911683633fa9b19bd5c5.jpg",
+      "md5": "2e01cd5f701f45c64b73212e1b6f3a06",
+      "size": 696045,
+      "uploadedDate": "2020-05-05T02:20:26.347Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/07f4a7dd3c884e5d87e9a209716962ca/offer/EGS_OldWorld_MohawkGames_S2-860x1148-0e077ae9572c911683633fa9b19bd5c5.jpg",
+      "md5": "2e01cd5f701f45c64b73212e1b6f3a06",
+      "size": 696045,
+      "uploadedDate": "2020-05-05T02:20:32.938Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/07f4a7dd3c884e5d87e9a209716962ca/offer/EGS_OldWorld_MohawkGames_S2-860x1148-0e077ae9572c911683633fa9b19bd5c5.jpg",
+      "md5": "2e01cd5f701f45c64b73212e1b6f3a06",
+      "size": 696045,
+      "uploadedDate": "2020-05-05T02:20:42.957Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/07f4a7dd3c884e5d87e9a209716962ca/offer/EGS_OldWorld_MohawkGames_S2-860x1148-0e077ae9572c911683633fa9b19bd5c5.jpg",
+      "md5": "2e01cd5f701f45c64b73212e1b6f3a06",
+      "size": 696045,
+      "uploadedDate": "2020-05-05T02:20:52.310Z",
+      "width": 860,
+      "height": 1148
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/07f4a7dd3c884e5d87e9a209716962ca/offer/EGS_OldWorld_MohawkGames_S1-2560x1440-fb4701a5cbba9680d746b4706087ea3b.jpg",
-      "md5": "fb4701a5cbba9680d746b4706087ea3b",
-      "size": 754481,
-      "uploadedDate": "2020-10-07T20:41:28.773Z",
+      "url": "https://cdn1.epicgames.com/07f4a7dd3c884e5d87e9a209716962ca/offer/EGS_OldWorld_MohawkGames_S1-2560x1440-9f8de361a5835c8c32754f1e2d7c0084.jpg",
+      "md5": "c713458aa5d0aab68c2d757d225d08ff",
+      "size": 2070193,
+      "uploadedDate": "2020-05-05T02:21:04.395Z",
       "width": 2560,
       "height": 1440
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/07f4a7dd3c884e5d87e9a209716962ca/offer/EGS_OldWorld_MohawkGames_S2-1200x1600-abd8c012e54814e95dca03aaf3282ee5.jpg",
-      "md5": "abd8c012e54814e95dca03aaf3282ee5",
-      "size": 739642,
-      "uploadedDate": "2020-10-07T20:41:38.350Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/07f4a7dd3c884e5d87e9a209716962ca/offer/EGS_OldWorld_MohawkGames_S2-1200x1600-abd8c012e54814e95dca03aaf3282ee5.jpg",
-      "md5": "abd8c012e54814e95dca03aaf3282ee5",
-      "size": 739642,
-      "uploadedDate": "2020-10-07T20:41:50.458Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/07f4a7dd3c884e5d87e9a209716962ca/offer/EGS_OldWorld_MohawkGames_S2-1200x1600-abd8c012e54814e95dca03aaf3282ee5.jpg",
-      "md5": "abd8c012e54814e95dca03aaf3282ee5",
-      "size": 739642,
-      "uploadedDate": "2020-10-07T20:42:00.349Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/07f4a7dd3c884e5d87e9a209716962ca/offer/EGS_OldWorld_MohawkGames_S1-2560x1440-fb4701a5cbba9680d746b4706087ea3b.jpg",
-      "md5": "fb4701a5cbba9680d746b4706087ea3b",
-      "size": 754481,
-      "uploadedDate": "2020-10-07T20:42:09.991Z",
+      "url": "https://cdn1.epicgames.com/07f4a7dd3c884e5d87e9a209716962ca/offer/EGS_OldWorld_MohawkGames_S1-2560x1440-9f8de361a5835c8c32754f1e2d7c0084.jpg",
+      "md5": "c713458aa5d0aab68c2d757d225d08ff",
+      "size": 2070193,
+      "uploadedDate": "2020-05-05T02:21:13.174Z",
       "width": 2560,
       "height": 1440
     }

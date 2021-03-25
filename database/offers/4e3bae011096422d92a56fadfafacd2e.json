@@ -8,7 +8,7 @@
   "productSlug": "carrion/home",
   "urlSlug": "cellogeneralaudience",
   "creationDate": "2020-10-19T17:41:53.877Z",
-  "lastModifiedDate": "2020-10-29T12:39:48.100Z",
+  "lastModifiedDate": "2021-03-25T11:26:15.345Z",
   "effectiveDate": "2020-10-29T13:00:00.000Z",
   "viewableDate": "2020-10-29T12:55:00.000Z",
   "developer": null,
@@ -51,18 +51,6 @@
       "comment": null
     },
     {
-      "id": "14944",
-      "name": "The Showcase Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-02-04T17:51:00.530Z",
-      "updated": "2021-02-25T16:37:32.464Z",
-      "status": "ACTIVE",
-      "referenceCount": 366,
-      "comment": ""
-    },
-    {
       "id": "1218",
       "name": "Horror",
       "namespace": "epic",
@@ -85,18 +73,6 @@
       "status": "ACTIVE",
       "referenceCount": 195,
       "comment": null
-    },
-    {
-      "id": "14346",
-      "name": "Holiday Sale 2020",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2020-10-21T21:58:03.125Z",
-      "updated": "2021-01-07T16:00:15.373Z",
-      "status": "ACTIVE",
-      "referenceCount": 584,
-      "comment": ""
     },
     {
       "id": "9547",
@@ -136,6 +112,30 @@
       "status": "ACTIVE",
       "referenceCount": 19,
       "comment": null
+    },
+    {
+      "id": "15583",
+      "name": "BAFTA Games Awards 2021",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-03-24T19:40:24.012Z",
+      "updated": "2021-03-25T14:58:55.974Z",
+      "status": "ACTIVE",
+      "referenceCount": 7,
+      "comment": ""
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-03-10T09:37:21.403Z",
+      "updated": "2021-03-25T14:59:17.162Z",
+      "status": "ACTIVE",
+      "referenceCount": 618,
+      "comment": ""
     }
   ],
   "customAttributes": [

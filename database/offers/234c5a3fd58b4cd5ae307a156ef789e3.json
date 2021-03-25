@@ -8,7 +8,7 @@
   "productSlug": "the-last-campfire",
   "urlSlug": "thelastcampfire",
   "creationDate": "2020-04-29T01:09:17.556Z",
-  "lastModifiedDate": "2020-08-27T11:51:24.581Z",
+  "lastModifiedDate": "2021-03-25T11:09:34.853Z",
   "effectiveDate": "2020-08-27T12:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -109,6 +109,30 @@
       "status": "ACTIVE",
       "referenceCount": 84,
       "comment": null
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-03-10T09:37:21.403Z",
+      "updated": "2021-03-25T14:59:17.162Z",
+      "status": "ACTIVE",
+      "referenceCount": 618,
+      "comment": ""
+    },
+    {
+      "id": "15583",
+      "name": "BAFTA Games Awards 2021",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-03-24T19:40:24.012Z",
+      "updated": "2021-03-25T14:58:55.974Z",
+      "status": "ACTIVE",
+      "referenceCount": 7,
+      "comment": ""
     }
   ],
   "customAttributes": [

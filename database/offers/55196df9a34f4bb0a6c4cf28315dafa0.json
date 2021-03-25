@@ -8,7 +8,7 @@
   "productSlug": "spiritfarer",
   "urlSlug": "bengalgeneralaudience",
   "creationDate": "2020-03-30T14:02:48.370Z",
-  "lastModifiedDate": "2020-10-08T15:01:54.633Z",
+  "lastModifiedDate": "2021-03-25T11:28:18.799Z",
   "effectiveDate": "2020-08-18T17:00:00.000Z",
   "viewableDate": "2020-07-30T16:00:00.000Z",
   "developer": null,
@@ -63,21 +63,6 @@
       "comment": null
     },
     {
-      "id": "10719",
-      "name": "Mac OS",
-      "namespace": "epic",
-      "aliases": [
-        "OSX",
-        "macOS"
-      ],
-      "operator": null,
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2021-02-10T17:26:31.125Z",
-      "status": "ACTIVE",
-      "referenceCount": 19,
-      "comment": null
-    },
-    {
       "id": "1151",
       "name": "Platformer",
       "namespace": "epic",
@@ -100,6 +85,45 @@
       "status": "ACTIVE",
       "referenceCount": 46,
       "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "Mac OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX",
+        "macOS"
+      ],
+      "operator": null,
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2021-02-10T17:26:31.125Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-03-10T09:37:21.403Z",
+      "updated": "2021-03-25T14:59:17.162Z",
+      "status": "ACTIVE",
+      "referenceCount": 618,
+      "comment": ""
+    },
+    {
+      "id": "15583",
+      "name": "BAFTA Games Awards 2021",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-03-24T19:40:24.012Z",
+      "updated": "2021-03-25T14:58:55.974Z",
+      "status": "ACTIVE",
+      "referenceCount": 7,
+      "comment": ""
     }
   ],
   "customAttributes": [

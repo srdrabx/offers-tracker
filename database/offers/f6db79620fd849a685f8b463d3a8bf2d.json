@@ -8,7 +8,7 @@
   "productSlug": "just-cause-4",
   "urlSlug": "kakopo-reloaded",
   "creationDate": "2019-11-05T02:17:39.010Z",
-  "lastModifiedDate": "2020-04-23T15:00:09.289Z",
+  "lastModifiedDate": "2021-03-25T15:47:36.253Z",
   "effectiveDate": "2020-04-23T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -97,6 +97,18 @@
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-03-10T09:37:21.403Z",
+      "updated": "2021-03-25T14:59:17.162Z",
+      "status": "ACTIVE",
+      "referenceCount": 618,
+      "comment": ""
     }
   ],
   "customAttributes": [
