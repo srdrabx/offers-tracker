@@ -6,9 +6,9 @@
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": "as-far-as-the-eye",
-  "urlSlug": "lolitegeneralaudience",
+  "urlSlug": "as-far-as-the-eye",
   "creationDate": "2020-04-07T03:21:58.555Z",
-  "lastModifiedDate": "2020-09-10T15:42:41.257Z",
+  "lastModifiedDate": "2021-03-25T17:47:21.061Z",
   "effectiveDate": "2020-09-10T16:00:00.000Z",
   "viewableDate": "2020-07-24T12:56:00.000Z",
   "developer": null,
@@ -63,18 +63,6 @@
       "comment": null
     },
     {
-      "id": "14346",
-      "name": "Holiday Sale 2020",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2020-10-21T21:58:03.125Z",
-      "updated": "2021-01-07T16:00:15.373Z",
-      "status": "ACTIVE",
-      "referenceCount": 584,
-      "comment": ""
-    },
-    {
       "id": "1115",
       "name": "Strategy",
       "namespace": "epic",
@@ -97,6 +85,18 @@
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-03-10T09:37:21.403Z",
+      "updated": "2021-03-25T14:59:17.162Z",
+      "status": "ACTIVE",
+      "referenceCount": 618,
+      "comment": ""
     }
   ],
   "customAttributes": [
@@ -179,6 +179,6 @@
     }
   ],
   "catalogNs": {
-    "name": "c14dd3d3c8214149b27477dd4619f029"
+    "name": null
   }
 }

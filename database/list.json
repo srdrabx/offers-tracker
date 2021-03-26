@@ -2055,6 +2055,22 @@
     ""
   ],
   [
+    "098c72dc5b964c66a9b5fc6f1b819bdc",
+    "dbf5337d024e457bac68f2059112da86",
+    "The Binding of Isaac: Repentance",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Nicalis",
+    1616560083,
+    1616769620,
+    "https://cdn1.epicgames.com/dbf5337d024e457bac68f2059112da86/offer/EGS_TheBindingofIsaacRepentance_NicalisIncEdmundMcmillen_S2-1200x1600-eb480826546ffb2ed1560ceec262b615.jpg",
+    "the-binding-of-isaac-repentance"
+  ],
+  [
     "0992efe9455b4f6e93a877887f76e722",
     "244aaaa06bfa49d088205b13b9d2d115",
     "Warframe: Prime Vault – Banshee Prime Accessories",
@@ -5747,6 +5763,22 @@
     ""
   ],
   [
+    "1952a08c91eb45b981f0445ac4b01317",
+    "96f4ce259e1b4845848399fc29c718fe",
+    "Serial Cleaners",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Draw Distance S.A.",
+    1615294733,
+    1616712986,
+    "https://cdn1.epicgames.com/96f4ce259e1b4845848399fc29c718fe/offer/EGS_SerialCleaners_DrawDistanceSA_S2-1200x1600-5fdc55bfbe22674aee0719df307e8d30.jpg",
+    "serial-cleaners"
+  ],
+  [
     "1960cc962a8442af92c4c0230e1985ff",
     "bec57b5341ad4294b005a7dd18691419",
     "Yaga Press",
@@ -6449,7 +6481,7 @@
     ],
     "Kalypso Media Group GmbH",
     1611770753,
-    1612532838,
+    1616776633,
     "https://cdn1.epicgames.com/c0b9d91377a840718e6869f0cd780a55/offer/EGS_SpacebaseStartopiaExtendedEdition_RealmforgeStudios_Editions_S2-1200x1600-004e84a92802dbe4bd7b8e7b89f428bf.jpg",
     "spacebase-startopia/extended-edition"
   ],
@@ -8718,8 +8750,8 @@
     ],
     "Gearbox Publishing",
     1605736730,
-    1605819269,
-    "https://cdn1.epicgames.com/b6b2ef0cc19a4adaaa1cf6c7ed000dfa/offer/EGS_GodfallDeluxeEdition_CounterplayGames_Editions_S2-1200x1600-7eca33a68e424e01373f9cf9be9a5828.jpg",
+    1616700614,
+    "https://cdn1.epicgames.com/b6b2ef0cc19a4adaaa1cf6c7ed000dfa/offer/EGS_GodfallDeluxeEdition_CounterplayGames_Editions_S2-1200x1600-cf6fd58587ad8e228c7253e3094c4879.jpg",
     "godfall/deluxe-edition"
   ],
   [
@@ -15332,7 +15364,7 @@
     ],
     "Plug In Digital SAS",
     1586229718,
-    1599752561,
+    1616694441,
     "https://cdn1.epicgames.com/c14dd3d3c8214149b27477dd4619f029/offer/38507319-7a4f-4c39-af64-3a9ae145b1a3-1200x1600-1fd9ae91fa3cf0dcc72c122ef8d2fdf0.jpg",
     "as-far-as-the-eye"
   ],
@@ -16066,7 +16098,7 @@
     ],
     "WIREGAMES d.o.o.",
     1614803152,
-    1614803152,
+    1616766780,
     "https://cdn1.epicgames.com/b2192c4b00db40fe8848b3be6753cfd5/offer/gem_pack_epic_1200x1600-1200x1600-03b13aede0d6d666e9244f6564a367ea.jpg",
     ""
   ],
@@ -16381,6 +16413,21 @@
     1610643967,
     "https://cdn1.epicgames.com/973dc60bbab8494bafcc69fd0542364a/offer/ULT_Image_Hero_Carrousel-3840x2160-ce196bfb32fcba155f4ab63544806384.jpg",
     "bundles/far-cry-new-dawn-ultimate"
+  ],
+  [
+    "48d843205eb04b2390ebf7eb00b93daa",
+    "af18f75e1dc34500b374952304c6eb99",
+    "Genesis Noir - The Cosmic Collection",
+    [
+      "games/edition",
+      "games",
+      "applications"
+    ],
+    "Fellow Traveller",
+    1614037310,
+    1615901345,
+    "https://cdn1.epicgames.com/af18f75e1dc34500b374952304c6eb99/offer/egs-genesisnoirthecosmiccollection-feralcatden-bundles-s2-1200x1600-4010f63edb0b-1200x1600-4d2cfcabc6931aeb3ea33f07a46ff0b2.jpeg",
+    "genesis-noir/cosmic-collection"
   ],
   [
     "48e63dba4f004aa5aea932e29757e29f",
@@ -17317,7 +17364,7 @@
     ],
     "WIREGAMES d.o.o.",
     1614803249,
-    1614803249,
+    1616767090,
     "https://cdn1.epicgames.com/b2192c4b00db40fe8848b3be6753cfd5/offer/gem_pack_epic_1200x1600-1200x1600-03b13aede0d6d666e9244f6564a367ea.jpg",
     ""
   ],
@@ -17435,7 +17482,7 @@
     ],
     "Plug In Digital SAS",
     1593447856,
-    1600352325,
+    1616694962,
     "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/offer/EGS_TheDungeonOfNaheulbeukTheAmuletOfChaos_ArtefactsStudio_S2-1200x1600-c6e41542f7fd54417e77bc9ed7eee0e1.jpg",
     "the-dungeon-of-naheulbeuk"
   ],
@@ -23652,8 +23699,8 @@
     ],
     "Gearbox Publishing",
     1605736183,
-    1605819311,
-    "https://cdn1.epicgames.com/b6b2ef0cc19a4adaaa1cf6c7ed000dfa/offer/EGS_GodfallAscendedEdition_CounterplayGames_Editions_S2-1200x1600-a985b156c62b73e59dac7e287b6bf0c3.jpg",
+    1616700740,
+    "https://cdn1.epicgames.com/b6b2ef0cc19a4adaaa1cf6c7ed000dfa/offer/EGS_GodfallAscendedEdition_CounterplayGames_Editions_S2-1200x1600-cb083d7cc8e21cc3e6e02033fb86c0ec.jpg",
     "godfall/ascended-edition"
   ],
   [
@@ -23681,7 +23728,7 @@
     ],
     "Kalypso Media Group GmbH",
     1611770510,
-    1612532838,
+    1616776569,
     "https://cdn1.epicgames.com/c0b9d91377a840718e6869f0cd780a55/offer/EGS_SpacebaseStartopiaStandardEdition_RealmforgeStudios_S6-1200x1600-80e0b86be22e10bbf143f13c75f764a7.jpg",
     "spacebase-startopia"
   ],
@@ -26982,7 +27029,7 @@
     ],
     "Plug In Digital SAS",
     1597351624,
-    1603297907,
+    1616694815,
     "https://cdn1.epicgames.com/c03a3687567a4cf3910ea5ec7279664e/offer/b3b676d2-3004-47db-b004-b0886cbefc16-1200x1600-ae53ef4bf4c28af8c253c043c35c78d1.jpg",
     "scourgebringer"
   ],
@@ -29322,7 +29369,7 @@
     ],
     "WIREGAMES d.o.o.",
     1614803296,
-    1614803296,
+    1616766735,
     "https://cdn1.epicgames.com/b2192c4b00db40fe8848b3be6753cfd5/offer/gem_pack_epic_1200x1600-1200x1600-03b13aede0d6d666e9244f6564a367ea.jpg",
     ""
   ],
@@ -30961,6 +31008,22 @@
     1588120722,
     "https://cdn1.epicgames.com/undefined/offer/001_DETROIT_ICON-400x400-89235dc9bca813586e778f735e08364e-400x400-89235dc9bca813586e778f735e08364e.png",
     ""
+  ],
+  [
+    "8bc23f97d2c34480a9fd14b5995f7571",
+    "edaebe133189475c9fd853858b7fa9ac",
+    "The Tenants",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Frozen District",
+    1615538579,
+    1616697514,
+    "https://cdn1.epicgames.com/edaebe133189475c9fd853858b7fa9ac/offer/EGS_TheTenants_AncientForgeStudio_S2-1200x1600-6ff72dbe1bcb1cdb3345714c8ab8b4a7.jpg",
+    "the-tenants"
   ],
   [
     "8bc356fa24f740ce9e79d68c09c7c306",
@@ -33072,7 +33135,7 @@
     ],
     "WIREGAMES d.o.o.",
     1614803106,
-    1614803106,
+    1616766712,
     "https://cdn1.epicgames.com/b2192c4b00db40fe8848b3be6753cfd5/offer/gem_pack_epic_1200x1600-1200x1600-03b13aede0d6d666e9244f6564a367ea.jpg",
     ""
   ],
@@ -36576,6 +36639,22 @@
     ""
   ],
   [
+    "a1b61ed2089d43f89902c7bd3b067fd5",
+    "b8abdf9f9bc64ed6b4128a71fd47607f",
+    "Gamedec",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Anshar Studios",
+    1616150774,
+    1616713441,
+    "https://cdn1.epicgames.com/b8abdf9f9bc64ed6b4128a71fd47607f/offer/EGS_Gamedec_AnsharStudios_S2-1200x1600-763684808efe485a0b04677628847926.jpg",
+    "gamedec"
+  ],
+  [
     "a1db155c8207447b984b77d310e20181",
     "df37f065c3f14eadbf011177396e2966",
     "QA_A_DLC_7_CrewGeneralAudience",
@@ -37604,7 +37683,7 @@
     ],
     "WIREGAMES d.o.o.",
     1614803061,
-    1614803061,
+    1616766758,
     "https://cdn1.epicgames.com/b2192c4b00db40fe8848b3be6753cfd5/offer/gem_pack_epic_1200x1600-1200x1600-03b13aede0d6d666e9244f6564a367ea.jpg",
     ""
   ],
@@ -40080,6 +40159,22 @@
     "superliminal/double-album-soundtrack"
   ],
   [
+    "b22566003429427b8a9ebe215773f226",
+    "e77abc76f8774d2084feb5e535a7863c",
+    "Hypnospace Outlaw",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "No More Robots",
+    1614331573,
+    1616773704,
+    "https://cdn1.epicgames.com/e77abc76f8774d2084feb5e535a7863c/offer/d3ae97da-1515-4865-a29f-41ecb65e0809-1200x1600-c80039c4a24845e9a77c73c92af5a8ad.jpg",
+    "hypnospace-outlaw"
+  ],
+  [
     "b239d284b1804b82a24315a5c5010e37",
     "iris",
     "IrisDevAudience",
@@ -41311,7 +41406,7 @@
     ],
     "Maximum Games",
     1615247851,
-    1615249230,
+    1616769994,
     "",
     ""
   ],
@@ -42280,7 +42375,7 @@
     ],
     "WIREGAMES d.o.o.",
     1614802973,
-    1614802973,
+    1616766670,
     "https://cdn1.epicgames.com/b2192c4b00db40fe8848b3be6753cfd5/offer/founders_pack_epic_1200x1600-1200x1600-e76e2400d6b4091d19ac410724bdffab.jpg",
     ""
   ],
@@ -42316,16 +42411,18 @@
   [
     "bd77b70e6c5148289ee04fba600b6bcf",
     "2362b692c2574b4ea2184540ac8c5c10",
-    "ManicottiGeneralAudience",
+    "Lost Words: Beyond the Page",
     [
       "games",
+      "games/edition/base",
+      "games/edition",
       "applications"
     ],
     "Maximum Games",
     1615247851,
-    1615249230,
-    "",
-    ""
+    1616769994,
+    "https://cdn1.epicgames.com/2362b692c2574b4ea2184540ac8c5c10/offer/EGS_LostWordsBeyondthePage_SketchbookGamesFourthState_S2-1200x1600-0bce0b76f06e6c6b8df74b942f7e8de1.jpg",
+    "lost-words-beyond-the-page"
   ],
   [
     "bd894d7e7b55470ba8ccbddebb284818",
@@ -46322,9 +46419,9 @@
     ],
     "Ubisoft Entertainment",
     1616088370,
-    1616689287,
+    1616718163,
     "https://cdn1.epicgames.com/4b35838425c74992ad42e1276b2161ca/offer/Immortals_DLC2_EPIC_Store Portrait_1200x1600_UK-1200x1600-533e78dc897c5bbda5b80159eba5fa47.jpg",
-    ""
+    "immortals-fenyx-rising/myths-of-the-eastern-realm"
   ],
   [
     "d05e587765b94113bde00e6867133100",
@@ -50834,6 +50931,22 @@
     1607442069,
     "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
     ""
+  ],
+  [
+    "e44a32ca3f094b38ac16682645105d01",
+    "41cd36dc3662428193f02f0f947bbe5e",
+    "Yes, Your Grace",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "No More Robots",
+    1614892825,
+    1616773783,
+    "https://cdn1.epicgames.com/41cd36dc3662428193f02f0f947bbe5e/offer/EGS_YesYourGrace_BraveAtNight_S2-1200x1600-7ca9c8e0ca57bfdb55fd17bb4daca005.jpg",
+    "yes-your-grace"
   ],
   [
     "e46b438a77ba4bbdb9cae2976981f3f2",
@@ -55895,6 +56008,22 @@
     1589414170,
     "https://cdn1.epicgames.com/buffalo/offer/SMB_PortraitPromo2-1288x1450-5da0584e428210413b9bd5e2b8f43a21.jpg",
     ""
+  ],
+  [
+    "fa8c1bd0dd684af2ad27a4f54b74018f",
+    "af18f75e1dc34500b374952304c6eb99",
+    "Genesis Noir",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Fellow Traveller",
+    1612474818,
+    1615901385,
+    "https://cdn1.epicgames.com/af18f75e1dc34500b374952304c6eb99/offer/EGS_GenesisNoir_FeralCatDen_S2-1200x1600-b56a44f29a973476ab00fb755ed2bae0-1200x1600-b56a44f29a973476ab00fb755ed2bae0.jpeg",
+    "genesis-noir"
   ],
   [
     "fabaacbc88864d4ea40ab569ad4e480e",

@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "devmanicottiaudience",
   "creationDate": "2021-03-08T23:57:31.714Z",
-  "lastModifiedDate": "2021-03-09T00:20:30.441Z",
+  "lastModifiedDate": "2021-03-26T14:46:34.249Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -53,6 +53,6 @@
     }
   ],
   "catalogNs": {
-    "name": "2362b692c2574b4ea2184540ac8c5c10"
+    "name": null
   }
 }

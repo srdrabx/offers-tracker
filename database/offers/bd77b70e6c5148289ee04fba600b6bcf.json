@@ -1,16 +1,16 @@
 {
   "id": "bd77b70e6c5148289ee04fba600b6bcf",
   "namespace": "2362b692c2574b4ea2184540ac8c5c10",
-  "title": "ManicottiGeneralAudience",
-  "description": "ManicottiGeneralAudience",
+  "title": "Lost Words: Beyond the Page",
+  "description": "Lost Words: Beyond the Page",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "manicottigeneralaudience",
+  "productSlug": "lost-words-beyond-the-page",
+  "urlSlug": "lost-words-beyond-the-page",
   "creationDate": "2021-03-08T23:57:31.617Z",
-  "lastModifiedDate": "2021-03-09T00:20:30.451Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2021-03-26T14:46:34.265Z",
+  "effectiveDate": "2050-11-26T15:00:00.000Z",
+  "viewableDate": "2021-03-26T15:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-a6k23slslegbhbwtel4qx423kuzc3y",
@@ -28,31 +28,157 @@
       "path": "games"
     },
     {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2021-02-10T17:35:47.790Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "1151",
+      "name": "Platformer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:33.743Z",
+      "updated": "2021-02-10T17:14:16.761Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2021-02-10T17:35:19.827Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "[]"
     },
     {
       "key": "publisherName",
-      "value": "[]"
+      "value": "Modus Games"
     },
     {
       "key": "developerName",
-      "value": "[]"
+      "value": "Sketchbook Games, Fourth State"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "lost-words-beyond-the-page"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/2362b692c2574b4ea2184540ac8c5c10/offer/EGS_LostWordsBeyondthePage_SketchbookGamesFourthState_S1-2560x1440-b9c759ad95b1b97338890d871cfff9dd.jpg",
+      "md5": "b9c759ad95b1b97338890d871cfff9dd",
+      "size": 465650,
+      "uploadedDate": "2021-03-25T18:10:34.266Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/2362b692c2574b4ea2184540ac8c5c10/offer/EGS_LostWordsBeyondthePage_SketchbookGamesFourthState_S2-1200x1600-0bce0b76f06e6c6b8df74b942f7e8de1.jpg",
+      "md5": "0bce0b76f06e6c6b8df74b942f7e8de1",
+      "size": 317176,
+      "uploadedDate": "2021-03-25T18:10:41.376Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/2362b692c2574b4ea2184540ac8c5c10/offer/EGS_LostWordsBeyondthePage_SketchbookGamesFourthState_S2-1200x1600-0bce0b76f06e6c6b8df74b942f7e8de1.jpg",
+      "md5": "0bce0b76f06e6c6b8df74b942f7e8de1",
+      "size": 317176,
+      "uploadedDate": "2021-03-25T18:10:55.715Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/2362b692c2574b4ea2184540ac8c5c10/offer/EGS_LostWordsBeyondthePage_SketchbookGamesFourthState_S2-1200x1600-0bce0b76f06e6c6b8df74b942f7e8de1.jpg",
+      "md5": "0bce0b76f06e6c6b8df74b942f7e8de1",
+      "size": 317176,
+      "uploadedDate": "2021-03-25T18:10:58.602Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/2362b692c2574b4ea2184540ac8c5c10/offer/EGS_LostWordsBeyondthePage_SketchbookGamesFourthState_S1-2560x1440-b9c759ad95b1b97338890d871cfff9dd.jpg",
+      "md5": "b9c759ad95b1b97338890d871cfff9dd",
+      "size": 465650,
+      "uploadedDate": "2021-03-25T18:11:19.502Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/2362b692c2574b4ea2184540ac8c5c10/offer/EGS_LostWordsBeyondthePage_SketchbookGamesFourthState_S2-1200x1600-0bce0b76f06e6c6b8df74b942f7e8de1.jpg",
+      "md5": "0bce0b76f06e6c6b8df74b942f7e8de1",
+      "size": 317176,
+      "uploadedDate": "2021-03-25T18:11:24.191Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "3f6ac14d14714d66bb3973a34a6a9a1c"
     }
   ],
   "catalogNs": {
-    "name": "2362b692c2574b4ea2184540ac8c5c10"
+    "name": null
   }
 }

@@ -5,10 +5,10 @@
   "description": "Experience an exciting tale inspired by Chinese mythology! Encounter legendary deities on a quest to save humanity.",
   "longDescription": "Experience an exciting new tale inspired by Chinese mythology! As Ku, a brave new hero, you must help the goddess Nuwa restore the balance between Heaven and Earth. Encounter legendary Chinese deities, fight exotic monsters, and challenge yourself with unique puzzle mechanics in the quest to save humanity.",
   "status": "ACTIVE",
-  "productSlug": null,
+  "productSlug": "immortals-fenyx-rising/myths-of-the-eastern-realm",
   "urlSlug": "immortals-fenyx-rising--myths-of-the-eastern-realm",
   "creationDate": "2021-03-18T17:26:10.696Z",
-  "lastModifiedDate": "2021-03-25T16:21:27.151Z",
+  "lastModifiedDate": "2021-03-26T00:22:43.400Z",
   "effectiveDate": "2021-03-25T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -47,6 +47,10 @@
     {
       "key": "developerName",
       "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "immortals-fenyx-rising/myths-of-the-eastern-realm"
     }
   ],
   "keyImages": [
@@ -177,6 +181,6 @@
     }
   ],
   "catalogNs": {
-    "name": "4b35838425c74992ad42e1276b2161ca"
+    "name": null
   }
 }

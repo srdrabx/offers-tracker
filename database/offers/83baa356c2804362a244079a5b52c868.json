@@ -8,8 +8,8 @@
   "productSlug": null,
   "urlSlug": "x4500-gems",
   "creationDate": "2021-03-03T20:28:16.631Z",
-  "lastModifiedDate": "2021-03-03T20:28:16.631Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2021-03-26T13:52:15.120Z",
+  "effectiveDate": "2021-03-26T14:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -163,6 +163,6 @@
     }
   ],
   "catalogNs": {
-    "name": "b2192c4b00db40fe8848b3be6753cfd5"
+    "name": null
   }
 }

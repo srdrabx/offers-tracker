@@ -8,7 +8,7 @@
   "productSlug": "spacebase-startopia/extended-edition",
   "urlSlug": "americanoprepurchaseextenedededition",
   "creationDate": "2021-01-27T18:05:53.136Z",
-  "lastModifiedDate": "2021-02-05T13:47:18.863Z",
+  "lastModifiedDate": "2021-03-26T16:37:13.342Z",
   "effectiveDate": "2021-02-05T14:00:00.000Z",
   "viewableDate": "2021-02-05T14:00:00.000Z",
   "developer": null,
@@ -139,6 +139,6 @@
     }
   ],
   "catalogNs": {
-    "name": "c0b9d91377a840718e6869f0cd780a55"
+    "name": null
   }
 }

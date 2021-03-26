@@ -1,0 +1,192 @@
+{
+  "id": "1952a08c91eb45b981f0445ac4b01317",
+  "namespace": "96f4ce259e1b4845848399fc29c718fe",
+  "title": "Serial Cleaners",
+  "description": "Serial Cleaners",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "serial-cleaners",
+  "urlSlug": "serial-cleaners",
+  "creationDate": "2021-03-09T12:58:53.781Z",
+  "lastModifiedDate": "2021-03-25T22:56:26.157Z",
+  "effectiveDate": "2099-02-01T00:00:00.000Z",
+  "viewableDate": "2021-03-25T22:58:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-hvxuk4sa7tyhfg2s7ettmxz52zzne6",
+    "name": "Draw Distance S.A."
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2021-02-10T17:36:19.203Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1084",
+      "name": "Stealth",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:00.299Z",
+      "updated": "2021-02-05T16:18:25.590Z",
+      "status": "ACTIVE",
+      "referenceCount": 9,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2021-02-10T17:36:06.452Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2021-02-10T17:35:19.827Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "Draw Distance S.A."
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "serial-cleaners"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/96f4ce259e1b4845848399fc29c718fe/offer/EGS_SerialCleaners_DrawDistanceSA_S1-2560x1440-9611023055dd2e98748cd1b894a69d57.jpg",
+      "md5": "9611023055dd2e98748cd1b894a69d57",
+      "size": 345399,
+      "uploadedDate": "2021-03-19T22:47:37.200Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/96f4ce259e1b4845848399fc29c718fe/offer/EGS_SerialCleaners_DrawDistanceSA_S2-1200x1600-5fdc55bfbe22674aee0719df307e8d30.jpg",
+      "md5": "5fdc55bfbe22674aee0719df307e8d30",
+      "size": 332443,
+      "uploadedDate": "2021-03-19T22:47:42.080Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/96f4ce259e1b4845848399fc29c718fe/offer/EGS_SerialCleaners_DrawDistanceSA_S1-2560x1440-9611023055dd2e98748cd1b894a69d57.jpg",
+      "md5": "9611023055dd2e98748cd1b894a69d57",
+      "size": 345399,
+      "uploadedDate": "2021-03-19T22:47:45.765Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/96f4ce259e1b4845848399fc29c718fe/offer/EGS_SerialCleaners_DrawDistanceSA_S2-1200x1600-5fdc55bfbe22674aee0719df307e8d30.jpg",
+      "md5": "5fdc55bfbe22674aee0719df307e8d30",
+      "size": 332443,
+      "uploadedDate": "2021-03-19T22:47:50.511Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/96f4ce259e1b4845848399fc29c718fe/offer/EGS_SerialCleaners_DrawDistanceSA_S2-1200x1600-5fdc55bfbe22674aee0719df307e8d30.jpg",
+      "md5": "5fdc55bfbe22674aee0719df307e8d30",
+      "size": 332443,
+      "uploadedDate": "2021-03-19T22:47:53.793Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/96f4ce259e1b4845848399fc29c718fe/offer/EGS_SerialCleaners_DrawDistanceSA_S2-1200x1600-5fdc55bfbe22674aee0719df307e8d30.jpg",
+      "md5": "5fdc55bfbe22674aee0719df307e8d30",
+      "size": 332443,
+      "uploadedDate": "2021-03-19T22:48:05.190Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "d3acba7b8bb045d38ef48b2deb2d5a2c"
+    }
+  ],
+  "catalogNs": {
+    "name": null
+  }
+}
