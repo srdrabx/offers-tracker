@@ -1,0 +1,160 @@
+{
+  "id": "79e13cbc4f624cbdafa1989a31ca7efe",
+  "namespace": "3000405a9f864d848824e6f6022fb86c",
+  "title": "Astria Ascending",
+  "description": "Astria Ascending",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "astria-ascending",
+  "urlSlug": "krypton-general-audience",
+  "creationDate": "2021-03-02T22:40:30.479Z",
+  "lastModifiedDate": "2021-03-26T18:19:21.427Z",
+  "effectiveDate": "2021-12-30T16:00:00.000Z",
+  "viewableDate": "2021-03-26T18:30:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+    "name": "Plug In Digital SAS"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-12-15T01:46:33.012Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Plug In Digital SAS"
+    },
+    {
+      "key": "developerName",
+      "value": "Dear Villagers"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "astria-ascending"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/3000405a9f864d848824e6f6022fb86c/offer/EGS_AstriaAscending_ArtisanStudios_S1-2560x1440-2e2ae65fa60be7c1512adbef1a69fa99.jpg",
+      "md5": "2e2ae65fa60be7c1512adbef1a69fa99",
+      "size": 1000402,
+      "uploadedDate": "2021-03-20T00:38:57.838Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/3000405a9f864d848824e6f6022fb86c/offer/EGS_AstriaAscending_ArtisanStudios_S2-1200x1600-f34e4e486a3bab08e1f1b371b03b09d8.jpg",
+      "md5": "f34e4e486a3bab08e1f1b371b03b09d8",
+      "size": 951079,
+      "uploadedDate": "2021-03-20T00:39:08.291Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/3000405a9f864d848824e6f6022fb86c/offer/EGS_AstriaAscending_ArtisanStudios_S2-1200x1600-f34e4e486a3bab08e1f1b371b03b09d8.jpg",
+      "md5": "f34e4e486a3bab08e1f1b371b03b09d8",
+      "size": 951079,
+      "uploadedDate": "2021-03-20T00:39:22.434Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/3000405a9f864d848824e6f6022fb86c/offer/EGS_AstriaAscending_ArtisanStudios_S2-1200x1600-f34e4e486a3bab08e1f1b371b03b09d8.jpg",
+      "md5": "f34e4e486a3bab08e1f1b371b03b09d8",
+      "size": 951079,
+      "uploadedDate": "2021-03-20T00:39:33.223Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/3000405a9f864d848824e6f6022fb86c/offer/EGS_AstriaAscending_ArtisanStudios_S1-2560x1440-2e2ae65fa60be7c1512adbef1a69fa99.jpg",
+      "md5": "2e2ae65fa60be7c1512adbef1a69fa99",
+      "size": 1000402,
+      "uploadedDate": "2021-03-20T00:39:45.646Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/3000405a9f864d848824e6f6022fb86c/offer/EGS_AstriaAscending_ArtisanStudios_S2-1200x1600-f34e4e486a3bab08e1f1b371b03b09d8.jpg",
+      "md5": "f34e4e486a3bab08e1f1b371b03b09d8",
+      "size": 951079,
+      "uploadedDate": "2021-03-20T00:39:54.733Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "7f164e0792284f72a045ab6de28d84a9"
+    }
+  ],
+  "catalogNs": {
+    "name": "3000405a9f864d848824e6f6022fb86c"
+  }
+}

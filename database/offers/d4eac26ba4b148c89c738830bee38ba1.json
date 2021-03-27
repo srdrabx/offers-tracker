@@ -1,20 +1,20 @@
 {
-  "id": "6727bb5a90484542a6f388b092a27033",
-  "namespace": "879b0d8776ab46a59a129983ba78f0ce",
-  "title": "DLC02",
-  "description": "DLC02",
-  "longDescription": null,
+  "id": "d4eac26ba4b148c89c738830bee38ba1",
+  "namespace": "jackal",
+  "title": "TempAudience",
+  "description": "TempAudience",
+  "longDescription": "",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "tantalumgeneralaudience-01",
-  "creationDate": "2021-03-23T18:35:57.025Z",
-  "lastModifiedDate": "2021-03-24T01:57:48.473Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "urlSlug": "tempaudience",
+  "creationDate": "2021-03-26T19:06:04.978Z",
+  "lastModifiedDate": "2021-03-26T19:06:22.407Z",
+  "effectiveDate": "2099-02-04T17:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
-    "id": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
-    "name": "miHoYo Co., Ltd"
+    "id": "o-krlzxj88qrtb69fredeuaf887bl5az",
+    "name": "Phoenix Labs"
   },
   "linkedOfferId": null,
   "isFeatured": false,
@@ -24,9 +24,6 @@
   "technicalDetails": null,
   "recurrence": "ONCE",
   "categories": [
-    {
-      "path": "games"
-    },
     {
       "path": "applications"
     }
@@ -39,20 +36,20 @@
     },
     {
       "key": "publisherName",
-      "value": "[]"
+      "value": "Phoenix Labs"
     },
     {
       "key": "developerName",
-      "value": "[]"
+      "value": "Phoenix Labs"
     }
   ],
   "keyImages": [],
   "items": [
     {
-      "id": "e2930b29d0344bb3ad2bf0a37d4d8edd"
+      "id": "c845bde8e74e42c480f55a4a858e25dd"
     }
   ],
   "catalogNs": {
-    "name": "879b0d8776ab46a59a129983ba78f0ce"
+    "name": "jackal"
   }
 }
