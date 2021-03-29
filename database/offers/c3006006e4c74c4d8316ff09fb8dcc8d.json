@@ -8,7 +8,7 @@
   "productSlug": "beyond-blue/home",
   "urlSlug": "charongeneralaudience",
   "creationDate": "2020-05-22T16:29:38.175Z",
-  "lastModifiedDate": "2020-06-11T11:44:13.669Z",
+  "lastModifiedDate": "2021-03-29T14:53:50.240Z",
   "effectiveDate": "2020-06-05T09:59:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -102,7 +102,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR"
+      "value": "[]"
     },
     {
       "key": "developerName",
