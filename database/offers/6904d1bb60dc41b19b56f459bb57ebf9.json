@@ -6,11 +6,11 @@
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": "kingdom-hearts-hd-1-5-2-5-remix",
-  "urlSlug": "grapefruitgeneralaudience",
+  "urlSlug": "kingdom-hearts-hd-1-5-2-5-remix",
   "creationDate": "2020-09-11T11:59:40.844Z",
-  "lastModifiedDate": "2021-03-05T14:47:14.836Z",
-  "effectiveDate": "2021-03-30T14:00:00.000Z",
-  "viewableDate": "2021-03-30T14:00:00.000Z",
+  "lastModifiedDate": "2021-03-30T12:59:48.580Z",
+  "effectiveDate": "2021-03-30T13:00:00.000Z",
+  "viewableDate": "2021-03-30T13:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-xbmhhs32ajtuszar863dprgnwtvedk",
@@ -26,6 +26,12 @@
   "categories": [
     {
       "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
     },
     {
       "path": "applications"
@@ -84,7 +90,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR"
+      "value": "TW"
     },
     {
       "key": "publisherName",
@@ -156,5 +162,7 @@
       "id": "965f70e7a2f245a3b7646a7977c2553e"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "4158b699dd70447a981fee752d970a3e"
+  }
 }

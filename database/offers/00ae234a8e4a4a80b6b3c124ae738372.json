@@ -6,9 +6,9 @@
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": "3-out-of-10-ep-4",
-  "urlSlug": "3-out-of-10-ep",
+  "urlSlug": "generalaudience",
   "creationDate": "2020-06-23T03:00:44.014Z",
-  "lastModifiedDate": "2020-09-24T15:34:34.374Z",
+  "lastModifiedDate": "2021-03-30T01:59:54.126Z",
   "effectiveDate": "2020-08-27T15:00:00.000Z",
   "viewableDate": "2020-08-27T14:50:00.000Z",
   "developer": null,
@@ -115,58 +115,58 @@
   ],
   "keyImages": [
     {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/d6a3cae34c5d4562832610b5b8664576/offer/S1.ep4.portrait-1200x1600-1fbe282ac882fdd909782b6820894fbf.jpg",
+      "md5": "1fbe282ac882fdd909782b6820894fbf",
+      "size": 390698,
+      "uploadedDate": "2021-03-30T01:58:56.543Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/d6a3cae34c5d4562832610b5b8664576/offer/EGS_3outof10EP4ThankYouForBeingAnAsset_TerriblePostureGamesInc_S1-2560x1440-fcaf73701007096c6abc01415788d4c3.jpg",
-      "md5": "fcaf73701007096c6abc01415788d4c3",
-      "size": 881840,
-      "uploadedDate": "2020-08-25T22:38:28.072Z",
+      "url": "https://cdn1.epicgames.com/d6a3cae34c5d4562832610b5b8664576/offer/S1.ep4.landscape-2560x1440-a51a59bdc5383a7f1dd97705b1ddae50.jpg",
+      "md5": "a51a59bdc5383a7f1dd97705b1ddae50",
+      "size": 573294,
+      "uploadedDate": "2021-03-30T01:59:09.438Z",
       "width": 2560,
       "height": 1440
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/d6a3cae34c5d4562832610b5b8664576/offer/EGS_3outof10EP4ThankYouForBeingAnAsset_TerriblePostureGamesInc_S2-1200x1600-1a465a21d91318bd7d0f6a7b968d4797.jpg",
-      "md5": "1a465a21d91318bd7d0f6a7b968d4797",
-      "size": 541020,
-      "uploadedDate": "2020-08-25T22:38:37.756Z",
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/d6a3cae34c5d4562832610b5b8664576/offer/S1.ep4.portrait-1200x1600-1fbe282ac882fdd909782b6820894fbf.jpg",
+      "md5": "1fbe282ac882fdd909782b6820894fbf",
+      "size": 390698,
+      "uploadedDate": "2021-03-30T01:59:21.605Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/d6a3cae34c5d4562832610b5b8664576/offer/S1.ep4.portrait-1200x1600-1fbe282ac882fdd909782b6820894fbf.jpg",
+      "md5": "1fbe282ac882fdd909782b6820894fbf",
+      "size": 390698,
+      "uploadedDate": "2021-03-30T01:59:28.978Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/d6a3cae34c5d4562832610b5b8664576/offer/EGS_3outof10EP4ThankYouForBeingAnAsset_TerriblePostureGamesInc_S2-1200x1600-1a465a21d91318bd7d0f6a7b968d4797.jpg",
-      "md5": "1a465a21d91318bd7d0f6a7b968d4797",
-      "size": 541020,
-      "uploadedDate": "2020-08-25T22:38:50.494Z",
+      "url": "https://cdn1.epicgames.com/d6a3cae34c5d4562832610b5b8664576/offer/S1.ep4.portrait-1200x1600-1fbe282ac882fdd909782b6820894fbf.jpg",
+      "md5": "1fbe282ac882fdd909782b6820894fbf",
+      "size": 390698,
+      "uploadedDate": "2021-03-30T01:59:38.316Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/d6a3cae34c5d4562832610b5b8664576/offer/EGS_3outof10EP4ThankYouForBeingAnAsset_TerriblePostureGamesInc_S1-2560x1440-fcaf73701007096c6abc01415788d4c3.jpg",
-      "md5": "fcaf73701007096c6abc01415788d4c3",
-      "size": 881840,
-      "uploadedDate": "2020-08-25T22:39:03.613Z",
+      "url": "https://cdn1.epicgames.com/d6a3cae34c5d4562832610b5b8664576/offer/S1.ep4.landscape-2560x1440-a51a59bdc5383a7f1dd97705b1ddae50.jpg",
+      "md5": "a51a59bdc5383a7f1dd97705b1ddae50",
+      "size": 573294,
+      "uploadedDate": "2021-03-30T01:59:46.522Z",
       "width": 2560,
       "height": 1440
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/d6a3cae34c5d4562832610b5b8664576/offer/EGS_3outof10EP4ThankYouForBeingAnAsset_TerriblePostureGamesInc_S2-1200x1600-1a465a21d91318bd7d0f6a7b968d4797.jpg",
-      "md5": "1a465a21d91318bd7d0f6a7b968d4797",
-      "size": 541020,
-      "uploadedDate": "2020-08-25T22:39:13.835Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/d6a3cae34c5d4562832610b5b8664576/offer/EGS_3outof10EP4ThankYouForBeingAnAsset_TerriblePostureGamesInc_S2-1200x1600-1a465a21d91318bd7d0f6a7b968d4797.jpg",
-      "md5": "1a465a21d91318bd7d0f6a7b968d4797",
-      "size": 541020,
-      "uploadedDate": "2020-08-25T22:39:23.627Z",
-      "width": 1200,
-      "height": 1600
     }
   ],
   "items": [

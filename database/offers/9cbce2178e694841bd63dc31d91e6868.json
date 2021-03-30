@@ -8,7 +8,7 @@
   "productSlug": "heroes-and-generals-wwii/home",
   "urlSlug": "heroes-and-general-wwii",
   "creationDate": "2020-03-31T23:32:26.684Z",
-  "lastModifiedDate": "2021-03-25T14:57:45.404Z",
+  "lastModifiedDate": "2021-03-30T14:01:18.617Z",
   "effectiveDate": "2020-09-24T14:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -176,55 +176,55 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_HeroesGeneralsWWII_RETOMOTO_S1-2560x1440-95230c1f46464b4752fdde442a686b00.jpg",
-      "md5": "95230c1f46464b4752fdde442a686b00",
-      "size": 1022052,
-      "uploadedDate": "2020-09-24T04:02:27.936Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_HeroesGeneralsWWII_RETOMOTO_S1-2560x1440-95230c1f46464b4752fdde442a686b00.jpg",
-      "md5": "95230c1f46464b4752fdde442a686b00",
-      "size": 1022052,
-      "uploadedDate": "2020-09-24T04:03:45.922Z",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/1.22_SOLDIERS-OF-SPRING_2560x1440-2560x1440-0c6bd907f0d95d64a27e19a1e52150a8.jpg",
+      "md5": "0c6bd907f0d95d64a27e19a1e52150a8",
+      "size": 510510,
+      "uploadedDate": "2021-03-30T02:35:54.561Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/hng_default_boxart-1200x1600-f47e0091839c038ee0a5473116268220.jpg",
-      "md5": "f47e0091839c038ee0a5473116268220",
-      "size": 987357,
-      "uploadedDate": "2021-02-18T16:17:28.609Z",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/1.22_SOLDIERS-OF-SPRING_BOXART_1200x1600-1200x1600-c2d617160c88c56b5588667828d7d833.jpg",
+      "md5": "c2d617160c88c56b5588667828d7d833",
+      "size": 751631,
+      "uploadedDate": "2021-03-30T02:36:06.884Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/hng_default_boxart-1200x1600-f47e0091839c038ee0a5473116268220.jpg",
-      "md5": "f47e0091839c038ee0a5473116268220",
-      "size": 987357,
-      "uploadedDate": "2021-02-18T16:17:40.701Z",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/1.22_SOLDIERS-OF-SPRING_BOXART_1200x1600-1200x1600-c2d617160c88c56b5588667828d7d833.jpg",
+      "md5": "c2d617160c88c56b5588667828d7d833",
+      "size": 751631,
+      "uploadedDate": "2021-03-30T02:36:18.540Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/hng_default_boxart-1200x1600-f47e0091839c038ee0a5473116268220.jpg",
-      "md5": "f47e0091839c038ee0a5473116268220",
-      "size": 987357,
-      "uploadedDate": "2021-02-18T16:17:50.327Z",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/1.22_SOLDIERS-OF-SPRING_BOXART_1200x1600-1200x1600-c2d617160c88c56b5588667828d7d833.jpg",
+      "md5": "c2d617160c88c56b5588667828d7d833",
+      "size": 751631,
+      "uploadedDate": "2021-03-30T02:36:28.112Z",
       "width": 1200,
       "height": 1600
     },
     {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/1.22_SOLDIERS-OF-SPRING_2560x1440-2560x1440-0c6bd907f0d95d64a27e19a1e52150a8.jpg",
+      "md5": "0c6bd907f0d95d64a27e19a1e52150a8",
+      "size": 510510,
+      "uploadedDate": "2021-03-30T02:36:43.616Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/hng_default_boxart-1200x1600-f47e0091839c038ee0a5473116268220.jpg",
-      "md5": "f47e0091839c038ee0a5473116268220",
-      "size": 987357,
-      "uploadedDate": "2021-02-18T16:18:00.576Z",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/1.22_SOLDIERS-OF-SPRING_BOXART_1200x1600-1200x1600-c2d617160c88c56b5588667828d7d833.jpg",
+      "md5": "c2d617160c88c56b5588667828d7d833",
+      "size": 751631,
+      "uploadedDate": "2021-03-30T02:36:57.136Z",
       "width": 1200,
       "height": 1600
     }

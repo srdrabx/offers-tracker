@@ -8,7 +8,7 @@
   "productSlug": "3-out-of-10-season-one",
   "urlSlug": "3-out-of-10-season-one",
   "creationDate": "2020-09-23T02:48:05.295Z",
-  "lastModifiedDate": "2020-10-08T22:08:49.230Z",
+  "lastModifiedDate": "2021-03-30T02:04:43.989Z",
   "effectiveDate": "2020-09-24T15:00:00.000Z",
   "viewableDate": "2020-09-24T15:00:00.000Z",
   "developer": null,
@@ -100,56 +100,56 @@
   ],
   "keyImages": [
     {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ad2a1760f21a4df6aa597fc4b58ac719/offer/S1.portrait-1200x1600-052be1e698c2009160751156ab4a1bab.jpg",
+      "md5": "052be1e698c2009160751156ab4a1bab",
+      "size": 459732,
+      "uploadedDate": "2021-03-30T02:03:20.943Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_3outof10SeasonOne_TerriblePostureGamesInc_S1-2560x1440-6181e3c40876658fa74770b376e782d7.jpg",
-      "md5": "6181e3c40876658fa74770b376e782d7",
-      "size": 966422,
-      "uploadedDate": "2020-09-23T02:46:35.133Z",
+      "url": "https://cdn1.epicgames.com/ad2a1760f21a4df6aa597fc4b58ac719/offer/S1.landscape-2560x1440-db466889d0f9b7b9179e1e75e532b0e4.jpg",
+      "md5": "db466889d0f9b7b9179e1e75e532b0e4",
+      "size": 623429,
+      "uploadedDate": "2021-03-30T02:03:31.772Z",
       "width": 2560,
       "height": 1440
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_3outof10SeasonOne_TerriblePostureGamesInc_S2-1200x1600-d8f7704ffee4b340b2a83938e580eff9.jpg",
-      "md5": "d8f7704ffee4b340b2a83938e580eff9",
-      "size": 455814,
-      "uploadedDate": "2020-09-23T02:46:41.539Z",
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ad2a1760f21a4df6aa597fc4b58ac719/offer/S1.portrait-1200x1600-052be1e698c2009160751156ab4a1bab.jpg",
+      "md5": "052be1e698c2009160751156ab4a1bab",
+      "size": 459732,
+      "uploadedDate": "2021-03-30T02:03:52.144Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/ad2a1760f21a4df6aa597fc4b58ac719/offer/S1.portrait-1200x1600-052be1e698c2009160751156ab4a1bab.jpg",
+      "md5": "052be1e698c2009160751156ab4a1bab",
+      "size": 459732,
+      "uploadedDate": "2021-03-30T02:04:03.574Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_3outof10SeasonOne_TerriblePostureGamesInc_S3-2560x1440-b04f057cf162055004af00e89d951335.jpg",
-      "md5": "b04f057cf162055004af00e89d951335",
-      "size": 712580,
-      "uploadedDate": "2020-09-23T02:46:49.007Z",
+      "url": "https://cdn1.epicgames.com/ad2a1760f21a4df6aa597fc4b58ac719/offer/S1.landscape-2560x1440-db466889d0f9b7b9179e1e75e532b0e4.jpg",
+      "md5": "db466889d0f9b7b9179e1e75e532b0e4",
+      "size": 623429,
+      "uploadedDate": "2021-03-30T02:04:13.083Z",
       "width": 2560,
       "height": 1440
     },
     {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_3outof10SeasonOne_TerriblePostureGamesInc_S2-1200x1600-d8f7704ffee4b340b2a83938e580eff9.jpg",
-      "md5": "d8f7704ffee4b340b2a83938e580eff9",
-      "size": 455814,
-      "uploadedDate": "2020-09-23T02:46:56.494Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_3outof10SeasonOne_TerriblePostureGamesInc_S2-1200x1600-d8f7704ffee4b340b2a83938e580eff9.jpg",
-      "md5": "d8f7704ffee4b340b2a83938e580eff9",
-      "size": 455814,
-      "uploadedDate": "2020-09-23T02:47:05.659Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/ad2a1760f21a4df6aa597fc4b58ac719/offer/EGS_3outof10SeasonOne_TerriblePostureGamesInc_S1-2560x1440-6181e3c40876658fa74770b376e782d7.jpg",
-      "md5": "6181e3c40876658fa74770b376e782d7",
-      "size": 966422,
-      "uploadedDate": "2020-09-23T02:56:06.707Z",
+      "url": "https://cdn1.epicgames.com/ad2a1760f21a4df6aa597fc4b58ac719/offer/S1.landscape-2560x1440-db466889d0f9b7b9179e1e75e532b0e4.jpg",
+      "md5": "db466889d0f9b7b9179e1e75e532b0e4",
+      "size": 623429,
+      "uploadedDate": "2021-03-30T02:04:36.457Z",
       "width": 2560,
       "height": 1440
     }

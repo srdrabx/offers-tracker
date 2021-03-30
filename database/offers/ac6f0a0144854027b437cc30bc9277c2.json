@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "twinmotion-bricscad",
   "creationDate": "2020-09-09T14:08:22.470Z",
-  "lastModifiedDate": "2020-09-09T14:10:51.594Z",
+  "lastModifiedDate": "2021-03-30T12:49:06.714Z",
   "effectiveDate": "2020-09-08T17:54:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -44,6 +44,9 @@
   "items": [
     {
       "id": "db5df0a6f6c8496b8dddac17d2eaba84"
+    },
+    {
+      "id": "ece55e98d55b4f1982b2892eb89a3fc2"
     },
     {
       "id": "cabaf5d94a914b90b3587135ec746d54"

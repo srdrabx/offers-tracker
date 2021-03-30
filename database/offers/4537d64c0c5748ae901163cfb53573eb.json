@@ -5,10 +5,10 @@
   "description": "3 out of 10, EP 3: \"Pivot Like A Champion\"",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "3-out-of-10-ep-3/home",
-  "urlSlug": "3-out-of-10-ep",
+  "productSlug": "3-out-of-10-ep3/home",
+  "urlSlug": "3-out-of-10-ep3",
   "creationDate": "2020-06-23T02:44:32.444Z",
-  "lastModifiedDate": "2020-09-24T15:34:11.299Z",
+  "lastModifiedDate": "2021-03-30T01:57:50.780Z",
   "effectiveDate": "2020-08-20T15:00:00.000Z",
   "viewableDate": "2020-08-20T14:55:00.000Z",
   "developer": null,
@@ -98,61 +98,61 @@
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "3-out-of-10-ep-3/home"
+      "value": "3-out-of-10-ep3/home"
     }
   ],
   "keyImages": [
     {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/f4bbbc20a6b74295ac82b7c258739bff/offer/S1.Ep3.portrait-1200x1600-49c1956fb62218b50a78ed3a901091a8.jpg",
+      "md5": "49c1956fb62218b50a78ed3a901091a8",
+      "size": 403708,
+      "uploadedDate": "2021-03-30T01:57:01.185Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/f4bbbc20a6b74295ac82b7c258739bff/offer/EGS_3outof10EP3PivotLikeAChampion_TerriblePostureGamesInc_S3-2560x1440-7015c90901b6e3dfe9decc37d8967e3b.jpg",
-      "md5": "7015c90901b6e3dfe9decc37d8967e3b",
-      "size": 826636,
-      "uploadedDate": "2020-08-20T02:03:43.820Z",
+      "url": "https://cdn1.epicgames.com/f4bbbc20a6b74295ac82b7c258739bff/offer/S1.ep3.landscape-2560x1440-fd37ccfe88579a5c789326f28753a198.jpg",
+      "md5": "fd37ccfe88579a5c789326f28753a198",
+      "size": 541998,
+      "uploadedDate": "2021-03-30T01:57:08.493Z",
       "width": 2560,
       "height": 1440
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/f4bbbc20a6b74295ac82b7c258739bff/offer/EGS_3outof10EP3PivotLikeAChampion_TerriblePostureGamesInc_S2-1200x1600-417d1f1a3b308912028818b6cb0834cb.jpg",
-      "md5": "417d1f1a3b308912028818b6cb0834cb",
-      "size": 561944,
-      "uploadedDate": "2020-08-20T02:04:17.460Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/f4bbbc20a6b74295ac82b7c258739bff/offer/EGS_3outof10EP3PivotLikeAChampion_TerriblePostureGamesInc_G1A_01-1920x1080-f7d8f80df28667c85ffd563d637ce18b.jpg",
-      "md5": "f7d8f80df28667c85ffd563d637ce18b",
-      "size": 565248,
-      "uploadedDate": "2020-08-20T02:04:32.698Z",
-      "width": 1920,
-      "height": 1080
+      "url": "https://cdn1.epicgames.com/f4bbbc20a6b74295ac82b7c258739bff/offer/S1.ep3.landscape-2560x1440-fd37ccfe88579a5c789326f28753a198.jpg",
+      "md5": "fd37ccfe88579a5c789326f28753a198",
+      "size": 541998,
+      "uploadedDate": "2021-03-30T01:57:19.143Z",
+      "width": 2560,
+      "height": 1440
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/f4bbbc20a6b74295ac82b7c258739bff/offer/EGS_3outof10EP3PivotLikeAChampion_TerriblePostureGamesInc_S2-1200x1600-417d1f1a3b308912028818b6cb0834cb.jpg",
-      "md5": "417d1f1a3b308912028818b6cb0834cb",
-      "size": 561944,
-      "uploadedDate": "2020-08-20T02:04:41.348Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/f4bbbc20a6b74295ac82b7c258739bff/offer/EGS_3outof10EP3PivotLikeAChampion_TerriblePostureGamesInc_S2-1200x1600-417d1f1a3b308912028818b6cb0834cb.jpg",
-      "md5": "417d1f1a3b308912028818b6cb0834cb",
-      "size": 561944,
-      "uploadedDate": "2020-08-20T02:04:55.563Z",
+      "url": "https://cdn1.epicgames.com/f4bbbc20a6b74295ac82b7c258739bff/offer/S1.Ep3.portrait-1200x1600-49c1956fb62218b50a78ed3a901091a8.jpg",
+      "md5": "49c1956fb62218b50a78ed3a901091a8",
+      "size": 403708,
+      "uploadedDate": "2021-03-30T01:57:29.837Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/f4bbbc20a6b74295ac82b7c258739bff/offer/EGS_3outof10EP3PivotLikeAChampion_TerriblePostureGamesInc_S2-1200x1600-417d1f1a3b308912028818b6cb0834cb.jpg",
-      "md5": "417d1f1a3b308912028818b6cb0834cb",
-      "size": 561944,
-      "uploadedDate": "2020-08-20T02:05:13.564Z",
+      "url": "https://cdn1.epicgames.com/f4bbbc20a6b74295ac82b7c258739bff/offer/S1.Ep3.portrait-1200x1600-49c1956fb62218b50a78ed3a901091a8.jpg",
+      "md5": "49c1956fb62218b50a78ed3a901091a8",
+      "size": 403708,
+      "uploadedDate": "2021-03-30T01:57:38.600Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/f4bbbc20a6b74295ac82b7c258739bff/offer/S1.Ep3.portrait-1200x1600-49c1956fb62218b50a78ed3a901091a8.jpg",
+      "md5": "49c1956fb62218b50a78ed3a901091a8",
+      "size": 403708,
+      "uploadedDate": "2021-03-30T01:57:45.241Z",
       "width": 1200,
       "height": 1600
     }

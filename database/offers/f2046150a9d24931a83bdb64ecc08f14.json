@@ -6,9 +6,9 @@
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": "3-out-of-10-ep-2",
-  "urlSlug": "3-out-of-10-ep",
+  "urlSlug": "generalaudience",
   "creationDate": "2020-06-23T02:23:31.445Z",
-  "lastModifiedDate": "2020-09-24T15:33:51.207Z",
+  "lastModifiedDate": "2021-03-30T01:56:00.633Z",
   "effectiveDate": "2020-08-13T15:00:00.000Z",
   "viewableDate": "2020-08-13T15:00:00.000Z",
   "developer": null,
@@ -116,57 +116,57 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/9c5bbf5fa33d410b955b857c58f41c5c/offer/EGS_3outof10EP2Foundation101_TerriblePostureGamesInc_G1C_00-1920x1080-20a9b2d639aad18eab57b7a05692570f.jpg",
-      "md5": "20a9b2d639aad18eab57b7a05692570f",
-      "size": 574030,
-      "uploadedDate": "2020-08-11T22:46:30.673Z",
-      "width": 1920,
-      "height": 1080
+      "url": "https://cdn1.epicgames.com/9c5bbf5fa33d410b955b857c58f41c5c/offer/S1.ep2.landscape-2560x1440-765f39608c05ccedd299b44e8dedd6be.jpg",
+      "md5": "765f39608c05ccedd299b44e8dedd6be",
+      "size": 554226,
+      "uploadedDate": "2021-03-30T01:55:00.673Z",
+      "width": 2560,
+      "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/9c5bbf5fa33d410b955b857c58f41c5c/offer/EGS_3outof10EP2Foundation101_TerriblePostureGamesInc_S2-1200x1600-5970e36a8ffd83dc0845613cc55eca2e.jpg",
-      "md5": "5970e36a8ffd83dc0845613cc55eca2e",
-      "size": 481329,
-      "uploadedDate": "2020-08-11T22:46:46.757Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/9c5bbf5fa33d410b955b857c58f41c5c/offer/EGS_3outof10EP2Foundation101_TerriblePostureGamesInc_G1C_00-1920x1080-20a9b2d639aad18eab57b7a05692570f.jpg",
-      "md5": "20a9b2d639aad18eab57b7a05692570f",
-      "size": 574030,
-      "uploadedDate": "2020-08-11T22:47:04.735Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/9c5bbf5fa33d410b955b857c58f41c5c/offer/EGS_3outof10EP2Foundation101_TerriblePostureGamesInc_S2-1200x1600-5970e36a8ffd83dc0845613cc55eca2e.jpg",
-      "md5": "5970e36a8ffd83dc0845613cc55eca2e",
-      "size": 481329,
-      "uploadedDate": "2020-08-11T22:47:19.910Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/9c5bbf5fa33d410b955b857c58f41c5c/offer/EGS_3outof10EP2Foundation101_TerriblePostureGamesInc_S2-1200x1600-5970e36a8ffd83dc0845613cc55eca2e.jpg",
-      "md5": "5970e36a8ffd83dc0845613cc55eca2e",
-      "size": 481329,
-      "uploadedDate": "2020-08-11T22:47:41.704Z",
+      "url": "https://cdn1.epicgames.com/9c5bbf5fa33d410b955b857c58f41c5c/offer/S1.ep2.portrait-1200x1600-5954bfa47a9d134167ca0a721056f890.jpg",
+      "md5": "5954bfa47a9d134167ca0a721056f890",
+      "size": 345261,
+      "uploadedDate": "2021-03-30T01:55:09.763Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/9c5bbf5fa33d410b955b857c58f41c5c/offer/EGS_3outof10EP2Foundation101_TerriblePostureGamesInc_S2-1200x1600-5970e36a8ffd83dc0845613cc55eca2e.jpg",
-      "md5": "5970e36a8ffd83dc0845613cc55eca2e",
-      "size": 481329,
-      "uploadedDate": "2020-08-11T22:47:57.623Z",
+      "url": "https://cdn1.epicgames.com/9c5bbf5fa33d410b955b857c58f41c5c/offer/S1.ep2.portrait-1200x1600-5954bfa47a9d134167ca0a721056f890.jpg",
+      "md5": "5954bfa47a9d134167ca0a721056f890",
+      "size": 345261,
+      "uploadedDate": "2021-03-30T01:55:17.829Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/9c5bbf5fa33d410b955b857c58f41c5c/offer/S1.ep2.portrait-1200x1600-5954bfa47a9d134167ca0a721056f890.jpg",
+      "md5": "5954bfa47a9d134167ca0a721056f890",
+      "size": 345261,
+      "uploadedDate": "2021-03-30T01:55:24.167Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/9c5bbf5fa33d410b955b857c58f41c5c/offer/S1.ep2.portrait-1200x1600-5954bfa47a9d134167ca0a721056f890.jpg",
+      "md5": "5954bfa47a9d134167ca0a721056f890",
+      "size": 345261,
+      "uploadedDate": "2021-03-30T01:55:35.920Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/9c5bbf5fa33d410b955b857c58f41c5c/offer/S1.ep2.landscape-2560x1440-765f39608c05ccedd299b44e8dedd6be.jpg",
+      "md5": "765f39608c05ccedd299b44e8dedd6be",
+      "size": 554226,
+      "uploadedDate": "2021-03-30T01:55:53.629Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
   "items": [

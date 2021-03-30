@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "twinmotion-rhino",
   "creationDate": "2020-08-17T15:38:21.067Z",
-  "lastModifiedDate": "2020-08-17T15:44:28.669Z",
+  "lastModifiedDate": "2021-03-30T12:48:27.533Z",
   "effectiveDate": "2020-08-13T17:54:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -44,6 +44,9 @@
   "items": [
     {
       "id": "db5df0a6f6c8496b8dddac17d2eaba84"
+    },
+    {
+      "id": "ece55e98d55b4f1982b2892eb89a3fc2"
     },
     {
       "id": "cabaf5d94a914b90b3587135ec746d54"

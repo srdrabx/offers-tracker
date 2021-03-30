@@ -177,8 +177,8 @@
     ],
     "Terrible Posture Games, Inc.",
     1592881244,
-    1600961674,
-    "https://cdn1.epicgames.com/d6a3cae34c5d4562832610b5b8664576/offer/EGS_3outof10EP4ThankYouForBeingAnAsset_TerriblePostureGamesInc_S2-1200x1600-1a465a21d91318bd7d0f6a7b968d4797.jpg",
+    1617069594,
+    "https://cdn1.epicgames.com/d6a3cae34c5d4562832610b5b8664576/offer/S1.ep4.portrait-1200x1600-1fbe282ac882fdd909782b6820894fbf.jpg",
     "3-out-of-10-ep-4"
   ],
   [
@@ -1886,7 +1886,7 @@
     ],
     "Epic Games",
     1494964903,
-    1615883021,
+    1617116224,
     "https://cdn1.epicgames.com/fn/offer/16BR_AgentJonesy_EGS_Thumb_1200x1600-1200x1600-07f7c3f058b6c594c1ccac61480a4093.jpg",
     "fortnite"
   ],
@@ -2066,7 +2066,7 @@
     ],
     "Nicalis",
     1616560083,
-    1616769620,
+    1617070435,
     "https://cdn1.epicgames.com/dbf5337d024e457bac68f2059112da86/offer/EGS_TheBindingofIsaacRepentance_NicalisIncEdmundMcmillen_S2-1200x1600-eb480826546ffb2ed1560ceec262b615.jpg",
     "the-binding-of-isaac-repentance"
   ],
@@ -3739,7 +3739,7 @@
     ],
     "Epic Games",
     1596750393,
-    1597061956,
+    1617108477,
     "https://cdn1.epicgames.com/poodle/offer/twinmotion-225x225-3072e2bdd26cbf770a407194b1ae9135.png",
     ""
   ],
@@ -5419,8 +5419,8 @@
     ],
     "Terrible Posture Games, Inc.",
     1600829285,
-    1602194929,
-    "https://cdn1.epicgames.com/ad2a1760f21a4df6aa597fc4b58ac719/offer/EGS_3outof10SeasonOne_TerriblePostureGamesInc_S1-2560x1440-6181e3c40876658fa74770b376e782d7.jpg",
+    1617069883,
+    "https://cdn1.epicgames.com/ad2a1760f21a4df6aa597fc4b58ac719/offer/S1.landscape-2560x1440-db466889d0f9b7b9179e1e75e532b0e4.jpg",
     "3-out-of-10-season-one"
   ],
   [
@@ -7550,7 +7550,7 @@
     ],
     "RETO MOTO",
     1593655508,
-    1617034063,
+    1617112878,
     "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_4800GOLD_RETOMOTO_DLC_S2-1200x1600-655568d898764938b3d522fb81c3b7b3.jpg",
     "heroes-and-generals-wwii/gold-4800"
   ],
@@ -8274,7 +8274,7 @@
     ],
     "RETO MOTO",
     1593655333,
-    1617034093,
+    1617112878,
     "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_1200GOLD_RETOMOTO_DLC_S2-1200x1600-18a21798bcf3826fbba9775aeb4837c2.jpg",
     "heroes-and-generals-wwii/gold-1200"
   ],
@@ -14350,7 +14350,7 @@
     ],
     "Humble Bundle",
     1599163560,
-    1603817913,
+    1617120670,
     "https://cdn1.epicgames.com/3bff88989b2b4eee8ec2356ea9667b52/offer/EGS_Cartoisacharmingadventurepuzzlegame_SunheadGames_S2-1200x1600-d5edfced1a3e506d18bf8cac0876b8bf.jpg",
     "carto/home"
   ],
@@ -15552,9 +15552,9 @@
     ],
     "Terrible Posture Games, Inc.",
     1592880272,
-    1600961651,
-    "https://cdn1.epicgames.com/f4bbbc20a6b74295ac82b7c258739bff/offer/EGS_3outof10EP3PivotLikeAChampion_TerriblePostureGamesInc_S2-1200x1600-417d1f1a3b308912028818b6cb0834cb.jpg",
-    "3-out-of-10-ep-3/home"
+    1617069470,
+    "https://cdn1.epicgames.com/f4bbbc20a6b74295ac82b7c258739bff/offer/S1.Ep3.portrait-1200x1600-49c1956fb62218b50a78ed3a901091a8.jpg",
+    "3-out-of-10-ep3/home"
   ],
   [
     "453fca6c915b4a91b0f067dcacf8c0c8",
@@ -15740,7 +15740,7 @@
     ],
     "Humble Bundle",
     1593532220,
-    1610640252,
+    1617120559,
     "https://cdn1.epicgames.com/0a4fc789eb0143c29296de79df5387ab/offer/EGS_CryingSunsisatacticalroguelite_AltShift_S2-1200x1600-cade755556a8d2b988626591b9464449.jpg",
     "crying-suns"
   ],
@@ -20568,6 +20568,21 @@
     ""
   ],
   [
+    "5bf5cacc6974434eb623a33a19e28e2b",
+    "ed55aa5edc5941de92fd7f64de415793",
+    "HITMAN 3: Seven Deadly Sins Act 1: Greed",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "IO Interactive",
+    1612502190,
+    1617108373,
+    "https://cdn1.epicgames.com/ed55aa5edc5941de92fd7f64de415793/offer/EGS_HITMAN3SevenDeadlySinsAct1Greed_IOInteractiveAS_DLC_S2-1200x1600-a9363435ac19f84c15e4a5d81b0ca242.jpg",
+    ""
+  ],
+  [
     "5c01e40328b94a59af2b0bda3173feb1",
     "33956bcb55d4452d8c47e16b94e294bd",
     "Among Us Starter Pack",
@@ -21381,13 +21396,13 @@
   [
     "5ea136ba7cd94bfb94bc2fc5d618a584",
     "poodle",
-    "Twinmotion Trial 2020",
+    "Twinmotion Trial 2021",
     [
       "applications"
     ],
     "Epic Games",
     1578993002,
-    1597067617,
+    1617108387,
     "https://cdn1.epicgames.com/poodle/offer/Twinmotion_Logo_Icon_White-2080x2066-b68a5566460e9d02fbada4b91d94fd22.png",
     ""
   ],
@@ -23168,7 +23183,7 @@
     ],
     "miHoYo Co., Ltd",
     1616524557,
-    1616551068,
+    1617075799,
     "",
     ""
   ],
@@ -23635,11 +23650,13 @@
     "KINGDOM HEARTS HD 1.5+2.5 ReMIX",
     [
       "games",
+      "games/edition",
+      "games/edition/base",
       "applications"
     ],
     "Square Enix (Japan)",
     1599825580,
-    1614955634,
+    1617109188,
     "https://cdn1.epicgames.com/4158b699dd70447a981fee752d970a3e/offer/EGS_KINGDOMHEARTSHD1525ReMIX_SquareEnix_S6-1200x1600-132fc1f63bf40a41cddbff3bab7acc52.jpg",
     "kingdom-hearts-hd-1-5-2-5-remix"
   ],
@@ -23805,6 +23822,21 @@
     1599584056,
     "https://cdn1.epicgames.com/395be8a9aed24142b30b6abb2778e995/offer/EGS_Anodyne2ReturntoDust_AnalgesicProductions_G1C_00-1920x1080-a06977c625f9cb3d1ac66fa4aed30f06-1920x1080-a06977c625f9cb3d1ac66fa4aed30f06.jpg",
     "anodyne-2-return-to-dust/home"
+  ],
+  [
+    "69e2ddf3fbc640b48de9bfabf29f3cbb",
+    "ed55aa5edc5941de92fd7f64de415793",
+    "HITMAN 3 - Free Starter Pack",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "IO Interactive",
+    1612501979,
+    1617108373,
+    "https://cdn1.epicgames.com/ed55aa5edc5941de92fd7f64de415793/offer/EGS_HITMAN3FreeStarterPack_IOInteractiveAS_Bundles_S2-1200x1600-edf334753fdec5be4e94a07e2328d281.jpg",
+    ""
   ],
   [
     "69e378123b21403f8aaa05acce11350b",
@@ -30917,7 +30949,7 @@
     ],
     "RETO MOTO",
     1593655418,
-    1617034084,
+    1617112878,
     "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_2200GOLD_RETOMOTO_DLC_S2-1200x1600-ca5bad1c0f0e09bad0e2dda35abc3e0f.jpg",
     "heroes-and-generals-wwii/gold-2200"
   ],
@@ -32645,8 +32677,8 @@
     ],
     "Terrible Posture Games, Inc.",
     1592882098,
-    1600961723,
-    "https://cdn1.epicgames.com/6a70006d598948bfa6c71ceb334ad635/offer/EGS_3outof10EP5TheRigIsUp_TerriblePostureGamesInc_S2-1200x1600-230f1086d959795ef3df6ce69f915cc6.jpg",
+    1617069757,
+    "https://cdn1.epicgames.com/6a70006d598948bfa6c71ceb334ad635/offer/S1.ep5.portrait-1200x1600-fc63fb2b69d0d45eb399cf8860f3f100.jpg",
     "3-out-of-10-ep-5"
   ],
   [
@@ -32658,7 +32690,7 @@
     ],
     "Epic Games",
     1597678701,
-    1597679068,
+    1617108507,
     "https://cdn1.epicgames.com/poodle/offer/twinmotion-225x225-3072e2bdd26cbf770a407194b1ae9135.png",
     ""
   ],
@@ -33468,11 +33500,13 @@
     "KINGDOM HEARTS III + Re Mind",
     [
       "games",
+      "games/edition",
+      "games/edition/base",
       "applications"
     ],
     "Square Enix (Japan)",
     1593692127,
-    1613764530,
+    1617109192,
     "https://cdn1.epicgames.com/0712176b5e3e49bfa8866c0ee1359f2d/offer/EGS_KINGDOMHEARTSIIIReMindDLC_SquareEnix_S6-1200x1600-54d8b062dc7488c71874fe2455d6c2bd.jpg",
     "kingdom-hearts-iii"
   ],
@@ -34087,6 +34121,21 @@
     1606974547,
     1608056782,
     "https://cdn1.epicgames.com/244aaaa06bfa49d088205b13b9d2d115/offer/WF_PlatinumPack170_1200x1600-1200x1600-cbc4bf169e7f94c9acdacf167159d04e.jpg",
+    ""
+  ],
+  [
+    "98fa07ed6a6246d9831f6f7d3f4c409b",
+    "c3e63401d6ba410493de31ed69a798a1",
+    "Essential Ribbon Booster Pack",
+    [
+      "addons",
+      "addons/consumable",
+      "applications"
+    ],
+    "RETO MOTO",
+    1614974660,
+    1617112878,
+    "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_EssentialRibbonBoosterPack_RETOMOTO_Packs_S2-1200x1600-83c170aea261ce2dd67c7e97a50744ac.jpg",
     ""
   ],
   [
@@ -35217,8 +35266,8 @@
     ],
     "RETO MOTO",
     1585697546,
-    1616684265,
-    "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/hng_default_boxart-1200x1600-f47e0091839c038ee0a5473116268220.jpg",
+    1617112878,
+    "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/1.22_SOLDIERS-OF-SPRING_BOXART_1200x1600-1200x1600-c2d617160c88c56b5588667828d7d833.jpg",
     "heroes-and-generals-wwii/home"
   ],
   [
@@ -36564,6 +36613,22 @@
     1613491571,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
+  ],
+  [
+    "a1759ddb6bfe412c87bf917268a41712",
+    "3d4b3dcf7ec449c7a042c163d08fa0f3",
+    "Legend of Keepers",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Goblinz Studio",
+    1610491669,
+    1617107765,
+    "https://cdn1.epicgames.com/3d4b3dcf7ec449c7a042c163d08fa0f3/offer/EGS_LegendofKeepersCareerofaDungeonMaster_GoblinzStudio_S2-1200x1600-789c1a46106c908062827236e63b4330.jpg",
+    "legend-of-keepers"
   ],
   [
     "a178c2b75e20434696533628d8fdb296",
@@ -38877,7 +38942,7 @@
     ],
     "Epic Games",
     1599660502,
-    1599660651,
+    1617108546,
     "https://cdn1.epicgames.com/poodle/offer/twinmotion-225x225-3072e2bdd26cbf770a407194b1ae9135.png",
     ""
   ],
@@ -39444,7 +39509,7 @@
     ],
     "RETO MOTO",
     1593655643,
-    1617034045,
+    1617112878,
     "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_30000GOLD_RETOMOTO_DLC_S2-1200x1600-e7e28176f92a45e3556e52975ecd4974.jpg",
     "heroes-and-generals-wwii/gold-30000"
   ],
@@ -40150,11 +40215,13 @@
     "KINGDOM HEARTS HD 2.8 Final Chapter Prologue",
     [
       "games",
+      "games/edition",
+      "games/edition/base",
       "applications"
     ],
     "Square Enix (Japan)",
     1599825605,
-    1614956217,
+    1617109195,
     "https://cdn1.epicgames.com/c8ff067c1c984cd7ab1998e8a9afc8b6/offer/EGS_KINGDOMHEARTSHD28FinalChapterPrologue_SquareEnix_S6-1200x1600-a3fc8fc218fe1ff3541dc2b5b9f076d7.jpg",
     "kingdom-hearts-hd-2-8-final-chapter-prologue"
   ],
@@ -41713,7 +41780,7 @@
     ],
     "RETO MOTO",
     1593655587,
-    1617034054,
+    1617112878,
     "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_13000GOLD_RETOMOTO_DLC_S2-1200x1600-f223b9721b67da17d0251851bf0fe3f3.jpg",
     "heroes-and-generals-wwii/gold-13000"
   ],
@@ -43811,7 +43878,7 @@
     ],
     "Spry Fox LLC",
     1608171073,
-    1615219374,
+    1617049965,
     "https://cdn1.epicgames.com/768ec2d3b5114ac4a800631b12ee3f31/offer/CG.2-1200x1600-6b8cbe5523543a3d16aa1d0aef8f188d.jpg",
     "cozy-grove"
   ],
@@ -46761,11 +46828,13 @@
     "KINGDOM HEARTS Melody of Memory",
     [
       "games",
+      "games/edition",
+      "games/edition/base",
       "applications"
     ],
     "Square Enix (Japan)",
     1603721203,
-    1613764593,
+    1617109211,
     "https://cdn1.epicgames.com/3671db367c594e2ab5020105dc52dc65/offer/EGS_KINGDOMHEARTSMelodyofMemory_SQUAREENIX_S2-1200x1600-bc6932a1e7cbb7eeca4f66740f711f11.jpg",
     "kingdom-hearts-melody-of-memory"
   ],
@@ -47950,6 +48019,22 @@
     1601049321,
     "https://cdn1.epicgames.com/e89efaeec0cd408abee8bd4dd02c8d32/offer/EGS_PortRoyale4StandardEdition_GamingMindsStudios_S2-1200x1600-d64a2c6eb6f754d0b5f09fe7f325cd72.jpg",
     "port-royale-4/home"
+  ],
+  [
+    "d846d2cbd4b14b08aa09916d414034d3",
+    "36b8fb441b2542f89250fc92ca761077",
+    "Splinter Cell Chaos Theory",
+    [
+      "application",
+      "games",
+      "games/edition/base",
+      "games/edition"
+    ],
+    "Ubisoft Entertainment",
+    1597177808,
+    1617116371,
+    "https://cdn1.epicgames.com/36b8fb441b2542f89250fc92ca761077/offer/SCCT_Store_Portrait_1200x1600-1200x1600-481e408ce10e2158a965a310d41c8f6c.jpg",
+    "splinter-cell-chaos-theory"
   ],
   [
     "d85e8aab42ea400390985db9ac3e433c",
@@ -50199,6 +50284,21 @@
     1596163718,
     "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/offer/Diesel_productv2_ticket-to-ride_1910_Mobile-Vertical-510x680-510x680-de1e2f4fe3cda87eac433f7411dc0f56c427556d-510x680-2dfd5e895a1d532979efad759dbd7871.jpg",
     "ticket-to-ride/1910"
+  ],
+  [
+    "e17b303a64564822b35f1f63493ae445",
+    "ed55aa5edc5941de92fd7f64de415793",
+    "HITMAN 3: Seven Deadly Sins Collection",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "IO Interactive",
+    1612502125,
+    1617115729,
+    "https://cdn1.epicgames.com/ed55aa5edc5941de92fd7f64de415793/offer/EGS_HITMAN3SevenDeadlySinsCollection_IOInteractiveAS_SeasonPass_S2-1200x1600-3c7331dae3acef502ae394cb42b66a71.jpg",
+    ""
   ],
   [
     "e17d3e7c95ee4e5bbc48957f4b262646",
@@ -52609,8 +52709,8 @@
     ],
     "Terrible Posture Games, Inc.",
     1581106287,
-    1600961558,
-    "https://cdn1.epicgames.com/d9090f3f39f64d5bb827c6e44b95cff0/offer/EGS_3outof10EP1WelcomeToShovelworks_TerriblePostureGamesInc_S2-1200x1600-d5637e28fee4033bda8efa62bee5dc3b.jpg",
+    1617069212,
+    "https://cdn1.epicgames.com/d9090f3f39f64d5bb827c6e44b95cff0/offer/S1.ep1.portrait-1200x1600-6bbde455e06bbde03ece387f1bd4b068.jpg",
     "3-out-of-10-ep-1"
   ],
   [
@@ -54198,8 +54298,8 @@
     ],
     "Terrible Posture Games, Inc.",
     1592879011,
-    1600961631,
-    "https://cdn1.epicgames.com/9c5bbf5fa33d410b955b857c58f41c5c/offer/EGS_3outof10EP2Foundation101_TerriblePostureGamesInc_S2-1200x1600-5970e36a8ffd83dc0845613cc55eca2e.jpg",
+    1617069360,
+    "https://cdn1.epicgames.com/9c5bbf5fa33d410b955b857c58f41c5c/offer/S1.ep2.portrait-1200x1600-5954bfa47a9d134167ca0a721056f890.jpg",
     "3-out-of-10-ep-2"
   ],
   [
