@@ -8,7 +8,7 @@
   "productSlug": "disco-elysium",
   "urlSlug": "lynxgeneralaudience",
   "creationDate": "2020-05-08T14:37:11.658Z",
-  "lastModifiedDate": "2020-06-15T15:37:04.020Z",
+  "lastModifiedDate": "2021-03-30T19:53:53.511Z",
   "effectiveDate": "2020-06-06T18:00:00.000Z",
   "viewableDate": "2020-06-06T18:00:00.000Z",
   "developer": null,
@@ -154,51 +154,6 @@
   ],
   "keyImages": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/ff52981b1d9947978153c7a7f8bc6d90/offer/EGS_DiscoElysium_ZAUM_S5-1920x1080-391cc41a99becba317b849c8792098d0.jpg",
-      "md5": "391cc41a99becba317b849c8792098d0",
-      "size": 995423,
-      "uploadedDate": "2020-06-06T03:18:31.081Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/ff52981b1d9947978153c7a7f8bc6d90/offer/EGS_DiscoElysium_ZAUM_S2-1200x1600-88382e31b39eee25364a29821e2f86e2.jpg",
-      "md5": "88382e31b39eee25364a29821e2f86e2",
-      "size": 970616,
-      "uploadedDate": "2020-06-06T03:18:40.606Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/ff52981b1d9947978153c7a7f8bc6d90/offer/EGS_DiscoElysium_ZAUM_S5-1920x1080-391cc41a99becba317b849c8792098d0.jpg",
-      "md5": "391cc41a99becba317b849c8792098d0",
-      "size": 995423,
-      "uploadedDate": "2020-06-06T03:18:53.462Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/ff52981b1d9947978153c7a7f8bc6d90/offer/EGS_DiscoElysium_ZAUM_S2-1200x1600-88382e31b39eee25364a29821e2f86e2.jpg",
-      "md5": "88382e31b39eee25364a29821e2f86e2",
-      "size": 970616,
-      "uploadedDate": "2020-06-06T03:19:12.979Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/ff52981b1d9947978153c7a7f8bc6d90/offer/EGS_DiscoElysium_ZAUM_S2-1200x1600-88382e31b39eee25364a29821e2f86e2.jpg",
-      "md5": "88382e31b39eee25364a29821e2f86e2",
-      "size": 970616,
-      "uploadedDate": "2020-06-06T03:19:40.581Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "CodeRedemption_340x440",
       "url": "https://cdn1.epicgames.com/ff52981b1d9947978153c7a7f8bc6d90/offer/EGS_DiscoElysium_ZAUM_S2-1200x1600-88382e31b39eee25364a29821e2f86e2.jpg",
       "md5": "88382e31b39eee25364a29821e2f86e2",
@@ -206,6 +161,60 @@
       "uploadedDate": "2020-06-06T03:19:59.108Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ff52981b1d9947978153c7a7f8bc6d90/offer/EGS_DiscoElysiumTheFinalCut_ZAUM_S6-1200x1600-486d4da970eede7364b9650d63900bad.jpg",
+      "md5": "486d4da970eede7364b9650d63900bad",
+      "size": 944323,
+      "uploadedDate": "2021-03-30T19:52:57.735Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ff52981b1d9947978153c7a7f8bc6d90/offer/EGS_DiscoElysiumTheFinalCut_ZAUM_S5-1920x1080-d4811511d7c3b0442ccf811184e3e68a.jpg",
+      "md5": "d4811511d7c3b0442ccf811184e3e68a",
+      "size": 570050,
+      "uploadedDate": "2021-03-30T19:53:07.005Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ff52981b1d9947978153c7a7f8bc6d90/offer/EGS_DiscoElysiumTheFinalCut_ZAUM_S6-1200x1600-486d4da970eede7364b9650d63900bad.jpg",
+      "md5": "486d4da970eede7364b9650d63900bad",
+      "size": 944323,
+      "uploadedDate": "2021-03-30T19:53:19.135Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ff52981b1d9947978153c7a7f8bc6d90/offer/EGS_DiscoElysiumTheFinalCut_ZAUM_S6-1200x1600-486d4da970eede7364b9650d63900bad.jpg",
+      "md5": "486d4da970eede7364b9650d63900bad",
+      "size": 944323,
+      "uploadedDate": "2021-03-30T19:53:27.962Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/ff52981b1d9947978153c7a7f8bc6d90/offer/EGS_DiscoElysiumTheFinalCut_ZAUM_S6-1200x1600-486d4da970eede7364b9650d63900bad.jpg",
+      "md5": "486d4da970eede7364b9650d63900bad",
+      "size": 944323,
+      "uploadedDate": "2021-03-30T19:53:37.412Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/ff52981b1d9947978153c7a7f8bc6d90/offer/EGS_DiscoElysiumTheFinalCut_ZAUM_S5-1920x1080-d4811511d7c3b0442ccf811184e3e68a.jpg",
+      "md5": "d4811511d7c3b0442ccf811184e3e68a",
+      "size": 570050,
+      "uploadedDate": "2021-03-30T19:53:46.637Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [

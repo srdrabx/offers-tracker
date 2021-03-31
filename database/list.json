@@ -3783,8 +3783,8 @@
     ],
     "ZA/UM",
     1588948631,
-    1592235424,
-    "https://cdn1.epicgames.com/ff52981b1d9947978153c7a7f8bc6d90/offer/EGS_DiscoElysium_ZAUM_S2-1200x1600-88382e31b39eee25364a29821e2f86e2.jpg",
+    1617134033,
+    "https://cdn1.epicgames.com/ff52981b1d9947978153c7a7f8bc6d90/offer/EGS_DiscoElysiumTheFinalCut_ZAUM_S6-1200x1600-486d4da970eede7364b9650d63900bad.jpg",
     "disco-elysium"
   ],
   [
@@ -13185,6 +13185,21 @@
     ""
   ],
   [
+    "3a744334d37740cf9f71fac90a9d8832",
+    "5bb3d43818ae4188850fe1dbad9d57a5",
+    "Knockout City™",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Electronic Arts",
+    1616463404,
+    1617160859,
+    "https://cdn1.epicgames.com/5bb3d43818ae4188850fe1dbad9d57a5/offer/EGS_KnockoutCity_VelanStudios_S2-1200x1600-b7df4b64f600767dc20c64e8c6eb299c.jpg",
+    "knockout-city"
+  ],
+  [
     "3a786cb6cb29487c8823146af83aa18c",
     "84c76746bce94effb8e1047fabfd7eb7",
     "5,000 Doubloons",
@@ -21635,8 +21650,8 @@
     ],
     "Hi-Rez Studios",
     1571363829,
-    1612353482,
-    "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Epic-Paladins-21.2-Yagorath-PortraitIMG-860x1148-860x1148-6e36428b2382b6365107c163fe60c198.jpg",
+    1617188247,
+    "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Paladins-EGS-Patch21pt3Indomitable-PortraitIMG-860x1148-860x1148-b9524526e4167413991fa763e2dd30b3.jpg",
     "paladins"
   ],
   [
@@ -21943,9 +21958,9 @@
     ],
     "Piranha Games",
     1590159349,
-    1597430879,
+    1617207323,
     "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/CodeRedemption_MechWarrior5-340x440-d6fc9fca58586de5b9d250d60e09e698-340x440-d6fc9fca58586de5b9d250d60e09e698.jpg",
-    "mechwarrior-5/modding-toolkit"
+    ""
   ],
   [
     "616e9b686a2241099f16b7dc4714ebd8",
@@ -22621,14 +22636,16 @@
   [
     "642bcaf63c384f73abc03dfb4f961fae",
     "badb0ee71b474ed591ec43212547cfc8",
-    "SS Audience",
+    "Paladins: Sparkling Stallion Pack",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Hi-Rez Studios",
     1614009460,
-    1614009489,
-    "",
+    1617188368,
+    "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/EGS_PaladinsSparklingStallionPack_EvilMojoGames_AddOn_S2-1200x1600-89a5bf4975af07f03d24db1a776f63b4.jpg",
     ""
   ],
   [
@@ -29840,6 +29857,22 @@
     1605878226,
     "https://cdn1.epicgames.com/a69c5a82682c43148e4e2542fe2fcd0f/offer/EGS_RuinedKingALeagueofLegendsStory_AirshipSyndicate_S2-1200x1600-7860241c71d96a6a93b610fa41210959.jpg",
     "ruined-king-a-league-of-legends-story/home"
+  ],
+  [
+    "85d95b671f104f9ab38b9a157ee5a82a",
+    "dbf5337d024e457bac68f2059112da86",
+    "The Binding of Isaac: Repentance",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Nicalis",
+    1612900319,
+    1617174133,
+    "https://cdn1.epicgames.com/dbf5337d024e457bac68f2059112da86/offer/EGS_TheBindingofIsaacRepentance_NicalisIncEdmundMcmillen_S2-1200x1600-eb480826546ffb2ed1560ceec262b615.jpg",
+    "the-binding-of-isaac-repentance"
   ],
   [
     "85eaa66c61be40ddb307483309165620",
@@ -39075,6 +39108,22 @@
     1610121098,
     "https://cdn1.epicgames.com/aa54bad47e504fdca79a3eb77be8c465/offer/EGS_MONKEYBARRELS_GoodFeelCoLtd_S2-1200x1600-2a1d398bad097402dcdca68d72c61641.jpg",
     "monkey-barrels"
+  ],
+  [
+    "acfa7c1e90e14c3f96b10631d85eddda",
+    "5bb3d43818ae4188850fe1dbad9d57a5",
+    "Knockout City™ Cross-Play Beta",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Electronic Arts",
+    1616465489,
+    1617160859,
+    "https://cdn1.epicgames.com/5bb3d43818ae4188850fe1dbad9d57a5/offer/EGS_KnockoutCityCrossPlayBeta_VelanStudios_S2-1200x1600-9584a6c1351d12f8d3ccb5fe8b031ad2.jpg",
+    "knockout-city/beta"
   ],
   [
     "ad0144e6748349119a2a387957742d31",
@@ -49097,7 +49146,7 @@
     ],
     "Epic Dev Test Account",
     1568917255,
-    1585791751,
+    1617208355,
     "https://cdn1.epicgames.com/1093790870b043cdbae03d91d76d9ae6/offer/CodeRedemption_R6Quarantine-330x440-813ed8c865430a766fce2cbb59ad08f7.jpg",
     "rainbow-six-quarantine/home"
   ],
@@ -49764,7 +49813,7 @@
     ],
     "Raw Fury",
     1614025219,
-    1614871422,
+    1617151413,
     "",
     ""
   ],
@@ -53426,7 +53475,7 @@
     ],
     "Square Enix",
     1597417118,
-    1603716365,
+    1617139535,
     "https://cdn1.epicgames.com/c6e54ebd92da4ee8819c1c0956cebdc4/offer/EGS_OUTRIDERS_PeopleCanFly_S2-1200x1600-1e019175a39f3cac61549f0d543baec0.jpg",
     "outriders/home"
   ],
