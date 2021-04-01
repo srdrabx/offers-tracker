@@ -8,7 +8,7 @@
   "productSlug": "oddworld-soulstorm",
   "urlSlug": "larkprepurchaseaudience",
   "creationDate": "2020-12-10T18:12:56.961Z",
-  "lastModifiedDate": "2021-02-12T23:30:57.644Z",
+  "lastModifiedDate": "2021-04-01T01:15:18.511Z",
   "effectiveDate": "2020-12-11T01:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -120,57 +120,57 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/e099f2abf3324d248054bf14c476fbc0/offer/EGS_OddworldSoulstorm_OddworldInhabitantsInc_S1-2560x1440-cfea6e52c2a4563585573b70e8c8e547.jpg",
-      "md5": "cfea6e52c2a4563585573b70e8c8e547",
-      "size": 964085,
-      "uploadedDate": "2020-12-10T18:07:10.303Z",
+      "url": "https://cdn1.epicgames.com/e099f2abf3324d248054bf14c476fbc0/offer/05928040-de37-4b92-92d0-732f1c6644cb-2560x1440-c50100957af86083f5578705c61cb903.jpeg",
+      "md5": "c50100957af86083f5578705c61cb903",
+      "size": 970270,
+      "uploadedDate": "2021-04-01T01:13:41.821Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/e099f2abf3324d248054bf14c476fbc0/offer/EGS_OddworldSoulstorm_OddworldInhabitantsInc_S2-1200x1600-bf4e7a1052f737e16db6bc3d9c603f14.jpg",
-      "md5": "bf4e7a1052f737e16db6bc3d9c603f14",
-      "size": 516584,
-      "uploadedDate": "2020-12-10T18:07:43.804Z",
+      "url": "https://cdn1.epicgames.com/e099f2abf3324d248054bf14c476fbc0/offer/10b0e448-535e-4b9c-8787-ed5f54099339-1200x1600-56828a3c4d0e57e139e8683d823edd6c.jpeg",
+      "md5": "56828a3c4d0e57e139e8683d823edd6c",
+      "size": 589847,
+      "uploadedDate": "2021-04-01T01:13:57.339Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/e099f2abf3324d248054bf14c476fbc0/offer/EGS_OddworldSoulstorm_OddworldInhabitantsInc_S2-1200x1600-bf4e7a1052f737e16db6bc3d9c603f14.jpg",
-      "md5": "bf4e7a1052f737e16db6bc3d9c603f14",
-      "size": 516584,
-      "uploadedDate": "2020-12-10T18:07:54.254Z",
+      "url": "https://cdn1.epicgames.com/e099f2abf3324d248054bf14c476fbc0/offer/10b0e448-535e-4b9c-8787-ed5f54099339-1200x1600-56828a3c4d0e57e139e8683d823edd6c.jpeg",
+      "md5": "56828a3c4d0e57e139e8683d823edd6c",
+      "size": 589847,
+      "uploadedDate": "2021-04-01T01:14:19.636Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/e099f2abf3324d248054bf14c476fbc0/offer/EGS_OddworldSoulstorm_OddworldInhabitantsInc_S2-1200x1600-bf4e7a1052f737e16db6bc3d9c603f14.jpg",
-      "md5": "bf4e7a1052f737e16db6bc3d9c603f14",
-      "size": 516584,
-      "uploadedDate": "2020-12-10T18:08:03.225Z",
+      "url": "https://cdn1.epicgames.com/e099f2abf3324d248054bf14c476fbc0/offer/10b0e448-535e-4b9c-8787-ed5f54099339-1200x1600-56828a3c4d0e57e139e8683d823edd6c.jpeg",
+      "md5": "56828a3c4d0e57e139e8683d823edd6c",
+      "size": 589847,
+      "uploadedDate": "2021-04-01T01:14:33.347Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/e099f2abf3324d248054bf14c476fbc0/offer/10b0e448-535e-4b9c-8787-ed5f54099339-1200x1600-56828a3c4d0e57e139e8683d823edd6c.jpeg",
+      "md5": "56828a3c4d0e57e139e8683d823edd6c",
+      "size": 589847,
+      "uploadedDate": "2021-04-01T01:14:51.449Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/e099f2abf3324d248054bf14c476fbc0/offer/EGS_OddworldSoulstorm_OddworldInhabitantsInc_S1-2560x1440-cfea6e52c2a4563585573b70e8c8e547.jpg",
-      "md5": "cfea6e52c2a4563585573b70e8c8e547",
-      "size": 964085,
-      "uploadedDate": "2020-12-10T18:08:30.370Z",
+      "url": "https://cdn1.epicgames.com/e099f2abf3324d248054bf14c476fbc0/offer/05928040-de37-4b92-92d0-732f1c6644cb-2560x1440-c50100957af86083f5578705c61cb903.jpeg",
+      "md5": "c50100957af86083f5578705c61cb903",
+      "size": 970270,
+      "uploadedDate": "2021-04-01T01:15:05.784Z",
       "width": 2560,
       "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/e099f2abf3324d248054bf14c476fbc0/offer/EGS_OddworldSoulstorm_OddworldInhabitantsInc_S2-1200x1600-bf4e7a1052f737e16db6bc3d9c603f14.jpg",
-      "md5": "bf4e7a1052f737e16db6bc3d9c603f14",
-      "size": 516584,
-      "uploadedDate": "2020-12-10T18:08:39.979Z",
-      "width": 1200,
-      "height": 1600
     }
   ],
   "items": [

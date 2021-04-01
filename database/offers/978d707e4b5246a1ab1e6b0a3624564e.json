@@ -1,0 +1,51 @@
+{
+  "id": "978d707e4b5246a1ab1e6b0a3624564e",
+  "namespace": "7ad5508d382e46228056f1d1a0189ae2",
+  "title": "SCP",
+  "description": "SCP",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "path-of-exile--scp",
+  "creationDate": "2021-03-31T23:22:58.887Z",
+  "lastModifiedDate": "2021-03-31T23:22:58.887Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-hjnk7yyxh7s2pm8k5dhxnubswnbler",
+    "name": "Grinding Gear Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN,TW,HK,MO"
+    },
+    {
+      "key": "publisherName",
+      "value": "Grinding Gear Games"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "2d4fb37fd4bf4d6b9a2a7bf537dc1932"
+    }
+  ],
+  "catalogNs": {
+    "name": "7ad5508d382e46228056f1d1a0189ae2"
+  }
+}

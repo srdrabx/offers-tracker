@@ -1,14 +1,14 @@
 {
-  "id": "42727e39e1a647668a1f696e7321ded1",
+  "id": "736fb9cdb3094919885700a652555cb0",
   "namespace": "7e508f543b05465abe3a935960eb70ac",
-  "title": "Bubbles the Hollyphant Familiar Pack",
-  "description": "Bubbles the Hollyphant Familiar\n2 Epic Potions of Speed\n2 Epic Potions of Giant's Strength\n2 Epic Potions of Clairvoyance",
-  "longDescription": "Bubbles the Hollyphant Familiar\n2 Epic Potions of Speed\n2 Epic Potions of Giant's Strength\n2 Epic Potions of Clairvoyance",
+  "title": "Cinnamon the Red Panda Familiar Pack",
+  "description": "Red Panda Familiar\n6 Epic Potions of Speed\n6 Epic Potions of Giant's Strength\n6 Epic Potions of Clairvoyance\n6 Epic Potions of Fire Breath\n1 Potion of Polish",
+  "longDescription": "Red Panda Familiar\n6 Epic Potions of Speed\n6 Epic Potions of Giant's Strength\n6 Epic Potions of Clairvoyance\n6 Epic Potions of Fire Breath\n1 Potion of Polish",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "banedlc109",
-  "creationDate": "2021-02-24T20:08:11.492Z",
-  "lastModifiedDate": "2021-03-31T18:19:57.240Z",
+  "urlSlug": "banedlc109-01",
+  "creationDate": "2021-02-24T20:08:48.306Z",
+  "lastModifiedDate": "2021-03-08T22:11:53.669Z",
   "effectiveDate": "2021-03-31T19:00:00.000Z",
   "viewableDate": "2021-03-31T19:00:00.000Z",
   "developer": null,
@@ -55,7 +55,7 @@
   ],
   "items": [
     {
-      "id": "ecd6500439784ffa9f58c01f40004d14"
+      "id": "5c795cb21966468f85964ac4b3aa6077"
     }
   ],
   "catalogNs": {

@@ -8,8 +8,8 @@
   "productSlug": "3-out-of-10-season-2",
   "urlSlug": "mooncakegeneralaudience",
   "creationDate": "2020-09-08T21:58:00.563Z",
-  "lastModifiedDate": "2021-03-02T17:39:50.894Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2021-04-01T14:19:55.794Z",
+  "effectiveDate": "2021-04-08T15:00:00.000Z",
   "viewableDate": "2021-03-03T15:30:00.000Z",
   "developer": null,
   "seller": {
@@ -25,13 +25,16 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "freegames"
+    },
+    {
+      "path": "games/edition/base"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "applications"

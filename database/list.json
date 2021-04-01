@@ -4,7 +4,6 @@
     "e4ac2f8cd49b42f18821f3fc3b6fc1b6",
     "Creature in the Well",
     [
-      "freegames",
       "games",
       "games/edition",
       "games/edition/base",
@@ -12,7 +11,7 @@
     ],
     "MWM Interactive",
     1611343690,
-    1616621538,
+    1617289340,
     "https://cdn1.epicgames.com/e4ac2f8cd49b42f18821f3fc3b6fc1b6/offer/EGS_CreatureintheWell_FlightSchoolStudio_S2-1200x1600-42c37512ff1fdf1fb5dc0d64864b72ce.jpg",
     "creature-in-the-well"
   ],
@@ -484,7 +483,7 @@
     ],
     "Perfect World",
     1612841001,
-    1616631851,
+    1617212429,
     "https://cdn1.epicgames.com/ce9774c9678a4377befaa8fdfc8ef71b/offer/EGS_MagicLegends20000Zen3000BonusBundle_CrypticStudios_AddOn_S2-1200x1600-72d5e8e74da68cd322e0a4815784d58e.jpg",
     ""
   ],
@@ -3412,7 +3411,7 @@
     ],
     "Perfect World",
     1612840862,
-    1616631851,
+    1617212493,
     "https://cdn1.epicgames.com/ce9774c9678a4377befaa8fdfc8ef71b/offer/EGS_MagicLegends5000Zen300BonusBundle_CrypticStudios_AddOn_S2-1200x1600-56b4dc0484b6ddf1b7c2261dd32960c4.jpg",
     ""
   ],
@@ -6517,6 +6516,21 @@
     ""
   ],
   [
+    "1cb4e36415134469a25144b1bf840562",
+    "b0ebefb11a9145488af78f6d2488afff",
+    "Alter Ego DLC Pack",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Team17 Digital Ltd",
+    1611188536,
+    1617292209,
+    "https://cdn1.epicgames.com/b0ebefb11a9145488af78f6d2488afff/offer/EGS_AlterEgoDLCPack_VeewoGames_DLC_S2-1200x1600-e8a0e8f5a82e890f67208e6578a9a63a.jpg",
+    ""
+  ],
+  [
     "1ce540ccb5dc413780931468235ac813",
     "epic",
     "Tom Clancy's Ghost Recon Wildlands",
@@ -6797,7 +6811,7 @@
   [
     "1da8d0dbf83d4abaaa36dfb8305c3579",
     "b0ebefb11a9145488af78f6d2488afff",
-    "Neon Abyss OST",
+    "Neon Abyss - Original Soundtrack",
     [
       "digitalextras",
       "games",
@@ -6806,7 +6820,7 @@
     ],
     "Team17 Digital Ltd",
     1600877465,
-    1602025384,
+    1617293415,
     "https://cdn1.epicgames.com/b0ebefb11a9145488af78f6d2488afff/offer/EGS_NeonAbyssSoundtack_VeewoGames_DigitalExtras_S2-1200x1600-cbdc61f6a6077ae84ecbff8211bda2c2.jpg",
     "neon-abyss/soundtrack"
   ],
@@ -7597,6 +7611,21 @@
     ""
   ],
   [
+    "21a3312218d449a0849d10cd4530d23b",
+    "6af58339c2424644988e0fb83dfd9bd5",
+    "Darude - \"Sandstorm\"",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "NCSoft",
+    1613672642,
+    1617255897,
+    "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_DarudeSandstorm_HarmonixMusicSystemsInc_DLC_S2-1200x1600-c8f0adea1b78b5c4326151dd1e56b107.jpg",
+    ""
+  ],
+  [
     "21ae59767e154e33b7a3b2aaa3819c11",
     "f0e736561b7d42d0bbd18c7ce039a151",
     "Cyanide & Happiness - Freakpocalypse",
@@ -8174,7 +8203,7 @@
     ],
     "Grinding Gear Games",
     1600123795,
-    1601586099,
+    1617231592,
     "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_AlphaGriffin-1200x1600-a3e3a57c04b4c1acc0c6c8aa334eb3e8.png",
     "path-of-exile/imperial-eagle-pack"
   ],
@@ -14992,14 +15021,14 @@
   [
     "42727e39e1a647668a1f696e7321ded1",
     "7e508f543b05465abe3a935960eb70ac",
-    "DLC109",
+    "Bubbles the Hollyphant Familiar Pack",
     [
       "games",
       "applications"
     ],
     "Codename Entertainment",
     1614197291,
-    1614197291,
+    1617214797,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -15082,7 +15111,7 @@
     ],
     "Terrible Posture Games, Inc.",
     1599602822,
-    1614706790,
+    1617286795,
     "",
     ""
   ],
@@ -15611,7 +15640,7 @@
     ],
     "Grinding Gear Games",
     1600123250,
-    1601584510,
+    1617231603,
     "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_MasterSpellblade-1200x1600-d5a8ba240fd8fb42ed3cbc6ce80b4992.png",
     "path-of-exile/master-spellblade-pack"
   ],
@@ -17993,6 +18022,20 @@
     "satisfactory"
   ],
   [
+    "4f2e013f23494b118ab8c04044633cd7",
+    "eb348461cdaf4bec9d69a1c4bb39ecc4",
+    "Indium The Servant and the Beast",
+    [
+      "games",
+      "applications"
+    ],
+    "Defiant Development PTY LTD",
+    1612932803,
+    1617253102,
+    "",
+    ""
+  ],
+  [
     "4f36785027094f4bb11176ca079691dc",
     "e1809e1742cb498080d8849b11a99c5a",
     "Airborne Kingdom Deluxe Edition",
@@ -19110,6 +19153,22 @@
     1587049200,
     "https://cdn1.epicgames.com/b671fbc7be424e888c9346a9a6d3d9db/offer/CodeRedemption_Celeste-340x440-873dacb76be8c59d659757b4b5284a61.jpg",
     "celeste/home"
+  ],
+  [
+    "54631f97cd5c4ce1b8e995c70743b11b",
+    "c6e54ebd92da4ee8819c1c0956cebdc4",
+    "OUTRIDERS",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Square Enix",
+    1589486726,
+    1617292830,
+    "https://cdn1.epicgames.com/c6e54ebd92da4ee8819c1c0956cebdc4/offer/Outriders_tall-1200x1600-1e019175a39f3cac61549f0d543baec0.jpg",
+    "outriders/home"
   ],
   [
     "5477cbff98f94e928c7019bc447e0846",
@@ -20539,6 +20598,21 @@
     "steep/rocket-wings-dlc"
   ],
   [
+    "5bb45f6520ba4c019c340890860fbf3f",
+    "33956bcb55d4452d8c47e16b94e294bd",
+    "Among Us - Airship Skins",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Innersloth",
+    1616439945,
+    1617213943,
+    "https://cdn1.epicgames.com/33956bcb55d4452d8c47e16b94e294bd/offer/EGS_AmongUsAirshipSkins_Innersloth_DLC_S2-1200x1600-7b66bf04a92a4e47828c75bcc0cd13da.jpg",
+    ""
+  ],
+  [
     "5bbdc817db4e4045b6b1670df4007b86",
     "ut",
     "Unreal Helmet",
@@ -21505,6 +21579,20 @@
     "Iceberg Interactive",
     1559449242,
     1568991494,
+    "",
+    ""
+  ],
+  [
+    "5f0432c0f7914da480e53f423eb244f0",
+    "eb348461cdaf4bec9d69a1c4bb39ecc4",
+    "Indium Outlands and Outsiders",
+    [
+      "games",
+      "applications"
+    ],
+    "Defiant Development PTY LTD",
+    1612932902,
+    1617253243,
     "",
     ""
   ],
@@ -22601,8 +22689,8 @@
     ],
     "Innersloth",
     1604592659,
-    1608305246,
-    "https://cdn1.epicgames.com/33956bcb55d4452d8c47e16b94e294bd/offer/EGS_AmongUs_Innersloth_S2-1200x1600-1ed84c94766b627a7e2848a01d704b7a.jpg",
+    1617286544,
+    "https://cdn1.epicgames.com/33956bcb55d4452d8c47e16b94e294bd/offer/EGS_AmongUs_Innersloth_S2-1200x1600-0e804b9d53a159cb8659ebdac1e1ea01.jpg",
     "among-us"
   ],
   [
@@ -25946,6 +26034,20 @@
     ""
   ],
   [
+    "736fb9cdb3094919885700a652555cb0",
+    "7e508f543b05465abe3a935960eb70ac",
+    "Cinnamon the Red Panda Familiar Pack",
+    [
+      "games",
+      "applications"
+    ],
+    "Codename Entertainment",
+    1614197328,
+    1615241513,
+    "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
+    ""
+  ],
+  [
     "738ef1122a33412db5d561473a4e98e2",
     "calluna",
     "Pre-Purchase QA DLC 001",
@@ -28021,7 +28123,7 @@
     ],
     "Grinding Gear Games",
     1600123700,
-    1601584510,
+    1617231586,
     "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_Griffin-1200x1600-ace86c59caace986a5917a05bcb9f5f1.png",
     "path-of-exile/eagle-pack"
   ],
@@ -29451,6 +29553,19 @@
     1601083614,
     1604984394,
     "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_LookPackMasquerade_Harmonix_DLC_S2-1200x1600-44ebe01efa860b74b9a061e9e84c84d2.jpg",
+    ""
+  ],
+  [
+    "83bcbfd2c5964746b0f93ac07be1e101",
+    "7ad5508d382e46228056f1d1a0189ae2",
+    "CP",
+    [
+      "applications"
+    ],
+    "Grinding Gear Games",
+    1617232753,
+    1617232900,
+    "",
     ""
   ],
   [
@@ -32297,6 +32412,19 @@
     ""
   ],
   [
+    "91a127a13986486d946588412cfd47bc",
+    "7ad5508d382e46228056f1d1a0189ae2",
+    "SP",
+    [
+      "applications"
+    ],
+    "Grinding Gear Games",
+    1617233053,
+    1617233053,
+    "",
+    ""
+  ],
+  [
     "91a881b260bb455d97aeea0d205aa178",
     "36336ee97ec543bbae85abaca618182b",
     "Diabotical",
@@ -32521,7 +32649,7 @@
     ],
     "Grinding Gear Games",
     1600123176,
-    1601584510,
+    1617231598,
     "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_Spellblade-1200x1600-146c33ce257aada8d7bfdce23fc8fee2.png",
     "path-of-exile/spellblade-pack"
   ],
@@ -33864,6 +33992,19 @@
     ""
   ],
   [
+    "978d707e4b5246a1ab1e6b0a3624564e",
+    "7ad5508d382e46228056f1d1a0189ae2",
+    "SCP",
+    [
+      "applications"
+    ],
+    "Grinding Gear Games",
+    1617232978,
+    1617232978,
+    "",
+    ""
+  ],
+  [
     "97ac02721601458cb27d9676917b6dfd",
     "244aaaa06bfa49d088205b13b9d2d115",
     "Nezha Prime Warding Halo to Divine Spears Pack",
@@ -34507,7 +34648,7 @@
     ],
     "Perfect World",
     1612840941,
-    1616631851,
+    1617212515,
     "https://cdn1.epicgames.com/ce9774c9678a4377befaa8fdfc8ef71b/offer/EGS_MagicLegends10000Zen1000BonusBundle_CrypticStudios_AddOn_S2-1200x1600-a4346bbc5dd8b9c08c13d962502f6969.jpg",
     ""
   ],
@@ -36037,14 +36178,15 @@
     "b829cfd910554ad3ad2eb3b314e2b1ef",
     "3 out of 10: Season Two",
     [
-      "games",
-      "games/edition",
+      "freegames",
       "games/edition/base",
+      "games/edition",
+      "games",
       "applications"
     ],
     "Terrible Posture Games, Inc.",
     1599602280,
-    1614706790,
+    1617286795,
     "https://cdn1.epicgames.com/b829cfd910554ad3ad2eb3b314e2b1ef/offer/EGS_3outof10SeasonTwo_TerriblePostureGamesInc_S2-1200x1600-0526ebb8c316a36e20e97271782bd31d.jpg",
     "3-out-of-10-season-2"
   ],
@@ -38062,6 +38204,19 @@
     1615992607,
     "https://cdn1.epicgames.com/19d54f4a6d7e4ba99c5caf8972fbfd02/offer/EN_HYPERSCAPE SEASON 3__EPIC_Store Portrait_1200x1600-1200x1600-ece65f20a2892c405a96210620b3b1c1.png",
     "hyper-scape"
+  ],
+  [
+    "a80b4252fd4b41af8e2b786bce85ee5f",
+    "7ad5508d382e46228056f1d1a0189ae2",
+    "STIS",
+    [
+      "applications"
+    ],
+    "Grinding Gear Games",
+    1617233130,
+    1617233130,
+    "",
+    ""
   ],
   [
     "a80cb2a59b884711a01c902e4019ec55",
@@ -41105,7 +41260,7 @@
     ],
     "Thermite Games",
     1611184076,
-    1616684574,
+    1617242100,
     "https://cdn1.epicgames.com/37e6d41ce91e44988190c2f10108d4e9/offer/EGS_TalesoftheNeonSea_PalmPioneer_S2-1200x1600-d794e2e82ea70067704178ce9b632b52.jpg",
     "tales-of-the-neon-sea"
   ],
@@ -42687,6 +42842,19 @@
     "back-4-blood/deluxe-edition"
   ],
   [
+    "bdc5accafcdb437e988765b32d5f6386",
+    "7ad5508d382e46228056f1d1a0189ae2",
+    "CTSC",
+    [
+      "applications"
+    ],
+    "Grinding Gear Games",
+    1617232887,
+    1617232903,
+    "",
+    ""
+  ],
+  [
     "be0f224d899a49a3a695f177939476aa",
     "dfd2530e80e4425d801913b0879be444",
     "DLC00086",
@@ -42722,7 +42890,7 @@
     ],
     "Terrible Posture Games, Inc.",
     1599602280,
-    1614706790,
+    1617286795,
     "",
     ""
   ],
@@ -43491,6 +43659,20 @@
     "godfall"
   ],
   [
+    "c16e19279c624a8798052467d6750ba1",
+    "eb348461cdaf4bec9d69a1c4bb39ecc4",
+    "Indium A Cold Hearth",
+    [
+      "games",
+      "applications"
+    ],
+    "Defiant Development PTY LTD",
+    1612932997,
+    1617253158,
+    "",
+    ""
+  ],
+  [
     "c17e8d2bed694f37b240a7bcc80fd722",
     "affc33b82405457595a032f00284abd2",
     "Mrs. Foster",
@@ -44045,7 +44227,7 @@
     ],
     "Perfect World",
     1612840782,
-    1616631851,
+    1617212466,
     "https://cdn1.epicgames.com/ce9774c9678a4377befaa8fdfc8ef71b/offer/EGS_MagicLegends2000ZenBundle_CrypticStudios_AddOn_S2-1200x1600-baafaeb10aeee7fdfbd368ce81b55d26.jpg",
     ""
   ],
@@ -49578,7 +49760,7 @@
     ],
     "Perfect World",
     1612840650,
-    1616631851,
+    1617211779,
     "https://cdn1.epicgames.com/ce9774c9678a4377befaa8fdfc8ef71b/offer/EGS_MagicLegends1000ZenBundle_CrypticStudios_AddOn_S2-1200x1600-43c276669385870ce26118a601db6d3e.jpg",
     ""
   ],
@@ -51682,6 +51864,22 @@
     ""
   ],
   [
+    "e713f0c46c1b46deadf2f69cfb2d3e43",
+    "6af58339c2424644988e0fb83dfd9bd5",
+    "Panic! At The Disco - \"Dancing's Not A Crime\"",
+    [
+      "addons",
+      "games",
+      "addons/durable",
+      "applications"
+    ],
+    "NCSoft",
+    1613672758,
+    1617255830,
+    "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_PanicAtTheDiscoDancingsNotACrime_HarmonixMusicSystemsInc_DLC_S2-1200x1600-7cd1526e29da91d9fc4bb0cb0ae0a526.jpg",
+    ""
+  ],
+  [
     "e71b874480e2400b8b4f7b8e3afa77cb",
     "epic",
     "Uno",
@@ -53025,6 +53223,19 @@
     ""
   ],
   [
+    "ec61cb6de737427595846216a332c1ef",
+    "7ad5508d382e46228056f1d1a0189ae2",
+    "ISP",
+    [
+      "applications"
+    ],
+    "Grinding Gear Games",
+    1617233197,
+    1617233223,
+    "",
+    ""
+  ],
+  [
     "ec657440106b44e4b7da05f971e691b6",
     "allium",
     "Observation Humble Bundle Audience",
@@ -53434,6 +53645,22 @@
     1589422202,
     "https://cdn1.epicgames.com/ocn/offer/T_VIP_1B-512x512-f70c5d226b37fce34877a85ac0198529.png",
     ""
+  ],
+  [
+    "ee4a8b18d4274045857bb32c07febc2b",
+    "83c7eb83fadd4a41ad2367dbf17705fc",
+    "Imp of the Sun",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Sunwolf Entertainment",
+    1616083389,
+    1617214084,
+    "https://cdn1.epicgames.com/83c7eb83fadd4a41ad2367dbf17705fc/offer/egs-impofthesun-sunwolfentertainment-s2-1200x1600-931e29796724-1200x1600-7aa30e62b0c9d20f1c7157a576e3bb46.jpeg",
+    "imp-of-the-sun"
   ],
   [
     "ee5174106784496294cf4de080953e87",
@@ -55284,8 +55511,8 @@
     ],
     "Oddworld Inhabitants Inc.",
     1607623976,
-    1613172657,
-    "https://cdn1.epicgames.com/e099f2abf3324d248054bf14c476fbc0/offer/EGS_OddworldSoulstorm_OddworldInhabitantsInc_S2-1200x1600-bf4e7a1052f737e16db6bc3d9c603f14.jpg",
+    1617239718,
+    "https://cdn1.epicgames.com/e099f2abf3324d248054bf14c476fbc0/offer/10b0e448-535e-4b9c-8787-ed5f54099339-1200x1600-56828a3c4d0e57e139e8683d823edd6c.jpeg",
     "oddworld-soulstorm"
   ],
   [
@@ -57322,6 +57549,22 @@
     1599752561,
     "https://cdn1.epicgames.com/c14dd3d3c8214149b27477dd4619f029/offer/EGS_AsFarAsTheEye_UnexpectedStudio_S2-1200x1600-54d45d0a4e42603f0bceea6290da5a02.jpg",
     "as-far-as-the-eye/supporter-dlc"
+  ],
+  [
+    "ffad2f4353684ae4902df9ba25cdc4a4",
+    "da9399071b4949f1a0c134528da61816",
+    "Golazo",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Purple Tree S R L",
+    1614958490,
+    1617209714,
+    "https://cdn1.epicgames.com/da9399071b4949f1a0c134528da61816/offer/EGS_Golazo_PurpleTree_S2-1200x1600-78cd5906437b6202273777ee7f944b6f.jpg",
+    "golazo"
   ],
   [
     "ffb6549f18c04eb3986de4e4da3def63",

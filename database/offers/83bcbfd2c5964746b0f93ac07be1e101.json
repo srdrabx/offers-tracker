@@ -1,0 +1,51 @@
+{
+  "id": "83bcbfd2c5964746b0f93ac07be1e101",
+  "namespace": "7ad5508d382e46228056f1d1a0189ae2",
+  "title": "CP",
+  "description": "CP",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "path-of-exile--cp",
+  "creationDate": "2021-03-31T23:19:13.039Z",
+  "lastModifiedDate": "2021-03-31T23:21:40.221Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-hjnk7yyxh7s2pm8k5dhxnubswnbler",
+    "name": "Grinding Gear Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN,TW,HK,MO"
+    },
+    {
+      "key": "publisherName",
+      "value": "Grinding Gear Games"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "6f1d2334f61c4febb6e9ca2cfa519241"
+    }
+  ],
+  "catalogNs": {
+    "name": "7ad5508d382e46228056f1d1a0189ae2"
+  }
+}
