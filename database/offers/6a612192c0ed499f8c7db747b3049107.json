@@ -5,10 +5,10 @@
   "description": "Totally Accurate Battle Simulator",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "totally-accurate-battle-simulator/home",
+  "productSlug": "totally-accurate-battle-simulator",
   "urlSlug": "driftfishgeneralaudience",
   "creationDate": "2019-12-16T16:58:30.371Z",
-  "lastModifiedDate": "2020-04-02T01:42:33.014Z",
+  "lastModifiedDate": "2021-04-01T18:58:40.172Z",
   "effectiveDate": "2019-12-25T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -99,18 +99,18 @@
       "comment": null
     },
     {
-      "id": "9548",
-      "name": "OSX",
+      "id": "10719",
+      "name": "Mac OS",
       "namespace": "epic",
       "aliases": [
-        "OS X",
-        "MAC OS"
+        "OSX",
+        "macOS"
       ],
       "operator": null,
       "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2020-09-15T18:08:53.889Z",
+      "updated": "2021-02-10T17:26:31.125Z",
       "status": "ACTIVE",
-      "referenceCount": 48,
+      "referenceCount": 19,
       "comment": null
     }
   ],
@@ -125,63 +125,63 @@
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "totally-accurate-battle-simulator/home"
+      "value": "totally-accurate-battle-simulator"
     }
   ],
   "keyImages": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_LandfallGames_TotallyAccurateBattleSimulator_S3-1000x563-f8cd7abd6c7aebcd572e8111ab167005.jpg",
-      "md5": "f8cd7abd6c7aebcd572e8111ab167005",
-      "size": 405455,
-      "uploadedDate": "2019-12-17T19:03:49.313Z",
-      "width": 1000,
-      "height": 563
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_LandfallGames_TotallyAccurateBattleSimulator_S4-510x680-bd48acab6fcbddd7cee9dfbed578af20.jpg",
-      "md5": "bd48acab6fcbddd7cee9dfbed578af20",
-      "size": 245564,
-      "uploadedDate": "2019-12-17T19:03:56.601Z",
-      "width": 510,
-      "height": 680
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_LandfallGames_TotallyAccurateBattleSimulator_S4-510x680-bd48acab6fcbddd7cee9dfbed578af20.jpg",
-      "md5": "bd48acab6fcbddd7cee9dfbed578af20",
-      "size": 245564,
-      "uploadedDate": "2019-12-17T19:03:56.601Z",
-      "width": 510,
-      "height": 680
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/ffe512fa1e594ee6a75d4643d1e21b43/offer/EGS_LandfallGames_TotallyAccurateBattleSimulator_S1-2560x1440-6041f9e5f1e30fc01dafd9dd11999732.jpg",
-      "md5": "6041f9e5f1e30fc01dafd9dd11999732",
-      "size": 469269,
-      "uploadedDate": "2019-12-18T13:50:44.844Z",
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ffe512fa1e594ee6a75d4643d1e21b43/offer/EGS_TotallyAccurateBattleSimulator_LandfallGames_S3-2560x1440-5a7fa2ad3029ef94c70ca19f088ee9c3.jpg",
+      "md5": "5a7fa2ad3029ef94c70ca19f088ee9c3",
+      "size": 835452,
+      "uploadedDate": "2021-03-31T22:30:17.804Z",
       "width": 2560,
       "height": 1440
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/ffe512fa1e594ee6a75d4643d1e21b43/offer/EGS_LandfallGames_TotallyAccurateBattleSimulator_S4-510x680-bd48acab6fcbddd7cee9dfbed578af20.jpg",
-      "md5": "bd48acab6fcbddd7cee9dfbed578af20",
-      "size": 245564,
-      "uploadedDate": "2019-12-18T13:50:56.466Z",
-      "width": 510,
-      "height": 680
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ffe512fa1e594ee6a75d4643d1e21b43/offer/EGS_TotallyAccurateBattleSimulator_LandfallGames_S6-1200x1600-6c3faa0bfc6514db0630522fa628ed84.jpg",
+      "md5": "6c3faa0bfc6514db0630522fa628ed84",
+      "size": 937274,
+      "uploadedDate": "2021-03-31T22:30:14.907Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_LandfallGames_TotallyAccurateBattleSimulator_S3-1000x563-f8cd7abd6c7aebcd572e8111ab167005.jpg",
-      "md5": "f8cd7abd6c7aebcd572e8111ab167005",
-      "size": 405455,
-      "uploadedDate": "2020-02-11T09:41:44.790Z",
-      "width": 1000,
-      "height": 563
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ffe512fa1e594ee6a75d4643d1e21b43/offer/EGS_TotallyAccurateBattleSimulator_LandfallGames_S4-1200x1600-6c3faa0bfc6514db0630522fa628ed84.jpg",
+      "md5": "6c3faa0bfc6514db0630522fa628ed84",
+      "size": 937274,
+      "uploadedDate": "2021-03-31T22:30:29.254Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ffe512fa1e594ee6a75d4643d1e21b43/offer/EGS_TotallyAccurateBattleSimulator_LandfallGames_S4-1200x1600-6c3faa0bfc6514db0630522fa628ed84.jpg",
+      "md5": "6c3faa0bfc6514db0630522fa628ed84",
+      "size": 937274,
+      "uploadedDate": "2021-03-31T22:30:35.176Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/ffe512fa1e594ee6a75d4643d1e21b43/offer/EGS_TotallyAccurateBattleSimulator_LandfallGames_S3-2560x1440-5a7fa2ad3029ef94c70ca19f088ee9c3.jpg",
+      "md5": "5a7fa2ad3029ef94c70ca19f088ee9c3",
+      "size": 835452,
+      "uploadedDate": "2021-03-31T22:30:43.503Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/ffe512fa1e594ee6a75d4643d1e21b43/offer/EGS_TotallyAccurateBattleSimulator_LandfallGames_S4-1200x1600-6c3faa0bfc6514db0630522fa628ed84.jpg",
+      "md5": "6c3faa0bfc6514db0630522fa628ed84",
+      "size": 937274,
+      "uploadedDate": "2021-03-31T22:30:48.470Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [

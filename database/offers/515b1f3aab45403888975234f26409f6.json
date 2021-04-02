@@ -1,24 +1,24 @@
 {
-  "id": "51eebb8342364f4f8514359de9c6bb97",
-  "namespace": "ffe512fa1e594ee6a75d4643d1e21b43",
-  "title": "DriftfishDevAudience",
-  "description": "DriftfishDevAudience",
+  "id": "515b1f3aab45403888975234f26409f6",
+  "namespace": "3428aac705b44d88beb8334780fa33bd",
+  "title": "FarfalleGeneralAudience",
+  "description": "FarfalleGeneralAudience",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "driftfishdevaudience",
-  "creationDate": "2019-12-16T16:58:30.490Z",
-  "lastModifiedDate": "2021-04-01T18:58:40.147Z",
+  "urlSlug": "farfallegeneralaudience",
+  "creationDate": "2021-03-31T23:06:19.189Z",
+  "lastModifiedDate": "2021-04-01T17:41:08.192Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
-    "id": "o-davtxzvpdnjmd82c247y6zdxg7wabq",
-    "name": "Landfall Games"
+    "id": "o-8ykq8y3hshjj6nkjujjfwj9cfa5g6f",
+    "name": "Covalent Media dba Scavengers Studio"
   },
   "linkedOfferId": null,
   "isFeatured": false,
-  "ignoreOrder": true,
+  "ignoreOrder": false,
   "freeDays": 0,
   "collectionOfferIds": [],
   "technicalDetails": null,
@@ -49,10 +49,10 @@
   "keyImages": [],
   "items": [
     {
-      "id": "83882fcb78ed431cb13cf08a14cd9c3c"
+      "id": "6b395c842b4344f0b2aadd2bfe6b3ffa"
     }
   ],
   "catalogNs": {
-    "name": "ffe512fa1e594ee6a75d4643d1e21b43"
+    "name": "3428aac705b44d88beb8334780fa33bd"
   }
 }

@@ -7037,7 +7037,7 @@
     ],
     "Psyonix LLC",
     1616643806,
-    1616692029,
+    1617297523,
     "",
     ""
   ],
@@ -8511,6 +8511,21 @@
     1602781023,
     "https://cdn1.epicgames.com/04f58664c247401782ff01d9e245d778/offer/EGS_RajiAnAncientEpic_NoddingHeadsGames_S6-1200x1600-63da8568ac6e705e0eee87c70474342f.jpg",
     "raji-an-ancient-epic"
+  ],
+  [
+    "25deb99c9b4f4b9c8b3c3ed15aecce69",
+    "22790376176c4efc89fba3ee685203e7",
+    "Dark Alliance Deluxe Edition",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Wizards of the Coast",
+    1617056025,
+    1617375466,
+    "https://cdn1.epicgames.com/22790376176c4efc89fba3ee685203e7/offer/EGS_PrePurchaseDeluxeEdition_TuqueGames_Bundles_S2-1200x1600-af4402b7d78372a6b8529263091766b3.jpg",
+    "dark-alliance/deluxe-edition"
   ],
   [
     "25ef0c54afdd4696afeb105fd1fe052d",
@@ -11318,7 +11333,7 @@
     ],
     "Ubisoft Entertainment",
     1615322703,
-    1615992607,
+    1617378459,
     "https://cdn1.epicgames.com/19d54f4a6d7e4ba99c5caf8972fbfd02/offer/EN_HYPERSCAPE SEASON 3_PRISMA SECURITY PACK_EPIC_Store Portrait_1200x1600-1200x1600-74897036f02345f4cd3eb27871ac57ee.png",
     ""
   ],
@@ -15802,6 +15817,20 @@
     ""
   ],
   [
+    "4666b8e881664849a71d23f3ff286bbe",
+    "3428aac705b44d88beb8334780fa33bd",
+    "DevFarfalleAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "Covalent Media dba Scavengers Studio",
+    1617231979,
+    1617298868,
+    "",
+    ""
+  ],
+  [
     "4697b833d61b4046a57fc15d51fc4012",
     "dfd2530e80e4425d801913b0879be444",
     "Classic Boris Outfit",
@@ -18502,6 +18531,20 @@
     ""
   ],
   [
+    "515b1f3aab45403888975234f26409f6",
+    "3428aac705b44d88beb8334780fa33bd",
+    "FarfalleGeneralAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "Covalent Media dba Scavengers Studio",
+    1617231979,
+    1617298868,
+    "",
+    ""
+  ],
+  [
     "515ffd697e154f11ab4f21446503c954",
     "a40f6c03e1374358809ec38c999059c0",
     "Foregone Pre-Purchase",
@@ -18639,7 +18682,7 @@
     ],
     "Landfall Games",
     1576515510,
-    1577288643,
+    1617303520,
     "",
     ""
   ],
@@ -24100,9 +24143,9 @@
     ],
     "Landfall Games",
     1576515510,
-    1585791753,
-    "https://cdn1.epicgames.com/ffe512fa1e594ee6a75d4643d1e21b43/offer/EGS_LandfallGames_TotallyAccurateBattleSimulator_S1-2560x1440-6041f9e5f1e30fc01dafd9dd11999732.jpg",
-    "totally-accurate-battle-simulator/home"
+    1617303520,
+    "https://cdn1.epicgames.com/ffe512fa1e594ee6a75d4643d1e21b43/offer/EGS_TotallyAccurateBattleSimulator_LandfallGames_S4-1200x1600-6c3faa0bfc6514db0630522fa628ed84.jpg",
+    "totally-accurate-battle-simulator"
   ],
   [
     "6a6a31d423a541d68aa1f3b52ed96f98",
@@ -41347,7 +41390,7 @@
     ],
     "SEGA of Europe",
     1588603626,
-    1606168033,
+    1617298987,
     "https://cdn1.epicgames.com/c2594740866d4be69d38fcf08ef0176d/offer/EGS_FootballManager2021_SportsInteractive_S2-1200x1600-cec283ebf8ed01e535606201721115d5.jpg",
     "football-manager-2021"
   ],
@@ -42665,7 +42708,7 @@
     ],
     "Ubisoft Entertainment",
     1615320477,
-    1615992607,
+    1617378444,
     "https://cdn1.epicgames.com/19d54f4a6d7e4ba99c5caf8972fbfd02/offer/EN_HYPERSCAPE SEASON 3_STARTER PACK_EPIC_Store Portrait_1200x1600-1200x1600-a264fe46e0089e3415f9d0d3d9fcd9dc.png",
     ""
   ],
@@ -42706,7 +42749,7 @@
     ],
     "Psyonix LLC",
     1616643838,
-    1616692037,
+    1617297537,
     "",
     ""
   ],
@@ -49275,6 +49318,22 @@
     "sid-meiers-civilization-vi/civilization-and-scenario-pack-bundle"
   ],
   [
+    "dc309717a61b464a8d675f9d25e93dd6",
+    "22790376176c4efc89fba3ee685203e7",
+    "Dark Alliance",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Wizards of the Coast",
+    1614811245,
+    1617375442,
+    "https://cdn1.epicgames.com/22790376176c4efc89fba3ee685203e7/offer/EGS_DarkAlliance_TuqueGames_S4-1200x1600-5c756bdfc92cce5145253c1ce61f9a10.jpg",
+    "dark-alliance"
+  ],
+  [
     "dc522ffd3f38406bade0fd1a4b3e97ab",
     "6009be9994c2409099588cde6f3a5ed0",
     "Cities: Skylines - Deep Focus Radio",
@@ -52381,7 +52440,7 @@
     ],
     "Landfall Games",
     1585594463,
-    1596163715,
+    1617303520,
     "https://cdn1.epicgames.com/ffe512fa1e594ee6a75d4643d1e21b43/offer/EGS_BUGDLC_Landfall_DLC_G1A_00-1920x1080-7afd2f220aa7ec3cb6c11ea851b0b287.jpg",
     "totally-accurate-battle-simulator/bug-dlc"
   ],
