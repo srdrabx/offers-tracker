@@ -220,6 +220,6 @@
     }
   ],
   "catalogNs": {
-    "name": "cosmos"
+    "name": null
   }
 }
