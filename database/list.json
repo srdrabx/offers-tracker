@@ -13235,11 +13235,12 @@
     [
       "games",
       "games/edition",
+      "games/edition/base",
       "applications"
     ],
     "Electronic Arts",
     1616463404,
-    1617160859,
+    1617634698,
     "https://cdn1.epicgames.com/5bb3d43818ae4188850fe1dbad9d57a5/offer/EGS_KnockoutCity_VelanStudios_S2-1200x1600-b7df4b64f600767dc20c64e8c6eb299c.jpg",
     "knockout-city"
   ],
@@ -16325,7 +16326,7 @@
     ],
     "Epic Games Publishing",
     1614704241,
-    1614705206,
+    1617627238,
     "",
     ""
   ],
