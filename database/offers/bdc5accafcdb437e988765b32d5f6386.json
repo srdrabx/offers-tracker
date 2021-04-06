@@ -1,15 +1,15 @@
 {
   "id": "bdc5accafcdb437e988765b32d5f6386",
   "namespace": "7ad5508d382e46228056f1d1a0189ae2",
-  "title": "CTSC",
-  "description": "CTSC",
+  "title": "Crescent To Silver Crescent Upgrade",
+  "description": "Crescent To Silver Crescent Upgrade",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "path-of-exile--ctsc",
+  "urlSlug": "path-of-exile--crescent-to-silver-crescent",
   "creationDate": "2021-03-31T23:21:27.759Z",
-  "lastModifiedDate": "2021-03-31T23:21:43.845Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2021-04-06T01:52:05.487Z",
+  "effectiveDate": "2021-04-08T20:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -39,7 +39,44 @@
       "value": "Grinding Gear Games"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1920x1080_UpgradeToSilverCrescent-1920x1080-fe82a605b03df8f5fa43f7d8da828d48.png",
+      "md5": "fe82a605b03df8f5fa43f7d8da828d48",
+      "size": 2420449,
+      "uploadedDate": "2021-03-31T23:41:08.257Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_UpgradeToSilverCrescent-1200x1600-a159ccf0e9d3230f4209200da46bc515.png",
+      "md5": "a159ccf0e9d3230f4209200da46bc515",
+      "size": 2427269,
+      "uploadedDate": "2021-03-31T23:41:18.231Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_UpgradeToSilverCrescent-1200x1600-a159ccf0e9d3230f4209200da46bc515.png",
+      "md5": "a159ccf0e9d3230f4209200da46bc515",
+      "size": 2427269,
+      "uploadedDate": "2021-03-31T23:41:23.515Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_UpgradeToSilverCrescent-1200x1600-a159ccf0e9d3230f4209200da46bc515.png",
+      "md5": "a159ccf0e9d3230f4209200da46bc515",
+      "size": 2427269,
+      "uploadedDate": "2021-03-31T23:41:27.515Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "6ff0a1bacb424764988e2967b2d35ffa"

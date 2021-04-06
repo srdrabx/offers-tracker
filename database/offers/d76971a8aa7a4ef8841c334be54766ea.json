@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "monster-jam-steel-titans-2--inverse-truck-pack",
   "creationDate": "2021-02-18T21:15:34.037Z",
-  "lastModifiedDate": "2021-03-02T17:45:35.313Z",
+  "lastModifiedDate": "2021-04-06T14:25:13.378Z",
   "effectiveDate": "2021-03-02T18:00:00.000Z",
   "viewableDate": "2021-03-02T18:00:00.000Z",
   "developer": null,
@@ -111,6 +111,6 @@
     }
   ],
   "catalogNs": {
-    "name": "e65e11fc4aee4bb28c3bddf0b6d490bd"
+    "name": null
   }
 }

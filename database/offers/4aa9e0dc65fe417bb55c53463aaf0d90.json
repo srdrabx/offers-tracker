@@ -1,0 +1,116 @@
+{
+  "id": "4aa9e0dc65fe417bb55c53463aaf0d90",
+  "namespace": "e65e11fc4aee4bb28c3bddf0b6d490bd",
+  "title": "Inverse Higher Education",
+  "description": "Drive the Monster Jam 2 Steel Titans - Inverse Higher Education truck from the Spinmaster Inverse Truck Series and explore the world of Monster Jam Steel Titans 2!",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "monster-jam-steel-titans-2--inverse-higher-education",
+  "creationDate": "2021-02-18T21:17:25.070Z",
+  "lastModifiedDate": "2021-04-06T15:58:03.911Z",
+  "effectiveDate": "2021-04-06T13:00:00.000Z",
+  "viewableDate": "2021-04-06T13:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+    "name": "THQ Nordic GmbH"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "THQ Nordic"
+    },
+    {
+      "key": "developerName",
+      "value": "Rainbow Studios"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/e65e11fc4aee4bb28c3bddf0b6d490bd/offer/EGS_MonsterJam2InverseHigherEducation_RainbowStudios_DLC_S1-2560x1440-07fbef376f2c173806e17b836e7deea0.jpg",
+      "md5": "07fbef376f2c173806e17b836e7deea0",
+      "size": 745338,
+      "uploadedDate": "2021-02-18T22:01:36.898Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/e65e11fc4aee4bb28c3bddf0b6d490bd/offer/EGS_MonsterJam2InverseHigherEducation_RainbowStudios_DLC_S2-1200x1600-91e4158c6d3fd57f39fe2b7355d290a8.jpg",
+      "md5": "91e4158c6d3fd57f39fe2b7355d290a8",
+      "size": 385483,
+      "uploadedDate": "2021-02-18T22:01:48.561Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/e65e11fc4aee4bb28c3bddf0b6d490bd/offer/EGS_MonsterJam2InverseHigherEducation_RainbowStudios_DLC_S2-1200x1600-91e4158c6d3fd57f39fe2b7355d290a8.jpg",
+      "md5": "91e4158c6d3fd57f39fe2b7355d290a8",
+      "size": 385483,
+      "uploadedDate": "2021-02-18T22:02:03.631Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/e65e11fc4aee4bb28c3bddf0b6d490bd/offer/EGS_MonsterJam2InverseHigherEducation_RainbowStudios_DLC_S2-1200x1600-91e4158c6d3fd57f39fe2b7355d290a8.jpg",
+      "md5": "91e4158c6d3fd57f39fe2b7355d290a8",
+      "size": 385483,
+      "uploadedDate": "2021-02-18T22:02:16.220Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/e65e11fc4aee4bb28c3bddf0b6d490bd/offer/EGS_MonsterJam2InverseHigherEducation_RainbowStudios_DLC_S1-2560x1440-07fbef376f2c173806e17b836e7deea0.jpg",
+      "md5": "07fbef376f2c173806e17b836e7deea0",
+      "size": 745338,
+      "uploadedDate": "2021-02-18T22:02:29.795Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/e65e11fc4aee4bb28c3bddf0b6d490bd/offer/EGS_MonsterJam2InverseHigherEducation_RainbowStudios_DLC_S2-1200x1600-91e4158c6d3fd57f39fe2b7355d290a8.jpg",
+      "md5": "91e4158c6d3fd57f39fe2b7355d290a8",
+      "size": 385483,
+      "uploadedDate": "2021-02-18T22:02:39.305Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "fed5feee54274ff68a53cd407e6db702"
+    }
+  ],
+  "catalogNs": {
+    "name": null
+  }
+}

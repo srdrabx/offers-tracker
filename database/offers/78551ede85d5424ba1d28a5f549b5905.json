@@ -6,9 +6,9 @@
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": "monster-jam-steel-titans-2",
-  "urlSlug": "monster-jam-steel-titans2",
+  "urlSlug": "charliegeneralaudience",
   "creationDate": "2021-02-18T19:21:36.137Z",
-  "lastModifiedDate": "2021-03-02T17:54:22.478Z",
+  "lastModifiedDate": "2021-04-06T14:25:13.353Z",
   "effectiveDate": "2021-03-02T18:00:00.000Z",
   "viewableDate": "2021-03-02T18:00:00.000Z",
   "developer": null,
@@ -155,6 +155,6 @@
     }
   ],
   "catalogNs": {
-    "name": "e65e11fc4aee4bb28c3bddf0b6d490bd"
+    "name": null
   }
 }

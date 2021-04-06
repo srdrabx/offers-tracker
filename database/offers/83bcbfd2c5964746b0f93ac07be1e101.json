@@ -1,15 +1,15 @@
 {
   "id": "83bcbfd2c5964746b0f93ac07be1e101",
   "namespace": "7ad5508d382e46228056f1d1a0189ae2",
-  "title": "CP",
-  "description": "CP",
-  "longDescription": null,
+  "title": "Crescent Pack",
+  "description": "The Crescent Supporter Pack contains a Portal Effect, a Social Frame, a Forum Title, a Badge, the Extended Soundtrack and 250 points.",
+  "longDescription": "The Crescent Supporter Pack contains a Portal Effect, a Social Frame, a Forum Title, a Badge, the Extended Soundtrack and 250 points.",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "path-of-exile--cp",
+  "urlSlug": "path-of-exile--crescent-pack",
   "creationDate": "2021-03-31T23:19:13.039Z",
-  "lastModifiedDate": "2021-03-31T23:21:40.221Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2021-04-06T01:52:05.460Z",
+  "effectiveDate": "2021-04-08T20:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -39,7 +39,44 @@
       "value": "Grinding Gear Games"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1920x1080_Crescent-1920x1080-c374d26350b8cc978298d1e314af27af.png",
+      "md5": "c374d26350b8cc978298d1e314af27af",
+      "size": 2279837,
+      "uploadedDate": "2021-03-31T23:37:29.189Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_Crescent-1200x1600-d7e50ef40000f047258e649fe550f828.png",
+      "md5": "d7e50ef40000f047258e649fe550f828",
+      "size": 2355456,
+      "uploadedDate": "2021-03-31T23:37:46.173Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_Crescent-1200x1600-d7e50ef40000f047258e649fe550f828.png",
+      "md5": "d7e50ef40000f047258e649fe550f828",
+      "size": 2355456,
+      "uploadedDate": "2021-03-31T23:37:50.879Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_Crescent-1200x1600-d7e50ef40000f047258e649fe550f828.png",
+      "md5": "d7e50ef40000f047258e649fe550f828",
+      "size": 2355456,
+      "uploadedDate": "2021-03-31T23:37:56.769Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "6f1d2334f61c4febb6e9ca2cfa519241"

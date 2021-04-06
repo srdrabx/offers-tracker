@@ -8,8 +8,8 @@
   "productSlug": "lost-words-beyond-the-page",
   "urlSlug": "lost-words-beyond-the-page",
   "creationDate": "2021-03-08T23:57:31.617Z",
-  "lastModifiedDate": "2021-03-26T14:46:34.265Z",
-  "effectiveDate": "2050-11-26T15:00:00.000Z",
+  "lastModifiedDate": "2021-04-06T13:10:17.418Z",
+  "effectiveDate": "2021-04-06T13:00:00.000Z",
   "viewableDate": "2021-03-26T15:00:00.000Z",
   "developer": null,
   "seller": {
@@ -102,7 +102,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "[]"
+      "value": "KR"
     },
     {
       "key": "publisherName",

@@ -6,11 +6,11 @@
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": "oddworld-soulstorm",
-  "urlSlug": "larkgeneralaudience",
+  "urlSlug": "oddworld-soulstorm",
   "creationDate": "2019-08-15T17:00:00.365Z",
-  "lastModifiedDate": "2021-02-12T23:30:57.645Z",
-  "effectiveDate": "2050-01-04T16:00:00.000Z",
-  "viewableDate": "2050-01-04T16:00:00.000Z",
+  "lastModifiedDate": "2021-04-05T21:58:55.221Z",
+  "effectiveDate": "2021-04-05T22:00:00.000Z",
+  "viewableDate": "2021-04-05T22:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-wbsj4csbacqdc7e8xvdhkmmjpzm87v",
@@ -116,55 +116,55 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/e099f2abf3324d248054bf14c476fbc0/offer/EGS_OddworldSoulstorm_OddworldInhabitantsInc_S1-2560x1440-cfea6e52c2a4563585573b70e8c8e547.jpg",
-      "md5": "cfea6e52c2a4563585573b70e8c8e547",
-      "size": 964085,
-      "uploadedDate": "2020-12-10T18:14:16.213Z",
+      "url": "https://cdn1.epicgames.com/e099f2abf3324d248054bf14c476fbc0/offer/05928040-de37-4b92-92d0-732f1c6644cb-2560x1440-2560x1440-c50100957af86083f5578705c61cb903.jpeg",
+      "md5": "c50100957af86083f5578705c61cb903",
+      "size": 970270,
+      "uploadedDate": "2021-04-05T21:09:29.218Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/e099f2abf3324d248054bf14c476fbc0/offer/EGS_OddworldSoulstorm_OddworldInhabitantsInc_S2-1200x1600-bf4e7a1052f737e16db6bc3d9c603f14.jpg",
-      "md5": "bf4e7a1052f737e16db6bc3d9c603f14",
-      "size": 516584,
-      "uploadedDate": "2020-12-10T18:14:23.865Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/e099f2abf3324d248054bf14c476fbc0/offer/EGS_OddworldSoulstorm_OddworldInhabitantsInc_S2-1200x1600-bf4e7a1052f737e16db6bc3d9c603f14.jpg",
-      "md5": "bf4e7a1052f737e16db6bc3d9c603f14",
-      "size": 516584,
-      "uploadedDate": "2020-12-10T18:14:36.923Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/e099f2abf3324d248054bf14c476fbc0/offer/EGS_OddworldSoulstorm_OddworldInhabitantsInc_S2-1200x1600-bf4e7a1052f737e16db6bc3d9c603f14.jpg",
-      "md5": "bf4e7a1052f737e16db6bc3d9c603f14",
-      "size": 516584,
-      "uploadedDate": "2020-12-10T18:14:46.399Z",
+      "url": "https://cdn1.epicgames.com/e099f2abf3324d248054bf14c476fbc0/offer/10b0e448-535e-4b9c-8787-ed5f54099339-1200x1600-1200x1600-56828a3c4d0e57e139e8683d823edd6c.jpeg",
+      "md5": "56828a3c4d0e57e139e8683d823edd6c",
+      "size": 589847,
+      "uploadedDate": "2021-04-05T21:09:32.553Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/e099f2abf3324d248054bf14c476fbc0/offer/EGS_OddworldSoulstorm_OddworldInhabitantsInc_S1-2560x1440-cfea6e52c2a4563585573b70e8c8e547.jpg",
-      "md5": "cfea6e52c2a4563585573b70e8c8e547",
-      "size": 964085,
-      "uploadedDate": "2020-12-10T18:14:59.659Z",
+      "url": "https://cdn1.epicgames.com/e099f2abf3324d248054bf14c476fbc0/offer/05928040-de37-4b92-92d0-732f1c6644cb-2560x1440-2560x1440-c50100957af86083f5578705c61cb903.jpeg",
+      "md5": "c50100957af86083f5578705c61cb903",
+      "size": 970270,
+      "uploadedDate": "2021-04-05T21:09:49.811Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/e099f2abf3324d248054bf14c476fbc0/offer/EGS_OddworldSoulstorm_OddworldInhabitantsInc_S2-1200x1600-bf4e7a1052f737e16db6bc3d9c603f14.jpg",
-      "md5": "bf4e7a1052f737e16db6bc3d9c603f14",
-      "size": 516584,
-      "uploadedDate": "2020-12-10T18:15:09.432Z",
+      "url": "https://cdn1.epicgames.com/e099f2abf3324d248054bf14c476fbc0/offer/10b0e448-535e-4b9c-8787-ed5f54099339-1200x1600-1200x1600-56828a3c4d0e57e139e8683d823edd6c.jpeg",
+      "md5": "56828a3c4d0e57e139e8683d823edd6c",
+      "size": 589847,
+      "uploadedDate": "2021-04-05T21:09:52.678Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/e099f2abf3324d248054bf14c476fbc0/offer/10b0e448-535e-4b9c-8787-ed5f54099339-1200x1600-1200x1600-56828a3c4d0e57e139e8683d823edd6c.jpeg",
+      "md5": "56828a3c4d0e57e139e8683d823edd6c",
+      "size": 589847,
+      "uploadedDate": "2021-04-05T21:10:05.124Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/e099f2abf3324d248054bf14c476fbc0/offer/10b0e448-535e-4b9c-8787-ed5f54099339-1200x1600-1200x1600-56828a3c4d0e57e139e8683d823edd6c.jpeg",
+      "md5": "56828a3c4d0e57e139e8683d823edd6c",
+      "size": 589847,
+      "uploadedDate": "2021-04-05T21:10:07.944Z",
       "width": 1200,
       "height": 1600
     }
@@ -174,5 +174,7 @@
       "id": "992d66bca7aa4319966e5c510df7bdcc"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": null
+  }
 }

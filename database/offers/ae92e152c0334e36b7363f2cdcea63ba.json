@@ -2,13 +2,13 @@
   "id": "ae92e152c0334e36b7363f2cdcea63ba",
   "namespace": "catnip",
   "title": "Borderlands 3: Season Pass 2",
-  "description": "Borderlands 3: Season Pass 2",
-  "longDescription": "",
+  "description": "Enhance Borderlands 3 with the content add-ons of Season Pass 2, featuring new modes and missions, a 4th skill tree for each Vault Hunter, and unique cosmetic outfits!",
+  "longDescription": "Season Pass 2 includes:\n• Designer's Cut content add-on, featuring brand new mode 'Arms Race' and an additional skill tree for each Vault Hunter\n• Director's Cut content add-on, with details to be announced\n• All 4 Multiverse Final Form Cosmetic Packs\n\nEnhance Borderlands 3 with the content add-ons of Season Pass 2, featuring new modes and missions, a 4th skill tree for each Vault Hunter, and unique cosmetic outfits! \nThis content is included with purchase of the Borderlands 3 Ultimate Edition. Requires Borderlands 3 to play.\n\nANNOUNCED CONTENT ADD-ON DETAILS:\n\nDesigner's Cut\nIncludes Arms Race mode, an endlessly replayable gauntlet challenging you to gear up your Vault Hunter from scratch.\n\nOutside of Arms Race mode, owning Designer's Cut grants access to an additional skill tree for each Vault Hunter character class.\n\nMultiverse Final Form Cosmetic Packs\nIncludes a Multiverse Final Form Cosmetic Pack for every playable character, including Amara, FL4K, Moze, and Zane.\n\nIncorporates 3rd-party DRM: Denuvo Anti-Tamper\n\nUse of this product requires agreement to the following third party end user license agreement: <http://www.take2games.com/eula/>",
   "status": "ACTIVE",
   "productSlug": "borderlands-3/season-pass-02",
   "urlSlug": "borderlands-3--season-pass-02",
   "creationDate": "2020-08-18T20:44:01.312Z",
-  "lastModifiedDate": "2021-02-11T16:12:38.068Z",
+  "lastModifiedDate": "2021-04-05T22:20:23.239Z",
   "effectiveDate": "2020-11-09T13:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -233,6 +233,6 @@
     }
   ],
   "catalogNs": {
-    "name": "catnip"
+    "name": null
   }
 }
