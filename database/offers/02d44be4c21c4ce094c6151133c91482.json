@@ -8,7 +8,7 @@
   "productSlug": "rocket-league",
   "urlSlug": "rocket-league",
   "creationDate": "2019-07-17T15:21:47.960Z",
-  "lastModifiedDate": "2020-12-09T16:06:02.775Z",
+  "lastModifiedDate": "2021-04-07T15:00:41.687Z",
   "effectiveDate": "2020-09-23T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -164,57 +164,57 @@
   "keyImages": [
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeague_PsyonixLLC_S2-1200x1600-e88d925b8a58d32bfce43a3fc7c98a5b.jpg",
-      "md5": "e88d925b8a58d32bfce43a3fc7c98a5b",
-      "size": 422824,
-      "uploadedDate": "2020-12-09T16:04:40.992Z",
+      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeague_PsyonixLLC_S2-1200x1600-94b99fd67ae08c9d640f2d228991ae19.jpg",
+      "md5": "94b99fd67ae08c9d640f2d228991ae19",
+      "size": 886735,
+      "uploadedDate": "2021-04-07T14:59:44.714Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeague_PsyonixLLC_S1-2560x1440-3e8d9fb9e7affd51694726a2e2049111.jpg",
-      "md5": "3e8d9fb9e7affd51694726a2e2049111",
-      "size": 806401,
-      "uploadedDate": "2020-12-09T16:04:35.862Z",
+      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeague_PsyonixLLC_S1-2560x1440-e9dc9ecfd5a872841615d15ba04600a6.jpg",
+      "md5": "e9dc9ecfd5a872841615d15ba04600a6",
+      "size": 954729,
+      "uploadedDate": "2021-04-07T14:59:51.798Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeague_PsyonixLLC_S2-1200x1600-e88d925b8a58d32bfce43a3fc7c98a5b.jpg",
-      "md5": "e88d925b8a58d32bfce43a3fc7c98a5b",
-      "size": 422824,
-      "uploadedDate": "2020-12-09T16:05:09.793Z",
+      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeague_PsyonixLLC_S2-1200x1600-94b99fd67ae08c9d640f2d228991ae19.jpg",
+      "md5": "94b99fd67ae08c9d640f2d228991ae19",
+      "size": 886735,
+      "uploadedDate": "2021-04-07T14:59:58.684Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeague_PsyonixLLC_S2-1200x1600-e88d925b8a58d32bfce43a3fc7c98a5b.jpg",
-      "md5": "e88d925b8a58d32bfce43a3fc7c98a5b",
-      "size": 422824,
-      "uploadedDate": "2020-12-09T16:05:18.106Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeague_PsyonixLLC_S2-1200x1600-e88d925b8a58d32bfce43a3fc7c98a5b.jpg",
-      "md5": "e88d925b8a58d32bfce43a3fc7c98a5b",
-      "size": 422824,
-      "uploadedDate": "2020-12-09T16:05:39.647Z",
+      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeague_PsyonixLLC_S2-1200x1600-94b99fd67ae08c9d640f2d228991ae19.jpg",
+      "md5": "94b99fd67ae08c9d640f2d228991ae19",
+      "size": 886735,
+      "uploadedDate": "2021-04-07T15:00:04.729Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeague_PsyonixLLC_S1-2560x1440-3e8d9fb9e7affd51694726a2e2049111.jpg",
-      "md5": "3e8d9fb9e7affd51694726a2e2049111",
-      "size": 806401,
-      "uploadedDate": "2020-12-09T16:05:45.393Z",
+      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeague_PsyonixLLC_S1-2560x1440-e9dc9ecfd5a872841615d15ba04600a6.jpg",
+      "md5": "e9dc9ecfd5a872841615d15ba04600a6",
+      "size": 954729,
+      "uploadedDate": "2021-04-07T15:00:12.795Z",
       "width": 2560,
       "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeague_PsyonixLLC_S2-1200x1600-94b99fd67ae08c9d640f2d228991ae19.jpg",
+      "md5": "94b99fd67ae08c9d640f2d228991ae19",
+      "size": 886735,
+      "uploadedDate": "2021-04-07T15:00:19.703Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [
@@ -223,6 +223,6 @@
     }
   ],
   "catalogNs": {
-    "name": null
+    "name": "9773aa1aa54f4f7b80e44bef04986cea"
   }
 }
