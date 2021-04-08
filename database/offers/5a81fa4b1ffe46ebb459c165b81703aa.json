@@ -5,10 +5,10 @@
   "description": "Maverick Pack",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "thecycle/maverick-pack",
+  "productSlug": null,
   "urlSlug": "founders-pack-03",
   "creationDate": "2020-02-21T16:18:02.327Z",
-  "lastModifiedDate": "2020-11-26T16:10:36.100Z",
+  "lastModifiedDate": "2021-04-08T16:05:28.125Z",
   "effectiveDate": "2019-06-14T17:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -53,10 +53,6 @@
     {
       "key": "developerName",
       "value": "YAGER"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "thecycle/maverick-pack"
     }
   ],
   "keyImages": [
@@ -84,15 +80,6 @@
       "md5": "5a0781512cd5d376bc6c7a1a7a70accd",
       "size": 837530,
       "uploadedDate": "2020-02-26T02:42:45.417Z",
-      "width": 672,
-      "height": 1104
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/azalea/offer/UI_Art_StarterPacks_S-672x1104-5a0781512cd5d376bc6c7a1a7a70accd-672x1104-5a0781512cd5d376bc6c7a1a7a70accd.png",
-      "md5": "5a0781512cd5d376bc6c7a1a7a70accd",
-      "size": 837530,
-      "uploadedDate": "2020-11-26T16:09:12.547Z",
       "width": 672,
       "height": 1104
     }

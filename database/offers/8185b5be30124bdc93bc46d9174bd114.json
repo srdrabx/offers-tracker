@@ -8,7 +8,7 @@
   "productSlug": "spellbreak",
   "urlSlug": "spellbreak",
   "creationDate": "2020-08-13T16:58:00.661Z",
-  "lastModifiedDate": "2021-03-25T15:49:16.502Z",
+  "lastModifiedDate": "2021-04-08T13:57:27.092Z",
   "effectiveDate": "2020-09-03T13:55:00.000Z",
   "viewableDate": "2020-09-03T14:00:00.000Z",
   "developer": null,
@@ -63,18 +63,6 @@
       "comment": null
     },
     {
-      "id": "1156",
-      "name": "Battle Royale",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:36.154Z",
-      "updated": "2021-02-05T16:12:02.791Z",
-      "status": "ACTIVE",
-      "referenceCount": 2,
-      "comment": null
-    },
-    {
       "id": "1367",
       "name": "RPG",
       "namespace": "epic",
@@ -105,7 +93,7 @@
       "aliases": [],
       "operator": null,
       "created": "2021-03-10T09:37:21.403Z",
-      "updated": "2021-03-25T14:59:17.162Z",
+      "updated": "2021-04-08T14:59:39.138Z",
       "status": "ACTIVE",
       "referenceCount": 618,
       "comment": ""
@@ -128,55 +116,55 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/newt/offer/EGS_Spellbreak_ProletariatInc_S5-1920x1080-256f590bad9f869587c0be7b358853fc.jpg",
-      "md5": "256f590bad9f869587c0be7b358853fc",
-      "size": 640356,
-      "uploadedDate": "2020-08-25T12:32:23.005Z",
+      "url": "https://cdn1.epicgames.com/newt/offer/landscape-1920x1080-92d41dbbb4442dffb6fbd72e4204faf8.jpg",
+      "md5": "92d41dbbb4442dffb6fbd72e4204faf8",
+      "size": 859627,
+      "uploadedDate": "2021-04-07T16:53:34.255Z",
       "width": 1920,
       "height": 1080
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/newt/offer/EGS_Spellbreak_ProletariatInc_S6-1200x1600-8cf5fbf5533eb5644cec429a257b6b69.jpg",
-      "md5": "8cf5fbf5533eb5644cec429a257b6b69",
-      "size": 977340,
-      "uploadedDate": "2020-08-25T12:32:30.520Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/newt/offer/EGS_Spellbreak_ProletariatInc_S5-1920x1080-256f590bad9f869587c0be7b358853fc.jpg",
-      "md5": "256f590bad9f869587c0be7b358853fc",
-      "size": 640356,
-      "uploadedDate": "2020-08-25T12:32:40.411Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/newt/offer/EGS_Spellbreak_ProletariatInc_S6-1200x1600-8cf5fbf5533eb5644cec429a257b6b69.jpg",
-      "md5": "8cf5fbf5533eb5644cec429a257b6b69",
-      "size": 977340,
-      "uploadedDate": "2020-08-25T12:32:49.431Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/newt/offer/EGS_Spellbreak_ProletariatInc_S6-1200x1600-8cf5fbf5533eb5644cec429a257b6b69.jpg",
-      "md5": "8cf5fbf5533eb5644cec429a257b6b69",
-      "size": 977340,
-      "uploadedDate": "2020-08-25T12:33:00.261Z",
+      "url": "https://cdn1.epicgames.com/newt/offer/portrait-1200x1600-f77dfec5abd305765cf8afdfdcfec3c7.jpg",
+      "md5": "f77dfec5abd305765cf8afdfdcfec3c7",
+      "size": 989776,
+      "uploadedDate": "2021-04-07T16:55:03.018Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/newt/offer/EGS_Spellbreak_ProletariatInc_S6-1200x1600-8cf5fbf5533eb5644cec429a257b6b69.jpg",
-      "md5": "8cf5fbf5533eb5644cec429a257b6b69",
-      "size": 977340,
-      "uploadedDate": "2020-08-25T12:33:09.693Z",
+      "url": "https://cdn1.epicgames.com/newt/offer/portrait-1200x1600-f77dfec5abd305765cf8afdfdcfec3c7.jpg",
+      "md5": "f77dfec5abd305765cf8afdfdcfec3c7",
+      "size": 989776,
+      "uploadedDate": "2021-04-07T16:55:15.038Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/newt/offer/portrait-1200x1600-f77dfec5abd305765cf8afdfdcfec3c7.jpg",
+      "md5": "f77dfec5abd305765cf8afdfdcfec3c7",
+      "size": 989776,
+      "uploadedDate": "2021-04-07T16:55:22.198Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/newt/offer/landscape-1920x1080-92d41dbbb4442dffb6fbd72e4204faf8.jpg",
+      "md5": "92d41dbbb4442dffb6fbd72e4204faf8",
+      "size": 859627,
+      "uploadedDate": "2021-04-07T16:55:30.885Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/newt/offer/portrait-1200x1600-f77dfec5abd305765cf8afdfdcfec3c7.jpg",
+      "md5": "f77dfec5abd305765cf8afdfdcfec3c7",
+      "size": 989776,
+      "uploadedDate": "2021-04-07T16:55:41.536Z",
       "width": 1200,
       "height": 1600
     }

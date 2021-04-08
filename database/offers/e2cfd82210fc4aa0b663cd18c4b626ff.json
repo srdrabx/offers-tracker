@@ -8,7 +8,7 @@
   "productSlug": "hitman-3/deluxe-edition",
   "urlSlug": "hitman-3-deluxe-edition",
   "creationDate": "2020-02-05T17:38:24.817Z",
-  "lastModifiedDate": "2021-01-30T16:00:52.738Z",
+  "lastModifiedDate": "2021-04-08T08:23:53.937Z",
   "effectiveDate": "2021-01-20T13:00:00.000Z",
   "viewableDate": "2021-01-20T13:00:00.000Z",
   "developer": null,
@@ -46,6 +46,18 @@
       "status": "ACTIVE",
       "referenceCount": 110,
       "comment": null
+    },
+    {
+      "id": "15760",
+      "name": "Sale extension Hitman 3",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-04-08T08:14:23.256Z",
+      "updated": "2021-04-08T15:00:09.221Z",
+      "status": "ACTIVE",
+      "referenceCount": 1,
+      "comment": ""
     },
     {
       "id": "1370",
@@ -102,7 +114,7 @@
       "aliases": [],
       "operator": null,
       "created": "2021-03-10T09:37:21.403Z",
-      "updated": "2021-03-25T14:59:17.162Z",
+      "updated": "2021-04-08T14:59:39.138Z",
       "status": "ACTIVE",
       "referenceCount": 618,
       "comment": ""

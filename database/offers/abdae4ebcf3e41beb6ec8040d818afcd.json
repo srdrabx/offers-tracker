@@ -1,0 +1,168 @@
+{
+  "id": "abdae4ebcf3e41beb6ec8040d818afcd",
+  "namespace": "e5decf71f325458b92653616ee98682a",
+  "title": "Deponia: The Complete Journey",
+  "description": "Deponia: The Complete Journey",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "deponia-the-complete-journey",
+  "urlSlug": "ghoulgeneralaudience",
+  "creationDate": "2021-03-10T03:59:54.579Z",
+  "lastModifiedDate": "2021-04-08T15:07:19.682Z",
+  "effectiveDate": "2021-04-15T15:00:00.000Z",
+  "viewableDate": "2021-04-08T14:25:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+    "name": "Daedalic Entertainment"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "freegames"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1298",
+      "name": "Puzzle",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2021-02-10T17:34:06.225Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1116",
+      "name": "Comedy",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.126Z",
+      "updated": "2021-02-05T16:17:33.152Z",
+      "status": "ACTIVE",
+      "referenceCount": 8,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2021-02-10T17:35:47.790Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Daedalic Entertainment"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "deponia-the-complete-journey"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/e5decf71f325458b92653616ee98682a/offer/EGS_DeponiaTheCompleteJourney_DaedalicEntertainment_S3-2560x1440-df5c473a8d8af12e7f863ee0427c0548.jpg",
+      "md5": "df5c473a8d8af12e7f863ee0427c0548",
+      "size": 796443,
+      "uploadedDate": "2021-04-06T20:23:41.897Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/e5decf71f325458b92653616ee98682a/offer/EGS_DeponiaTheCompleteJourney_DaedalicEntertainment_S4-1200x1600-f8cfe09916adfed9f6cf129febd48a6f.jpg",
+      "md5": "f8cfe09916adfed9f6cf129febd48a6f",
+      "size": 515505,
+      "uploadedDate": "2021-04-06T20:23:52.207Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/e5decf71f325458b92653616ee98682a/offer/EGS_DeponiaTheCompleteJourney_DaedalicEntertainment_S4-1200x1600-f8cfe09916adfed9f6cf129febd48a6f.jpg",
+      "md5": "f8cfe09916adfed9f6cf129febd48a6f",
+      "size": 515505,
+      "uploadedDate": "2021-04-06T20:24:00.524Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/e5decf71f325458b92653616ee98682a/offer/EGS_DeponiaTheCompleteJourney_DaedalicEntertainment_S4-1200x1600-f8cfe09916adfed9f6cf129febd48a6f.jpg",
+      "md5": "f8cfe09916adfed9f6cf129febd48a6f",
+      "size": 515505,
+      "uploadedDate": "2021-04-06T20:24:24.788Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/e5decf71f325458b92653616ee98682a/offer/EGS_DeponiaTheCompleteJourney_DaedalicEntertainment_S3-2560x1440-df5c473a8d8af12e7f863ee0427c0548.jpg",
+      "md5": "df5c473a8d8af12e7f863ee0427c0548",
+      "size": 796443,
+      "uploadedDate": "2021-04-06T20:24:38.405Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/e5decf71f325458b92653616ee98682a/offer/EGS_DeponiaTheCompleteJourney_DaedalicEntertainment_S4-1200x1600-f8cfe09916adfed9f6cf129febd48a6f.jpg",
+      "md5": "f8cfe09916adfed9f6cf129febd48a6f",
+      "size": 515505,
+      "uploadedDate": "2021-04-06T20:24:47.914Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "af0233e4d7724f78a5679a0a28b87839"
+    }
+  ],
+  "catalogNs": {
+    "name": "e5decf71f325458b92653616ee98682a"
+  }
+}

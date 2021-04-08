@@ -8,7 +8,7 @@
   "productSlug": "dauntless/home",
   "urlSlug": "jackalgeneralaudience",
   "creationDate": "2019-01-28T20:47:51.249Z",
-  "lastModifiedDate": "2020-12-03T19:02:04.790Z",
+  "lastModifiedDate": "2021-04-08T15:54:01.437Z",
   "effectiveDate": "2019-04-30T16:00:00.000Z",
   "viewableDate": "2019-01-30T13:20:00.000Z",
   "developer": null,
@@ -115,58 +115,58 @@
   ],
   "keyImages": [
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/jackal/offer/Epic_DauntlessS12b_FullGame_Portrait-1200x1600-0374f18202d120b68a1074363b0ed20c.jpg",
-      "md5": "0374f18202d120b68a1074363b0ed20c",
-      "size": 355327,
-      "uploadedDate": "2021-03-05T01:23:03.767Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/jackal/offer/Epic_DauntlessS12b_FullGame_Landscape-2560x1440-5878b23c587f83a1ca53cc8f53ebfe2c.jpg",
-      "md5": "5878b23c587f83a1ca53cc8f53ebfe2c",
-      "size": 750917,
-      "uploadedDate": "2021-03-05T01:23:14.761Z",
+      "url": "https://cdn1.epicgames.com/jackal/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S1-2560x1440-8f35f9e5cdfa3daad87f1ec4431792c8.jpg",
+      "md5": "8f35f9e5cdfa3daad87f1ec4431792c8",
+      "size": 548842,
+      "uploadedDate": "2021-04-07T02:46:59.488Z",
       "width": 2560,
       "height": 1440
     },
     {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/jackal/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S2-1200x1600-225f94f54cac194d2238509f981d8ecd.jpg",
+      "md5": "225f94f54cac194d2238509f981d8ecd",
+      "size": 360840,
+      "uploadedDate": "2021-04-07T02:47:04.257Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/jackal/offer/Epic_DauntlessS12b_FullGame_Portrait-1200x1600-0374f18202d120b68a1074363b0ed20c.jpg",
-      "md5": "0374f18202d120b68a1074363b0ed20c",
-      "size": 355327,
-      "uploadedDate": "2021-03-05T01:23:30.185Z",
+      "url": "https://cdn1.epicgames.com/jackal/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S2-1200x1600-225f94f54cac194d2238509f981d8ecd.jpg",
+      "md5": "225f94f54cac194d2238509f981d8ecd",
+      "size": 360840,
+      "uploadedDate": "2021-04-07T02:47:10.418Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/jackal/offer/Epic_DauntlessS12b_FullGame_Portrait-1200x1600-0374f18202d120b68a1074363b0ed20c.jpg",
-      "md5": "0374f18202d120b68a1074363b0ed20c",
-      "size": 355327,
-      "uploadedDate": "2021-03-05T01:23:37.389Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/jackal/offer/Epic_DauntlessS12b_FullGame_Portrait-1200x1600-0374f18202d120b68a1074363b0ed20c.jpg",
-      "md5": "0374f18202d120b68a1074363b0ed20c",
-      "size": 355327,
-      "uploadedDate": "2021-03-05T01:23:49.087Z",
+      "url": "https://cdn1.epicgames.com/jackal/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S2-1200x1600-225f94f54cac194d2238509f981d8ecd.jpg",
+      "md5": "225f94f54cac194d2238509f981d8ecd",
+      "size": 360840,
+      "uploadedDate": "2021-04-07T02:47:16.084Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/jackal/offer/Epic_DauntlessS12b_FullGame_Landscape-2560x1440-5878b23c587f83a1ca53cc8f53ebfe2c.jpg",
-      "md5": "5878b23c587f83a1ca53cc8f53ebfe2c",
-      "size": 750917,
-      "uploadedDate": "2021-03-05T01:23:56.360Z",
+      "url": "https://cdn1.epicgames.com/jackal/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S1-2560x1440-8f35f9e5cdfa3daad87f1ec4431792c8.jpg",
+      "md5": "8f35f9e5cdfa3daad87f1ec4431792c8",
+      "size": 548842,
+      "uploadedDate": "2021-04-07T02:47:22.631Z",
       "width": 2560,
       "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/jackal/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S2-1200x1600-225f94f54cac194d2238509f981d8ecd.jpg",
+      "md5": "225f94f54cac194d2238509f981d8ecd",
+      "size": 360840,
+      "uploadedDate": "2021-04-07T02:47:27.170Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [

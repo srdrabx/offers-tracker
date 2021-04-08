@@ -8,7 +8,7 @@
   "productSlug": "football-manager-2021",
   "urlSlug": "football-manager-03",
   "creationDate": "2020-05-04T14:47:06.188Z",
-  "lastModifiedDate": "2021-04-01T17:43:07.493Z",
+  "lastModifiedDate": "2021-04-08T07:46:11.295Z",
   "effectiveDate": "2020-11-23T22:00:00.000Z",
   "viewableDate": "2020-11-23T22:00:00.000Z",
   "developer": null,
@@ -61,6 +61,18 @@
       "status": "ACTIVE",
       "referenceCount": 2,
       "comment": null
+    },
+    {
+      "id": "15735",
+      "name": "Football Manager 2021 Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-04-06T10:07:18.424Z",
+      "updated": "2021-04-08T15:00:20.189Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": ""
     },
     {
       "id": "1370",

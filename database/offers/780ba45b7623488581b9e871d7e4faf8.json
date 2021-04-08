@@ -8,7 +8,7 @@
   "productSlug": "thecycle/maverick-pack",
   "urlSlug": "test-pack",
   "creationDate": "2020-04-10T21:50:11.434Z",
-  "lastModifiedDate": "2020-09-02T18:24:32.671Z",
+  "lastModifiedDate": "2021-04-08T16:05:28.235Z",
   "effectiveDate": "2020-04-30T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -25,7 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "addons"
+    },
+    {
       "path": "games"
+    },
+    {
+      "path": "addons/durable"
     },
     {
       "path": "applications"

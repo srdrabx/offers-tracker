@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "thecycle--rogue-starter-pack",
   "creationDate": "2020-06-11T19:43:37.762Z",
-  "lastModifiedDate": "2020-08-19T11:55:26.367Z",
+  "lastModifiedDate": "2021-04-08T16:05:28.355Z",
   "effectiveDate": "2020-07-08T12:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -93,6 +93,18 @@
       "updated": "2021-02-10T17:34:46.127Z",
       "status": "ACTIVE",
       "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
       "comment": null
     },
     {
