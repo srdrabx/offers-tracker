@@ -8,7 +8,7 @@
   "productSlug": "borderlands-3/season-pass",
   "urlSlug": "borderlands-3--season-pass",
   "creationDate": "2019-09-11T16:52:41.200Z",
-  "lastModifiedDate": "2021-03-25T15:40:23.805Z",
+  "lastModifiedDate": "2021-04-08T16:59:51.273Z",
   "effectiveDate": "2019-09-11T12:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -60,18 +60,6 @@
       "comment": null
     },
     {
-      "id": "1210",
-      "name": "Shooter",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:02.690Z",
-      "updated": "2021-02-10T17:34:46.127Z",
-      "status": "ACTIVE",
-      "referenceCount": 28,
-      "comment": null
-    },
-    {
       "id": "1370",
       "name": "Single Player",
       "namespace": "epic",
@@ -93,21 +81,6 @@
       "updated": "2021-02-05T16:07:21.852Z",
       "status": "ACTIVE",
       "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "9548",
-      "name": "OSX",
-      "namespace": "epic",
-      "aliases": [
-        "OS X",
-        "MAC OS"
-      ],
-      "operator": null,
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2020-09-15T18:08:53.889Z",
-      "status": "ACTIVE",
-      "referenceCount": 48,
       "comment": null
     },
     {

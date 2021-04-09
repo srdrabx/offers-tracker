@@ -8,9 +8,9 @@
   "productSlug": null,
   "urlSlug": "path-of-exile--crescent-to-silver-crescent",
   "creationDate": "2021-03-31T23:21:27.759Z",
-  "lastModifiedDate": "2021-04-06T01:52:05.487Z",
+  "lastModifiedDate": "2021-04-08T20:03:21.000Z",
   "effectiveDate": "2021-04-08T20:00:00.000Z",
-  "viewableDate": null,
+  "viewableDate": "2021-04-08T20:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-hjnk7yyxh7s2pm8k5dhxnubswnbler",
@@ -41,38 +41,38 @@
   ],
   "keyImages": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1920x1080_UpgradeToSilverCrescent-1920x1080-fe82a605b03df8f5fa43f7d8da828d48.png",
-      "md5": "fe82a605b03df8f5fa43f7d8da828d48",
-      "size": 2420449,
-      "uploadedDate": "2021-03-31T23:41:08.257Z",
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1920x1080_UpgradeToSilverCrescent-1920x1080-45adafb82d616ce3dc8bda5a9e245b66.png",
+      "md5": "45adafb82d616ce3dc8bda5a9e245b66",
+      "size": 2404298,
+      "uploadedDate": "2021-04-08T19:59:42.493Z",
       "width": 1920,
       "height": 1080
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_UpgradeToSilverCrescent-1200x1600-a159ccf0e9d3230f4209200da46bc515.png",
-      "md5": "a159ccf0e9d3230f4209200da46bc515",
-      "size": 2427269,
-      "uploadedDate": "2021-03-31T23:41:18.231Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_UpgradeToSilverCrescent-1200x1600-a159ccf0e9d3230f4209200da46bc515.png",
-      "md5": "a159ccf0e9d3230f4209200da46bc515",
-      "size": 2427269,
-      "uploadedDate": "2021-03-31T23:41:23.515Z",
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_UpgradeToSilverCrescent-1200x1600-955a54084380bf716fb656658838baca.png",
+      "md5": "955a54084380bf716fb656658838baca",
+      "size": 2399912,
+      "uploadedDate": "2021-04-08T19:59:48.208Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_UpgradeToSilverCrescent-1200x1600-a159ccf0e9d3230f4209200da46bc515.png",
-      "md5": "a159ccf0e9d3230f4209200da46bc515",
-      "size": 2427269,
-      "uploadedDate": "2021-03-31T23:41:27.515Z",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_UpgradeToSilverCrescent-1200x1600-955a54084380bf716fb656658838baca.png",
+      "md5": "955a54084380bf716fb656658838baca",
+      "size": 2399912,
+      "uploadedDate": "2021-04-08T19:59:51.795Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_UpgradeToSilverCrescent-1200x1600-955a54084380bf716fb656658838baca.png",
+      "md5": "955a54084380bf716fb656658838baca",
+      "size": 2399912,
+      "uploadedDate": "2021-04-08T19:59:55.255Z",
       "width": 1200,
       "height": 1600
     }

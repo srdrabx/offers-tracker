@@ -8,9 +8,9 @@
   "productSlug": null,
   "urlSlug": "path-of-exile--silver-crescent-pack",
   "creationDate": "2021-03-31T23:22:58.887Z",
-  "lastModifiedDate": "2021-04-06T01:52:05.476Z",
+  "lastModifiedDate": "2021-04-08T20:43:30.265Z",
   "effectiveDate": "2021-04-08T20:00:00.000Z",
-  "viewableDate": null,
+  "viewableDate": "2021-04-08T20:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-hjnk7yyxh7s2pm8k5dhxnubswnbler",
@@ -24,6 +24,12 @@
   "technicalDetails": null,
   "recurrence": "ONCE",
   "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/consumable"
+    },
     {
       "path": "applications"
     }
@@ -41,38 +47,38 @@
   ],
   "keyImages": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1920x1080_SilverCrescent-1920x1080-1c84723a8b835ccd482843c8629bca73.png",
-      "md5": "1c84723a8b835ccd482843c8629bca73",
-      "size": 2555511,
-      "uploadedDate": "2021-04-01T00:05:08.470Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_SilverCrescent-1200x1600-d1aa9c1294e517ccabe8d0075e718f75.png",
-      "md5": "d1aa9c1294e517ccabe8d0075e718f75",
-      "size": 2680045,
-      "uploadedDate": "2021-04-01T00:05:18.972Z",
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_SilverCrescent-1200x1600-b4287e0c09e796bdca47ceacdb69bb9f.png",
+      "md5": "b4287e0c09e796bdca47ceacdb69bb9f",
+      "size": 2727167,
+      "uploadedDate": "2021-04-08T19:58:50.936Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_SilverCrescent-1200x1600-d1aa9c1294e517ccabe8d0075e718f75.png",
-      "md5": "d1aa9c1294e517ccabe8d0075e718f75",
-      "size": 2680045,
-      "uploadedDate": "2021-04-01T00:05:34.120Z",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_SilverCrescent-1200x1600-b4287e0c09e796bdca47ceacdb69bb9f.png",
+      "md5": "b4287e0c09e796bdca47ceacdb69bb9f",
+      "size": 2727167,
+      "uploadedDate": "2021-04-08T19:58:54.886Z",
       "width": 1200,
       "height": 1600
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_SilverCrescent-1200x1600-d1aa9c1294e517ccabe8d0075e718f75.png",
-      "md5": "d1aa9c1294e517ccabe8d0075e718f75",
-      "size": 2680045,
-      "uploadedDate": "2021-04-01T00:05:39.293Z",
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1920x1080_SilverCrescent-1920x1080-78be98cef03aed0f456be284044299b4.png",
+      "md5": "78be98cef03aed0f456be284044299b4",
+      "size": 2565328,
+      "uploadedDate": "2021-04-08T20:43:20.012Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_SilverCrescent-1200x1600-b4287e0c09e796bdca47ceacdb69bb9f.png",
+      "md5": "b4287e0c09e796bdca47ceacdb69bb9f",
+      "size": 2727167,
+      "uploadedDate": "2021-04-08T20:43:26.411Z",
       "width": 1200,
       "height": 1600
     }

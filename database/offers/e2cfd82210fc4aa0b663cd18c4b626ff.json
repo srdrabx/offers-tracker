@@ -8,7 +8,7 @@
   "productSlug": "hitman-3/deluxe-edition",
   "urlSlug": "hitman-3-deluxe-edition",
   "creationDate": "2020-02-05T17:38:24.817Z",
-  "lastModifiedDate": "2021-04-08T08:23:53.937Z",
+  "lastModifiedDate": "2021-04-08T16:51:14.532Z",
   "effectiveDate": "2021-01-20T13:00:00.000Z",
   "viewableDate": "2021-01-20T13:00:00.000Z",
   "developer": null,
@@ -54,9 +54,9 @@
       "aliases": [],
       "operator": null,
       "created": "2021-04-08T08:14:23.256Z",
-      "updated": "2021-04-08T15:00:09.221Z",
+      "updated": "2021-04-08T16:51:38.030Z",
       "status": "ACTIVE",
-      "referenceCount": 1,
+      "referenceCount": 2,
       "comment": ""
     },
     {

@@ -1192,7 +1192,7 @@
     "aliases": [],
     "operator": null,
     "created": "2021-04-06T10:07:18.424Z",
-    "updated": "2021-04-08T15:00:20.189Z",
+    "updated": "2021-04-08T16:51:47.937Z",
     "status": "ACTIVE",
     "referenceCount": 2,
     "comment": ""
@@ -1204,9 +1204,9 @@
     "aliases": [],
     "operator": null,
     "created": "2021-04-08T08:14:23.256Z",
-    "updated": "2021-04-08T15:00:09.221Z",
+    "updated": "2021-04-08T16:51:38.030Z",
     "status": "ACTIVE",
-    "referenceCount": 1,
+    "referenceCount": 2,
     "comment": ""
   }
 }

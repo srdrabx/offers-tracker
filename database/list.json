@@ -1003,7 +1003,7 @@
     ],
     "2K Games, Inc.",
     1604603824,
-    1616686850,
+    1617918709,
     "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_UL_ED_EPIC_Portrait_860x1148-860x1148-c040cc358321cd1fb63e6647be0ccb3c.jpg",
     "borderlands-3/ultimate-edition"
   ],
@@ -1385,7 +1385,7 @@
     ],
     "2K Games, Inc.",
     1597786832,
-    1617661223,
+    1617901191,
     "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_FINALFORM_AMARA_EPIC_1200X1600-1200x1600-017cdf09de5360ae0810392a921e8868.jpg",
     "borderlands-3/multiverse-final-form-amara-cosmetic-pack"
   ],
@@ -12418,6 +12418,21 @@
     ""
   ],
   [
+    "3714f313f3ec421aa0cb8fb4c0589e71",
+    "catnip",
+    "Borderlands 3: Multiverse Disciples of the Vault Moze Cosmetic Pack",
+    [
+      "addons",
+      "addons/consumable",
+      "applications"
+    ],
+    "2K Games, Inc.",
+    1611698244,
+    1617901191,
+    "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_MOZE_DOTV_Pack_EPIC_Mobile_Store_1200x1600-1200x1600-efabb8696da2bc12d1d90505ed34bac7.jpg",
+    ""
+  ],
+  [
     "371605cfc34f42c992a42e1d97e6e01b",
     "100aa04135c6441b9b31d7af84f768c0",
     "Big Pharma",
@@ -13640,6 +13655,21 @@
     ""
   ],
   [
+    "3bce973725754df49d7a6abbc8a8a947",
+    "catnip",
+    "Borderlands 3: Multiverse Disciples of the Vault FL4K Cosmetic Pack",
+    [
+      "addons",
+      "addons/consumable",
+      "applications"
+    ],
+    "2K Games, Inc.",
+    1611698314,
+    1617901191,
+    "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_FL4K_DOTV_Pack_EPIC_Mobile_Store_1200x1600-1200x1600-f9a4337cfaa852824773d9243f01362d.jpg",
+    ""
+  ],
+  [
     "3bdafc8408944462a2c42166f92a3434",
     "0d66818e2304485f8dc3ae90c8b622b4",
     "Shadowrun Hong Kong - Extended Edition Deluxe",
@@ -14154,6 +14184,21 @@
     1590073649,
     "",
     "grand-theft-auto-v"
+  ],
+  [
+    "3e4d16ea778c4a9f89cba96e4b91dc56",
+    "catnip",
+    "Borderlands 3: Director's Cut",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "2K Games, Inc.",
+    1592253947,
+    1617901191,
+    "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_DLC6_EPIC_Mobile_Store_1200x1600-1200x1600-eea1a9f53987e943321d90e015f9d368.jpg",
+    ""
   ],
   [
     "3e5b2dbf879349218f1e3d9be39ed7ed",
@@ -19406,7 +19451,7 @@
     ],
     "2K Games, Inc.",
     1576866652,
-    1610482261,
+    1617901191,
     "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_BL_SuperDeluxe-340x440-46c7ac76071433b32c89be85520c2337-340x440-46c7ac76071433b32c89be85520c2337.jpg",
     "borderlands-3"
   ],
@@ -26869,7 +26914,7 @@
     ],
     "2K Games, Inc.",
     1597791424,
-    1617661223,
+    1617901191,
     "https://cdn1.epicgames.com/catnip/offer/blsFLk_tall-1200x1600-94d24f8db3c336fbed52a4da39bd586f.jpg",
     "borderlands-3/multiverse-final-form-fl4k-cosmetic-pack"
   ],
@@ -27247,7 +27292,7 @@
     ],
     "IO Interactive",
     1568142239,
-    1612022440,
+    1617900645,
     "https://cdn1.epicgames.com/ed55aa5edc5941de92fd7f64de415793/offer/EGS_HITMAN3_IOInteractiveAS_S2-1200x1600-b285fb6eb586113c9479ff33ed646b69.jpg",
     "hitman-3"
   ],
@@ -29719,11 +29764,13 @@
     "7ad5508d382e46228056f1d1a0189ae2",
     "Crescent Pack",
     [
+      "addons",
+      "addons/consumable",
       "applications"
     ],
     "Grinding Gear Games",
     1617232753,
-    1617673925,
+    1617912200,
     "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_Crescent-1200x1600-d7e50ef40000f047258e649fe550f828.png",
     ""
   ],
@@ -31925,6 +31972,23 @@
     "olija"
   ],
   [
+    "8e9937437c044c7e9628ae088af4a295",
+    "fn",
+    "Lava Legends Pack",
+    [
+      "points/packs",
+      "addons",
+      "addons/durable",
+      "points",
+      "applications"
+    ],
+    "Epic Games",
+    1553120042,
+    1617916241,
+    "https://cdn1.epicgames.com/fn/offer/LavaLegends_512x512-512x512-d38aa6f4164463ee4d1e11efd0abc2bc.png",
+    "fortnite/lava-legends-pack"
+  ],
+  [
     "8eaa735f94294aa292cc77491f7a8d87",
     "argyle",
     "ArgyleDevAudience",
@@ -32593,11 +32657,13 @@
     "7ad5508d382e46228056f1d1a0189ae2",
     "Sun Pack",
     [
+      "addons",
+      "addons/consumable",
       "applications"
     ],
     "Grinding Gear Games",
     1617233053,
-    1617673925,
+    1617912200,
     "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_Sun-1200x1600-a6480bdbcf305809b890ce86af8401f6.png",
     ""
   ],
@@ -34173,12 +34239,14 @@
     "7ad5508d382e46228056f1d1a0189ae2",
     "Silver Crescent Pack",
     [
+      "addons",
+      "addons/consumable",
       "applications"
     ],
     "Grinding Gear Games",
     1617232978,
-    1617673925,
-    "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_SilverCrescent-1200x1600-d1aa9c1294e517ccabe8d0075e718f75.png",
+    1617914610,
+    "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_SilverCrescent-1200x1600-b4287e0c09e796bdca47ceacdb69bb9f.png",
     ""
   ],
   [
@@ -38391,7 +38459,7 @@
     ],
     "Grinding Gear Games",
     1617233130,
-    1617673925,
+    1617912200,
     "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_UpgradeToImperialSun-1200x1600-2417b10ede72a3d859083083f899a9cb.png",
     ""
   ],
@@ -39831,7 +39899,7 @@
     ],
     "2K Games, Inc.",
     1597783441,
-    1617661223,
+    1617918811,
     "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_SEASONPASS_2_EPIC_Portrait_860x1148-860x1148-732b89a412767c9d2c705fd5972d159e.jpg",
     "borderlands-3/season-pass-02"
   ],
@@ -39937,6 +40005,22 @@
     1596225453,
     "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilestreasuresofturanpack-funcom-dlc-s2-1200x1600-120837146-1200x1600-77929ee4feeeb4f04ac15a24c6ba4b91.jpg",
     "conan-exiles/treasures-of-turan-pack"
+  ],
+  [
+    "af282e958f0c4ed69a3f928ed83a66d9",
+    "a334241ad093462d94f2ff8c84dc392a",
+    "Prehistoric Kingdom",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Crytivo",
+    1615580561,
+    1617900385,
+    "https://cdn1.epicgames.com/a334241ad093462d94f2ff8c84dc392a/offer/EGS_PrehistoricKingdom_BlueMeridian_S2-1200x1600-7a6252d5dc334d7cb4d6a38cab5d72df.jpg",
+    "prehistoric-kingdom"
   ],
   [
     "af32999d3aac46dcaf859f665355ec7f",
@@ -43042,8 +43126,8 @@
     ],
     "Grinding Gear Games",
     1617232887,
-    1617673925,
-    "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_UpgradeToSilverCrescent-1200x1600-a159ccf0e9d3230f4209200da46bc515.png",
+    1617912201,
+    "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_UpgradeToSilverCrescent-1200x1600-955a54084380bf716fb656658838baca.png",
     ""
   ],
   [
@@ -44201,6 +44285,21 @@
     "jackbox-party-pack-6/home"
   ],
   [
+    "c2efef5a66b54082ba2b9b8cbef6ad99",
+    "catnip",
+    "Borderlands 3: Multiverse Disciples of the Vault Zane Cosmetic Pack",
+    [
+      "addons",
+      "addons/consumable",
+      "applications"
+    ],
+    "2K Games, Inc.",
+    1611698152,
+    1617901191,
+    "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_ZANE_DOTV_Pack_EPIC_Mobile_Store_1200x1600-1200x1600-93a2ff85bc8116ae08ae9816eaee394e.jpg",
+    ""
+  ],
+  [
     "c2f3d7ed949c435fa22c815f486013fe",
     "calluna",
     "Control Ultimate Edition",
@@ -44374,7 +44473,7 @@
     ],
     "2K Games, Inc.",
     1568220761,
-    1616686823,
+    1617901191,
     "https://cdn1.epicgames.com/catnip/offer/CodeRedemption_B3_SeasonPass-340x440-09cba32f1f9c1461192fc56bbd98300c.jpg",
     "borderlands-3/season-pass"
   ],
@@ -44621,6 +44720,21 @@
     1581995278,
     1608033561,
     "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite-EGS-800Gems-860x1148-860x1148-82addd73979813a87d6890c9f7a1258e.jpg",
+    ""
+  ],
+  [
+    "c4ed8a9670d24e4dac8d9bdfb59029ce",
+    "catnip",
+    "Borderlands 3: Multiverse Disciples of the Vault Amara Cosmetic Pack",
+    [
+      "addons",
+      "addons/consumable",
+      "applications"
+    ],
+    "2K Games, Inc.",
+    1611698429,
+    1617901191,
+    "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_Amara_DOTV_Pack_EPIC_Mobile_Store_1200x1600-1200x1600-92a219267c6301f55670e9972719fe21.jpg",
     ""
   ],
   [
@@ -45799,7 +45913,7 @@
     ],
     "2K Games, Inc.",
     1597786894,
-    1617661223,
+    1617901191,
     "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_Zane_Final_Form_Pack_EPIC_Portrait_Image_1200x1600-1200x1600-e8cf8dd4849e4967d78410a383b928a5.jpg",
     "borderlands-3/multiverse-final-form-zane-cosmetic-pack"
   ],
@@ -47449,7 +47563,7 @@
     ],
     "2K Games, Inc.",
     1597787621,
-    1617661223,
+    1617901191,
     "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_Moze_Final_Form_Pack_EPIC_Portrait_Image_1200x1600-1200x1600-d6c9fd82c57f008d915d9b9f04d23d0a.jpg",
     "borderlands-3/multiverse-final-form-moze-cosmetic-pack"
   ],
@@ -51159,7 +51273,7 @@
     ],
     "IO Interactive",
     1580924304,
-    1617870233,
+    1617900674,
     "https://cdn1.epicgames.com/ed55aa5edc5941de92fd7f64de415793/offer/EGS_HITMAN3DeluxeEdition_IOInteractiveAS_Bundles_S2-1200x1600-d70f980d8fbc5311eb4781bdcac8b86c.jpg",
     "hitman-3/deluxe-edition"
   ],
@@ -53517,11 +53631,13 @@
     "7ad5508d382e46228056f1d1a0189ae2",
     "Imperial Sun Pack",
     [
+      "addons",
+      "addons/consumable",
       "applications"
     ],
     "Grinding Gear Games",
     1617233197,
-    1617673925,
+    1617912201,
     "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_ImperialSun-1200x1600-c342007b646c639e8eac448c8db59a50.png",
     ""
   ],
@@ -53722,7 +53838,7 @@
     ],
     "2K Games, Inc.",
     1592253860,
-    1617661223,
+    1617901191,
     "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_DLC5_DESIGNERSCUT_EPIC_1200X1600-1200x1600-39934de17bb201a8e1922ef8e2495233.jpg",
     "borderlands-3/designers-cut"
   ],

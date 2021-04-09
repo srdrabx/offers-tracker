@@ -8,7 +8,7 @@
   "productSlug": "borderlands-3/season-pass-02",
   "urlSlug": "borderlands-3--season-pass-02",
   "creationDate": "2020-08-18T20:44:01.312Z",
-  "lastModifiedDate": "2021-04-05T22:20:23.239Z",
+  "lastModifiedDate": "2021-04-08T21:53:31.819Z",
   "effectiveDate": "2020-11-09T13:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -202,31 +202,46 @@
       "id": "e53a6ffdc0fb47c98553da7b54098c2b"
     },
     {
-      "id": "fbc46bb6056940d2847ee1e80037a9af"
-    },
-    {
       "id": "e4dcfb440be94028971f7f6d2f934e79"
-    },
-    {
-      "id": "6a3c06879500496b853726573b896dff"
     },
     {
       "id": "4c43a9a691114ccd91c1884ab18f4e27"
     },
     {
+      "id": "ff96eef22b0e4c498e8ed80ac0030325"
+    },
+    {
+      "id": "a4cd77f237c94acfab406fcbdcf53eae"
+    },
+    {
+      "id": "55f6f076a534462ea87f73c8a64279cc"
+    },
+    {
+      "id": "fbc46bb6056940d2847ee1e80037a9af"
+    },
+    {
+      "id": "6a3c06879500496b853726573b896dff"
+    },
+    {
       "id": "edf571463872475481ee76ba55ee84bb"
+    },
+    {
+      "id": "60a074474a8a4a168ca015cf87fadb3d"
     },
     {
       "id": "5021e93a73374d6db1c1ce6c92234f8f"
     },
     {
-      "id": "ff96eef22b0e4c498e8ed80ac0030325"
-    },
-    {
       "id": "9c0b1eb3265340678dff0fcb106402b1"
     },
     {
+      "id": "71cab939e5f042ce8f65d10fe0d6b8bd"
+    },
+    {
       "id": "1ac1731af6c343079815fd18f00e58a2"
+    },
+    {
+      "id": "66a6515a52804975b22ccf226d83667d"
     },
     {
       "id": "12f2fca1c9304897b581254a0913ac51"

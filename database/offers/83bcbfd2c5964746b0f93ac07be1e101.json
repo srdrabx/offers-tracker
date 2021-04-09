@@ -8,9 +8,9 @@
   "productSlug": null,
   "urlSlug": "path-of-exile--crescent-pack",
   "creationDate": "2021-03-31T23:19:13.039Z",
-  "lastModifiedDate": "2021-04-06T01:52:05.460Z",
+  "lastModifiedDate": "2021-04-08T20:03:20.935Z",
   "effectiveDate": "2021-04-08T20:00:00.000Z",
-  "viewableDate": null,
+  "viewableDate": "2021-04-08T20:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-hjnk7yyxh7s2pm8k5dhxnubswnbler",
@@ -24,6 +24,12 @@
   "technicalDetails": null,
   "recurrence": "ONCE",
   "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/consumable"
+    },
     {
       "path": "applications"
     }

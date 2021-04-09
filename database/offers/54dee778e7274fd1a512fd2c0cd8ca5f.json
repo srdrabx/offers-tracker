@@ -2,13 +2,13 @@
   "id": "54dee778e7274fd1a512fd2c0cd8ca5f",
   "namespace": "catnip",
   "title": "Borderlands 3 Super Deluxe Edition",
-  "description": "Borderlands 3 Super Deluxe Edition",
+  "description": "Wield bazillions of guns in the award-winning, mayhem-fueled adventure of Borderlands 3! Blast through multiple worlds as 1 of 4 Vault Hunters – the ultimate treasure-seekers of the Borderlands.",
   "longDescription": "",
   "status": "ACTIVE",
   "productSlug": "borderlands-3",
   "urlSlug": "borderlands-3-super-deluxe-edition-02",
   "creationDate": "2019-12-20T18:30:52.497Z",
-  "lastModifiedDate": "2021-01-12T20:11:01.983Z",
+  "lastModifiedDate": "2021-04-08T16:59:51.173Z",
   "effectiveDate": "2019-12-20T13:23:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -93,21 +93,6 @@
       "updated": "2021-02-05T16:07:21.852Z",
       "status": "ACTIVE",
       "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "9548",
-      "name": "OSX",
-      "namespace": "epic",
-      "aliases": [
-        "OS X",
-        "MAC OS"
-      ],
-      "operator": null,
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2020-09-15T18:08:53.889Z",
-      "status": "ACTIVE",
-      "referenceCount": 48,
       "comment": null
     },
     {

@@ -8,9 +8,9 @@
   "productSlug": null,
   "urlSlug": "path-of-exile--imperial-sun-pack",
   "creationDate": "2021-03-31T23:26:37.740Z",
-  "lastModifiedDate": "2021-04-06T01:52:05.495Z",
+  "lastModifiedDate": "2021-04-08T20:03:21.029Z",
   "effectiveDate": "2021-04-08T20:00:00.000Z",
-  "viewableDate": null,
+  "viewableDate": "2021-04-08T20:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-hjnk7yyxh7s2pm8k5dhxnubswnbler",
@@ -24,6 +24,12 @@
   "technicalDetails": null,
   "recurrence": "ONCE",
   "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/consumable"
+    },
     {
       "path": "applications"
     }

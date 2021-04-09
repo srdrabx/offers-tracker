@@ -8,7 +8,7 @@
   "productSlug": "borderlands-3/ultimate-edition",
   "urlSlug": "borderlands-3-ultimate-edition",
   "creationDate": "2020-11-05T19:17:04.989Z",
-  "lastModifiedDate": "2021-03-25T15:40:50.431Z",
+  "lastModifiedDate": "2021-04-08T21:51:49.464Z",
   "effectiveDate": "2020-11-09T13:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -245,6 +245,9 @@
       "id": "14c3b4ea8a8d43a796038619c4e944c3"
     },
     {
+      "id": "55f6f076a534462ea87f73c8a64279cc"
+    },
+    {
       "id": "edf571463872475481ee76ba55ee84bb"
     },
     {
@@ -254,10 +257,16 @@
       "id": "3bf444ec239e4f23bbbb3dff5f769085"
     },
     {
+      "id": "60a074474a8a4a168ca015cf87fadb3d"
+    },
+    {
       "id": "5021e93a73374d6db1c1ce6c92234f8f"
     },
     {
       "id": "1ac1731af6c343079815fd18f00e58a2"
+    },
+    {
+      "id": "66a6515a52804975b22ccf226d83667d"
     },
     {
       "id": "552f87ec7f474410a213c521ff9d3140"
@@ -290,6 +299,9 @@
       "id": "29da568810454587930011b042eb4ebb"
     },
     {
+      "id": "a4cd77f237c94acfab406fcbdcf53eae"
+    },
+    {
       "id": "c204662afac64acd8a2117590be477da"
     },
     {
@@ -306,6 +318,9 @@
     },
     {
       "id": "9c0b1eb3265340678dff0fcb106402b1"
+    },
+    {
+      "id": "71cab939e5f042ce8f65d10fe0d6b8bd"
     },
     {
       "id": "5ea1981df8cc49c68f4fe086b70f7bd8"

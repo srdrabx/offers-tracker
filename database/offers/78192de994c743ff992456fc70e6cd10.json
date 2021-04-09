@@ -8,7 +8,7 @@
   "productSlug": "hitman-3",
   "urlSlug": "hitman-01",
   "creationDate": "2019-09-10T19:03:59.117Z",
-  "lastModifiedDate": "2021-01-30T16:00:40.960Z",
+  "lastModifiedDate": "2021-04-08T16:50:45.580Z",
   "effectiveDate": "2021-01-20T13:00:00.000Z",
   "viewableDate": "2021-01-20T13:00:00.000Z",
   "developer": null,
@@ -49,6 +49,18 @@
       "status": "ACTIVE",
       "referenceCount": 110,
       "comment": null
+    },
+    {
+      "id": "15760",
+      "name": "Sale extension Hitman 3",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-04-08T08:14:23.256Z",
+      "updated": "2021-04-08T16:51:38.030Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": ""
     },
     {
       "id": "1370",
