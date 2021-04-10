@@ -8,7 +8,7 @@
   "productSlug": "kingdom-come-deliverance/a-womans-lot",
   "urlSlug": "kingdom-come-deliverance--a-womans-lot",
   "creationDate": "2020-01-04T06:23:32.562Z",
-  "lastModifiedDate": "2020-10-06T22:32:18.996Z",
+  "lastModifiedDate": "2021-04-09T20:50:02.103Z",
   "effectiveDate": "2020-02-13T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -51,18 +51,6 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2021-02-05T16:07:21.852Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    },
-    {
       "id": "1307",
       "name": "Open World",
       "namespace": "epic",
@@ -72,6 +60,18 @@
       "updated": "2021-02-10T17:34:58.080Z",
       "status": "ACTIVE",
       "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
       "comment": null
     },
     {
@@ -99,40 +99,40 @@
   ],
   "keyImages": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg",
-      "md5": "ec915782c8a2d6f1d64c028dd74a398f",
-      "size": 324856,
-      "uploadedDate": "2020-02-05T18:43:05.862Z",
-      "width": 510,
-      "height": 680
-    },
-    {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/2560x1440_WL-2560x1440-b46d69463cdcd0bb495898316c1b692b.jpg",
-      "md5": "b46d69463cdcd0bb495898316c1b692b",
-      "size": 1827192,
-      "uploadedDate": "2020-02-24T20:49:54.945Z",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/507b29ac-764f-4dda-b977-5cc40ab7392b-2560x1440-a540a9f2ba8ceb08d3a5c1009c251ea3.jpg",
+      "md5": "a540a9f2ba8ceb08d3a5c1009c251ea3",
+      "size": 1029646,
+      "uploadedDate": "2021-04-09T20:28:30.610Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg",
-      "md5": "ec915782c8a2d6f1d64c028dd74a398f",
-      "size": 324856,
-      "uploadedDate": "2020-05-13T15:21:23.228Z",
-      "width": 510,
-      "height": 680
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/fb7ce4f5-9e13-438a-a90d-a01f63e646bc-1200x1600-c216697f40224e0737bf729212fd3cc3.jpg",
+      "md5": "c216697f40224e0737bf729212fd3cc3",
+      "size": 647838,
+      "uploadedDate": "2021-04-09T20:28:39.170Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg",
-      "md5": "ec915782c8a2d6f1d64c028dd74a398f",
-      "size": 324856,
-      "uploadedDate": "2020-05-13T15:21:32.051Z",
-      "width": 510,
-      "height": 680
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/fb7ce4f5-9e13-438a-a90d-a01f63e646bc-1200x1600-c216697f40224e0737bf729212fd3cc3.jpg",
+      "md5": "c216697f40224e0737bf729212fd3cc3",
+      "size": 647838,
+      "uploadedDate": "2021-04-09T20:28:48.197Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/fb7ce4f5-9e13-438a-a90d-a01f63e646bc-1200x1600-c216697f40224e0737bf729212fd3cc3.jpg",
+      "md5": "c216697f40224e0737bf729212fd3cc3",
+      "size": 647838,
+      "uploadedDate": "2021-04-09T20:28:55.836Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [

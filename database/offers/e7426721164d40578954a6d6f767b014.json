@@ -8,7 +8,7 @@
   "productSlug": "kingdom-come-deliverance/art-book",
   "urlSlug": "kingdom-come-deliverance--art-book",
   "creationDate": "2020-01-04T06:27:54.940Z",
-  "lastModifiedDate": "2020-07-31T02:48:41.523Z",
+  "lastModifiedDate": "2021-04-09T20:50:02.047Z",
   "effectiveDate": "2020-02-13T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -51,18 +51,6 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2021-02-05T16:07:21.852Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    },
-    {
       "id": "1307",
       "name": "Open World",
       "namespace": "epic",
@@ -72,6 +60,18 @@
       "updated": "2021-02-10T17:34:58.080Z",
       "status": "ACTIVE",
       "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
       "comment": null
     },
     {
@@ -99,40 +99,49 @@
   ],
   "keyImages": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg",
-      "md5": "ec915782c8a2d6f1d64c028dd74a398f",
-      "size": 324856,
-      "uploadedDate": "2020-02-13T15:20:27.087Z",
-      "width": 510,
-      "height": 680
-    },
-    {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_Artbook_IC1-200x200-db6f245ada4695d8130633dc4bf106b313d98f9b.png",
-      "md5": "b3d439dfb8f8e3fdf37603b5e6a4ebe5",
-      "size": 8348,
-      "uploadedDate": "2020-02-12T09:41:44.790Z",
-      "width": 200,
-      "height": 200
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/ad2e249a-8784-4136-b37b-24496f795a30-2560x1440-825ba8ffa4e24a41128f5ebbf2c1bbf3.jpg",
+      "md5": "825ba8ffa4e24a41128f5ebbf2c1bbf3",
+      "size": 737384,
+      "uploadedDate": "2021-04-09T20:38:32.145Z",
+      "width": 2560,
+      "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg",
-      "md5": "ec915782c8a2d6f1d64c028dd74a398f",
-      "size": 324856,
-      "uploadedDate": "2020-05-13T15:00:58.775Z",
-      "width": 510,
-      "height": 680
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/fdb18b88-6b6c-4127-8365-3cc37d980a60-1200x1600-53ffe6cc87dac403d9daf5b9bc19dd94.jpg",
+      "md5": "53ffe6cc87dac403d9daf5b9bc19dd94",
+      "size": 936487,
+      "uploadedDate": "2021-04-09T20:38:41.167Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/fdb18b88-6b6c-4127-8365-3cc37d980a60-1200x1600-53ffe6cc87dac403d9daf5b9bc19dd94.jpg",
+      "md5": "53ffe6cc87dac403d9daf5b9bc19dd94",
+      "size": 936487,
+      "uploadedDate": "2021-04-09T20:38:51.659Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg",
-      "md5": "ec915782c8a2d6f1d64c028dd74a398f",
-      "size": 324856,
-      "uploadedDate": "2020-05-13T15:01:07.030Z",
-      "width": 510,
-      "height": 680
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/fdb18b88-6b6c-4127-8365-3cc37d980a60-1200x1600-53ffe6cc87dac403d9daf5b9bc19dd94.jpg",
+      "md5": "53ffe6cc87dac403d9daf5b9bc19dd94",
+      "size": 936487,
+      "uploadedDate": "2021-04-09T20:39:14.715Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/33f8136f-f920-4ad9-a303-39cc71032ac7-200x200-a381674654d0ac022b1d1abda303a6fa.png",
+      "md5": "a381674654d0ac022b1d1abda303a6fa",
+      "size": 28625,
+      "uploadedDate": "2021-04-09T20:39:26.207Z",
+      "width": 200,
+      "height": 200
     }
   ],
   "items": [

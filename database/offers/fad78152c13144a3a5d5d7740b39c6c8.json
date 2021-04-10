@@ -8,7 +8,7 @@
   "productSlug": "kingdom-come-deliverance/ost-atmospheres-and-additionals",
   "urlSlug": "kingdom-come-deliverance--ost-atmospheres-and-additionals",
   "creationDate": "2020-01-28T15:04:29.077Z",
-  "lastModifiedDate": "2020-10-06T22:31:39.781Z",
+  "lastModifiedDate": "2021-04-09T20:50:02.122Z",
   "effectiveDate": "2020-02-13T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -51,18 +51,6 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2021-02-05T16:07:21.852Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    },
-    {
       "id": "1307",
       "name": "Open World",
       "namespace": "epic",
@@ -72,6 +60,18 @@
       "updated": "2021-02-10T17:34:58.080Z",
       "status": "ACTIVE",
       "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
       "comment": null
     },
     {
@@ -99,40 +99,49 @@
   ],
   "keyImages": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg",
-      "md5": "ec915782c8a2d6f1d64c028dd74a398f",
-      "size": 324856,
-      "uploadedDate": "2020-02-13T15:20:49.222Z",
-      "width": 510,
-      "height": 680
-    },
-    {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_OSTAtmospheresAdditionals_IC1-200x200-5680b845a3311745344ca477e673013deb3ed8bf.png",
-      "md5": "b22d69bd87b01adf1654a7c8dcc0de55",
-      "size": 8349,
-      "uploadedDate": "2020-02-12T09:41:44.790Z",
-      "width": 200,
-      "height": 200
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/fa6d430a-56d0-42e1-b43a-4a4f45f06873-2560x1440-6b86c84006bd846c588a31ffa5199e22.jpg",
+      "md5": "6b86c84006bd846c588a31ffa5199e22",
+      "size": 813877,
+      "uploadedDate": "2021-04-09T20:47:12.287Z",
+      "width": 2560,
+      "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg",
-      "md5": "ec915782c8a2d6f1d64c028dd74a398f",
-      "size": 324856,
-      "uploadedDate": "2020-05-13T15:10:24.986Z",
-      "width": 510,
-      "height": 680
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/e68c3b76-5cc9-486d-8512-67891d0a3606-1200x1600-7b2640434ada38b1d2c1856d3daa33fc.jpg",
+      "md5": "7b2640434ada38b1d2c1856d3daa33fc",
+      "size": 1019259,
+      "uploadedDate": "2021-04-09T20:47:18.542Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg",
-      "md5": "ec915782c8a2d6f1d64c028dd74a398f",
-      "size": 324856,
-      "uploadedDate": "2020-05-13T15:10:52.339Z",
-      "width": 510,
-      "height": 680
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/e68c3b76-5cc9-486d-8512-67891d0a3606-1200x1600-7b2640434ada38b1d2c1856d3daa33fc.jpg",
+      "md5": "7b2640434ada38b1d2c1856d3daa33fc",
+      "size": 1019259,
+      "uploadedDate": "2021-04-09T20:47:30.267Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/e68c3b76-5cc9-486d-8512-67891d0a3606-1200x1600-7b2640434ada38b1d2c1856d3daa33fc.jpg",
+      "md5": "7b2640434ada38b1d2c1856d3daa33fc",
+      "size": 1019259,
+      "uploadedDate": "2021-04-09T20:47:37.568Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/483144c6-e4c2-4c08-be35-af9204ae7b83-200x200-a7234b74f5c3a8bb6ed7c75c4b962088.png",
+      "md5": "a7234b74f5c3a8bb6ed7c75c4b962088",
+      "size": 28965,
+      "uploadedDate": "2021-04-09T20:47:47.449Z",
+      "width": 200,
+      "height": 200
     }
   ],
   "items": [

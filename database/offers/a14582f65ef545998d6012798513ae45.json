@@ -8,7 +8,7 @@
   "productSlug": "kingdom-come-deliverance/the-amorous-adventures-of-bold-sir-hans-capon",
   "urlSlug": "kingdom-come-deliverance--the-amorous-adventures-of-bold-sir-hans-capon",
   "creationDate": "2020-01-04T06:19:39.742Z",
-  "lastModifiedDate": "2020-07-31T02:48:40.945Z",
+  "lastModifiedDate": "2021-04-09T20:50:01.952Z",
   "effectiveDate": "2020-02-13T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -51,18 +51,6 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2021-02-05T16:07:21.852Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    },
-    {
       "id": "1307",
       "name": "Open World",
       "namespace": "epic",
@@ -72,6 +60,18 @@
       "updated": "2021-02-10T17:34:58.080Z",
       "status": "ACTIVE",
       "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
       "comment": null
     },
     {
@@ -99,40 +99,58 @@
   ],
   "keyImages": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg",
-      "md5": "ec915782c8a2d6f1d64c028dd74a398f",
-      "size": 324856,
-      "uploadedDate": "2020-02-05T18:50:20.998Z",
-      "width": 510,
-      "height": 680
-    },
-    {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/2560x1440_CAPON-2560x1440-7c403c3235fbe0363618762a9fb1ff3e.jpg",
-      "md5": "7c403c3235fbe0363618762a9fb1ff3e",
-      "size": 2159451,
-      "uploadedDate": "2020-02-24T20:45:12.390Z",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/1433bf57-819b-4918-84b0-d53c6aa310b1-2560x1440-4a122288277592b8ad6a103e8e071b5b.jpg",
+      "md5": "4a122288277592b8ad6a103e8e071b5b",
+      "size": 916177,
+      "uploadedDate": "2021-04-09T20:11:40.480Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg",
-      "md5": "ec915782c8a2d6f1d64c028dd74a398f",
-      "size": 324856,
-      "uploadedDate": "2020-05-13T14:59:13.332Z",
-      "width": 510,
-      "height": 680
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/028faa92-6e65-4ba8-98cf-e8d76aba7f04-1200x1600-64b2494735ea75402c76a77d66041bc3.jpg",
+      "md5": "64b2494735ea75402c76a77d66041bc3",
+      "size": 838598,
+      "uploadedDate": "2021-04-09T20:11:50.608Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg",
-      "md5": "ec915782c8a2d6f1d64c028dd74a398f",
-      "size": 324856,
-      "uploadedDate": "2020-05-13T14:59:22.177Z",
-      "width": 510,
-      "height": 680
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/028faa92-6e65-4ba8-98cf-e8d76aba7f04-1200x1600-64b2494735ea75402c76a77d66041bc3.jpg",
+      "md5": "64b2494735ea75402c76a77d66041bc3",
+      "size": 838598,
+      "uploadedDate": "2021-04-09T20:12:02.711Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/028faa92-6e65-4ba8-98cf-e8d76aba7f04-1200x1600-64b2494735ea75402c76a77d66041bc3.jpg",
+      "md5": "64b2494735ea75402c76a77d66041bc3",
+      "size": 838598,
+      "uploadedDate": "2021-04-09T20:12:11.225Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/1433bf57-819b-4918-84b0-d53c6aa310b1-2560x1440-4a122288277592b8ad6a103e8e071b5b.jpg",
+      "md5": "4a122288277592b8ad6a103e8e071b5b",
+      "size": 916177,
+      "uploadedDate": "2021-04-09T20:12:21.615Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/028faa92-6e65-4ba8-98cf-e8d76aba7f04-1200x1600-64b2494735ea75402c76a77d66041bc3.jpg",
+      "md5": "64b2494735ea75402c76a77d66041bc3",
+      "size": 838598,
+      "uploadedDate": "2021-04-09T20:12:29.031Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [

@@ -8,7 +8,7 @@
   "productSlug": "kingdom-come-deliverance/treasure-of-the-past",
   "urlSlug": "kingdom-come-deliverance--treasure-of-the-past",
   "creationDate": "2020-01-04T06:13:04.997Z",
-  "lastModifiedDate": "2020-07-31T02:48:42.346Z",
+  "lastModifiedDate": "2021-04-09T20:50:01.928Z",
   "effectiveDate": "2020-02-13T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -51,18 +51,6 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2021-02-05T16:07:21.852Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    },
-    {
       "id": "1307",
       "name": "Open World",
       "namespace": "epic",
@@ -72,6 +60,18 @@
       "updated": "2021-02-10T17:34:58.080Z",
       "status": "ACTIVE",
       "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
       "comment": null
     },
     {
@@ -99,15 +99,6 @@
   ],
   "keyImages": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg",
-      "md5": "ec915782c8a2d6f1d64c028dd74a398f",
-      "size": 324856,
-      "uploadedDate": "2020-02-05T18:53:04.642Z",
-      "width": 510,
-      "height": 680
-    },
-    {
       "type": "OfferImageWide",
       "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/2560x1440_T-2560x1440-f503788900d4813c54add58275efe3a5.jpg",
       "md5": "f503788900d4813c54add58275efe3a5",
@@ -118,21 +109,93 @@
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg",
-      "md5": "ec915782c8a2d6f1d64c028dd74a398f",
-      "size": 324856,
-      "uploadedDate": "2020-05-13T15:22:44.252Z",
-      "width": 510,
-      "height": 680
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_TreasuresofthePast_WarhorseStudios_DLC_S2-1200x1600-d3b962627f8f494623ea2adba0247f00.jpg",
+      "md5": "d3b962627f8f494623ea2adba0247f00",
+      "size": 639407,
+      "uploadedDate": "2021-04-09T19:43:55.178Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg",
-      "md5": "ec915782c8a2d6f1d64c028dd74a398f",
-      "size": 324856,
-      "uploadedDate": "2020-05-13T15:22:51.796Z",
-      "width": 510,
-      "height": 680
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/TreasuresofthePastPortrait-1200x1600-d3b962627f8f494623ea2adba0247f00.jpg",
+      "md5": "d3b962627f8f494623ea2adba0247f00",
+      "size": 639407,
+      "uploadedDate": "2021-04-09T19:44:05.215Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/TreasuresofthePastPortrait-1200x1600-d3b962627f8f494623ea2adba0247f00.jpg",
+      "md5": "d3b962627f8f494623ea2adba0247f00",
+      "size": 639407,
+      "uploadedDate": "2021-04-09T19:44:18.735Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/TreasuresofthePastLandscape-2560x1440-b57c1403b578ab6568015b0b9c1f34e4.jpg",
+      "md5": "b57c1403b578ab6568015b0b9c1f34e4",
+      "size": 712936,
+      "uploadedDate": "2021-04-09T19:44:30.942Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/TreasuresofthePastPortrait-1200x1600-d3b962627f8f494623ea2adba0247f00.jpg",
+      "md5": "d3b962627f8f494623ea2adba0247f00",
+      "size": 639407,
+      "uploadedDate": "2021-04-09T19:44:41.444Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_TreasuresofthePast_WarhorseStudios_DLC_IC1-200x200-88d543ad8f74239b7e259d8b4a75e526.png",
+      "md5": "88d543ad8f74239b7e259d8b4a75e526",
+      "size": 29039,
+      "uploadedDate": "2021-04-09T19:44:52.688Z",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_TreasuresofthePast_WarhorseStudios_DLC_G1A_00-1920x1080-9eac4a45d639dd5b81030c3b4e4cd44c.jpg",
+      "md5": "9eac4a45d639dd5b81030c3b4e4cd44c",
+      "size": 539903,
+      "uploadedDate": "2021-04-09T19:47:55.121Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_TreasuresofthePast_WarhorseStudios_DLC_G1A_01-1920x1080-a561fab7940106a34b09f04e3bc1a3bc.jpg",
+      "md5": "a561fab7940106a34b09f04e3bc1a3bc",
+      "size": 587437,
+      "uploadedDate": "2021-04-09T19:48:03.493Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_TreasuresofthePast_WarhorseStudios_DLC_G1A_02-1920x1080-25cc21a203a0ed0bfd729632d81023f8.jpg",
+      "md5": "25cc21a203a0ed0bfd729632d81023f8",
+      "size": 889530,
+      "uploadedDate": "2021-04-09T19:48:13.561Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_TreasuresofthePast_WarhorseStudios_DLC_G1A_03-1920x1080-d7f5386ecda685055b78bb2966fcc6b8.jpg",
+      "md5": "d7f5386ecda685055b78bb2966fcc6b8",
+      "size": 997217,
+      "uploadedDate": "2021-04-09T19:48:22.427Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
