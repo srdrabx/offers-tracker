@@ -8,7 +8,7 @@
   "productSlug": "golazo",
   "urlSlug": "golazo-general-audience",
   "creationDate": "2021-03-05T15:34:50.427Z",
-  "lastModifiedDate": "2021-03-31T16:55:14.144Z",
+  "lastModifiedDate": "2021-04-12T23:08:25.705Z",
   "effectiveDate": "2021-03-31T17:00:00.000Z",
   "viewableDate": "2021-03-31T17:00:00.000Z",
   "developer": null,
@@ -114,7 +114,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR"
+      "value": "[]"
     },
     {
       "key": "publisherName",
@@ -187,6 +187,6 @@
     }
   ],
   "catalogNs": {
-    "name": "da9399071b4949f1a0c134528da61816"
+    "name": null
   }
 }

@@ -8,7 +8,7 @@
   "productSlug": "deponia-the-complete-journey",
   "urlSlug": "ghoulgeneralaudience",
   "creationDate": "2021-03-10T03:59:54.579Z",
-  "lastModifiedDate": "2021-04-08T15:07:19.682Z",
+  "lastModifiedDate": "2021-04-12T19:33:13.640Z",
   "effectiveDate": "2021-04-15T15:00:00.000Z",
   "viewableDate": "2021-04-08T14:25:00.000Z",
   "developer": null,
@@ -163,6 +163,6 @@
     }
   ],
   "catalogNs": {
-    "name": "e5decf71f325458b92653616ee98682a"
+    "name": null
   }
 }

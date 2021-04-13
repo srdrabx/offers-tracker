@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "dlc31",
   "creationDate": "2021-04-07T20:09:38.933Z",
-  "lastModifiedDate": "2021-04-10T03:59:47.340Z",
+  "lastModifiedDate": "2021-04-12T21:34:45.049Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -37,6 +37,6 @@
     }
   ],
   "catalogNs": {
-    "name": "244aaaa06bfa49d088205b13b9d2d115"
+    "name": null
   }
 }

@@ -8,7 +8,7 @@
   "productSlug": "through-the-darkest-of-times/home",
   "urlSlug": "calciumgeneralaudience",
   "creationDate": "2020-11-20T15:43:44.971Z",
-  "lastModifiedDate": "2020-12-10T17:21:24.603Z",
+  "lastModifiedDate": "2021-04-12T23:10:36.723Z",
   "effectiveDate": "2020-12-10T18:00:00.000Z",
   "viewableDate": "2020-12-10T18:00:00.000Z",
   "developer": null,
@@ -117,7 +117,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR"
+      "value": "[]"
     },
     {
       "key": "publisherName",
@@ -194,6 +194,6 @@
     }
   ],
   "catalogNs": {
-    "name": "6e7faac262f04035aeb848e660b2d18c"
+    "name": null
   }
 }

@@ -8,7 +8,7 @@
   "productSlug": "satisfactory",
   "urlSlug": "satisfactoryearlyaccess",
   "creationDate": "2019-02-26T16:06:54.063Z",
-  "lastModifiedDate": "2021-01-23T02:02:33.032Z",
+  "lastModifiedDate": "2021-04-13T15:59:53.232Z",
   "effectiveDate": "2019-03-05T14:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -127,56 +127,56 @@
   ],
   "keyImages": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/crab/offer/Diesel_productv2_satisfactory_home_YouTube_Thumbnail-2560x1440-8c8f931e93a28ac746ba9fd19d267a32820112b3-2560x1440-b0339d2e28a5281dec5e36e3536b70e2.png",
-      "md5": "b0339d2e28a5281dec5e36e3536b70e2",
-      "size": 519179,
-      "uploadedDate": "2021-01-23T01:53:58.631Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/crab/offer/Diesel_productv2_satisfactory_home_YouTube_Thumbnail-2560x1440-8c8f931e93a28ac746ba9fd19d267a32820112b3-2560x1440-b0339d2e28a5281dec5e36e3536b70e2.png",
-      "md5": "b0339d2e28a5281dec5e36e3536b70e2",
-      "size": 519179,
-      "uploadedDate": "2021-01-23T01:54:50.755Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/crab/offer/Satisfactory_tall-1200x1600-ffd66e9b7c1c1c4b006a9eb425d6a936.png",
-      "md5": "ffd66e9b7c1c1c4b006a9eb425d6a936",
-      "size": 2280116,
-      "uploadedDate": "2021-01-23T02:01:36.896Z",
+      "url": "https://cdn1.epicgames.com/crab/offer/Satisfactory_Update4_1200x1600-1200x1600-c8facb477c050ca5253ea0fc35552297.png",
+      "md5": "c8facb477c050ca5253ea0fc35552297",
+      "size": 2207446,
+      "uploadedDate": "2021-04-13T15:52:19.567Z",
       "width": 1200,
       "height": 1600
     },
     {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/crab/offer/2560x1440_Epic-2560x1440-0137527dd3111a283d843b4a7222d7e2.jpg",
+      "md5": "0137527dd3111a283d843b4a7222d7e2",
+      "size": 523258,
+      "uploadedDate": "2021-04-13T15:52:04.015Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/crab/offer/Satisfactory_tall-1200x1600-ffd66e9b7c1c1c4b006a9eb425d6a936.png",
-      "md5": "ffd66e9b7c1c1c4b006a9eb425d6a936",
-      "size": 2280116,
-      "uploadedDate": "2021-01-23T02:01:57.692Z",
+      "url": "https://cdn1.epicgames.com/crab/offer/Satisfactory_Update4_1200x1600-1200x1600-c8facb477c050ca5253ea0fc35552297.png",
+      "md5": "c8facb477c050ca5253ea0fc35552297",
+      "size": 2207446,
+      "uploadedDate": "2021-04-13T15:52:47.091Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/crab/offer/Satisfactory_tall-1200x1600-ffd66e9b7c1c1c4b006a9eb425d6a936.png",
-      "md5": "ffd66e9b7c1c1c4b006a9eb425d6a936",
-      "size": 2280116,
-      "uploadedDate": "2021-01-23T02:02:08.530Z",
+      "url": "https://cdn1.epicgames.com/crab/offer/Satisfactory_Update4_1200x1600-1200x1600-c8facb477c050ca5253ea0fc35552297.png",
+      "md5": "c8facb477c050ca5253ea0fc35552297",
+      "size": 2207446,
+      "uploadedDate": "2021-04-13T15:52:55.860Z",
       "width": 1200,
       "height": 1600
     },
     {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/crab/offer/2560x1440_Epic-2560x1440-0137527dd3111a283d843b4a7222d7e2.jpg",
+      "md5": "0137527dd3111a283d843b4a7222d7e2",
+      "size": 523258,
+      "uploadedDate": "2021-04-13T15:53:19.915Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/crab/offer/Satisfactory_tall-1200x1600-ffd66e9b7c1c1c4b006a9eb425d6a936.png",
-      "md5": "ffd66e9b7c1c1c4b006a9eb425d6a936",
-      "size": 2280116,
-      "uploadedDate": "2021-01-23T02:02:27.878Z",
+      "url": "https://cdn1.epicgames.com/crab/offer/Satisfactory_Update4_1200x1600-1200x1600-c8facb477c050ca5253ea0fc35552297.png",
+      "md5": "c8facb477c050ca5253ea0fc35552297",
+      "size": 2207446,
+      "uploadedDate": "2021-04-13T15:53:30.915Z",
       "width": 1200,
       "height": 1600
     }
@@ -187,6 +187,6 @@
     }
   ],
   "catalogNs": {
-    "name": "crab"
+    "name": null
   }
 }

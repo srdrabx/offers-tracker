@@ -6,10 +6,10 @@
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": "knight-squad-2",
-  "urlSlug": "praguegeneralaudience",
+  "urlSlug": "knight-squad",
   "creationDate": "2021-01-19T18:21:32.607Z",
-  "lastModifiedDate": "2021-03-24T15:00:43.886Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2021-04-12T19:41:17.036Z",
+  "effectiveDate": "2021-04-14T15:00:00.000Z",
   "viewableDate": "2021-03-24T15:00:00.000Z",
   "developer": null,
   "seller": {
@@ -151,6 +151,6 @@
     }
   ],
   "catalogNs": {
-    "name": "8149b9c6be654c71aad46431d3d349a6"
+    "name": null
   }
 }

@@ -8,7 +8,7 @@
   "productSlug": "neighbours-back-from-hell/home",
   "urlSlug": "eggplantgeneralaudience",
   "creationDate": "2020-08-21T13:46:02.309Z",
-  "lastModifiedDate": "2020-12-17T13:01:16.989Z",
+  "lastModifiedDate": "2021-04-12T23:09:58.871Z",
   "effectiveDate": "2020-10-08T17:00:00.000Z",
   "viewableDate": "2020-10-08T17:00:00.000Z",
   "developer": null,
@@ -78,7 +78,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR"
+      "value": "[]"
     },
     {
       "key": "publisherName",
@@ -155,6 +155,6 @@
     }
   ],
   "catalogNs": {
-    "name": "5d24ed888f9542a09dc406f66705631a"
+    "name": null
   }
 }
