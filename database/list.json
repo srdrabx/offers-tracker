@@ -8351,8 +8351,8 @@
     ],
     "Digital Extremes",
     1591979361,
-    1607647982,
-    "https://cdn1.epicgames.com/244aaaa06bfa49d088205b13b9d2d115/offer/EGS_Warframe_DigitalExtremes_S2-1200x1600-2339dcbf67fbe2ea38eeb742c7c38331.jpg",
+    1618336869,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/portrait_1200x1600-8949ca06d4a2107bc25ec4172e353a8d",
     "warframe"
   ],
   [
@@ -14510,14 +14510,16 @@
   [
     "3f5e2422ff494954b2cc9798b0b1fcfa",
     "244aaaa06bfa49d088205b13b9d2d115",
-    "DLC 30",
+    "Warframe: Railjack Instant Access Pack",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Digital Extremes",
     1617826133,
-    1618263279,
-    "",
+    1618336705,
+    "https://cdn1.epicgames.com/244aaaa06bfa49d088205b13b9d2d115/offer/EGS_WarframeRailjackInstantAccessPack_DigitalExtremes_DLC_S2-1200x1600-cc86a12fa6a7b4015c70aafeb2a5d495.jpg",
     ""
   ],
   [
@@ -18764,7 +18766,7 @@
     ],
     "Mohawk Games",
     1583288293,
-    1616615751,
+    1618412913,
     "https://cdn1.epicgames.com/07f4a7dd3c884e5d87e9a209716962ca/offer/EGS_OldWorld_MohawkGames_S2-860x1148-0e077ae9572c911683633fa9b19bd5c5.jpg",
     "old-world"
   ],
@@ -22447,8 +22449,8 @@
     ],
     "Focus Home",
     1603398381,
-    1613754380,
-    "https://cdn1.epicgames.com/c1e33e7e700f42429ea2b8a7459bb55b/offer/EGS_CurseoftheDeadGods_PasstechGames_S2-1200x1600-0d6a3c05e0d19e767decd9c3187bb427.jpg",
+    1618416019,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CurseoftheDeadGods_PasstechGames_S2_1200x1600-be95408d756122ae6c26576361128ab6",
     "curse-of-the-dead-gods"
   ],
   [
@@ -38918,14 +38920,16 @@
   [
     "aa91594df37a409ca2385f9844f2da53",
     "244aaaa06bfa49d088205b13b9d2d115",
-    "DLC 31",
+    "Warframe: Tempestarii Supporter Pack",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Digital Extremes",
     1617826178,
-    1618263285,
-    "",
+    1618336705,
+    "https://cdn1.epicgames.com/244aaaa06bfa49d088205b13b9d2d115/offer/EGS_WarframeTempestariiSupporterPack_DigitalExtremes_DLC_S2-1200x1600-d34e6e7397574e9a3d70da3816ca8c08.jpg",
     ""
   ],
   [
@@ -39206,7 +39210,7 @@
     ],
     "Daedalic Entertainment",
     1615348794,
-    1618255993,
+    1618366419,
     "https://cdn1.epicgames.com/e5decf71f325458b92653616ee98682a/offer/EGS_DeponiaTheCompleteJourney_DaedalicEntertainment_S4-1200x1600-f8cfe09916adfed9f6cf129febd48a6f.jpg",
     "deponia-the-complete-journey"
   ],
@@ -53504,6 +53508,22 @@
     1588120725,
     "",
     ""
+  ],
+  [
+    "eb76174d49084be48798be38564dfbaf",
+    "0cdc1f2bb18a4384a96ddac4c5c84886",
+    "Operation:Tango",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Clever Plays Studio",
+    1616786989,
+    1618405037,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_OperationTango_CleverPlaysStudio_S2_1200x1600-723f640e6dcbac90f3fd8762e69d8724",
+    "operation-tango"
   ],
   [
     "eb79d4c6811f43b9800c6ad7d8e8c40b",

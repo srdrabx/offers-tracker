@@ -1,0 +1,184 @@
+{
+  "id": "eb76174d49084be48798be38564dfbaf",
+  "namespace": "0cdc1f2bb18a4384a96ddac4c5c84886",
+  "title": "Operation:Tango",
+  "description": "Operation:Tango",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "operation-tango",
+  "urlSlug": "operation-tango",
+  "creationDate": "2021-03-26T19:29:49.681Z",
+  "lastModifiedDate": "2021-04-14T12:57:17.091Z",
+  "effectiveDate": "2099-01-14T13:00:00.000Z",
+  "viewableDate": "2021-04-14T13:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-juaqlxam68qzmftlu6uw75cch8mven",
+    "name": "Clever Plays Studio"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2021-02-10T17:36:19.203Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1264",
+      "name": "Co-op",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.700Z",
+      "updated": "2021-02-10T17:34:35.309Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1298",
+      "name": "Puzzle",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2021-02-10T17:34:06.225Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2021-02-10T17:35:19.827Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Clever Plays Studio"
+    },
+    {
+      "key": "developerName",
+      "value": "Clever Plays Studio"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "operation-tango"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_OperationTango_CleverPlaysStudio_S1_2560x1440-e7bcaff31e39177eaa725a85f48e49b5",
+      "md5": "e7bcaff31e39177eaa725a85f48e49b5",
+      "size": 692996,
+      "uploadedDate": "2021-04-13T21:15:57.877Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_OperationTango_CleverPlaysStudio_S2_1200x1600-723f640e6dcbac90f3fd8762e69d8724",
+      "md5": "723f640e6dcbac90f3fd8762e69d8724",
+      "size": 347448,
+      "uploadedDate": "2021-04-13T21:16:02.179Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_OperationTango_CleverPlaysStudio_S2_1200x1600-723f640e6dcbac90f3fd8762e69d8724",
+      "md5": "723f640e6dcbac90f3fd8762e69d8724",
+      "size": 347448,
+      "uploadedDate": "2021-04-13T21:16:09.884Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_OperationTango_CleverPlaysStudio_S2_1200x1600-723f640e6dcbac90f3fd8762e69d8724",
+      "md5": "723f640e6dcbac90f3fd8762e69d8724",
+      "size": 347448,
+      "uploadedDate": "2021-04-13T21:16:18.416Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_OperationTango_CleverPlaysStudio_S1_2560x1440-e7bcaff31e39177eaa725a85f48e49b5",
+      "md5": "e7bcaff31e39177eaa725a85f48e49b5",
+      "size": 692996,
+      "uploadedDate": "2021-04-13T21:16:28.893Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_OperationTango_CleverPlaysStudio_S2_1200x1600-723f640e6dcbac90f3fd8762e69d8724",
+      "md5": "723f640e6dcbac90f3fd8762e69d8724",
+      "size": 347448,
+      "uploadedDate": "2021-04-13T21:16:36.493Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "64b53c27444845d2a37c16119df80fc5"
+    }
+  ],
+  "catalogNs": {
+    "name": "0cdc1f2bb18a4384a96ddac4c5c84886"
+  }
+}

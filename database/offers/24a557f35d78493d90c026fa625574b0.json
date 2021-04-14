@@ -8,7 +8,7 @@
   "productSlug": "warframe",
   "urlSlug": "helsinkigeneralaudience",
   "creationDate": "2020-06-12T16:29:21.951Z",
-  "lastModifiedDate": "2020-12-11T00:53:02.426Z",
+  "lastModifiedDate": "2021-04-13T18:01:09.298Z",
   "effectiveDate": "2020-12-11T00:55:00.000Z",
   "viewableDate": "2020-12-11T00:55:00.000Z",
   "developer": null,
@@ -155,56 +155,56 @@
   ],
   "keyImages": [
     {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/landscape_2560x1440-601b4884c4d7218ea30f45f602a673dd",
+      "md5": "601b4884c4d7218ea30f45f602a673dd",
+      "size": 309196,
+      "uploadedDate": "2021-04-12T18:10:24.087Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/244aaaa06bfa49d088205b13b9d2d115/offer/EGS_Warframe_DigitalExtremes_S2-1200x1600-2339dcbf67fbe2ea38eeb742c7c38331.jpg",
-      "md5": "2339dcbf67fbe2ea38eeb742c7c38331",
-      "size": 252341,
-      "uploadedDate": "2020-12-08T16:22:37.855Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/portrait_1200x1600-8949ca06d4a2107bc25ec4172e353a8d",
+      "md5": "8949ca06d4a2107bc25ec4172e353a8d",
+      "size": 186901,
+      "uploadedDate": "2021-04-12T18:10:30.783Z",
       "width": 1200,
       "height": 1600
     },
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/244aaaa06bfa49d088205b13b9d2d115/offer/EGS_Warframe_DigitalExtremes_S1-2560x1440-c09ac119d45b4fae2b82eb3ae0ab20eb.jpg",
-      "md5": "c09ac119d45b4fae2b82eb3ae0ab20eb",
-      "size": 408179,
-      "uploadedDate": "2020-12-09T03:29:12.888Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/244aaaa06bfa49d088205b13b9d2d115/offer/EGS_Warframe_DigitalExtremes_S1-2560x1440-c09ac119d45b4fae2b82eb3ae0ab20eb.jpg",
-      "md5": "c09ac119d45b4fae2b82eb3ae0ab20eb",
-      "size": 408179,
-      "uploadedDate": "2020-12-09T03:29:22.978Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/244aaaa06bfa49d088205b13b9d2d115/offer/EGS_Warframe_DigitalExtremes_S2-1200x1600-2339dcbf67fbe2ea38eeb742c7c38331.jpg",
-      "md5": "2339dcbf67fbe2ea38eeb742c7c38331",
-      "size": 252341,
-      "uploadedDate": "2020-12-09T03:29:33.838Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/portrait_1200x1600-8949ca06d4a2107bc25ec4172e353a8d",
+      "md5": "8949ca06d4a2107bc25ec4172e353a8d",
+      "size": 186901,
+      "uploadedDate": "2021-04-12T18:10:44.633Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/244aaaa06bfa49d088205b13b9d2d115/offer/EGS_Warframe_DigitalExtremes_S2-1200x1600-2339dcbf67fbe2ea38eeb742c7c38331.jpg",
-      "md5": "2339dcbf67fbe2ea38eeb742c7c38331",
-      "size": 252341,
-      "uploadedDate": "2020-12-09T03:29:40.991Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/portrait_1200x1600-8949ca06d4a2107bc25ec4172e353a8d",
+      "md5": "8949ca06d4a2107bc25ec4172e353a8d",
+      "size": 186901,
+      "uploadedDate": "2021-04-12T18:10:54.872Z",
       "width": 1200,
       "height": 1600
     },
     {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/landscape_2560x1440-601b4884c4d7218ea30f45f602a673dd",
+      "md5": "601b4884c4d7218ea30f45f602a673dd",
+      "size": 309196,
+      "uploadedDate": "2021-04-12T18:11:10.584Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/244aaaa06bfa49d088205b13b9d2d115/offer/EGS_Warframe_DigitalExtremes_S2-1200x1600-2339dcbf67fbe2ea38eeb742c7c38331.jpg",
-      "md5": "2339dcbf67fbe2ea38eeb742c7c38331",
-      "size": 252341,
-      "uploadedDate": "2020-12-09T03:29:51.183Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/portrait_1200x1600-8949ca06d4a2107bc25ec4172e353a8d",
+      "md5": "8949ca06d4a2107bc25ec4172e353a8d",
+      "size": 186901,
+      "uploadedDate": "2021-04-12T18:11:20.843Z",
       "width": 1200,
       "height": 1600
     }
@@ -215,6 +215,6 @@
     }
   ],
   "catalogNs": {
-    "name": null
+    "name": "244aaaa06bfa49d088205b13b9d2d115"
   }
 }
