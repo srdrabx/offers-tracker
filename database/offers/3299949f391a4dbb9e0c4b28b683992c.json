@@ -8,7 +8,7 @@
   "productSlug": "griftlands/home",
   "urlSlug": "phloxgeneralaudience",
   "creationDate": "2019-03-04T13:11:24.093Z",
-  "lastModifiedDate": "2020-07-20T17:00:09.356Z",
+  "lastModifiedDate": "2021-04-15T16:18:46.424Z",
   "effectiveDate": "2019-06-14T11:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -133,6 +133,21 @@
       "status": "ACTIVE",
       "referenceCount": 618,
       "comment": ""
+    },
+    {
+      "id": "10719",
+      "name": "Mac OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX",
+        "macOS"
+      ],
+      "operator": null,
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2021-02-10T17:26:31.125Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
     }
   ],
   "customAttributes": [

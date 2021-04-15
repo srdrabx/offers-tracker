@@ -1,16 +1,16 @@
 {
   "id": "5f0432c0f7914da480e53f423eb244f0",
   "namespace": "eb348461cdaf4bec9d69a1c4bb39ecc4",
-  "title": "Indium Outlands and Outsiders",
-  "description": "Indium Outlands and Outsiders",
-  "longDescription": null,
+  "title": "Hand of Fate 2 - Outlands and Outsiders",
+  "description": "Hand of Fate 2: Outlands and Outsiders DLC expands the Game of Life and Death with a brand new campaign challenge and a unique companion character.",
+  "longDescription": "Hand of Fate 2: Outlands and Outsiders DLC expands the Game of Life and Death with a brand new campaign challenge and a unique companion character.",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "indiumoutlandsandoutsidersaudience",
+  "urlSlug": "hand-of-fate-2--outlands-and-outsiders",
   "creationDate": "2021-02-10T04:55:02.475Z",
-  "lastModifiedDate": "2021-04-01T05:00:43.375Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2021-04-15T14:00:20.440Z",
+  "effectiveDate": "2021-04-22T15:00:00.000Z",
+  "viewableDate": "2021-04-15T15:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-263x4kmewy3sltg46p3ccce2aqmypf",
@@ -25,7 +25,10 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
     },
     {
       "path": "applications"
@@ -35,18 +38,82 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "[]"
     },
     {
       "key": "publisherName",
-      "value": "[]"
+      "value": "Defiant Development"
     },
     {
       "key": "developerName",
-      "value": "[]"
+      "value": "Defiant Development"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/eb348461cdaf4bec9d69a1c4bb39ecc4/offer/EGS_HandofFate2OutlandsandOutsiders_DefiantDevelopment_DLC_S1-2560x1440-b843c0778a61578a5e9196e662add181.jpg",
+      "md5": "b843c0778a61578a5e9196e662add181",
+      "size": 991524,
+      "uploadedDate": "2021-02-23T02:30:00.497Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/eb348461cdaf4bec9d69a1c4bb39ecc4/offer/EGS_HandofFate2OutlandsandOutsiders_DefiantDevelopment_DLC_S2-1200x1600-6b54933e5540607705241fbca3c71d38.jpg",
+      "md5": "6b54933e5540607705241fbca3c71d38",
+      "size": 834794,
+      "uploadedDate": "2021-02-23T02:30:12.722Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/eb348461cdaf4bec9d69a1c4bb39ecc4/offer/EGS_HandofFate2OutlandsandOutsiders_DefiantDevelopment_DLC_S2-1200x1600-6b54933e5540607705241fbca3c71d38.jpg",
+      "md5": "6b54933e5540607705241fbca3c71d38",
+      "size": 834794,
+      "uploadedDate": "2021-02-23T02:30:51.689Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/eb348461cdaf4bec9d69a1c4bb39ecc4/offer/EGS_HandofFate2OutlandsandOutsiders_DefiantDevelopment_DLC_S2-1200x1600-6b54933e5540607705241fbca3c71d38.jpg",
+      "md5": "6b54933e5540607705241fbca3c71d38",
+      "size": 834794,
+      "uploadedDate": "2021-02-23T02:31:13.719Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/eb348461cdaf4bec9d69a1c4bb39ecc4/offer/EGS_HandofFate2OutlandsandOutsiders_DefiantDevelopment_DLC_IC1-200x200-cfbc066250cca84862ecabbc857302d4.png",
+      "md5": "cfbc066250cca84862ecabbc857302d4",
+      "size": 40598,
+      "uploadedDate": "2021-02-23T02:32:50.390Z",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/eb348461cdaf4bec9d69a1c4bb39ecc4/offer/EGS_HandofFate2OutlandsandOutsiders_DefiantDevelopment_DLC_S1-2560x1440-b843c0778a61578a5e9196e662add181.jpg",
+      "md5": "b843c0778a61578a5e9196e662add181",
+      "size": 991524,
+      "uploadedDate": "2021-02-23T02:33:07.494Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/eb348461cdaf4bec9d69a1c4bb39ecc4/offer/EGS_HandofFate2OutlandsandOutsiders_DefiantDevelopment_DLC_S2-1200x1600-6b54933e5540607705241fbca3c71d38.jpg",
+      "md5": "6b54933e5540607705241fbca3c71d38",
+      "size": 834794,
+      "uploadedDate": "2021-02-23T02:33:16.470Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "acad6041c327469c8cc596b0ce7899b9"

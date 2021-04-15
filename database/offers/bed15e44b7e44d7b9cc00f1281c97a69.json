@@ -6,10 +6,10 @@
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": "days-gone",
-  "urlSlug": "days-gone",
+  "urlSlug": "days-gone-prepurchase",
   "creationDate": "2020-10-26T16:39:40.267Z",
-  "lastModifiedDate": "2021-02-24T18:45:16.407Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2021-04-15T12:56:59.471Z",
+  "effectiveDate": "2021-04-15T13:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -39,6 +39,30 @@
   ],
   "tags": [
     {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2021-02-10T17:36:19.203Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1080",
+      "name": "Survival",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2021-02-05T16:19:16.566Z",
+      "status": "ACTIVE",
+      "referenceCount": 11,
+      "comment": null
+    },
+    {
       "id": "1370",
       "name": "Single Player",
       "namespace": "epic",
@@ -48,6 +72,18 @@
       "updated": "2021-02-10T17:36:35.389Z",
       "status": "ACTIVE",
       "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "Open World",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2021-02-10T17:34:58.080Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
       "comment": null
     },
     {
@@ -67,6 +103,14 @@
     {
       "key": "publisherName",
       "value": "Sony Interactive Entertainment"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "availableDate",
+      "value": "1621350000"
     },
     {
       "key": "developerName",
@@ -135,7 +179,7 @@
   ],
   "items": [
     {
-      "id": "7fd1733bc8484b5d9a193a962dad543b"
+      "id": "5962fa7f3c714b208a08563d6bc0de46"
     }
   ],
   "catalogNs": {

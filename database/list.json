@@ -9441,6 +9441,22 @@
     "diabotical/standard-pack"
   ],
   [
+    "29a8fa31419949e2bbe14c4b0621282e",
+    "6af58339c2424644988e0fb83dfd9bd5",
+    "Ja Rule ft. Ashanti - \"Always On Time\"",
+    [
+      "addons",
+      "games",
+      "addons/durable",
+      "applications"
+    ],
+    "NCSoft",
+    1613672929,
+    1618498449,
+    "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_JaRuleftAshantiAlwaysOnTime_HarmonixMusicSystemsInc_DLC_S2-1200x1600-792a926571099a9ae3294cbe107fb569.jpg",
+    ""
+  ],
+  [
     "29d8fec7c4ec4f30b9d3369597ffdd82",
     "d5241c76f178492ea1540fce45616757",
     "The Long Dark",
@@ -11354,6 +11370,22 @@
     "tacoma"
   ],
   [
+    "32114b828b6744a0bff27f7ab6cfe0a3",
+    "c6e54ebd92da4ee8819c1c0956cebdc4",
+    "OUTRIDERS",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Square Enix",
+    1617142582,
+    1618502592,
+    "https://cdn1.epicgames.com/c6e54ebd92da4ee8819c1c0956cebdc4/offer/Outriders_tall-1200x1600-1e019175a39f3cac61549f0d543baec0.jpg",
+    "outriders/home"
+  ],
+  [
     "32201558ff7442d583afc930fd78d1c7",
     "19d54f4a6d7e4ba99c5caf8972fbfd02",
     "Hyper Scape™ – Prisma Security Pack + 1,000 Bitcrowns",
@@ -11498,7 +11530,7 @@
     ],
     "Klei Entertainment",
     1551705084,
-    1595264409,
+    1618503526,
     "https://cdn1.epicgames.com/phlox/offer/EGS_Griftlands_KleiEntertainment_S2-860x1148-5fc47bd45ab3e9271046563fa33b5081.jpg",
     "griftlands/home"
   ],
@@ -18193,15 +18225,16 @@
   [
     "4f2e013f23494b118ab8c04044633cd7",
     "eb348461cdaf4bec9d69a1c4bb39ecc4",
-    "Indium The Servant and the Beast",
+    "Hand of Fate 2 - The Servant and the Beast",
     [
-      "games",
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Defiant Development PTY LTD",
     1612932803,
-    1617253102,
-    "",
+    1618495220,
+    "https://cdn1.epicgames.com/eb348461cdaf4bec9d69a1c4bb39ecc4/offer/EGS_HandofFate2TheServantandtheBeast_DefiantDevelopment_DLC_S2-1200x1600-bcfb4ac175e5f1d4eae6e9f53fb7ac2c.jpg",
     ""
   ],
   [
@@ -19925,6 +19958,22 @@
     1586975587,
     1594306679,
     "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
+    ""
+  ],
+  [
+    "56e7905f49ac4500a9ee845cf3662991",
+    "6af58339c2424644988e0fb83dfd9bd5",
+    "Lady Gaga & BLACKPINK - \"Sour Candy\"",
+    [
+      "addons",
+      "games",
+      "addons/durable",
+      "applications"
+    ],
+    "NCSoft",
+    1613672893,
+    1618498449,
+    "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_LadyGagaBLACKPINKSourCandy_HarmonixMusicSystemsInc_DLC_S2-1200x1600-185992f3a28a921c70c2ae340ba20057.jpg",
     ""
   ],
   [
@@ -21770,15 +21819,16 @@
   [
     "5f0432c0f7914da480e53f423eb244f0",
     "eb348461cdaf4bec9d69a1c4bb39ecc4",
-    "Indium Outlands and Outsiders",
+    "Hand of Fate 2 - Outlands and Outsiders",
     [
-      "games",
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Defiant Development PTY LTD",
     1612932902,
-    1617253243,
-    "",
+    1618495220,
+    "https://cdn1.epicgames.com/eb348461cdaf4bec9d69a1c4bb39ecc4/offer/EGS_HandofFate2OutlandsandOutsiders_DefiantDevelopment_DLC_S2-1200x1600-6b54933e5540607705241fbca3c71d38.jpg",
     ""
   ],
   [
@@ -23210,6 +23260,21 @@
     ""
   ],
   [
+    "659f15eb56804bd480fedabeda9aad36",
+    "c6e54ebd92da4ee8819c1c0956cebdc4",
+    "Hell’s Rangers Content Pack",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Square Enix",
+    1596642725,
+    1618502710,
+    "https://cdn1.epicgames.com/c6e54ebd92da4ee8819c1c0956cebdc4/offer/EGS_OUTRIDERSHellsRangersContentPack_PeopleCanFly_DLC_S2-1200x1600-a405877ef958f7ff5d14f502d15edca7.jpg",
+    "outriders/hells-rangers"
+  ],
+  [
     "65b5dbad34c34d5fa94caaf0e3a80307",
     "fb33c2ab660c4539a32576d5fd53f055",
     "DevJadeAudience",
@@ -24124,7 +24189,7 @@
     ],
     "IO Interactive",
     1612501979,
-    1617108373,
+    1618491668,
     "https://cdn1.epicgames.com/ed55aa5edc5941de92fd7f64de415793/offer/EGS_HITMAN3FreeStarterPack_IOInteractiveAS_Bundles_S2-1200x1600-edf334753fdec5be4e94a07e2328d281.jpg",
     ""
   ],
@@ -39332,6 +39397,21 @@
     "city-of-brass/home"
   ],
   [
+    "ac310d9f70ff44ec87372732e7d9eb2e",
+    "eb348461cdaf4bec9d69a1c4bb39ecc4",
+    "Hand of Fate 2 - Soundtrack",
+    [
+      "digitalextras",
+      "digitalextras/soundtrack",
+      "applications"
+    ],
+    "Defiant Development PTY LTD",
+    1612932631,
+    1618495220,
+    "https://cdn1.epicgames.com/eb348461cdaf4bec9d69a1c4bb39ecc4/offer/EGS_HandofFate2Soundtrack_DefiantDevelopment_DigitalExtras_S2-1200x1600-72c10554d5fc6395946470a4cd5e9984.jpg",
+    ""
+  ],
+  [
     "ac3da74961c8413b9a63b4258cbc31f8",
     "epic",
     "Batman™ Arkham Asylum Game of the Year Edition",
@@ -43396,7 +43476,7 @@
     ],
     "Sony Interactive Entertainment",
     1603730380,
-    1614192316,
+    1618491419,
     "https://cdn1.epicgames.com/9f4875c1b0cf4cf19b28e203fc7aff07/offer/EGS_Brutalopenworldactionadventuregame_BendStudio_S2-1200x1600-e1c183cc11fdb47e26581e5ba19aa10a.jpg",
     "days-gone"
   ],
@@ -44013,15 +44093,16 @@
   [
     "c16e19279c624a8798052467d6750ba1",
     "eb348461cdaf4bec9d69a1c4bb39ecc4",
-    "Indium A Cold Hearth",
+    "Hand of Fate 2 - A Cold Hearth",
     [
-      "games",
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Defiant Development PTY LTD",
     1612932997,
-    1617253158,
-    "",
+    1618495220,
+    "https://cdn1.epicgames.com/eb348461cdaf4bec9d69a1c4bb39ecc4/offer/EGS_HandofFate2AColdHearth_DefiantDevelopment_DLC_S2-1200x1600-37075c5b5a0c60e28081ceac9d0c0ce7.jpg",
     ""
   ],
   [
@@ -47733,6 +47814,7 @@
     "df37f065c3f14eadbf011177396e2966",
     "Alien: Isolation",
     [
+      "freegames",
       "games",
       "games/edition/base",
       "games/edition",
@@ -47740,7 +47822,7 @@
     ],
     "SEGA of Europe",
     1603729693,
-    1608309409,
+    1618497297,
     "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/offer/EGS_AlienIsolation_CreativeAssembly_S6-1200x1600-af00adc8f67a7c6138cce183ac1e9503.jpg",
     "alien-isolation"
   ],
@@ -53080,7 +53162,7 @@
     ],
     "Manticore Games",
     1585887612,
-    1613072678,
+    1618498730,
     "https://cdn1.epicgames.com/8ff186a4415d4ce6b5a287ccfd11cf04/offer/EGS_Core_ManticoreGames_S2-1200x1600-6724c3b1a1b771d1fcfd34af273281bb.jpg",
     "core"
   ],
@@ -54451,6 +54533,21 @@
     "super-meat-boy-forever"
   ],
   [
+    "ef673112760b43c39b8492c31da80e4b",
+    "eb348461cdaf4bec9d69a1c4bb39ecc4",
+    "Hand of Fate 2",
+    [
+      "freegames",
+      "games",
+      "applications"
+    ],
+    "Defiant Development PTY LTD",
+    1610662433,
+    1618495220,
+    "https://cdn1.epicgames.com/eb348461cdaf4bec9d69a1c4bb39ecc4/offer/EGS_HandofFate2_DefiantDevelopment_S2-1200x1600-30c02fa77e675a39bbdfa5c0fab19894.jpg",
+    "hand-of-fate-2"
+  ],
+  [
     "ef67db2c823944098c1b570ee5d4c731",
     "d9090f3f39f64d5bb827c6e44b95cff0",
     "3 out of 10, Season One: Original Soundtrack",
@@ -55492,6 +55589,22 @@
     1609255847,
     "",
     "alien-isolation"
+  ],
+  [
+    "f473295b0ac84311a19875f1a4176d64",
+    "05e091079c41495ab9df8b3200646085",
+    "Ashwalkers",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Plug In Digital SAS",
+    1614273613,
+    1618500146,
+    "https://cdn1.epicgames.com/05e091079c41495ab9df8b3200646085/offer/EGS_Ashwalkers_NamelessXIII_S2-1200x1600-e79c560da60d9d568b72fc651832f96f.jpg",
+    "ashwalkers"
   ],
   [
     "f49376f72eef4d1f805ac3dfa6bcbfcc",

@@ -1,16 +1,16 @@
 {
   "id": "4f2e013f23494b118ab8c04044633cd7",
   "namespace": "eb348461cdaf4bec9d69a1c4bb39ecc4",
-  "title": "Indium The Servant and the Beast",
-  "description": "Indium The Servant and the Beast",
-  "longDescription": null,
+  "title": "Hand of Fate 2 - The Servant and the Beast",
+  "description": "Hand of Fate 2: The Servant and the Beast DLC evolves the Game of Life and Death once again with a brand new campaign challenge and a unique companion character.",
+  "longDescription": "Hand of Fate 2: The Servant and the Beast DLC evolves the Game of Life and Death once again with a brand new campaign challenge and a unique companion character.",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "indiumtheserventandthebeastaudience",
+  "urlSlug": "hand-of-fate-2--the-servant-and-the-beast",
   "creationDate": "2021-02-10T04:53:23.132Z",
-  "lastModifiedDate": "2021-04-01T04:58:22.182Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2021-04-15T14:00:20.415Z",
+  "effectiveDate": "2021-04-22T15:00:00.000Z",
+  "viewableDate": "2021-04-15T15:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-263x4kmewy3sltg46p3ccce2aqmypf",
@@ -25,7 +25,10 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
     },
     {
       "path": "applications"
@@ -35,18 +38,82 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "[]"
     },
     {
       "key": "publisherName",
-      "value": "[]"
+      "value": "Defiant Development"
     },
     {
       "key": "developerName",
-      "value": "[]"
+      "value": "Defiant Development"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/eb348461cdaf4bec9d69a1c4bb39ecc4/offer/EGS_HandofFate2TheServantandtheBeast_DefiantDevelopment_DLC_S1-2560x1440-a5afe1807c30d6c22a0fa269ae5e4398.jpg",
+      "md5": "a5afe1807c30d6c22a0fa269ae5e4398",
+      "size": 1021826,
+      "uploadedDate": "2021-02-18T00:25:35.341Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/eb348461cdaf4bec9d69a1c4bb39ecc4/offer/EGS_HandofFate2TheServantandtheBeast_DefiantDevelopment_DLC_S2-1200x1600-bcfb4ac175e5f1d4eae6e9f53fb7ac2c.jpg",
+      "md5": "bcfb4ac175e5f1d4eae6e9f53fb7ac2c",
+      "size": 1000125,
+      "uploadedDate": "2021-02-18T00:25:45.947Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/eb348461cdaf4bec9d69a1c4bb39ecc4/offer/EGS_HandofFate2TheServantandtheBeast_DefiantDevelopment_DLC_S2-1200x1600-bcfb4ac175e5f1d4eae6e9f53fb7ac2c.jpg",
+      "md5": "bcfb4ac175e5f1d4eae6e9f53fb7ac2c",
+      "size": 1000125,
+      "uploadedDate": "2021-02-18T00:25:56.739Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/eb348461cdaf4bec9d69a1c4bb39ecc4/offer/EGS_HandofFate2TheServantandtheBeast_DefiantDevelopment_DLC_S2-1200x1600-bcfb4ac175e5f1d4eae6e9f53fb7ac2c.jpg",
+      "md5": "bcfb4ac175e5f1d4eae6e9f53fb7ac2c",
+      "size": 1000125,
+      "uploadedDate": "2021-02-18T00:26:04.803Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/eb348461cdaf4bec9d69a1c4bb39ecc4/offer/EGS_HandofFate2TheServantandtheBeast_DefiantDevelopment_DLC_IC1-200x200-d2ebdee0e81018a65bcf5b3b8007bcad.png",
+      "md5": "d2ebdee0e81018a65bcf5b3b8007bcad",
+      "size": 57339,
+      "uploadedDate": "2021-02-23T02:34:56.111Z",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/eb348461cdaf4bec9d69a1c4bb39ecc4/offer/EGS_HandofFate2TheServantandtheBeast_DefiantDevelopment_DLC_S1-2560x1440-a5afe1807c30d6c22a0fa269ae5e4398.jpg",
+      "md5": "a5afe1807c30d6c22a0fa269ae5e4398",
+      "size": 1021826,
+      "uploadedDate": "2021-02-23T02:35:19.034Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/eb348461cdaf4bec9d69a1c4bb39ecc4/offer/EGS_HandofFate2TheServantandtheBeast_DefiantDevelopment_DLC_S2-1200x1600-bcfb4ac175e5f1d4eae6e9f53fb7ac2c.jpg",
+      "md5": "bcfb4ac175e5f1d4eae6e9f53fb7ac2c",
+      "size": 1000125,
+      "uploadedDate": "2021-02-23T02:35:30.042Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "077e137374d74aba84d66bcfd14c39dc"

@@ -1,0 +1,184 @@
+{
+  "id": "f473295b0ac84311a19875f1a4176d64",
+  "namespace": "05e091079c41495ab9df8b3200646085",
+  "title": "Ashwalkers",
+  "description": "Ashwalkers",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "ashwalkers",
+  "urlSlug": "ashwalkers",
+  "creationDate": "2021-02-25T17:20:13.945Z",
+  "lastModifiedDate": "2021-04-15T15:22:26.320Z",
+  "effectiveDate": "2021-04-15T15:00:00.000Z",
+  "viewableDate": "2021-04-15T15:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+    "name": "Plug In Digital SAS"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1080",
+      "name": "Survival",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2021-02-05T16:19:16.566Z",
+      "status": "ACTIVE",
+      "referenceCount": 11,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2021-02-10T17:35:47.790Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2021-02-10T17:35:19.827Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Dear Villagers"
+    },
+    {
+      "key": "developerName",
+      "value": "Nameless XIII"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "ashwalkers"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/05e091079c41495ab9df8b3200646085/offer/EGS_Ashwalkers_NamelessXIII_S1-2560x1440-57acc51c42d6360c37de24b202f87109.jpg",
+      "md5": "57acc51c42d6360c37de24b202f87109",
+      "size": 941180,
+      "uploadedDate": "2021-04-02T18:51:32.945Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/05e091079c41495ab9df8b3200646085/offer/EGS_Ashwalkers_NamelessXIII_S2-1200x1600-e79c560da60d9d568b72fc651832f96f.jpg",
+      "md5": "e79c560da60d9d568b72fc651832f96f",
+      "size": 867620,
+      "uploadedDate": "2021-04-02T18:51:36.555Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/05e091079c41495ab9df8b3200646085/offer/EGS_Ashwalkers_NamelessXIII_S1-2560x1440-57acc51c42d6360c37de24b202f87109.jpg",
+      "md5": "57acc51c42d6360c37de24b202f87109",
+      "size": 941180,
+      "uploadedDate": "2021-04-02T18:51:40.244Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/05e091079c41495ab9df8b3200646085/offer/EGS_Ashwalkers_NamelessXIII_S2-1200x1600-e79c560da60d9d568b72fc651832f96f.jpg",
+      "md5": "e79c560da60d9d568b72fc651832f96f",
+      "size": 867620,
+      "uploadedDate": "2021-04-02T18:51:44.919Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/05e091079c41495ab9df8b3200646085/offer/EGS_Ashwalkers_NamelessXIII_S2-1200x1600-e79c560da60d9d568b72fc651832f96f.jpg",
+      "md5": "e79c560da60d9d568b72fc651832f96f",
+      "size": 867620,
+      "uploadedDate": "2021-04-02T18:51:49.387Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/05e091079c41495ab9df8b3200646085/offer/EGS_Ashwalkers_NamelessXIII_S2-1200x1600-e79c560da60d9d568b72fc651832f96f.jpg",
+      "md5": "e79c560da60d9d568b72fc651832f96f",
+      "size": 867620,
+      "uploadedDate": "2021-04-02T18:51:58.489Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "ec681ce01c354bcda4d6f9be13275b6c"
+    }
+  ],
+  "catalogNs": {
+    "name": "05e091079c41495ab9df8b3200646085"
+  }
+}

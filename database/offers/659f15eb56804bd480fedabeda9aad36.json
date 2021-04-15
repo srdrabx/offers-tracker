@@ -1,0 +1,120 @@
+{
+  "id": "659f15eb56804bd480fedabeda9aad36",
+  "namespace": "c6e54ebd92da4ee8819c1c0956cebdc4",
+  "title": "Hell’s Rangers Content Pack",
+  "description": "Hell’s Rangers Content Pack",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "outriders/hells-rangers",
+  "urlSlug": "outriders--hells-rangers",
+  "creationDate": "2020-08-05T15:52:05.695Z",
+  "lastModifiedDate": "2021-04-15T16:05:10.290Z",
+  "effectiveDate": "2021-04-15T16:00:00.000Z",
+  "viewableDate": "2020-08-25T15:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
+    "name": "Square Enix"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Square Enix"
+    },
+    {
+      "key": "developerName",
+      "value": "People Can Fly"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "outriders/hells-rangers"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/c6e54ebd92da4ee8819c1c0956cebdc4/offer/EGS_OUTRIDERSHellsRangersContentPack_PeopleCanFly_DLC_S1-2560x1440-ecd26fef870d7f18f4d0adc72fd95015.jpg",
+      "md5": "ecd26fef870d7f18f4d0adc72fd95015",
+      "size": 918934,
+      "uploadedDate": "2020-08-14T15:57:12.358Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/c6e54ebd92da4ee8819c1c0956cebdc4/offer/EGS_OUTRIDERSHellsRangersContentPack_PeopleCanFly_DLC_S2-1200x1600-a405877ef958f7ff5d14f502d15edca7.jpg",
+      "md5": "a405877ef958f7ff5d14f502d15edca7",
+      "size": 521116,
+      "uploadedDate": "2020-08-14T15:57:19.962Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/c6e54ebd92da4ee8819c1c0956cebdc4/offer/EGS_OUTRIDERSHellsRangersContentPack_PeopleCanFly_DLC_S2-1200x1600-a405877ef958f7ff5d14f502d15edca7.jpg",
+      "md5": "a405877ef958f7ff5d14f502d15edca7",
+      "size": 521116,
+      "uploadedDate": "2020-08-14T15:57:29.741Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/c6e54ebd92da4ee8819c1c0956cebdc4/offer/EGS_OUTRIDERSHellsRangersContentPack_PeopleCanFly_DLC_S2-1200x1600-a405877ef958f7ff5d14f502d15edca7.jpg",
+      "md5": "a405877ef958f7ff5d14f502d15edca7",
+      "size": 521116,
+      "uploadedDate": "2020-08-14T15:57:35.867Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/c6e54ebd92da4ee8819c1c0956cebdc4/offer/EGS_OUTRIDERSHellsRangersContentPack_PeopleCanFly_DLC_S1-2560x1440-ecd26fef870d7f18f4d0adc72fd95015.jpg",
+      "md5": "ecd26fef870d7f18f4d0adc72fd95015",
+      "size": 918934,
+      "uploadedDate": "2020-08-14T15:57:46.613Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/c6e54ebd92da4ee8819c1c0956cebdc4/offer/EGS_OUTRIDERSHellsRangersContentPack_PeopleCanFly_DLC_S2-1200x1600-a405877ef958f7ff5d14f502d15edca7.jpg",
+      "md5": "a405877ef958f7ff5d14f502d15edca7",
+      "size": 521116,
+      "uploadedDate": "2020-08-14T15:57:54.512Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "628304335c644b22ac9ae9c5010d7321"
+    }
+  ],
+  "catalogNs": {
+    "name": "c6e54ebd92da4ee8819c1c0956cebdc4"
+  }
+}
