@@ -5420,7 +5420,7 @@
     ],
     "Failbetter Games",
     1613409929,
-    1613662794,
+    1618525776,
     "https://cdn1.epicgames.com/f672c20984f04f69936e6057feefe3d1/offer/EGS_SunlessSeaZubmariner_FailbetterGames_DLC_S2-1200x1600-95563ab46481a92881d9c8d02beef56e.jpg",
     ""
   ],
@@ -5541,7 +5541,7 @@
     ],
     "NIS America, Inc.",
     1617751613,
-    1617985777,
+    1618590878,
     "https://cdn1.epicgames.com/08142466e4104a018e149441d35dbabc/offer/EGS_TrailsofColdSteelIVDigitalDeluxeEdition_NihonFalcom_Bundles_S2-1200x1600-4f2547c775a7e14036f73da1bc7f29d5.jpg",
     "the-legend-of-heroes-trails-of-cold-steel-iv/digital-deluxe-edition"
   ],
@@ -5716,6 +5716,22 @@
     1612308227,
     1613491571,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
+    ""
+  ],
+  [
+    "1905a2cc2588440d92dee578cd64749d",
+    "ca4058f18b0a4a9e9e2ccc28f7f33000",
+    "Deliverance: The Making of Kingdom Come",
+    [
+      "addons",
+      "digitalextras",
+      "addons/durable",
+      "applications"
+    ],
+    "Warhorse Studios",
+    1616788526,
+    1618587342,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DeliveranceTheMakingofKingdomCome_WarhorseStudios_DigitalExtras_S2_1200x1600-7296dee542aafa77444858060f9f2180",
     ""
   ],
   [
@@ -9551,8 +9567,8 @@
     ],
     "Raw Fury",
     1559849945,
-    1590666610,
-    "https://cdn1.epicgames.com/ff1cd8b38bda4f6281879c9bdb228ff1/offer/Atomicrops_EpicGames_Offer_Portrait_Image-1200x1600-24526c6bac492e1e0bb22be4e5d5dade.jpg",
+    1618517140,
+    "https://cdn1.epicgames.com/ff1cd8b38bda4f6281879c9bdb228ff1/offer/atomicrops.new-629x839-6f592aaf3a1cd59272d1e505dc224150.jpg",
     "atomicrops/home"
   ],
   [
@@ -14408,6 +14424,22 @@
     1613491571,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
+  ],
+  [
+    "3f110da6e3b44431924838a7335c6cbe",
+    "9a1baf1cfcfd4cdba01b1ce54ae2ed55",
+    "Shadow Man Remastered",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Night Dive Studios, Inc.",
+    1617053988,
+    1618501397,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_ShadowManRemastered_NightdiveStudiosAcclaimStudiosTeesside_S2_1200x1600-0c259212b90cd3e2fce7d2a4e37614c3",
+    "shadow-man-remastered"
   ],
   [
     "3f196f43525d4cee86e62f933d7371bc",
@@ -27495,7 +27527,7 @@
     ],
     "Snapshot Games",
     1600193333,
-    1607648930,
+    1618578062,
     "https://cdn1.epicgames.com/iris/offer/EGS_PhoenixPointYearOneEdition_SnapshotGames_Editions_S2-1200x1600-57e9b0d179f742732482419746c3f015.jpg",
     "phoenix-point"
   ],
@@ -35467,6 +35499,20 @@
     ""
   ],
   [
+    "9bbfe5536ecc4a1190e07cb4cbeb7ddb",
+    "fa9812acd30f46f8a69a75bf27addb5c",
+    "FregulaGeneralAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "Maximum Games",
+    1615247731,
+    1618584665,
+    "",
+    ""
+  ],
+  [
     "9bccc75b097e47c5b49e3fb8bd78652b",
     "36336ee97ec543bbae85abaca618182b",
     "1700 coins",
@@ -36306,6 +36352,22 @@
     1594306671,
     "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
     ""
+  ],
+  [
+    "9ef83fd750d74fdd9e8ebdc7a9e23ea6",
+    "154f1c07994047baacd05f40a6672c02",
+    "Hitchhiker-A Mystery Game",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Versus Evil",
+    1614881474,
+    1618505532,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-hitchhikeramysterygame-madaboutpandas-s2-1200x1600-5289bd76a823_1200x1600-a537f6419239a95ae19b5ef561276071",
+    "hitchhiker-a-mystery-game"
   ],
   [
     "9ef854099e2d4d409169812684c45590",
@@ -46143,7 +46205,7 @@
     ],
     "Snapshot Games",
     1606405139,
-    1607648930,
+    1618578053,
     "https://cdn1.epicgames.com/iris/offer/PP_long-340x440-8ddd13489c7216a86f4cfa9e96452981.jpg",
     "phoenix-point/yoe-upgrade"
   ],
@@ -48617,6 +48679,20 @@
     ""
   ],
   [
+    "d78011fcfecd4762b28db8efdc0111a8",
+    "fa9812acd30f46f8a69a75bf27addb5c",
+    "DevFregulaAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "Maximum Games",
+    1615247731,
+    1618584665,
+    "",
+    ""
+  ],
+  [
     "d7802e4ae5174bcd8020f5bfab4199d4",
     "middlemist",
     "MiddlemistDevAudience",
@@ -49817,6 +49893,22 @@
     1604453003,
     1608218700,
     "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/d2b6b291-5382-4748-878e-7b11e96f2260-1200x1600-625818cc08bcf0a730cd17adb41d2c83.jfif",
+    ""
+  ],
+  [
+    "dc64841c6b6a45b7a33e80a06a85af98",
+    "ca4058f18b0a4a9e9e2ccc28f7f33000",
+    "Fechtbuch: Real Swordfighting behind Kingdom Come",
+    [
+      "addons",
+      "digitalextras",
+      "addons/durable",
+      "applications"
+    ],
+    "Warhorse Studios",
+    1616788500,
+    1618588635,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FechtbuchRealSwordfightingbehindKingdomCome_WarhorseStudios_DigitalExtras_S2_1200x1600-461da11374fa116bfc9774778aae9d7a",
     ""
   ],
   [
@@ -55901,6 +55993,22 @@
     "vampire-the-masquerade-bloodlines-2/home"
   ],
   [
+    "f5bf01af9b73409a9684f2039b9fb61b",
+    "11ec8e91ffa540c7a294501d9754b315",
+    "Secret Government",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "1C Online Games Ltd",
+    1615329631,
+    1618505951,
+    "https://cdn1.epicgames.com/11ec8e91ffa540c7a294501d9754b315/offer/EGS_SecretGovernment_GameTrek_S2-1200x1600-252c0c28242f3845bc0760186ea0336e.jpg",
+    "secret-government"
+  ],
+  [
     "f5d78704c8fe41129588ccfac525957e",
     "hyacinth",
     "Tom Clancy’s Ghost Recon® Wildlands Season Pass Year 1",
@@ -56551,7 +56659,7 @@
     ],
     "NIS America, Inc.",
     1617813672,
-    1617985461,
+    1618590878,
     "https://cdn1.epicgames.com/08142466e4104a018e149441d35dbabc/offer/EGS_TheLegendofHeroesTrailsofColdSteelIV_NihonFalcom_S2-1200x1600-f906f7c17ed313fbc315bec2a3035722.jpg",
     "the-legend-of-heroes-trails-of-cold-steel-iv"
   ],

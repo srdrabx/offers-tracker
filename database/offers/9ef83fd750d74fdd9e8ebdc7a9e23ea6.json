@@ -1,0 +1,123 @@
+{
+  "id": "9ef83fd750d74fdd9e8ebdc7a9e23ea6",
+  "namespace": "154f1c07994047baacd05f40a6672c02",
+  "title": "Hitchhiker-A Mystery Game",
+  "description": "Hitchhiker-A Mystery Game",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "hitchhiker-a-mystery-game",
+  "urlSlug": "penne-general-audience",
+  "creationDate": "2021-03-04T18:11:14.793Z",
+  "lastModifiedDate": "2021-04-15T16:52:12.050Z",
+  "effectiveDate": "2021-04-15T17:00:00.000Z",
+  "viewableDate": "2021-04-15T17:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
+    "name": "Versus Evil"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Versus Evil"
+    },
+    {
+      "key": "developerName",
+      "value": "Mad About Pandas"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "hitchhiker-a-mystery-game"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-hitchhikeramysterygame-madaboutpandas-s1-2560x1440-cdc49a4db7e6_2560x1440-99b44c0ddc4efd06e575d5c77f18438a",
+      "md5": "99b44c0ddc4efd06e575d5c77f18438a",
+      "size": 173976,
+      "uploadedDate": "2021-04-14T23:11:28.923Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-hitchhikeramysterygame-madaboutpandas-s2-1200x1600-5289bd76a823_1200x1600-a537f6419239a95ae19b5ef561276071",
+      "md5": "a537f6419239a95ae19b5ef561276071",
+      "size": 140993,
+      "uploadedDate": "2021-04-14T23:11:36.385Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-hitchhikeramysterygame-madaboutpandas-s2-1200x1600-5289bd76a823_1200x1600-a537f6419239a95ae19b5ef561276071",
+      "md5": "a537f6419239a95ae19b5ef561276071",
+      "size": 140993,
+      "uploadedDate": "2021-04-14T23:11:46.481Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-hitchhikeramysterygame-madaboutpandas-s2-1200x1600-5289bd76a823_1200x1600-a537f6419239a95ae19b5ef561276071",
+      "md5": "a537f6419239a95ae19b5ef561276071",
+      "size": 140993,
+      "uploadedDate": "2021-04-14T23:11:58.303Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-hitchhikeramysterygame-madaboutpandas-s1-2560x1440-cdc49a4db7e6_2560x1440-99b44c0ddc4efd06e575d5c77f18438a",
+      "md5": "99b44c0ddc4efd06e575d5c77f18438a",
+      "size": 173976,
+      "uploadedDate": "2021-04-14T23:12:15.006Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-hitchhikeramysterygame-madaboutpandas-s2-1200x1600-5289bd76a823_1200x1600-a537f6419239a95ae19b5ef561276071",
+      "md5": "a537f6419239a95ae19b5ef561276071",
+      "size": 140993,
+      "uploadedDate": "2021-04-14T23:12:29.323Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "d5a5002340f246bcbda9747b6725e2c5"
+    }
+  ],
+  "catalogNs": {
+    "name": "154f1c07994047baacd05f40a6672c02"
+  }
+}

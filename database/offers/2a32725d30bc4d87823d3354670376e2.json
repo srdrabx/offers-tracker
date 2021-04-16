@@ -8,7 +8,7 @@
   "productSlug": "atomicrops/home",
   "urlSlug": "swangeneralaudience",
   "creationDate": "2019-06-06T19:39:05.478Z",
-  "lastModifiedDate": "2020-05-28T11:50:10.802Z",
+  "lastModifiedDate": "2021-04-15T20:05:40.475Z",
   "effectiveDate": "2019-09-04T01:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -152,33 +152,6 @@
       "height": 1440
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/ff1cd8b38bda4f6281879c9bdb228ff1/offer/Atomicrops_EpicGames_Offer_Portrait_Image-1200x1600-24526c6bac492e1e0bb22be4e5d5dade.jpg",
-      "md5": "24526c6bac492e1e0bb22be4e5d5dade",
-      "size": 2377360,
-      "uploadedDate": "2020-05-22T16:15:51.846Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/ff1cd8b38bda4f6281879c9bdb228ff1/offer/Atomicrops_EpicGames_Offer_Portrait_Image-1200x1600-24526c6bac492e1e0bb22be4e5d5dade.jpg",
-      "md5": "24526c6bac492e1e0bb22be4e5d5dade",
-      "size": 2377360,
-      "uploadedDate": "2020-05-22T16:16:02.618Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/ff1cd8b38bda4f6281879c9bdb228ff1/offer/Atomicrops_EpicGames_Offer_Portrait_Image-1200x1600-24526c6bac492e1e0bb22be4e5d5dade.jpg",
-      "md5": "24526c6bac492e1e0bb22be4e5d5dade",
-      "size": 2377360,
-      "uploadedDate": "2020-05-22T16:16:19.950Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "DieselStoreFrontWide",
       "url": "https://cdn1.epicgames.com/ff1cd8b38bda4f6281879c9bdb228ff1/offer/Atomicrops_EpicGames_Product_Landscape_Image-2560x1440-a880d2046711d0f576cbb2f7e0356036.jpg",
       "md5": "a880d2046711d0f576cbb2f7e0356036",
@@ -188,13 +161,40 @@
       "height": 1440
     },
     {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ff1cd8b38bda4f6281879c9bdb228ff1/offer/atomicrops.new-629x839-6f592aaf3a1cd59272d1e505dc224150.jpg",
+      "md5": "6f592aaf3a1cd59272d1e505dc224150",
+      "size": 115519,
+      "uploadedDate": "2021-04-15T20:04:58.896Z",
+      "width": 629,
+      "height": 839
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ff1cd8b38bda4f6281879c9bdb228ff1/offer/atomicrops.new-629x839-6f592aaf3a1cd59272d1e505dc224150.jpg",
+      "md5": "6f592aaf3a1cd59272d1e505dc224150",
+      "size": 115519,
+      "uploadedDate": "2021-04-15T20:05:06.740Z",
+      "width": 629,
+      "height": 839
+    },
+    {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/ff1cd8b38bda4f6281879c9bdb228ff1/offer/Atomicrops_EpicGames_Offer_Portrait_Image_1OutNow-1200x1600-eb467da6bfe2f4921a829fb846dc1b4e.png",
-      "md5": "eb467da6bfe2f4921a829fb846dc1b4e",
-      "size": 3660253,
-      "uploadedDate": "2020-05-27T14:38:14.152Z",
-      "width": 1200,
-      "height": 1600
+      "url": "https://cdn1.epicgames.com/ff1cd8b38bda4f6281879c9bdb228ff1/offer/atomicrops.new-629x839-6f592aaf3a1cd59272d1e505dc224150.jpg",
+      "md5": "6f592aaf3a1cd59272d1e505dc224150",
+      "size": 115519,
+      "uploadedDate": "2021-04-15T20:05:22.726Z",
+      "width": 629,
+      "height": 839
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ff1cd8b38bda4f6281879c9bdb228ff1/offer/atomicrops.new-629x839-6f592aaf3a1cd59272d1e505dc224150.jpg",
+      "md5": "6f592aaf3a1cd59272d1e505dc224150",
+      "size": 115519,
+      "uploadedDate": "2021-04-15T20:05:32.067Z",
+      "width": 629,
+      "height": 839
     }
   ],
   "items": [
