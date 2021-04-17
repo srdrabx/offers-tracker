@@ -1,0 +1,144 @@
+{
+  "id": "1fb45af46bfb46b4a9308f5462629ffe",
+  "namespace": "08142466e4104a018e149441d35dbabc",
+  "title": "Trails of Cold Steel IV - Headwear Set",
+  "description": "A set of accessories that'll let you adorn your noggin with all sorts of wild new fashion. (Ozzie Head x 10, Zan Su Head x 10, Achtzen Head x 10...)",
+  "longDescription": "# Contents\n\nA set of accessories that'll let you adorn your noggin with all sorts of wild new fashion.\n\nOzzie Head x 10\nZan Su Head x 10\nAchtzen Head x 10\nPeacock Frames x 10\nRider Goggles x 10\nLovely Eyepatch x 10\nCutie Frames x 10\nSwim Goggles x 10\nMishy Eye Mask x 10\nUltimate Sacrifice Ogre Mask x 10\nSunny Sun Visor x 10\nSilver Sun Visor x 10\n\n*These items can be claimed from the DLC tab on the Item page. After obtaining the items, they can be equipped from the Costume page on the Camp Menu.",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "the-legend-of-heroes-trails-of-cold-steel-iv--headwear-set",
+  "creationDate": "2021-04-07T17:59:28.728Z",
+  "lastModifiedDate": "2021-04-16T16:34:38.356Z",
+  "effectiveDate": "2021-04-16T17:00:00.000Z",
+  "viewableDate": "2021-04-16T17:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-24ec9efll733ggh8wybar3x8zetflu",
+    "name": "NIS America, Inc."
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-12-15T01:46:33.012Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2021-02-10T17:36:06.452Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "NIS America, Inc."
+    },
+    {
+      "key": "developerName",
+      "value": "Nihon Falcom"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/08142466e4104a018e149441d35dbabc/offer/EGS_TrailsofColdSteelIVHeadwearSet_NihonFalcom_DLC_S1-2560x1440-e1ca3f2c32322db0476aa5ff87d9471f.jpg",
+      "md5": "e1ca3f2c32322db0476aa5ff87d9471f",
+      "size": 989900,
+      "uploadedDate": "2021-04-08T22:18:02.719Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/08142466e4104a018e149441d35dbabc/offer/EGS_TrailsofColdSteelIVHeadwearSet_NihonFalcom_DLC_S2-1200x1600-b437767524d31522f9741dd7c8695405.jpg",
+      "md5": "b437767524d31522f9741dd7c8695405",
+      "size": 886352,
+      "uploadedDate": "2021-04-08T22:18:09.411Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/08142466e4104a018e149441d35dbabc/offer/EGS_TrailsofColdSteelIVHeadwearSet_NihonFalcom_DLC_S2-1200x1600-b437767524d31522f9741dd7c8695405.jpg",
+      "md5": "b437767524d31522f9741dd7c8695405",
+      "size": 886352,
+      "uploadedDate": "2021-04-08T22:18:23.783Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/08142466e4104a018e149441d35dbabc/offer/EGS_TrailsofColdSteelIVHeadwearSet_NihonFalcom_DLC_S2-1200x1600-b437767524d31522f9741dd7c8695405.jpg",
+      "md5": "b437767524d31522f9741dd7c8695405",
+      "size": 886352,
+      "uploadedDate": "2021-04-08T22:18:30.244Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/08142466e4104a018e149441d35dbabc/offer/EGS_TrailsofColdSteelIVHeadwearSet_NihonFalcom_DLC_IC1-200x200-d95a24aa7c6721bf5f87859734620534.png",
+      "md5": "d95a24aa7c6721bf5f87859734620534",
+      "size": 45828,
+      "uploadedDate": "2021-04-08T22:18:39.246Z",
+      "width": 200,
+      "height": 200
+    }
+  ],
+  "items": [
+    {
+      "id": "2c8419d3f56543eca83c1e97dcfa8f1f"
+    }
+  ],
+  "catalogNs": {
+    "name": "08142466e4104a018e149441d35dbabc"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "23ebef751a81416abd7552a1b4b44a93",
+  "namespace": "6af58339c2424644988e0fb83dfd9bd5",
+  "title": "FaintShadow_LoopPack01Audience",
+  "description": "FaintShadow_LoopPack01Audience",
+  "longDescription": "",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "fuser--faint-shadow-loop-pack",
+  "creationDate": "2021-04-16T22:12:51.905Z",
+  "lastModifiedDate": "2021-04-16T22:39:05.799Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-k8ltvz7rz3r7b29xdtafqvdkhnj2ux",
+    "name": "NCSoft"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "NCSOFT"
+    },
+    {
+      "key": "developerName",
+      "value": "Harmonix"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "3ea6842434b048148b8210dacc60747e"
+    }
+  ],
+  "catalogNs": {
+    "name": "6af58339c2424644988e0fb83dfd9bd5"
+  }
+}

@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "kingdom-come-deliverance--fechtbuch-movie",
   "creationDate": "2021-03-26T19:55:00.771Z",
-  "lastModifiedDate": "2021-04-16T15:57:15.501Z",
+  "lastModifiedDate": "2021-04-16T19:36:30.489Z",
   "effectiveDate": "2021-04-16T15:00:00.000Z",
   "viewableDate": "2021-04-16T15:00:00.000Z",
   "developer": null,
@@ -110,60 +110,6 @@
     }
   ],
   "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FechtbuchRealSwordfightingbehindKingdomCome_WarhorseStudios_DigitalExtras_S1_2560x1440-033a43ef0a411619e6ea63ddb662362f",
-      "md5": "033a43ef0a411619e6ea63ddb662362f",
-      "size": 739157,
-      "uploadedDate": "2021-04-13T20:27:36.953Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FechtbuchRealSwordfightingbehindKingdomCome_WarhorseStudios_DigitalExtras_S2_1200x1600-461da11374fa116bfc9774778aae9d7a",
-      "md5": "461da11374fa116bfc9774778aae9d7a",
-      "size": 824473,
-      "uploadedDate": "2021-04-13T20:27:43.598Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FechtbuchRealSwordfightingbehindKingdomCome_WarhorseStudios_DigitalExtras_S2_1200x1600-461da11374fa116bfc9774778aae9d7a",
-      "md5": "461da11374fa116bfc9774778aae9d7a",
-      "size": 824473,
-      "uploadedDate": "2021-04-13T20:27:50.348Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FechtbuchRealSwordfightingbehindKingdomCome_WarhorseStudios_DigitalExtras_S2_1200x1600-461da11374fa116bfc9774778aae9d7a",
-      "md5": "461da11374fa116bfc9774778aae9d7a",
-      "size": 824473,
-      "uploadedDate": "2021-04-13T20:27:57.551Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FechtbuchRealSwordfightingbehindKingdomCome_WarhorseStudios_DigitalExtras_S1_2560x1440-033a43ef0a411619e6ea63ddb662362f",
-      "md5": "033a43ef0a411619e6ea63ddb662362f",
-      "size": 739157,
-      "uploadedDate": "2021-04-13T20:28:06.523Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FechtbuchRealSwordfightingbehindKingdomCome_WarhorseStudios_DigitalExtras_S2_1200x1600-461da11374fa116bfc9774778aae9d7a",
-      "md5": "461da11374fa116bfc9774778aae9d7a",
-      "size": 824473,
-      "uploadedDate": "2021-04-13T20:28:14.906Z",
-      "width": 1200,
-      "height": 1600
-    },
     {
       "type": "featuredMedia",
       "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FechtbuchRealSwordfightingbehindKingdomCome_WarhorseStudios_DigitalExtras_G1C_00_1920x1080-10827da6e43b32818ea28af20f87fc37",
@@ -271,6 +217,60 @@
       "uploadedDate": "2021-04-13T20:35:24.665Z",
       "width": 2647,
       "height": 2003
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/d476f826-824b-41d3-8059-d8191739a99a-2560x1440-6fffe86e5a5589d460108e2bba7df83f.jpg",
+      "md5": "6fffe86e5a5589d460108e2bba7df83f",
+      "size": 819324,
+      "uploadedDate": "2021-04-16T19:35:26.148Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/462736ff-72fe-4ca4-83bf-99062112aef9-1200x1600-84c341fb063d07a536d40ff041f0e6c6.jpg",
+      "md5": "84c341fb063d07a536d40ff041f0e6c6",
+      "size": 924376,
+      "uploadedDate": "2021-04-16T19:35:36.269Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/462736ff-72fe-4ca4-83bf-99062112aef9-1200x1600-84c341fb063d07a536d40ff041f0e6c6.jpg",
+      "md5": "84c341fb063d07a536d40ff041f0e6c6",
+      "size": 924376,
+      "uploadedDate": "2021-04-16T19:35:56.771Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/462736ff-72fe-4ca4-83bf-99062112aef9-1200x1600-84c341fb063d07a536d40ff041f0e6c6.jpg",
+      "md5": "84c341fb063d07a536d40ff041f0e6c6",
+      "size": 924376,
+      "uploadedDate": "2021-04-16T19:36:02.711Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/d476f826-824b-41d3-8059-d8191739a99a-2560x1440-6fffe86e5a5589d460108e2bba7df83f.jpg",
+      "md5": "6fffe86e5a5589d460108e2bba7df83f",
+      "size": 819324,
+      "uploadedDate": "2021-04-16T19:36:12.387Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/462736ff-72fe-4ca4-83bf-99062112aef9-1200x1600-84c341fb063d07a536d40ff041f0e6c6.jpg",
+      "md5": "84c341fb063d07a536d40ff041f0e6c6",
+      "size": 924376,
+      "uploadedDate": "2021-04-16T19:36:20.650Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [
