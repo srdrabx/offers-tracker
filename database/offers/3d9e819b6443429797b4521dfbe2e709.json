@@ -1,0 +1,201 @@
+{
+  "id": "3d9e819b6443429797b4521dfbe2e709",
+  "namespace": "b9def67e597b4be7a16146146a044d02",
+  "title": "Heroes of the Inner Sphere",
+  "description": "Explore new warzones, new quests, new missions that span the full breadth of the Inner Sphere.",
+  "longDescription": "# New Career Mode\nStart a career from scratch in any of the great houses or import your progress from the original Campaign. \nCompletely rebalanced so you can explore the Inner Sphere and build your merc company as you please.\nExpanded Inner Sphere Map that includes 61 total warzones (+18), 34 Industrial Hubs, and 55 quest lines (+11). \n \n# Career Paths\nVisit Cantinas to pick up jobs from the Inner Sphere's shadiest characters.\nComplete 5 different job types to unlock career path rewards including powerful and unique quirks that tweak properties of your mechs. Career paths work in both Campaign and Career mode!\n \n# New mechs\n7 new 'Mech chassis:\nCorsair, Vulcan, Charger, Hatamoto-Chi, Dervish, Champion, and Marauder II \nAdds 50 new variants including new variants for existing chassis\n \n# New Missions\nHunt down 7 new heroes and their hero mechs in the story driven Hero Quests.\nNew music tracks that set a more diverse and epic tone to the game.\nNew Procedural Mission type: Beachhead - capture the planets main communication garrison to enable a full planetary invasion while avoiding artillery strikes and taking out emplacements.\nNew Extra Solar Moon Biome\nZero Atmosphere Garrisons\n \n# Artillery and Airstrikes\nCall in air support to deliver devastating bombardments, or use TAG/NARC on specific enemies for precision airstrikes\n \n# New Weapons and Equipment\nECM, EWECM - an Electronic Counter Measure creates a distortion bubble that jams opponents sensors and HUD and reduces their ability to detect you or target effectively. Use counter mode to disable an enemies ECM.  \nBAP, EWAP - an active probe that allows sensors to detect hidden enemies in 360 degrees.\nMASC, Supercharger - gives mechs a short duration but incredibly powerful mobility boost. \nNew Weapons: Chem Lasers, Short Burst Lasers, Mech Rifles.\n",
+  "status": "ACTIVE",
+  "productSlug": "mechwarrior-5/heroes-of-the-inner-sphere",
+  "urlSlug": "mechwarrior-5--heroes-of-the-inner-sphere",
+  "creationDate": "2020-11-06T13:36:32.324Z",
+  "lastModifiedDate": "2021-04-19T01:51:55.116Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-muad9pj32k67stc4ycpgpplwq84sgq",
+    "name": "Piranha Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2021-02-10T17:36:19.203Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1393",
+      "name": "Simulation",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2021-02-10T17:33:03.717Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2021-02-10T17:35:33.537Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1210",
+      "name": "Shooter",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2021-02-10T17:34:46.127Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1279",
+      "name": "Vampire",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:37.207Z",
+      "updated": "2021-02-05T16:12:54.271Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Piranha Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "mechwarrior-5/heroes-of-the-inner-sphere"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/2560_1440_KeyArt_and_Logo_2560x1440-d31a31496dab5b0e0955a5ffa53c6a4c",
+      "md5": "d31a31496dab5b0e0955a5ffa53c6a4c",
+      "size": 1011490,
+      "uploadedDate": "2021-04-19T01:41:25.427Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/1200_1600_KeyArt_and_Logo_1200x1600-1df92fd9f733cd56083dfbbffc2ae263",
+      "md5": "1df92fd9f733cd56083dfbbffc2ae263",
+      "size": 621588,
+      "uploadedDate": "2021-04-19T01:41:30.843Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/1200_1600_KeyArt_and_Logo_1200x1600-1df92fd9f733cd56083dfbbffc2ae263",
+      "md5": "1df92fd9f733cd56083dfbbffc2ae263",
+      "size": 621588,
+      "uploadedDate": "2021-04-19T01:41:47.974Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/1200_1600_KeyArt_and_Logo_1200x1600-1df92fd9f733cd56083dfbbffc2ae263",
+      "md5": "1df92fd9f733cd56083dfbbffc2ae263",
+      "size": 621588,
+      "uploadedDate": "2021-04-19T01:41:59.170Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/2560_1440_KeyArt_and_Logo_2560x1440-d31a31496dab5b0e0955a5ffa53c6a4c",
+      "md5": "d31a31496dab5b0e0955a5ffa53c6a4c",
+      "size": 1011490,
+      "uploadedDate": "2021-04-19T01:42:14.446Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/1200_1600_KeyArt_and_Logo_1200x1600-1df92fd9f733cd56083dfbbffc2ae263",
+      "md5": "1df92fd9f733cd56083dfbbffc2ae263",
+      "size": 621588,
+      "uploadedDate": "2021-04-19T01:42:33.621Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "6be4cc1bc3244cf69bbcd957052c9fcb"
+    }
+  ],
+  "catalogNs": {
+    "name": null
+  }
+}
