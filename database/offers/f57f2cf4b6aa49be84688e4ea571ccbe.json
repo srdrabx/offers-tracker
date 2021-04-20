@@ -8,7 +8,7 @@
   "productSlug": "smite",
   "urlSlug": "smite",
   "creationDate": "2019-10-18T01:53:04.996Z",
-  "lastModifiedDate": "2021-03-23T10:56:04.104Z",
+  "lastModifiedDate": "2021-04-20T10:59:54.496Z",
   "effectiveDate": "2020-04-28T15:00:00.000Z",
   "viewableDate": "2020-04-28T15:00:00.000Z",
   "developer": null,
@@ -120,55 +120,55 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/LandscapeIMG-8.3-Chaac-2560x1440-2560x1440-994f435ff85b770de0f22852bb7a2c0b.jpg",
-      "md5": "994f435ff85b770de0f22852bb7a2c0b",
-      "size": 477854,
-      "uploadedDate": "2021-03-23T04:15:53.124Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/LandscapeIMG-Gilgamesh-2560x1440_2560x1440-9b306321bea787f9b4562fff97cde4be",
+      "md5": "9b306321bea787f9b4562fff97cde4be",
+      "size": 501590,
+      "uploadedDate": "2021-04-20T04:45:48.819Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/PortraitIMG-V2-8.3-Chaac-1200x1600-1200x1600-db4e9ef83acc4c2ce1611edafaac6774.jpg",
-      "md5": "db4e9ef83acc4c2ce1611edafaac6774",
-      "size": 403337,
-      "uploadedDate": "2021-03-23T04:15:59.951Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/PortraitIMG-V2-Gilgamesh-1200x1600_1200x1600-a97e32c85bf65b798b4b55cddadad244",
+      "md5": "a97e32c85bf65b798b4b55cddadad244",
+      "size": 499563,
+      "uploadedDate": "2021-04-20T04:45:59.238Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/LandscapeIMG-8.3-Chaac-2560x1440-2560x1440-994f435ff85b770de0f22852bb7a2c0b.jpg",
-      "md5": "994f435ff85b770de0f22852bb7a2c0b",
-      "size": 477854,
-      "uploadedDate": "2021-03-23T04:16:03.883Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/LandscapeIMG-Gilgamesh-2560x1440_2560x1440-9b306321bea787f9b4562fff97cde4be",
+      "md5": "9b306321bea787f9b4562fff97cde4be",
+      "size": 501590,
+      "uploadedDate": "2021-04-20T04:46:11.837Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/PortraitIMG-V2-8.3-Chaac-1200x1600-1200x1600-db4e9ef83acc4c2ce1611edafaac6774.jpg",
-      "md5": "db4e9ef83acc4c2ce1611edafaac6774",
-      "size": 403337,
-      "uploadedDate": "2021-03-23T04:16:06.469Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/PortraitIMG-V2-8.3-Chaac-1200x1600-1200x1600-db4e9ef83acc4c2ce1611edafaac6774.jpg",
-      "md5": "db4e9ef83acc4c2ce1611edafaac6774",
-      "size": 403337,
-      "uploadedDate": "2021-03-23T04:16:08.905Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/PortraitIMG-V2-Gilgamesh-1200x1600_1200x1600-a97e32c85bf65b798b4b55cddadad244",
+      "md5": "a97e32c85bf65b798b4b55cddadad244",
+      "size": 499563,
+      "uploadedDate": "2021-04-20T04:46:32.071Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/PortraitIMG-V2-8.3-Chaac-1200x1600-1200x1600-db4e9ef83acc4c2ce1611edafaac6774.jpg",
-      "md5": "db4e9ef83acc4c2ce1611edafaac6774",
-      "size": 403337,
-      "uploadedDate": "2021-03-23T04:16:13.217Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/PortraitIMG-V2-Gilgamesh-1200x1600_1200x1600-a97e32c85bf65b798b4b55cddadad244",
+      "md5": "a97e32c85bf65b798b4b55cddadad244",
+      "size": 499563,
+      "uploadedDate": "2021-04-20T04:46:40.114Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/PortraitIMG-V2-Gilgamesh-1200x1600_1200x1600-a97e32c85bf65b798b4b55cddadad244",
+      "md5": "a97e32c85bf65b798b4b55cddadad244",
+      "size": 499563,
+      "uploadedDate": "2021-04-20T04:46:48.493Z",
       "width": 1200,
       "height": 1600
     }

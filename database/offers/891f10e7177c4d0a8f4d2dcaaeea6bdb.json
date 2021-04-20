@@ -6,10 +6,10 @@
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": "hundred-days-winemaking-simulator",
-  "urlSlug": "zulugeneralaudience",
+  "urlSlug": "hundred-days-winemaking-simulator-pre-purchase",
   "creationDate": "2021-02-23T02:00:08.459Z",
-  "lastModifiedDate": "2021-03-12T21:40:51.613Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2021-04-20T12:36:56.138Z",
+  "effectiveDate": "2021-04-22T14:00:00.000Z",
   "viewableDate": "2021-03-15T15:00:00.000Z",
   "developer": null,
   "seller": {
@@ -107,6 +107,14 @@
     {
       "key": "publisherName",
       "value": "Broken Arms Games"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "availableDate",
+      "value": "1620928800"
     },
     {
       "key": "developerName",

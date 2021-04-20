@@ -1,0 +1,42 @@
+{
+  "id": "993624b67ab849319189b6de630b5628",
+  "namespace": "244aaaa06bfa49d088205b13b9d2d115",
+  "title": "DLC 32",
+  "description": "DLC 32 Short Description",
+  "longDescription": "DLC 32 Long Description",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "dlc32",
+  "creationDate": "2021-04-07T20:10:15.249Z",
+  "lastModifiedDate": "2021-04-20T16:28:10.518Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-nvl9gfg7wr3taz2semsy269894sau5",
+    "name": "Digital Extremes"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "e12e730b980c4a489c507006b26140c1"
+    }
+  ],
+  "catalogNs": {
+    "name": "244aaaa06bfa49d088205b13b9d2d115"
+  }
+}
