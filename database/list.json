@@ -6055,7 +6055,7 @@
     ],
     "Epic Games",
     1615299219,
-    1616066853,
+    1618938018,
     "https://cdn1.epicgames.com/SeaQA/offer/CodeRedemptionTheCycle-340x440-025af08795b0b918ea20b39b850c830b-340x440-025af08795b0b918ea20b39b850c830b.png",
     ""
   ],
@@ -7228,7 +7228,7 @@
     ],
     "Frontier Developments",
     1607087218,
-    1618317963,
+    1618947086,
     "https://cdn1.epicgames.com/3db17abfd650423f993291624b1b2ac1/offer/tall2-1200x1600-c5d7478f26bad0c93e2387d4cfa2930c.jpg",
     ""
   ],
@@ -9630,6 +9630,22 @@
     ""
   ],
   [
+    "2a2b00dc10c04a3ba964d5c5b8df7bfe",
+    "0ffb7cf5cff64cd0a621222a8e969c28",
+    "Scavengers",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Improbable Worlds Limited",
+    1607028739,
+    1619021124,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/4c41b76b-e548-4be7-8046-c33e72cf1d1f_1200x1600-a6aa959b9f24a30b1123e5a29cfbb397",
+    "scavengers"
+  ],
+  [
     "2a32725d30bc4d87823d3354670376e2",
     "ff1cd8b38bda4f6281879c9bdb228ff1",
     "Atomicrops",
@@ -10083,6 +10099,21 @@
     1539758375,
     "",
     ""
+  ],
+  [
+    "2c41f00be4f5495b8d9b268b2c5960a1",
+    "eb348461cdaf4bec9d69a1c4bb39ecc4",
+    "Game and DLC",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Defiant Development PTY LTD",
+    1612932583,
+    1619015829,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-handoffate2gamedlc-defiantdevelopment-bundles-s2-1200x1600-24e18adde244_1200x1600-61fb64dc463a2d0bb07a36875a925c48",
+    "hand-of-fate-2/game-and-dlc"
   ],
   [
     "2c519229322f42a5afff5de121f928ed",
@@ -14156,7 +14187,7 @@
     ],
     "Epic Games",
     1615454917,
-    1616066897,
+    1618937957,
     "https://cdn1.epicgames.com/SeaQA/offer/CodeRedemptionTheCycle-340x440-025af08795b0b918ea20b39b850c830b-340x440-025af08795b0b918ea20b39b850c830b.png",
     ""
   ],
@@ -21152,7 +21183,7 @@
     ],
     "Sega of America",
     1593484284,
-    1605651629,
+    1618942652,
     "",
     ""
   ],
@@ -22283,7 +22314,7 @@
     ],
     "Epic Games",
     1615298602,
-    1616066834,
+    1618937934,
     "https://cdn1.epicgames.com/SeaQA/offer/CodeRedemptionTheCycle-340x440-025af08795b0b918ea20b39b850c830b-340x440-025af08795b0b918ea20b39b850c830b.png",
     ""
   ],
@@ -28276,7 +28307,7 @@
     ],
     "Epic Games",
     1580449636,
-    1600794973,
+    1618937525,
     "",
     ""
   ],
@@ -37987,7 +38018,7 @@
     ],
     "Sega of America",
     1593484284,
-    1605651629,
+    1618942652,
     "",
     ""
   ],
@@ -38405,7 +38436,7 @@
     ],
     "Epic Games",
     1537486568,
-    1618937157,
+    1618937290,
     "",
     ""
   ],
@@ -46836,6 +46867,21 @@
     1592487061,
     "https://cdn1.epicgames.com/columbine/offer/DETROIT2-860x1148-a03ac8673f779b286dcccc83dbe75249.jpg",
     "detroit-become-human"
+  ],
+  [
+    "cc2857679cb9441685c2e485e2710598",
+    "eb348461cdaf4bec9d69a1c4bb39ecc4",
+    "Game, Soundrack & DLC",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Defiant Development PTY LTD",
+    1612932493,
+    1619016264,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-handoffate2gamesoundtrackdlc-defiantdevelopment-bundles-s2-1200x1600-6f74150a9973_1200x1600-5c8510b01a13add8f0f40cb10e516ddb",
+    "hand-of-fate-2/game-soundtrack-and-dlc"
   ],
   [
     "cc3b028c2b494f0789fa71d2f7f23ff0",
