@@ -221,6 +221,6 @@
     }
   ],
   "catalogNs": {
-    "name": "badger"
+    "name": null
   }
 }

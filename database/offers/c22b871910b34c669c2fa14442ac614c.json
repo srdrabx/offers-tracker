@@ -2,13 +2,13 @@
   "id": "c22b871910b34c669c2fa14442ac614c",
   "namespace": "4b35838425c74992ad42e1276b2161ca",
   "title": "Adventurer's Starter Pack",
-  "description": "Adventurer's Starter Pack",
-  "longDescription": null,
+  "description": "Contains 3,000 Immortals Fenyx Rising™ Credits, Phosphor the Dragon, & a Potion Resources Pack. Can only be bought once.",
+  "longDescription": "Contains 3,000 Immortals Fenyx Rising™ Credits, Phosphor the Dragon, & a Potion Resources Pack. Can only be bought once. Requires Immortals Fenyx Rising on applicable platform (download separately). All Credits purchased on one platform are not redeemable on other platforms.",
   "status": "ACTIVE",
-  "productSlug": "immortals-fenyx-rising/adventurers-starter-pack",
-  "urlSlug": "pheasantadventureraudience",
+  "productSlug": null,
+  "urlSlug": "immortals-fenyx-rising--starter-pack",
   "creationDate": "2020-11-19T18:56:19.203Z",
-  "lastModifiedDate": "2021-02-16T16:13:35.653Z",
+  "lastModifiedDate": "2021-04-22T02:24:56.059Z",
   "effectiveDate": "2020-12-03T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -28,9 +28,6 @@
       "path": "addons"
     },
     {
-      "path": "games"
-    },
-    {
       "path": "addons/durable"
     },
     {
@@ -44,8 +41,12 @@
       "value": "CN"
     },
     {
-      "key": "com.epicgames.app.productSlug",
-      "value": "immortals-fenyx-rising/adventurers-starter-pack"
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft"
     }
   ],
   "keyImages": [
@@ -84,6 +85,15 @@
       "uploadedDate": "2020-12-03T15:35:05.499Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/oly-edition-thumbnail-1920x1080-1920x1080-591664830_1920x1080-fefa0f713ef8203e83e03443ed351a36",
+      "md5": "fefa0f713ef8203e83e03443ed351a36",
+      "size": 138442,
+      "uploadedDate": "2021-04-15T19:18:22.844Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
@@ -95,6 +105,6 @@
     }
   ],
   "catalogNs": {
-    "name": "4b35838425c74992ad42e1276b2161ca"
+    "name": null
   }
 }

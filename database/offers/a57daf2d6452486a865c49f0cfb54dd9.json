@@ -8,7 +8,7 @@
   "productSlug": "immortals-fenyx-rising/a-new-god",
   "urlSlug": "immortals-fenyx-rising--a-new-god",
   "creationDate": "2021-01-20T17:01:00.202Z",
-  "lastModifiedDate": "2021-01-28T15:55:38.361Z",
+  "lastModifiedDate": "2021-04-22T00:50:03.342Z",
   "effectiveDate": "2021-01-28T16:00:00.000Z",
   "viewableDate": "2021-01-20T15:55:00.000Z",
   "developer": null,
@@ -28,9 +28,6 @@
       "path": "addons"
     },
     {
-      "path": "games"
-    },
-    {
       "path": "addons/durable"
     },
     {
@@ -42,6 +39,14 @@
     {
       "key": "com.epicgames.app.blacklist",
       "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft"
     },
     {
       "key": "com.epicgames.app.productSlug",
@@ -102,6 +107,60 @@
       "uploadedDate": "2021-01-20T19:40:20.301Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/immortals-dlc1-epic-edition-capsule-hero-carrousel-1920x1080-1920x1080-3b0a95aba032_1920x1080-4755da4f40f8d237b884cfb8f11a4e7a",
+      "md5": "4755da4f40f8d237b884cfb8f11a4e7a",
+      "size": 299665,
+      "uploadedDate": "2021-04-15T18:58:13.764Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/dlc-newgod-env-olympos-final-1920x1080-c29730db8e6f_1920x1080-62c6b1c8dec5d1ce5a89471ec5616bef",
+      "md5": "62c6b1c8dec5d1ce5a89471ec5616bef",
+      "size": 367557,
+      "uploadedDate": "2021-04-15T18:58:40.338Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/dlc-newgod-env-pantheon-final-1920x1080-e387036cff3c_1920x1080-6de87baf56d8b873fa1c628fa6cd31a5",
+      "md5": "6de87baf56d8b873fa1c628fa6cd31a5",
+      "size": 340444,
+      "uploadedDate": "2021-04-15T18:58:59.286Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/dlc-newgod-gameplay-gliding-final-1920x1080-3488f1ea8a35_1920x1080-d821edf23ebfb426faf97364880b45e9",
+      "md5": "d821edf23ebfb426faf97364880b45e9",
+      "size": 268441,
+      "uploadedDate": "2021-04-15T18:59:09.766Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/dlc-newgod-gameplay-hekatonchires-fight-final-1920x1080-9dd4a632644c_1920x1080-63df79ae94821f7eb2400340ac12eadb",
+      "md5": "63df79ae94821f7eb2400340ac12eadb",
+      "size": 370824,
+      "uploadedDate": "2021-04-15T18:59:27.240Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/dlc-newgod-narration-ares-final-1920x1080-8130c47d7f0e_1920x1080-ebe321d94134b478e3493423660a6080",
+      "md5": "ebe321d94134b478e3493423660a6080",
+      "size": 193558,
+      "uploadedDate": "2021-04-15T18:59:35.800Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
@@ -113,6 +172,6 @@
     }
   ],
   "catalogNs": {
-    "name": "4b35838425c74992ad42e1276b2161ca"
+    "name": null
   }
 }

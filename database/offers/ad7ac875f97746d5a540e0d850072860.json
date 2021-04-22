@@ -38,18 +38,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1233",
-      "name": "Base-Building",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:14.176Z",
-      "updated": "2021-02-05T16:11:41.048Z",
-      "status": "ACTIVE",
-      "referenceCount": 1,
-      "comment": null
-    }
+    null
   ],
   "customAttributes": [
     {
@@ -131,6 +120,6 @@
     }
   ],
   "catalogNs": {
-    "name": "c0b9d91377a840718e6869f0cd780a55"
+    "name": null
   }
 }

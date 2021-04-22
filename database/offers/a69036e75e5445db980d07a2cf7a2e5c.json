@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "pheasantdevaudience",
   "creationDate": "2019-06-08T17:13:02.718Z",
-  "lastModifiedDate": "2021-01-28T15:55:38.272Z",
+  "lastModifiedDate": "2021-04-22T00:50:03.347Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -49,6 +49,6 @@
     }
   ],
   "catalogNs": {
-    "name": "4b35838425c74992ad42e1276b2161ca"
+    "name": null
   }
 }

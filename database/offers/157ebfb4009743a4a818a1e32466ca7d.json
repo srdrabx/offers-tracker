@@ -1,0 +1,127 @@
+{
+  "id": "157ebfb4009743a4a818a1e32466ca7d",
+  "namespace": "1285dfc03f134184aef8e12eef6b6cd3",
+  "title": "Krita",
+  "description": "Krita",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "krita",
+  "urlSlug": "krita",
+  "creationDate": "2021-03-30T08:27:40.140Z",
+  "lastModifiedDate": "2021-04-22T15:26:27.036Z",
+  "effectiveDate": "2021-04-22T13:45:00.000Z",
+  "viewableDate": "2021-04-22T13:45:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-khl2zdabt955claevthfgwxhgd7gnc",
+    "name": "Boudewijn Rempt Software"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "software"
+    },
+    {
+      "path": "software/edition"
+    },
+    {
+      "path": "software/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    null,
+    null,
+    null
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Krita Project"
+    },
+    {
+      "key": "developerName",
+      "value": "Krita Team"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "krita"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/1285dfc03f134184aef8e12eef6b6cd3/offer/egs-krita-kritateam-s1-2560x1440-2560x1440-c6f1d4b6de2f74d8a215e9a823a00a2e.jpg",
+      "md5": "c6f1d4b6de2f74d8a215e9a823a00a2e",
+      "size": 291640,
+      "uploadedDate": "2021-04-22T13:24:32.603Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/1285dfc03f134184aef8e12eef6b6cd3/offer/egs-krita-kritateam-s2-1200x1600-1200x1600-ee5003f08931c77f8e94b3ea80e639b3.jpg",
+      "md5": "ee5003f08931c77f8e94b3ea80e639b3",
+      "size": 152114,
+      "uploadedDate": "2021-04-22T13:24:36.075Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/1285dfc03f134184aef8e12eef6b6cd3/offer/egs-krita-kritateam-s1-2560x1440-2560x1440-c6f1d4b6de2f74d8a215e9a823a00a2e.jpg",
+      "md5": "c6f1d4b6de2f74d8a215e9a823a00a2e",
+      "size": 291640,
+      "uploadedDate": "2021-04-22T13:24:38.676Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/1285dfc03f134184aef8e12eef6b6cd3/offer/egs-krita-kritateam-s2-1200x1600-1200x1600-ee5003f08931c77f8e94b3ea80e639b3.jpg",
+      "md5": "ee5003f08931c77f8e94b3ea80e639b3",
+      "size": 152114,
+      "uploadedDate": "2021-04-22T13:24:42.521Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/1285dfc03f134184aef8e12eef6b6cd3/offer/egs-krita-kritateam-s2-1200x1600-1200x1600-ee5003f08931c77f8e94b3ea80e639b3.jpg",
+      "md5": "ee5003f08931c77f8e94b3ea80e639b3",
+      "size": 152114,
+      "uploadedDate": "2021-04-22T13:25:08.348Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/1285dfc03f134184aef8e12eef6b6cd3/offer/egs-krita-kritateam-s2-1200x1600-1200x1600-ee5003f08931c77f8e94b3ea80e639b3.jpg",
+      "md5": "ee5003f08931c77f8e94b3ea80e639b3",
+      "size": 152114,
+      "uploadedDate": "2021-04-22T13:25:11.235Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "770c90cdd6be4ba8862d5ce2139be7c9"
+    }
+  ],
+  "catalogNs": {
+    "name": null
+  }
+}

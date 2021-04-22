@@ -1,0 +1,139 @@
+{
+  "id": "32444d6d337f4eec8d34e6bf5d3ddcb9",
+  "namespace": "8c7ed85dae4341d385919ee4d832eb1a",
+  "title": "Just Die Already",
+  "description": "Just Die Already",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "just-die-already",
+  "urlSlug": "phosphorus-prepurchase",
+  "creationDate": "2021-04-19T16:24:46.081Z",
+  "lastModifiedDate": "2021-04-22T14:54:58.575Z",
+  "effectiveDate": "2021-04-22T15:00:00.000Z",
+  "viewableDate": "2021-04-22T15:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-ws89bsbfb8trgdl3zmerugg4rsuvvt",
+    "name": "Curve Digital"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Curve Digital"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "availableDate",
+      "value": "1621522800"
+    },
+    {
+      "key": "developerName",
+      "value": "DoubleMoose"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "just-die-already"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JustDieAlready_DoubleMoose_S5_1920x1080-ab0a72182a2dbbead850ff3ab81a4f73",
+      "md5": "ab0a72182a2dbbead850ff3ab81a4f73",
+      "size": 1016832,
+      "uploadedDate": "2021-04-19T18:29:02.753Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JustDieAlready_DoubleMoose_S6_1200x1600-577891f9b98a2f9fb55adcaae4ed5ebe",
+      "md5": "577891f9b98a2f9fb55adcaae4ed5ebe",
+      "size": 1011609,
+      "uploadedDate": "2021-04-19T18:29:09.962Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JustDieAlready_DoubleMoose_S6_1200x1600-577891f9b98a2f9fb55adcaae4ed5ebe",
+      "md5": "577891f9b98a2f9fb55adcaae4ed5ebe",
+      "size": 1011609,
+      "uploadedDate": "2021-04-19T18:29:26.163Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JustDieAlready_DoubleMoose_S6_1200x1600-577891f9b98a2f9fb55adcaae4ed5ebe",
+      "md5": "577891f9b98a2f9fb55adcaae4ed5ebe",
+      "size": 1011609,
+      "uploadedDate": "2021-04-19T18:29:35.799Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JustDieAlready_DoubleMoose_S5_1920x1080-ab0a72182a2dbbead850ff3ab81a4f73",
+      "md5": "ab0a72182a2dbbead850ff3ab81a4f73",
+      "size": 1016832,
+      "uploadedDate": "2021-04-19T18:29:54.516Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JustDieAlready_DoubleMoose_S6_1200x1600-577891f9b98a2f9fb55adcaae4ed5ebe",
+      "md5": "577891f9b98a2f9fb55adcaae4ed5ebe",
+      "size": 1011609,
+      "uploadedDate": "2021-04-19T18:30:03.246Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "6d046d5911f7417d95f7e06b05cf2285"
+    }
+  ],
+  "catalogNs": {
+    "name": null
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "id": "3d713dcf81e7417b939e7be3efb70f41",
+  "namespace": "05b0f1dcc0a74cb9824fdd45a1b57703",
+  "title": "The Signifier: Director's Cut",
+  "description": "The Signifier: Director's Cut",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "the-signifier-directors-cut",
+  "urlSlug": "the-signifier-directors-cut",
+  "creationDate": "2021-04-01T03:43:28.263Z",
+  "lastModifiedDate": "2021-04-22T14:03:18.585Z",
+  "effectiveDate": "2021-04-22T15:00:00.000Z",
+  "viewableDate": "2021-04-22T15:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
+    "name": "Raw Fury"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "developerName",
+      "value": "Raw Fury"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-signifier-directors-cut"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheSignifierDirectorsCut_Playmestudio_S1_2560x1440-c313e3932ed5f827636d177eecb104ba",
+      "md5": "c313e3932ed5f827636d177eecb104ba",
+      "size": 942605,
+      "uploadedDate": "2021-04-20T20:56:47.546Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheSignifierDirectorsCut_Playmestudio_S2_1200x1600-45e3abaf270172a85985e0808cae57e3",
+      "md5": "45e3abaf270172a85985e0808cae57e3",
+      "size": 778361,
+      "uploadedDate": "2021-04-20T20:56:54.922Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheSignifierDirectorsCut_Playmestudio_S2_1200x1600-45e3abaf270172a85985e0808cae57e3",
+      "md5": "45e3abaf270172a85985e0808cae57e3",
+      "size": 778361,
+      "uploadedDate": "2021-04-20T20:57:02.278Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheSignifierDirectorsCut_Playmestudio_S2_1200x1600-45e3abaf270172a85985e0808cae57e3",
+      "md5": "45e3abaf270172a85985e0808cae57e3",
+      "size": 778361,
+      "uploadedDate": "2021-04-20T20:57:10.836Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheSignifierDirectorsCut_Playmestudio_S3_2560x1440-c313e3932ed5f827636d177eecb104ba",
+      "md5": "c313e3932ed5f827636d177eecb104ba",
+      "size": 942605,
+      "uploadedDate": "2021-04-20T20:57:18.421Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheSignifierDirectorsCut_Playmestudio_S2_1200x1600-45e3abaf270172a85985e0808cae57e3",
+      "md5": "45e3abaf270172a85985e0808cae57e3",
+      "size": 778361,
+      "uploadedDate": "2021-04-20T20:57:25.761Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "f5ca4ff568074d4fb8fec10672be844f"
+    }
+  ],
+  "catalogNs": {
+    "name": null
+  }
+}

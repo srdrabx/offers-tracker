@@ -2,13 +2,13 @@
   "id": "142a179cf1214ae2899441c01edd2aa5",
   "namespace": "7e508f543b05465abe3a935960eb70ac",
   "title": "Champions of Renown: Year 1 All-Star Pack",
-  "description": "Unlocks 5 of our favourite Year 1 Champions, along with 16 each of their gold event chests (w/ 2 guaranteed shinies) and the exclusive Construct Evelyn Skin!",
-  "longDescription": "Unlocks 5 of our favourite Year 1 Champions, along with 16 each of their gold event chests (w/ 2 guaranteed shinies) and the exclusive Construct Evelyn Skin!",
+  "description": "We've picked some of our favourite Champions from Year 1 and bundled them together to help you gear them up! Catti-brie, Deekin, Evely, Gromma, and Zorbu are ready to join your formations! ",
+  "longDescription": "We've picked some of our favourite Champions from Year 1 and bundled them together to help you gear them up!\n\nSkins are alternate looks for your Champions that you can swap in and out whenever you want!\n\n# In This Pack\n\n- Unlocks the following event Champions (if you haven't already unlocked them in game): Catti-brie, Deekin, Evelyn, Gromma, and Zorbu.\n- An exclusive skin for Evelyn: The Construct Evelyn Skin\n- 16 Catti-brie Gold Event Chests (with 2 guaranteed shiny equipment cards)\n- 16 Deekin Gold Event Chests (with 2 guaranteed shiny equipment cards)\n- 16 Evelyn Gold Event Chests (with 2 guaranteed shiny equipment cards)\n- 16 Gromma Gold Event Chests (with 2 guaranteed shiny equipment cards)\n- 16 Zorbu Gold Event Chests (with 2 guaranteed shiny equipment cards)",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "banedlc028-21",
+  "urlSlug": "idle-champions-of-the-forgotten-realms--champions-of-renown-y1-pack",
   "creationDate": "2021-02-06T00:37:59.143Z",
-  "lastModifiedDate": "2021-02-16T16:06:11.641Z",
+  "lastModifiedDate": "2021-04-21T18:57:45.327Z",
   "effectiveDate": "2021-02-16T17:00:00.000Z",
   "viewableDate": "2021-02-16T17:00:00.000Z",
   "developer": null,
@@ -25,7 +25,10 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
     },
     {
       "path": "applications"
@@ -35,20 +38,65 @@
   "customAttributes": [
     {
       "key": "publisherName",
-      "value": "[]"
+      "value": "Codename Entertainment"
     },
     {
       "key": "developerName",
-      "value": "[]"
+      "value": "Codename Entertainment"
     }
   ],
   "keyImages": [
     {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Y1landscape_2560x1440-d8f8fb3c7355badec198b1febc79176d",
+      "md5": "d8f8fb3c7355badec198b1febc79176d",
+      "size": 502798,
+      "uploadedDate": "2021-04-16T22:43:19.280Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Y1_1200x1600-5b7941084f17416315fc2fc7c8993fee",
+      "md5": "5b7941084f17416315fc2fc7c8993fee",
+      "size": 463971,
+      "uploadedDate": "2021-04-16T22:43:24.916Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
-      "md5": "c67f1998f4ed6ba79d9e5e71cfb30b23",
-      "size": 254582,
-      "uploadedDate": "2021-02-11T17:49:21.157Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Y1_1200x1600-5b7941084f17416315fc2fc7c8993fee",
+      "md5": "5b7941084f17416315fc2fc7c8993fee",
+      "size": 463971,
+      "uploadedDate": "2021-04-16T22:43:32.364Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Y1_1200x1600-5b7941084f17416315fc2fc7c8993fee",
+      "md5": "5b7941084f17416315fc2fc7c8993fee",
+      "size": 463971,
+      "uploadedDate": "2021-04-16T22:43:42.743Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Y1landscape_2560x1440-d8f8fb3c7355badec198b1febc79176d",
+      "md5": "d8f8fb3c7355badec198b1febc79176d",
+      "size": 502798,
+      "uploadedDate": "2021-04-16T22:43:51.428Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Y1_1200x1600-5b7941084f17416315fc2fc7c8993fee",
+      "md5": "5b7941084f17416315fc2fc7c8993fee",
+      "size": 463971,
+      "uploadedDate": "2021-04-16T22:43:59.425Z",
       "width": 1200,
       "height": 1600
     }
@@ -59,6 +107,6 @@
     }
   ],
   "catalogNs": {
-    "name": "7e508f543b05465abe3a935960eb70ac"
+    "name": null
   }
 }

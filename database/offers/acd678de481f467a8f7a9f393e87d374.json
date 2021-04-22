@@ -2,13 +2,13 @@
   "id": "acd678de481f467a8f7a9f393e87d374",
   "namespace": "4b35838425c74992ad42e1276b2161ca",
   "title": "Immortals Fenyx Rising Season Pass",
-  "description": "Immortals Fenyx Rising Season Pass",
-  "longDescription": null,
+  "description": "Expand your adventure with the Season Pass! Includes new gameplay experiences and a quest with dedicated in-game reward.",
+  "longDescription": "Expand your Immortals Fenyx Rising™ adventure with the season pass - including three narrative DLCs for even more epic adventures and puzzles: \n**A New God**: As Fenyx, overcome the trials of the gods of Olympus to join the Greek Pantheon and fulfill your destiny. \n**Myths of the Eastern Realms**:  Play a brand-new story inspired by Chinese mythology, where you'll encounter new gods and fight exotic monsters in a distant land as a new hero.\n**The Lost Gods**: Experience a new brawler-style of combat in a top-down view!  Meet a new hero embarking on an epic adventure to reunite the Greek gods. \n\nReceive the bonus quest - **When the Road Gets Rocky** - and earn dedicated in-game rewards when you purchase the season pass today.",
   "status": "ACTIVE",
-  "productSlug": "immortals-fenyx-rising/season-pass",
-  "urlSlug": "pheasantseasonpassaudience",
+  "productSlug": null,
+  "urlSlug": "immortals-fenyx-rising--season-pass",
   "creationDate": "2019-06-08T17:55:48.186Z",
-  "lastModifiedDate": "2021-02-16T17:03:45.470Z",
+  "lastModifiedDate": "2021-04-22T02:07:20.158Z",
   "effectiveDate": "2020-12-03T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -28,37 +28,25 @@
       "path": "addons"
     },
     {
-      "path": "games"
-    },
-    {
       "path": "addons/durable"
     },
     {
       "path": "applications"
     }
   ],
-  "tags": [
-    {
-      "id": "15375",
-      "name": "Spring Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-03-10T09:37:21.403Z",
-      "updated": "2021-04-08T14:59:39.138Z",
-      "status": "ACTIVE",
-      "referenceCount": 618,
-      "comment": ""
-    }
-  ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
       "value": "CN"
     },
     {
-      "key": "com.epicgames.app.productSlug",
-      "value": "immortals-fenyx-rising/season-pass"
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft"
     }
   ],
   "keyImages": [
@@ -79,6 +67,51 @@
       "uploadedDate": "2020-12-03T15:40:23.689Z",
       "width": 2560,
       "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/immortals-season-pass-epic-store-portrait-1200x1600-en-1200x1600-592517558_1200x1600-d673eb93cac6b88e11fc56e208a59474",
+      "md5": "d673eb93cac6b88e11fc56e208a59474",
+      "size": 285937,
+      "uploadedDate": "2021-04-15T19:09:41.627Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/immortals-season-pass-epic-store-portrait-1200x1600-en-1200x1600-592517558_1200x1600-d673eb93cac6b88e11fc56e208a59474",
+      "md5": "d673eb93cac6b88e11fc56e208a59474",
+      "size": 285937,
+      "uploadedDate": "2021-04-15T19:09:53.693Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/immortals-season-pass-epic-store-portrait-1200x1600-en-1200x1600-592517558_1200x1600-d673eb93cac6b88e11fc56e208a59474",
+      "md5": "d673eb93cac6b88e11fc56e208a59474",
+      "size": 285937,
+      "uploadedDate": "2021-04-15T19:10:09.596Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/immortals-season-pass-epic-store-portrait-1200x1600-en-1200x1600-592517558_1200x1600-d673eb93cac6b88e11fc56e208a59474",
+      "md5": "d673eb93cac6b88e11fc56e208a59474",
+      "size": 285937,
+      "uploadedDate": "2021-04-15T19:10:25.352Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/immortals-season-pass-epic-edition-capsule---hero-carrousel-1920x1080-en-1920x1080-592521199_1920x1080-c5353ea8505111c17acbc49e3618b2f5",
+      "md5": "c5353ea8505111c17acbc49e3618b2f5",
+      "size": 101779,
+      "uploadedDate": "2021-04-15T19:20:24.347Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
@@ -90,6 +123,6 @@
     }
   ],
   "catalogNs": {
-    "name": "4b35838425c74992ad42e1276b2161ca"
+    "name": null
   }
 }

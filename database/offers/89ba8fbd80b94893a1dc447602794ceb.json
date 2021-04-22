@@ -2,13 +2,13 @@
   "id": "89ba8fbd80b94893a1dc447602794ceb",
   "namespace": "7e508f543b05465abe3a935960eb70ac",
   "title": "Founder's Pack III",
-  "description": "Celebrate the three years of Idle Champions with this incredible pack!",
-  "longDescription": "Celebrate the three years of Idle Champions with this incredible pack!",
+  "description": "This EPIC Founder's Pack is packed full of exclusive content, rare buffs, and premium content to begin adventuring deep into the Forgotten Realms!",
+  "longDescription": "# What's Inside? \n\nThis EPIC Founder's Pack is packed full of exclusive content, rare buffs, and premium content to begin adventuring deep into the Forgotten Realms!\n\nThis Founder’s Pack includes:\n\n- 42 Gold Chests\n- 5 guaranteed Shiny loot cards\n- Exclusive Familiar (Hedgehog Familiar)\n- Exclusive Skin for Jarlaxle (Pirate Jarlaxle Skin)\n- 5000 Gems\n- 2 Epic Potions of Fire Breath\n- 2 Epic Potions of Clairvoyance\n- 2 Epic Potions of Giant's Strength\n- 2 Epic Blacksmithing Contracts\n- 2 Epic Bounty Contracts\n- Exclusive Epic Potion of the Gem Hunter - A single-use potion that increases boss gem drops 50% for 1 week.\n\n",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "banedlc087",
+  "urlSlug": "idle-champions-of-the-forgotten-realms--founders-pack-iii",
   "creationDate": "2021-02-09T22:37:24.974Z",
-  "lastModifiedDate": "2021-02-16T16:06:11.838Z",
+  "lastModifiedDate": "2021-04-21T18:57:45.418Z",
   "effectiveDate": "2021-02-16T17:00:00.000Z",
   "viewableDate": "2021-02-16T17:00:00.000Z",
   "developer": null,
@@ -25,7 +25,10 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
     },
     {
       "path": "applications"
@@ -35,20 +38,65 @@
   "customAttributes": [
     {
       "key": "publisherName",
-      "value": "[]"
+      "value": "Codename Entertainment"
     },
     {
       "key": "developerName",
-      "value": "[]"
+      "value": "Codename Entertainment"
     }
   ],
   "keyImages": [
     {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Founderspacklandscape_2560x1440-30d89c9473fe330ab9ef657345856670",
+      "md5": "30d89c9473fe330ab9ef657345856670",
+      "size": 472733,
+      "uploadedDate": "2021-04-16T22:24:18.745Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Founderspack_1200x1600-f10c7e01cf0e33de2578f237f491ce59",
+      "md5": "f10c7e01cf0e33de2578f237f491ce59",
+      "size": 971684,
+      "uploadedDate": "2021-04-16T22:24:24.343Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
-      "md5": "c67f1998f4ed6ba79d9e5e71cfb30b23",
-      "size": 254582,
-      "uploadedDate": "2021-02-11T17:49:21.157Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Founderspack_1200x1600-f10c7e01cf0e33de2578f237f491ce59",
+      "md5": "f10c7e01cf0e33de2578f237f491ce59",
+      "size": 971684,
+      "uploadedDate": "2021-04-16T22:24:32.492Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Founderspack_1200x1600-f10c7e01cf0e33de2578f237f491ce59",
+      "md5": "f10c7e01cf0e33de2578f237f491ce59",
+      "size": 971684,
+      "uploadedDate": "2021-04-16T22:24:39.624Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Founderspacklandscape_2560x1440-30d89c9473fe330ab9ef657345856670",
+      "md5": "30d89c9473fe330ab9ef657345856670",
+      "size": 472733,
+      "uploadedDate": "2021-04-16T22:24:46.750Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Founderspack_1200x1600-f10c7e01cf0e33de2578f237f491ce59",
+      "md5": "f10c7e01cf0e33de2578f237f491ce59",
+      "size": 971684,
+      "uploadedDate": "2021-04-16T22:24:54.398Z",
       "width": 1200,
       "height": 1600
     }
@@ -59,6 +107,6 @@
     }
   ],
   "catalogNs": {
-    "name": "7e508f543b05465abe3a935960eb70ac"
+    "name": null
   }
 }
