@@ -8,7 +8,7 @@
   "productSlug": "crsed-f-o-a-d/home",
   "urlSlug": "athensgeneralaudience",
   "creationDate": "2020-06-12T17:18:35.272Z",
-  "lastModifiedDate": "2020-12-03T15:20:50.570Z",
+  "lastModifiedDate": "2021-04-23T14:59:38.342Z",
   "effectiveDate": "2020-12-03T16:00:00.000Z",
   "viewableDate": "2020-12-03T15:55:00.000Z",
   "developer": null,
@@ -65,56 +65,56 @@
   ],
   "keyImages": [
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/2b352b4aea3849bd9519842dda263ac7/offer/EGS_CRSEDFOAD_DarkflowSoftware_S2-1200x1600-8fbde140981a068d2037bbbb2fc4388b.jpg",
-      "md5": "8fbde140981a068d2037bbbb2fc4388b",
-      "size": 175738,
-      "uploadedDate": "2020-12-01T13:24:05.874Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/2b352b4aea3849bd9519842dda263ac7/offer/EGS_CRSEDFOAD_DarkflowSoftware_S1-2560x1440-befb4f8c87640dd7aca6d234b4a4ab85.jpg",
-      "md5": "befb4f8c87640dd7aca6d234b4a4ab85",
-      "size": 254993,
-      "uploadedDate": "2020-12-01T13:24:16.331Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/2b2d16d3-7eff-4f97-806c-94bcdc62903a_2560x1440-aa6ca2f1bd338e69404aa0b23d026d32",
+      "md5": "aa6ca2f1bd338e69404aa0b23d026d32",
+      "size": 288368,
+      "uploadedDate": "2021-04-22T17:11:08.491Z",
       "width": 2560,
       "height": 1440
     },
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/2b352b4aea3849bd9519842dda263ac7/offer/EGS_CRSEDFOAD_DarkflowSoftware_S1-2560x1440-befb4f8c87640dd7aca6d234b4a4ab85.jpg",
-      "md5": "befb4f8c87640dd7aca6d234b4a4ab85",
-      "size": 254993,
-      "uploadedDate": "2020-12-01T13:24:24.731Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/2b352b4aea3849bd9519842dda263ac7/offer/EGS_CRSEDFOAD_DarkflowSoftware_S2-1200x1600-8fbde140981a068d2037bbbb2fc4388b.jpg",
-      "md5": "8fbde140981a068d2037bbbb2fc4388b",
-      "size": 175738,
-      "uploadedDate": "2020-12-01T13:24:31.843Z",
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/1a266b85-9b69-4c67-9791-b84bdc00e5c8_1200x1600-1dc0f6739cc4a4450e95f0afb2830ab3",
+      "md5": "1dc0f6739cc4a4450e95f0afb2830ab3",
+      "size": 226256,
+      "uploadedDate": "2021-04-22T17:11:16.512Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/2b352b4aea3849bd9519842dda263ac7/offer/EGS_CRSEDFOAD_DarkflowSoftware_S2-1200x1600-8fbde140981a068d2037bbbb2fc4388b.jpg",
-      "md5": "8fbde140981a068d2037bbbb2fc4388b",
-      "size": 175738,
-      "uploadedDate": "2020-12-01T13:24:40.026Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/1a266b85-9b69-4c67-9791-b84bdc00e5c8_1200x1600-1dc0f6739cc4a4450e95f0afb2830ab3",
+      "md5": "1dc0f6739cc4a4450e95f0afb2830ab3",
+      "size": 226256,
+      "uploadedDate": "2021-04-22T17:11:25.153Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/2b352b4aea3849bd9519842dda263ac7/offer/EGS_CRSEDFOAD_DarkflowSoftware_S2-1200x1600-8fbde140981a068d2037bbbb2fc4388b.jpg",
-      "md5": "8fbde140981a068d2037bbbb2fc4388b",
-      "size": 175738,
-      "uploadedDate": "2020-12-01T13:24:47.073Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/1a266b85-9b69-4c67-9791-b84bdc00e5c8_1200x1600-1dc0f6739cc4a4450e95f0afb2830ab3",
+      "md5": "1dc0f6739cc4a4450e95f0afb2830ab3",
+      "size": 226256,
+      "uploadedDate": "2021-04-22T17:11:32.909Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/2b2d16d3-7eff-4f97-806c-94bcdc62903a_2560x1440-aa6ca2f1bd338e69404aa0b23d026d32",
+      "md5": "aa6ca2f1bd338e69404aa0b23d026d32",
+      "size": 288368,
+      "uploadedDate": "2021-04-22T17:11:48.253Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/1a266b85-9b69-4c67-9791-b84bdc00e5c8_1200x1600-1dc0f6739cc4a4450e95f0afb2830ab3",
+      "md5": "1dc0f6739cc4a4450e95f0afb2830ab3",
+      "size": 226256,
+      "uploadedDate": "2021-04-22T17:12:00.153Z",
       "width": 1200,
       "height": 1600
     }

@@ -8,7 +8,7 @@
   "productSlug": "krita",
   "urlSlug": "krita",
   "creationDate": "2021-03-30T08:27:40.140Z",
-  "lastModifiedDate": "2021-04-22T15:26:27.036Z",
+  "lastModifiedDate": "2021-04-22T18:21:06.910Z",
   "effectiveDate": "2021-04-22T13:45:00.000Z",
   "viewableDate": "2021-04-22T13:45:00.000Z",
   "developer": null,
@@ -62,58 +62,58 @@
   ],
   "keyImages": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/1285dfc03f134184aef8e12eef6b6cd3/offer/egs-krita-kritateam-s1-2560x1440-2560x1440-c6f1d4b6de2f74d8a215e9a823a00a2e.jpg",
-      "md5": "c6f1d4b6de2f74d8a215e9a823a00a2e",
-      "size": 291640,
-      "uploadedDate": "2021-04-22T13:24:32.603Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/1285dfc03f134184aef8e12eef6b6cd3/offer/egs-krita-kritateam-s2-1200x1600-1200x1600-ee5003f08931c77f8e94b3ea80e639b3.jpg",
-      "md5": "ee5003f08931c77f8e94b3ea80e639b3",
-      "size": 152114,
-      "uploadedDate": "2021-04-22T13:24:36.075Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/1285dfc03f134184aef8e12eef6b6cd3/offer/egs-krita-kritateam-s1-2560x1440-2560x1440-c6f1d4b6de2f74d8a215e9a823a00a2e.jpg",
-      "md5": "c6f1d4b6de2f74d8a215e9a823a00a2e",
-      "size": 291640,
-      "uploadedDate": "2021-04-22T13:24:38.676Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/1285dfc03f134184aef8e12eef6b6cd3/offer/egs-krita-kritateam-s2-1200x1600-1200x1600-ee5003f08931c77f8e94b3ea80e639b3.jpg",
-      "md5": "ee5003f08931c77f8e94b3ea80e639b3",
-      "size": 152114,
-      "uploadedDate": "2021-04-22T13:24:42.521Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/1285dfc03f134184aef8e12eef6b6cd3/offer/egs-krita-kritateam-s2-1200x1600-1200x1600-ee5003f08931c77f8e94b3ea80e639b3.jpg",
-      "md5": "ee5003f08931c77f8e94b3ea80e639b3",
-      "size": 152114,
-      "uploadedDate": "2021-04-22T13:25:08.348Z",
+      "url": "https://cdn1.epicgames.com/1285dfc03f134184aef8e12eef6b6cd3/offer/krita-1200x1600-6e02fc12b5296bf69396bc6127a065e8.jpg",
+      "md5": "6e02fc12b5296bf69396bc6127a065e8",
+      "size": 257196,
+      "uploadedDate": "2021-04-22T17:56:08.925Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/1285dfc03f134184aef8e12eef6b6cd3/offer/egs-krita-kritateam-s2-1200x1600-1200x1600-ee5003f08931c77f8e94b3ea80e639b3.jpg",
-      "md5": "ee5003f08931c77f8e94b3ea80e639b3",
-      "size": 152114,
-      "uploadedDate": "2021-04-22T13:25:11.235Z",
+      "url": "https://cdn1.epicgames.com/1285dfc03f134184aef8e12eef6b6cd3/offer/krita-1200x1600-6e02fc12b5296bf69396bc6127a065e8.jpg",
+      "md5": "6e02fc12b5296bf69396bc6127a065e8",
+      "size": 257196,
+      "uploadedDate": "2021-04-22T17:56:18.116Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/1285dfc03f134184aef8e12eef6b6cd3/offer/krita-1200x1600-6e02fc12b5296bf69396bc6127a065e8.jpg",
+      "md5": "6e02fc12b5296bf69396bc6127a065e8",
+      "size": 257196,
+      "uploadedDate": "2021-04-22T17:56:30.661Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/1285dfc03f134184aef8e12eef6b6cd3/offer/krita-1200x1600-6e02fc12b5296bf69396bc6127a065e8.jpg",
+      "md5": "6e02fc12b5296bf69396bc6127a065e8",
+      "size": 257196,
+      "uploadedDate": "2021-04-22T17:56:40.697Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/1285dfc03f134184aef8e12eef6b6cd3/offer/ccd6297d-8e9d-4c34-a147-d9ee180c3078-2560x1440-85c7807ede1e7c4acf740569233dd38c.jpg",
+      "md5": "85c7807ede1e7c4acf740569233dd38c",
+      "size": 485018,
+      "uploadedDate": "2021-04-22T18:20:08.826Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/1285dfc03f134184aef8e12eef6b6cd3/offer/ccd6297d-8e9d-4c34-a147-d9ee180c3078-2560x1440-85c7807ede1e7c4acf740569233dd38c.jpg",
+      "md5": "85c7807ede1e7c4acf740569233dd38c",
+      "size": 485018,
+      "uploadedDate": "2021-04-22T18:20:19.017Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
   "items": [

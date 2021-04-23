@@ -8,7 +8,7 @@
   "productSlug": "alien-isolation",
   "urlSlug": "lethegeneralaudience",
   "creationDate": "2020-10-26T16:28:13.978Z",
-  "lastModifiedDate": "2021-04-15T14:34:57.197Z",
+  "lastModifiedDate": "2021-04-23T16:43:27.707Z",
   "effectiveDate": "2020-12-21T16:00:00.000Z",
   "viewableDate": "2020-12-21T16:00:00.000Z",
   "developer": null,
@@ -25,13 +25,7 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "freegames"
-    },
-    {
       "path": "games"
-    },
-    {
-      "path": "games/edition/base"
     },
     {
       "path": "games/edition"
