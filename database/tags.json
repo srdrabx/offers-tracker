@@ -1264,7 +1264,7 @@
     "aliases": [],
     "operator": null,
     "created": "2021-04-19T13:59:20.139Z",
-    "updated": "2021-04-21T08:25:30.672Z",
+    "updated": "2021-04-26T13:13:22.679Z",
     "status": "ACTIVE",
     "referenceCount": 20,
     "comment": ""
@@ -1298,6 +1298,30 @@
     "updated": "2021-04-20T15:00:56.227Z",
     "status": "ACTIVE",
     "referenceCount": 0,
+    "comment": ""
+  },
+  "16004": {
+    "id": "16004",
+    "name": "Weeklong Deals",
+    "namespace": null,
+    "aliases": [],
+    "operator": null,
+    "created": "2021-04-26T11:38:40.572Z",
+    "updated": "2021-04-26T11:38:40.572Z",
+    "status": "ACTIVE",
+    "referenceCount": null,
+    "comment": ""
+  },
+  "16005": {
+    "id": "16005",
+    "name": "STAR WARS May The 4th Sale",
+    "namespace": null,
+    "aliases": [],
+    "operator": null,
+    "created": "2021-04-26T12:36:10.637Z",
+    "updated": "2021-04-26T12:36:10.637Z",
+    "status": "ACTIVE",
+    "referenceCount": null,
     "comment": ""
   }
 }

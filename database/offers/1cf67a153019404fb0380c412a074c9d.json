@@ -1,16 +1,16 @@
 {
   "id": "1cf67a153019404fb0380c412a074c9d",
   "namespace": "456d95ca54814c8d98db2f52346ff5de",
-  "title": "Naheulbeuk DLC 1",
-  "description": "Naheulbeuk DLC 1",
-  "longDescription": null,
+  "title": "The Dungeon of Naheulbeuk Goodies Pack",
+  "description": "The Goodies Pack includes a Digital Artbook, a few additional music tracks, a pack of audio lines from the game, 5 artworks in 4K resolution and 5 animated artworks.",
+  "longDescription": "The Goodies Pack includes a Digital Artbook, a few additional music tracks, a pack of audio lines from the game, 5 artworks in 4K resolution and 5 animated artworks.\n",
   "status": "ACTIVE",
-  "productSlug": "[]",
-  "urlSlug": "sarajevogeneralaudience-02",
+  "productSlug": null,
+  "urlSlug": "the-dungeon-of-naheulbeuk--goodies-pack",
   "creationDate": "2020-08-21T14:51:11.378Z",
-  "lastModifiedDate": "2021-02-22T19:41:09.355Z",
-  "effectiveDate": "2050-09-30T15:00:00.000Z",
-  "viewableDate": "2050-09-30T15:00:00.000Z",
+  "lastModifiedDate": "2021-04-26T15:37:41.998Z",
+  "effectiveDate": "2020-09-17T15:00:00.000Z",
+  "viewableDate": "2020-09-17T15:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
@@ -24,6 +24,12 @@
   "technicalDetails": null,
   "recurrence": "ONCE",
   "categories": [
+    {
+      "path": "digitalextras/book"
+    },
+    {
+      "path": "digitalextras"
+    },
     {
       "path": "applications"
     }
@@ -51,18 +57,6 @@
       "updated": "2021-02-10T17:36:35.389Z",
       "status": "ACTIVE",
       "referenceCount": 195,
-      "comment": null
-    },
-    {
-      "id": "1386",
-      "name": "Turn-Based",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:30.372Z",
-      "updated": "2021-02-05T16:19:58.338Z",
-      "status": "ACTIVE",
-      "referenceCount": 14,
       "comment": null
     },
     {
@@ -114,17 +108,70 @@
     {
       "key": "developerName",
       "value": "Artefacts Studio"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/offer/EGS_GoodiesPack_ArtefactsStudio_DigitalExtras_G1A_00-1920x1080-e4ef3eeaa0e5832f94826593bbc0f62b.jpg",
+      "md5": "e4ef3eeaa0e5832f94826593bbc0f62b",
+      "size": 990905,
+      "uploadedDate": "2020-09-16T16:25:04.264Z",
+      "width": 1920,
+      "height": 1080
     },
     {
-      "key": "com.epicgames.app.productSlug",
-      "value": "[]"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/offer/EGS_GoodiesPack_ArtefactsStudio_DigitalExtras_G1A_00-1920x1080-e4ef3eeaa0e5832f94826593bbc0f62b.jpg",
+      "md5": "e4ef3eeaa0e5832f94826593bbc0f62b",
+      "size": 990905,
+      "uploadedDate": "2020-09-16T16:25:13.198Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/offer/EGS_GoodiesPack_ArtefactsStudio_DigitalExtras_G1A_001-1200x1600-b90bdf1108b69cb3f8ac472fdb5ed988.jpg",
+      "md5": "b90bdf1108b69cb3f8ac472fdb5ed988",
+      "size": 920769,
+      "uploadedDate": "2020-09-16T20:26:24.923Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/offer/EGS_GoodiesPack_ArtefactsStudio_DigitalExtras_G1A_001-1200x1600-b90bdf1108b69cb3f8ac472fdb5ed988.jpg",
+      "md5": "b90bdf1108b69cb3f8ac472fdb5ed988",
+      "size": 920769,
+      "uploadedDate": "2020-09-16T20:26:32.621Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/offer/EGS_GoodiesPack_ArtefactsStudio_DigitalExtras_G1A_001-1200x1600-b90bdf1108b69cb3f8ac472fdb5ed988.jpg",
+      "md5": "b90bdf1108b69cb3f8ac472fdb5ed988",
+      "size": 920769,
+      "uploadedDate": "2020-09-16T20:26:39.630Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/offer/EGS_GoodiesPack_ArtefactsStudio_DigitalExtras_G1A_001-1200x1600-b90bdf1108b69cb3f8ac472fdb5ed988.jpg",
+      "md5": "b90bdf1108b69cb3f8ac472fdb5ed988",
+      "size": 920769,
+      "uploadedDate": "2020-09-16T20:26:47.911Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
-  "keyImages": [],
   "items": [
     {
-      "id": "a4bb78b36389408db9fb6e6aa74ef06e"
+      "id": "b0342c731fdd4eb08aded1b32cc4e22a"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "456d95ca54814c8d98db2f52346ff5de"
+  }
 }

@@ -227,6 +227,6 @@
     }
   ],
   "catalogNs": {
-    "name": "cobra"
+    "name": null
   }
 }

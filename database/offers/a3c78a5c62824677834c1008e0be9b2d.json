@@ -75,6 +75,18 @@
       "comment": null
     },
     {
+      "id": "16004",
+      "name": "Weeklong Deals",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-04-26T11:38:40.572Z",
+      "updated": "2021-04-26T11:38:40.572Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": ""
+    },
+    {
       "id": "15257",
       "name": "Rockstar Games Sale",
       "namespace": null,
