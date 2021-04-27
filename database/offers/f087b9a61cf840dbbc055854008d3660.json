@@ -6,9 +6,9 @@
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": "skate-city",
-  "urlSlug": "minskgeneralaudience",
+  "urlSlug": "minskprepurchaseaudience",
   "creationDate": "2020-07-03T02:53:49.757Z",
-  "lastModifiedDate": "2021-02-11T19:18:17.715Z",
+  "lastModifiedDate": "2021-04-26T17:22:59.881Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2021-02-12T15:00:00.000Z",
   "developer": null,
@@ -151,10 +151,10 @@
   ],
   "items": [
     {
-      "id": "8316b5805de1482bae474a6e02978f05"
+      "id": "87074df7466548b0a8c5ebceac62ecf2"
     }
   ],
   "catalogNs": {
-    "name": "9eea232af06e4e60bb90f9bc5c2a4638"
+    "name": null
   }
 }

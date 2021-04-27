@@ -1,16 +1,16 @@
 {
   "id": "1e78b5ae7dad4838b0c206d0258a247d",
   "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
-  "title": "test1",
-  "description": "test1",
-  "longDescription": null,
+  "title": "Rocket League® - Octane ZSR Starter Pack",
+  "description": "The Octane ZSR Starter Pack features Octane styling with a twist. Get five in-game items, plus 500 Credits!",
+  "longDescription": "The Octane's sibling is ready for the field in the Octane ZSR Starter Pack! This pack comes with the Octane ZSR car, Nipper Wheels (Black), Krackle Boost, Luminous Trail, Funnybook Decal for Octane ZSR, and 500 Credits.",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "test1",
+  "urlSlug": "rocket-league--octane-zsr-starter-pack",
   "creationDate": "2021-03-25T03:43:26.343Z",
-  "lastModifiedDate": "2021-04-01T17:18:43.493Z",
-  "effectiveDate": "2099-12-15T17:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2021-04-27T14:11:36.687Z",
+  "effectiveDate": "2021-04-27T16:00:00.000Z",
+  "viewableDate": "2021-04-27T16:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
@@ -24,6 +24,12 @@
   "technicalDetails": null,
   "recurrence": "ONCE",
   "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
     {
       "path": "applications"
     }
@@ -51,18 +57,6 @@
       "updated": "2021-02-10T17:35:33.537Z",
       "status": "ACTIVE",
       "referenceCount": 46,
-      "comment": null
-    },
-    {
-      "id": "1283",
-      "name": "Sports",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:39.226Z",
-      "updated": "2021-02-09T16:47:39.833Z",
-      "status": "ACTIVE",
-      "referenceCount": 2,
       "comment": null
     },
     {
@@ -136,13 +130,68 @@
       "value": "Psyonix LLC"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RocketLeagueOctaneZSRStarterPack_PsyonixLLC_DLC_S1_2560x1440-cd3baa9c728faf184421a5b30adfb398",
+      "md5": "cd3baa9c728faf184421a5b30adfb398",
+      "size": 964405,
+      "uploadedDate": "2021-04-22T00:46:17.524Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RocketLeagueOctaneZSRStarterPack_PsyonixLLC_DLC_S2_1200x1600-5c7bc8f784412ab3ad0d0f9163c5d7ff",
+      "md5": "5c7bc8f784412ab3ad0d0f9163c5d7ff",
+      "size": 940484,
+      "uploadedDate": "2021-04-22T00:46:26.289Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RocketLeagueOctaneZSRStarterPack_PsyonixLLC_DLC_S2_1200x1600-5c7bc8f784412ab3ad0d0f9163c5d7ff",
+      "md5": "5c7bc8f784412ab3ad0d0f9163c5d7ff",
+      "size": 940484,
+      "uploadedDate": "2021-04-22T00:46:33.755Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RocketLeagueOctaneZSRStarterPack_PsyonixLLC_DLC_S2_1200x1600-5c7bc8f784412ab3ad0d0f9163c5d7ff",
+      "md5": "5c7bc8f784412ab3ad0d0f9163c5d7ff",
+      "size": 940484,
+      "uploadedDate": "2021-04-22T00:46:43.496Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RocketLeagueOctaneZSRStarterPack_PsyonixLLC_DLC_S1_2560x1440-cd3baa9c728faf184421a5b30adfb398",
+      "md5": "cd3baa9c728faf184421a5b30adfb398",
+      "size": 964405,
+      "uploadedDate": "2021-04-22T00:46:54.590Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RocketLeagueOctaneZSRStarterPack_PsyonixLLC_DLC_S2_1200x1600-5c7bc8f784412ab3ad0d0f9163c5d7ff",
+      "md5": "5c7bc8f784412ab3ad0d0f9163c5d7ff",
+      "size": 940484,
+      "uploadedDate": "2021-04-22T00:47:01.742Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "98ad5389c6184a0cad24c4ff10254128"
     }
   ],
   "catalogNs": {
-    "name": "9773aa1aa54f4f7b80e44bef04986cea"
+    "name": null
   }
 }

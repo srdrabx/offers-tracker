@@ -1,0 +1,172 @@
+{
+  "id": "affa1b8409ab4e609b97cc84b844a624",
+  "namespace": "fd990d1478724f3faa938e519c2835a5",
+  "title": "The Forgotten City",
+  "description": "The Forgotten City",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "the-forgotten-city",
+  "urlSlug": "the-forgotten-city",
+  "creationDate": "2021-03-02T22:37:50.034Z",
+  "lastModifiedDate": "2021-04-26T16:11:50.654Z",
+  "effectiveDate": "2099-09-30T00:00:00.000Z",
+  "viewableDate": "2021-04-26T17:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+    "name": "Plug In Digital SAS"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2021-02-10T17:36:19.203Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-12-15T01:46:33.012Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2021-02-10T17:35:19.827Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Plug In Digital SAS"
+    },
+    {
+      "key": "developerName",
+      "value": "Plug In Digital SAS"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-forgotten-city"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheForgottenCity_ModernStoryteller_S1_2560x1440-6fa8fccc5d3c247efdf58ea35c00de0c",
+      "md5": "6fa8fccc5d3c247efdf58ea35c00de0c",
+      "size": 986335,
+      "uploadedDate": "2021-04-22T15:53:43.288Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheForgottenCity_ModernStoryteller_S2_1200x1600-089418a2c2fca13670da6e945dad66bb",
+      "md5": "089418a2c2fca13670da6e945dad66bb",
+      "size": 1018732,
+      "uploadedDate": "2021-04-22T15:54:02.788Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheForgottenCity_ModernStoryteller_S4_1200x1600-daa08f45ad30bcc69a39ca09317e9ebe",
+      "md5": "daa08f45ad30bcc69a39ca09317e9ebe",
+      "size": 1018732,
+      "uploadedDate": "2021-04-22T15:54:16.597Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheForgottenCity_ModernStoryteller_S4_1200x1600-daa08f45ad30bcc69a39ca09317e9ebe",
+      "md5": "daa08f45ad30bcc69a39ca09317e9ebe",
+      "size": 1018732,
+      "uploadedDate": "2021-04-22T15:54:26.553Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheForgottenCity_ModernStoryteller_S3_2560x1440-6fa8fccc5d3c247efdf58ea35c00de0c",
+      "md5": "6fa8fccc5d3c247efdf58ea35c00de0c",
+      "size": 986335,
+      "uploadedDate": "2021-04-22T15:54:51.375Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheForgottenCity_ModernStoryteller_S4_1200x1600-daa08f45ad30bcc69a39ca09317e9ebe",
+      "md5": "daa08f45ad30bcc69a39ca09317e9ebe",
+      "size": 1018732,
+      "uploadedDate": "2021-04-22T15:55:05.982Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "52f9add7ea8843efb86577b2a56ff1aa"
+    }
+  ],
+  "catalogNs": {
+    "name": null
+  }
+}

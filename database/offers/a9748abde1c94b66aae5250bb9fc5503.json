@@ -8,7 +8,7 @@
   "productSlug": "idle-champions-of-the-forgotten-realms",
   "urlSlug": "banegeneralaudience",
   "creationDate": "2020-10-15T12:56:50.731Z",
-  "lastModifiedDate": "2021-04-23T18:17:38.767Z",
+  "lastModifiedDate": "2021-04-27T14:41:38.904Z",
   "effectiveDate": "2021-02-16T17:00:00.000Z",
   "viewableDate": "2021-02-16T17:00:00.000Z",
   "developer": null,
@@ -24,9 +24,6 @@
   "technicalDetails": null,
   "recurrence": "ONCE",
   "categories": [
-    {
-      "path": "freegames"
-    },
     {
       "path": "games"
     },
@@ -93,7 +90,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "[]"
+      "value": "KR"
     },
     {
       "key": "publisherName",
@@ -147,19 +144,19 @@
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Landscape - Apr 22_2560x1440-5e74e99839fc897101e4fd23b46b0862",
-      "md5": "5e74e99839fc897101e4fd23b46b0862",
-      "size": 994765,
-      "uploadedDate": "2021-04-23T17:52:37.619Z",
+      "url": "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S1-2560x1440-a890c6157dce97993be432cb8338cb79.jpg",
+      "md5": "a890c6157dce97993be432cb8338cb79",
+      "size": 536899,
+      "uploadedDate": "2021-02-11T17:16:42.451Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Portrait - Apr 22_1200x1600-09c95f1c4c614a503efb61de20a75415",
-      "md5": "09c95f1c4c614a503efb61de20a75415",
-      "size": 1009285,
-      "uploadedDate": "2021-04-23T17:52:47.231Z",
+      "url": "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
+      "md5": "c67f1998f4ed6ba79d9e5e71cfb30b23",
+      "size": 254582,
+      "uploadedDate": "2021-02-11T17:16:51.247Z",
       "width": 1200,
       "height": 1600
     }
@@ -170,6 +167,6 @@
     }
   ],
   "catalogNs": {
-    "name": "7e508f543b05465abe3a935960eb70ac"
+    "name": null
   }
 }

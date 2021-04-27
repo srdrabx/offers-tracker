@@ -1,0 +1,188 @@
+{
+  "id": "122ce57331224c4987bfa677682e9992",
+  "namespace": "2b4079af75f0487798a504ca35952942",
+  "title": "A Monster's Expedition",
+  "description": "A Monster's Expedition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "a-monsters-expedition",
+  "urlSlug": "amonstersexpedition",
+  "creationDate": "2021-02-06T00:38:27.261Z",
+  "lastModifiedDate": "2021-04-27T02:01:00.509Z",
+  "effectiveDate": "2021-04-27T14:00:00.000Z",
+  "viewableDate": "2021-04-27T14:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-8n38qrvfawma8qsmu3d37bw7gasm2a",
+    "name": "Draknek"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1298",
+      "name": "Puzzle",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2021-02-10T17:34:06.225Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2021-02-10T17:35:47.790Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2021-02-10T17:36:06.452Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2021-02-10T17:35:19.827Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "Mac OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX",
+        "macOS"
+      ],
+      "operator": null,
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2021-02-10T17:26:31.125Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Draknek & Friends"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "a-monsters-expedition"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AMonstersExpedition_DraknekFriends_S1_2560x1440-3e6e2ed699a6cfe8b60080d56566db17",
+      "md5": "3e6e2ed699a6cfe8b60080d56566db17",
+      "size": 378108,
+      "uploadedDate": "2021-04-22T18:04:49.806Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AMonstersExpedition_DraknekFriends_S2_1200x1600-12a8b0a23d31eb4cc7cedf52c01f3877",
+      "md5": "12a8b0a23d31eb4cc7cedf52c01f3877",
+      "size": 748616,
+      "uploadedDate": "2021-04-22T18:05:03.299Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AMonstersExpedition_DraknekFriends_S2_1200x1600-12a8b0a23d31eb4cc7cedf52c01f3877",
+      "md5": "12a8b0a23d31eb4cc7cedf52c01f3877",
+      "size": 748616,
+      "uploadedDate": "2021-04-22T18:05:11.164Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AMonstersExpedition_DraknekFriends_S2_1200x1600-12a8b0a23d31eb4cc7cedf52c01f3877",
+      "md5": "12a8b0a23d31eb4cc7cedf52c01f3877",
+      "size": 748616,
+      "uploadedDate": "2021-04-22T18:05:19.044Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AMonstersExpedition_DraknekFriends_S1_2560x1440-3e6e2ed699a6cfe8b60080d56566db17",
+      "md5": "3e6e2ed699a6cfe8b60080d56566db17",
+      "size": 378108,
+      "uploadedDate": "2021-04-22T18:05:28.103Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AMonstersExpedition_DraknekFriends_S2_1200x1600-12a8b0a23d31eb4cc7cedf52c01f3877",
+      "md5": "12a8b0a23d31eb4cc7cedf52c01f3877",
+      "size": 748616,
+      "uploadedDate": "2021-04-22T18:05:36.430Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "24c55238e8704ba787e08e8c0e1dabeb"
+    }
+  ],
+  "catalogNs": {
+    "name": null
+  }
+}

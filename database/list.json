@@ -41,7 +41,7 @@
     ],
     "Codename Entertainment",
     1612391406,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -587,7 +587,7 @@
     ],
     "Codename Entertainment",
     1612571940,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -1372,7 +1372,7 @@
     ],
     "Codename Entertainment",
     1612907933,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -1547,6 +1547,21 @@
     1515628039,
     1539758375,
     "",
+    ""
+  ],
+  [
+    "076fa32c9476489e8c8e59c06eef759d",
+    "456d95ca54814c8d98db2f52346ff5de",
+    "The Dungeon Of Naheulbeuk: Ruins Of Limis",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Plug In Digital SAS",
+    1619051234,
+    1619456687,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheDungeonOfNaheulbeukRuinsOfLimis_ArtefactsStudio_DLC_S2_1200x1600-208a84371cb92cc0be8c9caaa475e881",
     ""
   ],
   [
@@ -2299,7 +2314,7 @@
     ],
     "Ubisoft Entertainment",
     1566622232,
-    1612545165,
+    1619539154,
     "https://cdn1.epicgames.com/9e30bd4e12954cee898f4c059625d374/offer/GameName_Store_Portrait_1200x1600_EN-1200x1600-d315d0ec00c50d29b8e6d099d33f29c1.jpg",
     "prince-of-persia-sands-of-time/home"
   ],
@@ -2796,6 +2811,21 @@
     1547244396,
     1588121205,
     "https://cdn1.epicgames.com/snapdragon/offer/M3_Game_Icon-400x400-732cd6de7626f196b52c3675520f704b.png",
+    ""
+  ],
+  [
+    "0d1ae625db0d4cdfb702161227406224",
+    "a60b160cb14c4c258b70299310b63e56",
+    "Axis Operations - Spanish Civil War",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Slitherine Software UK Ltd.",
+    1613514065,
+    1619531394,
+    "https://cdn1.epicgames.com/a60b160cb14c4c258b70299310b63e56/offer/EGS_AxisOperationsSpanishCivilWar_FlashbackGames_DLC_S2-1200x1600-ccebd84cd0fd9c60a469c9c4fba8e84a.jpg",
     ""
   ],
   [
@@ -3814,7 +3844,7 @@
     ],
     "Codename Entertainment",
     1612386979,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -3932,7 +3962,7 @@
     ],
     "Codename Entertainment",
     1612304229,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -4112,6 +4142,21 @@
     1608245421,
     "https://cdn1.epicgames.com/3fafb94f3f804d6bbe85da723c90e689/offer/EGS_FootballManager2021Touch_SportsInteractive_DLC_S2-1200x1600-3eaf4f6e401d44eb1099aa57c74a94c6.jpg",
     "[]"
+  ],
+  [
+    "122ce57331224c4987bfa677682e9992",
+    "2b4079af75f0487798a504ca35952942",
+    "A Monster's Expedition",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition"
+    ],
+    "Draknek",
+    1612571907,
+    1619488860,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AMonstersExpedition_DraknekFriends_S2_1200x1600-12a8b0a23d31eb4cc7cedf52c01f3877",
+    "a-monsters-expedition"
   ],
   [
     "1235ead7b12f45218a4b3d46c4989267",
@@ -4680,14 +4725,13 @@
     "7e508f543b05465abe3a935960eb70ac",
     "Champions of Renown: Year 1 All-Star Pack",
     [
-      "addons",
-      "addons/durable",
+      "games",
       "applications"
     ],
     "Codename Entertainment",
     1612571879,
-    1619031465,
-    "https://cdn1.epicgames.com/salesEvent/salesEvent/Y1_1200x1600-5b7941084f17416315fc2fc7c8993fee",
+    1619534498,
+    "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
   [
@@ -5036,7 +5080,7 @@
     ],
     "Codename Entertainment",
     1612907458,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -5777,7 +5821,7 @@
     ],
     "Codename Entertainment",
     1612308227,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -5868,7 +5912,7 @@
     ],
     "Codename Entertainment",
     1612907412,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -6160,6 +6204,22 @@
     1608309409,
     "",
     ""
+  ],
+  [
+    "1a707a9a17f044509271a410e1fbbb5b",
+    "a60b160cb14c4c258b70299310b63e56",
+    "Panzer Corps 2",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Slitherine Software UK Ltd.",
+    1600827818,
+    1619531394,
+    "https://cdn1.epicgames.com/a60b160cb14c4c258b70299310b63e56/offer/EGS_PanzerCorps2_FlashbackGames_S6-1200x1600-8873951ff2fd239f030c7f0e91ea8572.jpg",
+    "panzer-corps-2"
   ],
   [
     "1a70d0e3a760451b8ecac03cd9bbdca1",
@@ -6548,7 +6608,7 @@
     ],
     "Codename Entertainment",
     1612308938,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -7144,14 +7204,16 @@
   [
     "1e78b5ae7dad4838b0c206d0258a247d",
     "9773aa1aa54f4f7b80e44bef04986cea",
-    "test1",
+    "Rocket League® - Octane ZSR Starter Pack",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Psyonix LLC",
     1616643806,
-    1617297523,
-    "",
+    1619532696,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RocketLeagueOctaneZSRStarterPack_PsyonixLLC_DLC_S2_1200x1600-5c7bc8f784412ab3ad0d0f9163c5d7ff",
     ""
   ],
   [
@@ -7382,7 +7444,7 @@
     ],
     "Codename Entertainment",
     1612384594,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -7734,7 +7796,7 @@
     ],
     "Codename Entertainment",
     1612384270,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -8133,7 +8195,7 @@
     ],
     "Codename Entertainment",
     1612571824,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -8633,7 +8695,7 @@
     ],
     "Codename Entertainment",
     1612387111,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -9413,7 +9475,7 @@
     ],
     "Codename Entertainment",
     1612910427,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -10712,7 +10774,7 @@
     ],
     "Codename Entertainment",
     1612910277,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -10954,14 +11016,13 @@
     "7e508f543b05465abe3a935960eb70ac",
     "Bruenor's Starter Pack",
     [
-      "addons",
-      "addons/durable",
+      "games",
       "applications"
     ],
     "Codename Entertainment",
     1612386677,
-    1619031465,
-    "https://cdn1.epicgames.com/salesEvent/salesEvent/Bruenorspack_1200x1600-8f01019242227f716cc150ff48a04a98",
+    1619534498,
+    "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
   [
@@ -12315,6 +12376,21 @@
     ""
   ],
   [
+    "355e661b53054dbc844294d06a57d723",
+    "a60b160cb14c4c258b70299310b63e56",
+    "Axis Operations - 1939",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Slitherine Software UK Ltd.",
+    1613514118,
+    1619531394,
+    "https://cdn1.epicgames.com/a60b160cb14c4c258b70299310b63e56/offer/EGS_AxisOperations1939_FlashbackGames_DLC_S2-1200x1600-211ebd62327b76178a451866d0f8988b.jpg",
+    ""
+  ],
+  [
     "35966c9dab4e4ad88b2aac396757bdce",
     "37baf50c268d47779020d73143bb02b0",
     "300 Donuts",
@@ -12808,7 +12884,7 @@
     ],
     "Codename Entertainment",
     1612390444,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -12822,7 +12898,7 @@
     ],
     "Codename Entertainment",
     1612910193,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -13818,7 +13894,7 @@
     ],
     "Codename Entertainment",
     1612307964,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -14616,7 +14692,7 @@
     ],
     "Codename Entertainment",
     1612910482,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -14656,7 +14732,7 @@
     ],
     "Codename Entertainment",
     1612384548,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -14789,7 +14865,7 @@
     ],
     "Codename Entertainment",
     1612303964,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -15189,7 +15265,7 @@
     ],
     "Codename Entertainment",
     1612390532,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -15462,14 +15538,13 @@
     "7e508f543b05465abe3a935960eb70ac",
     "Bubbles the Hollyphant Familiar Pack",
     [
-      "addons",
-      "addons/durable",
+      "games",
       "applications"
     ],
     "Codename Entertainment",
     1614197291,
-    1619031465,
-    "https://cdn1.epicgames.com/salesEvent/salesEvent/bubbles_1200x1600-a7580953741b49ec173734217b6aa998",
+    1619534498,
+    "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
   [
@@ -16127,6 +16202,21 @@
     ""
   ],
   [
+    "457d5b214f3d416f8f7416342b9c3b64",
+    "1b46483fae544287b08af981b49a931c",
+    "Sokobond",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition"
+    ],
+    "Draknek",
+    1612831320,
+    1619488860,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Sokobond_DraknekFriends_S4_1200x1600-43c350fe2ac3d1cfc0ee016244d1b4e9",
+    "sokobond"
+  ],
+  [
     "45847c651225422f8e0cd798c75e1aab",
     "azalea",
     "Lootboy Pack",
@@ -16327,7 +16417,7 @@
     ],
     "Codename Entertainment",
     1612304265,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -17891,7 +17981,7 @@
     ],
     "Codename Entertainment",
     1612303586,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -18124,7 +18214,7 @@
     ],
     "Codename Entertainment",
     1612386819,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -18294,7 +18384,7 @@
     ],
     "Electronic Arts",
     1571353709,
-    1612288874,
+    1619463731,
     "https://cdn1.epicgames.com/e509c16d53714b13ba8e393966507255/offer/SWJFODE_ADHOC_510X680-510x680-f2abf31f8cac8ec134fa84f21cf935aa.jpg",
     "star-wars-jedi-fallen-order/deluxe-edition"
   ],
@@ -18412,7 +18502,7 @@
     ],
     "Digital Extremes",
     1616530644,
-    1616530812,
+    1619472999,
     "",
     ""
   ],
@@ -19503,7 +19593,7 @@
     ],
     "Codename Entertainment",
     1612308059,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -19547,7 +19637,7 @@
     ],
     "Codename Entertainment",
     1612910523,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -19844,7 +19934,7 @@
     ],
     "Codename Entertainment",
     1612384089,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -20035,6 +20125,21 @@
     1607621285,
     1607622064,
     "",
+    ""
+  ],
+  [
+    "55c22ac03e9e4d0e89ab156a9c8f19a6",
+    "a60b160cb14c4c258b70299310b63e56",
+    "Axis Operations - 1941",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Slitherine Software UK Ltd.",
+    1613514310,
+    1619531394,
+    "https://cdn1.epicgames.com/a60b160cb14c4c258b70299310b63e56/offer/EGS_AxisOperations1941_FlashbackGames_DLC_S2-1200x1600-151445951bf7504536a76e4038c696a7.jpg",
     ""
   ],
   [
@@ -20666,7 +20771,7 @@
     ],
     "Codename Entertainment",
     1614197212,
-    1615241513,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -22375,7 +22480,7 @@
     ],
     "Codename Entertainment",
     1614197240,
-    1615241513,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -23587,7 +23692,7 @@
     ],
     "Codename Entertainment",
     1612908001,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -24549,7 +24654,7 @@
     ],
     "IO Interactive",
     1612501979,
-    1618491668,
+    1619457800,
     "https://cdn1.epicgames.com/ed55aa5edc5941de92fd7f64de415793/offer/EGS_HITMAN3FreeStarterPack_IOInteractiveAS_Bundles_S2-1200x1600-edf334753fdec5be4e94a07e2328d281.jpg",
     ""
   ],
@@ -24637,7 +24742,7 @@
     ],
     "Codename Entertainment",
     1612383297,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -25748,7 +25853,7 @@
     ],
     "Digital Extremes",
     1616530585,
-    1616530812,
+    1619472941,
     "",
     ""
   ],
@@ -25893,7 +25998,7 @@
     ],
     "Codename Entertainment",
     1612386910,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -26715,7 +26820,7 @@
     ],
     "Codename Entertainment",
     1614197328,
-    1615241513,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -27313,7 +27418,7 @@
     ],
     "Codename Entertainment",
     1614197165,
-    1615241513,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -27354,7 +27459,7 @@
     ],
     "Codename Entertainment",
     1612910320,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -27473,7 +27578,7 @@
     ],
     "Codename Entertainment",
     1612384126,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -27572,7 +27677,7 @@
     ],
     "Codename Entertainment",
     1612304808,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -28162,7 +28267,7 @@
     ],
     "Codename Entertainment",
     1612907848,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -29767,7 +29872,7 @@
     ],
     "Digital Extremes",
     1616530520,
-    1616530812,
+    1619472921,
     "",
     ""
   ],
@@ -30609,7 +30714,7 @@
     ],
     "Codename Entertainment",
     1612384624,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -31513,14 +31618,13 @@
     "7e508f543b05465abe3a935960eb70ac",
     "Founder's Pack III",
     [
-      "addons",
-      "addons/durable",
+      "games",
       "applications"
     ],
     "Codename Entertainment",
     1612910244,
-    1619031465,
-    "https://cdn1.epicgames.com/salesEvent/salesEvent/Founderspack_1200x1600-f10c7e01cf0e33de2578f237f491ce59",
+    1619534498,
+    "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
   [
@@ -31787,7 +31891,7 @@
     ],
     "Codename Entertainment",
     1612907965,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -31857,7 +31961,7 @@
     ],
     "Codename Entertainment",
     1612907221,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -33074,7 +33178,7 @@
     ],
     "Codename Entertainment",
     1612390936,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -33102,7 +33206,7 @@
     ],
     "Codename Entertainment",
     1612308354,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -34428,7 +34532,7 @@
     ],
     "Codename Entertainment",
     1612384393,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -34707,7 +34811,7 @@
     ],
     "Codename Entertainment",
     1612391374,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -35056,7 +35160,7 @@
     ],
     "Codename Entertainment",
     1612571777,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -35345,7 +35449,7 @@
     ],
     "Digital Extremes",
     1616530618,
-    1616530812,
+    1619472959,
     "",
     ""
   ],
@@ -35359,7 +35463,7 @@
     ],
     "Codename Entertainment",
     1612303796,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -36225,7 +36329,7 @@
     ],
     "Codename Entertainment",
     1612907899,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -36519,7 +36623,7 @@
     ],
     "Codename Entertainment",
     1612572361,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -37000,7 +37104,7 @@
     ],
     "Codename Entertainment",
     1612383335,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -37014,7 +37118,7 @@
     ],
     "Codename Entertainment",
     1614052364,
-    1614184214,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -37764,7 +37868,7 @@
     ],
     "Codename Entertainment",
     1612384497,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -37869,7 +37973,7 @@
     ],
     "Codename Entertainment",
     1612910353,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -38267,6 +38371,21 @@
     ""
   ],
   [
+    "a40d8475938e40beab4236f855a61254",
+    "9dfbab09058d403892a27b96dcb349aa",
+    "A Good Snowman Is Hard To Build",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition"
+    ],
+    "Draknek",
+    1612566119,
+    1619488860,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AGoodSnowmanisHardtoBuild_DraknekFriends_S2_1200x1600-6935542c2ca09bbc1b8fb8265dcfa8e4",
+    "a-good-snowman-is-hard-to-build"
+  ],
+  [
     "a4105318eabd463c820f3b083f5e8727",
     "ff52981b1d9947978153c7a7f8bc6d90",
     "DevLynxAudience",
@@ -38476,7 +38595,7 @@
     ],
     "Codename Entertainment",
     1612390571,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -39106,7 +39225,7 @@
     ],
     "Codename Entertainment",
     1612572000,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -39307,7 +39426,7 @@
     ],
     "Codename Entertainment",
     1612907257,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -39417,7 +39536,6 @@
     "7e508f543b05465abe3a935960eb70ac",
     "Idle Champions of the Forgotten Realms",
     [
-      "freegames",
       "games",
       "games/edition",
       "games/edition/base",
@@ -39425,7 +39543,7 @@
     ],
     "Codename Entertainment",
     1602766610,
-    1619201858,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     "idle-champions-of-the-forgotten-realms"
   ],
@@ -39736,7 +39854,7 @@
     ],
     "Codename Entertainment",
     1612304762,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -40352,6 +40470,21 @@
     "thecycle/scout-pack"
   ],
   [
+    "ad30dd6bb9a0476fb1c86c5b212471e9",
+    "a60b160cb14c4c258b70299310b63e56",
+    "General Edition Upgrade",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Slitherine Software UK Ltd.",
+    1613513999,
+    1619531394,
+    "https://cdn1.epicgames.com/a60b160cb14c4c258b70299310b63e56/offer/EGS_GeneralEditionUpgrade_FlashbackGames_DLC_S2-1200x1600-c2be5d6cb22e161de08baa4236c365a0.jpg",
+    ""
+  ],
+  [
     "ad556ffe8f6d4f98bd27461f4bc65f83",
     "SeaQA",
     "item title",
@@ -40387,7 +40520,7 @@
     ],
     "Digital Extremes",
     1616530671,
-    1616530813,
+    1619473016,
     "",
     ""
   ],
@@ -41105,6 +41238,36 @@
     "the-talos-principle/home"
   ],
   [
+    "aff5a361a63a4d9faddc64c569bd67e8",
+    "a60b160cb14c4c258b70299310b63e56",
+    "DevCulebraAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "o-h4mg4jfen23pupwq2dzpvw7vbf5s5z",
+    1600827818,
+    1619531394,
+    "",
+    ""
+  ],
+  [
+    "affa1b8409ab4e609b97cc84b844a624",
+    "fd990d1478724f3faa938e519c2835a5",
+    "The Forgotten City",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Plug In Digital SAS",
+    1614724670,
+    1619453510,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheForgottenCity_ModernStoryteller_S4_1200x1600-daa08f45ad30bcc69a39ca09317e9ebe",
+    "the-forgotten-city"
+  ],
+  [
     "b0131c80e3374edcb5c70c08efdf9416",
     "6af58339c2424644988e0fb83dfd9bd5",
     "Modern English - \"I Melt With You\"",
@@ -41303,7 +41466,7 @@
     ],
     "Electronic Arts",
     1571351630,
-    1612288874,
+    1619463731,
     "",
     ""
   ],
@@ -41333,7 +41496,7 @@
     ],
     "Codename Entertainment",
     1612384440,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -41600,7 +41763,7 @@
     ],
     "Codename Entertainment",
     1612386939,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -42955,7 +43118,7 @@
     ],
     "Codename Entertainment",
     1612571968,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -43802,14 +43965,16 @@
   [
     "bd15c3b80aeb4a1b9358e6dd4537c427",
     "9773aa1aa54f4f7b80e44bef04986cea",
-    "test2",
+    "Rocket League® - Peregrine Pack",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Psyonix LLC",
     1616643838,
-    1617297537,
-    "",
+    1619532696,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RocketLeaguePeregrinePack_PsyonixLLC_DLC_S2_1200x1600-5aebfe329865eb577a023c536ec0b1cf",
     ""
   ],
   [
@@ -43967,7 +44132,7 @@
     ],
     "Goblinz Studio",
     1619104531,
-    1619107048,
+    1619465453,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/New_1200x1600_1200x1600-0c18c81de91fd7e0846a1241cdad9eca",
     ""
   ],
@@ -44065,7 +44230,7 @@
     ],
     "Codename Entertainment",
     1612910589,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -44757,7 +44922,7 @@
     ],
     "Codename Entertainment",
     1612572329,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -44899,7 +45064,7 @@
     ],
     "Codename Entertainment",
     1612386716,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -44941,7 +45106,7 @@
     ],
     "Codename Entertainment",
     1612304124,
-    1613491571,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -45444,7 +45609,7 @@
     ],
     "Codename Entertainment",
     1612910558,
-    1613491572,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -45972,7 +46137,7 @@
     ],
     "Codename Entertainment",
     1612384668,
-    1613491572,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -46417,7 +46582,7 @@
     ],
     "Codename Entertainment",
     1612572426,
-    1613491572,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -46595,7 +46760,7 @@
     ],
     "Codename Entertainment",
     1612910380,
-    1613491572,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -48523,7 +48688,7 @@
     ],
     "Codename Entertainment",
     1612571848,
-    1613491572,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -48671,6 +48836,22 @@
     1613056913,
     "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/offer/EGS_Lobbyistico_LimbicEntertainment_DLC_S2-1200x1600-05a54dc41b1e7fba4b37f3aeb147eda8.jpg",
     ""
+  ],
+  [
+    "d3d423fc1a58400fb08443c9942756af",
+    "d74efb08c7f449928fcdfdba1dcbda48",
+    "Let's Build a Zoo",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "No More Robots",
+    1619041227,
+    1619534549,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LetsBuildAZoo_Springloaded_S2_1200x1600-9f546139acb9c27a75aee035db50cbb7",
+    "lets-build-a-zoo"
   ],
   [
     "d3d9ffc9a2a84be39e4cc523fbc467db",
@@ -49042,7 +49223,7 @@
     ],
     "Codename Entertainment",
     1613088293,
-    1613491572,
+    1619534498,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -49932,7 +50113,7 @@
     ],
     "Codename Entertainment",
     1612387015,
-    1613491572,
+    1619534499,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -51654,7 +51835,7 @@
     ],
     "Codename Entertainment",
     1613085858,
-    1613491572,
+    1619534499,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -54545,6 +54726,21 @@
     ""
   ],
   [
+    "ec29b9f62f614c51911f1fe5519a63c9",
+    "a60b160cb14c4c258b70299310b63e56",
+    "Axis Operations - 1940",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Slitherine Software UK Ltd.",
+    1613514238,
+    1619531394,
+    "https://cdn1.epicgames.com/a60b160cb14c4c258b70299310b63e56/offer/EGS_AxisOperations1940_FlashbackGames_DLC_S2-1200x1600-8ee55b05a30894407e0d6e83e81452eb.jpg",
+    ""
+  ],
+  [
     "ec3f9a53206a47f3aeaea482719876a8",
     "213259527d2f41baa90cbe0ae5555271",
     "Dungeons 3 - DLC Bundle",
@@ -54618,6 +54814,21 @@
     1617912201,
     "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_ImperialSun-1200x1600-c342007b646c639e8eac448c8db59a50.png",
     ""
+  ],
+  [
+    "ec6230f20ebe4667ad08b5079bf7e5e9",
+    "3b03927495db4362bb88a812e8db5e59",
+    "Cosmic Express",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition"
+    ],
+    "Draknek",
+    1612569028,
+    1619488860,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CosmicExpress_DraknekFriends_S4_1200x1600-ecb9807cfc3cb3c5808f6909689e30c6",
+    "cosmic-express"
   ],
   [
     "ec657440106b44e4b7da05f971e691b6",
@@ -55000,7 +55211,7 @@
     ],
     "Codename Entertainment",
     1612571913,
-    1613491572,
+    1619534499,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -55245,7 +55456,7 @@
     ],
     "Codename Entertainment",
     1612386860,
-    1613491572,
+    1619534499,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -55572,7 +55783,7 @@
     ],
     "Snowman",
     1593744829,
-    1613071097,
+    1619457779,
     "https://cdn1.epicgames.com/9eea232af06e4e60bb90f9bc5c2a4638/offer/EGS_SkateCity_Agens_S2-1200x1600-0e27f416b79d0a39f34a95ea0253096e.jpg",
     "skate-city"
   ],
@@ -56868,7 +57079,7 @@
     ],
     "Codename Entertainment",
     1612572394,
-    1613491572,
+    1619534499,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -56956,7 +57167,7 @@
     ],
     "Codename Entertainment",
     1612571751,
-    1613491572,
+    1619534499,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -58010,7 +58221,7 @@
     ],
     "Codename Entertainment",
     1612382738,
-    1613491572,
+    1619534499,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],
@@ -58744,7 +58955,7 @@
     ],
     "Codename Entertainment",
     1612387050,
-    1613491572,
+    1619534499,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
   ],

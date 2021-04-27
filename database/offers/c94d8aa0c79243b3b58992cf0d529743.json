@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "banedlc091",
   "creationDate": "2021-02-09T22:39:40.473Z",
-  "lastModifiedDate": "2021-02-16T16:06:12.030Z",
+  "lastModifiedDate": "2021-04-27T14:41:38.986Z",
   "effectiveDate": "2021-02-16T17:00:00.000Z",
   "viewableDate": "2021-02-16T17:00:00.000Z",
   "developer": null,
@@ -59,6 +59,6 @@
     }
   ],
   "catalogNs": {
-    "name": "7e508f543b05465abe3a935960eb70ac"
+    "name": null
   }
 }

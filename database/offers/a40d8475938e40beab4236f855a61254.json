@@ -1,0 +1,176 @@
+{
+  "id": "a40d8475938e40beab4236f855a61254",
+  "namespace": "9dfbab09058d403892a27b96dcb349aa",
+  "title": "A Good Snowman Is Hard To Build",
+  "description": "A Good Snowman Is Hard To Build",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "a-good-snowman-is-hard-to-build",
+  "urlSlug": "radiumgeneralaudience",
+  "creationDate": "2021-02-05T23:01:59.799Z",
+  "lastModifiedDate": "2021-04-27T02:01:00.551Z",
+  "effectiveDate": "2021-04-27T14:00:00.000Z",
+  "viewableDate": "2021-04-27T14:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-8n38qrvfawma8qsmu3d37bw7gasm2a",
+    "name": "Draknek"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1298",
+      "name": "Puzzle",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2021-02-10T17:34:06.225Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2021-02-10T17:35:47.790Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2021-02-10T17:35:19.827Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "Mac OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX",
+        "macOS"
+      ],
+      "operator": null,
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2021-02-10T17:26:31.125Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Draknek & Friends"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "a-good-snowman-is-hard-to-build"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AGoodSnowmanisHardtoBuild_DraknekFriends_S1_2560x1440-06ffbdd50acb5c652873e410112673ce",
+      "md5": "06ffbdd50acb5c652873e410112673ce",
+      "size": 457072,
+      "uploadedDate": "2021-04-22T20:51:33.674Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AGoodSnowmanisHardtoBuild_DraknekFriends_S2_1200x1600-6935542c2ca09bbc1b8fb8265dcfa8e4",
+      "md5": "6935542c2ca09bbc1b8fb8265dcfa8e4",
+      "size": 298163,
+      "uploadedDate": "2021-04-22T20:51:43.397Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AGoodSnowmanisHardtoBuild_DraknekFriends_S2_1200x1600-6935542c2ca09bbc1b8fb8265dcfa8e4",
+      "md5": "6935542c2ca09bbc1b8fb8265dcfa8e4",
+      "size": 298163,
+      "uploadedDate": "2021-04-22T20:51:50.122Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AGoodSnowmanisHardtoBuild_DraknekFriends_S2_1200x1600-6935542c2ca09bbc1b8fb8265dcfa8e4",
+      "md5": "6935542c2ca09bbc1b8fb8265dcfa8e4",
+      "size": 298163,
+      "uploadedDate": "2021-04-22T20:51:58.012Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AGoodSnowmanisHardtoBuild_DraknekFriends_S1_2560x1440-06ffbdd50acb5c652873e410112673ce",
+      "md5": "06ffbdd50acb5c652873e410112673ce",
+      "size": 457072,
+      "uploadedDate": "2021-04-22T20:52:06.142Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AGoodSnowmanisHardtoBuild_DraknekFriends_S2_1200x1600-6935542c2ca09bbc1b8fb8265dcfa8e4",
+      "md5": "6935542c2ca09bbc1b8fb8265dcfa8e4",
+      "size": 298163,
+      "uploadedDate": "2021-04-22T20:52:13.145Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "17913593b9b24f9a8ae342aba6eb8367"
+    }
+  ],
+  "catalogNs": {
+    "name": null
+  }
+}

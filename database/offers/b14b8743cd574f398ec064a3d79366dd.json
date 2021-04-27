@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "shoebill-deluxe-edition-perpurchase",
   "creationDate": "2019-10-17T22:33:50.666Z",
-  "lastModifiedDate": "2021-02-02T18:01:14.755Z",
+  "lastModifiedDate": "2021-04-26T19:02:11.153Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -46,6 +46,6 @@
     }
   ],
   "catalogNs": {
-    "name": "e509c16d53714b13ba8e393966507255"
+    "name": null
   }
 }
