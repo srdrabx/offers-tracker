@@ -1,0 +1,58 @@
+{
+  "id": "39cf725aa1b245e99683c9a20a9907b2",
+  "namespace": "076207fa2b5c4803a636af606c3c28b7",
+  "title": "SMITE x MCPB",
+  "description": "SMITE x MCPB",
+  "longDescription": "---",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "smite-mcpb",
+  "creationDate": "2021-04-27T17:56:51.214Z",
+  "lastModifiedDate": "2021-04-27T19:28:07.202Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+    "name": "Hi-Rez Studios"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Hi-Rez Studios"
+    },
+    {
+      "key": "developerName",
+      "value": "Titan Forge Games"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "1ef108df503c45dab87ea8f57bf61cdf"
+    },
+    {
+      "id": "291703cd9dbe4e76b90a7b1e3a5769e8"
+    }
+  ],
+  "catalogNs": {
+    "name": null
+  }
+}

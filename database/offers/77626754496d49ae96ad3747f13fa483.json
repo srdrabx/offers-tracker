@@ -1,0 +1,58 @@
+{
+  "id": "77626754496d49ae96ad3747f13fa483",
+  "namespace": "076207fa2b5c4803a636af606c3c28b7",
+  "title": "YGP",
+  "description": "YGP",
+  "longDescription": "---",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "smite-ygp",
+  "creationDate": "2021-04-27T17:55:45.528Z",
+  "lastModifiedDate": "2021-04-27T17:55:45.528Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+    "name": "Hi-Rez Studios"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Hi-Rez Studios"
+    },
+    {
+      "key": "developerName",
+      "value": "Titan Forge Games"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "fb990e38edfc4fc7b8365e8d70a72531"
+    },
+    {
+      "id": "4ad8c5630d9346e7b51839e88553750d"
+    }
+  ],
+  "catalogNs": {
+    "name": null
+  }
+}

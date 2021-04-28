@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "fuser--dua-lipa-new-rules",
   "creationDate": "2020-09-01T20:56:04.963Z",
-  "lastModifiedDate": "2021-01-07T22:40:07.056Z",
+  "lastModifiedDate": "2021-04-27T17:28:19.498Z",
   "effectiveDate": "2021-01-21T17:00:00.000Z",
   "viewableDate": "2021-01-21T17:00:00.000Z",
   "developer": null,
@@ -28,7 +28,7 @@
       "path": "addons"
     },
     {
-      "path": "addons/bundle"
+      "path": "addons/durable"
     },
     {
       "path": "applications"
@@ -93,6 +93,6 @@
     }
   ],
   "catalogNs": {
-    "name": "6af58339c2424644988e0fb83dfd9bd5"
+    "name": null
   }
 }

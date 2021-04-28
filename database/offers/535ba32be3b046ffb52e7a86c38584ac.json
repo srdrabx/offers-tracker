@@ -1,49 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2020-06-16T21:58:22.450Z",
-  "lastModifiedDate": "2020-07-09T14:57:59.801Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Premium Summer Sideshow Bronze Ticket Bundle",
   "id": "535ba32be3b046ffb52e7a86c38584ac",
   "namespace": "affc33b82405457595a032f00284abd2",
+  "title": "Premium Summer Sideshow Bronze Ticket Bundle",
   "description": "Premium Summer Sideshow Bronze Ticket Bundle",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_2560x1440-2560x1440-644173a0251b030bd2612e8f33b800d5.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "dlc111",
+  "creationDate": "2020-06-16T21:58:22.450Z",
+  "lastModifiedDate": "2021-04-27T22:14:33.964Z",
+  "effectiveDate": "2021-06-22T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
     "name": "Tripwire Interactive"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "7f56cfd6e36242709b7b4309f9093fbf",
-      "namespace": "affc33b82405457595a032f00284abd2",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -58,14 +46,50 @@
       "value": "{}"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
+      "md5": "3871a312bd2800d12a24e3498b1018c8",
+      "size": 673242,
+      "uploadedDate": "2020-04-24T18:08:52.648Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "applications"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_2560x1440-2560x1440-644173a0251b030bd2612e8f33b800d5.jpg",
+      "md5": "644173a0251b030bd2612e8f33b800d5",
+      "size": 2243509,
+      "uploadedDate": "2020-04-24T18:09:18.553Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
+      "md5": "3871a312bd2800d12a24e3498b1018c8",
+      "size": 673242,
+      "uploadedDate": "2020-04-24T18:10:02.877Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
+      "md5": "3871a312bd2800d12a24e3498b1018c8",
+      "size": 673242,
+      "uploadedDate": "2020-04-24T18:10:35.595Z",
+      "width": 860,
+      "height": 1148
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "7f56cfd6e36242709b7b4309f9093fbf"
+    }
+  ],
+  "catalogNs": {
+    "name": null
+  }
 }
