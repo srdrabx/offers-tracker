@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "legend-of-keepers--support-pack",
   "creationDate": "2021-04-22T15:15:31.461Z",
-  "lastModifiedDate": "2021-04-26T19:30:53.956Z",
+  "lastModifiedDate": "2021-04-29T16:41:17.310Z",
   "effectiveDate": "2021-04-29T17:00:00.000Z",
   "viewableDate": "2021-04-22T17:00:00.000Z",
   "developer": null,
@@ -120,6 +120,6 @@
     }
   ],
   "catalogNs": {
-    "name": null
+    "name": "3d4b3dcf7ec449c7a042c163d08fa0f3"
   }
 }

@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "scarlet-hood-and-the-wicked-wood--original-soundtracks",
   "creationDate": "2021-03-30T19:02:40.504Z",
-  "lastModifiedDate": "2021-04-08T15:10:04.958Z",
+  "lastModifiedDate": "2021-04-29T15:47:45.158Z",
   "effectiveDate": "2021-04-08T15:00:00.000Z",
   "viewableDate": "2021-04-08T15:00:00.000Z",
   "developer": null,
@@ -38,7 +38,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR"
+      "value": "[]"
     },
     {
       "key": "publisherName",
@@ -129,6 +129,6 @@
     }
   ],
   "catalogNs": {
-    "name": null
+    "name": "7f82d4cc5bc24d6487315fd6b4b27779"
   }
 }

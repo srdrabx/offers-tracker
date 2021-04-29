@@ -8,7 +8,7 @@
   "productSlug": "idle-champions-of-the-forgotten-realms",
   "urlSlug": "banegeneralaudience",
   "creationDate": "2020-10-15T12:56:50.731Z",
-  "lastModifiedDate": "2021-04-27T16:50:13.647Z",
+  "lastModifiedDate": "2021-04-29T16:34:31.609Z",
   "effectiveDate": "2021-02-16T17:00:00.000Z",
   "viewableDate": "2021-02-16T17:00:00.000Z",
   "developer": null,
@@ -41,15 +41,59 @@
     }
   ],
   "tags": [
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "1141",
+      "name": "Free to Play",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:28.688Z",
+      "updated": "2021-02-05T16:15:57.293Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "Strategy",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2021-02-10T17:35:11.878Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR"
+      "value": "[]"
     },
     {
       "key": "publisherName",
@@ -102,29 +146,20 @@
       "height": 1600
     },
     {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
-      "md5": "c67f1998f4ed6ba79d9e5e71cfb30b23",
-      "size": 254582,
-      "uploadedDate": "2021-02-11T17:16:51.247Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Landscape - Apr 22_2560x1440-32ae46a677bc229456d5e40bd65f2fe8",
-      "md5": "32ae46a677bc229456d5e40bd65f2fe8",
-      "size": 1006526,
-      "uploadedDate": "2021-04-20T20:07:04.540Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Landscape - Apr 29_2560x1440-557c79e2df74001427d21f75da99e87e",
+      "md5": "557c79e2df74001427d21f75da99e87e",
+      "size": 991471,
+      "uploadedDate": "2021-04-28T23:34:33.860Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Portrait - Apr 22_1200x1600-76d1bf39ee28ab0e32933f304f4a0e4c",
-      "md5": "76d1bf39ee28ab0e32933f304f4a0e4c",
-      "size": 1021690,
-      "uploadedDate": "2021-04-20T20:07:17.039Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Portrait - Apr 29_1200x1600-56f58126c419906790a9d6ae3754647c",
+      "md5": "56f58126c419906790a9d6ae3754647c",
+      "size": 1008287,
+      "uploadedDate": "2021-04-28T23:34:40.658Z",
       "width": 1200,
       "height": 1600
     }
@@ -135,6 +170,6 @@
     }
   ],
   "catalogNs": {
-    "name": null
+    "name": "7e508f543b05465abe3a935960eb70ac"
   }
 }

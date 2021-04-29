@@ -8,7 +8,7 @@
   "productSlug": "scarlet-hood-and-the-wicked-wood/deluxe-edition",
   "urlSlug": "tamale-deluxe-audience",
   "creationDate": "2021-03-30T18:58:18.784Z",
-  "lastModifiedDate": "2021-04-07T21:36:32.449Z",
+  "lastModifiedDate": "2021-04-29T15:47:56.426Z",
   "effectiveDate": "2021-04-08T15:00:00.000Z",
   "viewableDate": "2021-04-08T15:00:00.000Z",
   "developer": null,
@@ -38,7 +38,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR"
+      "value": "[]"
     },
     {
       "key": "publisherName",
@@ -115,6 +115,6 @@
     }
   ],
   "catalogNs": {
-    "name": null
+    "name": "7f82d4cc5bc24d6487315fd6b4b27779"
   }
 }

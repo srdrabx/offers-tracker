@@ -8,9 +8,9 @@
   "productSlug": "skate-city",
   "urlSlug": "minskprepurchaseaudience",
   "creationDate": "2020-07-03T02:53:49.757Z",
-  "lastModifiedDate": "2021-04-26T17:22:59.881Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": "2021-02-12T15:00:00.000Z",
+  "lastModifiedDate": "2021-04-29T13:07:35.235Z",
+  "effectiveDate": "2021-04-29T13:00:00.000Z",
+  "viewableDate": null,
   "developer": null,
   "seller": {
     "id": "o-z3ekfrqrj66t7w5jnrxdjhknzm826c",
@@ -38,9 +38,54 @@
     }
   ],
   "tags": [
-    null,
-    null,
-    null
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2021-02-10T17:36:19.203Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2021-02-10T17:35:19.827Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {
@@ -50,6 +95,14 @@
     {
       "key": "publisherName",
       "value": "Snowman"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "availableDate",
+      "value": "1620306000"
     },
     {
       "key": "developerName",
@@ -122,6 +175,6 @@
     }
   ],
   "catalogNs": {
-    "name": null
+    "name": "9eea232af06e4e60bb90f9bc5c2a4638"
   }
 }

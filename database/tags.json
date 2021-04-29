@@ -167,6 +167,18 @@
     "referenceCount": 0,
     "comment": null
   },
+  "1130": {
+    "id": "1130",
+    "name": "PSYCHOLOGICAL",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T11:59:23.072Z",
+    "updated": "2019-06-20T11:59:23.072Z",
+    "status": "ACTIVE",
+    "referenceCount": null,
+    "comment": null
+  },
   "1131": {
     "id": "1131",
     "name": "SURVIVAL HORROR",
@@ -261,6 +273,18 @@
     "updated": "2020-09-04T01:18:13.226Z",
     "status": "ACTIVE",
     "referenceCount": 0,
+    "comment": null
+  },
+  "1164": {
+    "id": "1164",
+    "name": "TEAM-BASED",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T11:59:40.046Z",
+    "updated": "2019-06-20T11:59:40.046Z",
+    "status": "ACTIVE",
+    "referenceCount": null,
     "comment": null
   },
   "1166": {
@@ -371,6 +395,18 @@
     "referenceCount": 0,
     "comment": null
   },
+  "1208": {
+    "id": "1208",
+    "name": "TURN-BASED COMBAT",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T12:00:01.719Z",
+    "updated": "2019-06-20T12:00:01.719Z",
+    "status": "ACTIVE",
+    "referenceCount": null,
+    "comment": null
+  },
   "1210": {
     "id": "1210",
     "name": "Shooter",
@@ -393,6 +429,18 @@
     "updated": "2021-02-05T16:17:00.647Z",
     "status": "ACTIVE",
     "referenceCount": 6,
+    "comment": null
+  },
+  "1215": {
+    "id": "1215",
+    "name": "POST-APOCALYPTIC",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T12:00:05.124Z",
+    "updated": "2019-06-20T12:00:05.124Z",
+    "status": "ACTIVE",
+    "referenceCount": null,
     "comment": null
   },
   "1216": {
@@ -431,6 +479,18 @@
     "referenceCount": 0,
     "comment": null
   },
+  "1230": {
+    "id": "1230",
+    "name": "CCG ",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T12:00:12.712Z",
+    "updated": "2019-06-20T12:00:12.712Z",
+    "status": "ACTIVE",
+    "referenceCount": null,
+    "comment": null
+  },
   "1233": {
     "id": "1233",
     "name": "Base-Building",
@@ -441,6 +501,18 @@
     "updated": "2021-02-05T16:11:41.048Z",
     "status": "ACTIVE",
     "referenceCount": 1,
+    "comment": null
+  },
+  "1243": {
+    "id": "1243",
+    "name": "LEVEL EDITOR",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T12:00:19.332Z",
+    "updated": "2019-06-20T12:00:19.332Z",
+    "status": "ACTIVE",
+    "referenceCount": null,
     "comment": null
   },
   "1247": {
@@ -573,6 +645,18 @@
     "updated": "2021-02-05T16:08:44.511Z",
     "status": "ACTIVE",
     "referenceCount": 1,
+    "comment": null
+  },
+  "1289": {
+    "id": "1289",
+    "name": "CRAFTING",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T12:00:42.141Z",
+    "updated": "2020-08-28T11:58:21.202Z",
+    "status": "ACTIVE",
+    "referenceCount": 0,
     "comment": null
   },
   "1294": {
@@ -731,6 +815,18 @@
     "referenceCount": 0,
     "comment": null
   },
+  "1343": {
+    "id": "1343",
+    "name": "MECHS",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T12:01:08.830Z",
+    "updated": "2019-06-20T12:01:08.830Z",
+    "status": "ACTIVE",
+    "referenceCount": null,
+    "comment": null
+  },
   "1344": {
     "id": "1344",
     "name": "Fighting",
@@ -837,6 +933,18 @@
     "updated": "2021-02-05T16:19:58.338Z",
     "status": "ACTIVE",
     "referenceCount": 14,
+    "comment": null
+  },
+  "1389": {
+    "id": "1389",
+    "name": "MANAGEMENT",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T12:01:31.894Z",
+    "updated": "2019-06-20T12:01:31.894Z",
+    "status": "ACTIVE",
+    "referenceCount": null,
     "comment": null
   },
   "1393": {
@@ -981,6 +1089,18 @@
     "referenceCount": 13,
     "comment": ""
   },
+  "13790": {
+    "id": "13790",
+    "name": "TEST",
+    "namespace": "SeaQA",
+    "aliases": [],
+    "operator": null,
+    "created": "2020-10-29T17:36:31.446Z",
+    "updated": "2020-10-29T17:41:00.815Z",
+    "status": "ACTIVE",
+    "referenceCount": 1,
+    "comment": null
+  },
   "14346": {
     "id": "14346",
     "name": "Holiday Sale 2020",
@@ -1041,6 +1161,18 @@
     "referenceCount": 3,
     "comment": ""
   },
+  "15275": {
+    "id": "15275",
+    "name": "Private Division Sale",
+    "namespace": null,
+    "aliases": [],
+    "operator": null,
+    "created": "2021-03-04T14:29:54.435Z",
+    "updated": "2021-04-08T15:00:32.406Z",
+    "status": "ACTIVE",
+    "referenceCount": 5,
+    "comment": ""
+  },
   "15375": {
     "id": "15375",
     "name": "Spring Sale",
@@ -1053,6 +1185,78 @@
     "referenceCount": 618,
     "comment": ""
   },
+  "15489": {
+    "id": "15489",
+    "name": "Smoketag",
+    "namespace": "prod-SeaQA",
+    "aliases": [],
+    "operator": null,
+    "created": "2021-03-16T11:02:37.759Z",
+    "updated": "2021-03-18T11:27:14.678Z",
+    "status": "ACTIVE",
+    "referenceCount": 1,
+    "comment": ""
+  },
+  "15490": {
+    "id": "15490",
+    "name": "Smoketag1",
+    "namespace": "prod-SeaQA",
+    "aliases": [],
+    "operator": null,
+    "created": "2021-03-16T11:02:43.964Z",
+    "updated": "2021-03-18T11:27:34.004Z",
+    "status": "ACTIVE",
+    "referenceCount": 1,
+    "comment": ""
+  },
+  "15491": {
+    "id": "15491",
+    "name": "Smoketag2",
+    "namespace": "prod-SeaQA",
+    "aliases": [],
+    "operator": null,
+    "created": "2021-03-17T08:15:57.503Z",
+    "updated": "2021-03-18T11:27:15.080Z",
+    "status": "ACTIVE",
+    "referenceCount": 1,
+    "comment": ""
+  },
+  "15583": {
+    "id": "15583",
+    "name": "BAFTA Games Awards 2021",
+    "namespace": null,
+    "aliases": [],
+    "operator": null,
+    "created": "2021-03-24T19:40:24.012Z",
+    "updated": "2021-04-08T14:59:54.194Z",
+    "status": "ACTIVE",
+    "referenceCount": 7,
+    "comment": ""
+  },
+  "15735": {
+    "id": "15735",
+    "name": "Football Manager 2021 Sale",
+    "namespace": null,
+    "aliases": [],
+    "operator": null,
+    "created": "2021-04-06T10:07:18.424Z",
+    "updated": "2021-04-16T07:14:27.891Z",
+    "status": "ACTIVE",
+    "referenceCount": 2,
+    "comment": ""
+  },
+  "15760": {
+    "id": "15760",
+    "name": "Sale extension Hitman 3",
+    "namespace": null,
+    "aliases": [],
+    "operator": null,
+    "created": "2021-04-08T08:14:23.256Z",
+    "updated": "2021-04-08T16:51:38.030Z",
+    "status": "ACTIVE",
+    "referenceCount": 2,
+    "comment": ""
+  },
   "15895": {
     "id": "15895",
     "name": "Tropico Anniversary Sale",
@@ -1063,6 +1267,37 @@
     "updated": "2021-04-26T13:13:22.679Z",
     "status": "ACTIVE",
     "referenceCount": 20,
+    "comment": ""
+  },
+  "15909": {
+    "id": "15909",
+    "name": "App",
+    "namespace": null,
+    "aliases": [
+      "application",
+      "software",
+      "apps",
+      "applications"
+    ],
+    "operator": null,
+    "created": "2021-04-15T01:05:31.194Z",
+    "updated": "2021-04-20T15:21:51.051Z",
+    "status": "ACTIVE",
+    "referenceCount": 0,
+    "comment": ""
+  },
+  "15911": {
+    "id": "15911",
+    "name": "Application",
+    "namespace": null,
+    "aliases": [
+      "apps"
+    ],
+    "operator": null,
+    "created": "2021-04-20T14:26:38.815Z",
+    "updated": "2021-04-20T15:00:56.227Z",
+    "status": "ACTIVE",
+    "referenceCount": 0,
     "comment": ""
   },
   "16004": {
@@ -1084,9 +1319,9 @@
     "aliases": [],
     "operator": null,
     "created": "2021-04-26T12:36:10.637Z",
-    "updated": "2021-04-26T12:36:10.637Z",
+    "updated": "2021-04-29T14:58:53.073Z",
     "status": "ACTIVE",
-    "referenceCount": null,
+    "referenceCount": 5,
     "comment": ""
   }
 }

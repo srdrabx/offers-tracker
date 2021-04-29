@@ -8,7 +8,7 @@
   "productSlug": "astria-ascending",
   "urlSlug": "krypton-general-audience",
   "creationDate": "2021-03-02T22:40:30.479Z",
-  "lastModifiedDate": "2021-04-28T03:33:31.511Z",
+  "lastModifiedDate": "2021-04-29T14:43:04.367Z",
   "effectiveDate": "2021-12-30T16:00:00.000Z",
   "viewableDate": "2021-03-26T18:30:00.000Z",
   "developer": null,
@@ -38,9 +38,42 @@
     }
   ],
   "tags": [
-    null,
-    null,
-    null
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-12-15T01:46:33.012Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {
@@ -122,6 +155,6 @@
     }
   ],
   "catalogNs": {
-    "name": null
+    "name": "3000405a9f864d848824e6f6022fb86c"
   }
 }
