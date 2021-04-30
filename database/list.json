@@ -1920,6 +1920,22 @@
     ""
   ],
   [
+    "08f2539567df4d43a1b0f8a5196f43cc",
+    "c4a39e8e304c4356afcddd79820b223d",
+    "DEMON'S TILT",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "FLARB LLC",
+    1603255292,
+    1619795459,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DEMONSTILT_WIZNWAR_S2_1200x1600-b2171dcb9b7272a6e654f53a093e682d",
+    "demons-tilt"
+  ],
+  [
     "090f31551275474fa2c70e821ac79493",
     "epic",
     "Last Day of June",
@@ -7368,7 +7384,7 @@
     ],
     "Frontier Developments",
     1607087218,
-    1618947086,
+    1619718926,
     "https://cdn1.epicgames.com/3db17abfd650423f993291624b1b2ac1/offer/tall2-1200x1600-c5d7478f26bad0c93e2387d4cfa2930c.jpg",
     ""
   ],
@@ -22556,8 +22572,8 @@
     ],
     "Hi-Rez Studios",
     1571363829,
-    1617188247,
-    "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Paladins-EGS-Patch21pt3Indomitable-PortraitIMG-860x1148-860x1148-b9524526e4167413991fa763e2dd30b3.jpg",
+    1619721064,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/Paladins-EGS-Patch21pt3Indomitable-PortraitIMG-860x1148_860x1148-f4c70170f96c2e0bdf0febe1d4a9a0f9",
     "paladins"
   ],
   [
@@ -36353,6 +36369,22 @@
     ""
   ],
   [
+    "9bb4862da1794b43b060a257b4da6102",
+    "3d4b3dcf7ec449c7a042c163d08fa0f3",
+    "Legend of Keepers",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Goblinz Studio",
+    1618946548,
+    1619107048,
+    "https://cdn1.epicgames.com/3d4b3dcf7ec449c7a042c163d08fa0f3/offer/EGS_LegendofKeepersCareerofaDungeonMaster_GoblinzStudio_S2-1200x1600-789c1a46106c908062827236e63b4330.jpg",
+    "legend-of-keepers"
+  ],
+  [
     "9bb878f8cc954b09a9bd67399208852a",
     "93b333eb973b45b582f3bdf68dfc1dc9",
     "Railway Empire - Northern Europe DLC",
@@ -40341,6 +40373,21 @@
     1565637164,
     1588120698,
     "",
+    ""
+  ],
+  [
+    "ac1010cf1d5c49ec97540f53ad04d4d8",
+    "f312bc218b1d46f7921619cc9f3bf3c7",
+    "Operation Eagle",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Koch Media",
+    1619560322,
+    1619715574,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_IronHarvestOperationEagleDLC_KingArtGames_DLC_S2_1200x1600-8ac34772ac570e1d7b1b2ff4fbaced2d",
     ""
   ],
   [

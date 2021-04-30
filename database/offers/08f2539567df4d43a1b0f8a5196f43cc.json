@@ -1,0 +1,187 @@
+{
+  "id": "08f2539567df4d43a1b0f8a5196f43cc",
+  "namespace": "c4a39e8e304c4356afcddd79820b223d",
+  "title": "DEMON'S TILT",
+  "description": "DEMON'S TILT",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "demons-tilt",
+  "urlSlug": "cerberusgeneralaudience",
+  "creationDate": "2020-10-21T04:41:32.403Z",
+  "lastModifiedDate": "2021-04-30T15:10:59.753Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": "2021-04-28T15:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-gqnsc7u7lcp9axf4sdts4l3wahcyr7",
+    "name": "FLARB LLC"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2021-02-10T17:36:19.203Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1218",
+      "name": "Horror",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:06.599Z",
+      "updated": "2021-02-10T17:14:06.043Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "Mac OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX",
+        "macOS"
+      ],
+      "operator": null,
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2021-02-10T17:26:31.125Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "FLARB"
+    },
+    {
+      "key": "developerName",
+      "value": "WIZNWAR"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "demons-tilt"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DEMONSTILT_WIZNWAR_S1_2560x1440-bfaff7f0ea54f6b901b95154e4cc20ab",
+      "md5": "bfaff7f0ea54f6b901b95154e4cc20ab",
+      "size": 1011245,
+      "uploadedDate": "2021-04-28T23:33:04.636Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DEMONSTILT_WIZNWAR_S2_1200x1600-b2171dcb9b7272a6e654f53a093e682d",
+      "md5": "b2171dcb9b7272a6e654f53a093e682d",
+      "size": 1013234,
+      "uploadedDate": "2021-04-28T23:33:08.253Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DEMONSTILT_WIZNWAR_S1_2560x1440-bfaff7f0ea54f6b901b95154e4cc20ab",
+      "md5": "bfaff7f0ea54f6b901b95154e4cc20ab",
+      "size": 1011245,
+      "uploadedDate": "2021-04-28T23:33:11.968Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DEMONSTILT_WIZNWAR_S2_1200x1600-b2171dcb9b7272a6e654f53a093e682d",
+      "md5": "b2171dcb9b7272a6e654f53a093e682d",
+      "size": 1013234,
+      "uploadedDate": "2021-04-28T23:33:16.666Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DEMONSTILT_WIZNWAR_S2_1200x1600-b2171dcb9b7272a6e654f53a093e682d",
+      "md5": "b2171dcb9b7272a6e654f53a093e682d",
+      "size": 1013234,
+      "uploadedDate": "2021-04-28T23:33:21.271Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DEMONSTILT_WIZNWAR_S2_1200x1600-b2171dcb9b7272a6e654f53a093e682d",
+      "md5": "b2171dcb9b7272a6e654f53a093e682d",
+      "size": 1013234,
+      "uploadedDate": "2021-04-28T23:33:25.355Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "4f31b7f7228a404e884fc83d8f7cb423"
+    }
+  ],
+  "catalogNs": {
+    "name": "c4a39e8e304c4356afcddd79820b223d"
+  }
+}
