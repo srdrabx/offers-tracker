@@ -32,18 +32,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "15375",
-      "name": "Spring Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-03-10T09:37:21.403Z",
-      "updated": "2021-04-08T14:59:39.138Z",
-      "status": "ACTIVE",
-      "referenceCount": 618,
-      "comment": ""
-    }
+    null
   ],
   "customAttributes": [
     {
@@ -103,6 +92,6 @@
     }
   ],
   "catalogNs": {
-    "name": "2736ab9fec9c4a93a7a2872ed5154d4b"
+    "name": null
   }
 }

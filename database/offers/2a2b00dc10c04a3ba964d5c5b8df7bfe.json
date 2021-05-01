@@ -8,8 +8,8 @@
   "productSlug": "scavengers",
   "urlSlug": "jackfruitgeneralaudience",
   "creationDate": "2020-12-03T20:52:19.503Z",
-  "lastModifiedDate": "2021-04-29T15:57:28.178Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2021-05-01T15:52:22.454Z",
+  "effectiveDate": "2021-05-01T16:00:00.000Z",
   "viewableDate": "2021-04-21T12:00:00.000Z",
   "developer": null,
   "seller": {
@@ -38,102 +38,14 @@
     }
   ],
   "tags": [
-    {
-      "id": "1187",
-      "name": "THIRD-PERSON SHOOTER",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:51.351Z",
-      "updated": "2020-09-01T13:53:52.413Z",
-      "status": "ACTIVE",
-      "referenceCount": 0,
-      "comment": null
-    },
-    {
-      "id": "1203",
-      "name": "Multiplayer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2021-02-10T17:35:33.537Z",
-      "status": "ACTIVE",
-      "referenceCount": 46,
-      "comment": null
-    },
-    {
-      "id": "1299",
-      "name": "Competitive",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:47.106Z",
-      "updated": "2021-02-05T16:13:20.502Z",
-      "status": "ACTIVE",
-      "referenceCount": 4,
-      "comment": null
-    },
-    {
-      "id": "1210",
-      "name": "Shooter",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:02.690Z",
-      "updated": "2021-02-10T17:34:46.127Z",
-      "status": "ACTIVE",
-      "referenceCount": 28,
-      "comment": null
-    },
-    {
-      "id": "1164",
-      "name": "TEAM-BASED",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:40.046Z",
-      "updated": "2019-06-20T11:59:40.046Z",
-      "status": "ACTIVE",
-      "referenceCount": null,
-      "comment": null
-    },
-    {
-      "id": "9549",
-      "name": "Controller Support",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2021-02-10T17:36:06.452Z",
-      "status": "ACTIVE",
-      "referenceCount": 103,
-      "comment": null
-    },
-    {
-      "id": "1310",
-      "name": "EARLY ACCESS",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:52.671Z",
-      "updated": "2020-09-10T15:44:03.705Z",
-      "status": "ACTIVE",
-      "referenceCount": 0,
-      "comment": null
-    },
-    {
-      "id": "1215",
-      "name": "POST-APOCALYPTIC",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:05.124Z",
-      "updated": "2019-06-20T12:00:05.124Z",
-      "status": "ACTIVE",
-      "referenceCount": null,
-      "comment": null
-    }
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
   ],
   "customAttributes": [
     {
@@ -155,56 +67,56 @@
   ],
   "keyImages": [
     {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/0ffb7cf5cff64cd0a621222a8e969c28/offer/01ca5c2c-de34-42ab-ba9f-109266ea3ffb-1200x1600-fe11818daf651473ef0eb4a68c796bf0.jpg",
-      "md5": "fe11818daf651473ef0eb4a68c796bf0",
-      "size": 530945,
-      "uploadedDate": "2021-04-21T17:57:48.810Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/0ffb7cf5cff64cd0a621222a8e969c28/offer/3740afa5-3124-4b1a-a23c-5f590be5c312-2560x1440-03d96436550b61c39d01159778dd4084.jpg",
-      "md5": "03d96436550b61c39d01159778dd4084",
-      "size": 991675,
-      "uploadedDate": "2021-04-21T17:57:54.858Z",
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Scavengers_MidwinterEntertainment_S1_2560x1440-7cf56d0c2c86b5cf934c5121ee0cf8d1",
+      "md5": "7cf56d0c2c86b5cf934c5121ee0cf8d1",
+      "size": 828534,
+      "uploadedDate": "2021-05-01T15:50:24.649Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CompeteforsurvivalacrossahostilefrozenEarth_MidwinterEntertainment_S2_1200x1600-c144b952ddcd5aba86bc859e0920fa61",
-      "md5": "c144b952ddcd5aba86bc859e0920fa61",
-      "size": 536430,
-      "uploadedDate": "2021-04-29T15:56:24.198Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Scavengers_MidwinterEntertainment_S2_1200x1600-a6aa959b9f24a30b1123e5a29cfbb397",
+      "md5": "a6aa959b9f24a30b1123e5a29cfbb397",
+      "size": 509161,
+      "uploadedDate": "2021-05-01T15:50:29.699Z",
       "width": 1200,
       "height": 1600
     },
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CompeteforsurvivalacrossahostilefrozenEarth_MidwinterEntertainment_S1_2560x1440-6c847fbd3af12040357a2930b703ae00",
-      "md5": "6c847fbd3af12040357a2930b703ae00",
-      "size": 813182,
-      "uploadedDate": "2021-04-29T15:56:30.541Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CompeteforsurvivalacrossahostilefrozenEarth_MidwinterEntertainment_S2_1200x1600-c144b952ddcd5aba86bc859e0920fa61",
-      "md5": "c144b952ddcd5aba86bc859e0920fa61",
-      "size": 536430,
-      "uploadedDate": "2021-04-29T15:56:35.693Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Scavengers_MidwinterEntertainment_S2_1200x1600-a6aa959b9f24a30b1123e5a29cfbb397",
+      "md5": "a6aa959b9f24a30b1123e5a29cfbb397",
+      "size": 509161,
+      "uploadedDate": "2021-05-01T15:50:36.737Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CompeteforsurvivalacrossahostilefrozenEarth_MidwinterEntertainment_S2_1200x1600-c144b952ddcd5aba86bc859e0920fa61",
-      "md5": "c144b952ddcd5aba86bc859e0920fa61",
-      "size": 536430,
-      "uploadedDate": "2021-04-29T15:56:40.600Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Scavengers_MidwinterEntertainment_S2_1200x1600-a6aa959b9f24a30b1123e5a29cfbb397",
+      "md5": "a6aa959b9f24a30b1123e5a29cfbb397",
+      "size": 509161,
+      "uploadedDate": "2021-05-01T15:50:43.240Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Scavengers_MidwinterEntertainment_S1_2560x1440-7cf56d0c2c86b5cf934c5121ee0cf8d1",
+      "md5": "7cf56d0c2c86b5cf934c5121ee0cf8d1",
+      "size": 828534,
+      "uploadedDate": "2021-05-01T15:50:49.673Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Scavengers_MidwinterEntertainment_S2_1200x1600-a6aa959b9f24a30b1123e5a29cfbb397",
+      "md5": "a6aa959b9f24a30b1123e5a29cfbb397",
+      "size": 509161,
+      "uploadedDate": "2021-05-01T15:50:55.792Z",
       "width": 1200,
       "height": 1600
     }
@@ -215,6 +127,6 @@
     }
   ],
   "catalogNs": {
-    "name": "0ffb7cf5cff64cd0a621222a8e969c28"
+    "name": null
   }
 }

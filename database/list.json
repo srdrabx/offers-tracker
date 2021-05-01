@@ -7324,7 +7324,7 @@
     ],
     "Rebellion",
     1613433327,
-    1619453718,
+    1619817248,
     "",
     ""
   ],
@@ -9825,8 +9825,8 @@
     ],
     "Improbable Worlds Limited",
     1607028739,
-    1619711848,
-    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CompeteforsurvivalacrossahostilefrozenEarth_MidwinterEntertainment_S2_1200x1600-c144b952ddcd5aba86bc859e0920fa61",
+    1619884342,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Scavengers_MidwinterEntertainment_S2_1200x1600-a6aa959b9f24a30b1123e5a29cfbb397",
     "scavengers"
   ],
   [
@@ -10448,6 +10448,21 @@
     1588121201,
     "",
     ""
+  ],
+  [
+    "2ce469fbeacc4e7ba6e6d5c01c8093fb",
+    "37ed871e17ab4466b4d5da28e9576ea6",
+    "R-Type Final 2 Digital Deluxe Edition",
+    [
+      "games/edition",
+      "games",
+      "applications"
+    ],
+    "NIS America, Inc.",
+    1618874232,
+    1619801131,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RTypeFinal2DigitalDeluxeEdition_GranzellaInc_Editions_S2_1200x1600-fba42583c80b2170251e1c5281b2c739",
+    "r-type-final-2/digital-deluxe-edition"
   ],
   [
     "2ce6e90ce1244dc79ab3ac39ec8d7613",
@@ -29318,6 +29333,20 @@
     "star-wars-battlefront"
   ],
   [
+    "7d7db369cca24dc1a44ce914330ba91c",
+    "37ed871e17ab4466b4d5da28e9576ea6",
+    "R-Type Final 2 - Complete Soundtrack",
+    [
+      "digitalextras",
+      "digitalextras/soundtrack"
+    ],
+    "NIS America, Inc.",
+    1618874557,
+    1619801131,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RTypeFinal2CompleteSoundtrack_GranzellaInc_DigitalExtras_S2_1200x1600-7f3442cc91d4d5d0534a0d94b2cfccba",
+    ""
+  ],
+  [
     "7db06b0456bc437eb6f3905e74002905",
     "413361d2d5db4912ac2dfbcf27a38141",
     "OstrichDevAudience",
@@ -36758,8 +36787,8 @@
     ],
     "RETO MOTO",
     1585697546,
-    1617112878,
-    "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/1.22_SOLDIERS-OF-SPRING_BOXART_1200x1600-1200x1600-c2d617160c88c56b5588667828d7d833.jpg",
+    1619810887,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/hng_default_boxart_1200x1600-f47e0091839c038ee0a5473116268220",
     "heroes-and-generals-wwii/home"
   ],
   [
@@ -43674,6 +43703,20 @@
     ""
   ],
   [
+    "b9e95646bd41438bb3c5f40340918492",
+    "6b753bd045604be89d9779e741c604b1",
+    "DevAliceBlueAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "Humble Bundle",
+    1619804922,
+    1619805127,
+    "",
+    ""
+  ],
+  [
     "b9f5c1078e9348ad994b0b0b6231ab40",
     "0aaf0617ee0d47df87c0dc93509159dd",
     "Carcassonne - Winter and Gingerbread Man",
@@ -45397,6 +45440,20 @@
     1616547993,
     "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_DLC-Chronicles_Portrait-Offer-860x1148-8892e42988d4d5aa613ca47cd3ea13d2.jpg",
     "faeria/chronicles-of-gagana"
+  ],
+  [
+    "c1bb7eb3554b42f0957cc87363e59e1d",
+    "6b753bd045604be89d9779e741c604b1",
+    "AliceBlueGeneralAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "Humble Bundle",
+    1619804921,
+    1619805127,
+    "",
+    ""
   ],
   [
     "c1c055783d524ce19e45959fea8cd791",
@@ -47337,6 +47394,20 @@
     1603400831,
     1616028912,
     "https://cdn1.epicgames.com/84c76746bce94effb8e1047fabfd7eb7/offer/EGS_WorldofWarships_WargamingGroupLimited_S2-1200x1600-f96166935d3d0b84086c6021c188ac0e.jpg",
+    ""
+  ],
+  [
+    "cacad3e5184f4f6abad36e8166e0cff5",
+    "37ed871e17ab4466b4d5da28e9576ea6",
+    "The Artwork of R-Type Final 2 - Art Book",
+    [
+      "digitalextras/book",
+      "digitalextras"
+    ],
+    "NIS America, Inc.",
+    1618874641,
+    1619801131,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheArtworkofRTypeFinal2ArtBook_GranzellaInc_DigitalExtras_S2_1200x1600-f16c3f9b6617825a05eeac9267cf8887",
     ""
   ],
   [
@@ -57068,7 +57139,7 @@
     ],
     "NIS America, Inc.",
     1602796741,
-    1603370930,
+    1619801131,
     "https://cdn1.epicgames.com/37ed871e17ab4466b4d5da28e9576ea6/offer/EGS_RTypeFinal2_GranzellaInc_S2-1200x1600-51caafcf7abfb10ce380b7c01bd32b70.jpg",
     "r-type-final-2"
   ],
