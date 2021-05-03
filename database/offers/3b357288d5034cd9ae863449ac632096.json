@@ -5,10 +5,10 @@
   "description": "Own the sounds of Rocket League. Get the Rocket League x Monstercat Volume 6 soundtrack and enjoy beats heard in-game by Tokyo Machine, Dion Timmer, FWLR, and more!",
   "longDescription": "TRACK LISTING\n\n1) PLAY (Original Mix) — Tokyo Machine\n2) Internet Boy (Original Mix) — Dion Timmer feat. Micah Martin\n3) Each Other (Original Mix) — Notaker feat. Eric Lumiere\n4) Wishes (Original Mix) — Grant feat. McCall\n5) Hot (Original Mix) — FWLR\n6) The Darkness (Original Mix) — Xilet\n7) Us (Original Mix) — Snavs\n8) Color (Original Mix) — Grant feat. Juneau\n9) Amnesia (Original Mix) Pixel Terror\n10) No Fear Anymore (Original Mix) — Ava Silver feat. Julian Calor",
   "status": "ACTIVE",
-  "productSlug": "rocket-league/rocket-league-x-monstercat-vol-6",
-  "urlSlug": "rocket-league-monstercat-vol6",
+  "productSlug": null,
+  "urlSlug": "rocket-league--rocket-league-x-monstercat-vol6",
   "creationDate": "2020-11-20T18:31:29.434Z",
-  "lastModifiedDate": "2020-12-10T21:43:29.246Z",
+  "lastModifiedDate": "2021-05-03T15:40:34.389Z",
   "effectiveDate": "2020-12-04T17:00:00.000Z",
   "viewableDate": "2020-12-04T17:00:00.000Z",
   "developer": null,
@@ -26,6 +26,9 @@
   "categories": [
     {
       "path": "digitalextras"
+    },
+    {
+      "path": "addons"
     },
     {
       "path": "digitalextras/soundtrack"
@@ -140,10 +143,6 @@
     {
       "key": "developerName",
       "value": "Psyonix LLC"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "rocket-league/rocket-league-x-monstercat-vol-6"
     }
   ],
   "keyImages": [

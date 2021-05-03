@@ -13541,7 +13541,7 @@
     ],
     "Electronic Arts",
     1571351464,
-    1612288865,
+    1620055220,
     "",
     ""
   ],
@@ -13933,14 +13933,15 @@
     "Rocket League® x Monstercat Vol. 6",
     [
       "digitalextras",
+      "addons",
       "digitalextras/soundtrack",
       "applications"
     ],
     "Psyonix LLC",
     1605897089,
-    1607636609,
+    1620056434,
     "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeaguexMonstercatVol6_PsyonixLLC_DigitalExtras_S2-1200x1600-fc16a1411e52b1d05551198d38b045e0.jpg",
-    "rocket-league/rocket-league-x-monstercat-vol-6"
+    ""
   ],
   [
     "3b4216f6ec444138841f821fee77b02e",
@@ -25894,6 +25895,22 @@
     "phoenix-point/festering-skies"
   ],
   [
+    "6ec68823439f40c5b2c3cd42c1c1034f",
+    "ff17044fb2804a4aa8066dde0626514d",
+    "Disciples: Liberation",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Kalypso Media Group GmbH",
+    1616693962,
+    1620054163,
+    "https://cdn1.epicgames.com/ff17044fb2804a4aa8066dde0626514d/offer/EGS_DisciplesLiberation_FrimaStudio_S6-1200x1600-89473ab64a7d3d531e88c921340ed608.jpg",
+    "disciples-liberation"
+  ],
+  [
     "6ec989a1b78b49669850bfffeebe540d",
     "fe5a2e3e842a4394938a81f3308df2ed",
     "OwlDevAudience",
@@ -31356,7 +31373,7 @@
     ],
     "Electronic Arts",
     1569531795,
-    1612288865,
+    1620055220,
     "https://cdn1.epicgames.com/e509c16d53714b13ba8e393966507255/offer/SWJFO_ADHOC_510X680-510x680-04ec2ab0afa8b571f51c34577bf1ec09.jpg",
     "star-wars-jedi-fallen-order/home"
   ],
@@ -45067,14 +45084,15 @@
     "Rocket League® x Monstercat Vol. 7",
     [
       "digitalextras",
+      "addons",
       "digitalextras/soundtrack",
       "applications"
     ],
     "Psyonix LLC",
     1605897448,
-    1607636609,
+    1620056392,
     "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeaguexMonstercatVol7_PsyonixLLC_DigitalExtras_S2-1200x1600-cd51f4997b2e43592eb0b088c9207771.jpg",
-    "rocket-league/rocket-league-x-monstercat-vol-7"
+    ""
   ],
   [
     "c071ea77ba2f4983b4515eae0f4216b6",
@@ -50139,14 +50157,15 @@
     "Rocket League® x Monstercat Legacy",
     [
       "digitalextras",
+      "addons",
       "digitalextras/soundtrack",
       "applications"
     ],
     "Psyonix LLC",
     1603307255,
-    1605891381,
+    1620056488,
     "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeaguexMonstercatLegacy_PsyonixLLC_DigitalExtras_S2-1200x1600-50ac4ba6cf204396d11ef487c227316a.jpg",
-    "rocket-league/rocket-league-x-monstercat-legacy"
+    ""
   ],
   [
     "d8618f47119940fb8e5c38eb0421c752",

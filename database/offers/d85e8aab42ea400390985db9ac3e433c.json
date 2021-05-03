@@ -5,10 +5,10 @@
   "description": "The hits of Rocket League x Monstercat have been reimagined for the launch of Rocket League free to play! Get the Rocket League x Monstercat Legacy soundtrack and enjoy remixed versions of classics from the history of the game!",
   "longDescription": "TRACK LISTING\n\n1) Tokyo Machine — ROCK IT VIP\n2) Bad Computer feat. Skyelle — Silhouette (Feed Me Remix)\n3) CloudNone — From Here (ATTLAS Remix)\n4) Feint feat. MYLK — Outbreak (Fox Stevenson Remix)\n5) Dion Timmer — Shiawase VIP\n6) MUZZ — Horsepower (F.O.O.L. & TOKYO ROSE Remix)\n7) Stonebank — What Are You Waiting For VIP\n8) Infected Mushroom — Walking On The Moon (Bad Computer Remix)",
   "status": "ACTIVE",
-  "productSlug": "rocket-league/rocket-league-x-monstercat-legacy",
-  "urlSlug": "rocket-league-monstercat-legacy",
+  "productSlug": null,
+  "urlSlug": "rocket-league--rocket-league-x-monstercat-legacy",
   "creationDate": "2020-10-21T19:07:35.204Z",
-  "lastModifiedDate": "2020-11-20T16:56:21.912Z",
+  "lastModifiedDate": "2021-05-03T15:41:28.968Z",
   "effectiveDate": "2020-11-20T17:00:00.000Z",
   "viewableDate": "2020-11-20T17:00:00.000Z",
   "developer": null,
@@ -26,6 +26,9 @@
   "categories": [
     {
       "path": "digitalextras"
+    },
+    {
+      "path": "addons"
     },
     {
       "path": "digitalextras/soundtrack"
@@ -140,10 +143,6 @@
     {
       "key": "developerName",
       "value": "Psyonix LLC"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "rocket-league/rocket-league-x-monstercat-legacy"
     }
   ],
   "keyImages": [

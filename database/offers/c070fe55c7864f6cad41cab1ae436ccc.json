@@ -5,10 +5,10 @@
   "description": "Get the Rocket League x Monstercat Volume 7 soundtrack and enjoy songs from Monstercat heard in-game, including songs by Habstrakt, Duumu, Dion Timmer, and more!",
   "longDescription": "TRACK LIST\n\n1) The One — Habstrakt\n2) Heat Wave — Tony Romera\n3) Cobra — Tails & Juelz\n4) Blinded — Duumu\n5) Bloom — Throttle\n6) Test Me — Dion Timmer & Slushii\n7) I'll Go — Direct & Park Avenue\n8) Mark Twain — Half an Orange\n9) Still — Glacier\n10) Only You — Dexter King feat. Alexis Donn",
   "status": "ACTIVE",
-  "productSlug": "rocket-league/rocket-league-x-monstercat-vol-7",
-  "urlSlug": "rocket-league-monstercat-vol7",
+  "productSlug": null,
+  "urlSlug": "rocket-league--rocket-league-x-monstercat-vol7",
   "creationDate": "2020-11-20T18:37:28.301Z",
-  "lastModifiedDate": "2020-12-10T21:43:29.248Z",
+  "lastModifiedDate": "2021-05-03T15:39:52.479Z",
   "effectiveDate": "2020-12-04T17:00:00.000Z",
   "viewableDate": "2020-12-04T17:00:00.000Z",
   "developer": null,
@@ -26,6 +26,9 @@
   "categories": [
     {
       "path": "digitalextras"
+    },
+    {
+      "path": "addons"
     },
     {
       "path": "digitalextras/soundtrack"
@@ -48,18 +51,6 @@
       "comment": null
     },
     {
-      "id": "1283",
-      "name": "Sports",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:39.226Z",
-      "updated": "2021-02-09T16:47:39.833Z",
-      "status": "ACTIVE",
-      "referenceCount": 2,
-      "comment": null
-    },
-    {
       "id": "1203",
       "name": "Multiplayer",
       "namespace": "epic",
@@ -69,6 +60,18 @@
       "updated": "2021-02-10T17:35:33.537Z",
       "status": "ACTIVE",
       "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1283",
+      "name": "Sports",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:39.226Z",
+      "updated": "2021-02-09T16:47:39.833Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
       "comment": null
     },
     {
@@ -140,10 +143,6 @@
     {
       "key": "developerName",
       "value": "Psyonix LLC"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "rocket-league/rocket-league-x-monstercat-vol-7"
     }
   ],
   "keyImages": [
