@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "zombie-army-4-dead-war--desert-damaged-weapon-skins",
   "creationDate": "2021-01-19T23:11:30.393Z",
-  "lastModifiedDate": "2021-02-11T13:50:09.055Z",
+  "lastModifiedDate": "2021-05-04T12:59:24.547Z",
   "effectiveDate": "2021-02-11T14:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -103,6 +103,60 @@
       "uploadedDate": "2021-02-02T18:19:25.807Z",
       "width": 860,
       "height": 1145
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_DLC_DLC_Desert_Damaged_Weapon_Skins_IC1_LOGO_1280x720-89ded18094b7155f82cdae76359dbfca",
+      "md5": "89ded18094b7155f82cdae76359dbfca",
+      "size": 386640,
+      "uploadedDate": "2021-04-28T18:49:37.155Z",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_Night_Ops_Jun_Outfit_CAROUSEL_05_1920x1080-4feb97d43a0fe5eb5ac14359788f46ee",
+      "md5": "4feb97d43a0fe5eb5ac14359788f46ee",
+      "size": 4152794,
+      "uploadedDate": "2021-04-28T18:49:49.377Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_DLC_Desert_Damaged_Weapon_Skins_03_1920x1080-6a29fc0434ce703a3753aa7f8282b614",
+      "md5": "6a29fc0434ce703a3753aa7f8282b614",
+      "size": 3818465,
+      "uploadedDate": "2021-04-28T18:50:00.775Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_DLC_Desert_Damaged_Weapon_Skins_CAROUSEL_01_1920x1080-81cfefb30f889eeee076439def1de68f",
+      "md5": "81cfefb30f889eeee076439def1de68f",
+      "size": 3434106,
+      "uploadedDate": "2021-04-28T18:50:18.644Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_DLC_Desert_Damaged_Weapon_Skins_CAROUSEL_02_1920x1080-a7bfa2c2ed895d18b64d6f759e1bdd45",
+      "md5": "a7bfa2c2ed895d18b64d6f759e1bdd45",
+      "size": 3182395,
+      "uploadedDate": "2021-04-28T18:50:32.475Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_DLC_Desert_Damaged_Weapon_Skins_CAROUSEL_04_1920x1080-a03d7bf2760241379ed920499d8aa400",
+      "md5": "a03d7bf2760241379ed920499d8aa400",
+      "size": 3191321,
+      "uploadedDate": "2021-04-28T18:50:43.008Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
@@ -111,6 +165,6 @@
     }
   ],
   "catalogNs": {
-    "name": "dfd2530e80e4425d801913b0879be444"
+    "name": null
   }
 }

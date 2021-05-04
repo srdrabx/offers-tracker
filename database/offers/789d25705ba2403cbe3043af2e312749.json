@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "zombie-army-4-dead-war--m1903-springfield-rifle",
   "creationDate": "2021-01-19T23:17:51.777Z",
-  "lastModifiedDate": "2021-02-11T14:06:20.581Z",
+  "lastModifiedDate": "2021-05-04T12:59:24.311Z",
   "effectiveDate": "2021-02-11T14:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -51,6 +51,15 @@
   ],
   "keyImages": [
     {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_Springfield_C5-1920x1080-feecf29c434bdaecf4a5040cb0bcd5a8.jpg",
+      "md5": "feecf29c434bdaecf4a5040cb0bcd5a8",
+      "size": 1139613,
+      "uploadedDate": "2021-02-02T18:40:24.609Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
       "type": "OfferImageTall",
       "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_Rebellion_ZombieArmy4_S2_1200x1600-1200x1598-892a9209d778ad61f72560f9ba8d7ab4.jpg",
       "md5": "892a9209d778ad61f72560f9ba8d7ab4",
@@ -78,6 +87,15 @@
       "height": 1598
     },
     {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_Springfield_C5-1920x1080-feecf29c434bdaecf4a5040cb0bcd5a8.jpg",
+      "md5": "feecf29c434bdaecf4a5040cb0bcd5a8",
+      "size": 1139613,
+      "uploadedDate": "2021-02-02T18:40:56.866Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
       "type": "DieselStoreFrontTall",
       "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_Rebellion_ZombieArmy4_S2_1200x1600-1200x1598-892a9209d778ad61f72560f9ba8d7ab4.jpg",
       "md5": "892a9209d778ad61f72560f9ba8d7ab4",
@@ -87,22 +105,49 @@
       "height": 1598
     },
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_Rebellion_ZombieArmy4_S1_2560x1440-2560x1440-a1b396f3b89a2ca7a8b2e1e15ebdfd9b.jpg",
-      "md5": "a1b396f3b89a2ca7a8b2e1e15ebdfd9b",
-      "size": 366968,
-      "uploadedDate": "2021-02-11T14:06:05.413Z",
-      "width": 2560,
-      "height": 1440
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_DLC_Springfield_IC1_LOGO_1280x720-5c78f1c754f75d76adb1eb20dd600337",
+      "md5": "5c78f1c754f75d76adb1eb20dd600337",
+      "size": 376032,
+      "uploadedDate": "2021-04-28T18:53:55.378Z",
+      "width": 1280,
+      "height": 720
     },
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_Rebellion_ZombieArmy4_S1_2560x1440-2560x1440-a1b396f3b89a2ca7a8b2e1e15ebdfd9b.jpg",
-      "md5": "a1b396f3b89a2ca7a8b2e1e15ebdfd9b",
-      "size": 366968,
-      "uploadedDate": "2021-02-11T14:06:14.254Z",
-      "width": 2560,
-      "height": 1440
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_Springfield_C1_1920x1080-618e0fbb1cb2e60e37a60102a65ba186",
+      "md5": "618e0fbb1cb2e60e37a60102a65ba186",
+      "size": 1592749,
+      "uploadedDate": "2021-04-28T18:54:03.089Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_Springfield_C2_1920x1080-0f41d973bb2755c0e4795f09c6cfb656",
+      "md5": "0f41d973bb2755c0e4795f09c6cfb656",
+      "size": 917665,
+      "uploadedDate": "2021-04-28T18:54:15.690Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_Springfield_C3_1920x1080-046734c51b05b136f62dc7b130d3377e",
+      "md5": "046734c51b05b136f62dc7b130d3377e",
+      "size": 1605843,
+      "uploadedDate": "2021-04-28T18:54:23.465Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_Springfield_C4_1920x1080-b8b3341d2de4c7fabd6e9145a31c8439",
+      "md5": "b8b3341d2de4c7fabd6e9145a31c8439",
+      "size": 677966,
+      "uploadedDate": "2021-04-28T18:54:30.384Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
@@ -111,6 +156,6 @@
     }
   ],
   "catalogNs": {
-    "name": "dfd2530e80e4425d801913b0879be444"
+    "name": null
   }
 }

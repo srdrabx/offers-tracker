@@ -1,15 +1,15 @@
 {
   "id": "fb3938e4e7ec4ccc943fe71ca55ba43d",
   "namespace": "dfd2530e80e4425d801913b0879be444",
-  "title": "Sparrow Season Pass 3 Audience",
-  "description": "Sparrow Season Pass 3 Audience",
-  "longDescription": "Sparrow Season Pass 3 Audience",
+  "title": "Season Pass Three",
+  "description": "Zombie Army 4: Season Pass Three, includes 3 additional levels, new character outfit bundles, new weapon bundles, new weapon skin packs, and new headgear bundles and charm packs!  ",
+  "longDescription": "# ZOMBIE ARMY 4: SEASON PASS THREE, INCLUDING\n3 ADDITIONAL LEVELS\n\nExperience massive and horrifying new campaign missions for 1-4 players.\n\n# NEW CHARACTER OUTFIT BUNDLES\n\nDress up your characters with new outfits and hats.\n\n# NEW WEAPON BUNDLES\n\nWeapon bundles including new weapons, charms, skins and more.\n\n# NEW WEAPON SKIN PACKS\n\nCustomise your weapons, with effects ranging from elemental to bandages.\n\n# NEW HEADGEAR BUNDLES AND CHARM PACKS\n\nChange up your look with new headgear, and add some flair to your weapons with new charms.\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "zombie-army-4-dead-war--season-pass-03",
   "creationDate": "2021-03-03T18:58:09.727Z",
-  "lastModifiedDate": "2021-04-26T16:12:12.600Z",
-  "effectiveDate": "2099-01-04T16:00:00.000Z",
+  "lastModifiedDate": "2021-05-04T13:13:58.265Z",
+  "effectiveDate": "2021-05-04T13:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -25,7 +25,10 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
     },
     {
       "path": "applications"
@@ -124,6 +127,132 @@
       "uploadedDate": "2020-05-05T14:37:11.413Z",
       "width": 842,
       "height": 485
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_Rebellion_ZombieArmy4_Season-Pass_03_S1_2560x1440_2560x1440-1a205d869125a0a899129cead07c334d",
+      "md5": "1a205d869125a0a899129cead07c334d",
+      "size": 507697,
+      "uploadedDate": "2021-04-27T17:49:20.840Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_Rebellion_ZombieArmy4_Season-Pass_03_S2_1200x1600_1200x1600-1436fe4276d0b45900c0b852a3f77259",
+      "md5": "1436fe4276d0b45900c0b852a3f77259",
+      "size": 498848,
+      "uploadedDate": "2021-04-27T17:49:33.758Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_Rebellion_ZombieArmy4_Season-Pass_03_S2_1200x1600_1200x1600-1436fe4276d0b45900c0b852a3f77259",
+      "md5": "1436fe4276d0b45900c0b852a3f77259",
+      "size": 498848,
+      "uploadedDate": "2021-04-27T17:49:41.029Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_Rebellion_ZombieArmy4_Season-Pass_03_S2_1200x1600_1200x1600-1436fe4276d0b45900c0b852a3f77259",
+      "md5": "1436fe4276d0b45900c0b852a3f77259",
+      "size": 498848,
+      "uploadedDate": "2021-04-27T17:49:49.795Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_Rebellion_ZombieArmy4_Season-Pass_03_S1_2560x1440_2560x1440-1a205d869125a0a899129cead07c334d",
+      "md5": "1a205d869125a0a899129cead07c334d",
+      "size": 507697,
+      "uploadedDate": "2021-04-27T17:50:17.566Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_Rebellion_ZombieArmy4_Season-Pass_03_S2_1200x1600_1200x1600-1436fe4276d0b45900c0b852a3f77259",
+      "md5": "1436fe4276d0b45900c0b852a3f77259",
+      "size": 498848,
+      "uploadedDate": "2021-04-27T17:50:27.003Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_Season-Pass-03_IC1_LOGO_400x225-60a6c0c87c4509dbac2b275725373ab2",
+      "md5": "60a6c0c87c4509dbac2b275725373ab2",
+      "size": 74625,
+      "uploadedDate": "2021-04-27T17:50:36.779Z",
+      "width": 400,
+      "height": 225
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_Rebellion_ZombieArmy4_Season-Pass_03_S1_2560x1440_2560x1440-1a205d869125a0a899129cead07c334d",
+      "md5": "1a205d869125a0a899129cead07c334d",
+      "size": 507697,
+      "uploadedDate": "2021-05-03T20:25:32.319Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_M1934_Pistol_Bundle_C2_1920x1080_1920x1080-6e14cb07c333b1777838ee4b7515034f",
+      "md5": "6e14cb07c333b1777838ee4b7515034f",
+      "size": 974943,
+      "uploadedDate": "2021-05-03T20:23:43.938Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_Terminal_Error_C1_1920x1080_1920x1080-be8356febf74bd50384ab3355a9b7415",
+      "md5": "be8356febf74bd50384ab3355a9b7415",
+      "size": 940178,
+      "uploadedDate": "2021-05-03T20:23:50.177Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_UndercoverMarieOutfit_C3_1920x1080_1920x1080-ebff73c1774464091059e543f1c7a65e",
+      "md5": "ebff73c1774464091059e543f1c7a65e",
+      "size": 445502,
+      "uploadedDate": "2021-05-03T20:23:56.451Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_Zombie-Charm-Pack_C1_1920x1080_1920x1080-ccaa92243aae952d0aefbf71c4c3c5ca",
+      "md5": "ccaa92243aae952d0aefbf71c4c3c5ca",
+      "size": 898043,
+      "uploadedDate": "2021-05-03T20:24:43.420Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_Zombie-Headgear-Pack_C5_1920x1080_1920x1080-971dd4d6a6a40c8a83bb4abcdf113175",
+      "md5": "971dd4d6a6a40c8a83bb4abcdf113175",
+      "size": 1009853,
+      "uploadedDate": "2021-05-03T20:25:13.916Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_Rebellion_ZombieArmy4_Zombie-Headgear-Pack_S1_2560x1440_2560x1440-68ea72509b7c960a9559c262752ca28b",
+      "md5": "68ea72509b7c960a9559c262752ca28b",
+      "size": 561874,
+      "uploadedDate": "2021-05-03T20:25:20.721Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
   "items": [
@@ -132,6 +261,6 @@
     }
   ],
   "catalogNs": {
-    "name": "dfd2530e80e4425d801913b0879be444"
+    "name": null
   }
 }

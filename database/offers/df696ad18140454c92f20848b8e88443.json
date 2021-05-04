@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "zombie-army-4-dead-war--armour-plated-shola-outfit",
   "creationDate": "2021-01-19T22:48:30.019Z",
-  "lastModifiedDate": "2021-02-11T13:50:09.090Z",
+  "lastModifiedDate": "2021-05-04T12:59:24.569Z",
   "effectiveDate": "2021-02-11T14:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -103,6 +103,60 @@
       "uploadedDate": "2021-02-04T15:46:43.795Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_ArmourPlatedSholaOutfit_IC1_LOGO_400x225-19744351e4e522a4c260bb67d1a51f6e",
+      "md5": "19744351e4e522a4c260bb67d1a51f6e",
+      "size": 75305,
+      "uploadedDate": "2021-04-28T18:45:49.856Z",
+      "width": 400,
+      "height": 225
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_ArmourPlatedSholaOutfit_C5_1920x1080_1920x1080-5db7f5514031d83b85b17236cc869b53",
+      "md5": "5db7f5514031d83b85b17236cc869b53",
+      "size": 1011641,
+      "uploadedDate": "2021-04-28T18:45:56.947Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_ArmourPlatedSholaOutfit_C1_1920x1080_1920x1080-c9d4fd3820a08684d87cde217c527395",
+      "md5": "c9d4fd3820a08684d87cde217c527395",
+      "size": 1020012,
+      "uploadedDate": "2021-04-28T18:46:04.083Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_ArmourPlatedSholaOutfit_C2_1920x1080_1920x1080-9c3a3d15f31453d174aee21ec8032d3a",
+      "md5": "9c3a3d15f31453d174aee21ec8032d3a",
+      "size": 1008816,
+      "uploadedDate": "2021-04-28T18:46:10.958Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_ArmourPlatedSholaOutfit_C3_1920x1080_1920x1080-8a8c5a9ba156b954bcffcedd10dc4c2d",
+      "md5": "8a8c5a9ba156b954bcffcedd10dc4c2d",
+      "size": 1004683,
+      "uploadedDate": "2021-04-28T18:46:18.063Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_ArmourPlatedSholaOutfit_C4_1920x1080_1920x1080-24154384098b61b3f43443e4747d0908",
+      "md5": "24154384098b61b3f43443e4747d0908",
+      "size": 1011883,
+      "uploadedDate": "2021-04-28T18:46:26.920Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
@@ -111,6 +165,6 @@
     }
   ],
   "catalogNs": {
-    "name": "dfd2530e80e4425d801913b0879be444"
+    "name": null
   }
 }

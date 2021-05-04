@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "zombie-army-4-dead-war--nagant-m1895-pistol-bundle",
   "creationDate": "2020-12-16T21:40:37.366Z",
-  "lastModifiedDate": "2021-01-19T13:43:30.297Z",
+  "lastModifiedDate": "2021-05-04T12:59:24.157Z",
   "effectiveDate": "2021-01-19T13:45:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -112,6 +112,60 @@
       "uploadedDate": "2021-01-05T18:08:16.494Z",
       "width": 860,
       "height": 1145
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_DLC_Nagant_M1895_Pistol_Bundle_IC1_LOGO_1280x720-5d3f878a8fbbb2b3a7b3467c660a8e42",
+      "md5": "5d3f878a8fbbb2b3a7b3467c660a8e42",
+      "size": 387271,
+      "uploadedDate": "2021-04-28T18:30:50.365Z",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_Nagant_M1895_Pistol_Bundle_CAROUSEL_01_1920x1080-8c4bbda3889f9faec969367e3d4acff6",
+      "md5": "8c4bbda3889f9faec969367e3d4acff6",
+      "size": 1210755,
+      "uploadedDate": "2021-04-28T18:30:55.309Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_Nagant_M1895_Pistol_Bundle_CAROUSEL_02_1920x1080-a38f08576288e26b535398d0915cf6d4",
+      "md5": "a38f08576288e26b535398d0915cf6d4",
+      "size": 749553,
+      "uploadedDate": "2021-04-28T18:30:59.441Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_Nagant_M1895_Pistol_Bundle_CAROUSEL_03_1920x1080-79f82ae0b173b717184a184be06dd73a",
+      "md5": "79f82ae0b173b717184a184be06dd73a",
+      "size": 420816,
+      "uploadedDate": "2021-04-28T18:31:13.124Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_Nagant_M1895_Pistol_Bundle_CAROUSEL_04_1920x1080-80c8efa6d90ced03b946b5122146e33f",
+      "md5": "80c8efa6d90ced03b946b5122146e33f",
+      "size": 1167120,
+      "uploadedDate": "2021-04-28T18:31:08.805Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_Nagant_M1895_Pistol_Bundle_CAROUSEL_05_1920x1080-6683cc53f4a4c8326b28e46c1d435893",
+      "md5": "6683cc53f4a4c8326b28e46c1d435893",
+      "size": 1085458,
+      "uploadedDate": "2021-04-28T18:31:22.380Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
@@ -120,6 +174,6 @@
     }
   ],
   "catalogNs": {
-    "name": "dfd2530e80e4425d801913b0879be444"
+    "name": null
   }
 }

@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "zombie-army-4-dead-war--polizeipistole-pistol-bundle",
   "creationDate": "2020-12-16T21:42:48.560Z",
-  "lastModifiedDate": "2021-01-19T13:44:08.617Z",
+  "lastModifiedDate": "2021-05-04T12:59:24.648Z",
   "effectiveDate": "2021-01-19T13:45:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -112,6 +112,60 @@
       "uploadedDate": "2021-01-05T18:22:21.585Z",
       "width": 860,
       "height": 1145
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_DLC_DLC_7_1280x720-e063875ff5b43b9338848eaf624f7423",
+      "md5": "e063875ff5b43b9338848eaf624f7423",
+      "size": 396532,
+      "uploadedDate": "2021-04-28T18:14:50.628Z",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_DLC_7_1920x1080-755e350fd87328031f16d13b6e126a5d",
+      "md5": "755e350fd87328031f16d13b6e126a5d",
+      "size": 1009107,
+      "uploadedDate": "2021-04-28T18:14:59.319Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_DLC_7_1920x1080-49de785a1a047292b2d4162ccc090a39",
+      "md5": "49de785a1a047292b2d4162ccc090a39",
+      "size": 934920,
+      "uploadedDate": "2021-04-28T18:15:09.215Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_DLC_7_1920x1080-04cedc34b1dc9579146aca2c09d87f7b",
+      "md5": "04cedc34b1dc9579146aca2c09d87f7b",
+      "size": 1015023,
+      "uploadedDate": "2021-04-28T18:15:19.388Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_DLC_7_1920x1080-983b146af53276bcac84cea1fa99a6cf",
+      "md5": "983b146af53276bcac84cea1fa99a6cf",
+      "size": 965432,
+      "uploadedDate": "2021-04-28T18:15:28.425Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_DLC_7_1920x1080-1403aff2bc727b6fe283f0d9b2db46c1",
+      "md5": "1403aff2bc727b6fe283f0d9b2db46c1",
+      "size": 996228,
+      "uploadedDate": "2021-04-28T18:15:36.259Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
@@ -120,6 +174,6 @@
     }
   ],
   "catalogNs": {
-    "name": "dfd2530e80e4425d801913b0879be444"
+    "name": null
   }
 }

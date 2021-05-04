@@ -1325,7 +1325,7 @@
     ],
     "Rebellion",
     1614621205,
-    1614725035,
+    1620133164,
     "",
     ""
   ],
@@ -3802,7 +3802,7 @@
     ],
     "Rebellion",
     1608154837,
-    1611063810,
+    1620133164,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_Nagant_M1895_Pistol_Bundle_REDEMPTIONIMAGE-860x1145-9fb15938ad8b90f61481e9a65df147c2.jpg",
     ""
   ],
@@ -4787,7 +4787,7 @@
     ],
     "Rebellion",
     1614623766,
-    1614725035,
+    1620133164,
     "",
     ""
   ],
@@ -5599,7 +5599,7 @@
     ],
     "Rebellion",
     1614623273,
-    1614725035,
+    1620133164,
     "",
     ""
   ],
@@ -6058,7 +6058,7 @@
     ],
     "Rebellion",
     1563810407,
-    1611063560,
+    1620133164,
     "",
     ""
   ],
@@ -6231,7 +6231,7 @@
     ],
     "Rebellion",
     1614623308,
-    1614725035,
+    1620133164,
     "",
     ""
   ],
@@ -7256,7 +7256,7 @@
     ],
     "Psyonix LLC",
     1616643806,
-    1619532696,
+    1620062820,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RocketLeagueOctaneZSRStarterPack_PsyonixLLC_DLC_S2_1200x1600-5c7bc8f784412ab3ad0d0f9163c5d7ff",
     ""
   ],
@@ -7317,15 +7317,16 @@
   [
     "1ee576cd98ef4f86bb0e6c0941f5991d",
     "dfd2530e80e4425d801913b0879be444",
-    "SparrowMission7",
+    "Zombie Army 4: Mission 7 - Terminal Error",
     [
-      "games",
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Rebellion",
     1613433327,
-    1619817248,
-    "",
+    1620133541,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_Rebellion_ZombieArmy4_Terminal-Error_S2_1200x1600_1200x1600-b4fa7be888fe6dad9ee430e0588559ce",
     ""
   ],
   [
@@ -8155,7 +8156,7 @@
     ],
     "Rebellion",
     1614621082,
-    1614725035,
+    1620133164,
     "",
     ""
   ],
@@ -8941,7 +8942,7 @@
     ],
     "Rebellion",
     1614622673,
-    1614725035,
+    1620133164,
     "",
     ""
   ],
@@ -12930,7 +12931,7 @@
     ],
     "Rebellion",
     1582821649,
-    1611063560,
+    1620133164,
     "",
     ""
   ],
@@ -14551,8 +14552,8 @@
     ],
     "Piranha Games",
     1604669792,
-    1618797115,
-    "https://cdn1.epicgames.com/salesEvent/salesEvent/1200_1600_KeyArt_and_Logo_1200x1600-1df92fd9f733cd56083dfbbffc2ae263",
+    1620078194,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/hotis-s2-1200x1600_1200x1600-6c7c4bb426a9c6d14315df8ff30613cf",
     "mechwarrior-5/heroes-of-the-inner-sphere"
   ],
   [
@@ -19639,7 +19640,7 @@
     ],
     "Frontier Developments",
     1605798198,
-    1607643222,
+    1620140101,
     "https://cdn1.epicgames.com/3db17abfd650423f993291624b1b2ac1/offer/tall-1200x1600-bba05a724e82bc7fb2b2b2dc2224d83b.jpg",
     ""
   ],
@@ -19948,7 +19949,7 @@
     ],
     "Rebellion",
     1608154802,
-    1611063833,
+    1620133164,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_Night_Ops_Jun_Outfit_REDEMPTIONIMAGE-860x1145-b9f6bc50c32f116d786a09645f0bf924.jpg",
     ""
   ],
@@ -20563,14 +20564,16 @@
   [
     "57426ecd031e42aab4262f634c8e42d0",
     "dfd2530e80e4425d801913b0879be444",
-    "DLC00064",
+    "Undercover Marie Outfit",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Rebellion",
     1614297648,
-    1619453703,
-    "",
+    1620134010,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_Rebellion_ZombieArmy4_UndercoverMarieOutfi__S2_1200x1600_1200x1600-c8853bb4665dd341a74f49622ba06ed4",
     ""
   ],
   [
@@ -21799,7 +21802,7 @@
     ],
     "Piranha Games",
     1565816401,
-    1604938529,
+    1620077227,
     "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/Standard_Edition_Icon-700x300-454ff0b6a4a439c5e056eae993a24b2a.png",
     ""
   ],
@@ -22174,6 +22177,21 @@
     1618591084,
     "https://cdn1.epicgames.com/cb54020e6f7344368b8b14b20d63952a/offer/EGS_TheLegendofHeroesTrailsofColdSteelIII_NihonFalcom_S2-1200x1600-038b1d03194a801044e2b2d9e2724b8e.jpg",
     "the-legend-of-heroes-trails-of-cold-steel-iii"
+  ],
+  [
+    "5e3b0e44dd7d4e2bb1c76a7c6891cd23",
+    "3db17abfd650423f993291624b1b2ac1",
+    "Elite Dangerous: Odyssey - Deluxe Edition",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Frontier Developments",
+    1618264692,
+    1620140101,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EliteDangerousOdysseyDeluxeEdition_FrontierDevelopments_Bundles_S2_1200x1600-31ce747ea5f122d2664a98000c8c315f",
+    ""
   ],
   [
     "5e3b900f8d94451da887991be469bcaa",
@@ -23010,7 +23028,7 @@
     ],
     "Rebellion",
     1614622745,
-    1614725035,
+    1620133164,
     "",
     ""
   ],
@@ -23188,7 +23206,7 @@
     ],
     "Rebellion",
     1611098108,
-    1613051408,
+    1620133164,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EN_Rebellion_ZombieArmy4_GreaseGunSMGBundle__S2_1200x1600-1200x1600-7e1602310ccfb1843cf592cc722bec61.jpg",
     ""
   ],
@@ -23828,7 +23846,7 @@
     ],
     "Rebellion",
     1614620977,
-    1614725035,
+    1620133164,
     "",
     ""
   ],
@@ -23966,7 +23984,7 @@
     ],
     "Rebellion",
     1559873896,
-    1611063560,
+    1620133164,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/CodeRedemption_Zombie4-330x440-3102dff3377403c09f5bd5c9e43a3ad3.jpg",
     ""
   ],
@@ -27928,7 +27946,7 @@
     ],
     "Rebellion",
     1614623207,
-    1614725035,
+    1620133164,
     "",
     ""
   ],
@@ -28285,7 +28303,7 @@
     ],
     "Rebellion",
     1611098271,
-    1613052380,
+    1620133164,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_Rebellion_ZombieArmy4_S2_1200x1600-1200x1598-892a9209d778ad61f72560f9ba8d7ab4.jpg",
     ""
   ],
@@ -28887,7 +28905,7 @@
     ],
     "Frontier Developments",
     1588702389,
-    1606406472,
+    1620140101,
     "https://cdn1.epicgames.com/3db17abfd650423f993291624b1b2ac1/offer/EGS_EliteDangerous_FrontierDevelopments_S2-1200x1600-112c98adf1ae07b058feb140a08e3872.jpg",
     "elite-dangerous/home"
   ],
@@ -30835,7 +30853,7 @@
     ],
     "Rebellion",
     1614621164,
-    1614725035,
+    1620133164,
     "",
     ""
   ],
@@ -31723,14 +31741,16 @@
   [
     "89063b260f2f43c78e22014125582e07",
     "dfd2530e80e4425d801913b0879be444",
-    "DLC00068",
+    "Zombie Charm Pack",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Rebellion",
     1614298917,
-    1619453668,
-    "",
+    1620134026,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_Rebellion_ZombieArmy4_Zombie-Charm-Pack_S2_1200x1600_1200x1600-52ec1bb18487804476a8a3eab96719bb",
     ""
   ],
   [
@@ -31979,7 +31999,7 @@
     ],
     "Rebellion",
     1614623837,
-    1614725035,
+    1620133164,
     "",
     ""
   ],
@@ -32542,7 +32562,7 @@
     ],
     "Rebellion",
     1614622525,
-    1614725035,
+    1620133164,
     "",
     ""
   ],
@@ -32718,7 +32738,7 @@
     ],
     "Rebellion",
     1614623168,
-    1614725035,
+    1620133164,
     "",
     ""
   ],
@@ -33357,7 +33377,7 @@
     ],
     "Rebellion",
     1614621128,
-    1614725035,
+    1620133164,
     "",
     ""
   ],
@@ -33988,7 +34008,7 @@
     ],
     "Rebellion",
     1614622627,
-    1614725035,
+    1620133164,
     "",
     ""
   ],
@@ -35270,7 +35290,7 @@
     ],
     "Rebellion",
     1613433412,
-    1614725035,
+    1620133164,
     "",
     ""
   ],
@@ -36127,7 +36147,7 @@
     ],
     "Rebellion",
     1590174043,
-    1611063779,
+    1620133164,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EN_Rebellion_ZombieArmy4_DeadZeppelin_S2_1200x1600-1200x1600-87ffc1d4c5f2b8c30c01b5fbe1983fdf.jpg",
     ""
   ],
@@ -36157,7 +36177,7 @@
     ],
     "Epic Games",
     1423603280,
-    1587775420,
+    1620145390,
     "",
     "unreal-tournament"
   ],
@@ -36173,8 +36193,8 @@
     ],
     "tinyBuild Games",
     1568312658,
-    1589468400,
-    "https://cdn1.epicgames.com/52b90f9a982a404781b189f6a7903226/offer/Diesel_productv2_totally-reliable-delivery-service_home_EGS_TotallyReliableDeliveryService_WereFiveGames_S1-2560x1440-b1063d936cd6055cc9869474c8385c50294327fc-2560x1440-00faec773f25016dc6f959924dc7841b.jpg",
+    1620089135,
+    "https://cdn1.epicgames.com/52b90f9a982a404781b189f6a7903226/offer/EGS_TotallyReliableDeliveryService_WereFiveGames_S2-1200x1600-9c6ee20f94a76179a1036753ea081dbb.jpg",
     "totally-reliable-delivery-service/home"
   ],
   [
@@ -37300,7 +37320,7 @@
     ],
     "Rebellion",
     1613433371,
-    1614725035,
+    1620133164,
     "",
     ""
   ],
@@ -39539,7 +39559,7 @@
     ],
     "Rebellion",
     1611098217,
-    1613051409,
+    1620133164,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_Rebellion_ZombieArmy4_S2_1200x1600-1200x1598-bda27de2bf7345b667e456b8a51c12ec.jpg",
     ""
   ],
@@ -39676,14 +39696,16 @@
   [
     "a829204e321642c79e2e10ef3a40deb5",
     "dfd2530e80e4425d801913b0879be444",
-    "DLC00065",
+    "Zombie Headgear Pack",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Rebellion",
     1614297931,
-    1619453694,
-    "",
+    1620133977,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_Rebellion_ZombieArmy4_Zombie-Headgear-Pack_S2_1200x1600_1200x1600-913e15c1a49d8f6472cc3ecfba07d79d",
     ""
   ],
   [
@@ -44348,7 +44370,7 @@
     ],
     "Psyonix LLC",
     1616643838,
-    1619532696,
+    1620062796,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RocketLeaguePeregrinePack_PsyonixLLC_DLC_S2_1200x1600-5aebfe329865eb577a023c536ec0b1cf",
     ""
   ],
@@ -44460,11 +44482,12 @@
     [
       "digitalextras/book",
       "digitalextras",
+      "addons",
       "digitalextras/soundtrack"
     ],
     "The Irregular Corporation",
     1616034976,
-    1616514918,
+    1620074586,
     "https://cdn1.epicgames.com/a0c5d9d8a9a940e8a8f63118c7323210/offer/EGS_MurderbyNumbersSoundtrackArtbook_Mediatonic_DigitalExtras_S2-1200x1600-1aa9fb0dc6787968d57ebdc5ec2510ec.jpg",
     ""
   ],
@@ -44520,7 +44543,7 @@
     ],
     "Rebellion",
     1614623802,
-    1614725035,
+    1620133164,
     "",
     ""
   ],
@@ -44956,8 +44979,8 @@
     ],
     "Piranha Games",
     1563899923,
-    1604938529,
-    "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/CodeRedemption_MechWarrior5-340x440-d6fc9fca58586de5b9d250d60e09e698-340x440-d6fc9fca58586de5b9d250d60e09e698.jpg",
+    1620077227,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/mw5-s2-1200x1600_1200x1600-7e62db6ae48fcb403f9182068631df34",
     "mechwarrior-5/home"
   ],
   [
@@ -45129,14 +45152,16 @@
   [
     "c085bc0f06a14122b4f057c8378abdee",
     "dfd2530e80e4425d801913b0879be444",
-    "DLC00066",
+    "M1934 Pistol Bundle",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Rebellion",
     1614298419,
-    1619453686,
-    "",
+    1620133967,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_Rebellion_ZombieArmy4_M1934-Pistol-Bundle_S2_1200x1600_1200x1600-d8e2f2457c6b981a542e6b832adaf3a3",
     ""
   ],
   [
@@ -45525,7 +45550,7 @@
     ],
     "Rebellion",
     1611097828,
-    1613051409,
+    1620133164,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EN_Rebellion_ZombieArmy4_AfrikaKarlOutfit__S2_1200x1600-1200x1600-a193945f01e5381ab67b667f720764ad.jpg",
     ""
   ],
@@ -46326,7 +46351,7 @@
     ],
     "Rebellion",
     1576695689,
-    1611063560,
+    1620133164,
     "https://cdn1.epicgames.com/undefined/offer/EGS_REBELLION_ZOMBIEARMY4_N2_KEYART-2560x1440-446c9e10a27d7802ddec2f631a5c2920.jpg",
     ""
   ],
@@ -48038,14 +48063,16 @@
   [
     "cda0def6b0844b82935a5f154e849077",
     "dfd2530e80e4425d801913b0879be444",
-    "DLC00067",
+    "Elemental Weapon Skins",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Rebellion",
     1614298652,
-    1619453679,
-    "",
+    1620133956,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_Rebellion_ZombieArmy4_Zombie-Headgear-Pack_S2_1200x1600_1200x1600-ec97b50ea706a55b5219d9d90c92cfb3",
     ""
   ],
   [
@@ -48757,7 +48784,7 @@
     ],
     "Rebellion",
     1614623876,
-    1614725036,
+    1620133164,
     "",
     ""
   ],
@@ -48886,7 +48913,7 @@
     ],
     "Rebellion",
     1611097960,
-    1613051409,
+    1620133164,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_ClassicSports_Headgear_REDEMPTIONIMAGE-860x1180-1122a1cada9182735d72cd806939910b.jpg",
     ""
   ],
@@ -50322,7 +50349,7 @@
     ],
     "Rebellion",
     1611097890,
-    1613051409,
+    1620133164,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_DLC_Desert_Damaged_Weapon_Skins_REDEMPTIONIMAGE-860x1145-4854ed3933a0a26657f99f43c43b7aec.png",
     ""
   ],
@@ -50616,7 +50643,7 @@
     ],
     "Rebellion",
     1583450939,
-    1611063560,
+    1620133164,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_SEASONPASSSTOREPROMO_SEASONPASS-2580x1450-7a3a44b56ed33d9b5551627a3287d060.jpg",
     ""
   ],
@@ -51990,7 +52017,7 @@
     ],
     "Rebellion",
     1611096510,
-    1613051409,
+    1620133164,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EN_Rebellion_ZombieArmy4_ArmourPlatedSholaOutfit__S2_1200x1600-1200x1600-6885b710245260150bedfcff76beb17e.jpg",
     ""
   ],
@@ -52759,7 +52786,7 @@
     ],
     "Rebellion",
     1611098321,
-    1613051409,
+    1620133164,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EN_Rebellion_ZombieArmy4_BombLanceShotgunBundle__S2_1200x1600-1200x1600-1ef8024785666da65012c13836d8bcef.jpg",
     ""
   ],
@@ -54314,7 +54341,7 @@
     ],
     "Rebellion",
     1611098153,
-    1613051409,
+    1620133164,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EN_Rebellion_ZombieArmy4_BombLanceShotgunBundle__S2_1200x1600-1200x1600-92b88ba0d41701cf5be2dfb899c20cc5.jpg",
     ""
   ],
@@ -54756,7 +54783,7 @@
     ],
     "Rebellion",
     1614623242,
-    1614725036,
+    1620133164,
     "",
     ""
   ],
@@ -54816,7 +54843,7 @@
     ],
     "Epic Games",
     1602267702,
-    1613081308,
+    1620132386,
     "https://cdn1.epicgames.com/fn/offer/EN_FN_Store_LastLaugh_512x512-512x512-976067d7867a922711bddc03d0a38b96.jpg",
     "fortnite/the-last-laugh-bundle"
   ],
@@ -55980,7 +56007,7 @@
     ],
     "Rebellion",
     1599222253,
-    1611063745,
+    1620133164,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_Toxic_Hazard_Weapon_Skins_REDEMPTIONIMAGE-860x1145-15ed101ce7a11488e01d742970ba02b4.jpg",
     ""
   ],
@@ -57055,7 +57082,7 @@
     ],
     "Rebellion",
     1614622713,
-    1614725036,
+    1620133164,
     "",
     ""
   ],
@@ -57943,7 +57970,7 @@
     ],
     "Rebellion",
     1608154968,
-    1611063848,
+    1620133164,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_DLC_7.65mm_Polizeipistole_Pistol_Bundle_REDEMPTIONIMAGE-860x1145-fe5e472e7f88186857b0c68f867b97c5.jpg",
     ""
   ],
@@ -58822,15 +58849,16 @@
   [
     "fb3938e4e7ec4ccc943fe71ca55ba43d",
     "dfd2530e80e4425d801913b0879be444",
-    "Sparrow Season Pass 3 Audience",
+    "Season Pass Three",
     [
-      "games",
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Rebellion",
     1614797889,
-    1619453532,
-    "",
+    1620134038,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_Rebellion_ZombieArmy4_Season-Pass_03_S2_1200x1600_1200x1600-1436fe4276d0b45900c0b852a3f77259",
     ""
   ],
   [
@@ -59185,7 +59213,7 @@
     ],
     "Rebellion",
     1614623727,
-    1614725036,
+    1620133164,
     "",
     ""
   ],
@@ -59861,7 +59889,7 @@
     ],
     "Rebellion",
     1576687478,
-    1611063560,
+    1620133164,
     "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_N2_KEYART-2560x1440-446c9e10a27d7802ddec2f631a5c2920.jpg",
     ""
   ],

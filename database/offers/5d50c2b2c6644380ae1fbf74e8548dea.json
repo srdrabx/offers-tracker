@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "mechwarrior-5-pre-purchase",
   "creationDate": "2019-08-14T21:00:01.982Z",
-  "lastModifiedDate": "2020-11-09T16:15:29.436Z",
+  "lastModifiedDate": "2021-05-03T21:27:07.174Z",
   "effectiveDate": "2019-08-09T17:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -79,6 +79,6 @@
     }
   ],
   "catalogNs": {
-    "name": "b9def67e597b4be7a16146146a044d02"
+    "name": null
   }
 }

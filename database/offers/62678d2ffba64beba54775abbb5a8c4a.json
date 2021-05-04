@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "zombie-army-4-dead-war--grease-gun-smg",
   "creationDate": "2021-01-19T23:15:08.062Z",
-  "lastModifiedDate": "2021-02-11T13:50:08.949Z",
+  "lastModifiedDate": "2021-05-04T12:59:24.278Z",
   "effectiveDate": "2021-02-11T14:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -103,6 +103,60 @@
       "uploadedDate": "2021-02-02T18:27:37.099Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_DLC_GreaseGun_IC1_LOGO_1280x720-be74b488b99a14187a29f2b69fb8d003",
+      "md5": "be74b488b99a14187a29f2b69fb8d003",
+      "size": 387028,
+      "uploadedDate": "2021-04-28T18:51:32.635Z",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_GreaseGun_C5_1920x1080-fd1674873c7d97d0db502266c6796c3d",
+      "md5": "fd1674873c7d97d0db502266c6796c3d",
+      "size": 1159550,
+      "uploadedDate": "2021-04-28T18:51:40.135Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_GreaseGun_C1_1920x1080-e0e037c6eec2a40e6646bf8c2a6171b2",
+      "md5": "e0e037c6eec2a40e6646bf8c2a6171b2",
+      "size": 1164050,
+      "uploadedDate": "2021-04-28T18:51:47.478Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_GreaseGun_C2_1920x1080-a41189db6c7c77272a0ff7e31ef05ae1",
+      "md5": "a41189db6c7c77272a0ff7e31ef05ae1",
+      "size": 1107989,
+      "uploadedDate": "2021-04-28T18:51:54.173Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_GreaseGun_C3_1920x1080-be600fe9dbc3f97c88b2293116195131",
+      "md5": "be600fe9dbc3f97c88b2293116195131",
+      "size": 1091644,
+      "uploadedDate": "2021-04-28T18:52:02.701Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_GreaseGun_C4_1920x1080-37431f4380dcb0e8d6747cb3ea0480d1",
+      "md5": "37431f4380dcb0e8d6747cb3ea0480d1",
+      "size": 1297934,
+      "uploadedDate": "2021-04-28T18:52:11.150Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
@@ -111,6 +165,6 @@
     }
   ],
   "catalogNs": {
-    "name": "dfd2530e80e4425d801913b0879be444"
+    "name": null
   }
 }

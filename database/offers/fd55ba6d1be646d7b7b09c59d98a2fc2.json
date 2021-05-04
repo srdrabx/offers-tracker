@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "zombie-army-4-dead-war---",
   "creationDate": "2021-03-01T18:35:27.487Z",
-  "lastModifiedDate": "2021-03-02T22:43:56.094Z",
+  "lastModifiedDate": "2021-05-04T12:59:24.674Z",
   "effectiveDate": "2099-01-01T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -111,6 +111,6 @@
     }
   ],
   "catalogNs": {
-    "name": "dfd2530e80e4425d801913b0879be444"
+    "name": null
   }
 }

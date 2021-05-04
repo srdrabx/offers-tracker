@@ -6,9 +6,9 @@
   "longDescription": "# Track Listing\n1 - Honor's Theme\n2 - Gridmoore Studios - Close to Home\n3 -  SCOUT's on The Case!\n4 - Turning Tide\n5 - Scouring the Scene\n6 - Detective Cross - Justice Takes Time\n7 - Puzzle - The Unbeatable Duo\n8 - Crisis\n9 - K.C. - Artiste Extraordinaire\n10 - Memories of Dad\n11 - Puzzle - The Digital Detective\n12 - A Dark Turn\n13 - Eccentrics-R-Us\n14 - Orpheus Theater - Anyone Who's Anyone\n15 - Puzzle - On The Right Path\n16 - The Starshine Awards\n17 - Becky - Center of Attention\n18 - We've Got Them!\n19 - Misplaced Loyalties\n20 - Magellan's - A Port in the Storm\n21 - Carefree Days\n22 - The Only Way is Forward\n23 - Puzzle - Got Your Back\n24 - One Story Ends, Another Begins\n25 - Deduction - One Step Forward\n26 - Lethe Security\n27 - Mistakes We Can't Erase\n28 - Puzzle - Towards the Truth\n29 - The Price of Justice\n30 - Honor's Theme (Vocal Ver.)",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "murder-by-numbers--soundtrack-and-artbook",
+  "urlSlug": "murder-by-numbers---murder-by-numbers-soundtrack-and-artbook",
   "creationDate": "2021-03-18T02:36:16.844Z",
-  "lastModifiedDate": "2021-03-23T15:55:18.712Z",
+  "lastModifiedDate": "2021-05-03T20:43:06.483Z",
   "effectiveDate": "2021-03-23T17:00:00.000Z",
   "viewableDate": "2021-03-23T17:00:00.000Z",
   "developer": null,
@@ -29,6 +29,9 @@
     },
     {
       "path": "digitalextras"
+    },
+    {
+      "path": "addons"
     },
     {
       "path": "digitalextras/soundtrack"
@@ -111,6 +114,6 @@
     }
   ],
   "catalogNs": {
-    "name": "a0c5d9d8a9a940e8a8f63118c7323210"
+    "name": null
   }
 }

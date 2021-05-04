@@ -8,7 +8,7 @@
   "productSlug": "unreal-tournament",
   "urlSlug": "unreal-tournament",
   "creationDate": "2015-02-10T21:21:20.652Z",
-  "lastModifiedDate": "2020-04-25T00:43:40.561Z",
+  "lastModifiedDate": "2021-05-04T16:23:10.643Z",
   "effectiveDate": "2015-02-10T00:00:00.000Z",
   "viewableDate": "2015-02-10T00:00:00.000Z",
   "developer": null,
@@ -18,7 +18,7 @@
   },
   "linkedOfferId": null,
   "isFeatured": false,
-  "ignoreOrder": true,
+  "ignoreOrder": false,
   "freeDays": 0,
   "collectionOfferIds": [],
   "technicalDetails": "",
@@ -162,6 +162,6 @@
     }
   ],
   "catalogNs": {
-    "name": "ut"
+    "name": null
   }
 }

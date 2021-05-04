@@ -8,7 +8,7 @@
   "productSlug": "mechwarrior-5/home",
   "urlSlug": "hoopoegeneralaudience",
   "creationDate": "2019-07-23T16:38:43.376Z",
-  "lastModifiedDate": "2020-11-09T16:15:29.434Z",
+  "lastModifiedDate": "2021-05-03T21:27:07.171Z",
   "effectiveDate": "2019-12-09T11:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -175,65 +175,56 @@
   ],
   "keyImages": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/CodeRedemption_MechWarrior5-340x440-d6fc9fca58586de5b9d250d60e09e698.jpg",
-      "md5": "d6fc9fca58586de5b9d250d60e09e698",
-      "size": 230668,
-      "uploadedDate": "2019-07-24T21:02:11.900Z",
-      "width": 340,
-      "height": 440
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/mw5-s2-1200x1600_1200x1600-7e62db6ae48fcb403f9182068631df34",
+      "md5": "7e62db6ae48fcb403f9182068631df34",
+      "size": 575502,
+      "uploadedDate": "2021-05-03T21:26:22.278Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/landscape-offer-img-w-logo-2560x1440-63a6927ce47a68280cc8a55efe70a710.jpg",
-      "md5": "63a6927ce47a68280cc8a55efe70a710",
-      "size": 1123460,
-      "uploadedDate": "2020-02-28T13:55:19.972Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/mw5-s1-2560x1440_2560x1440-8e632e897c65539f1a7b1e45c147726d",
+      "md5": "8e632e897c65539f1a7b1e45c147726d",
+      "size": 444811,
+      "uploadedDate": "2021-05-03T21:26:25.153Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/CodeRedemption_MechWarrior5-340x440-d6fc9fca58586de5b9d250d60e09e698-340x440-d6fc9fca58586de5b9d250d60e09e698.jpg",
-      "md5": "d6fc9fca58586de5b9d250d60e09e698",
-      "size": 230668,
-      "uploadedDate": "2020-04-20T22:57:30.855Z",
-      "width": 340,
-      "height": 440
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/mw5-s2-1200x1600_1200x1600-7e62db6ae48fcb403f9182068631df34",
+      "md5": "7e62db6ae48fcb403f9182068631df34",
+      "size": 575502,
+      "uploadedDate": "2021-05-03T21:26:27.766Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/CodeRedemption_MechWarrior5-340x440-d6fc9fca58586de5b9d250d60e09e698-340x440-d6fc9fca58586de5b9d250d60e09e698.jpg",
-      "md5": "d6fc9fca58586de5b9d250d60e09e698",
-      "size": 230668,
-      "uploadedDate": "2020-04-20T22:58:01.913Z",
-      "width": 340,
-      "height": 440
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/mw5-s2-1200x1600_1200x1600-7e62db6ae48fcb403f9182068631df34",
+      "md5": "7e62db6ae48fcb403f9182068631df34",
+      "size": 575502,
+      "uploadedDate": "2021-05-03T21:26:30.665Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/CodeRedemption_MechWarrior5-340x440-d6fc9fca58586de5b9d250d60e09e698-340x440-d6fc9fca58586de5b9d250d60e09e698.jpg",
-      "md5": "d6fc9fca58586de5b9d250d60e09e698",
-      "size": 230668,
-      "uploadedDate": "2020-04-20T22:58:37.610Z",
-      "width": 340,
-      "height": 440
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/mw5-s2-1200x1600_1200x1600-7e62db6ae48fcb403f9182068631df34",
+      "md5": "7e62db6ae48fcb403f9182068631df34",
+      "size": 575502,
+      "uploadedDate": "2021-05-03T21:26:39.582Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/landscape-offer-img-w-logo-2560x1440-63a6927ce47a68280cc8a55efe70a710-2560x1440-63a6927ce47a68280cc8a55efe70a710.jpg",
-      "md5": "63a6927ce47a68280cc8a55efe70a710",
-      "size": 1123460,
-      "uploadedDate": "2020-04-20T22:58:58.569Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/landscape-offer-img-w-logo-2560x1440-63a6927ce47a68280cc8a55efe70a710-2560x1440-63a6927ce47a68280cc8a55efe70a710.jpg",
-      "md5": "63a6927ce47a68280cc8a55efe70a710",
-      "size": 1123460,
-      "uploadedDate": "2020-04-21T16:01:28.068Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/mw5-s1-2560x1440_2560x1440-8e632e897c65539f1a7b1e45c147726d",
+      "md5": "8e632e897c65539f1a7b1e45c147726d",
+      "size": 444811,
+      "uploadedDate": "2021-05-03T21:26:43.707Z",
       "width": 2560,
       "height": 1440
     }
@@ -247,6 +238,6 @@
     }
   ],
   "catalogNs": {
-    "name": "b9def67e597b4be7a16146146a044d02"
+    "name": null
   }
 }

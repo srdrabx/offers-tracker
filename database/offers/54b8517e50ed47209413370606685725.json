@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "zombie-army-4-dead-war--night-ops-jun-outfit",
   "creationDate": "2020-12-16T21:40:02.725Z",
-  "lastModifiedDate": "2021-01-19T13:43:53.467Z",
+  "lastModifiedDate": "2021-05-04T12:59:24.237Z",
   "effectiveDate": "2021-01-19T13:45:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -112,6 +112,60 @@
       "uploadedDate": "2021-01-05T18:59:49.372Z",
       "width": 860,
       "height": 1145
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_DLC_Night_Ops_Jun_Outfit_IC1_LOGO_1280x720-05b934635924e8df84a62c7f946c293d",
+      "md5": "05b934635924e8df84a62c7f946c293d",
+      "size": 390501,
+      "uploadedDate": "2021-04-28T18:32:02.576Z",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_Night_Ops_Jun_Outfit_CAROUSEL_05_1920x1080-9e214250cdf5486804fb445f95b81abc",
+      "md5": "9e214250cdf5486804fb445f95b81abc",
+      "size": 737349,
+      "uploadedDate": "2021-04-28T18:32:08.800Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_Night_Ops_Jun_Outfit_CAROUSEL_01_1920x1080-8feaba78db46b36fcc98bece8fcc693c",
+      "md5": "8feaba78db46b36fcc98bece8fcc693c",
+      "size": 717870,
+      "uploadedDate": "2021-04-28T18:32:12.907Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_Night_Ops_Jun_Outfit_CAROUSEL_02_1920x1080-96605b0ac64dc1eef1b800f954b5717c",
+      "md5": "96605b0ac64dc1eef1b800f954b5717c",
+      "size": 733190,
+      "uploadedDate": "2021-04-28T18:32:16.553Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_Night_Ops_Jun_Outfit_CAROUSEL_03_1920x1080-69cf9b5799fd98dc930d591faf3a7ae9",
+      "md5": "69cf9b5799fd98dc930d591faf3a7ae9",
+      "size": 371982,
+      "uploadedDate": "2021-04-28T18:32:21.767Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_Night_Ops_Jun_Outfit_CAROUSEL_04_1920x1080-1d6f931b8d2eeeef3ef6a3b4e4f5b5e8",
+      "md5": "1d6f931b8d2eeeef3ef6a3b4e4f5b5e8",
+      "size": 759204,
+      "uploadedDate": "2021-04-28T18:32:30.607Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
@@ -120,6 +174,6 @@
     }
   ],
   "catalogNs": {
-    "name": "dfd2530e80e4425d801913b0879be444"
+    "name": null
   }
 }

@@ -1,15 +1,15 @@
 {
   "id": "57426ecd031e42aab4262f634c8e42d0",
   "namespace": "dfd2530e80e4425d801913b0879be444",
-  "title": "DLC00064",
-  "description": "DLC00064",
-  "longDescription": "DLC00064",
+  "title": "Undercover Marie Outfit",
+  "description": "In the French Resistance, Marie was a master of disguise! She could infiltrate any party, take out her targets and get out without anyone ever noticing. Of course, in an undead apocalypse disguises aren’t really necessary – but who’s going to tell her? ",
+  "longDescription": "In the French Resistance, Marie was a master of disguise! She could infiltrate any party, take out her targets and get out without anyone ever noticing. Of course, in an undead apocalypse disguises aren’t really necessary – but who’s going to tell her? \n\nThis bundle contains one character outfit and two headgear variants. \n",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "zombie-army-4-dead-war---",
+  "urlSlug": "zombie-army-4-dead-war--undercover-marie-outfit",
   "creationDate": "2021-02-26T00:00:48.442Z",
-  "lastModifiedDate": "2021-04-26T16:15:03.148Z",
-  "effectiveDate": "2099-01-01T16:00:00.000Z",
+  "lastModifiedDate": "2021-05-04T13:13:30.509Z",
+  "effectiveDate": "2021-05-04T13:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -24,6 +24,12 @@
   "technicalDetails": null,
   "recurrence": "ONCE",
   "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
     {
       "path": "applications"
     }
@@ -116,13 +122,122 @@
       "value": "Rebellion"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_Rebellion_ZombieArmy4_UndercoverMarieOutfit_S1_2560x1440_2560x1440-c3a0f716edb9780ca13d0cdc98e16a3f",
+      "md5": "c3a0f716edb9780ca13d0cdc98e16a3f",
+      "size": 1534045,
+      "uploadedDate": "2021-04-27T18:01:58.681Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_Rebellion_ZombieArmy4_UndercoverMarieOutfi__S2_1200x1600_1200x1600-c8853bb4665dd341a74f49622ba06ed4",
+      "md5": "c8853bb4665dd341a74f49622ba06ed4",
+      "size": 1097385,
+      "uploadedDate": "2021-04-27T18:02:03.764Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_Rebellion_ZombieArmy4_UndercoverMarieOutfi__S2_1200x1600_1200x1600-c8853bb4665dd341a74f49622ba06ed4",
+      "md5": "c8853bb4665dd341a74f49622ba06ed4",
+      "size": 1097385,
+      "uploadedDate": "2021-04-27T18:02:13.435Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_Rebellion_ZombieArmy4_UndercoverMarieOutfi__S2_1200x1600_1200x1600-c8853bb4665dd341a74f49622ba06ed4",
+      "md5": "c8853bb4665dd341a74f49622ba06ed4",
+      "size": 1097385,
+      "uploadedDate": "2021-04-27T18:02:23.062Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_Rebellion_ZombieArmy4_UndercoverMarieOutfit_S1_2560x1440_2560x1440-c3a0f716edb9780ca13d0cdc98e16a3f",
+      "md5": "c3a0f716edb9780ca13d0cdc98e16a3f",
+      "size": 1534045,
+      "uploadedDate": "2021-04-27T18:02:30.065Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_Rebellion_ZombieArmy4_UndercoverMarieOutfi__S2_1200x1600_1200x1600-c8853bb4665dd341a74f49622ba06ed4",
+      "md5": "c8853bb4665dd341a74f49622ba06ed4",
+      "size": 1097385,
+      "uploadedDate": "2021-04-27T18:02:36.488Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_UndercoverMarieOutfit_C1_1920x1080_1920x1080-d78a1c9bc216e1f18b39fb504ba23fb0",
+      "md5": "d78a1c9bc216e1f18b39fb504ba23fb0",
+      "size": 345446,
+      "uploadedDate": "2021-04-27T18:02:47.281Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_UndercoverMarieOutfit_C2_1920x1080_1920x1080-84a94a0e52f30be7eb5f41944fbe3f4a",
+      "md5": "84a94a0e52f30be7eb5f41944fbe3f4a",
+      "size": 575826,
+      "uploadedDate": "2021-04-27T18:02:54.100Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_UndercoverMarieOutfit_C3_1920x1080_1920x1080-ebff73c1774464091059e543f1c7a65e",
+      "md5": "ebff73c1774464091059e543f1c7a65e",
+      "size": 445502,
+      "uploadedDate": "2021-04-28T14:26:44.679Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_UndercoverMarieOutfit_C4_1920x1080_1920x1080-dafdadbdae4961198a8a166f4e9fe2ba",
+      "md5": "dafdadbdae4961198a8a166f4e9fe2ba",
+      "size": 452019,
+      "uploadedDate": "2021-04-28T14:26:48.830Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_UndercoverMarieOutfit_C5_1920x1080_1920x1080-c201fa078f607e1fb3928ef35a868b9b",
+      "md5": "c201fa078f607e1fb3928ef35a868b9b",
+      "size": 414448,
+      "uploadedDate": "2021-04-28T14:26:52.462Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_UndercoverMarieOutfit_IC1_LOGO_400x225-d17327c2c652c9c28b79327c5b44484f",
+      "md5": "d17327c2c652c9c28b79327c5b44484f",
+      "size": 75525,
+      "uploadedDate": "2021-05-03T20:20:34.114Z",
+      "width": 400,
+      "height": 225
+    }
+  ],
   "items": [
     {
       "id": "fe7a6eed4790417786f89e4224f25205"
     }
   ],
   "catalogNs": {
-    "name": "dfd2530e80e4425d801913b0879be444"
+    "name": null
   }
 }

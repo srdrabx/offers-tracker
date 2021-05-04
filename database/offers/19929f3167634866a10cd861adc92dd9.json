@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "zombie-army-4-partner-audience",
   "creationDate": "2019-07-22T15:46:47.679Z",
-  "lastModifiedDate": "2021-01-19T13:39:20.369Z",
+  "lastModifiedDate": "2021-05-04T12:59:24.179Z",
   "effectiveDate": "2050-07-29T11:44:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -59,6 +59,6 @@
     }
   ],
   "catalogNs": {
-    "name": "dfd2530e80e4425d801913b0879be444"
+    "name": null
   }
 }

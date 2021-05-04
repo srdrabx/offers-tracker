@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "zombie-army-4-dead-war--armoured-giant-weapon-skins",
   "creationDate": "2021-01-19T23:15:53.656Z",
-  "lastModifiedDate": "2021-02-11T13:50:09.119Z",
+  "lastModifiedDate": "2021-05-04T12:59:24.602Z",
   "effectiveDate": "2021-02-11T14:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -103,6 +103,60 @@
       "uploadedDate": "2021-02-02T18:30:58.640Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_BombLanceShotgunBundle_IC1_LOGO_400x225-b823fdf6d236840f88e783adc1859ae8",
+      "md5": "b823fdf6d236840f88e783adc1859ae8",
+      "size": 76081,
+      "uploadedDate": "2021-04-28T18:44:37.418Z",
+      "width": 400,
+      "height": 225
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_ArmouredGiantWeaponSkins_C5_1920x1080_1920x1080-ede3b230661d6c11311b800e2a19ffc2",
+      "md5": "ede3b230661d6c11311b800e2a19ffc2",
+      "size": 941228,
+      "uploadedDate": "2021-04-28T18:44:47.412Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_ArmouredGiantWeaponSkins_C1_1920x1080_1920x1080-36a82cf6b86f70d349b4d4f2fc04d42a",
+      "md5": "36a82cf6b86f70d349b4d4f2fc04d42a",
+      "size": 1017404,
+      "uploadedDate": "2021-04-28T18:44:54.372Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_ArmouredGiantWeaponSkins_C2_1920x1080_1920x1080-416cb00184de5f2c08bbb4cfc952b433",
+      "md5": "416cb00184de5f2c08bbb4cfc952b433",
+      "size": 965428,
+      "uploadedDate": "2021-04-28T18:45:02.566Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_ArmouredGiantWeaponSkins_C3_1920x1080_1920x1080-b7f00b99f8a1e181d6a1a5aaa6c36d0b",
+      "md5": "b7f00b99f8a1e181d6a1a5aaa6c36d0b",
+      "size": 1012138,
+      "uploadedDate": "2021-04-28T18:45:09.199Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REBELLION_ZOMBIEARMY4_ArmouredGiantWeaponSkins_C4_1920x1080_1920x1080-b9a81249ef3effad9f979d73e0389e85",
+      "md5": "b9a81249ef3effad9f979d73e0389e85",
+      "size": 920285,
+      "uploadedDate": "2021-04-28T18:45:16.062Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
@@ -111,6 +165,6 @@
     }
   ],
   "catalogNs": {
-    "name": "dfd2530e80e4425d801913b0879be444"
+    "name": null
   }
 }

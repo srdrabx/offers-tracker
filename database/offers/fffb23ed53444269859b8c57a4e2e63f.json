@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "sparrowbetaaudience",
   "creationDate": "2019-12-18T16:44:38.273Z",
-  "lastModifiedDate": "2021-01-19T13:39:20.410Z",
+  "lastModifiedDate": "2021-05-04T12:59:24.680Z",
   "effectiveDate": "2050-12-23T12:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -68,6 +68,6 @@
     }
   ],
   "catalogNs": {
-    "name": "dfd2530e80e4425d801913b0879be444"
+    "name": null
   }
 }

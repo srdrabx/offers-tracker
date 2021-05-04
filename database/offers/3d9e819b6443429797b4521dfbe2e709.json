@@ -8,7 +8,7 @@
   "productSlug": "mechwarrior-5/heroes-of-the-inner-sphere",
   "urlSlug": "mechwarrior-5--heroes-of-the-inner-sphere",
   "creationDate": "2020-11-06T13:36:32.324Z",
-  "lastModifiedDate": "2021-04-19T01:51:55.116Z",
+  "lastModifiedDate": "2021-05-03T21:43:14.517Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -136,58 +136,220 @@
   ],
   "keyImages": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/2560_1440_KeyArt_and_Logo_2560x1440-d31a31496dab5b0e0955a5ffa53c6a4c",
-      "md5": "d31a31496dab5b0e0955a5ffa53c6a4c",
-      "size": 1011490,
-      "uploadedDate": "2021-04-19T01:41:25.427Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/1200_1600_KeyArt_and_Logo_1200x1600-1df92fd9f733cd56083dfbbffc2ae263",
-      "md5": "1df92fd9f733cd56083dfbbffc2ae263",
-      "size": 621588,
-      "uploadedDate": "2021-04-19T01:41:30.843Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/hotis-s2-1200x1600_1200x1600-6c7c4bb426a9c6d14315df8ff30613cf",
+      "md5": "6c7c4bb426a9c6d14315df8ff30613cf",
+      "size": 595071,
+      "uploadedDate": "2021-05-03T21:29:23.096Z",
       "width": 1200,
       "height": 1600
     },
     {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/hotis-s1-2560x1440_2560x1440-c56c1bd3ba5db9a635c38bb9c489cb01",
+      "md5": "c56c1bd3ba5db9a635c38bb9c489cb01",
+      "size": 545918,
+      "uploadedDate": "2021-05-03T21:29:26.134Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/1200_1600_KeyArt_and_Logo_1200x1600-1df92fd9f733cd56083dfbbffc2ae263",
-      "md5": "1df92fd9f733cd56083dfbbffc2ae263",
-      "size": 621588,
-      "uploadedDate": "2021-04-19T01:41:47.974Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/hotis-s2-1200x1600_1200x1600-6c7c4bb426a9c6d14315df8ff30613cf",
+      "md5": "6c7c4bb426a9c6d14315df8ff30613cf",
+      "size": 595071,
+      "uploadedDate": "2021-05-03T21:29:29.642Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/1200_1600_KeyArt_and_Logo_1200x1600-1df92fd9f733cd56083dfbbffc2ae263",
-      "md5": "1df92fd9f733cd56083dfbbffc2ae263",
-      "size": 621588,
-      "uploadedDate": "2021-04-19T01:41:59.170Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/hotis-s2-1200x1600_1200x1600-6c7c4bb426a9c6d14315df8ff30613cf",
+      "md5": "6c7c4bb426a9c6d14315df8ff30613cf",
+      "size": 595071,
+      "uploadedDate": "2021-05-03T21:29:32.847Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/hotis-s2-1200x1600_1200x1600-6c7c4bb426a9c6d14315df8ff30613cf",
+      "md5": "6c7c4bb426a9c6d14315df8ff30613cf",
+      "size": 595071,
+      "uploadedDate": "2021-05-03T21:29:38.755Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/2560_1440_KeyArt_and_Logo_2560x1440-d31a31496dab5b0e0955a5ffa53c6a4c",
-      "md5": "d31a31496dab5b0e0955a5ffa53c6a4c",
-      "size": 1011490,
-      "uploadedDate": "2021-04-19T01:42:14.446Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/hotis-s1-2560x1440_2560x1440-c56c1bd3ba5db9a635c38bb9c489cb01",
+      "md5": "c56c1bd3ba5db9a635c38bb9c489cb01",
+      "size": 545918,
+      "uploadedDate": "2021-05-03T21:29:45.376Z",
       "width": 2560,
       "height": 1440
     },
     {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/1200_1600_KeyArt_and_Logo_1200x1600-1df92fd9f733cd56083dfbbffc2ae263",
-      "md5": "1df92fd9f733cd56083dfbbffc2ae263",
-      "size": 621588,
-      "uploadedDate": "2021-04-19T01:42:33.621Z",
-      "width": 1200,
-      "height": 1600
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/hotis-logo_400x91-113efc51336199708af626f9867a450a",
+      "md5": "113efc51336199708af626f9867a450a",
+      "size": 16563,
+      "uploadedDate": "2021-05-03T21:30:36.198Z",
+      "width": 400,
+      "height": 91
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/carousel-product-img2-1920x1080_1920x1080-5d8f3ece9155861ee9c2b4b2aab4b82d",
+      "md5": "5d8f3ece9155861ee9c2b4b2aab4b82d",
+      "size": 655496,
+      "uploadedDate": "2021-05-03T21:38:41.233Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/HOTIS_1_Corsair__RAW_2559x1440-d7f10f8bda6e8857f3ec71f64468abc6",
+      "md5": "d7f10f8bda6e8857f3ec71f64468abc6",
+      "size": 883110,
+      "uploadedDate": "2021-05-03T21:36:07.433Z",
+      "width": 2559,
+      "height": 1440
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/HOTIS_2_Charger__RAW_2558x1440-e096bfe9742c05521ff0679e49d362a4",
+      "md5": "e096bfe9742c05521ff0679e49d362a4",
+      "size": 658794,
+      "uploadedDate": "2021-05-03T21:36:53.660Z",
+      "width": 2558,
+      "height": 1440
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/HOTIS_3_Vulcan__RAW_2558x1440-45020ffd5885dc388f218edb183aedd2",
+      "md5": "45020ffd5885dc388f218edb183aedd2",
+      "size": 585694,
+      "uploadedDate": "2021-05-03T21:36:56.177Z",
+      "width": 2558,
+      "height": 1440
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/HOTIS_3rdPerson_Battery_2560x1352-6f1a469b86b71324ce18facf72e27d47",
+      "md5": "6f1a469b86b71324ce18facf72e27d47",
+      "size": 906879,
+      "uploadedDate": "2021-05-03T21:36:59.324Z",
+      "width": 2560,
+      "height": 1352
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/HOTIS_3rdPerson_Battle_2560x1354-2f8b36df9525babd513cd4484789f44d",
+      "md5": "2f8b36df9525babd513cd4484789f44d",
+      "size": 1061859,
+      "uploadedDate": "2021-05-03T21:37:03.838Z",
+      "width": 2560,
+      "height": 1354
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/HOTIS_3rdPerson_Battle2_2560x1352-f091bdcfdc81ebfaebacf36e0ba8598b",
+      "md5": "f091bdcfdc81ebfaebacf36e0ba8598b",
+      "size": 960455,
+      "uploadedDate": "2021-05-03T21:37:08.456Z",
+      "width": 2560,
+      "height": 1352
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/HOTIS_5_POV_Vulcan__RAW_2560x1233-10953cbe3134a3bc37b9a15a371ad883",
+      "md5": "10953cbe3134a3bc37b9a15a371ad883",
+      "size": 601827,
+      "uploadedDate": "2021-05-03T21:37:11.965Z",
+      "width": 2560,
+      "height": 1233
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/HOTIS_6_SpiderFly__RAW_2560x1440-0d49080230d12d5784c2b693d5ca624a",
+      "md5": "0d49080230d12d5784c2b693d5ca624a",
+      "size": 832883,
+      "uploadedDate": "2021-05-03T21:37:14.589Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/HOTIS_7_Hatamoto__RAW_2560x1440-644b18d66786a33bf815057ff3fd7443",
+      "md5": "644b18d66786a33bf815057ff3fd7443",
+      "size": 621156,
+      "uploadedDate": "2021-05-03T21:37:17.756Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/HOTIS_11_Corsair_Chase_Cine__RAW_2560x1440-ca48c70aa9eca58ee68bc7b23ece9b91",
+      "md5": "ca48c70aa9eca58ee68bc7b23ece9b91",
+      "size": 330632,
+      "uploadedDate": "2021-05-03T21:37:20.265Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/HOTIS_14_Vulcan_ArtilleryB__RAW_2560x1440-057b68d7fbe5ee71e86b0f93635dd089",
+      "md5": "057b68d7fbe5ee71e86b0f93635dd089",
+      "size": 1340265,
+      "uploadedDate": "2021-05-03T21:37:22.769Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/HOTIS_BeachHead_1_2560x1440-de2a0cdec5d696062a49aa074308f178",
+      "md5": "de2a0cdec5d696062a49aa074308f178",
+      "size": 823115,
+      "uploadedDate": "2021-05-03T21:37:25.171Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/HOTIS_BeachHead_5_2560x1440-a92320976192a8dfefa3f651150daad7",
+      "md5": "a92320976192a8dfefa3f651150daad7",
+      "size": 1205864,
+      "uploadedDate": "2021-05-03T21:37:27.788Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/HOTIS_Cockpit_Artillery2_2560x1440-962a2f99a78a737aa27c84f5caa78ad0",
+      "md5": "962a2f99a78a737aa27c84f5caa78ad0",
+      "size": 1120473,
+      "uploadedDate": "2021-05-03T21:37:30.507Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/HOTIS_Cockpit_CenturionDestroy_2560x1352-80fafca9276687e1be2b23927ff8aa47",
+      "md5": "80fafca9276687e1be2b23927ff8aa47",
+      "size": 978977,
+      "uploadedDate": "2021-05-03T21:37:33.173Z",
+      "width": 2560,
+      "height": 1352
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/HOTIS_Cockpit_ShootUplink_2560x1440-fa1f188f7cba917a08d75a452c4f2280",
+      "md5": "fa1f188f7cba917a08d75a452c4f2280",
+      "size": 921582,
+      "uploadedDate": "2021-05-03T21:37:35.666Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
   "items": [
@@ -196,6 +358,6 @@
     }
   ],
   "catalogNs": {
-    "name": "b9def67e597b4be7a16146146a044d02"
+    "name": null
   }
 }

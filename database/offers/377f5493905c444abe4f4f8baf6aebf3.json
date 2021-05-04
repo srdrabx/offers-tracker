@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "sparrowdevaudience-01",
   "creationDate": "2020-02-27T16:40:49.791Z",
-  "lastModifiedDate": "2021-01-19T13:39:20.500Z",
+  "lastModifiedDate": "2021-05-04T12:59:24.222Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -59,6 +59,6 @@
     }
   ],
   "catalogNs": {
-    "name": "dfd2530e80e4425d801913b0879be444"
+    "name": null
   }
 }
