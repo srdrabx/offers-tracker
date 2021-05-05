@@ -8,7 +8,7 @@
   "productSlug": "industries-of-titan",
   "urlSlug": "industries-of-titan",
   "creationDate": "2019-03-18T05:25:27.711Z",
-  "lastModifiedDate": "2021-04-06T17:52:28.683Z",
+  "lastModifiedDate": "2021-05-04T17:23:52.119Z",
   "effectiveDate": "2020-04-14T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -128,55 +128,55 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/IoT_TT10_EGS_Library Tile Landscape_222e36_2560x1440-d8cb06c02ce1a20c58514acdbd000ad2",
-      "md5": "d8cb06c02ce1a20c58514acdbd000ad2",
-      "size": 877058,
-      "uploadedDate": "2021-04-05T20:10:35.575Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/IoT_TT11_EGS_Library Tile Landscape_00442_2560x1440-1a72cc287947ac4e76076cc64d093894",
+      "md5": "1a72cc287947ac4e76076cc64d093894",
+      "size": 1960517,
+      "uploadedDate": "2021-05-03T20:21:13.096Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/IoT_TT10_EGS_Library Tile Portrait_222e36_1200x1600-01767731c51fdbfda5479578589de810",
-      "md5": "01767731c51fdbfda5479578589de810",
-      "size": 507047,
-      "uploadedDate": "2021-04-05T20:10:45.778Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/IoT_TT11_EGS_Library Tile Portrait_00442_1200x1600-2a938c9716c2e2e8af1daba7e184b393",
+      "md5": "2a938c9716c2e2e8af1daba7e184b393",
+      "size": 1056597,
+      "uploadedDate": "2021-05-03T20:21:24.008Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/IoT_TT10_EGS_Library Tile Portrait_222e36_1200x1600-01767731c51fdbfda5479578589de810",
-      "md5": "01767731c51fdbfda5479578589de810",
-      "size": 507047,
-      "uploadedDate": "2021-04-05T20:10:59.505Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/IoT_TT11_EGS_Library Tile Portrait_00442_1200x1600-2a938c9716c2e2e8af1daba7e184b393",
+      "md5": "2a938c9716c2e2e8af1daba7e184b393",
+      "size": 1056597,
+      "uploadedDate": "2021-05-03T20:21:39.197Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/IoT_TT10_EGS_Library Tile Portrait_222e36_1200x1600-01767731c51fdbfda5479578589de810",
-      "md5": "01767731c51fdbfda5479578589de810",
-      "size": 507047,
-      "uploadedDate": "2021-04-05T20:11:12.008Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/IoT_TT11_EGS_Library Tile Portrait_00442_1200x1600-2a938c9716c2e2e8af1daba7e184b393",
+      "md5": "2a938c9716c2e2e8af1daba7e184b393",
+      "size": 1056597,
+      "uploadedDate": "2021-05-03T20:21:49.542Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/IoT_TT10_EGS_Library Tile Landscape_222e36_2560x1440-d8cb06c02ce1a20c58514acdbd000ad2",
-      "md5": "d8cb06c02ce1a20c58514acdbd000ad2",
-      "size": 877058,
-      "uploadedDate": "2021-04-05T20:11:23.056Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/IoT_TT11_EGS_Library Tile Landscape_00442_2560x1440-1a72cc287947ac4e76076cc64d093894",
+      "md5": "1a72cc287947ac4e76076cc64d093894",
+      "size": 1960517,
+      "uploadedDate": "2021-05-03T20:22:10.949Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/IoT_TT10_EGS_Library Tile Portrait_222e36_1200x1600-01767731c51fdbfda5479578589de810",
-      "md5": "01767731c51fdbfda5479578589de810",
-      "size": 507047,
-      "uploadedDate": "2021-04-05T20:11:36.117Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/IoT_TT11_EGS_Library Tile Portrait_00442_1200x1600-2a938c9716c2e2e8af1daba7e184b393",
+      "md5": "2a938c9716c2e2e8af1daba7e184b393",
+      "size": 1056597,
+      "uploadedDate": "2021-05-03T20:22:19.260Z",
       "width": 1200,
       "height": 1600
     }
@@ -187,6 +187,6 @@
     }
   ],
   "catalogNs": {
-    "name": null
+    "name": "protea"
   }
 }

@@ -1,0 +1,160 @@
+{
+  "id": "8bb7b37036af456facd7d4cef7eff25c",
+  "namespace": "259368d69ebe47089e5debe23619cf92",
+  "title": "Siege Survival - Gloria Victis",
+  "description": "Siege Survival - Gloria Victis",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "siege-survival-gloria-victis",
+  "urlSlug": "siege-survival-gloria-victis",
+  "creationDate": "2021-03-02T15:49:06.475Z",
+  "lastModifiedDate": "2021-05-05T14:46:58.360Z",
+  "effectiveDate": "2099-02-01T00:00:00.000Z",
+  "viewableDate": "2021-05-05T15:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+    "name": "Koch Media"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "Simulation",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2021-02-10T17:33:03.717Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1080",
+      "name": "Survival",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2021-02-05T16:19:16.566Z",
+      "status": "ACTIVE",
+      "referenceCount": 11,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ravenscourt"
+    },
+    {
+      "key": "developerName",
+      "value": "Black Eye Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "siege-survival-gloria-victis"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SiegeSurvivalGloriaVictis_BlackEyeGames_S1_2560x1440-d76b32ade339f8084fd4c883826895b2",
+      "md5": "d76b32ade339f8084fd4c883826895b2",
+      "size": 744024,
+      "uploadedDate": "2021-04-21T22:57:40.346Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SiegeSurvivalGloriaVictis_BlackEyeGames_S2_1200x1600-98d796393f1362a21e86365767750ae3",
+      "md5": "98d796393f1362a21e86365767750ae3",
+      "size": 588687,
+      "uploadedDate": "2021-04-21T22:57:48.869Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SiegeSurvivalGloriaVictis_BlackEyeGames_S2_1200x1600-98d796393f1362a21e86365767750ae3",
+      "md5": "98d796393f1362a21e86365767750ae3",
+      "size": 588687,
+      "uploadedDate": "2021-04-21T22:57:57.360Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SiegeSurvivalGloriaVictis_BlackEyeGames_S2_1200x1600-98d796393f1362a21e86365767750ae3",
+      "md5": "98d796393f1362a21e86365767750ae3",
+      "size": 588687,
+      "uploadedDate": "2021-04-21T22:58:08.768Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SiegeSurvivalGloriaVictis_BlackEyeGames_S2_1200x1600-98d796393f1362a21e86365767750ae3",
+      "md5": "98d796393f1362a21e86365767750ae3",
+      "size": 588687,
+      "uploadedDate": "2021-04-21T22:58:27.645Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SiegeSurvivalGloriaVictis_BlackEyeGames_S1_2560x1440-d76b32ade339f8084fd4c883826895b2",
+      "md5": "d76b32ade339f8084fd4c883826895b2",
+      "size": 744024,
+      "uploadedDate": "2021-04-21T22:58:38.786Z",
+      "width": 2560,
+      "height": 1440
+    }
+  ],
+  "items": [
+    {
+      "id": "8a2f6c57452f482d9642f8a1afe9fe4c"
+    }
+  ],
+  "catalogNs": {
+    "name": "259368d69ebe47089e5debe23619cf92"
+  }
+}

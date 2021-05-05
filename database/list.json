@@ -4187,6 +4187,22 @@
     "[]"
   ],
   [
+    "121e478060374ce79454f27ec4bbae81",
+    "5df020ed021548be8647ee6bfe7857c9",
+    "Yakuza Empire",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "RockGame S.A.",
+    1613669507,
+    1620224582,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_YakuzaEmpire_RockGameSA_S2_1200x1600-f856aca1c565938df3ed28e22c45628f",
+    "yakuza-empire"
+  ],
+  [
     "122ce57331224c4987bfa677682e9992",
     "2b4079af75f0487798a504ca35952942",
     "A Monster's Expedition",
@@ -7945,6 +7961,21 @@
     1581975417,
     1596554419,
     "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Paladins_EGS_8000_Crystals_2560x1440-2560x1440-a428ae7596be5abf59313c6282845f78.jpg",
+    ""
+  ],
+  [
+    "21e17abf3d0f455fb1b0b8a02f6ea2e1",
+    "84c76746bce94effb8e1047fabfd7eb7",
+    "Exclusive Starter Pack",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Wargaming Group Limited",
+    1620054894,
+    1620224261,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/92047de7-e3ab-4077-9552-59272a102a64_1200x1600-c5ad32b3afb7214db76d88fa959a5934",
     ""
   ],
   [
@@ -22189,7 +22220,7 @@
     ],
     "Frontier Developments",
     1618264692,
-    1620140101,
+    1620158426,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EliteDangerousOdysseyDeluxeEdition_FrontierDevelopments_Bundles_S2_1200x1600-31ce747ea5f122d2664a98000c8c315f",
     ""
   ],
@@ -28816,7 +28847,7 @@
     ],
     "Curve Digital",
     1575390910,
-    1613663325,
+    1620150733,
     "https://cdn1.epicgames.com/4492ce99b4124b74a0bb83f78b3d70b8/offer/EGS_IronOakGames_ForTheKing_S4-510x680-7591bc93f2768be40c30f242fc986cd0.jpg",
     "for-the-king/home"
   ],
@@ -32385,6 +32416,22 @@
     1588120722,
     "https://cdn1.epicgames.com/undefined/offer/001_DETROIT_ICON-400x400-89235dc9bca813586e778f735e08364e-400x400-89235dc9bca813586e778f735e08364e.png",
     ""
+  ],
+  [
+    "8bb7b37036af456facd7d4cef7eff25c",
+    "259368d69ebe47089e5debe23619cf92",
+    "Siege Survival - Gloria Victis",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Koch Media",
+    1614700146,
+    1620226018,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SiegeSurvivalGloriaVictis_BlackEyeGames_S2_1200x1600-98d796393f1362a21e86365767750ae3",
+    "siege-survival-gloria-victis"
   ],
   [
     "8bc23f97d2c34480a9fd14b5995f7571",
@@ -39028,8 +39075,8 @@
     ],
     "Brace Yourself Games",
     1552886727,
-    1617731548,
-    "https://cdn1.epicgames.com/salesEvent/salesEvent/IoT_TT10_EGS_Library Tile Portrait_222e36_1200x1600-01767731c51fdbfda5479578589de810",
+    1620149032,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/IoT_TT11_EGS_Library Tile Portrait_00442_1200x1600-2a938c9716c2e2e8af1daba7e184b393",
     "industries-of-titan"
   ],
   [
