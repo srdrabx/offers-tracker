@@ -1,0 +1,184 @@
+{
+  "id": "9c78b08562af4ac4bffbdcaaa3020b49",
+  "namespace": "d469e82d91fe4516a00d6566c3d2f8f7",
+  "title": "Going Medieval",
+  "description": "Going Medieval",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "going-medieval",
+  "urlSlug": "bigoli-general-audience",
+  "creationDate": "2021-03-18T01:16:52.292Z",
+  "lastModifiedDate": "2021-05-06T13:24:55.398Z",
+  "effectiveDate": "2021-06-01T13:00:00.000Z",
+  "viewableDate": "2021-05-06T13:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-h3rhw2ntexmcgx44cv2pdje5bz3nqh",
+    "name": "The Irregular Corporation"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1233",
+      "name": "Base-Building",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:14.176Z",
+      "updated": "2021-02-05T16:11:41.048Z",
+      "status": "ACTIVE",
+      "referenceCount": 1,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "Strategy",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2021-02-10T17:35:11.878Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:52.671Z",
+      "updated": "2020-09-10T15:44:03.705Z",
+      "status": "ACTIVE",
+      "referenceCount": 0,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "The Irregular Corporation"
+    },
+    {
+      "key": "developerName",
+      "value": "Foxy Voxel"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "going-medieval"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GoingMedieval_FoxyVoxel_S1_2560x1440-68737e31d62a45ca633416f2984b339d",
+      "md5": "68737e31d62a45ca633416f2984b339d",
+      "size": 941940,
+      "uploadedDate": "2021-05-04T16:12:03.720Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GoingMedieval_FoxyVoxel_S2_1200x1600-2be78fec2b7260f1073859260f8e2e0d",
+      "md5": "2be78fec2b7260f1073859260f8e2e0d",
+      "size": 1005162,
+      "uploadedDate": "2021-05-04T16:12:11.165Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GoingMedieval_FoxyVoxel_S2_1200x1600-2be78fec2b7260f1073859260f8e2e0d",
+      "md5": "2be78fec2b7260f1073859260f8e2e0d",
+      "size": 1005162,
+      "uploadedDate": "2021-05-04T16:12:23.341Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GoingMedieval_FoxyVoxel_S2_1200x1600-2be78fec2b7260f1073859260f8e2e0d",
+      "md5": "2be78fec2b7260f1073859260f8e2e0d",
+      "size": 1005162,
+      "uploadedDate": "2021-05-04T16:12:31.824Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GoingMedieval_FoxyVoxel_S1_2560x1440-68737e31d62a45ca633416f2984b339d",
+      "md5": "68737e31d62a45ca633416f2984b339d",
+      "size": 941940,
+      "uploadedDate": "2021-05-04T16:12:59.465Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GoingMedieval_FoxyVoxel_S2_1200x1600-2be78fec2b7260f1073859260f8e2e0d",
+      "md5": "2be78fec2b7260f1073859260f8e2e0d",
+      "size": 1005162,
+      "uploadedDate": "2021-05-04T16:13:09.924Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "2fe162e43ca24c48bc20ed5690d69611"
+    }
+  ],
+  "catalogNs": {
+    "name": "d469e82d91fe4516a00d6566c3d2f8f7"
+  }
+}

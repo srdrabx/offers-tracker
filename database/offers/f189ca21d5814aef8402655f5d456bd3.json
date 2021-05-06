@@ -2,13 +2,13 @@
   "id": "f189ca21d5814aef8402655f5d456bd3",
   "namespace": "snapdragon",
   "title": "Metro Exodus",
-  "description": "Metro Exodus Standard Edition",
+  "description": "Metro Exodus",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": "metro-exodus",
   "urlSlug": "metro-exodus-standard-edition",
   "creationDate": "2019-04-11T13:42:35.697Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
+  "lastModifiedDate": "2021-05-06T15:03:13.637Z",
   "effectiveDate": "2019-04-01T09:39:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -179,76 +179,58 @@
   ],
   "keyImages": [
     {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/MetroExodus_tall-618x700-485ff4ae038c7eed3a7b359bcc9c677a.png",
-      "md5": "485ff4ae038c7eed3a7b359bcc9c677a",
-      "size": 273835,
-      "uploadedDate": "2019-03-27T16:32:03.594Z",
-      "width": 618,
-      "height": 700
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/Metro_wide-960x540-adf64091db625fb296881a2ea51a5e07.jpg",
-      "md5": "adf64091db625fb296881a2ea51a5e07",
-      "size": 183764,
-      "uploadedDate": "2019-03-27T16:32:12.020Z",
-      "width": 960,
-      "height": 540
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/ME_Logo-2850x1450-b14f454728dc4a768250d3bd6f6bb05f.png",
-      "md5": "b14f454728dc4a768250d3bd6f6bb05f",
-      "size": 605487,
-      "uploadedDate": "2020-03-16T16:02:40.740Z",
-      "width": 2850,
-      "height": 1450
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/MetroExodus-PCEnhancedEdition_S1_2560x1440-f3450613217ddaaedb9c3dfe99a265e6",
+      "md5": "f3450613217ddaaedb9c3dfe99a265e6",
+      "size": 493880,
+      "uploadedDate": "2021-05-05T22:31:42.604Z",
+      "width": 2560,
+      "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/MetroExodus_tall-618x700-485ff4ae038c7eed3a7b359bcc9c677a.png",
-      "md5": "485ff4ae038c7eed3a7b359bcc9c677a",
-      "size": 273835,
-      "uploadedDate": "2019-03-27T16:32:03.594Z",
-      "width": 618,
-      "height": 700
-    },
-    {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/snapdragon/item/MetroExodus_PrimaryPromo-2580x1450-0e5b7a55fb64f2b4ab1a46455a9293e0.jpg",
-      "md5": "0e5b7a55fb64f2b4ab1a46455a9293e0",
-      "size": 580337,
-      "uploadedDate": "2019-02-15T05:04:32.130Z",
-      "width": 2580,
-      "height": 1450
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/undefined/offer/MetroStandardCodeRedemption-330x440-f6c6f4a56befc8ebab8e9546a6b699cf.png",
-      "md5": "f6c6f4a56befc8ebab8e9546a6b699cf",
-      "size": 222029,
-      "uploadedDate": "2019-04-11T13:41:30.281Z",
-      "width": 330,
-      "height": 440
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/MetroExodus-PCEnhancedEdition_S2_1200x1600-64a550825c1427140460cc3a86cafdb5",
+      "md5": "64a550825c1427140460cc3a86cafdb5",
+      "size": 502700,
+      "uploadedDate": "2021-05-05T22:32:23.742Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/snapdragon/offer/ME_Standard_CodeRedemption-330x440-3105fa97f84942eb8b5b0d5a7fc41846.png",
-      "md5": "3105fa97f84942eb8b5b0d5a7fc41846",
-      "size": 117370,
-      "uploadedDate": "2019-04-24T14:09:31.555Z",
-      "width": 330,
-      "height": 440
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/MetroExodus-PCEnhancedEdition_S2_1200x1600-64a550825c1427140460cc3a86cafdb5",
+      "md5": "64a550825c1427140460cc3a86cafdb5",
+      "size": 502700,
+      "uploadedDate": "2021-05-05T22:32:31.754Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/snapdragon/offer/snapdragon_promo-1920x1080-7203c031c983ae6d0548d5ab9ab1ab6496feeef1.jpg",
-      "md5": "83e916a843aeb418c56793bd8fc5fac6",
-      "size": 336445,
-      "uploadedDate": "2020-02-12T09:41:44.790Z",
-      "width": 1920,
-      "height": 1080
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/MetroExodus-PCEnhancedEdition_S2_1200x1600-64a550825c1427140460cc3a86cafdb5",
+      "md5": "64a550825c1427140460cc3a86cafdb5",
+      "size": 502700,
+      "uploadedDate": "2021-05-05T22:32:48.434Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/MetroExodus-PCEnhancedEdition_S1_2560x1440-f3450613217ddaaedb9c3dfe99a265e6",
+      "md5": "f3450613217ddaaedb9c3dfe99a265e6",
+      "size": 493880,
+      "uploadedDate": "2021-05-05T22:33:16.895Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/MetroExodus-PCEnhancedEdition_S2_1200x1600-64a550825c1427140460cc3a86cafdb5",
+      "md5": "64a550825c1427140460cc3a86cafdb5",
+      "size": 502700,
+      "uploadedDate": "2021-05-05T22:33:23.477Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [

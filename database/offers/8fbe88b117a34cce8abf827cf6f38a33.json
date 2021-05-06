@@ -1,0 +1,58 @@
+{
+  "id": "8fbe88b117a34cce8abf827cf6f38a33",
+  "namespace": "ae51a606e31f409bac9e0216f3e757a2",
+  "title": "CamelGeneralAudience",
+  "description": "CamelGeneralAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "camelgeneralaudience",
+  "creationDate": "2021-05-05T18:27:48.520Z",
+  "lastModifiedDate": "2021-05-05T18:38:52.340Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-ze7grkplqlrzc92lepkjv4xpaj7gn8",
+    "name": "Another Indie Studio Limited"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "bc86889eecdc49739205f1e6ee907d8c"
+    }
+  ],
+  "catalogNs": {
+    "name": "ae51a606e31f409bac9e0216f3e757a2"
+  }
+}

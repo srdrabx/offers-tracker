@@ -8,7 +8,7 @@
   "productSlug": "idle-champions-of-the-forgotten-realms",
   "urlSlug": "banegeneralaudience",
   "creationDate": "2020-10-15T12:56:50.731Z",
-  "lastModifiedDate": "2021-04-29T16:34:31.609Z",
+  "lastModifiedDate": "2021-05-06T15:09:29.312Z",
   "effectiveDate": "2021-02-16T17:00:00.000Z",
   "viewableDate": "2021-02-16T17:00:00.000Z",
   "developer": null,
@@ -93,7 +93,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "[]"
+      "value": "KR"
     },
     {
       "key": "publisherName",
@@ -146,22 +146,22 @@
       "height": 1600
     },
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Landscape - Apr 29_2560x1440-557c79e2df74001427d21f75da99e87e",
-      "md5": "557c79e2df74001427d21f75da99e87e",
-      "size": 991471,
-      "uploadedDate": "2021-04-28T23:34:33.860Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Portrait - Apr 29_1200x1600-56f58126c419906790a9d6ae3754647c",
-      "md5": "56f58126c419906790a9d6ae3754647c",
-      "size": 1008287,
-      "uploadedDate": "2021-04-28T23:34:40.658Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23_1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23",
+      "md5": "c67f1998f4ed6ba79d9e5e71cfb30b23",
+      "size": 254582,
+      "uploadedDate": "2021-05-06T15:09:17.245Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S1-2560x1440-a890c6157dce97993be432cb8338cb79_2560x1440-a890c6157dce97993be432cb8338cb79",
+      "md5": "a890c6157dce97993be432cb8338cb79",
+      "size": 536899,
+      "uploadedDate": "2021-05-06T15:09:25.107Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
   "items": [
