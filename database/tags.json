@@ -335,18 +335,6 @@
     "referenceCount": 5,
     "comment": null
   },
-  "1183": {
-    "id": "1183",
-    "name": "Local Multiplayer",
-    "namespace": "epic",
-    "aliases": [],
-    "operator": null,
-    "created": "2019-06-20T11:59:49.408Z",
-    "updated": "2021-02-05T16:09:21.196Z",
-    "status": "ACTIVE",
-    "referenceCount": 1,
-    "comment": null
-  },
   "1185": {
     "id": "1185",
     "name": "FPS",
@@ -477,6 +465,18 @@
     "updated": "2020-07-31T02:48:15.977Z",
     "status": "ACTIVE",
     "referenceCount": 0,
+    "comment": null
+  },
+  "1230": {
+    "id": "1230",
+    "name": "CCG ",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T12:00:12.712Z",
+    "updated": "2019-06-20T12:00:12.712Z",
+    "status": "ACTIVE",
+    "referenceCount": null,
     "comment": null
   },
   "1233": {
@@ -825,18 +825,6 @@
     "updated": "2021-02-05T16:17:17.035Z",
     "status": "ACTIVE",
     "referenceCount": 8,
-    "comment": null
-  },
-  "1347": {
-    "id": "1347",
-    "name": "ALIENS",
-    "namespace": "epic",
-    "aliases": null,
-    "operator": null,
-    "created": "2019-06-20T12:01:10.791Z",
-    "updated": "2020-08-11T16:55:50.964Z",
-    "status": "ACTIVE",
-    "referenceCount": 0,
     "comment": null
   },
   "1349": {

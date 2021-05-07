@@ -2195,15 +2195,14 @@
     "Railway Empire - DLC Bundle",
     [
       "addons",
-      "games",
       "addons/durable",
       "applications"
     ],
     "Kalypso Media Group GmbH",
     1605194845,
-    1613057195,
+    1620399784,
     "https://cdn1.epicgames.com/93b333eb973b45b582f3bdf68dfc1dc9/offer/EGS_RailwayEmpireDLCBundle_GamingMindsStudios_Bundles_S2-1200x1600-65799b1ce0c274ec63f6db2641275d87.jpg",
-    "railway-empire/dlc-bundle"
+    ""
   ],
   [
     "09c6de9635ff4a1cade8bbf286889c8e",
@@ -2406,18 +2405,17 @@
   [
     "0a8f0276345c4d00915ec36ca9a546f1",
     "93b333eb973b45b582f3bdf68dfc1dc9",
-    "Railway Empire - The Great Lakes DLC",
+    "Railway Empire - The Great Lakes",
     [
       "addons",
-      "games",
       "addons/durable",
       "applications"
     ],
     "Kalypso Media Group GmbH",
     1592515828,
-    1599657171,
-    "https://cdn1.epicgames.com/93b333eb973b45b582f3bdf68dfc1dc9/offer/EGS_Mexico_KalypsoMedia_DLC_S2-1200x1600-b64aec4edd4a659dbe094b4ddf4e6629.jpg",
-    "railway-empire/the-great-lakes"
+    1620399784,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-thegreatlakes-gamingmindsstudios-dlc-s2-1200x1600-853211529_1200x1600-7ff5b1d11beda80236face1e35bae419",
+    ""
   ],
   [
     "0a95c042c7214cbfae40a791aefa31e7",
@@ -10482,6 +10480,19 @@
     ""
   ],
   [
+    "2ce438aa349042ad9d46c7a68f3d8825",
+    "7e011bb3fb724959b2a132aef9bf27fc",
+    "100 IAP",
+    [
+      "applications"
+    ],
+    "Stray Bombay Company",
+    1620320741,
+    1620321201,
+    "",
+    ""
+  ],
+  [
     "2ce469fbeacc4e7ba6e6d5c01c8093fb",
     "37ed871e17ab4466b4d5da28e9576ea6",
     "R-Type Final 2 Digital Deluxe Edition",
@@ -10913,18 +10924,17 @@
   [
     "2ee9765e917348f9aed11c753c370eda",
     "93b333eb973b45b582f3bdf68dfc1dc9",
-    "Railway Empire - Crossing the Andes DLC",
+    "Railway Empire - Crossing the Andes",
     [
       "addons",
-      "games",
       "addons/durable",
       "applications"
     ],
     "Kalypso Media Group GmbH",
     1592515919,
-    1599657264,
+    1620399784,
     "https://cdn1.epicgames.com/93b333eb973b45b582f3bdf68dfc1dc9/offer/EGS_CrossingtheAndes_GamingMindsStudios_DLC_S2-1200x1600-07e26b68864cf5773013bd13cf42d961.jpg",
-    "railway-empire/crossing-the-andes"
+    ""
   ],
   [
     "2ef01b1c93fe4ca185045cd16122cadd",
@@ -15650,6 +15660,22 @@
     ""
   ],
   [
+    "41d30a1df0474cc698d1c5f8e30feb1d",
+    "5f3c898b2a3244af99e9900e015717f8",
+    "Discord",
+    [
+      "software",
+      "software/edition",
+      "software/edition/base",
+      "applications"
+    ],
+    "Discord Inc",
+    1613436048,
+    1620322049,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-discord-discord-s2-1200x1600-7f26149140c8_1200x1600-14fff66a6835df9c5915cd015cd7fefb",
+    "discord"
+  ],
+  [
     "41dcdf10a8844d56901930ba20c98019",
     "493e9ad801e8487497fe7840cb8404bb",
     "Farming Simulator 19 - Rottne DLC",
@@ -15986,18 +16012,17 @@
   [
     "43d3a15f4ccb49019c6a5e2cd2a3f187",
     "93b333eb973b45b582f3bdf68dfc1dc9",
-    "Railway Empire - Mexico DLC",
+    "Railway Empire - Mexico",
     [
       "addons",
-      "games",
       "addons/durable",
       "applications"
     ],
     "Kalypso Media Group GmbH",
     1592515754,
-    1599657320,
+    1620399784,
     "https://cdn1.epicgames.com/93b333eb973b45b582f3bdf68dfc1dc9/offer/EGS_Mexico_KalypsoMedia_DLC_S2-1200x1600-b64aec4edd4a659dbe094b4ddf4e6629.jpg",
-    "railway-empire/mexico"
+    ""
   ],
   [
     "43eee339a8d54cf180a1e77ac4a70897",
@@ -16626,7 +16651,7 @@
     ],
     "Focus Home",
     1605913111,
-    1607643790,
+    1620338490,
     "https://cdn1.epicgames.com/5a2108f4db804040aaf44d139bd21bd1/offer/EGS_HoodOutlawsLgends_SumoDigital_S2-1200x1600-64596c1b059d13feb5630b7c796042c1.jpg",
     "hood-outlaws-and-legends"
   ],
@@ -22284,18 +22309,17 @@
   [
     "5e5016c12dfa4af0933ca220b1d62151",
     "93b333eb973b45b582f3bdf68dfc1dc9",
-    "Railway Empire Japan Audience",
+    "Railway Empire - Japan",
     [
       "addons",
-      "games",
       "addons/durable",
       "applications"
     ],
     "Kalypso Media Group GmbH",
     1605712321,
-    1605712355,
-    "",
-    "railway-empire/great-britain-and-ireland"
+    1620399862,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Japan_GamingMindsStudios_DLC_S2_1200x1600-b67070bea1d6a212153032f4488a5d3d",
+    ""
   ],
   [
     "5e597893462c48c7ab66c55de77e5c53",
@@ -24373,7 +24397,7 @@
     ],
     "Focus Home",
     1605913160,
-    1607643790,
+    1620338490,
     "https://cdn1.epicgames.com/5a2108f4db804040aaf44d139bd21bd1/offer/EGS_Year1Edition_SumoDigital_Editions_S2-1200x1600-392d4cefe07a87c8a28504ac581fca5f.jpg",
     "hood-outlaws-and-legends/year-one-edition"
   ],
@@ -26994,7 +27018,7 @@
     ],
     "Epic Dev Test Account",
     1592514055,
-    1599142407,
+    1620399784,
     "",
     ""
   ],
@@ -32343,6 +32367,19 @@
     ""
   ],
   [
+    "8b54d8b3200f4abab6dc1ba5902b54f6",
+    "7e011bb3fb724959b2a132aef9bf27fc",
+    "50 IAP",
+    [
+      "applications"
+    ],
+    "Stray Bombay Company",
+    1620320613,
+    1620321201,
+    "",
+    ""
+  ],
+  [
     "8b620ab6eaad4c6182d44f07830fd8f6",
     "5b325322a4c04b9e9e780b9a1e9b2d70",
     "Aztez",
@@ -36528,18 +36565,17 @@
   [
     "9bb878f8cc954b09a9bd67399208852a",
     "93b333eb973b45b582f3bdf68dfc1dc9",
-    "Railway Empire - Northern Europe DLC",
+    "Railway Empire - Northern Europe",
     [
       "addons",
-      "games",
       "addons/durable",
       "applications"
     ],
     "Kalypso Media Group GmbH",
     1592517335,
-    1599657200,
+    1620399784,
     "https://cdn1.epicgames.com/93b333eb973b45b582f3bdf68dfc1dc9/offer/EGS_NorthernEurope_GamingMindsStudios_DLC_S2-1200x1600-98a640ec2c451eff723ec2d7c737a5a7.jpg",
-    "railway-empire/northern-europe"
+    ""
   ],
   [
     "9bbd3a9db284483796c999d34b2f1d24",
@@ -41195,7 +41231,7 @@
     ],
     "Asmodee",
     1571344578,
-    1596163717,
+    1620332016,
     "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/offer/Diesel_productv2_ticket-to-ride_india_Mobile-Vertical-510x680-510x680-29e89c6db6d95db0a0db4dbedcf5980930898da3-510x680-956093d84b84dc5384293b9dd84c77a3.jpg",
     "ticket-to-ride/india"
   ],
@@ -41426,18 +41462,17 @@
   [
     "af32999d3aac46dcaf859f665355ec7f",
     "93b333eb973b45b582f3bdf68dfc1dc9",
-    "Railway Empire - Germany DLC",
+    "Railway Empire - Germany",
     [
       "addons",
-      "games",
       "addons/durable",
       "applications"
     ],
     "Kalypso Media Group GmbH",
     1592517247,
-    1599657141,
+    1620399784,
     "https://cdn1.epicgames.com/93b333eb973b45b582f3bdf68dfc1dc9/offer/EGS_Germany_GamingMindsStudios_DLC_S2-1200x1600-d3f12a64bbac484a23bc7eac28a3790e.jpg",
-    "railway-empire/germany"
+    ""
   ],
   [
     "af3e3706de3e462ba7d6d7f59dda5467",
@@ -45361,18 +45396,17 @@
   [
     "c11ab35a2c9d4ce485a579ea345edf66",
     "93b333eb973b45b582f3bdf68dfc1dc9",
-    "Railway Empire - Great Britain & Ireland DLC",
+    "Railway Empire - Great Britain & Ireland",
     [
       "addons",
-      "games",
       "addons/durable",
       "applications"
     ],
     "Kalypso Media Group GmbH",
     1592517200,
-    1599657290,
+    1620399784,
     "https://cdn1.epicgames.com/93b333eb973b45b582f3bdf68dfc1dc9/offer/EGS_GreatBritainIreland_GamingMindsStudios_DLC_S2-1200x1600-39ecd7efc53bf0d82c64d284c5ca878a.jpg",
-    "railway-empire/great-britain-and-ireland"
+    ""
   ],
   [
     "c12806e289d94b1180fde0221c13c70d",
@@ -57056,18 +57090,17 @@
   [
     "f2bf64312f2a4eec8abd3528f97963a9",
     "93b333eb973b45b582f3bdf68dfc1dc9",
-    "Railway Empire - Down Under DLC",
+    "Railway Empire - Down Under ",
     [
       "addons",
-      "games",
       "addons/durable",
       "applications"
     ],
     "Kalypso Media Group GmbH",
     1592517376,
-    1599657091,
+    1620399784,
     "https://cdn1.epicgames.com/93b333eb973b45b582f3bdf68dfc1dc9/offer/EGS_DownUnder_GamingMindsStudios_DLC_S2-1200x1600-b0437559684598a261c726a56114692d.jpg",
-    "railway-empire/down-under"
+    ""
   ],
   [
     "f2c9d2db42e045c089c0a33b7989c944",
@@ -57617,7 +57650,7 @@
     ],
     "Kalypso Media Group GmbH",
     1592514055,
-    1613057165,
+    1620399784,
     "https://cdn1.epicgames.com/93b333eb973b45b582f3bdf68dfc1dc9/offer/EGS_RailwayEmpire_GamingMindsStudios_S2-1200x1600-aa3f6d77c91bd7801de2f530ca7faca6.jpg",
     "railway-empire/home"
   ],
@@ -58172,18 +58205,17 @@
   [
     "f8470811788e4f9792ac6590781fec8a",
     "93b333eb973b45b582f3bdf68dfc1dc9",
-    "Railway Empire - France DLC",
+    "Railway Empire - France",
     [
       "addons",
-      "games",
       "addons/durable",
       "applications"
     ],
     "Kalypso Media Group GmbH",
     1592517297,
-    1599657233,
+    1620399784,
     "https://cdn1.epicgames.com/93b333eb973b45b582f3bdf68dfc1dc9/offer/EGS_France_GamingMindsStudios_DLC_S2-1200x1600-15f1f5df3b646b63aaf33b162bfb83c4.jpg",
-    "railway-empire/france"
+    ""
   ],
   [
     "f84e7a9814dc4e5fa70a6b11a91afde8",

@@ -1,14 +1,14 @@
 {
   "id": "f2bf64312f2a4eec8abd3528f97963a9",
   "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
-  "title": "Railway Empire - Down Under DLC",
-  "description": "Railway Empire - Down Under DLC",
-  "longDescription": null,
+  "title": "Railway Empire - Down Under ",
+  "description": "In the Railway Empire “Down Under” DLC, it is up to you to tame the unforgiving outback and expand your railway network across its wild terrain and beyond. Are you ready to face the sun-scorched landscape of Australia’s Red Centre?",
+  "longDescription": "During the first half of the 19th Century, the colonial territories of Australia are sparsely populated and consist primarily of coastal cities and a few smaller farming settlements in the remote outback. However, a series of events is set to spark an industrial revolution, one that will usher in an era of change for Australia and secure a lucrative future. In the Railway Empire “Down Under” DLC, it is up to you to tame the unforgiving outback and expand your railway network across its wild terrain and beyond. Are you ready to face the sun-scorched landscape of Australia’s Red Centre?\n\n# Features\n\n• New scenario: “Pioneering spirit” (1830-1930)\n• Map expansion: “Down Under” (available in Free Game and Sandbox modes)\n• 3 new historical engines: Heisler (0-8-0), C30 (4-6-0) and Class S (4-6-2)\n• New tradeable goods (eg. seafood, Rail-O-Mite and canned beer) and 52 new cities to discover\n• New music tracks, reworked city buildings and unique mission structures (eg. Sydney Harbour Bridge)\n• New Settlement feature unique to the “Down Under” map: on pre-determined locations, players can now establish new cities and this way arrange the economic system to their liking",
   "status": "ACTIVE",
-  "productSlug": "railway-empire/down-under",
-  "urlSlug": "persiandlc8audience",
+  "productSlug": null,
+  "urlSlug": "railway-empire--down-under",
   "creationDate": "2020-06-18T21:56:16.693Z",
-  "lastModifiedDate": "2020-09-09T13:11:31.961Z",
+  "lastModifiedDate": "2021-05-07T15:03:04.541Z",
   "effectiveDate": "2020-09-10T15:00:00.000Z",
   "viewableDate": "2020-09-10T15:00:00.000Z",
   "developer": null,
@@ -26,9 +26,6 @@
   "categories": [
     {
       "path": "addons"
-    },
-    {
-      "path": "games"
     },
     {
       "path": "addons/durable"
@@ -123,10 +120,6 @@
     {
       "key": "developerName",
       "value": "Gaming Minds Studios"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "railway-empire/down-under"
     }
   ],
   "keyImages": [
@@ -183,6 +176,15 @@
       "uploadedDate": "2020-08-27T16:29:37.223Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-downunder-gamingmindsstudios-dlc-ic1-200x128-853604243_200x128-eadb90a1dd9c513a8d78780aa1e3e3d7",
+      "md5": "eadb90a1dd9c513a8d78780aa1e3e3d7",
+      "size": 12134,
+      "uploadedDate": "2021-04-22T22:53:21.623Z",
+      "width": 200,
+      "height": 128
     }
   ],
   "items": [

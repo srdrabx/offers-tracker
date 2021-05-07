@@ -1,14 +1,14 @@
 {
   "id": "f8470811788e4f9792ac6590781fec8a",
   "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
-  "title": "Railway Empire - France DLC",
-  "description": "Railway Empire - France DLC",
-  "longDescription": null,
+  "title": "Railway Empire - France",
+  "description": "In the wake of Emperor Napoleon III’s exile, the French monarchy has collapsed for the second time, and the Third Republic has taken its place. In the Railway Empire – France DLC you will decide your country’s industrial future.",
+  "longDescription": "In the wake of Emperor Napoleon III’s exile, the French monarchy has collapsed for the second time, and the Third Republic has taken its place. In the Railway Empire – France DLC you will decide your country’s industrial future.\n\n# Features\n\n• New scenario – Into a new time (1874-1890)\n• Map expansion: France (available in Free Game and Sandbox modes)\n• 10 historical engines such as the Coupe Vent (4-4-0) and Forquenot (2-4-2)\n• More than 12 new tradeable goods (e.g. wine and soft cheese) and 31 new cities \n• ‘Concession’ feature: The map is divided into sections. Buy concessions to gain access to new building grounds (also available on the full North American map)\n• New songs and updated characters",
   "status": "ACTIVE",
-  "productSlug": "railway-empire/france",
-  "urlSlug": "persiandlc6audience",
+  "productSlug": null,
+  "urlSlug": "railway-empire--france",
   "creationDate": "2020-06-18T21:54:57.110Z",
-  "lastModifiedDate": "2020-09-09T13:13:53.567Z",
+  "lastModifiedDate": "2021-05-07T15:03:04.595Z",
   "effectiveDate": "2020-09-10T15:00:00.000Z",
   "viewableDate": "2020-09-10T15:00:00.000Z",
   "developer": null,
@@ -26,9 +26,6 @@
   "categories": [
     {
       "path": "addons"
-    },
-    {
-      "path": "games"
     },
     {
       "path": "addons/durable"
@@ -135,10 +132,6 @@
     {
       "key": "developerName",
       "value": "Gaming Minds Studios"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "railway-empire/france"
     }
   ],
   "keyImages": [
@@ -195,6 +188,15 @@
       "uploadedDate": "2020-08-27T16:22:16.827Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-france-gamingmindsstudios-dlc-ic1-200x115-853415869_200x115-d98a1aaea46eb596a7f45c671e2e7220",
+      "md5": "d98a1aaea46eb596a7f45c671e2e7220",
+      "size": 10762,
+      "uploadedDate": "2021-04-22T23:33:51.183Z",
+      "width": 200,
+      "height": 115
     }
   ],
   "items": [
