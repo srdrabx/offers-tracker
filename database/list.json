@@ -22317,7 +22317,7 @@
     ],
     "Kalypso Media Group GmbH",
     1605712321,
-    1620399862,
+    1620408843,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Japan_GamingMindsStudios_DLC_S2_1200x1600-b67070bea1d6a212153032f4488a5d3d",
     ""
   ],
@@ -55712,11 +55712,13 @@
     [
       "freegames",
       "games",
+      "games/edition/base",
+      "games/edition",
       "applications"
     ],
     "Mi'pu'mi Games GmbH",
     1618611195,
-    1620310109,
+    1620407514,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheLionsSong_MipumiGames_S2_1200x1600-7f75126e11b9d6f4265053ad128e8a3a",
     "the-lions-song"
   ],

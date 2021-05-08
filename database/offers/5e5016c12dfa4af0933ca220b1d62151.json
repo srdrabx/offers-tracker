@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "railway-empire--japan",
   "creationDate": "2020-11-18T15:12:01.010Z",
-  "lastModifiedDate": "2021-05-07T15:04:22.387Z",
+  "lastModifiedDate": "2021-05-07T17:34:03.699Z",
   "effectiveDate": "2021-05-07T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -94,33 +94,6 @@
       "uploadedDate": "2021-04-22T22:00:39.209Z",
       "width": 200,
       "height": 134
-    },
-    {
-      "type": "GalleryImage",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Japan_GamingMindsStudios_DLC_G1A_00_1920x1080-62802cb4dbf6c6720011dfff4092ef56",
-      "md5": "62802cb4dbf6c6720011dfff4092ef56",
-      "size": 293207,
-      "uploadedDate": "2021-04-22T22:00:58.036Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "GalleryImage",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Japan_GamingMindsStudios_DLC_G1A_01_1920x1080-eccdfe6d835f25e5d0c4a3c8cb286a6b",
-      "md5": "eccdfe6d835f25e5d0c4a3c8cb286a6b",
-      "size": 244022,
-      "uploadedDate": "2021-04-22T22:04:17.244Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "GalleryImage",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Japan_GamingMindsStudios_DLC_G1A_02_1920x1080-6c1b09b9c5ab57738f0fd99c2f7ff7e7",
-      "md5": "6c1b09b9c5ab57738f0fd99c2f7ff7e7",
-      "size": 365291,
-      "uploadedDate": "2021-04-22T22:04:31.389Z",
-      "width": 1920,
-      "height": 1080
     },
     {
       "type": "DieselStoreFrontWide",
