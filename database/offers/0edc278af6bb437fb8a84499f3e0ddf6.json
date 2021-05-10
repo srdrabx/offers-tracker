@@ -1,0 +1,65 @@
+{
+  "id": "0edc278af6bb437fb8a84499f3e0ddf6",
+  "namespace": "newt",
+  "title": "Spellbreak - DLC01",
+  "description": "Spellbreak is a multiplayer action-spellcasting game where you unleash your inner battlemage. Master elemental magic to fit your playstyle and cast powerful spell combinations to dominate other players across the Hollow Lands.",
+  "longDescription": "",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "spellbreak--pack",
+  "creationDate": "2021-05-10T15:38:18.217Z",
+  "lastModifiedDate": "2021-05-10T15:38:18.217Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+    "name": "Proletariat, Inc."
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Proletariat, Inc."
+    },
+    {
+      "key": "developerName",
+      "value": "Proletariat, Inc."
+    },
+    {
+      "key": "SupportedPlatforms",
+      "value": "Windows"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/newt/item/ESRB_Spellbreak-842x404-fce4fa7233ed80170a8e36079d1e1bde.png",
+      "md5": "fce4fa7233ed80170a8e36079d1e1bde",
+      "size": 51194,
+      "uploadedDate": "2019-04-23T19:23:19.054Z",
+      "width": 842,
+      "height": 404
+    }
+  ],
+  "items": [
+    {
+      "id": "7859223e5e70471988b1f8f2e8178d62"
+    }
+  ],
+  "catalogNs": {
+    "name": null
+  }
+}
