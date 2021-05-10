@@ -212,6 +212,6 @@
     }
   ],
   "catalogNs": {
-    "name": "starfish"
+    "name": null
   }
 }
