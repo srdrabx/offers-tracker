@@ -2,13 +2,13 @@
   "id": "69e2ddf3fbc640b48de9bfabf29f3cbb",
   "namespace": "ed55aa5edc5941de92fd7f64de415793",
   "title": "HITMAN 3 - Free Starter Pack",
-  "description": "Become Agent 47 and experience the start of the World of Assassination trilogy for FREE. Begin your journey as an initiate and meet your handler at the training facility to become an Agent of the ICA. \n\nIncludes two locations:\nICA Facility\nHawke's Bay",
-  "longDescription": "Become Agent 47 and experience the start of the World of Assassination trilogy for FREE. Begin your journey as an initiate and meet your handler at the training facility to become an Agent of the ICA. Now, you're ready for action.\n\nAlready completed training? Use the HITMAN 3 Free Starter Pack to import all locations that you can already access in HITMAN 2 and play them with the new features and improvements from HITMAN 3\n\nIncludes two locations:\nICA Facility\nHawke's Bay\n\nYou are required to sign up for a free IOI Account and receive updates from IO Interactive to access some content.",
+  "description": "Become Agent 47 and experience the start of the World of Assassination trilogy for FREE. Begin your journey as an initiate and meet your handler at the training facility to become an Agent of the ICA. Now, you're ready for action.",
+  "longDescription": "Become Agent 47 and experience the start of the World of Assassination trilogy for FREE. Begin your journey as an initiate and meet your handler at the training facility to become an Agent of the ICA. Now, you're ready for action.\n\nAlready completed training? Use the HITMAN 3 Free Starter Pack to import all locations that you can already access in HITMAN 2 and play them with the new features and improvements from HITMAN 3, including updated lighting effects, animations and Agent 47's new camera item. \n\nYou are required to sign up for a free IOI Account and receive updates from IO Interactive to access some content.",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "hitman-3--free-starter-pack",
   "creationDate": "2021-02-05T05:12:59.868Z",
-  "lastModifiedDate": "2021-04-26T17:23:20.894Z",
+  "lastModifiedDate": "2021-05-10T12:59:45.906Z",
   "effectiveDate": "2021-03-30T13:00:00.000Z",
   "viewableDate": "2021-03-30T13:00:00.000Z",
   "developer": null,
@@ -159,6 +159,6 @@
     }
   ],
   "catalogNs": {
-    "name": "ed55aa5edc5941de92fd7f64de415793"
+    "name": null
   }
 }
