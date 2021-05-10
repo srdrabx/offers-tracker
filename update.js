@@ -85,7 +85,7 @@ class Main {
           }
         }
         titles[offer.id] = offer.title;
-        (offer.tags || []).filter(tag => tag).forEach(tag => tags = tag);
+        (offer.tags || []).filter(tag => tag).forEach(tag => tags[] = tag);
         const thumbnailImage = Array.isArray(offer.keyImages) && offer.keyImages.find(img => img.type === 'Thumbnail');
         list.push([
           offer.id,
