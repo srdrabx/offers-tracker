@@ -70,7 +70,7 @@ class Main {
     const namespaces = {};
     const titles = {};
     const list = [];
-    const tags = {};
+    const tags = [];
     
     const offersPath = `${this.databasePath}/offers`;
     Fs.readdirSync(offersPath).forEach((fileName) => {
@@ -85,7 +85,7 @@ class Main {
           }
         }
         titles[offer.id] = offer.title;
-        (offer.tags || []).filter(tag => tag).forEach(tag => tags[tags] = tag);
+        (offer.tags || []).filter(tag => tag).forEach(tag => tag);
         const thumbnailImage = Array.isArray(offer.keyImages) && offer.keyImages.find(img => img.type === 'Thumbnail');
         list.push([
           offer.id,
