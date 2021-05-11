@@ -12824,8 +12824,8 @@
     ],
     "Hi-Rez Studios",
     1565990547,
-    1616684629,
-    "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo-EGS-Kestrel-Boxart-PortraitProductImage-1200x1600-1200x1600-f9df422de636cc3a1a8de10ace9f1a1c.jpg",
+    1620731634,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/RoCo-EGS-Season2MackIllustration-Logo-PortraitProductImage-1200x1600_1200x1600-924225d74ad7de4e993e7e5e86ec6581",
     "rogue-company/home"
   ],
   [
@@ -26446,6 +26446,22 @@
     ""
   ],
   [
+    "70a1dc058ae0450db85d1e891870b826",
+    "ae248f67a46f47a6bcf8a45b2b4fdd10",
+    "Warhammer 40000: Battlesector",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Slitherine Software UK Ltd.",
+    1619814592,
+    1620668982,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Warhammer40000Battlesector_BlackLabGames_S4_1200x1600-20cf7f25355280a09140260d5fc27ecd",
+    "warhammer-40000-battlesector"
+  ],
+  [
     "70b2243e8ca24d6f98c52b070f6181dc",
     "epic",
     "Corruption 2029",
@@ -30199,8 +30215,8 @@
     ],
     "Hi-Rez Studios",
     1610398101,
-    1617031619,
-    "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo-EGS-Year1DLC-Portrait_Offer_1200x1600-1200x1600-2d7c98050fcb25474e0bbd006fd47aab.jpg",
+    1620731242,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/RoCo_EGS_Year1S2_Mack_Portrait_Offer_1200x1600_1200x1600-358fe27e55dc9f434b255629196890f4",
     ""
   ],
   [
@@ -43558,7 +43574,7 @@
     ],
     "Focus Home",
     1603398657,
-    1620658292,
+    1620681379,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HoodOutlawsLegends_SumoDigital_S2_1200x1600-64596c1b059d13feb5630b7c796042c1",
     "hood-outlaws-and-legends"
   ],
@@ -46476,7 +46492,7 @@
     ],
     "Game Mechanic Studios Noho",
     1594842794,
-    1597073453,
+    1620670193,
     "https://cdn1.epicgames.com/6fa08ca4ba92438495dfec53fb88118e/offer/EGS_WizardsWandofEpicosity_GameMechanicStudios_S2-1200x1600-1f0bf5ed714355e97f8327fc72fbbd73.jpg",
     "wizards-wand-of-epicosity"
   ],
@@ -51968,6 +51984,19 @@
     ""
   ],
   [
+    "ddb949054e164da19be4ca0882d3bd85",
+    "0ffb7cf5cff64cd0a621222a8e969c28",
+    "Jackfruit TEST DLC01 ",
+    [
+      "applications"
+    ],
+    "Improbable Worlds Limited",
+    1620665635,
+    1620665983,
+    "",
+    ""
+  ],
+  [
     "ddbac5b8afd64e36a63d6904e0ef7e41",
     "f3720f53cccb4a20841a392a8ea0457f",
     "AER Memories of Old",
@@ -54632,6 +54661,21 @@
     1586972929,
     1594306676,
     "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
+    ""
+  ],
+  [
+    "e93bcbc5387845f5b8a39ff2bd529261",
+    "933ada2ec45e4184ae840d64c99e0ba9",
+    "Rogue Company: Season Two Starter Pack",
+    [
+      "addons",
+      "addons/consumable",
+      "applications"
+    ],
+    "Hi-Rez Studios",
+    1617228657,
+    1620732194,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RogueCompanySeasonTwoStarterPack_FirstWatchGames_AddOn_S2_1200x1600-ce23337a1e7c36a1d0faae33ea1fee17",
     ""
   ],
   [

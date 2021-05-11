@@ -2,13 +2,13 @@
   "id": "81235ab8504f4ab7b879da358a141c76",
   "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
   "title": "Rogue Company: Year 1 Pass",
-  "description": "Gear up for Year 1 of Rogue Company with the Year 1 Pass. Unlock Kestrel immediately and 7 more upcoming Year 1 Rogues throughout Rogue Company Year 1.",
-  "longDescription": "Includes:\n- Year 1 Pass: Kestrel + 7 Upcoming Year 1 Rogues\n- 500 Rogue Bucks\n- North Star Phantom Legendary Outfit\n- Iced Out Primary Weapon Wrap\n- Iced Out Secondary Weapon Wrap\n- Iced Out Melee Wrap\n- Jackal Avatar\n- Jackal Banner\n- Jackal Border",
+  "description": "Gear up for Year 1 of Rogue Company with the Year 1 Pass. Unlock Kestrel, Seeker, and Mack immediately, then unlock 5 more upcoming Year 1 Rogues throughout Rogue Company Year 1.",
+  "longDescription": "Includes:\n- Year 1 Pass: Kestrel. Seeker, Mack, and 5 Upcoming Year 1 Rogues\n- 500 Rogue Bucks\n- North Star Phantom Legendary Outfit\n- Iced Out Primary, Secondary, and Melee Weapon Wraps\n- Jackal Border, Banner, and Avatar",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "rogue-company--year-one-pass",
   "creationDate": "2021-01-11T20:48:21.383Z",
-  "lastModifiedDate": "2021-03-29T15:26:59.198Z",
+  "lastModifiedDate": "2021-05-11T11:07:22.795Z",
   "effectiveDate": "2021-02-03T12:00:00.000Z",
   "viewableDate": "2021-02-03T12:00:00.000Z",
   "developer": null,
@@ -49,37 +49,37 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo-EGS-Year1DLC-LandscapeOfferImage-2560x1440-2560x1440-c895feec7de03c5172346a95515a324b.jpg",
-      "md5": "c895feec7de03c5172346a95515a324b",
-      "size": 381207,
-      "uploadedDate": "2021-02-01T21:20:20.168Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/RoCo_EGS_Year1S2_Mack_LandscapeOfferImage_2560x1440_2560x1440-26bef5d5405715f9b5ec060652a15615",
+      "md5": "26bef5d5405715f9b5ec060652a15615",
+      "size": 313107,
+      "uploadedDate": "2021-05-06T23:34:57.417Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo-EGS-Year1DLC-Portrait_Offer_1200x1600-1200x1600-2d7c98050fcb25474e0bbd006fd47aab.jpg",
-      "md5": "2d7c98050fcb25474e0bbd006fd47aab",
-      "size": 222391,
-      "uploadedDate": "2021-02-01T21:20:29.159Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo-EGS-Year1DLC-Portrait_Offer_1200x1600-1200x1600-2d7c98050fcb25474e0bbd006fd47aab.jpg",
-      "md5": "2d7c98050fcb25474e0bbd006fd47aab",
-      "size": 222391,
-      "uploadedDate": "2021-02-01T21:21:30.218Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/RoCo_EGS_Year1S2_Mack_Portrait_Offer_1200x1600_1200x1600-358fe27e55dc9f434b255629196890f4",
+      "md5": "358fe27e55dc9f434b255629196890f4",
+      "size": 979255,
+      "uploadedDate": "2021-05-06T23:35:00.211Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo-EGS-Year1DLC-Portrait_Offer_1200x1600-1200x1600-2d7c98050fcb25474e0bbd006fd47aab.jpg",
-      "md5": "2d7c98050fcb25474e0bbd006fd47aab",
-      "size": 222391,
-      "uploadedDate": "2021-02-01T21:21:34.051Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/RoCo_EGS_Year1S2_Mack_Portrait_Offer_1200x1600_1200x1600-358fe27e55dc9f434b255629196890f4",
+      "md5": "358fe27e55dc9f434b255629196890f4",
+      "size": 979255,
+      "uploadedDate": "2021-05-06T23:35:02.873Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/RoCo_EGS_Year1S2_Mack_Portrait_Offer_1200x1600_1200x1600-358fe27e55dc9f434b255629196890f4",
+      "md5": "358fe27e55dc9f434b255629196890f4",
+      "size": 979255,
+      "uploadedDate": "2021-05-06T23:35:05.710Z",
       "width": 1200,
       "height": 1600
     }
@@ -93,6 +93,6 @@
     }
   ],
   "catalogNs": {
-    "name": null
+    "name": "933ada2ec45e4184ae840d64c99e0ba9"
   }
 }

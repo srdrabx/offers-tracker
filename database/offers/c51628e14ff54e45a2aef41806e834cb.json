@@ -8,7 +8,7 @@
   "productSlug": "wizards-wand-of-epicosity",
   "urlSlug": "wizards-wand-of-epicosity",
   "creationDate": "2020-07-15T19:53:14.999Z",
-  "lastModifiedDate": "2020-08-10T15:30:53.252Z",
+  "lastModifiedDate": "2021-05-10T18:09:53.703Z",
   "effectiveDate": "2020-08-04T05:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -211,6 +211,6 @@
     }
   ],
   "catalogNs": {
-    "name": null
+    "name": "6fa08ca4ba92438495dfec53fb88118e"
   }
 }

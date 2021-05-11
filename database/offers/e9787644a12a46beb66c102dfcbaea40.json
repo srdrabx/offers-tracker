@@ -35,7 +35,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "14944",
+      "name": "The Showcase Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-02-04T17:51:00.530Z",
+      "updated": "2021-02-25T16:37:32.464Z",
+      "status": "ACTIVE",
+      "referenceCount": 366,
+      "comment": ""
+    },
     {
       "id": "14346",
       "name": "Holiday Sale 2020",
@@ -59,8 +70,7 @@
       "status": "ACTIVE",
       "referenceCount": 618,
       "comment": ""
-    },
-    null
+    }
   ],
   "customAttributes": [
     {
@@ -121,6 +131,6 @@
     }
   ],
   "catalogNs": {
-    "name": null
+    "name": "400347196e674de89c23cc2a7f2121db"
   }
 }

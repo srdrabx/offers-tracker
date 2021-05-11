@@ -8,7 +8,7 @@
   "productSlug": "rogue-company/home",
   "urlSlug": "rogue-company",
   "creationDate": "2019-08-16T21:22:27.582Z",
-  "lastModifiedDate": "2021-03-25T15:03:49.335Z",
+  "lastModifiedDate": "2021-05-11T11:13:54.425Z",
   "effectiveDate": "2020-09-30T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -50,8 +50,30 @@
       "referenceCount": 27,
       "comment": null
     },
-    null,
-    null,
+    {
+      "id": "1203",
+      "name": "Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2021-02-10T17:35:33.537Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1141",
+      "name": "Free to Play",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:28.688Z",
+      "updated": "2021-02-05T16:15:57.293Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    },
     {
       "id": "1210",
       "name": "Shooter",
@@ -87,9 +109,7 @@
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
-    },
-    null,
-    null
+    }
   ],
   "customAttributes": [
     {
@@ -107,56 +127,56 @@
   ],
   "keyImages": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo-EGS-Kestrel-Boxart-LandscapeProductImage-2560x1440-2560x1440-5a1d53a02bebe1d0b1fb9295675f6492.jpg",
-      "md5": "5a1d53a02bebe1d0b1fb9295675f6492",
-      "size": 290837,
-      "uploadedDate": "2021-02-02T01:12:20.486Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo-EGS-Kestrel-Boxart-PortraitProductImage-1200x1600-1200x1600-f9df422de636cc3a1a8de10ace9f1a1c.jpg",
-      "md5": "f9df422de636cc3a1a8de10ace9f1a1c",
-      "size": 190292,
-      "uploadedDate": "2021-02-02T01:12:25.288Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo-EGS-Kestrel-Boxart-LandscapeProductImage-2560x1440-2560x1440-5a1d53a02bebe1d0b1fb9295675f6492.jpg",
-      "md5": "5a1d53a02bebe1d0b1fb9295675f6492",
-      "size": 290837,
-      "uploadedDate": "2021-02-02T01:12:35.822Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/RoCo-EGS-Season2MackIllustration-Logo-LandscapeProductImage-2560x1440_2560x1440-d3bee153fc2d8ebc37f8b258ca0ef51b",
+      "md5": "d3bee153fc2d8ebc37f8b258ca0ef51b",
+      "size": 345754,
+      "uploadedDate": "2021-05-06T23:26:13.324Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo-EGS-Kestrel-Boxart-PortraitProductImage-1200x1600-1200x1600-f9df422de636cc3a1a8de10ace9f1a1c.jpg",
-      "md5": "f9df422de636cc3a1a8de10ace9f1a1c",
-      "size": 190292,
-      "uploadedDate": "2021-02-02T01:12:40.356Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/RoCo-EGS-Season2MackIllustration-Logo-PortraitProductImage-1200x1600_1200x1600-924225d74ad7de4e993e7e5e86ec6581",
+      "md5": "924225d74ad7de4e993e7e5e86ec6581",
+      "size": 168828,
+      "uploadedDate": "2021-05-06T23:26:16.670Z",
       "width": 1200,
       "height": 1600
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo-EGS-Kestrel-Boxart-PortraitProductImage-1200x1600-1200x1600-f9df422de636cc3a1a8de10ace9f1a1c.jpg",
-      "md5": "f9df422de636cc3a1a8de10ace9f1a1c",
-      "size": 190292,
-      "uploadedDate": "2021-02-02T01:12:52.940Z",
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/RoCo-EGS-Season2MackIllustration-Logo-LandscapeProductImage-2560x1440_2560x1440-d3bee153fc2d8ebc37f8b258ca0ef51b",
+      "md5": "d3bee153fc2d8ebc37f8b258ca0ef51b",
+      "size": 345754,
+      "uploadedDate": "2021-05-06T23:26:20.078Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/RoCo-EGS-Season2MackIllustration-Logo-PortraitProductImage-1200x1600_1200x1600-924225d74ad7de4e993e7e5e86ec6581",
+      "md5": "924225d74ad7de4e993e7e5e86ec6581",
+      "size": 168828,
+      "uploadedDate": "2021-05-06T23:26:22.371Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo-EGS-Kestrel-Boxart-PortraitProductImage-1200x1600-1200x1600-f9df422de636cc3a1a8de10ace9f1a1c.jpg",
-      "md5": "f9df422de636cc3a1a8de10ace9f1a1c",
-      "size": 190292,
-      "uploadedDate": "2021-02-02T01:12:56.927Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/RoCo-EGS-Season2MackIllustration-Logo-PortraitProductImage-1200x1600_1200x1600-924225d74ad7de4e993e7e5e86ec6581",
+      "md5": "924225d74ad7de4e993e7e5e86ec6581",
+      "size": 168828,
+      "uploadedDate": "2021-05-06T23:26:24.988Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/RoCo-EGS-Season2MackIllustration-Logo-PortraitProductImage-1200x1600_1200x1600-924225d74ad7de4e993e7e5e86ec6581",
+      "md5": "924225d74ad7de4e993e7e5e86ec6581",
+      "size": 168828,
+      "uploadedDate": "2021-05-06T23:26:27.212Z",
       "width": 1200,
       "height": 1600
     }
@@ -167,6 +187,6 @@
     }
   ],
   "catalogNs": {
-    "name": null
+    "name": "933ada2ec45e4184ae840d64c99e0ba9"
   }
 }
