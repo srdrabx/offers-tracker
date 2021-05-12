@@ -1,0 +1,148 @@
+{
+  "id": "cc1ba126ab434807a37e1d8f633657a0",
+  "namespace": "4567febc632545eca5821f4458ba7830",
+  "title": "Assassin’s Creed® Valhalla + Immortals Fenyx Rising™ Bundle",
+  "description": "Assassin’s Creed® Valhalla + Immortals Fenyx Rising™ Bundle",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "assassins-creed-valhalla-immortals-fenyx-rising-bundle",
+  "urlSlug": "acvifr-general-audience",
+  "creationDate": "2021-05-05T15:56:43.628Z",
+  "lastModifiedDate": "2021-05-12T16:20:58.372Z",
+  "effectiveDate": "2021-05-12T16:00:00.000Z",
+  "viewableDate": "2021-05-12T16:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "bundles"
+    },
+    {
+      "path": "bundles/games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft Entertainment"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft Entertainment"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "assassins-creed-valhalla-immortals-fenyx-rising-bundle"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_ACV_IFR_BUNDLE _EPIC_Store Landscape_2560x1440_UK_2560x1440-5dcb172fa81a4037537f38d533bc0eb6",
+      "md5": "5dcb172fa81a4037537f38d533bc0eb6",
+      "size": 1521196,
+      "uploadedDate": "2021-05-05T21:51:05.009Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_ACV_IFR_BUNDLE _EPIC_Store Portrait_1200x1600_UK_1200x1600-79db0f62bd81c323dcacf4a3eed6df4a",
+      "md5": "79db0f62bd81c323dcacf4a3eed6df4a",
+      "size": 862027,
+      "uploadedDate": "2021-05-05T21:51:21.228Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_ACV_IFR_BUNDLE _EPIC_Store Portrait_1200x1600_UK_1200x1600-79db0f62bd81c323dcacf4a3eed6df4a",
+      "md5": "79db0f62bd81c323dcacf4a3eed6df4a",
+      "size": 862027,
+      "uploadedDate": "2021-05-05T21:51:42.826Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_ACV_IFR_BUNDLE _EPIC_Store Portrait_1200x1600_UK_1200x1600-79db0f62bd81c323dcacf4a3eed6df4a",
+      "md5": "79db0f62bd81c323dcacf4a3eed6df4a",
+      "size": 862027,
+      "uploadedDate": "2021-05-05T21:51:55.978Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_ACV_IFR_BUNDLE _EPIC_Store Landscape_2560x1440_UK_2560x1440-5dcb172fa81a4037537f38d533bc0eb6",
+      "md5": "5dcb172fa81a4037537f38d533bc0eb6",
+      "size": 1521196,
+      "uploadedDate": "2021-05-05T21:52:14.886Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_ACV_IFR_BUNDLE _EPIC_Store Landscape_2560x1440_UK_2560x1440-5dcb172fa81a4037537f38d533bc0eb6",
+      "md5": "5dcb172fa81a4037537f38d533bc0eb6",
+      "size": 1521196,
+      "uploadedDate": "2021-05-12T16:20:53.927Z",
+      "width": 2560,
+      "height": 1440
+    }
+  ],
+  "items": [
+    {
+      "id": "11daef13d2654800b04f066ee5e030fb"
+    },
+    {
+      "id": "bdaf567541354a6da53b20e7f28a2ac5"
+    }
+  ],
+  "catalogNs": {
+    "name": "4567febc632545eca5821f4458ba7830"
+  }
+}

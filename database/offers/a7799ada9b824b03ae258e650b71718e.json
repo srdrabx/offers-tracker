@@ -1,0 +1,190 @@
+{
+  "id": "a7799ada9b824b03ae258e650b71718e",
+  "namespace": "b6f264421d8e41349aed0c89ebd0affc",
+  "title": "The Hand of Merlin Deluxe Edition",
+  "description": "The Hand of Merlin Deluxe Edition includes the full game and the Official Soundtrack, which features music inspired by Arthurian legend with a playtime of over 2 hours and 20 minutes.\n\nMusic by: Old Sorcery",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "the-hand-of-merlin/deluxe-edition",
+  "urlSlug": "the-hand-of-merlin--deluxe-edition",
+  "creationDate": "2021-05-03T16:20:44.980Z",
+  "lastModifiedDate": "2021-05-12T13:14:43.015Z",
+  "effectiveDate": "2021-05-11T17:00:00.000Z",
+  "viewableDate": "2021-05-11T17:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
+    "name": "Versus Evil"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-12-15T01:46:33.012Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1083",
+      "name": "Rogue-Lite",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:58:59.720Z",
+      "updated": "2021-02-05T16:16:40.749Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "Strategy",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2021-02-10T17:35:11.878Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2021-02-10T17:35:19.827Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Versus Evil"
+    },
+    {
+      "key": "developerName",
+      "value": "Room-C Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-hand-of-merlin/deluxe-edition"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheHandofMerlinDeluxeEdition_RoomCGames_Bundles_S1_2560x1440-b0bd0ef69ea1293004593c691b07f175",
+      "md5": "b0bd0ef69ea1293004593c691b07f175",
+      "size": 957747,
+      "uploadedDate": "2021-05-05T21:59:23.165Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheHandofMerlinDeluxeEdition_RoomCGames_Bundles_S2_1200x1600-be487621de0af97d0e8c923d6370ba38",
+      "md5": "be487621de0af97d0e8c923d6370ba38",
+      "size": 547429,
+      "uploadedDate": "2021-05-05T21:59:26.531Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheHandofMerlinDeluxeEdition_RoomCGames_Bundles_S2_1200x1600-be487621de0af97d0e8c923d6370ba38",
+      "md5": "be487621de0af97d0e8c923d6370ba38",
+      "size": 547429,
+      "uploadedDate": "2021-05-05T21:59:30.177Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheHandofMerlinDeluxeEdition_RoomCGames_Bundles_S2_1200x1600-be487621de0af97d0e8c923d6370ba38",
+      "md5": "be487621de0af97d0e8c923d6370ba38",
+      "size": 547429,
+      "uploadedDate": "2021-05-05T21:59:33.640Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheHandofMerlinDeluxeEdition_RoomCGames_Bundles_S1_2560x1440-b0bd0ef69ea1293004593c691b07f175",
+      "md5": "b0bd0ef69ea1293004593c691b07f175",
+      "size": 957747,
+      "uploadedDate": "2021-05-05T21:59:37.158Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheHandofMerlinDeluxeEdition_RoomCGames_Bundles_S2_1200x1600-be487621de0af97d0e8c923d6370ba38",
+      "md5": "be487621de0af97d0e8c923d6370ba38",
+      "size": 547429,
+      "uploadedDate": "2021-05-05T21:59:41.349Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheHandofMerlinDeluxeEdition_RoomCGames_Bundles_IC1_200x136-f0def9582efc67fb0f860a589e5c5659",
+      "md5": "f0def9582efc67fb0f860a589e5c5659",
+      "size": 49586,
+      "uploadedDate": "2021-05-05T21:59:44.782Z",
+      "width": 200,
+      "height": 136
+    }
+  ],
+  "items": [
+    {
+      "id": "b768fd9cc8db4db7b2d445e4975318f9"
+    }
+  ],
+  "catalogNs": {
+    "name": "b6f264421d8e41349aed0c89ebd0affc"
+  }
+}

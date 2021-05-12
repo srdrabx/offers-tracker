@@ -1946,7 +1946,7 @@
     ],
     "FLARB LLC",
     1603255292,
-    1620659565,
+    1620827707,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DEMONSTILT_WIZNWAR_S2_1200x1600-b2171dcb9b7272a6e654f53a093e682d",
     "demons-tilt"
   ],
@@ -10722,6 +10722,22 @@
     ""
   ],
   [
+    "2e2a7938aa924604ad91f1398d54feb6",
+    "ec1789ed515c40ebad6e659559af2a19",
+    "Sockventure",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Versus Evil",
+    1619042079,
+    1620751908,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Sockventure_NighthouseGames_S2_1200x1600-19174109e6f2d1bd1b4a1a2ba9aef25e",
+    "sockventure"
+  ],
+  [
     "2e2ef3c650824f2c884734d16af8f22b",
     "c3e63401d6ba410493de31ed69a798a1",
     "US Soldier Pack: Infantry Assault",
@@ -11185,16 +11201,18 @@
   [
     "2fecb1793ce446408cd869611400a797",
     "2ed7ed64d8604265924b85bbd5670220",
-    "CastleGeneralAudience",
+    "Aerial_Knight's Never Yield",
     [
       "games",
+      "games/edition/base",
+      "games/edition",
       "applications"
     ],
     "Headup Gmbh",
     1607621285,
-    1607622064,
-    "",
-    ""
+    1620831121,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Aerial_KnightsNeverYield_Aerial_Knight_S2_1200x1600-b9e36fe298b245b3b67cb71b5a6f0367",
+    "aerial-knights-never-yield"
   ],
   [
     "2ff1afafe22e4caf9e1075d54072c271",
@@ -14213,6 +14231,21 @@
     "shadowrun-hong-kong/extended-edition-deluxe"
   ],
   [
+    "3c2049380f8f4fe2bf7af888f1113d92",
+    "2ed7ed64d8604265924b85bbd5670220",
+    "Aerial_Knight's Never Yield - Deluxe Edition",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Headup Gmbh",
+    1619575297,
+    1620831121,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Aerial_KnightsNeverYieldDeluxeEdition_Aerial_Knight_Bundles_S2_1200x1600-ea1626147ba15ac69fc36e80ba2e9337",
+    "aerial-knights-never-yield--deluxe-edition"
+  ],
+  [
     "3c26aaad1a6045b5b14e291a61f3624d",
     "bb9f87bb3d0042258bb1c97397bc60f2",
     "500 Crayta Credits",
@@ -14667,7 +14700,7 @@
     ],
     "Warner Bros.",
     1607241742,
-    1608178583,
+    1620762060,
     "https://cdn1.epicgames.com/57dfd95548214a138218e56cd9e5b9d8/offer/EGS_Back4BloodUltimateEdition_TurtleRockStudios_Editions_S2-1200x1600-7bf3752f4a55fd2c3598f2784c53717f.jpg",
     "back-4-blood/ultimate-edition"
   ],
@@ -20357,7 +20390,7 @@
     ],
     "Headup Gmbh",
     1607621285,
-    1607622064,
+    1620831121,
     "",
     ""
   ],
@@ -20966,6 +20999,21 @@
     1588120702,
     "",
     "far-cry-primal/home"
+  ],
+  [
+    "58d414a354a84b259b3434f02abd6d7d",
+    "b6f264421d8e41349aed0c89ebd0affc",
+    "The Hand of Merlin Soundtrack",
+    [
+      "digitalextras",
+      "digitalextras/soundtrack",
+      "applications"
+    ],
+    "Versus Evil",
+    1620231341,
+    1620825306,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheHandofMerlinSoundtrack_RoomCGames_DigitalExtras_S2_1200x1600-be487621de0af97d0e8c923d6370ba38",
+    ""
   ],
   [
     "58e04faaa66b45c5ae968ff0ac9fb2cd",
@@ -26679,7 +26727,7 @@
     ],
     "Warner Bros.",
     1607242045,
-    1608178582,
+    1620762036,
     "https://cdn1.epicgames.com/57dfd95548214a138218e56cd9e5b9d8/offer/EGS_Back4Blood_TurtleRockStudios_S2-1200x1600-0cd4ac84bb5491a81aa6ebfcbea9dfbf.jpg",
     "back-4-blood/home"
   ],
@@ -39091,6 +39139,21 @@
     ""
   ],
   [
+    "a4bf75e08eb44127a45d4b9442b94718",
+    "33681ba3da9e4dcf9be4411c9e5d8273",
+    "Assassin’s Creed Valhalla + Watch Dogs: Legion Bundle",
+    [
+      "bundles",
+      "bundles/games",
+      "applications"
+    ],
+    "Ubisoft Entertainment",
+    1620270001,
+    1620836426,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_ACV_WDL_Bundle_EPIC_Store Landscape_2560x1440_UK_2560x1440-46acab8bd7862ac65b82b2b9d685bc2c",
+    "assassins-creed-valhalla-watch-dogs-legion-bundle"
+  ],
+  [
     "a4c2ffe323a446d68272a58046551647",
     "b9def67e597b4be7a16146146a044d02",
     "MechWarrior 5 Standard Community Pre-order",
@@ -39807,6 +39870,21 @@
     1598366849,
     "https://cdn1.epicgames.com/7ab8af3a04424eeaa509d37d7b5222b7/offer/BEVL_STD_Store_Portrait_1200x1600-1200x1600-14419a45aa7c89e07e611022bb7e95b2.jpg",
     "beyond-good-and-evil/home"
+  ],
+  [
+    "a7799ada9b824b03ae258e650b71718e",
+    "b6f264421d8e41349aed0c89ebd0affc",
+    "The Hand of Merlin Deluxe Edition",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Versus Evil",
+    1620058844,
+    1620825283,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheHandofMerlinDeluxeEdition_RoomCGames_Bundles_S2_1200x1600-be487621de0af97d0e8c923d6370ba38",
+    "the-hand-of-merlin/deluxe-edition"
   ],
   [
     "a7beede0f7a945ea80f360625aa4465f",
@@ -44747,7 +44825,7 @@
     ],
     "Warner Bros.",
     1607242358,
-    1608178583,
+    1620762024,
     "https://cdn1.epicgames.com/57dfd95548214a138218e56cd9e5b9d8/offer/EGS_Back4BloodDeluxeEdition_TurtleRockStudios_Editions_S2-1200x1600-778ef3d69c5a8f87a9a4747199b6741a.jpg",
     "back-4-blood/deluxe-edition"
   ],
@@ -48023,6 +48101,21 @@
     "detroit-become-human"
   ],
   [
+    "cc1ba126ab434807a37e1d8f633657a0",
+    "4567febc632545eca5821f4458ba7830",
+    "Assassin’s Creed® Valhalla + Immortals Fenyx Rising™ Bundle",
+    [
+      "bundles",
+      "bundles/games",
+      "applications"
+    ],
+    "Ubisoft Entertainment",
+    1620230203,
+    1620836458,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_ACV_IFR_BUNDLE _EPIC_Store Landscape_2560x1440_UK_2560x1440-5dcb172fa81a4037537f38d533bc0eb6",
+    "assassins-creed-valhalla-immortals-fenyx-rising-bundle"
+  ],
+  [
     "cc2857679cb9441685c2e485e2710598",
     "eb348461cdaf4bec9d69a1c4bb39ecc4",
     "Game, Soundrack & DLC",
@@ -48426,6 +48519,22 @@
     1596844066,
     "https://cdn1.epicgames.com/oregano/offer/AN18_DLX_Store_Portrait_1200x1600-1200x1600-12ec93d23a829d1cd0a3dd8538d720c5.jpg",
     "anno-1800/deluxe-pack"
+  ],
+  [
+    "ce344d20fe02413b846ef71200e6b768",
+    "2ed7ed64d8604265924b85bbd5670220",
+    "Aerial_Knight's Never Yield - Soundtrack",
+    [
+      "digitalextras",
+      "addons",
+      "digitalextras/soundtrack",
+      "applications"
+    ],
+    "Headup Gmbh",
+    1619575374,
+    1620831121,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Aerial_KnightsNeverYieldSoundtrack_Aerial_Knight_DigitalExtras_S2_1200x1600-83839f618d31446c1a3d498be709d543",
+    ""
   ],
   [
     "ce51dea13dd64544a16c29ec5b00916a",
@@ -53866,6 +53975,22 @@
     ""
   ],
   [
+    "e544fe78c1c3470d99018d33d8b99714",
+    "b6f264421d8e41349aed0c89ebd0affc",
+    "The Hand of Merlin",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Versus Evil",
+    1619039394,
+    1620825331,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheHandofMerlin_RoomCGames_S2_1200x1600-df05887c942ba86f738b02337739e0a0",
+    "the-hand-of-merlin"
+  ],
+  [
     "e560ddedea8c418087029f92e400f899",
     "amaranth",
     "Ancestors: The Humankind Odyssey - Press",
@@ -58562,6 +58687,22 @@
     1611670465,
     "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/SUantiTank-1200x1600-a0d219aa75b2e8909381d2bd932da911.jfif",
     "heroes-and-generals-wwii/su-infantry-anti-tank"
+  ],
+  [
+    "f9208ce1192149bb930c6a065fed5cca",
+    "552127f4bc6c4c81abf62d1b8d732780",
+    "The Architect: Paris",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "ENODO GAMES",
+    1614787725,
+    1620834038,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-thearchitectparis-enodogames-s2-1200x1600-f21b752a9c20_1200x1600-03416632c59f8f17d070cf76571084a8",
+    "the-architect-paris"
   ],
   [
     "f9222d02ed4e494499eb24605379333a",

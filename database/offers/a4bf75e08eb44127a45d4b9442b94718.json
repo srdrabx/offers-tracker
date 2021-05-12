@@ -1,0 +1,148 @@
+{
+  "id": "a4bf75e08eb44127a45d4b9442b94718",
+  "namespace": "33681ba3da9e4dcf9be4411c9e5d8273",
+  "title": "Assassin’s Creed Valhalla + Watch Dogs: Legion Bundle",
+  "description": "Assassin’s Creed Valhalla + Watch Dogs: Legion Bundle",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "assassins-creed-valhalla-watch-dogs-legion-bundle",
+  "urlSlug": "bitterlemon-general-audience",
+  "creationDate": "2021-05-06T03:00:01.281Z",
+  "lastModifiedDate": "2021-05-12T16:20:26.078Z",
+  "effectiveDate": "2021-05-12T16:00:00.000Z",
+  "viewableDate": "2021-05-12T16:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "bundles"
+    },
+    {
+      "path": "bundles/games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft Entertainment"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft Entertainment"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "assassins-creed-valhalla-watch-dogs-legion-bundle"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_ACV_WDL_Bundle_EPIC_Store Landscape_2560x1440_UK_2560x1440-46acab8bd7862ac65b82b2b9d685bc2c",
+      "md5": "46acab8bd7862ac65b82b2b9d685bc2c",
+      "size": 1377214,
+      "uploadedDate": "2021-05-11T18:39:35.133Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_ACV_WDL_Bundle_EPIC_Store Landscape_2560x1440_UK_2560x1440-46acab8bd7862ac65b82b2b9d685bc2c",
+      "md5": "46acab8bd7862ac65b82b2b9d685bc2c",
+      "size": 1377214,
+      "uploadedDate": "2021-05-11T18:39:46.476Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_ACV_WDL_Bundle_EPIC_Store Portrait_1200x1600_UK_1200x1600-b788bdfc36f1f7f45aec0d3a7fa9e096",
+      "md5": "b788bdfc36f1f7f45aec0d3a7fa9e096",
+      "size": 764725,
+      "uploadedDate": "2021-05-11T18:39:58.605Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_ACV_WDL_Bundle_EPIC_Store Portrait_1200x1600_UK_1200x1600-b788bdfc36f1f7f45aec0d3a7fa9e096",
+      "md5": "b788bdfc36f1f7f45aec0d3a7fa9e096",
+      "size": 764725,
+      "uploadedDate": "2021-05-11T18:40:18.529Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_ACV_WDL_Bundle_EPIC_Store Portrait_1200x1600_UK_1200x1600-b788bdfc36f1f7f45aec0d3a7fa9e096",
+      "md5": "b788bdfc36f1f7f45aec0d3a7fa9e096",
+      "size": 764725,
+      "uploadedDate": "2021-05-11T18:40:31.497Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_ACV_WDL_Bundle_EPIC_Store Landscape_2560x1440_UK_2560x1440-46acab8bd7862ac65b82b2b9d685bc2c",
+      "md5": "46acab8bd7862ac65b82b2b9d685bc2c",
+      "size": 1377214,
+      "uploadedDate": "2021-05-12T16:20:19.844Z",
+      "width": 2560,
+      "height": 1440
+    }
+  ],
+  "items": [
+    {
+      "id": "11daef13d2654800b04f066ee5e030fb"
+    },
+    {
+      "id": "d77e53f7886a4c618b9fa6582112330b"
+    }
+  ],
+  "catalogNs": {
+    "name": "33681ba3da9e4dcf9be4411c9e5d8273"
+  }
+}

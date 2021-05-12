@@ -1,0 +1,179 @@
+{
+  "id": "58d414a354a84b259b3434f02abd6d7d",
+  "namespace": "b6f264421d8e41349aed0c89ebd0affc",
+  "title": "The Hand of Merlin Soundtrack",
+  "description": "The Official Soundtrack to the indie hit The Hand of Merlin. Immerse yourself in the music inspired by Arthurian legend for a playtime of over 2 hours and 20 minutes.\n\nMusic by: Old Sorcery",
+  "longDescription": "The Official Soundtrack to the indie hit The Hand of Merlin. Immerse yourself in the music inspired by Arthurian legend for a playtime of over 2 hours and 20 minutes.\n\nMusic by: Old Sorcery",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "the-hand-of-merlin--hand-of-merlin-soundtrack",
+  "creationDate": "2021-05-05T16:15:41.013Z",
+  "lastModifiedDate": "2021-05-12T13:15:06.748Z",
+  "effectiveDate": "2021-05-11T17:00:00.000Z",
+  "viewableDate": "2021-05-11T17:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
+    "name": "Versus Evil"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "digitalextras"
+    },
+    {
+      "path": "digitalextras/soundtrack"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Versus Evil"
+    },
+    {
+      "key": "developerName",
+      "value": "Room-C Games"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheHandofMerlinSoundtrack_RoomCGames_DigitalExtras_S1_2560x1440-3fde8791c858748fdcfedc2bf3d903b4",
+      "md5": "3fde8791c858748fdcfedc2bf3d903b4",
+      "size": 959616,
+      "uploadedDate": "2021-05-05T17:16:53.450Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheHandofMerlinSoundtrack_RoomCGames_DigitalExtras_S2_1200x1600-be487621de0af97d0e8c923d6370ba38",
+      "md5": "be487621de0af97d0e8c923d6370ba38",
+      "size": 547429,
+      "uploadedDate": "2021-05-05T17:16:56.503Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheHandofMerlinSoundtrack_RoomCGames_DigitalExtras_S2_1200x1600-be487621de0af97d0e8c923d6370ba38",
+      "md5": "be487621de0af97d0e8c923d6370ba38",
+      "size": 547429,
+      "uploadedDate": "2021-05-05T17:17:07.468Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheHandofMerlinSoundtrack_RoomCGames_DigitalExtras_S2_1200x1600-be487621de0af97d0e8c923d6370ba38",
+      "md5": "be487621de0af97d0e8c923d6370ba38",
+      "size": 547429,
+      "uploadedDate": "2021-05-05T17:17:10.937Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheHandofMerlinSoundtrack_RoomCGames_DigitalExtras_S1_2560x1440-3fde8791c858748fdcfedc2bf3d903b4",
+      "md5": "3fde8791c858748fdcfedc2bf3d903b4",
+      "size": 959616,
+      "uploadedDate": "2021-05-05T17:17:15.851Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheHandofMerlinSoundtrack_RoomCGames_DigitalExtras_S2_1200x1600-be487621de0af97d0e8c923d6370ba38",
+      "md5": "be487621de0af97d0e8c923d6370ba38",
+      "size": 547429,
+      "uploadedDate": "2021-05-05T17:17:19.283Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheHandofMerlinSoundtrack_RoomCGames_DigitalExtras_IC1_200x136-0c6b4300bf90b30047769614bd989519",
+      "md5": "0c6b4300bf90b30047769614bd989519",
+      "size": 51216,
+      "uploadedDate": "2021-05-05T17:17:23.053Z",
+      "width": 200,
+      "height": 136
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheHandofMerlinSoundtrack_RoomCGames_DigitalExtras_G1A_01_1920x1080-a93c3d080f549b48bf642642d0c06184",
+      "md5": "a93c3d080f549b48bf642642d0c06184",
+      "size": 702731,
+      "uploadedDate": "2021-05-05T17:17:27.330Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheHandofMerlinSoundtrack_RoomCGames_DigitalExtras_G1A_02_1920x1080-5c46b7e2f48c3c8f0d1d9b96c59cd516",
+      "md5": "5c46b7e2f48c3c8f0d1d9b96c59cd516",
+      "size": 433086,
+      "uploadedDate": "2021-05-05T17:17:30.336Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheHandofMerlinSoundtrack_RoomCGames_DigitalExtras_G1A_03_1920x1080-dfb64bdb824d2fd30e89ab4cf8ff6268",
+      "md5": "dfb64bdb824d2fd30e89ab4cf8ff6268",
+      "size": 516111,
+      "uploadedDate": "2021-05-05T17:17:33.637Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheHandofMerlinSoundtrack_RoomCGames_DigitalExtras_G1A_04_1920x1080-45eebf98264fe56d8689b5e2e77ca479",
+      "md5": "45eebf98264fe56d8689b5e2e77ca479",
+      "size": 365910,
+      "uploadedDate": "2021-05-05T17:17:36.827Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheHandofMerlinSoundtrack_RoomCGames_DigitalExtras_G1A_05_1920x1080-b9d387ade45881b27ab7f7f1986dbd54",
+      "md5": "b9d387ade45881b27ab7f7f1986dbd54",
+      "size": 194719,
+      "uploadedDate": "2021-05-05T17:17:49.058Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheHandofMerlinSoundtrack_RoomCGames_DigitalExtras_G1A_06_1920x1080-bb7af2cab716c7035a7b9476c347fc75",
+      "md5": "bb7af2cab716c7035a7b9476c347fc75",
+      "size": 266601,
+      "uploadedDate": "2021-05-05T17:17:56.956Z",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "items": [
+    {
+      "id": "e8f259fd909845fea6ef5650cd8d329b"
+    }
+  ],
+  "catalogNs": {
+    "name": "b6f264421d8e41349aed0c89ebd0affc"
+  }
+}

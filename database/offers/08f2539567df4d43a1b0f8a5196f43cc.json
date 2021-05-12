@@ -8,7 +8,7 @@
   "productSlug": "demons-tilt",
   "urlSlug": "demons-tilt",
   "creationDate": "2020-10-21T04:41:32.403Z",
-  "lastModifiedDate": "2021-05-10T15:12:45.165Z",
+  "lastModifiedDate": "2021-05-12T13:55:07.268Z",
   "effectiveDate": "2021-05-10T15:00:00.000Z",
   "viewableDate": "2021-04-28T15:00:00.000Z",
   "developer": null,
@@ -105,7 +105,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR"
+      "value": "[]"
     },
     {
       "key": "publisherName",
