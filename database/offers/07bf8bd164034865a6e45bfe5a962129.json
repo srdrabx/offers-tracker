@@ -1,0 +1,116 @@
+{
+  "id": "07bf8bd164034865a6e45bfe5a962129",
+  "namespace": "be69d05166bd49f3b649f6103c2324d0",
+  "title": "Realpolitiks II Deluxe Edition",
+  "description": "Realpolitiks IIDeluxe Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "hotel-general-audience-01",
+  "creationDate": "2021-05-10T17:52:40.486Z",
+  "lastModifiedDate": "2021-05-12T15:56:59.296Z",
+  "effectiveDate": "2021-05-12T17:00:00.000Z",
+  "viewableDate": "2021-05-12T17:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-n4d8bf5e8fnr4kujuut9j6v4d29muc",
+    "name": "1C Online Games Ltd"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "1C Online Games Ltd"
+    },
+    {
+      "key": "developerName",
+      "value": "Jujubee S.A."
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RealpolitiksIIDeluxeedition_JujubeeSA_Editions_S1_2560x1440-d9f1cd2fc894963c6dac3bd1538571a7",
+      "md5": "d9f1cd2fc894963c6dac3bd1538571a7",
+      "size": 392606,
+      "uploadedDate": "2021-05-12T14:43:35.167Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RealpolitiksIIDeluxeedition_JujubeeSA_Editions_S2_1200x1600-d26ee3186990c4fb811b5dbbe358fedd",
+      "md5": "d26ee3186990c4fb811b5dbbe358fedd",
+      "size": 290656,
+      "uploadedDate": "2021-05-12T14:43:40.363Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RealpolitiksIIDeluxeedition_JujubeeSA_Editions_S2_1200x1600-d26ee3186990c4fb811b5dbbe358fedd",
+      "md5": "d26ee3186990c4fb811b5dbbe358fedd",
+      "size": 290656,
+      "uploadedDate": "2021-05-12T14:43:45.226Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RealpolitiksIIDeluxeedition_JujubeeSA_Editions_S2_1200x1600-d26ee3186990c4fb811b5dbbe358fedd",
+      "md5": "d26ee3186990c4fb811b5dbbe358fedd",
+      "size": 290656,
+      "uploadedDate": "2021-05-12T14:43:51.033Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RealpolitiksIIDeluxeedition_JujubeeSA_Editions_S1_2560x1440-d9f1cd2fc894963c6dac3bd1538571a7",
+      "md5": "d9f1cd2fc894963c6dac3bd1538571a7",
+      "size": 392606,
+      "uploadedDate": "2021-05-12T14:43:58.200Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RealpolitiksIIDeluxeedition_JujubeeSA_Editions_S2_1200x1600-d26ee3186990c4fb811b5dbbe358fedd",
+      "md5": "d26ee3186990c4fb811b5dbbe358fedd",
+      "size": 290656,
+      "uploadedDate": "2021-05-12T14:44:19.672Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "d0e3aacf07b74ead9da63ef23dcda4c2"
+    }
+  ],
+  "catalogNs": {
+    "name": "be69d05166bd49f3b649f6103c2324d0"
+  }
+}

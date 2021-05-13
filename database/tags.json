@@ -83,6 +83,18 @@
     "referenceCount": 3,
     "comment": null
   },
+  "1104": {
+    "id": "1104",
+    "name": "POLITICS",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T11:59:10.230Z",
+    "updated": "2019-06-20T11:59:10.230Z",
+    "status": "ACTIVE",
+    "referenceCount": null,
+    "comment": null
+  },
   "1110": {
     "id": "1110",
     "name": "Party",
@@ -307,6 +319,18 @@
     "operator": null,
     "created": "2019-06-20T11:59:43.507Z",
     "updated": "2019-06-20T11:59:43.507Z",
+    "status": "ACTIVE",
+    "referenceCount": null,
+    "comment": null
+  },
+  "1178": {
+    "id": "1178",
+    "name": "DIPLOMACY",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T11:59:46.938Z",
+    "updated": "2019-06-20T11:59:46.938Z",
     "status": "ACTIVE",
     "referenceCount": null,
     "comment": null
@@ -633,6 +657,18 @@
     "updated": "2021-02-09T16:47:39.833Z",
     "status": "ACTIVE",
     "referenceCount": 2,
+    "comment": null
+  },
+  "1284": {
+    "id": "1284",
+    "name": "POLITICAL",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T12:00:39.708Z",
+    "updated": "2019-06-20T12:00:39.708Z",
+    "status": "ACTIVE",
+    "referenceCount": null,
     "comment": null
   },
   "1287": {

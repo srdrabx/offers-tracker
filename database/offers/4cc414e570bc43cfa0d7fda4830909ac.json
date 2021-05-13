@@ -8,7 +8,7 @@
   "productSlug": "pine",
   "urlSlug": "strontiumgeneralaudience",
   "creationDate": "2021-01-13T23:20:30.351Z",
-  "lastModifiedDate": "2021-04-29T15:04:14.982Z",
+  "lastModifiedDate": "2021-05-13T15:09:59.764Z",
   "effectiveDate": "2021-05-06T15:00:00.000Z",
   "viewableDate": "2021-04-29T15:00:00.000Z",
   "developer": null,
@@ -24,9 +24,6 @@
   "technicalDetails": null,
   "recurrence": "ONCE",
   "categories": [
-    {
-      "path": "freegames"
-    },
     {
       "path": "games"
     },
