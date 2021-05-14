@@ -1,16 +1,16 @@
 {
   "id": "c7fcbd662a504064bc35c7e23396e705",
   "namespace": "foxglove",
-  "title": "FoxgloveGeneralAudience",
-  "description": "FoxgloveGeneralAudience",
+  "title": "Subnautica Below Zero",
+  "description": "Subnautica Below Zero",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "foxglovegeneralaudience",
+  "productSlug": "subnautica-below-zero",
+  "urlSlug": "subnautica-below-zero",
   "creationDate": "2019-01-24T20:22:23.047Z",
-  "lastModifiedDate": "2021-01-07T20:13:31.540Z",
-  "effectiveDate": "2019-02-28T15:19:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2021-05-14T04:20:52.592Z",
+  "effectiveDate": "2021-05-14T00:00:00.000Z",
+  "viewableDate": "2021-05-14T00:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-g4s9pbd6mu9e8uqn539s3xqk9yex92",
@@ -31,10 +31,89 @@
       "path": "games/edition"
     },
     {
+      "path": "games/edition/base"
+    },
+    {
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "1080",
+      "name": "Survival",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2021-02-05T16:19:16.566Z",
+      "status": "ACTIVE",
+      "referenceCount": 11,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "Open World",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2021-02-10T17:34:58.080Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2021-02-10T17:35:47.790Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "Mac OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX",
+        "macOS"
+      ],
+      "operator": null,
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2021-02-10T17:26:31.125Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -43,26 +122,66 @@
     {
       "key": "developerName",
       "value": "Unknown Worlds Entertainment"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "subnautica-below-zero"
     }
   ],
   "keyImages": [
     {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SubnauticaBelowZero_UnknownWorldsEntertainmentInc_S1_2560x1440-c8f0ba616d3dcd2ef3dcdd0c7d5e8967",
+      "md5": "c8f0ba616d3dcd2ef3dcdd0c7d5e8967",
+      "size": 1018279,
+      "uploadedDate": "2021-05-13T20:23:42.132Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SubnauticaBelowZero_UnknownWorldsEntertainmentInc_S2_1200x1600-b131add18be6b0f16511772e17850e49",
+      "md5": "b131add18be6b0f16511772e17850e49",
+      "size": 971347,
+      "uploadedDate": "2021-05-13T20:24:01.064Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/foxglove/offer/SubnauticaBelowZero_CodeRedemption-330x440-ee0ebbbfa6920448fb4d9819f54ef8d9.png",
-      "md5": "ee0ebbbfa6920448fb4d9819f54ef8d9",
-      "size": 76568,
-      "uploadedDate": "2019-04-24T14:10:59.790Z",
-      "width": 330,
-      "height": 440
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SubnauticaBelowZero_UnknownWorldsEntertainmentInc_S2_1200x1600-b131add18be6b0f16511772e17850e49",
+      "md5": "b131add18be6b0f16511772e17850e49",
+      "size": 971347,
+      "uploadedDate": "2021-05-13T20:24:20.104Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/foxglove/offer/SubnauticaBelowZero_CodeRedemption-330x440-ee0ebbbfa6920448fb4d9819f54ef8d9.png",
-      "md5": "ee0ebbbfa6920448fb4d9819f54ef8d9",
-      "size": 76568,
-      "uploadedDate": "2019-04-24T14:11:37.055Z",
-      "width": 330,
-      "height": 440
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SubnauticaBelowZero_UnknownWorldsEntertainmentInc_S2_1200x1600-b131add18be6b0f16511772e17850e49",
+      "md5": "b131add18be6b0f16511772e17850e49",
+      "size": 971347,
+      "uploadedDate": "2021-05-13T20:24:43.642Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SubnauticaBelowZero_UnknownWorldsEntertainmentInc_S2_1200x1600-b131add18be6b0f16511772e17850e49",
+      "md5": "b131add18be6b0f16511772e17850e49",
+      "size": 971347,
+      "uploadedDate": "2021-05-13T20:25:25.719Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SubnauticaBelowZero_UnknownWorldsEntertainmentInc_S1_2560x1440-c8f0ba616d3dcd2ef3dcdd0c7d5e8967",
+      "md5": "c8f0ba616d3dcd2ef3dcdd0c7d5e8967",
+      "size": 1018279,
+      "uploadedDate": "2021-05-13T20:26:02.266Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
   "items": [

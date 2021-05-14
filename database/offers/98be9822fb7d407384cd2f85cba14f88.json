@@ -1,16 +1,16 @@
 {
   "id": "98be9822fb7d407384cd2f85cba14f88",
   "namespace": "6daaf10529e94fccaa8ee43b66adbe4a",
-  "title": "AngoraGeneralAudience",
-  "description": "AngoraGeneralAudience",
+  "title": "Pathfinder: Kingmaker - Enhanced Plus Edition",
+  "description": "Pathfinder: Kingmaker - Enhanced Plus Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "angorageneralaudience",
+  "productSlug": "pathfinder-kingmaker",
+  "urlSlug": "pathfinder-kingmaker-enhanced-plus-edition",
   "creationDate": "2020-04-21T16:50:58.129Z",
-  "lastModifiedDate": "2020-04-21T16:58:19.214Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2021-05-13T19:27:07.385Z",
+  "effectiveDate": "2021-05-13T19:30:00.000Z",
+  "viewableDate": "2021-05-13T19:30:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
@@ -28,29 +28,157 @@
       "path": "games"
     },
     {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2021-02-10T17:36:19.203Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1333",
+      "name": "Action RPG",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:03.965Z",
+      "updated": "2021-02-05T16:12:39.524Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-12-15T01:46:33.012Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "[]"
     },
     {
       "key": "publisherName",
-      "value": "[]"
+      "value": "Deep Silver"
     },
     {
       "key": "developerName",
-      "value": "[]"
+      "value": "Owlcat Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "pathfinder-kingmaker"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PathfinderKingmakerEnhancedPlusEdition_OwlcatGames_S1_2560x1440-c4bf090dc58356921f9cfc3506ac020f",
+      "md5": "c4bf090dc58356921f9cfc3506ac020f",
+      "size": 848336,
+      "uploadedDate": "2021-04-21T17:57:52.467Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PathfinderKingmakerEnhancedPlusEdition_OwlcatGames_S2_1200x1600-658b32789d83b26b8fabef95e51dc919",
+      "md5": "658b32789d83b26b8fabef95e51dc919",
+      "size": 409479,
+      "uploadedDate": "2021-04-21T17:58:39.011Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PathfinderKingmakerEnhancedPlusEdition_OwlcatGames_S2_1200x1600-658b32789d83b26b8fabef95e51dc919",
+      "md5": "658b32789d83b26b8fabef95e51dc919",
+      "size": 409479,
+      "uploadedDate": "2021-04-21T17:58:49.887Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PathfinderKingmakerEnhancedPlusEdition_OwlcatGames_S2_1200x1600-658b32789d83b26b8fabef95e51dc919",
+      "md5": "658b32789d83b26b8fabef95e51dc919",
+      "size": 409479,
+      "uploadedDate": "2021-04-21T17:59:05.888Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PathfinderKingmakerEnhancedPlusEdition_OwlcatGames_S1_2560x1440-c4bf090dc58356921f9cfc3506ac020f",
+      "md5": "c4bf090dc58356921f9cfc3506ac020f",
+      "size": 848336,
+      "uploadedDate": "2021-04-21T17:59:31.804Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PathfinderKingmakerEnhancedPlusEdition_OwlcatGames_S2_1200x1600-658b32789d83b26b8fabef95e51dc919",
+      "md5": "658b32789d83b26b8fabef95e51dc919",
+      "size": 409479,
+      "uploadedDate": "2021-04-21T17:59:43.872Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "fd452f2cd10843bc9003f63e397c679f"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "6daaf10529e94fccaa8ee43b66adbe4a"
+  }
 }

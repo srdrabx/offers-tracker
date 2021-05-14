@@ -8858,7 +8858,7 @@
     ],
     "SUPER DOT COM LTD",
     1600115191,
-    1602781023,
+    1621009567,
     "https://cdn1.epicgames.com/04f58664c247401782ff01d9e245d778/offer/EGS_RajiAnAncientEpic_NoddingHeadsGames_S6-1200x1600-63da8568ac6e705e0eee87c70474342f.jpg",
     "raji-an-ancient-epic"
   ],
@@ -10474,7 +10474,7 @@
     ],
     "SUPER DOT COM LTD",
     1602275471,
-    1602781023,
+    1621009813,
     "https://cdn1.epicgames.com/04f58664c247401782ff01d9e245d778/offer/EGS_RajiAnAncientEpicSoundtrack_NoddingHeadsGames_DigitalExtras_S2-1200x1600-1da64d9d0bd0c1789814fbd181f8cd90.jpg",
     "raji-an-ancient-epic/soundtrack"
   ],
@@ -13770,13 +13770,12 @@
     "Mafia: Trilogy",
     [
       "bundles",
-      "games",
       "bundles/games",
       "applications"
     ],
     "2K Games, Inc.",
     1588964671,
-    1613664052,
+    1621006797,
     "https://cdn1.epicgames.com/fb06f4b5bc25417cbe7c6217cf069649/offer/EGS_MafiaTrilogy_Hangar13_S2-1200x1600-0fb438a12c5f50ade1d4dc2b1159b7a2.jpg",
     "mafia-trilogy"
   ],
@@ -26232,7 +26231,7 @@
     ],
     "Unknown Worlds Entertainment",
     1548361643,
-    1564994202,
+    1620963933,
     "https://cdn1.epicgames.com/undefined/offer/20190119_SN_BZ_IcePeeper_SquareProfile-900x900-ba6f4b8919c041fa5c9a0a080c0c697b.jpg",
     ""
   ],
@@ -27600,6 +27599,21 @@
     "far-cry-primal/apex-edition"
   ],
   [
+    "7476272341894a03a8e04f8edc6d94bf",
+    "6daaf10529e94fccaa8ee43b66adbe4a",
+    "Pathfinder: Kingmaker - Bloody Mess DLC",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Koch Media",
+    1614726332,
+    1620933870,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PathfinderKingmakerBloodyMessDLC_OwlcatGames_DLC_S2_1200x1600-a92b821a6395f64df59a72362f4a1d10",
+    ""
+  ],
+  [
     "747d9b127a2846c7a3acd53d4f13dc0e",
     "carnation",
     "Rainbow Six Siege: Welcome Pack",
@@ -28926,7 +28940,7 @@
     ],
     "Grinding Gear Games",
     1600122602,
-    1601584510,
+    1621007592,
     "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_FirstBlood-1200x1600-b4333d4319f91ff0cd27c4a2b70607e1.png",
     "path-of-exile/first-blood-pack"
   ],
@@ -30529,6 +30543,21 @@
     1596163733,
     "https://cdn1.epicgames.com/argyle/offer/TRIALS_RISING_STARTER_PACK_EPIC_DLC_Capsule_1920x1080-1920x1080-bfa1134a31e6a847735d21ac60da1168.jpg",
     "trials-rising/starter-pack-01"
+  ],
+  [
+    "81d530b3e95c4f8b8ae4dd2ecee8bcd1",
+    "6daaf10529e94fccaa8ee43b66adbe4a",
+    "Pathfinder: Kingmaker - Varnhold's Lot DLC",
+    [
+      "addons",
+      "addons/bundle",
+      "applications"
+    ],
+    "Koch Media",
+    1614725863,
+    1620933893,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PathfinderKingmakerVarnholdsLotDLC_OwlcatGames_DLC_S2_1200x1600-2c0c576e4e1fcb86abd48e14cc8c7449",
+    ""
   ],
   [
     "81dda5adced04f3082c84009b1158ead",
@@ -32653,6 +32682,21 @@
     1605878226,
     "https://cdn1.epicgames.com/a69c5a82682c43148e4e2542fe2fcd0f/offer/EGS_RuinedKingALeagueofLegendsStory_AirshipSyndicate_S2-1200x1600-7860241c71d96a6a93b610fa41210959.jpg",
     "ruined-king-a-league-of-legends-story/home"
+  ],
+  [
+    "8b8f6bb0adb0477eb3841748f3d95aa4",
+    "6daaf10529e94fccaa8ee43b66adbe4a",
+    "Pathfinder: Kingmaker - Imperial Edition",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Koch Media",
+    1614725599,
+    1620933932,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PathfinderKingmakerVarnholdsLotDLC_OwlcatGames_DLC_S2_1200x1600-2c0c576e4e1fcb86abd48e14cc8c7449",
+    "pathfinder-kingmaker/imperial-edition"
   ],
   [
     "8ba212740e774e8c8b6b8950a2e3666c",
@@ -35892,16 +35936,18 @@
   [
     "98be9822fb7d407384cd2f85cba14f88",
     "6daaf10529e94fccaa8ee43b66adbe4a",
-    "AngoraGeneralAudience",
+    "Pathfinder: Kingmaker - Enhanced Plus Edition",
     [
       "games",
+      "games/edition",
+      "games/edition/base",
       "applications"
     ],
     "Koch Media",
     1587487858,
-    1587488299,
-    "",
-    ""
+    1620934027,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PathfinderKingmakerEnhancedPlusEdition_OwlcatGames_S2_1200x1600-658b32789d83b26b8fabef95e51dc919",
+    "pathfinder-kingmaker"
   ],
   [
     "98c3598037284dfa96d87533fcd0340f",
@@ -36344,6 +36390,21 @@
     1557167188,
     1588120727,
     "",
+    ""
+  ],
+  [
+    "9a1dcee45ecc40d29580781f47272079",
+    "6daaf10529e94fccaa8ee43b66adbe4a",
+    "Pathfinder: Kingmaker Beneath the Stolen Lands DLC",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Koch Media",
+    1614726042,
+    1620933987,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PathfinderKingmakerBeneaththeStolenLandsDLC_OwlcatGames_DLC_S2_1200x1600-c1a1a78b710980df49dc21597f6c6070",
     ""
   ],
   [
@@ -37514,6 +37575,22 @@
     1591058357,
     "",
     ""
+  ],
+  [
+    "9e5a531f267148ed8af46457b854918f",
+    "76355dbd22b249d9a6f77790aba9547b",
+    " Grindstone",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Capybara Games",
+    1593628980,
+    1621001492,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RiseandGrindinCAPYsacclaimedpuzzlebattler_CAPY_S2_1200x1600-b3fbc3f8f73f32dd1abd5943eba7bbac",
+    "grindstone"
   ],
   [
     "9e64fe621a444df2a4b4dc2d85b944b1",
@@ -38696,6 +38773,21 @@
     "gamedec"
   ],
   [
+    "a1c29b489a454423b0e88d3a37b8be6e",
+    "6daaf10529e94fccaa8ee43b66adbe4a",
+    "Pathfinder: Kingmaker - The Wildcards DLC",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Koch Media",
+    1614725468,
+    1620933963,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PathfinderKingmakerTheWildcardsDLC_OwlcatGames_DLC_S2_1200x1600-0b923b35bd5271c053d05dc3aa4ca151",
+    ""
+  ],
+  [
     "a1db155c8207447b984b77d310e20181",
     "df37f065c3f14eadbf011177396e2966",
     "QA_A_DLC_7_CrewGeneralAudience",
@@ -38852,6 +38944,21 @@
     1574890982,
     1589298708,
     "https://cdn1.epicgames.com/599d248ca46b45a8b40a3b4e484712cb/offer/CodeRedemption_TC2_FreeWeekend-330x440-d1470303d2a08cbc5b51bd001216bfd6.jpg",
+    ""
+  ],
+  [
+    "a2d5e81abca04b53a247e8e29fdf8285",
+    "6daaf10529e94fccaa8ee43b66adbe4a",
+    "Pathfinder: Kingmaker - Season Pass",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Koch Media",
+    1614726442,
+    1620933830,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PathfinderKingmakerSeasonPass_OwlcatGames_DLC_S2_1200x1600-573817d9a09de6422b67726b1fc3655a",
     ""
   ],
   [
@@ -45139,7 +45246,7 @@
     ],
     "SUPER DOT COM LTD",
     1602275391,
-    1602781023,
+    1621009612,
     "https://cdn1.epicgames.com/04f58664c247401782ff01d9e245d778/offer/EGS_RajiAnAncientEpicOriginalSoundtrackBundle_Tall-1200x1600-8880d84e439249f9a51479b6690ad287.jpg",
     "raji-an-ancient-epic/game-and-soundtrack-bundle"
   ],
@@ -45681,6 +45788,21 @@
     1589403083,
     "https://cdn1.epicgames.com/7f498fbf0a4e43239d58eee6615ae806/offer/Free-Trial-Banner-1250x703-2c35a66b84a43efb747ab437e2396300.jpg",
     "readyset-heroes/free-trial"
+  ],
+  [
+    "c0f09d4ca9c1491fa58528decef4bfeb",
+    "6daaf10529e94fccaa8ee43b66adbe4a",
+    "Pathfinder Kingmaker - Royal Ascension DLC ",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Koch Media",
+    1614726137,
+    1620934009,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PathfinderKingmakerRoyalAscensionDLC_OwlcatGames_DLC_S2_1200x1600-e5acd39565bc418c81cad15db806de82",
+    ""
   ],
   [
     "c118a62fb3fa48cc816b43777055fa9e",
@@ -47333,17 +47455,18 @@
   [
     "c7fcbd662a504064bc35c7e23396e705",
     "foxglove",
-    "FoxgloveGeneralAudience",
+    "Subnautica Below Zero",
     [
       "games",
       "games/edition",
+      "games/edition/base",
       "applications"
     ],
     "Unknown Worlds Entertainment",
     1548361343,
-    1610050411,
-    "https://cdn1.epicgames.com/foxglove/offer/SubnauticaBelowZero_CodeRedemption-330x440-ee0ebbbfa6920448fb4d9819f54ef8d9.png",
-    ""
+    1620966052,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SubnauticaBelowZero_UnknownWorldsEntertainmentInc_S2_1200x1600-b131add18be6b0f16511772e17850e49",
+    "subnautica-below-zero"
   ],
   [
     "c832b74a0c2845c197cfdeb4a81eac9c",
@@ -47788,7 +47911,7 @@
     ],
     "Headup Gmbh",
     1607611619,
-    1619710376,
+    1621004378,
     "https://cdn1.epicgames.com/1b4d97cb697f4ac09ff053738f7716e4/offer/EGS_TheFabledWoods_CyberPunch_S2-1200x1600-4400b17fc44e7b7ff34d7ec2aaffe3d4.jpg",
     "the-fabled-woods"
   ],
@@ -48127,6 +48250,21 @@
     1615834728,
     1619711477,
     "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_TheOffspringSelfEsteem_HarmonixMusicSystemsInc_DLC_S2-1200x1600-e0464ec8cbaa0681e94409670da2f264.jpg",
+    ""
+  ],
+  [
+    "cb97a01c454c46a794920d7c533a0021",
+    "6daaf10529e94fccaa8ee43b66adbe4a",
+    "Pathfinder Kingmaker - Arcane Unleashed",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Koch Media",
+    1614726250,
+    1620933936,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PathfinderKingmakerArcaneUnleashed_OwlcatGames_DLC_S2_1200x1600-1c88784faf55f0305796c9ad8c76fedf",
     ""
   ],
   [
@@ -55794,6 +55932,22 @@
     1619531394,
     "https://cdn1.epicgames.com/a60b160cb14c4c258b70299310b63e56/offer/EGS_AxisOperations1940_FlashbackGames_DLC_S2-1200x1600-8ee55b05a30894407e0d6e83e81452eb.jpg",
     ""
+  ],
+  [
+    "ec2a3de17b734b7eb486cdec3b30a769",
+    "4b9bd8b8a4804e088d3412062a4f0251",
+    "Aeterna Noctis",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Aeternum Game Studios",
+    1617859296,
+    1621006881,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AeternaNoctis_AeternumGameStudios_S2_1200x1600-ad7498d6f9559a245a38ccacf4d20f09",
+    "aeterna-noctis"
   ],
   [
     "ec3f9a53206a47f3aeaea482719876a8",

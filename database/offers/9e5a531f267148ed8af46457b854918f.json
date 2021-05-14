@@ -1,0 +1,180 @@
+{
+  "id": "9e5a531f267148ed8af46457b854918f",
+  "namespace": "76355dbd22b249d9a6f77790aba9547b",
+  "title": " Grindstone",
+  "description": "Grindstone",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "grindstone",
+  "urlSlug": "grindstone",
+  "creationDate": "2020-07-01T18:43:00.136Z",
+  "lastModifiedDate": "2021-05-14T14:11:32.887Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": "2021-05-14T13:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-lbpf7js3rx6rhk4l4mkx2zph8a23zm",
+    "name": "Capybara Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1298",
+      "name": "Puzzle",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2021-02-10T17:34:06.225Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1386",
+      "name": "Turn-Based",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:30.372Z",
+      "updated": "2021-02-05T16:19:58.338Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2021-02-10T17:35:19.827Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "Capybara Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "grindstone"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RiseandGrindinCAPYsacclaimedpuzzlebattler_CAPY_S1_2560x1440-18cceb78c4cd080b2b2a1f449aa31b0b",
+      "md5": "18cceb78c4cd080b2b2a1f449aa31b0b",
+      "size": 844737,
+      "uploadedDate": "2021-04-22T03:33:46.568Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RiseandGrindinCAPYsacclaimedpuzzlebattler_CAPY_S2_1200x1600-b3fbc3f8f73f32dd1abd5943eba7bbac",
+      "md5": "b3fbc3f8f73f32dd1abd5943eba7bbac",
+      "size": 305647,
+      "uploadedDate": "2021-04-22T03:33:50.105Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RiseandGrindinCAPYsacclaimedpuzzlebattler_CAPY_S1_2560x1440-18cceb78c4cd080b2b2a1f449aa31b0b",
+      "md5": "18cceb78c4cd080b2b2a1f449aa31b0b",
+      "size": 844737,
+      "uploadedDate": "2021-04-22T03:33:53.239Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RiseandGrindinCAPYsacclaimedpuzzlebattler_CAPY_S2_1200x1600-b3fbc3f8f73f32dd1abd5943eba7bbac",
+      "md5": "b3fbc3f8f73f32dd1abd5943eba7bbac",
+      "size": 305647,
+      "uploadedDate": "2021-04-22T03:33:56.169Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RiseandGrindinCAPYsacclaimedpuzzlebattler_CAPY_S2_1200x1600-b3fbc3f8f73f32dd1abd5943eba7bbac",
+      "md5": "b3fbc3f8f73f32dd1abd5943eba7bbac",
+      "size": 305647,
+      "uploadedDate": "2021-04-22T03:33:58.579Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RiseandGrindinCAPYsacclaimedpuzzlebattler_CAPY_S2_1200x1600-b3fbc3f8f73f32dd1abd5943eba7bbac",
+      "md5": "b3fbc3f8f73f32dd1abd5943eba7bbac",
+      "size": 305647,
+      "uploadedDate": "2021-04-22T03:34:01.044Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "59f5060126264cd8a3a43e742d39cf68"
+    }
+  ],
+  "catalogNs": {
+    "name": "76355dbd22b249d9a6f77790aba9547b"
+  }
+}

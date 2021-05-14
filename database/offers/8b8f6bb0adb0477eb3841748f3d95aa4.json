@@ -1,0 +1,154 @@
+{
+  "id": "8b8f6bb0adb0477eb3841748f3d95aa4",
+  "namespace": "6daaf10529e94fccaa8ee43b66adbe4a",
+  "title": "Pathfinder: Kingmaker - Imperial Edition",
+  "description": "Pathfinder: Kingmaker - Imperial Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "pathfinder-kingmaker/imperial-edition",
+  "urlSlug": "pathfinder-kingmaker-imperial-edition",
+  "creationDate": "2021-03-02T22:53:19.380Z",
+  "lastModifiedDate": "2021-05-13T19:25:32.787Z",
+  "effectiveDate": "2021-05-13T19:30:00.000Z",
+  "viewableDate": "2021-05-13T19:30:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+    "name": "Koch Media"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1333",
+      "name": "Action RPG",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:03.965Z",
+      "updated": "2021-02-05T16:12:39.524Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-12-15T01:46:33.012Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Deep Silver"
+    },
+    {
+      "key": "developerName",
+      "value": "Owlcat Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "pathfinder-kingmaker/imperial-edition"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PathfinderKingmakerVarnholdsLotDLC_OwlcatGames_DLC_S1_2560x1440-1b1ebe12ca33073e4415ea7d804c25fe",
+      "md5": "1b1ebe12ca33073e4415ea7d804c25fe",
+      "size": 802087,
+      "uploadedDate": "2021-04-21T20:01:56.662Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PathfinderKingmakerVarnholdsLotDLC_OwlcatGames_DLC_S2_1200x1600-2c0c576e4e1fcb86abd48e14cc8c7449",
+      "md5": "2c0c576e4e1fcb86abd48e14cc8c7449",
+      "size": 769421,
+      "uploadedDate": "2021-04-21T20:02:03.623Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PathfinderKingmakerVarnholdsLotDLC_OwlcatGames_DLC_S2_1200x1600-2c0c576e4e1fcb86abd48e14cc8c7449",
+      "md5": "2c0c576e4e1fcb86abd48e14cc8c7449",
+      "size": 769421,
+      "uploadedDate": "2021-04-21T20:02:19.125Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PathfinderKingmakerVarnholdsLotDLC_OwlcatGames_DLC_S2_1200x1600-2c0c576e4e1fcb86abd48e14cc8c7449",
+      "md5": "2c0c576e4e1fcb86abd48e14cc8c7449",
+      "size": 769421,
+      "uploadedDate": "2021-04-21T20:02:28.111Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "fd452f2cd10843bc9003f63e397c679f"
+    },
+    {
+      "id": "093bc55d951e4ea2b24faaa6b4848fba"
+    }
+  ],
+  "catalogNs": {
+    "name": "6daaf10529e94fccaa8ee43b66adbe4a"
+  }
+}
