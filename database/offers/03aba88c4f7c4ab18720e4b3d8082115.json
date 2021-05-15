@@ -5,10 +5,10 @@
   "description": "Hood: Outlaws & Legends Year 1 Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "hood-outlaws-and-legends/year-one-edition  ",
+  "productSlug": "hood-outlaws-and-legends/year-one-edition",
   "urlSlug": "nyxy1edition",
   "creationDate": "2020-11-20T22:59:50.212Z",
-  "lastModifiedDate": "2021-05-10T14:51:32.530Z",
+  "lastModifiedDate": "2021-05-14T20:13:31.474Z",
   "effectiveDate": "2021-05-10T15:00:00.000Z",
   "viewableDate": "2021-05-10T15:00:00.000Z",
   "developer": null,
@@ -50,7 +50,7 @@
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "hood-outlaws-and-legends/year-one-edition  "
+      "value": "hood-outlaws-and-legends/year-one-edition"
     }
   ],
   "keyImages": [

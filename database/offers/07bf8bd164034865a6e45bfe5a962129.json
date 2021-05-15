@@ -5,10 +5,10 @@
   "description": "Realpolitiks IIDeluxe Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
+  "productSlug": "realpolitiks-2--deluxe-edition",
   "urlSlug": "hotel-general-audience-01",
   "creationDate": "2021-05-10T17:52:40.486Z",
-  "lastModifiedDate": "2021-05-12T15:56:59.296Z",
+  "lastModifiedDate": "2021-05-14T19:30:35.762Z",
   "effectiveDate": "2021-05-12T17:00:00.000Z",
   "viewableDate": "2021-05-12T17:00:00.000Z",
   "developer": null,
@@ -47,6 +47,10 @@
     {
       "key": "developerName",
       "value": "Jujubee S.A."
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "realpolitiks-2--deluxe-edition"
     }
   ],
   "keyImages": [

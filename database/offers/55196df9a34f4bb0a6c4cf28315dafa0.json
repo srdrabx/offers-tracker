@@ -8,7 +8,7 @@
   "productSlug": "spiritfarer",
   "urlSlug": "bengalgeneralaudience",
   "creationDate": "2020-03-30T14:02:48.370Z",
-  "lastModifiedDate": "2021-03-25T11:28:18.799Z",
+  "lastModifiedDate": "2021-05-14T21:01:22.083Z",
   "effectiveDate": "2020-08-18T17:00:00.000Z",
   "viewableDate": "2020-07-30T16:00:00.000Z",
   "developer": null,
@@ -143,55 +143,55 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/8518a041f3064613a354f997aac0c3cb/offer/EGS_Spiritfarer_ThunderLotus_S1-2560x1440-afb7b8980cbaee517b9a3d31a41d7d8d.jpg",
-      "md5": "afb7b8980cbaee517b9a3d31a41d7d8d",
-      "size": 986394,
-      "uploadedDate": "2020-07-30T02:54:07.853Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Spiritfarer_ThunderLotus_S1_2560x1440-93a7ae376bd3ab2690e96d9053641f9d",
+      "md5": "93a7ae376bd3ab2690e96d9053641f9d",
+      "size": 1016292,
+      "uploadedDate": "2021-05-14T21:00:51.487Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/8518a041f3064613a354f997aac0c3cb/offer/EGS_Spiritfarer_ThunderLotus_S2-1200x1600-94b29d653d9ba4dd4106effa6f7c954e.jpg",
-      "md5": "94b29d653d9ba4dd4106effa6f7c954e",
-      "size": 919846,
-      "uploadedDate": "2020-07-30T02:54:16.584Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/8518a041f3064613a354f997aac0c3cb/offer/EGS_Spiritfarer_ThunderLotus_S2-1200x1600-94b29d653d9ba4dd4106effa6f7c954e.jpg",
-      "md5": "94b29d653d9ba4dd4106effa6f7c954e",
-      "size": 919846,
-      "uploadedDate": "2020-07-30T02:54:21.403Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/8518a041f3064613a354f997aac0c3cb/offer/EGS_Spiritfarer_ThunderLotus_S2-1200x1600-94b29d653d9ba4dd4106effa6f7c954e.jpg",
-      "md5": "94b29d653d9ba4dd4106effa6f7c954e",
-      "size": 919846,
-      "uploadedDate": "2020-07-30T02:54:26.402Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Spiritfarer_ThunderLotus_S2_1200x1600-3dd2b0e4da0de06dbcdab261388f0bd8",
+      "md5": "3dd2b0e4da0de06dbcdab261388f0bd8",
+      "size": 1031343,
+      "uploadedDate": "2021-05-14T21:00:55.352Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/8518a041f3064613a354f997aac0c3cb/offer/EGS_Spiritfarer_ThunderLotus_S1-2560x1440-afb7b8980cbaee517b9a3d31a41d7d8d.jpg",
-      "md5": "afb7b8980cbaee517b9a3d31a41d7d8d",
-      "size": 986394,
-      "uploadedDate": "2020-07-30T02:54:32.662Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Spiritfarer_ThunderLotus_S1_2560x1440-93a7ae376bd3ab2690e96d9053641f9d",
+      "md5": "93a7ae376bd3ab2690e96d9053641f9d",
+      "size": 1016292,
+      "uploadedDate": "2021-05-14T21:01:01.923Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/8518a041f3064613a354f997aac0c3cb/offer/EGS_Spiritfarer_ThunderLotus_S2-1200x1600-94b29d653d9ba4dd4106effa6f7c954e.jpg",
-      "md5": "94b29d653d9ba4dd4106effa6f7c954e",
-      "size": 919846,
-      "uploadedDate": "2020-07-30T02:54:40.407Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Spiritfarer_ThunderLotus_S2_1200x1600-3dd2b0e4da0de06dbcdab261388f0bd8",
+      "md5": "3dd2b0e4da0de06dbcdab261388f0bd8",
+      "size": 1031343,
+      "uploadedDate": "2021-05-14T21:01:07.097Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Spiritfarer_ThunderLotus_S2_1200x1600-3dd2b0e4da0de06dbcdab261388f0bd8",
+      "md5": "3dd2b0e4da0de06dbcdab261388f0bd8",
+      "size": 1031343,
+      "uploadedDate": "2021-05-14T21:01:11.135Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Spiritfarer_ThunderLotus_S2_1200x1600-3dd2b0e4da0de06dbcdab261388f0bd8",
+      "md5": "3dd2b0e4da0de06dbcdab261388f0bd8",
+      "size": 1031343,
+      "uploadedDate": "2021-05-14T21:01:14.565Z",
       "width": 1200,
       "height": 1600
     }

@@ -722,9 +722,9 @@
     ],
     "Focus Home",
     1605913190,
-    1620658292,
+    1621023211,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Year1Edition_SumoDigital_Editions_S2-1200x1600-392d4cefe07a87c8a28504ac581fca5f_1200x1600-392d4cefe07a87c8a28504ac581fca5f",
-    "hood-outlaws-and-legends/year-one-edition  "
+    "hood-outlaws-and-legends/year-one-edition"
   ],
   [
     "03abf1f33ad74134a8e0b5369777fb9b",
@@ -1694,9 +1694,9 @@
     ],
     "1C Online Games Ltd",
     1620669160,
-    1620835019,
+    1621020635,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RealpolitiksIIDeluxeedition_JujubeeSA_Editions_S2_1200x1600-d26ee3186990c4fb811b5dbbe358fedd",
-    ""
+    "realpolitiks-2--deluxe-edition"
   ],
   [
     "07c6a2e544274070b9e9ee78316c5774",
@@ -3164,8 +3164,8 @@
     ],
     "Grinding Gear Games",
     1589829039,
-    1611166171,
-    "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/EGS_PathofExile_GrindingGearGames_S6-1200x1600-ba5f369d479d1c0394f1fc11ac76457f.jpg",
+    1621020745,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PathofExile_GrindingGearGames_S2_1200x1600-66910c111571c37c7e2d4032ff0a3e4c",
     "path-of-exile/home"
   ],
   [
@@ -10962,9 +10962,9 @@
       "games/edition",
       "applications"
     ],
-    "Fabraz LLC",
+    "Playtonic Ltd",
     1591110934,
-    1593780018,
+    1621037679,
     "https://cdn1.epicgames.com/3e7e7c2bc1644a25a99b3a4c4ef1ff33/offer/EGS_DemonTurf_Fabraz_S6-1200x1600-e20159aab1337b05fb4cbc9b8158d230.jpg",
     "demon-turf"
   ],
@@ -20291,8 +20291,8 @@
     ],
     "Thunder Lotus Games",
     1585576968,
-    1616671698,
-    "https://cdn1.epicgames.com/8518a041f3064613a354f997aac0c3cb/offer/EGS_Spiritfarer_ThunderLotus_S2-1200x1600-94b29d653d9ba4dd4106effa6f7c954e.jpg",
+    1621026082,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Spiritfarer_ThunderLotus_S2_1200x1600-3dd2b0e4da0de06dbcdab261388f0bd8",
     "spiritfarer"
   ],
   [
@@ -44360,7 +44360,7 @@
     ],
     "Ubisoft Entertainment",
     1620275622,
-    1620914808,
+    1621019242,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_ACV_DLC_1_EPIC_Store_Portrait_1200x1600_1200x1600-9666bb2b781dffd7b08fec0be197fd57",
     ""
   ],
@@ -57309,6 +57309,22 @@
     1620313393,
     "",
     ""
+  ],
+  [
+    "f1734e14a4db4f17a691910f59f4010c",
+    "000ac10599a14d4dbe6ce5b817040fdd",
+    "NeuroNet: Mendax Proxy",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Dream Harvest",
+    1610148015,
+    1621016023,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_NeuroNetMendaxProxy_DreamHarvest_S2_1200x1600-d051ed38194334c3abc1cc68bcef7089",
+    "neuronet-mendax-proxy"
   ],
   [
     "f182baaea2b9410aaca4cca73955d444",

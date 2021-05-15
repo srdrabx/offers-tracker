@@ -6,9 +6,9 @@
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": "path-of-exile/home",
-  "urlSlug": "pathofexilegeneralaudience",
+  "urlSlug": "path-of-exile",
   "creationDate": "2020-05-18T19:10:39.501Z",
-  "lastModifiedDate": "2021-01-20T18:09:31.661Z",
+  "lastModifiedDate": "2021-05-14T19:32:25.638Z",
   "effectiveDate": "2020-09-16T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -63,18 +63,6 @@
       "comment": null
     },
     {
-      "id": "1333",
-      "name": "Action RPG",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:03.965Z",
-      "updated": "2021-02-05T16:12:39.524Z",
-      "status": "ACTIVE",
-      "referenceCount": 3,
-      "comment": null
-    },
-    {
       "id": "1141",
       "name": "Free to Play",
       "namespace": "epic",
@@ -84,6 +72,18 @@
       "updated": "2021-02-05T16:15:57.293Z",
       "status": "ACTIVE",
       "referenceCount": 6,
+      "comment": null
+    },
+    {
+      "id": "1333",
+      "name": "Action RPG",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:03.965Z",
+      "updated": "2021-02-05T16:12:39.524Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
       "comment": null
     },
     {
@@ -116,55 +116,55 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/EGS_PathofExile_GrindingGearGames_S1-2560x1440-21d4aab562da1b455dbabe057a23b126.jpg",
-      "md5": "21d4aab562da1b455dbabe057a23b126",
-      "size": 931076,
-      "uploadedDate": "2021-01-20T18:08:42.798Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PathofExile_GrindingGearGames_S1_2560x1440-5f96551de54a25d5e4116722f6661da9",
+      "md5": "5f96551de54a25d5e4116722f6661da9",
+      "size": 636135,
+      "uploadedDate": "2021-05-14T19:31:53.628Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/EGS_PathofExile_GrindingGearGames_S2-1200x1600-ba5f369d479d1c0394f1fc11ac76457f.jpg",
-      "md5": "ba5f369d479d1c0394f1fc11ac76457f",
-      "size": 620313,
-      "uploadedDate": "2021-01-20T18:08:47.177Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PathofExile_GrindingGearGames_S2_1200x1600-66910c111571c37c7e2d4032ff0a3e4c",
+      "md5": "66910c111571c37c7e2d4032ff0a3e4c",
+      "size": 450428,
+      "uploadedDate": "2021-05-14T19:31:59.032Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/EGS_PathofExile_GrindingGearGames_S1-2560x1440-21d4aab562da1b455dbabe057a23b126.jpg",
-      "md5": "21d4aab562da1b455dbabe057a23b126",
-      "size": 931076,
-      "uploadedDate": "2021-01-20T18:09:03.957Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PathofExile_GrindingGearGames_S1_2560x1440-5f96551de54a25d5e4116722f6661da9",
+      "md5": "5f96551de54a25d5e4116722f6661da9",
+      "size": 636135,
+      "uploadedDate": "2021-05-14T19:31:56.547Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/EGS_PathofExile_GrindingGearGames_S2-1200x1600-ba5f369d479d1c0394f1fc11ac76457f.jpg",
-      "md5": "ba5f369d479d1c0394f1fc11ac76457f",
-      "size": 620313,
-      "uploadedDate": "2021-01-20T18:09:07.508Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PathofExile_GrindingGearGames_S2_1200x1600-66910c111571c37c7e2d4032ff0a3e4c",
+      "md5": "66910c111571c37c7e2d4032ff0a3e4c",
+      "size": 450428,
+      "uploadedDate": "2021-05-14T19:32:01.628Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/EGS_PathofExile_GrindingGearGames_S6-1200x1600-ba5f369d479d1c0394f1fc11ac76457f.jpg",
-      "md5": "ba5f369d479d1c0394f1fc11ac76457f",
-      "size": 620313,
-      "uploadedDate": "2021-01-20T18:09:23.450Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PathofExile_GrindingGearGames_S2_1200x1600-66910c111571c37c7e2d4032ff0a3e4c",
+      "md5": "66910c111571c37c7e2d4032ff0a3e4c",
+      "size": 450428,
+      "uploadedDate": "2021-05-14T19:32:04.217Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/EGS_PathofExile_GrindingGearGames_S6-1200x1600-ba5f369d479d1c0394f1fc11ac76457f.jpg",
-      "md5": "ba5f369d479d1c0394f1fc11ac76457f",
-      "size": 620313,
-      "uploadedDate": "2021-01-20T18:09:26.369Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PathofExile_GrindingGearGames_S2_1200x1600-66910c111571c37c7e2d4032ff0a3e4c",
+      "md5": "66910c111571c37c7e2d4032ff0a3e4c",
+      "size": 450428,
+      "uploadedDate": "2021-05-14T19:32:08.631Z",
       "width": 1200,
       "height": 1600
     }

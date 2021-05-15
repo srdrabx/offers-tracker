@@ -6,15 +6,15 @@
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": "demon-turf",
-  "urlSlug": "devoberonaudience-01",
+  "urlSlug": "demon-turf",
   "creationDate": "2020-06-02T15:15:34.268Z",
-  "lastModifiedDate": "2020-07-03T12:40:18.365Z",
+  "lastModifiedDate": "2021-05-15T00:14:39.369Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2020-07-03T13:00:00.000Z",
   "developer": null,
   "seller": {
-    "id": "o-458ql9emykk38kpq6fh5qhfb52efyx",
-    "name": "Fabraz LLC"
+    "id": "o-qg5pfv55aq3xfvsvgyqhkdasezmsyn",
+    "name": "Playtonic Ltd"
   },
   "linkedOfferId": null,
   "isFeatured": false,
@@ -103,6 +103,10 @@
     {
       "key": "com.epicgames.app.blacklist",
       "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Playtonic"
     },
     {
       "key": "developerName",
