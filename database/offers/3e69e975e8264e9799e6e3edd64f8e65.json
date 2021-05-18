@@ -8,7 +8,7 @@
   "productSlug": "arise-a-simple-story/home",
   "urlSlug": "railgeneralaudience",
   "creationDate": "2019-08-22T22:25:56.201Z",
-  "lastModifiedDate": "2020-08-18T22:20:22.276Z",
+  "lastModifiedDate": "2021-05-18T15:21:51.612Z",
   "effectiveDate": "2019-12-02T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -103,10 +103,6 @@
     {
       "key": "com.epicgames.app.blacklist",
       "value": "{}"
-    },
-    {
-      "key": "publisherName",
-      "value": "Techland"
     },
     {
       "key": "developerName",

@@ -1,0 +1,88 @@
+{
+  "id": "b016028ea6184eb8a5102cc7f5eb9466",
+  "namespace": "84c76746bce94effb8e1047fabfd7eb7",
+  "title": "Oktyabrskaya Revolutsiya MEGA Pack",
+  "description": "Oktyabrskaya Revolutsiya MEGA Pack",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "oktyabrskaya-revolutsiya-mega-pack",
+  "creationDate": "2021-05-18T04:50:46.738Z",
+  "lastModifiedDate": "2021-05-18T04:50:46.738Z",
+  "effectiveDate": "2099-03-18T13:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-zl36d39u5ep2gt2fv2vfwgnwkxfypl",
+    "name": "Wargaming Group Limited"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Wargaming"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/84c76746bce94effb8e1047fabfd7eb7/offer/EGS_WorldofWarships_WargamingGroupLimited_S3-2560x1440-c2e6ea5e3e8679bac2fc753de2bbfe47.jpg",
+      "md5": "c2e6ea5e3e8679bac2fc753de2bbfe47",
+      "size": 922056,
+      "uploadedDate": "2021-03-16T20:18:21.204Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/84c76746bce94effb8e1047fabfd7eb7/offer/EGS_WorldofWarships_WargamingGroupLimited_S2-1200x1600-f96166935d3d0b84086c6021c188ac0e.jpg",
+      "md5": "f96166935d3d0b84086c6021c188ac0e",
+      "size": 918896,
+      "uploadedDate": "2021-03-16T20:18:27.292Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/84c76746bce94effb8e1047fabfd7eb7/offer/EGS_WorldofWarships_WargamingGroupLimited_S2-1200x1600-f96166935d3d0b84086c6021c188ac0e.jpg",
+      "md5": "f96166935d3d0b84086c6021c188ac0e",
+      "size": 918896,
+      "uploadedDate": "2021-03-16T20:18:34.545Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/84c76746bce94effb8e1047fabfd7eb7/offer/EGS_WorldofWarships_WargamingGroupLimited_S2-1200x1600-f96166935d3d0b84086c6021c188ac0e.jpg",
+      "md5": "f96166935d3d0b84086c6021c188ac0e",
+      "size": 918896,
+      "uploadedDate": "2021-03-16T20:18:40.576Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "6f379e676e854ef2a23a89153d62ccad"
+    }
+  ],
+  "catalogNs": {
+    "name": "84c76746bce94effb8e1047fabfd7eb7"
+  }
+}

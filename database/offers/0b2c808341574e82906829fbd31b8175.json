@@ -3,12 +3,12 @@
   "namespace": "2744acda6a2e493e9894b389b6564df7",
   "title": "SnowRunner - Loaded Dice Vinyl Wrap",
   "description": "Customize your SnowRunner experience with the unique Loaded Dice Vinyl Wrap for the White Western Star 4964.",
-  "longDescription": "Customize your SnowRunner experience with the unique Loaded Dice Vinyl Wrap skin for the White Western Star 4964. \n\nThe Loaded Dice Vinyl Wrap adds a set of flaming smoke-trailed dice to the side of your White Western Star 4964.\n\nThis custom skin is included for all Season Pass owners.\n",
+  "longDescription": "Customize your SnowRunner experience with the unique Loaded Dice Vinyl Wrap skin for the White Western Star 4964. \n\nThe Loaded Dice Vinyl Wrap adds a set of flaming smoke-trailed dice to the side of your White Western Star 4964.\n\nThis custom skin is included for all Year 1 Pass owners.",
   "status": "ACTIVE",
-  "productSlug": "snowrunner/loaded-dice-vinyl-wrap",
+  "productSlug": null,
   "urlSlug": "snowrunner--loaded-dice-vinyl-wrap",
   "creationDate": "2020-03-19T17:56:34.647Z",
-  "lastModifiedDate": "2020-11-16T14:00:56.297Z",
+  "lastModifiedDate": "2021-05-18T00:25:34.162Z",
   "effectiveDate": "2020-04-27T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -26,9 +26,6 @@
   "categories": [
     {
       "path": "addons"
-    },
-    {
-      "path": "games"
     },
     {
       "path": "addons/durable"
@@ -114,39 +111,71 @@
     {
       "key": "developerName",
       "value": "Saber Interactive"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "snowrunner/loaded-dice-vinyl-wrap"
     }
   ],
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SnowRunner_LoadedDicePack_EGS_Desktop-Horizontal-1360x766-1360x766-42ac310a88fd5c787491d7f0028abf09.jpg",
-      "md5": "42ac310a88fd5c787491d7f0028abf09",
-      "size": 295163,
-      "uploadedDate": "2020-04-21T22:30:58.467Z",
-      "width": 1360,
-      "height": 766
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SnowRunnerLoadedDiceVinylWrap_SaberInteractive_DLC_S1_2560x1440-5dbaef6659641561fc04f666e24052b8",
+      "md5": "5dbaef6659641561fc04f666e24052b8",
+      "size": 448372,
+      "uploadedDate": "2021-05-13T19:40:28.017Z",
+      "width": 2560,
+      "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SnowRunner_LoadedDicePack_EGS_Desktop-Vertical-510x680-510x680-ac6258f4f8f1a926fd64a36cffbb5a20.jpg",
-      "md5": "ac6258f4f8f1a926fd64a36cffbb5a20",
-      "size": 119581,
-      "uploadedDate": "2020-04-21T22:31:07.019Z",
-      "width": 510,
-      "height": 680
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SnowRunnerLoadedDiceVinylWrap_SaberInteractive_DLC_S2_1200x1600-f24215bf555a102b255a61adc9225ccd",
+      "md5": "f24215bf555a102b255a61adc9225ccd",
+      "size": 442866,
+      "uploadedDate": "2021-05-13T19:40:32.849Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SnowRunner_LoadedDicePack_EGS_Desktop-Vertical-510x680-510x680-ac6258f4f8f1a926fd64a36cffbb5a20.jpg",
-      "md5": "ac6258f4f8f1a926fd64a36cffbb5a20",
-      "size": 119581,
-      "uploadedDate": "2020-04-21T22:31:16.501Z",
-      "width": 510,
-      "height": 680
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SnowRunnerLoadedDiceVinylWrap_SaberInteractive_DLC_S2_1200x1600-f24215bf555a102b255a61adc9225ccd",
+      "md5": "f24215bf555a102b255a61adc9225ccd",
+      "size": 442866,
+      "uploadedDate": "2021-05-13T19:40:38.607Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SnowRunnerLoadedDiceVinylWrap_SaberInteractive_DLC_S2_1200x1600-f24215bf555a102b255a61adc9225ccd",
+      "md5": "f24215bf555a102b255a61adc9225ccd",
+      "size": 442866,
+      "uploadedDate": "2021-05-13T19:40:44.994Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SnowRunnerLoadedDiceVinylWrap_SaberInteractive_DLC_S1_2560x1440-5dbaef6659641561fc04f666e24052b8",
+      "md5": "5dbaef6659641561fc04f666e24052b8",
+      "size": 448372,
+      "uploadedDate": "2021-05-13T19:41:02.099Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SnowRunnerLoadedDiceVinylWrap_SaberInteractive_DLC_S2_1200x1600-f24215bf555a102b255a61adc9225ccd",
+      "md5": "f24215bf555a102b255a61adc9225ccd",
+      "size": 442866,
+      "uploadedDate": "2021-05-13T19:41:08.174Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SnowRunnerLoadedDiceVinylWrap_SaberInteractive_DLC_IC1_200x142-004192a716a682c285bf8135711cc78e",
+      "md5": "004192a716a682c285bf8135711cc78e",
+      "size": 38744,
+      "uploadedDate": "2021-05-13T19:41:19.950Z",
+      "width": 200,
+      "height": 142
     }
   ],
   "items": [

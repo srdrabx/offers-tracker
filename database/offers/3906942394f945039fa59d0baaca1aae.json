@@ -2,13 +2,13 @@
   "id": "3906942394f945039fa59d0baaca1aae",
   "namespace": "2744acda6a2e493e9894b389b6564df7",
   "title": "SnowRunner - Season 1: Search & Recover",
-  "description": "Expand your SnowRunner experience with Season 1: Search & Recover to discover a wealth of new challenges. This DLC gives you access to two brand new maps in Russia’s Kola Peninsula alongside new vehicles, missions, skins, and more!",
-  "longDescription": "Expand your SnowRunner experience with Season 1: Search & Recover to discover a wealth of new challenges. This DLC gives you access to two brand new maps in Russia’s Kola Peninsula alongside new vehicles, missions, skins, and more! \n\nDelivered via three updates over the summer of 2020, Season 1: Search & Recover can also be purchased as part of the SnowRunner Season Pass.\n\n# Season 1: Search & Recover includes:\n\n● Two new winter maps in Russia’s Kola Peninsula, taking you on a modern-day treasure hunt for the remnants of a WWII bomber. \n● New vehicles, including the TUZ 16 “Actaeon”, and the Ford 750 4x4 CrewCab\n● New vehicle skins and interior cosmetics.",
+  "description": "Expand your SnowRunner experience with Season 1: Search & Recover to discover a wealth of new challenges. This DLC gives you access to two brand new maps in Russia’s Kola Peninsula alongside new vehicles, missions, skins, and more! ",
+  "longDescription": "Expand your SnowRunner experience with Season 1: Search & Recover to discover a wealth of new challenges. This DLC gives you access to two brand new maps in Russia’s Kola Peninsula alongside new vehicles, missions, skins, and more! \n\nSeason 1: Search & Recover can also be purchased as part of the SnowRunner Year 1 Pass.\n\nSeason 1: Search & Recover includes:\n- Two new winter maps in Russia’s Kola Peninsula, taking you on a modern-day treasure hunt for the remnants of a WWII bomber. \n- New vehicles, including the TUZ 16 “Actaeon”, and the Ford 750 4x4 CrewCab \n- New vehicle skins and interior cosmetics.",
   "status": "ACTIVE",
-  "productSlug": "snowrunner/season-1",
-  "urlSlug": "snowrunner--season",
+  "productSlug": null,
+  "urlSlug": "snowrunner--season-1-search-and-recover",
   "creationDate": "2020-07-03T15:38:03.737Z",
-  "lastModifiedDate": "2020-11-16T14:00:56.354Z",
+  "lastModifiedDate": "2021-05-18T00:24:38.368Z",
   "effectiveDate": "2020-07-15T13:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -135,48 +135,143 @@
     {
       "key": "developerName",
       "value": "Saber Interactive"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "snowrunner/season-1"
     }
   ],
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SnowRunner_SeasonPass_Season1_EpicGames_Desktop-Horizontal-1360x766-1360x766-535f073f20998c318f6c1065fde8cc11.jpg",
-      "md5": "535f073f20998c318f6c1065fde8cc11",
-      "size": 273753,
-      "uploadedDate": "2020-07-03T15:36:55.490Z",
-      "width": 1360,
-      "height": 766
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SnowRunnerSaison1SearchRecover_SaberInteractive_DLC_S1_2560x1440-9d213e8a6cf78f46d01fcf5a26bc5aed",
+      "md5": "9d213e8a6cf78f46d01fcf5a26bc5aed",
+      "size": 596304,
+      "uploadedDate": "2021-05-13T20:14:24.078Z",
+      "width": 2560,
+      "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SnowRunner_SeasonPass_Season1_EpicGames_PortraitImage_860x1148-860x1148-dc608b11550e7b92449f6df31100e65b.jpg",
-      "md5": "dc608b11550e7b92449f6df31100e65b",
-      "size": 226986,
-      "uploadedDate": "2020-07-03T15:37:04.180Z",
-      "width": 860,
-      "height": 1148
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SnowRunnerSaison1SearchRecover_SaberInteractive_DLC_S2_1200x1600-c20e0f962da2abbff6668c059886284d",
+      "md5": "c20e0f962da2abbff6668c059886284d",
+      "size": 345102,
+      "uploadedDate": "2021-05-13T20:14:28.361Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SnowRunner_SeasonPass_Season1_EpicGames_PortraitImage_860x1148-860x1148-dc608b11550e7b92449f6df31100e65b.jpg",
-      "md5": "dc608b11550e7b92449f6df31100e65b",
-      "size": 226986,
-      "uploadedDate": "2020-07-03T15:37:40.225Z",
-      "width": 860,
-      "height": 1148
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SnowRunnerSaison1SearchRecover_SaberInteractive_DLC_S2_1200x1600-c20e0f962da2abbff6668c059886284d",
+      "md5": "c20e0f962da2abbff6668c059886284d",
+      "size": 345102,
+      "uploadedDate": "2021-05-13T20:15:53.316Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SnowRunner_SeasonPass_Season1_EpicGames_PortraitImage_860x1148-860x1148-dc608b11550e7b92449f6df31100e65b.jpg",
-      "md5": "dc608b11550e7b92449f6df31100e65b",
-      "size": 226986,
-      "uploadedDate": "2020-07-03T15:37:31.842Z",
-      "width": 860,
-      "height": 1148
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SnowRunnerSaison1SearchRecover_SaberInteractive_DLC_S2_1200x1600-c20e0f962da2abbff6668c059886284d",
+      "md5": "c20e0f962da2abbff6668c059886284d",
+      "size": 345102,
+      "uploadedDate": "2021-05-13T20:16:01.107Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SnowRunnerSaison1SearchRecover_SaberInteractive_DLC_S1_2560x1440-9d213e8a6cf78f46d01fcf5a26bc5aed",
+      "md5": "9d213e8a6cf78f46d01fcf5a26bc5aed",
+      "size": 596304,
+      "uploadedDate": "2021-05-13T20:16:06.600Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SnowRunnerSaison1SearchRecover_SaberInteractive_DLC_S2_1200x1600-c20e0f962da2abbff6668c059886284d",
+      "md5": "c20e0f962da2abbff6668c059886284d",
+      "size": 345102,
+      "uploadedDate": "2021-05-13T20:16:13.109Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SnowRunnerSaison1SearchRecover_SaberInteractive_DLC_IC1_200x119-e2e9b4892618e756a3d25d990e6d5cd2",
+      "md5": "e2e9b4892618e756a3d25d990e6d5cd2",
+      "size": 28489,
+      "uploadedDate": "2021-05-13T20:16:17.699Z",
+      "width": 200,
+      "height": 119
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/1_3840x2160-bc4e023da8540349c63f69d5c62da040",
+      "md5": "bc4e023da8540349c63f69d5c62da040",
+      "size": 1179764,
+      "uploadedDate": "2021-05-17T22:49:40.471Z",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/2_3840x2160-eaff7c76ef5024ad9b73b76ea6be7b4f",
+      "md5": "eaff7c76ef5024ad9b73b76ea6be7b4f",
+      "size": 673683,
+      "uploadedDate": "2021-05-17T22:49:50.949Z",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/3_3840x2160-ae60a84b84cebda41fbf8239ed13335a",
+      "md5": "ae60a84b84cebda41fbf8239ed13335a",
+      "size": 1672504,
+      "uploadedDate": "2021-05-17T22:50:02.817Z",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/4_3840x2160-affd7e678209ecd178f43c5aabdd1abb",
+      "md5": "affd7e678209ecd178f43c5aabdd1abb",
+      "size": 828895,
+      "uploadedDate": "2021-05-17T22:50:13.188Z",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/5_3840x2160-1d4340073e0c19463f2b91bbaf16d175",
+      "md5": "1d4340073e0c19463f2b91bbaf16d175",
+      "size": 818969,
+      "uploadedDate": "2021-05-17T22:50:23.572Z",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/6_3840x2160-bcfccf2b4c2a6df94ce2be184cce7692",
+      "md5": "bcfccf2b4c2a6df94ce2be184cce7692",
+      "size": 892875,
+      "uploadedDate": "2021-05-17T22:50:33.392Z",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/7_3840x2160-78a4b32d61d877c2708ad7abc8149fc6",
+      "md5": "78a4b32d61d877c2708ad7abc8149fc6",
+      "size": 1252334,
+      "uploadedDate": "2021-05-17T22:50:46.107Z",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/8_3840x2160-8e06e37884f8a95f2b296a3e788ff408",
+      "md5": "8e06e37884f8a95f2b296a3e788ff408",
+      "size": 794881,
+      "uploadedDate": "2021-05-17T22:50:55.975Z",
+      "width": 3840,
+      "height": 2160
     }
   ],
   "items": [

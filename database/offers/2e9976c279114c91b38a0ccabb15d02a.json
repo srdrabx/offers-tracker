@@ -1,14 +1,14 @@
 {
   "id": "2e9976c279114c91b38a0ccabb15d02a",
   "namespace": "2744acda6a2e493e9894b389b6564df7",
-  "title": "SnowRunner - Season Pass",
-  "description": "Get ready for the next-generation off-road experience!",
-  "longDescription": "Save money on content for this game by purchasing the Season Pass. Content can be downloaded from the Epic Games Store or in-game upon release.\n\nThe Season Pass grants you access to the exclusive Sabertooth skin for the Heavy Duty Derry Longhorn 4520, as well as the 4 phases of new content to be released in the future, including new trucks, new maps, add-ons and more!\n\nAlready available: \n• Derry Longhorn 4520 Sabertooth Livery\n• High Roller Pack\n• Loaded Dice Vinyl Wrap\n• Scorched Vinyl Wrap\n• True Colors Vinyl Wrap\n• Season 1 “Search & Recover”\n• Season 2 “Explore & Expand”\n\nComing Soon:\n• Season 3 “Locate & Deliver”\n• Season 4: New expansion\"",
+  "title": "Year 1 Pass",
+  "description": "Expand your SnowRunner experience with the Year 1 Pass, granting you access to the exclusive Sabertooth skin for the Heavy Duty Derry Longhorn 4520, as well as new vehicles, new skins, new missions, new maps to explore and more.",
+  "longDescription": "The Year 1 Pass grants you access to the exclusive Sabertooth skin for the Heavy Duty Derry Longhorn 4520, as well as the 4 phases of new content to be released in the future, including new trucks, new maps, add-ons and more!\n\n• Season  1 “Search & Recover”\n• Season  2 “Explore & Expand”\n• Season  3 “Locate & Deliver”\n• Season  4 \"New Frontiers\"\n• High Roller Pack\n• Loaded Dice Vinyl Wrap\n• Scorched Vinyl Wrap\n• True Colors Vinyl Wrap",
   "status": "ACTIVE",
-  "productSlug": "snowrunner/season-pass",
-  "urlSlug": "snowrunner--season-pass",
+  "productSlug": null,
+  "urlSlug": "snowrunner--year-1-pass",
   "creationDate": "2020-01-09T23:03:34.833Z",
-  "lastModifiedDate": "2021-01-19T16:32:54.489Z",
+  "lastModifiedDate": "2021-05-18T00:24:10.647Z",
   "effectiveDate": "2020-04-27T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -26,9 +26,6 @@
   "categories": [
     {
       "path": "addons"
-    },
-    {
-      "path": "games"
     },
     {
       "path": "addons/durable"
@@ -138,48 +135,71 @@
     {
       "key": "developerName",
       "value": "Saber Interactive"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "snowrunner/season-pass"
     }
   ],
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SnowRunner_SeasonPass_EpicGames_Desktop-Horizontal-1360x766-1360x766-941c06ff1c03dbc4067f0eab78776e6ed95a58ba.jpg",
-      "md5": "5e980a03a625a7901c524845c882e6ff",
-      "size": 106299,
-      "uploadedDate": "2020-02-12T09:41:44.790Z",
-      "width": 1360,
-      "height": 766
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/Diesel_productv2_snowrunner_season-pass_SnowRunner_SeasonPass_EpicGames_PortraitImage_860x1148-860x1148-9d4551c326d97f49b953ec9e912005c746fdd9ef-860x1148-ec3088c828d55a979717ef56e95247f4.jpg",
-      "md5": "ec3088c828d55a979717ef56e95247f4",
-      "size": 198044,
-      "uploadedDate": "2020-02-14T18:42:35.587Z",
-      "width": 860,
-      "height": 1148
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/Diesel_productv2_snowrunner_season-pass_SnowRunner_SeasonPass_EpicGames_LandscapeImage_2560x1440-2560x1440-920fde28045a9be6d63325c8809a983600c996fa-2560x1440-4227c1e8398c4779e8225f5c56f5568f.jpg",
-      "md5": "4227c1e8398c4779e8225f5c56f5568f",
-      "size": 286100,
-      "uploadedDate": "2020-02-14T18:42:49.762Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SnowRunnerYear1Pass_SaberInteractive_SeasonPass_S1_2560x1440-ef02f269984d5ec937174f5151f2a9eb",
+      "md5": "ef02f269984d5ec937174f5151f2a9eb",
+      "size": 743931,
+      "uploadedDate": "2021-05-13T18:51:11.048Z",
       "width": 2560,
       "height": 1440
     },
     {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SnowRunnerYear1Pass_SaberInteractive_SeasonPass_S2_1200x1600-a78253b3393d9c88bcf018e705300f56",
+      "md5": "a78253b3393d9c88bcf018e705300f56",
+      "size": 395456,
+      "uploadedDate": "2021-05-13T18:51:15.601Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SnowRunnerYear1Pass_SaberInteractive_SeasonPass_S2_1200x1600-a78253b3393d9c88bcf018e705300f56",
+      "md5": "a78253b3393d9c88bcf018e705300f56",
+      "size": 395456,
+      "uploadedDate": "2021-05-13T18:51:21.063Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/Diesel_productv2_snowrunner_season-pass_SnowRunner_SeasonPass_EpicGames_PortraitImage_860x1148-860x1148-9d4551c326d97f49b953ec9e912005c746fdd9ef-860x1148-ec3088c828d55a979717ef56e95247f4.jpg",
-      "md5": "ec3088c828d55a979717ef56e95247f4",
-      "size": 198044,
-      "uploadedDate": "2020-02-14T18:42:59.457Z",
-      "width": 860,
-      "height": 1148
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SnowRunnerYear1Pass_SaberInteractive_SeasonPass_S2_1200x1600-a78253b3393d9c88bcf018e705300f56",
+      "md5": "a78253b3393d9c88bcf018e705300f56",
+      "size": 395456,
+      "uploadedDate": "2021-05-13T18:51:29.918Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SnowRunnerYear1Pass_SaberInteractive_SeasonPass_S1_2560x1440-ef02f269984d5ec937174f5151f2a9eb",
+      "md5": "ef02f269984d5ec937174f5151f2a9eb",
+      "size": 743931,
+      "uploadedDate": "2021-05-13T18:51:39.866Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SnowRunnerYear1Pass_SaberInteractive_SeasonPass_S2_1200x1600-a78253b3393d9c88bcf018e705300f56",
+      "md5": "a78253b3393d9c88bcf018e705300f56",
+      "size": 395456,
+      "uploadedDate": "2021-05-13T18:51:45.428Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SnowRunnerYear1Pass_SaberInteractive_SeasonPass_IC1_200x76-5b32e60ac7a34dd94c0b7ad85c40c4ca",
+      "md5": "5b32e60ac7a34dd94c0b7ad85c40c4ca",
+      "size": 19087,
+      "uploadedDate": "2021-05-13T18:51:57.009Z",
+      "width": 200,
+      "height": 76
     }
   ],
   "items": [

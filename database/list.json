@@ -2569,15 +2569,14 @@
     "SnowRunner - Loaded Dice Vinyl Wrap",
     [
       "addons",
-      "games",
       "addons/durable",
       "applications"
     ],
     "Focus Home",
     1584640594,
-    1605535256,
-    "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SnowRunner_LoadedDicePack_EGS_Desktop-Vertical-510x680-510x680-ac6258f4f8f1a926fd64a36cffbb5a20.jpg",
-    "snowrunner/loaded-dice-vinyl-wrap"
+    1621297534,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SnowRunnerLoadedDiceVinylWrap_SaberInteractive_DLC_S2_1200x1600-f24215bf555a102b255a61adc9225ccd",
+    ""
   ],
   [
     "0b3084290d7c431e99615fd28c664bc3",
@@ -5515,7 +5514,7 @@
     ],
     "Focus Home",
     1560446304,
-    1605535256,
+    1621295973,
     "",
     ""
   ],
@@ -5774,14 +5773,15 @@
     "2744acda6a2e493e9894b389b6564df7",
     "SnowRunner - Clasico Pack",
     [
-      "games",
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Focus Home",
     1595282207,
-    1605535256,
-    "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SR-ClasicoPack_EpicGames_Desktop-Vertical-510x680-510x680-4ca1e95b4e665778108ad3b54744715b.jpg",
-    "snowrunner/clasico-pack"
+    1621297509,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SnowRunnerClasicoPack_SaberInteractive_DLC_S2_1200x1600-c7ae30e0db5e1242c1f278b2cbda06cc",
+    ""
   ],
   [
     "186d4ab002914bd5aa6f1cba3e8e36f6",
@@ -6536,15 +6536,14 @@
     "SnowRunner - High Roller Pack",
     [
       "addons",
-      "games",
       "addons/durable",
       "applications"
     ],
     "Focus Home",
     1584640655,
-    1605535256,
-    "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SnowRunner_HighRollerPack_EGS_Desktop-Vertical-510x680-510x680-53e34b80a775f76dea337f6bfd63ce68.jpg",
-    "snowrunner/high-roller-pack"
+    1621297518,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SnowRunnerHighRollerPack_SaberInteractive_DLC_S2_1200x1600-0410cf98299cb7d58d17422ab607ecc9",
+    ""
   ],
   [
     "1ba5e17937784061894b5b90b6818994",
@@ -7201,9 +7200,9 @@
     ],
     "Focus Home",
     1578610756,
-    1612998219,
-    "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/EGS_Season3LocateDeliver_SaberInteractive_DLC_S2-1200x1600-89fceee2a1eada46792721a29d431f68.jpg",
-    "snowrunner/season-3-locate-deliver"
+    1621298354,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Season3LocateDeliver_SaberInteractive_DLC_S2_1200x1600-989b80b4407e5b0468d4ef19bbf0df4b",
+    ""
   ],
   [
     "1e1c963a7f1946f988469cf817938a1d",
@@ -9017,7 +9016,7 @@
     ],
     "Focus Home",
     1589309560,
-    1605535256,
+    1621295973,
     "",
     ""
   ],
@@ -9769,7 +9768,7 @@
     ],
     "NCSoft",
     1592330488,
-    1604985515,
+    1621354552,
     "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_FUSER_Harmonix_S4-1200x1600-1200x1600-402c8bfb1b21516d3e129a4b227e8fe1.jpg",
     "fuser"
   ],
@@ -10313,6 +10312,19 @@
     ""
   ],
   [
+    "2c0bd2d5453548baaae40ac63062bb62",
+    "244aaaa06bfa49d088205b13b9d2d115",
+    "Upgrade DLC 19",
+    [
+      "applications"
+    ],
+    "Digital Extremes",
+    1621298620,
+    1621298620,
+    "",
+    ""
+  ],
+  [
     "2c328a34978546a487861d442713a8e0",
     "9cf250606722448887fa1447b1d9da06",
     "WRC 9 FIA World Rally Championship",
@@ -10653,6 +10665,19 @@
     ""
   ],
   [
+    "2d4e411ac1cb45d49fef31216926febb",
+    "244aaaa06bfa49d088205b13b9d2d115",
+    "DLC 35",
+    [
+      "applications"
+    ],
+    "Digital Extremes",
+    1621294819,
+    1621294819,
+    "",
+    ""
+  ],
+  [
     "2d546ae5f3b14482ad399899eb81498b",
     "493e9ad801e8487497fe7840cb8404bb",
     "Farming Simulator 19 - GRIMME Equipment Pack",
@@ -10863,18 +10888,17 @@
   [
     "2e9976c279114c91b38a0ccabb15d02a",
     "2744acda6a2e493e9894b389b6564df7",
-    "SnowRunner - Season Pass",
+    "Year 1 Pass",
     [
       "addons",
-      "games",
       "addons/durable",
       "applications"
     ],
     "Focus Home",
     1578611014,
-    1611073974,
-    "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/Diesel_productv2_snowrunner_season-pass_SnowRunner_SeasonPass_EpicGames_LandscapeImage_2560x1440-2560x1440-920fde28045a9be6d63325c8809a983600c996fa-2560x1440-4227c1e8398c4779e8225f5c56f5568f.jpg",
-    "snowrunner/season-pass"
+    1621297450,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SnowRunnerYear1Pass_SaberInteractive_SeasonPass_S2_1200x1600-a78253b3393d9c88bcf018e705300f56",
+    ""
   ],
   [
     "2e9e491744c9473d9799547ab8dbb6a4",
@@ -12889,8 +12913,8 @@
     ],
     "Hi-Rez Studios",
     1565990547,
-    1620731634,
-    "https://cdn1.epicgames.com/salesEvent/salesEvent/RoCo-EGS-Season2MackIllustration-Logo-PortraitProductImage-1200x1600_1200x1600-924225d74ad7de4e993e7e5e86ec6581",
+    1621336392,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/RoCo-EGS-Season2MackIllustration-PortraitProductImage-1200x1600_1200x1600-cc4c8a33b91b49737056e259ac350e4b",
     "rogue-company/home"
   ],
   [
@@ -13470,9 +13494,9 @@
     ],
     "Focus Home",
     1593790683,
-    1605535256,
-    "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SnowRunner_SeasonPass_Season1_EpicGames_PortraitImage_860x1148-860x1148-dc608b11550e7b92449f6df31100e65b.jpg",
-    "snowrunner/season-1"
+    1621297478,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SnowRunnerSaison1SearchRecover_SaberInteractive_DLC_S2_1200x1600-c20e0f962da2abbff6668c059886284d",
+    ""
   ],
   [
     "392102f304894f1bbd25fcb3f142b4ad",
@@ -13712,14 +13736,16 @@
   [
     "39cf725aa1b245e99683c9a20a9907b2",
     "076207fa2b5c4803a636af606c3c28b7",
-    "SMITE x MCPB",
+    "SMITE x Monstercat Plus Bundle",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Hi-Rez Studios",
     1619546211,
-    1619551687,
-    "",
+    1621336206,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SMITExMonstercatPlusBundle_TitanForgeGames_AddOn_S2_1200x1600-c0d2e9e0ca593c8cc63567fa04317692",
     ""
   ],
   [
@@ -14881,7 +14907,7 @@
     ],
     "Techland",
     1566512756,
-    1597789222,
+    1621351311,
     "https://cdn1.epicgames.com/0fb229f35a3f4eb788b05ae91419a214/offer/EGS_AriseASimpleStory_Piccolo_S2-1200x1600-a99acac35e6576f125862bdc212e8769.jpg",
     "arise-a-simple-story/home"
   ],
@@ -15895,7 +15921,7 @@
     ],
     "Epic Dev Test Account",
     1578610591,
-    1605535256,
+    1621295973,
     "",
     ""
   ],
@@ -19213,7 +19239,7 @@
     ],
     "Focus Home",
     1560446304,
-    1607383489,
+    1621295974,
     "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/Diesel_productv2_snowrunner_home_SnowRunner_EpicGames_PortraitImage_860x1148-860x1148-bdf591a23e5a348671dc2a77465d0ba6c5871d68-860x1148-5a5adeae2140a3f0b5586750f70bf8e2-860x1148-5a5adeae2140a3f0b5586750f70bf8e2.jpg",
     "snowrunner/home"
   ],
@@ -19242,7 +19268,7 @@
     ],
     "Focus Home",
     1595282141,
-    1605535466,
+    1621298354,
     "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/EGS_SnowRunnerWesternStar49X_SaberInteractive_DLC_S2-1200x1600-b326fbe25742e9cb60f81c763c62ba7a.jpg",
     ""
   ],
@@ -21863,7 +21889,7 @@
     ],
     "Focus Home",
     1572620991,
-    1605535256,
+    1621295973,
     "",
     ""
   ],
@@ -23320,7 +23346,7 @@
     ],
     "Focus Home",
     1585063415,
-    1605535256,
+    1621295973,
     "",
     ""
   ],
@@ -23631,8 +23657,8 @@
     ],
     "Focus Home",
     1578610683,
-    1605535428,
-    "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/EGS_Season2ExploreExpand_SaberInteractive_DLC_S2-1200x1600-8c4604f6df87702a5dba052d46f662f4.jpg",
+    1621298354,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Season2ExploreExpand_SaberInteractive_DLC_S2_1200x1600-1048110e1febf8f356bd50939affe3a1",
     ""
   ],
   [
@@ -24081,6 +24107,19 @@
     1612908001,
     1619542213,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
+    ""
+  ],
+  [
+    "65685311b6e045ccb1c4661724c07b35",
+    "84c76746bce94effb8e1047fabfd7eb7",
+    "Ishizuchi MEGA Pack",
+    [
+      "applications"
+    ],
+    "Wargaming Group Limited",
+    1621313491,
+    1621313491,
+    "https://cdn1.epicgames.com/84c76746bce94effb8e1047fabfd7eb7/offer/EGS_WorldofWarships_WargamingGroupLimited_S2-1200x1600-f96166935d3d0b84086c6021c188ac0e.jpg",
     ""
   ],
   [
@@ -25206,6 +25245,21 @@
     ""
   ],
   [
+    "6a4f46894d0d4223802e1885f9a1cf5e",
+    "2744acda6a2e493e9894b389b6564df7",
+    "Burning Bright Vinyl Wrap Pack",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Focus Home",
+    1617227089,
+    1621295973,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BurningBrightVinylWrapPack_SaberInteractive_DLC_S2_1200x1600-36e971ce3131b050f9ac3e7a763bc71e",
+    ""
+  ],
+  [
     "6a5b6b3a0f52464fbdef273d26c0e01f",
     "53310576ce1d4446b20dbbdac4f09f2d",
     "A Total War Saga: TROY – AJAX & DIOMEDES",
@@ -25407,15 +25461,16 @@
   [
     "6b2eeaa4b1164f4e8777f262410bedbd",
     "2744acda6a2e493e9894b389b6564df7",
-    "DLC9 - PHASE 4 Expansion",
+    "Season 4: New Frontiers",
     [
-      "games",
+      "addons",
+      "addons/durable",
       "applications"
     ],
-    "Epic Dev Test Account",
+    "Focus Home",
     1578610848,
-    1605535256,
-    "",
+    1621297816,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Season4NewFrontiers_SaberInteractive_DLC_S2_1200x1600-9eb88035ea9feff9b15caed82a94ed0d",
     ""
   ],
   [
@@ -26789,6 +26844,19 @@
     1614179573,
     "https://cdn1.epicgames.com/efeffab890e0438abe36f643f5da5ca2/offer/EGS_TheColonists_Codebyfire_S2-1200x1600-b0fe9358e643b25bf3f6a20b71cc6bc2.jpg",
     "the-colonists"
+  ],
+  [
+    "71dc1b5f469748beb9f4f81dd774b022",
+    "6dc1883c42424bb98e03e30a0333401d",
+    "The Longest Road on Earth Backstage Edition",
+    [
+      "applications"
+    ],
+    "Raw Fury",
+    1620252813,
+    1621350291,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheLongestRoadonEarthBackstageEdition_BrainwashGangTLRGames_DigitalExtras_S2_1200x1600-23bd62c62259a600ee975e981a4a252a",
+    ""
   ],
   [
     "71dca93383914167bc3741a65ab32e84",
@@ -29042,6 +29110,21 @@
     1597157289,
     1597172643,
     "",
+    ""
+  ],
+  [
+    "7abed2047c474b3cb2ac0a15026bfa34",
+    "2744acda6a2e493e9894b389b6564df7",
+    "GMC Brigadier",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Focus Home",
+    1617227034,
+    1621295973,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GMCBrigadier_SaberInteractive_DLC_S2_1200x1600-0c3d6ca933faeb43f7303c3ad9d7b1a7",
     ""
   ],
   [
@@ -31860,14 +31943,13 @@
     "SnowRunner - Scorched Vinyl Wrap",
     [
       "addons",
-      "games",
       "addons/durable",
       "applications"
     ],
     "Focus Home",
     1584640546,
-    1605535256,
-    "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SnowRunner_ScorchedPack_EGS_Desktop-Vertical-510x680-510x680-50de5a7106e642d211197b1c5c15fb97.jpg",
+    1621297552,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SnowRunnerScorchedVinylWrap_SaberInteractive_DLC_S2_1200x1600-801f0f0203fa9095dad8f4359853f025",
     "snowrunner/scorched-vinyl-wrap"
   ],
   [
@@ -32724,7 +32806,7 @@
     ],
     "Koch Media",
     1614700146,
-    1620226018,
+    1621334792,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SiegeSurvivalGloriaVictis_BlackEyeGames_S2_1200x1600-98d796393f1362a21e86365767750ae3",
     "siege-survival-gloria-victis"
   ],
@@ -33836,7 +33918,7 @@
     ],
     "Focus Home",
     1585328973,
-    1605535256,
+    1621295973,
     "",
     ""
   ],
@@ -33991,7 +34073,7 @@
     ],
     "Focus Home",
     1584015273,
-    1605535256,
+    1621295973,
     "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/Diesel_productv2_snowrunner_home_SnowRunner_EpicGames_Desktop-Horizontal-1360x766-1360x766-aec1e67e70958d183bff5513a80106bc1302eaa4-1360x766-c25e9f4a45c51a067598da2374e51ac4.jpg",
     ""
   ],
@@ -34787,6 +34869,21 @@
     1615805663,
     "https://cdn1.epicgames.com/d759128018124dcabb1fbee9bb28e178/offer/Wishlist_Portrait_SurvivingMars_FirstColonyEdition-860x1148-a9b1177614674e52edab89b324d5349f.png",
     "surviving-mars"
+  ],
+  [
+    "94a1ef29098646058e8b8f9a6d06c52f",
+    "viola",
+    "Outward Adventurer Bundle",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Koch Media",
+    1618601435,
+    1621353771,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AdventurerBundle_NineDotsStudio2015_Bundles_S2_1200x1600-4ea6a4461def22bfb069de7c705cf026",
+    "outward--adventurer-bundle"
   ],
   [
     "94a4faacf2b9431c87d21b644971df3f",
@@ -37869,7 +37966,7 @@
     ],
     "Spotify Technology S.A.",
     1605819583,
-    1608217794,
+    1621354299,
     "https://cdn1.epicgames.com/61dbcd85808d4125ba873ba90385949b/offer/EGS_SpotifyMusicandPodcasts_SpotifyAB_S2-1200x1600-476ddc20886f1093e68a82d678739367.jpg",
     "spotify/home"
   ],
@@ -38301,6 +38398,19 @@
     "into-the-breach/home"
   ],
   [
+    "a0870c89d2c542ee8ca5605140b75ab7",
+    "244aaaa06bfa49d088205b13b9d2d115",
+    "Upgrade DLC 16",
+    [
+      "applications"
+    ],
+    "Digital Extremes",
+    1621298523,
+    1621298523,
+    "",
+    ""
+  ],
+  [
     "a0ad09f4284148f1b2eca5b87626ee2f",
     "affc33b82405457595a032f00284abd2",
     "Horzine Supply Emote Crate | Series #3 Silver Bundle Pack",
@@ -38341,6 +38451,22 @@
     1598291388,
     "",
     ""
+  ],
+  [
+    "a0b69f54a0314a588d917a77bca44cfe",
+    "9f4875c1b0cf4cf19b28e203fc7aff07",
+    "Days Gone",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Sony Interactive Entertainment",
+    1618238313,
+    1621310041,
+    "https://cdn1.epicgames.com/9f4875c1b0cf4cf19b28e203fc7aff07/offer/EGS_Brutalopenworldactionadventuregame_BendStudio_S2-1200x1600-e1c183cc11fdb47e26581e5ba19aa10a.jpg",
+    "days-gone"
   ],
   [
     "a0b73502c124439586a824fe75dc7a47",
@@ -41808,6 +41934,21 @@
     "conan-exiles/treasures-of-turan-pack"
   ],
   [
+    "af216841e35240bfb60ddaa0e5da4c11",
+    "77f785c951384cb1bd217e02fc86f113",
+    "The Chameleon",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base"
+    ],
+    "Merlino Games",
+    1620075132,
+    1621282565,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheChameleon_MerlinoGames_S2_1200x1600-19e04b448959553bb751a1bbe85bef48",
+    "the-chameleon"
+  ],
+  [
     "af282e958f0c4ed69a3f928ed83a66d9",
     "a334241ad093462d94f2ff8c84dc392a",
     "Prehistoric Kingdom",
@@ -42168,6 +42309,19 @@
     1612342095,
     1616688054,
     "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_ModernEnglishIMeltWithYou_HarmonixMusicSystemsInc_DLC_S2-1200x1600-2c3a8715255ebca818e6fb296ba3765b.jpg",
+    ""
+  ],
+  [
+    "b016028ea6184eb8a5102cc7f5eb9466",
+    "84c76746bce94effb8e1047fabfd7eb7",
+    "Oktyabrskaya Revolutsiya MEGA Pack",
+    [
+      "applications"
+    ],
+    "Wargaming Group Limited",
+    1621313446,
+    1621313446,
+    "https://cdn1.epicgames.com/84c76746bce94effb8e1047fabfd7eb7/offer/EGS_WorldofWarships_WargamingGroupLimited_S2-1200x1600-f96166935d3d0b84086c6021c188ac0e.jpg",
     ""
   ],
   [
@@ -43545,7 +43699,7 @@
     ],
     "NCSoft",
     1593115504,
-    1616686971,
+    1621354580,
     "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_FUSERVIPEdition_HarmonixMusicSystemsInc_Editions_S2-1200x1600-1200x1600-2e8a29e7780109ba104a2fafbf864d97.jpg",
     "fuser/vip-edition"
   ],
@@ -44678,6 +44832,19 @@
     ""
   ],
   [
+    "bc0c263d039c4d228800c3a79bee7487",
+    "84c76746bce94effb8e1047fabfd7eb7",
+    "Viribus Unitis MEGA Pack",
+    [
+      "applications"
+    ],
+    "Wargaming Group Limited",
+    1621313384,
+    1621313384,
+    "https://cdn1.epicgames.com/84c76746bce94effb8e1047fabfd7eb7/offer/EGS_WorldofWarships_WargamingGroupLimited_S2-1200x1600-f96166935d3d0b84086c6021c188ac0e.jpg",
+    ""
+  ],
+  [
     "bc0f30f3981943ecb0c170886ded1074",
     "azalea",
     "Founder's Pack 1: Scout Pack",
@@ -44689,6 +44856,19 @@
     1556913302,
     1617897928,
     "https://cdn1.epicgames.com/azalea/offer/final_egsstore_tile_S03_source_final_s-2149x2756-e1961840a3caddad186623059ed2a54c.jpg",
+    ""
+  ],
+  [
+    "bc1913d78a7d419db8a72e2b7c3733f6",
+    "244aaaa06bfa49d088205b13b9d2d115",
+    "DLC 33",
+    [
+      "applications"
+    ],
+    "Digital Extremes",
+    1621294690,
+    1621294741,
+    "",
     ""
   ],
   [
@@ -45725,7 +45905,7 @@
     ],
     "Focus Home",
     1585328939,
-    1605535256,
+    1621295973,
     "",
     ""
   ],
@@ -47160,6 +47340,19 @@
     1586891901,
     1594306676,
     "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
+    ""
+  ],
+  [
+    "c69c9ce5926248839abff36c1fee6ee2",
+    "244aaaa06bfa49d088205b13b9d2d115",
+    "Upgrade DLC 20",
+    [
+      "applications"
+    ],
+    "Digital Extremes",
+    1621298652,
+    1621298652,
+    "",
     ""
   ],
   [
@@ -50312,7 +50505,7 @@
     ],
     "Focus Home",
     1570655454,
-    1605535256,
+    1621295973,
     "",
     ""
   ],
@@ -50394,15 +50587,14 @@
     "SnowRunner - True Colors Vinyl Wrap",
     [
       "addons",
-      "games",
       "addons/durable",
       "applications"
     ],
     "Focus Home",
     1584640481,
-    1605535256,
-    "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SnowRunner_TrueColorsPack_EGS_Desktop-Vertical-510x680-510x680-261fc9e4212a1fd30be7000827508ce9.jpg",
-    "snowrunner/true-colors-vinyl-wrap"
+    1621297564,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SnowRunnerTrueColorsVinylWrap_SaberInteractive_DLC_S2_1200x1600-de49551f15db55652125eec2a0f3b292",
+    ""
   ],
   [
     "d664e76a81f541e7aea623975b61b5b3",
@@ -50879,7 +51071,7 @@
     ],
     "Epic Dev Test Account",
     1578610927,
-    1605535256,
+    1621295973,
     "",
     ""
   ],
@@ -51536,6 +51728,19 @@
     "Warhorse Studios",
     1581429135,
     1581430197,
+    "",
+    ""
+  ],
+  [
+    "daefe1487cd34fc683d4ba43a04962e7",
+    "244aaaa06bfa49d088205b13b9d2d115",
+    "DLC 34",
+    [
+      "applications"
+    ],
+    "Digital Extremes",
+    1621294779,
+    1621294779,
     "",
     ""
   ],
@@ -52621,6 +52826,22 @@
     ""
   ],
   [
+    "df162a1e42b64b7a9f6f586b799c0e96",
+    "6dc1883c42424bb98e03e30a0333401d",
+    "The Longest Road on Earth",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Raw Fury",
+    1617248626,
+    1621349201,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/f8d7bccb-98d2-4476-abb7-9169d06ae84e_1200x1600-14b4f145ced36114fe74ce8b76bfc8c0",
+    "the-longest-road-on-earth"
+  ],
+  [
     "df28d63878c34a2c94883265061c4676",
     "newt",
     "Spellbreak Beta Battlemage",
@@ -53101,7 +53322,7 @@
     ],
     "Focus Home",
     1578610224,
-    1605535256,
+    1621295974,
     "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/Diesel_productv2_snowrunner_premium-edition_SnowRunner_PremiumEdition_EpicGames_PortraitImage_860x1148-860x1148-6cc8701f0eeacc56116afcd87df2719e5e73cdf3-860x1148-c9d5f773bc014b6c49a62b5008553ac8-860x1148-c9d5f773bc014b6c49a62b5008553ac8.jpg",
     "snowrunner/premium-edition"
   ],
@@ -53476,6 +53697,21 @@
     1603205989,
     "https://cdn1.epicgames.com/b2df9b20c72446d690718965da41c7ad/offer/EGS_AmnesiaRebirth_FrictionalGames_S2-1200x1600-06261861317a4d878f0391cbcf127a5a.jpg",
     "amnesia-rebirth"
+  ],
+  [
+    "e2672aab6af4466083e98afcfba9138b",
+    "2744acda6a2e493e9894b389b6564df7",
+    "Anniversary DLC",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Focus Home",
+    1617226859,
+    1621296868,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AnniversaryDLC_SaberInteractive_DLC_S2_1200x1600-900cd32ed47f4d71e094f06277b09822",
+    ""
   ],
   [
     "e2837361a76946318e22e486c56ed044",
@@ -54428,6 +54664,22 @@
     ""
   ],
   [
+    "e630da3c06784f199dbf4735ab9df648",
+    "aee5af2fdb3142aebb40a83babe07a3d",
+    "GRAVEN",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "1C Online Games Ltd",
+    1615329808,
+    1621352078,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/cef8ab06-65b7-4a59-9fd0-732eeac7dbe8_1200x1600-a67d16caa08d9ee768d47842ba5fdfcb",
+    "graven"
+  ],
+  [
     "e6350a0f93aa44048f4f050ad3752871",
     "bb9f87bb3d0042258bb1c97397bc60f2",
     "Crayta: Deluxe Edition",
@@ -55343,6 +55595,19 @@
     1618498730,
     "https://cdn1.epicgames.com/8ff186a4415d4ce6b5a287ccfd11cf04/offer/EGS_Core_ManticoreGames_S2-1200x1600-6724c3b1a1b771d1fcfd34af273281bb.jpg",
     "core"
+  ],
+  [
+    "e9b5a2b7d0df475fbc675f8f947150e5",
+    "244aaaa06bfa49d088205b13b9d2d115",
+    "Upgrade DLC 18",
+    [
+      "applications"
+    ],
+    "Digital Extremes",
+    1621298588,
+    1621298588,
+    "",
+    ""
   ],
   [
     "e9bd25e46a9049579b3640bfc00bfcb4",
@@ -57757,6 +58022,21 @@
     ""
   ],
   [
+    "f35be78031c64b3eb3d561e7f0a32028",
+    "2744acda6a2e493e9894b389b6564df7",
+    "Year 2 Pass",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Focus Home",
+    1617226786,
+    1621296857,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Year2Pass_SaberInteractive_SeasonPass_S2_1200x1600-b40bfd44e7de257a8b447cb507406516",
+    ""
+  ],
+  [
     "f36ce5e9b1564c868ed43f8d72936ed4",
     "affc33b82405457595a032f00284abd2",
     "Neon MKVII Weapon Skin Bundle Pack",
@@ -58113,8 +58393,8 @@
     ],
     "Hi-Rez Studios",
     1571363584,
-    1618916394,
-    "https://cdn1.epicgames.com/salesEvent/salesEvent/PortraitIMG-V2-Gilgamesh-1200x1600_1200x1600-a97e32c85bf65b798b4b55cddadad244",
+    1621335543,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/PortraitIMG-AzulaPele-1200x1600_1200x1600-a74b43e9c4ce832ffbe24dd7a3027237",
     "smite"
   ],
   [

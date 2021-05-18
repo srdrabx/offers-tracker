@@ -1,0 +1,172 @@
+{
+  "id": "e630da3c06784f199dbf4735ab9df648",
+  "namespace": "aee5af2fdb3142aebb40a83babe07a3d",
+  "title": "GRAVEN",
+  "description": "GRAVEN",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "graven",
+  "urlSlug": "india-general-audience",
+  "creationDate": "2021-03-09T22:43:28.352Z",
+  "lastModifiedDate": "2021-05-18T15:34:38.464Z",
+  "effectiveDate": "2099-02-01T00:00:00.000Z",
+  "viewableDate": "2021-05-18T15:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-n4d8bf5e8fnr4kujuut9j6v4d29muc",
+    "name": "1C Online Games Ltd"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2021-02-10T17:36:19.203Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1210",
+      "name": "Shooter",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2021-02-10T17:34:46.127Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "1C Online Games Ltd"
+    },
+    {
+      "key": "developerName",
+      "value": "Slipgate Ironworks™"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "graven"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GRAVEN_SlipgateIronworks_S1_2560x1440-0102fcff4da1c46731709e932e4c9dfd",
+      "md5": "0102fcff4da1c46731709e932e4c9dfd",
+      "size": 416609,
+      "uploadedDate": "2021-05-05T18:15:55.889Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/cef8ab06-65b7-4a59-9fd0-732eeac7dbe8_1200x1600-a67d16caa08d9ee768d47842ba5fdfcb",
+      "md5": "a67d16caa08d9ee768d47842ba5fdfcb",
+      "size": 288323,
+      "uploadedDate": "2021-05-18T14:47:58.510Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/cef8ab06-65b7-4a59-9fd0-732eeac7dbe8_1200x1600-a67d16caa08d9ee768d47842ba5fdfcb",
+      "md5": "a67d16caa08d9ee768d47842ba5fdfcb",
+      "size": 288323,
+      "uploadedDate": "2021-05-18T14:48:11.537Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/cef8ab06-65b7-4a59-9fd0-732eeac7dbe8_1200x1600-a67d16caa08d9ee768d47842ba5fdfcb",
+      "md5": "a67d16caa08d9ee768d47842ba5fdfcb",
+      "size": 288323,
+      "uploadedDate": "2021-05-18T14:48:22.531Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/e5ba332b-a475-4669-9ea9-42120605216f_2560x1440-0102fcff4da1c46731709e932e4c9dfd",
+      "md5": "0102fcff4da1c46731709e932e4c9dfd",
+      "size": 416609,
+      "uploadedDate": "2021-05-18T14:48:36.176Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/cef8ab06-65b7-4a59-9fd0-732eeac7dbe8_1200x1600-a67d16caa08d9ee768d47842ba5fdfcb",
+      "md5": "a67d16caa08d9ee768d47842ba5fdfcb",
+      "size": 288323,
+      "uploadedDate": "2021-05-18T14:48:51.760Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "213259e52d714455a151aeccdd8107d7"
+    }
+  ],
+  "catalogNs": {
+    "name": "aee5af2fdb3142aebb40a83babe07a3d"
+  }
+}

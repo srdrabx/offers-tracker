@@ -8,7 +8,7 @@
   "productSlug": "rogue-company/home",
   "urlSlug": "rogue-company",
   "creationDate": "2019-08-16T21:22:27.582Z",
-  "lastModifiedDate": "2021-05-11T11:13:54.425Z",
+  "lastModifiedDate": "2021-05-18T11:13:12.525Z",
   "effectiveDate": "2020-09-30T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -128,55 +128,55 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/RoCo-EGS-Season2MackIllustration-Logo-LandscapeProductImage-2560x1440_2560x1440-d3bee153fc2d8ebc37f8b258ca0ef51b",
-      "md5": "d3bee153fc2d8ebc37f8b258ca0ef51b",
-      "size": 345754,
-      "uploadedDate": "2021-05-06T23:26:13.324Z",
-      "width": 2560,
-      "height": 1440
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/RoCo-EGS-Season2MackIllustration-HeroCarouselImage-1920x1080_1920x1080-18bd6c83817997f8853533f8476ec92d",
+      "md5": "18bd6c83817997f8853533f8476ec92d",
+      "size": 309229,
+      "uploadedDate": "2021-05-18T11:12:48.957Z",
+      "width": 1920,
+      "height": 1080
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/RoCo-EGS-Season2MackIllustration-Logo-PortraitProductImage-1200x1600_1200x1600-924225d74ad7de4e993e7e5e86ec6581",
-      "md5": "924225d74ad7de4e993e7e5e86ec6581",
-      "size": 168828,
-      "uploadedDate": "2021-05-06T23:26:16.670Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/RoCo-EGS-Season2MackIllustration-PortraitProductImage-1200x1600_1200x1600-cc4c8a33b91b49737056e259ac350e4b",
+      "md5": "cc4c8a33b91b49737056e259ac350e4b",
+      "size": 196540,
+      "uploadedDate": "2021-05-18T11:12:52.220Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/RoCo-EGS-Season2MackIllustration-Logo-LandscapeProductImage-2560x1440_2560x1440-d3bee153fc2d8ebc37f8b258ca0ef51b",
-      "md5": "d3bee153fc2d8ebc37f8b258ca0ef51b",
-      "size": 345754,
-      "uploadedDate": "2021-05-06T23:26:20.078Z",
-      "width": 2560,
-      "height": 1440
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/RoCo-EGS-Season2MackIllustration-HeroCarouselImage-1920x1080_1920x1080-18bd6c83817997f8853533f8476ec92d",
+      "md5": "18bd6c83817997f8853533f8476ec92d",
+      "size": 309229,
+      "uploadedDate": "2021-05-18T11:12:56.284Z",
+      "width": 1920,
+      "height": 1080
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/RoCo-EGS-Season2MackIllustration-Logo-PortraitProductImage-1200x1600_1200x1600-924225d74ad7de4e993e7e5e86ec6581",
-      "md5": "924225d74ad7de4e993e7e5e86ec6581",
-      "size": 168828,
-      "uploadedDate": "2021-05-06T23:26:22.371Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/RoCo-EGS-Season2MackIllustration-PortraitProductImage-1200x1600_1200x1600-cc4c8a33b91b49737056e259ac350e4b",
+      "md5": "cc4c8a33b91b49737056e259ac350e4b",
+      "size": 196540,
+      "uploadedDate": "2021-05-18T11:13:00.203Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/RoCo-EGS-Season2MackIllustration-Logo-PortraitProductImage-1200x1600_1200x1600-924225d74ad7de4e993e7e5e86ec6581",
-      "md5": "924225d74ad7de4e993e7e5e86ec6581",
-      "size": 168828,
-      "uploadedDate": "2021-05-06T23:26:24.988Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/RoCo-EGS-Season2MackIllustration-PortraitProductImage-1200x1600_1200x1600-cc4c8a33b91b49737056e259ac350e4b",
+      "md5": "cc4c8a33b91b49737056e259ac350e4b",
+      "size": 196540,
+      "uploadedDate": "2021-05-18T11:13:03.227Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/RoCo-EGS-Season2MackIllustration-Logo-PortraitProductImage-1200x1600_1200x1600-924225d74ad7de4e993e7e5e86ec6581",
-      "md5": "924225d74ad7de4e993e7e5e86ec6581",
-      "size": 168828,
-      "uploadedDate": "2021-05-06T23:26:27.212Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/RoCo-EGS-Season2MackIllustration-PortraitProductImage-1200x1600_1200x1600-cc4c8a33b91b49737056e259ac350e4b",
+      "md5": "cc4c8a33b91b49737056e259ac350e4b",
+      "size": 196540,
+      "uploadedDate": "2021-05-18T11:13:06.496Z",
       "width": 1200,
       "height": 1600
     }

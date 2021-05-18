@@ -1,0 +1,184 @@
+{
+  "id": "df162a1e42b64b7a9f6f586b799c0e96",
+  "namespace": "6dc1883c42424bb98e03e30a0333401d",
+  "title": "The Longest Road on Earth",
+  "description": "The Longest Road on Earth",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "the-longest-road-on-earth",
+  "urlSlug": "brie-general-audience",
+  "creationDate": "2021-04-01T03:43:46.181Z",
+  "lastModifiedDate": "2021-05-18T14:46:41.748Z",
+  "effectiveDate": "2099-02-01T00:00:00.000Z",
+  "viewableDate": "2021-05-18T15:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
+    "name": "Raw Fury"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1296",
+      "name": "Casual",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:45.644Z",
+      "updated": "2021-02-10T17:32:53.431Z",
+      "status": "ACTIVE",
+      "referenceCount": 18,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2021-02-10T17:35:47.790Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2021-02-10T17:35:19.827Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Raw Fury"
+    },
+    {
+      "key": "developerName",
+      "value": "Brainwash Gang; TLR Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-longest-road-on-earth"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/b8d3c3fa-ced4-4c86-bf00-56973295dc92_2560x1440-43c333fd72a6e2aebd03ddbcae068dc4",
+      "md5": "43c333fd72a6e2aebd03ddbcae068dc4",
+      "size": 1001888,
+      "uploadedDate": "2021-05-18T14:32:28.662Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/f8d7bccb-98d2-4476-abb7-9169d06ae84e_1200x1600-14b4f145ced36114fe74ce8b76bfc8c0",
+      "md5": "14b4f145ced36114fe74ce8b76bfc8c0",
+      "size": 941713,
+      "uploadedDate": "2021-05-18T14:32:41.081Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/f8d7bccb-98d2-4476-abb7-9169d06ae84e_1200x1600-14b4f145ced36114fe74ce8b76bfc8c0",
+      "md5": "14b4f145ced36114fe74ce8b76bfc8c0",
+      "size": 941713,
+      "uploadedDate": "2021-05-18T14:32:57.053Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/f8d7bccb-98d2-4476-abb7-9169d06ae84e_1200x1600-14b4f145ced36114fe74ce8b76bfc8c0",
+      "md5": "14b4f145ced36114fe74ce8b76bfc8c0",
+      "size": 941713,
+      "uploadedDate": "2021-05-18T14:33:14.519Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/b8d3c3fa-ced4-4c86-bf00-56973295dc92_2560x1440-43c333fd72a6e2aebd03ddbcae068dc4",
+      "md5": "43c333fd72a6e2aebd03ddbcae068dc4",
+      "size": 1001888,
+      "uploadedDate": "2021-05-18T14:33:31.858Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/f8d7bccb-98d2-4476-abb7-9169d06ae84e_1200x1600-14b4f145ced36114fe74ce8b76bfc8c0",
+      "md5": "14b4f145ced36114fe74ce8b76bfc8c0",
+      "size": 941713,
+      "uploadedDate": "2021-05-18T14:33:48.781Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "e9cbde318477499ea0c3cb417a5c31d9"
+    }
+  ],
+  "catalogNs": {
+    "name": "6dc1883c42424bb98e03e30a0333401d"
+  }
+}
