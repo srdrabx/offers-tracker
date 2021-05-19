@@ -60,18 +60,6 @@
       "comment": ""
     },
     {
-      "id": "1203",
-      "name": "Multiplayer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2021-02-10T17:35:33.537Z",
-      "status": "ACTIVE",
-      "referenceCount": 46,
-      "comment": null
-    },
-    {
       "id": "16004",
       "name": "Weeklong Deals",
       "namespace": null,
@@ -84,18 +72,6 @@
       "comment": ""
     },
     {
-      "id": "14869",
-      "name": "2K Publisher Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-01-28T10:56:38.514Z",
-      "updated": "2021-02-11T16:01:56.720Z",
-      "status": "ACTIVE",
-      "referenceCount": 18,
-      "comment": ""
-    },
-    {
       "id": "1386",
       "name": "Turn-Based",
       "namespace": "epic",
@@ -105,18 +81,6 @@
       "updated": "2021-02-05T16:19:58.338Z",
       "status": "ACTIVE",
       "referenceCount": 14,
-      "comment": null
-    },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2021-02-10T17:36:35.389Z",
-      "status": "ACTIVE",
-      "referenceCount": 195,
       "comment": null
     },
     {
@@ -144,16 +108,16 @@
       "comment": null
     },
     {
-      "id": "1115",
-      "name": "Strategy",
-      "namespace": "epic",
+      "id": "16011",
+      "name": "Epic MEGA Sale",
+      "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2021-02-10T17:35:11.878Z",
+      "created": "2021-04-27T08:10:34.554Z",
+      "updated": "2021-05-19T12:39:30.820Z",
       "status": "ACTIVE",
-      "referenceCount": 33,
-      "comment": null
+      "referenceCount": 725,
+      "comment": ""
     },
     {
       "id": "1166",
@@ -178,6 +142,54 @@
       "status": "ACTIVE",
       "referenceCount": 618,
       "comment": ""
+    },
+    {
+      "id": "1203",
+      "name": "Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2021-02-10T17:35:33.537Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "14869",
+      "name": "2K Publisher Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-01-28T10:56:38.514Z",
+      "updated": "2021-02-11T16:01:56.720Z",
+      "status": "ACTIVE",
+      "referenceCount": 18,
+      "comment": ""
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "Strategy",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2021-02-10T17:35:11.878Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
     }
   ],
   "customAttributes": [

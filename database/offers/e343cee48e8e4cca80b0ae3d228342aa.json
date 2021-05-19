@@ -8,7 +8,7 @@
   "productSlug": "rogue-legacy-2",
   "urlSlug": "biscuitgeneralaudience",
   "creationDate": "2020-06-23T12:42:06.065Z",
-  "lastModifiedDate": "2021-02-18T18:04:35.714Z",
+  "lastModifiedDate": "2021-05-18T17:02:33.153Z",
   "effectiveDate": "2020-08-18T17:00:00.000Z",
   "viewableDate": "2020-07-18T17:00:00.000Z",
   "developer": null,
@@ -99,6 +99,18 @@
       "comment": null
     },
     {
+      "id": "16011",
+      "name": "Epic MEGA Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-04-27T08:10:34.554Z",
+      "updated": "2021-05-19T12:39:30.820Z",
+      "status": "ACTIVE",
+      "referenceCount": 725,
+      "comment": ""
+    },
+    {
       "id": "9549",
       "name": "Controller Support",
       "namespace": "epic",
@@ -164,55 +176,55 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/4966d5da285c4f2c876937844b0e23ee/offer/RL2_epicstore_product_landscape-2560x1440-b79e986c7cd35f4a576b76f50022364e.jpg",
-      "md5": "b79e986c7cd35f4a576b76f50022364e",
-      "size": 1750818,
-      "uploadedDate": "2021-02-18T17:59:19.428Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RogueLegacy2_CellarDoorGames_S1_2560x1440-2a51feb4531bd42d9ee40d70aefdfb13",
+      "md5": "2a51feb4531bd42d9ee40d70aefdfb13",
+      "size": 1039055,
+      "uploadedDate": "2021-05-17T23:29:34.605Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/4966d5da285c4f2c876937844b0e23ee/offer/RL2_epicstore_carousel_mobile-1200x1600-4afff12377f0220a4d2b948ef54ca295.jpg",
-      "md5": "4afff12377f0220a4d2b948ef54ca295",
-      "size": 1112768,
-      "uploadedDate": "2021-02-18T17:59:28.696Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RogueLegacy2_CellarDoorGames_S2_1200x1600-5cbfa06696339a113ac12511c7884368",
+      "md5": "5cbfa06696339a113ac12511c7884368",
+      "size": 837525,
+      "uploadedDate": "2021-05-17T23:29:44.629Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/4966d5da285c4f2c876937844b0e23ee/offer/RL2_epicstore_carousel_mobile-1200x1600-4afff12377f0220a4d2b948ef54ca295.jpg",
-      "md5": "4afff12377f0220a4d2b948ef54ca295",
-      "size": 1112768,
-      "uploadedDate": "2021-02-18T17:59:57.382Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RogueLegacy2_CellarDoorGames_S2_1200x1600-5cbfa06696339a113ac12511c7884368",
+      "md5": "5cbfa06696339a113ac12511c7884368",
+      "size": 837525,
+      "uploadedDate": "2021-05-17T23:29:53.936Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/4966d5da285c4f2c876937844b0e23ee/offer/RL2_epicstore_carousel_mobile-1200x1600-4afff12377f0220a4d2b948ef54ca295.jpg",
-      "md5": "4afff12377f0220a4d2b948ef54ca295",
-      "size": 1112768,
-      "uploadedDate": "2021-02-18T17:59:52.686Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RogueLegacy2_CellarDoorGames_S2_1200x1600-5cbfa06696339a113ac12511c7884368",
+      "md5": "5cbfa06696339a113ac12511c7884368",
+      "size": 837525,
+      "uploadedDate": "2021-05-17T23:30:03.982Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/4966d5da285c4f2c876937844b0e23ee/offer/RL2_epicstore_product_landscape-2560x1440-b79e986c7cd35f4a576b76f50022364e.jpg",
-      "md5": "b79e986c7cd35f4a576b76f50022364e",
-      "size": 1750818,
-      "uploadedDate": "2021-02-18T18:00:08.168Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RogueLegacy2_CellarDoorGames_S1_2560x1440-2a51feb4531bd42d9ee40d70aefdfb13",
+      "md5": "2a51feb4531bd42d9ee40d70aefdfb13",
+      "size": 1039055,
+      "uploadedDate": "2021-05-17T23:30:16.078Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/4966d5da285c4f2c876937844b0e23ee/offer/RL2_epicstore_carousel_mobile-1200x1600-4afff12377f0220a4d2b948ef54ca295.jpg",
-      "md5": "4afff12377f0220a4d2b948ef54ca295",
-      "size": 1112768,
-      "uploadedDate": "2021-02-18T18:00:18.253Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RogueLegacy2_CellarDoorGames_S2_1200x1600-5cbfa06696339a113ac12511c7884368",
+      "md5": "5cbfa06696339a113ac12511c7884368",
+      "size": 837525,
+      "uploadedDate": "2021-05-17T23:30:24.644Z",
       "width": 1200,
       "height": 1600
     }

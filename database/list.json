@@ -5315,6 +5315,21 @@
     ""
   ],
   [
+    "164f0cc0d19144cd91cab50c933ef6d6",
+    "3db17abfd650423f993291624b1b2ac1",
+    "Elite Dangerous Odyssey",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Frontier Developments",
+    1620860308,
+    1621436316,
+    "https://cdn1.epicgames.com/3db17abfd650423f993291624b1b2ac1/offer/tall-1200x1600-bba05a724e82bc7fb2b2b2dc2224d83b.jpg",
+    ""
+  ],
+  [
     "165880cb58564bb6b84c060450cc4314",
     "3fafb94f3f804d6bbe85da723c90e689",
     "All Players Interested",
@@ -11265,7 +11280,7 @@
     ],
     "Headup Gmbh",
     1607621285,
-    1620831121,
+    1621384383,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Aerial_KnightsNeverYield_Aerial_Knight_S2_1200x1600-b9e36fe298b245b3b67cb71b5a6f0367",
     "aerial-knights-never-yield"
   ],
@@ -14328,7 +14343,7 @@
     ],
     "Headup Gmbh",
     1619575297,
-    1620831121,
+    1621384383,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Aerial_KnightsNeverYieldDeluxeEdition_Aerial_Knight_Bundles_S2_1200x1600-ea1626147ba15ac69fc36e80ba2e9337",
     "aerial-knights-never-yield--deluxe-edition"
   ],
@@ -14741,7 +14756,7 @@
     ],
     "Piranha Games",
     1604669792,
-    1620078194,
+    1621367183,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/hotis-s2-1200x1600_1200x1600-6c7c4bb426a9c6d14315df8ff30613cf",
     "mechwarrior-5/heroes-of-the-inner-sphere"
   ],
@@ -15819,8 +15834,8 @@
     ],
     "Discord Inc",
     1613436048,
-    1620322049,
-    "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-discord-discord-s2-1200x1600-7f26149140c8_1200x1600-14fff66a6835df9c5915cd015cd7fefb",
+    1621387559,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-discord-discord-s2-1200x1600-b72c609ef567_1200x1600-7e960066e153510e27bdded06d99ff5e",
     "discord"
   ],
   [
@@ -16875,6 +16890,22 @@
     1607000667,
     "https://cdn1.epicgames.com/92546d82a1d043ad8cff2c6c2cd78bb9/offer/EGS_Quityourjobandbuildanexcitingstartup_AlgoRocks_S2-1200x1600-195ffbc23a6e0ccef06ea0f632c33295.jpg",
     "startup-panic"
+  ],
+  [
+    "472225015a824663bb46743591c12aa1",
+    "3db17abfd650423f993291624b1b2ac1",
+    "Elite Dangerous: Odyssey Official Soundtrack",
+    [
+      "addons",
+      "games",
+      "addons/durable",
+      "applications"
+    ],
+    "Frontier Developments",
+    1620861376,
+    1621436316,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EliteDangerousOdysseyOfficialSoundtrack_FrontierDevelopments_DigitalExtras_S2_1200x1600-ab237df7287cc56bc233572c3491b1d1",
+    ""
   ],
   [
     "472674cef87443aab40b15a50a63ed55",
@@ -20476,7 +20507,7 @@
     ],
     "Headup Gmbh",
     1607621285,
-    1620831121,
+    1621384383,
     "",
     ""
   ],
@@ -22422,7 +22453,7 @@
     ],
     "Frontier Developments",
     1618264692,
-    1620158426,
+    1621436316,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EliteDangerousOdysseyDeluxeEdition_FrontierDevelopments_Bundles_S2_1200x1600-31ce747ea5f122d2664a98000c8c315f",
     ""
   ],
@@ -26854,7 +26885,7 @@
     ],
     "Raw Fury",
     1620252813,
-    1621350291,
+    1621362312,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheLongestRoadonEarthBackstageEdition_BrainwashGangTLRGames_DigitalExtras_S2_1200x1600-23bd62c62259a600ee975e981a4a252a",
     ""
   ],
@@ -29086,6 +29117,21 @@
     "solar-ash/home"
   ],
   [
+    "7aaa30db1f754fa9b894f0fb35e3db2b",
+    "3db17abfd650423f993291624b1b2ac1",
+    "Elite Dangerous: Odyssey - Commander Premium Edition",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Frontier Developments",
+    1618264754,
+    1621436316,
+    "https://cdn1.epicgames.com/3db17abfd650423f993291624b1b2ac1/offer/tall2-1200x1600-c5d7478f26bad0c93e2387d4cfa2930c.jpg",
+    ""
+  ],
+  [
     "7ab1f8e424a044db8f8ee6ae394c2f88",
     "epic",
     "Yooka-Laylee and the Impossible Lair",
@@ -29271,7 +29317,7 @@
     ],
     "Frontier Developments",
     1588702389,
-    1620140101,
+    1621436316,
     "https://cdn1.epicgames.com/3db17abfd650423f993291624b1b2ac1/offer/EGS_EliteDangerous_FrontierDevelopments_S2-1200x1600-112c98adf1ae07b058feb140a08e3872.jpg",
     "elite-dangerous/home"
   ],
@@ -31088,7 +31134,7 @@
     ],
     "Hypetrain Digital",
     1612208267,
-    1614276306,
+    1621427960,
     "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/EGS_Breathedge_RedRuinsSoftworks_S2-1200x1600-c0559585221ea11c9d48273c3a79b1ba.jpg",
     "breathedge"
   ],
@@ -37685,7 +37731,7 @@
     ],
     "Capybara Games",
     1593628980,
-    1621001492,
+    1621372902,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RiseandGrindinCAPYsacclaimedpuzzlebattler_CAPY_S2_1200x1600-b3fbc3f8f73f32dd1abd5943eba7bbac",
     "grindstone"
   ],
@@ -41071,7 +41117,7 @@
     ],
     "Koch Media",
     1619560322,
-    1619715574,
+    1621356936,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_IronHarvestOperationEagleDLC_KingArtGames_DLC_S2_1200x1600-8ac34772ac570e1d7b1b2ff4fbaced2d",
     ""
   ],
@@ -48994,13 +49040,12 @@
     "Aerial_Knight's Never Yield - Soundtrack",
     [
       "digitalextras",
-      "addons",
       "digitalextras/soundtrack",
       "applications"
     ],
     "Headup Gmbh",
     1619575374,
-    1620831121,
+    1621384383,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Aerial_KnightsNeverYieldSoundtrack_Aerial_Knight_DigitalExtras_S2_1200x1600-83839f618d31446c1a3d498be709d543",
     ""
   ],
@@ -52837,7 +52882,7 @@
     ],
     "Raw Fury",
     1617248626,
-    1621349201,
+    1621359285,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/f8d7bccb-98d2-4476-abb7-9169d06ae84e_1200x1600-14b4f145ced36114fe74ce8b76bfc8c0",
     "the-longest-road-on-earth"
   ],
@@ -53071,6 +53116,21 @@
     1613173595,
     1614264723,
     "https://cdn1.epicgames.com/e49aaa31c1324e398e0b1029a0c6d390/offer/EGS_Afighttothedeathinthedepthsofspace_NightdiveStudios_S4-1200x1600-45f2ccbf4fcbf71a059499d0742229f0.jpg",
+    ""
+  ],
+  [
+    "e01e25ab4fd74650a7bbb70539cb34ae",
+    "bb9f87bb3d0042258bb1c97397bc60f2",
+    "Crayta Mechanical Revolution Battle Pass",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Unit 2 Games",
+    1610665050,
+    1621428918,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CraytaMechanicalRevolutionBattlePass_Unit2Games_AddOn_S2_1200x1600-011b7d1354625af035dea591eae12036",
     ""
   ],
   [
@@ -53921,8 +53981,8 @@
     ],
     "Cellar Door Games",
     1592916126,
-    1613671475,
-    "https://cdn1.epicgames.com/4966d5da285c4f2c876937844b0e23ee/offer/RL2_epicstore_carousel_mobile-1200x1600-4afff12377f0220a4d2b948ef54ca295.jpg",
+    1621357353,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RogueLegacy2_CellarDoorGames_S2_1200x1600-5cbfa06696339a113ac12511c7884368",
     "rogue-legacy-2"
   ],
   [
@@ -54675,7 +54735,7 @@
     ],
     "1C Online Games Ltd",
     1615329808,
-    1621352078,
+    1621359090,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/cef8ab06-65b7-4a59-9fd0-732eeac7dbe8_1200x1600-a67d16caa08d9ee768d47842ba5fdfcb",
     "graven"
   ],

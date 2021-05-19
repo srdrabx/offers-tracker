@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "aerial-knights-never-yield--soundtrack",
   "creationDate": "2021-04-28T02:02:54.174Z",
-  "lastModifiedDate": "2021-05-12T14:52:01.725Z",
+  "lastModifiedDate": "2021-05-19T00:33:03.070Z",
   "effectiveDate": "2021-05-19T15:00:00.000Z",
   "viewableDate": "2021-05-12T15:00:00.000Z",
   "developer": null,
@@ -26,9 +26,6 @@
   "categories": [
     {
       "path": "digitalextras"
-    },
-    {
-      "path": "addons"
     },
     {
       "path": "digitalextras/soundtrack"

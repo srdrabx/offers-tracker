@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "the-longest-road-on-earth--backstage-edition",
   "creationDate": "2021-05-05T22:13:33.406Z",
-  "lastModifiedDate": "2021-05-18T15:04:51.684Z",
+  "lastModifiedDate": "2021-05-18T18:25:12.587Z",
   "effectiveDate": "2099-02-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -99,15 +99,6 @@
       "height": 1600
     },
     {
-      "type": "ProductLogo",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheLongestRoadonEarthBackstageEdition_BrainwashGangTLRGames_DigitalExtras_IC1_200x200-e05cc357293e429e90c2085cadad5a92",
-      "md5": "e05cc357293e429e90c2085cadad5a92",
-      "size": 19410,
-      "uploadedDate": "2021-05-14T19:23:58.176Z",
-      "width": 200,
-      "height": 200
-    },
-    {
       "type": "featuredMedia",
       "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheLongestRoadonEarthBackstageEdition_BrainwashGangTLRGames_DigitalExtras_G1A_00_1920x1080-173854a740e181c1c8688ff9b9bc006c",
       "md5": "173854a740e181c1c8688ff9b9bc006c",
@@ -169,6 +160,15 @@
       "uploadedDate": "2021-05-14T19:32:21.417Z",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/df6cd88f-b6ee-44b7-960f-4839d846261a_200x200-a02d0ca316da0e2cf97410a48eb57baf",
+      "md5": "a02d0ca316da0e2cf97410a48eb57baf",
+      "size": 27392,
+      "uploadedDate": "2021-05-18T18:24:54.182Z",
+      "width": 200,
+      "height": 200
     }
   ],
   "items": [
