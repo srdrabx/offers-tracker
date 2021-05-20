@@ -8,7 +8,7 @@
   "productSlug": "ken-follets-the-pillars-of-the-earth",
   "urlSlug": "tiger-general-audience",
   "creationDate": "2021-03-30T14:30:35.300Z",
-  "lastModifiedDate": "2021-04-12T19:30:07.774Z",
+  "lastModifiedDate": "2021-05-20T14:45:02.914Z",
   "effectiveDate": "2021-04-15T15:00:00.000Z",
   "viewableDate": "2021-04-08T14:25:00.000Z",
   "developer": null,
@@ -24,9 +24,6 @@
   "technicalDetails": null,
   "recurrence": "ONCE",
   "categories": [
-    {
-      "path": "freegames"
-    },
     {
       "path": "games"
     },
@@ -96,9 +93,9 @@
       "aliases": [],
       "operator": null,
       "created": "2021-04-27T08:10:34.554Z",
-      "updated": "2021-05-19T12:39:30.820Z",
+      "updated": "2021-05-20T15:00:35.271Z",
       "status": "ACTIVE",
-      "referenceCount": 725,
+      "referenceCount": 730,
       "comment": ""
     },
     {

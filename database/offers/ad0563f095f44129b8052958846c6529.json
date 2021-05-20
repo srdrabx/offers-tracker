@@ -1,0 +1,115 @@
+{
+  "id": "ad0563f095f44129b8052958846c6529",
+  "namespace": "4586d456108e4a03810c5927453ce6da",
+  "title": "Suzerain: Presidential Edition",
+  "description": "Suzerain: Presidential Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "suzerain/presidential-edition",
+  "urlSlug": "prosciuttodeluxeaudience",
+  "creationDate": "2021-05-13T19:08:14.997Z",
+  "lastModifiedDate": "2021-05-20T14:05:54.932Z",
+  "effectiveDate": "2021-05-20T14:00:00.000Z",
+  "viewableDate": "2021-05-20T14:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-22uq4lnmzc6kmlbbaf5gp8yvysnn3t",
+    "name": "Fellow Traveller"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-04-27T08:10:34.554Z",
+      "updated": "2021-05-20T15:00:35.271Z",
+      "status": "ACTIVE",
+      "referenceCount": 730,
+      "comment": ""
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Fellow Traveller"
+    },
+    {
+      "key": "developerName",
+      "value": "Torpor Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "suzerain/presidential-edition"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SuzerainPresidentialEdition_TorporGames_Bundles_S1_2560x1440-84c761d70d74e0a7670fba70f8b06a59",
+      "md5": "84c761d70d74e0a7670fba70f8b06a59",
+      "size": 604760,
+      "uploadedDate": "2021-05-13T20:02:03.203Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SuzerainPresidentialEdition_TorporGames_Bundles_S2_1200x1600-b9ada346c0520c82d844d8c86ad35866",
+      "md5": "b9ada346c0520c82d844d8c86ad35866",
+      "size": 420972,
+      "uploadedDate": "2021-05-13T20:02:15.254Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SuzerainPresidentialEdition_TorporGames_Bundles_S2_1200x1600-b9ada346c0520c82d844d8c86ad35866",
+      "md5": "b9ada346c0520c82d844d8c86ad35866",
+      "size": 420972,
+      "uploadedDate": "2021-05-13T20:02:27.229Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SuzerainPresidentialEdition_TorporGames_Bundles_S2_1200x1600-b9ada346c0520c82d844d8c86ad35866",
+      "md5": "b9ada346c0520c82d844d8c86ad35866",
+      "size": 420972,
+      "uploadedDate": "2021-05-13T20:02:36.298Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "b91676d9d6024668bab089e7364867de"
+    }
+  ],
+  "catalogNs": {
+    "name": "4586d456108e4a03810c5927453ce6da"
+  }
+}

@@ -1,14 +1,14 @@
 {
   "id": "ce047df1e15f4945b5fa5148c0e339d6",
   "namespace": "d5241c76f178492ea1540fce45616757",
-  "title": "Mystery Game",
-  "description": "Mystery Game",
+  "title": "NBA 2K21",
+  "description": "NBA 2K21",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "[]",
+  "productSlug": "nba-2k21",
   "urlSlug": "free-games",
   "creationDate": "2021-05-12T22:08:22.380Z",
-  "lastModifiedDate": "2021-05-13T14:13:55.051Z",
+  "lastModifiedDate": "2021-05-20T15:28:07.603Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2021-05-13T14:25:00.000Z",
   "developer": null,
@@ -49,11 +49,11 @@
     },
     {
       "key": "com.epicgames.app.freegames.vault.slug",
-      "value": "free-games"
+      "value": "news/the-epic-mega-sale-returns-for-2021"
     },
     {
       "key": "publisherName",
-      "value": "[]"
+      "value": "2K "
     },
     {
       "key": "dupe",
@@ -65,11 +65,11 @@
     },
     {
       "key": "developerName",
-      "value": "[]"
+      "value": "Visual Concepts"
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "[]"
+      "value": "nba-2k21"
     }
   ],
   "keyImages": [
@@ -81,6 +81,24 @@
       "uploadedDate": "2020-05-05T15:58:33.054Z",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_NBA2K21_VisualConcepts_S1_2560x1440-82b12f8e006bdfe848ed548fa9d51a4a",
+      "md5": "82b12f8e006bdfe848ed548fa9d51a4a",
+      "size": 939604,
+      "uploadedDate": "2021-05-19T18:29:36.037Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_NBA2K21_VisualConcepts_S2_1200x1600-2fed3198782328f4f59194ebd5e54680",
+      "md5": "2fed3198782328f4f59194ebd5e54680",
+      "size": 625182,
+      "uploadedDate": "2021-05-19T18:29:50.518Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [

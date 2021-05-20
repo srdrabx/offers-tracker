@@ -5325,7 +5325,7 @@
     ],
     "Frontier Developments",
     1620860308,
-    1621436316,
+    1621453732,
     "https://cdn1.epicgames.com/3db17abfd650423f993291624b1b2ac1/offer/tall-1200x1600-bba05a724e82bc7fb2b2b2dc2224d83b.jpg",
     ""
   ],
@@ -10335,7 +10335,7 @@
     ],
     "Digital Extremes",
     1621298620,
-    1621298620,
+    1621462122,
     "",
     ""
   ],
@@ -10688,7 +10688,7 @@
     ],
     "Digital Extremes",
     1621294819,
-    1621294819,
+    1621461936,
     "",
     ""
   ],
@@ -10804,7 +10804,7 @@
     ],
     "Versus Evil",
     1619042079,
-    1620751908,
+    1621519302,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Sockventure_NighthouseGames_S2_1200x1600-19174109e6f2d1bd1b4a1a2ba9aef25e",
     "sockventure"
   ],
@@ -11921,7 +11921,7 @@
     ],
     "Curve Digital",
     1618849486,
-    1619103298,
+    1621521896,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JustDieAlready_DoubleMoose_S6_1200x1600-577891f9b98a2f9fb55adcaae4ed5ebe",
     "just-die-already"
   ],
@@ -13062,6 +13062,21 @@
     1592341840,
     1619562296,
     "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
+    ""
+  ],
+  [
+    "373e43d72a0c44e880aa4e58879e94fb",
+    "6af58339c2424644988e0fb83dfd9bd5",
+    "The Cure - \"Friday I'm In Love\"",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "NCSoft",
+    1618428636,
+    1619548977,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheCureFridayImInLove_HarmonixMusicSystemsInc_DLC_S2_1200x1600-7b7da01cdcfccdd4cc8f75be71ace941",
     ""
   ],
   [
@@ -16628,14 +16643,12 @@
     "d5241c76f178492ea1540fce45616757",
     "Stranded Deep",
     [
-      "freegames/vaulted",
-      "freegames",
       "games",
       "applications"
     ],
     "Epic Dev Test Account",
     1607978041,
-    1609168254,
+    1621448936,
     "",
     "stranded-deep/home"
   ],
@@ -19275,6 +19288,22 @@
     "snowrunner/home"
   ],
   [
+    "501a59bae886454f90cf37f13b63cbb4",
+    "4586d456108e4a03810c5927453ce6da",
+    "Suzerain",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Fellow Traveller",
+    1616683529,
+    1621519572,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Suzerain_TorporGames_S2_1200x1600-aa0c6d39951fd588ca7e92ffb79f8e39",
+    "suzerain"
+  ],
+  [
     "501c0519a1b241ab8af32ba08831646b",
     "6e7faac262f04035aeb848e660b2d18c",
     "DevCalciumAudience",
@@ -20943,6 +20972,21 @@
     "wanderbots"
   ],
   [
+    "580b4c2f2cf343e3be88c6eee8030756",
+    "4586d456108e4a03810c5927453ce6da",
+    "Suzerain Original Soundtrack",
+    [
+      "digitalextras",
+      "digitalextras/soundtrack",
+      "applications"
+    ],
+    "Fellow Traveller",
+    1620932957,
+    1621519539,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SuzerainOriginalSoundtrack_TorporGames_DLC_S2_1200x1600-aa0c6d39951fd588ca7e92ffb79f8e39",
+    ""
+  ],
+  [
     "580fbcae288d4e1b96313643049b4824",
     "affc33b82405457595a032f00284abd2",
     "Clot Backpack Bundle",
@@ -21260,6 +21304,19 @@
     1599695922,
     "https://cdn1.epicgames.com/calluna/offer/Diesel_productv2_control_season-pass_Season-Pass_PortraitImage_860x1148-860x1148-c564d57cb9b247cba6c4d91c3a7484fac6e5725f-860x1148-941577cf21df7d23003a19e7cd48f265.jpg",
     "control/season-pass"
+  ],
+  [
+    "59f33fe1f5634848ba850b066504ef67",
+    "244aaaa06bfa49d088205b13b9d2d115",
+    "Upgrade DLC 21",
+    [
+      "applications"
+    ],
+    "Digital Extremes",
+    1621298683,
+    1621462154,
+    "",
+    ""
   ],
   [
     "59f5cb7fb1e046aaa55ddaead28e6109",
@@ -22443,6 +22500,21 @@
     "the-legend-of-heroes-trails-of-cold-steel-iii"
   ],
   [
+    "5e38c86958474979ba0512f7063b1847",
+    "6b3b9698082c43cd9dcd7f68e3365e79",
+    "NBA 2K21 Mamba Forever Edition",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "2K Games, Inc.",
+    1620151200,
+    1621520820,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_NBA2K21MambaForever_VisualConcepts_Editions_S2_1200x1600-c2d2688b8b08000ea34b618310dc4e05",
+    "nba-2k21--mamba-forever-edition"
+  ],
+  [
     "5e3b0e44dd7d4e2bb1c76a7c6891cd23",
     "3db17abfd650423f993291624b1b2ac1",
     "Elite Dangerous: Odyssey - Deluxe Edition",
@@ -22453,7 +22525,7 @@
     ],
     "Frontier Developments",
     1618264692,
-    1621436316,
+    1621442887,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EliteDangerousOdysseyDeluxeEdition_FrontierDevelopments_Bundles_S2_1200x1600-31ce747ea5f122d2664a98000c8c315f",
     ""
   ],
@@ -24149,8 +24221,8 @@
     ],
     "Wargaming Group Limited",
     1621313491,
-    1621313491,
-    "https://cdn1.epicgames.com/84c76746bce94effb8e1047fabfd7eb7/offer/EGS_WorldofWarships_WargamingGroupLimited_S2-1200x1600-f96166935d3d0b84086c6021c188ac0e.jpg",
+    1621521166,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_IshizuchiMEGAPack_Wargaming_AddOn_S2_1200x1600-2e006d4dca403ad5fa65baaf667717fc",
     ""
   ],
   [
@@ -26977,6 +27049,22 @@
     1608476930,
     "https://cdn1.epicgames.com/0dabb0f14acf4fef84bd2b2bf3085dfc/offer/EGS_DefenseGridDLCBundle_HiddenPathEntertainment_DLC_S2-1200x1600-fa42b40f0ec83781b95cf22331805b9e.jpg",
     "defense-grid/dlc-bundle"
+  ],
+  [
+    "7211db8bbd88436693c1388b96e0850b",
+    "bde5c96f4d5d4a199275f367f2fe4bae",
+    "Truck Driver",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "SOEDESCO",
+    1619430163,
+    1621524163,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TruckDriver_SOEDESCOStudios_S2_1200x1600-b704edbab4970cdf1a01925aba1f2149",
+    "truck-driver"
   ],
   [
     "72266ee0bb6f46b3b81f787f31eef633",
@@ -31187,7 +31275,6 @@
     "489c2ca47aaa4190b694184b979d3b23",
     "The First Tree",
     [
-      "freegames",
       "games",
       "games/edition",
       "games/edition/base",
@@ -31195,7 +31282,7 @@
     ],
     "David Wehle, LLC",
     1597792400,
-    1617894467,
+    1621521973,
     "https://cdn1.epicgames.com/489c2ca47aaa4190b694184b979d3b23/offer/EGS_TheFirstTree_DavidWehle_S2-1200x1600-4f04f881988fdcf35257acdbfd98727e.jpg",
     "the-first-tree"
   ],
@@ -32457,9 +32544,25 @@
     ],
     "Big Sugar Games",
     1589940697,
-    1592075256,
-    "https://cdn1.epicgames.com/d396856ef66f4572af55519a8d2b99ed/offer/Unexplored2TheWayfarersLegacy_Ludomotion_S2-1200x1600-1200x1600-334c821d40244a9ececa59f968b0b25d.jpg",
+    1621523582,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Unexplored2TheWayfarersLegacy_Ludomotion_S2_1200x1600-942e904536a453351d9b0bbfcab7ce67",
     "unexplored-2/home"
+  ],
+  [
+    "8a433ac206d446f58666788aa94aed87",
+    "78b3ea07ed1c4d00a3903c5a11eb87a9",
+    "Timelie",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Urnique Studio",
+    1619178719,
+    1621526977,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TimelieGameoftheYearEdition_UrniqueStudio_S2_1200x1600-7e4c8ee3cfa86f9263818b603aa80434",
+    "timelie"
   ],
   [
     "8a5ff56e1521479b8e4c2d635c969636",
@@ -34312,6 +34415,19 @@
     ""
   ],
   [
+    "92792336db02488292151f280243929f",
+    "7e508f543b05465abe3a935960eb70ac",
+    "Zoonie the Hellhound Pup Familiar Pack",
+    [
+      "applications"
+    ],
+    "Codename Entertainment",
+    1620332434,
+    1621358538,
+    "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
+    ""
+  ],
+  [
     "927bf0728077496ea33372e6c52b028a",
     "epic",
     "RiME",
@@ -35966,6 +36082,19 @@
     "spelldrifter"
   ],
   [
+    "984a625e47764af4ad76e5de21bde24d",
+    "244aaaa06bfa49d088205b13b9d2d115",
+    "DLC 36",
+    [
+      "applications"
+    ],
+    "Digital Extremes",
+    1621294850,
+    1621461918,
+    "",
+    ""
+  ],
+  [
     "984e5e4ed4574586a2f6b4041dd13b4d",
     "epic",
     "Hob",
@@ -36976,7 +37105,7 @@
     ],
     "Goblinz Studio",
     1618946548,
-    1619107048,
+    1621522738,
     "https://cdn1.epicgames.com/3d4b3dcf7ec449c7a042c163d08fa0f3/offer/EGS_LegendofKeepersCareerofaDungeonMaster_GoblinzStudio_S2-1200x1600-789c1a46106c908062827236e63b4330.jpg",
     "legend-of-keepers"
   ],
@@ -37731,7 +37860,7 @@
     ],
     "Capybara Games",
     1593628980,
-    1621372902,
+    1621522628,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RiseandGrindinCAPYsacclaimedpuzzlebattler_CAPY_S2_1200x1600-b3fbc3f8f73f32dd1abd5943eba7bbac",
     "grindstone"
   ],
@@ -38183,7 +38312,6 @@
     "b829cfd910554ad3ad2eb3b314e2b1ef",
     "3 out of 10: Season Two",
     [
-      "freegames",
       "games/edition/base",
       "games/edition",
       "games",
@@ -38191,7 +38319,7 @@
     ],
     "Terrible Posture Games, Inc.",
     1599602280,
-    1617286795,
+    1621521875,
     "https://cdn1.epicgames.com/b829cfd910554ad3ad2eb3b314e2b1ef/offer/EGS_3outof10SeasonTwo_TerriblePostureGamesInc_S2-1200x1600-0526ebb8c316a36e20e97271782bd31d.jpg",
     "3-out-of-10-season-2"
   ],
@@ -38452,7 +38580,7 @@
     ],
     "Digital Extremes",
     1621298523,
-    1621298523,
+    1621462050,
     "",
     ""
   ],
@@ -38989,15 +39117,16 @@
   [
     "a1e6956fbc114d5f8dd1da1175237bd0",
     "6b3b9698082c43cd9dcd7f68e3365e79",
-    "Terbium450000",
+    "450,000 VC",
     [
-      "games",
+      "addons",
+      "addons/consumable",
       "applications"
     ],
     "2K Games, Inc.",
     1614622464,
-    1614622869,
-    "",
+    1621520820,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_450KVC_VisualConcepts_Packs_S2_1200x1600-71cb6c39410c0d902552992c76277a2f",
     ""
   ],
   [
@@ -40114,15 +40243,16 @@
   [
     "a6e1ff45d0414824b4edf8a290ca48a1",
     "6b3b9698082c43cd9dcd7f68e3365e79",
-    "Terbium200000",
+    "200,000 VC",
     [
-      "games",
+      "addons",
+      "addons/consumable",
       "applications"
     ],
     "2K Games, Inc.",
     1614622413,
-    1614622862,
-    "",
+    1621520820,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_200KVC_VisualConcepts_Packs_S2_1200x1600-508fd87b8403305b744ae9fdebeb5c6c",
     ""
   ],
   [
@@ -40564,7 +40694,6 @@
     "7e508f543b05465abe3a935960eb70ac",
     "Idle Champions of the Forgotten Realms",
     [
-      "freegames",
       "games",
       "games/edition",
       "games/edition/base",
@@ -40572,7 +40701,7 @@
     ],
     "Codename Entertainment",
     1602766610,
-    1620313769,
+    1621521830,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     "idle-champions-of-the-forgotten-realms"
   ],
@@ -41038,14 +41167,13 @@
     "e5decf71f325458b92653616ee98682a",
     "Deponia: The Complete Journey",
     [
-      "freegames",
       "games",
       "games/edition",
       "games/edition/base"
     ],
     "Daedalic Entertainment",
     1615348794,
-    1618366419,
+    1621521923,
     "https://cdn1.epicgames.com/e5decf71f325458b92653616ee98682a/offer/EGS_DeponiaTheCompleteJourney_DaedalicEntertainment_S4-1200x1600-f8cfe09916adfed9f6cf129febd48a6f.jpg",
     "deponia-the-complete-journey"
   ],
@@ -41147,6 +41275,19 @@
     1596061062,
     1601307364,
     "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
+    ""
+  ],
+  [
+    "ac1bf57c4a234468899529086af435b5",
+    "244aaaa06bfa49d088205b13b9d2d115",
+    "Upgrade DLC 17",
+    [
+      "applications"
+    ],
+    "Digital Extremes",
+    1621298555,
+    1621462072,
+    "",
     ""
   ],
   [
@@ -41497,6 +41638,21 @@
     1605126258,
     "https://cdn1.epicgames.com/8a574ca3cbfc46c69ea8d3491932e973/offer/EGS_Wreckfest_Bugbear_S2-1200x1600-9ff32ee440228e6523a26cfb1a746987.jpg",
     "wreckfest/home"
+  ],
+  [
+    "ad0563f095f44129b8052958846c6529",
+    "4586d456108e4a03810c5927453ce6da",
+    "Suzerain: Presidential Edition",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Fellow Traveller",
+    1620932894,
+    1621519554,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SuzerainPresidentialEdition_TorporGames_Bundles_S2_1200x1600-b9ada346c0520c82d844d8c86ad35866",
+    "suzerain/presidential-edition"
   ],
   [
     "ad10a96c8c8e4c34a4f5a0fde656fad2",
@@ -42120,14 +42276,12 @@
     "d5241c76f178492ea1540fce45616757",
     "Torchlight II",
     [
-      "freegames/vaulted",
-      "freegames",
       "games",
       "applications"
     ],
     "Epic Dev Test Account",
     1607978099,
-    1609341357,
+    1621522038,
     "",
     "torchlight-2"
   ],
@@ -42366,8 +42520,8 @@
     ],
     "Wargaming Group Limited",
     1621313446,
-    1621313446,
-    "https://cdn1.epicgames.com/84c76746bce94effb8e1047fabfd7eb7/offer/EGS_WorldofWarships_WargamingGroupLimited_S2-1200x1600-f96166935d3d0b84086c6021c188ac0e.jpg",
+    1621521166,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_OktyabrskayaRevolutsiyaMEGAPack_Wargaming_AddOn_S2_1200x1600-26cf29550d2413e081b481a36854565a",
     ""
   ],
   [
@@ -43570,6 +43724,19 @@
     "ghostrunner/winter-pack"
   ],
   [
+    "b5bfa6cccf5f4f5ab2b43f4007705722",
+    "7e508f543b05465abe3a935960eb70ac",
+    "Slink the Gremishka Familiar Pack",
+    [
+      "applications"
+    ],
+    "Codename Entertainment",
+    1620332075,
+    1621358643,
+    "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
+    ""
+  ],
+  [
     "b5d51896d4a140399dbc8596947b7461",
     "coriander",
     "Dead Living Zombies DLC",
@@ -43661,15 +43828,16 @@
   [
     "b65e61380eab460ab5c2f55aa4da013d",
     "6b3b9698082c43cd9dcd7f68e3365e79",
-    "Terbium15000",
+    "15,000 VC",
     [
-      "games",
+      "addons",
+      "addons/consumable",
       "applications"
     ],
     "2K Games, Inc.",
     1614622251,
-    1614622822,
-    "",
+    1621520820,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_15KVC_VisualConcepts_DLC_S2_1200x1600-f70534a9f469cc7f3533da9a3335dc83",
     ""
   ],
   [
@@ -44886,8 +45054,8 @@
     ],
     "Wargaming Group Limited",
     1621313384,
-    1621313384,
-    "https://cdn1.epicgames.com/84c76746bce94effb8e1047fabfd7eb7/offer/EGS_WorldofWarships_WargamingGroupLimited_S2-1200x1600-f96166935d3d0b84086c6021c188ac0e.jpg",
+    1621521166,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_ViribusUnitisMEGAPack_Wargaming_AddOn_S2_1200x1600-48e5ca58495cea988f8d278143cea7da",
     ""
   ],
   [
@@ -44913,7 +45081,7 @@
     ],
     "Digital Extremes",
     1621294690,
-    1621294741,
+    1621461966,
     "",
     ""
   ],
@@ -47397,7 +47565,7 @@
     ],
     "Digital Extremes",
     1621298652,
-    1621298652,
+    1621462140,
     "",
     ""
   ],
@@ -48989,7 +49157,7 @@
   [
     "ce047df1e15f4945b5fa5148c0e339d6",
     "d5241c76f178492ea1540fce45616757",
-    "Mystery Game",
+    "NBA 2K21",
     [
       "freegames/vaulted",
       "freegames",
@@ -48998,9 +49166,9 @@
     ],
     "Epic Dev Test Account",
     1620857302,
-    1620915235,
+    1621524487,
     "",
-    "[]"
+    "nba-2k21"
   ],
   [
     "ce274c51740c4bc189fc4701e41b5584",
@@ -51785,7 +51953,7 @@
     ],
     "Digital Extremes",
     1621294779,
-    1621294779,
+    1621461951,
     "",
     ""
   ],
@@ -51939,15 +52107,16 @@
   [
     "db559e7e6fcb43a6a5b4282c1f538f55",
     "6b3b9698082c43cd9dcd7f68e3365e79",
-    "Terbium35000",
+    "35,000 VC",
     [
-      "games",
+      "addons",
+      "addons/consumable",
       "applications"
     ],
     "2K Games, Inc.",
     1614622321,
-    1614622831,
-    "",
+    1621520820,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_35KVC_VisualConcepts_Packs_S2_1200x1600-d76c88fac1a5bde3fb426cad274ce1d4",
     ""
   ],
   [
@@ -52827,7 +52996,6 @@
     "ce8393adfbf342ceab0a36479ffbc627",
     "Ken Follett's The Pillars of the Earth",
     [
-      "freegames",
       "games",
       "games/edition",
       "games/edition/base",
@@ -52835,7 +53003,7 @@
     ],
     "Daedalic Entertainment",
     1617114635,
-    1618255807,
+    1621521902,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KenFollettsThePillarsoftheEarth_DaedalicEntertainment_S2_1200x1600-7f09b826a330e216f32de8c86b2ac467",
     "ken-follets-the-pillars-of-the-earth"
   ],
@@ -53922,6 +54090,22 @@
     ""
   ],
   [
+    "e31321db733a40d29cc0640b524dfa00",
+    "6b3b9698082c43cd9dcd7f68e3365e79",
+    "NBA 2K21",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "2K Games, Inc.",
+    1611592146,
+    1621520820,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_NBA2K21_VisualConcepts_S2_1200x1600-2fed3198782328f4f59194ebd5e54680",
+    "nba-2k21"
+  ],
+  [
     "e31d7dadcf1c4063b69fd97af1f3c2a9",
     "fc8d1547232045f6a23257cfd04ef3e8",
     "Rayman Legends",
@@ -54493,15 +54677,16 @@
   [
     "e5090acee62a47a6b44cd3ffe602c68a",
     "6b3b9698082c43cd9dcd7f68e3365e79",
-    "Terbium5000",
+    "5,000 VC",
     [
-      "games",
+      "addons",
+      "addons/consumable",
       "applications"
     ],
     "2K Games, Inc.",
     1614622204,
-    1614622813,
-    "",
+    1621520820,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_5000VC_VisualConcepts_DLC_S2_1200x1600-1ac53ca06c101fdfec178a55fb7b998f",
     ""
   ],
   [
@@ -54572,7 +54757,7 @@
     ],
     "Versus Evil",
     1619039394,
-    1620825331,
+    1621519334,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheHandofMerlin_RoomCGames_S2_1200x1600-df05887c942ba86f738b02337739e0a0",
     "the-hand-of-merlin"
   ],
@@ -54626,14 +54811,12 @@
     "d5241c76f178492ea1540fce45616757",
     "Jurassic World Evolution",
     [
-      "freegames/vaulted",
-      "freegames",
       "games",
       "applications"
     ],
     "Epic Dev Test Account",
     1607978148,
-    1609427595,
+    1621522043,
     "",
     "jurassic-world-evolution"
   ],
@@ -55481,6 +55664,21 @@
     ""
   ],
   [
+    "e955b1b66df24bf68e49483d8895b069",
+    "6af58339c2424644988e0fb83dfd9bd5",
+    "Soft Cell - \"Tainted Love\"",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "NCSoft",
+    1618430398,
+    1621528435,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/43551578-3e89-4e26-9d52-826a0316d445_1200x1600-65c4301c996bd078c7ae43ad33398029",
+    ""
+  ],
+  [
     "e9622abb6248493c82c2fcbf372d28e3",
     "lavender",
     "Beyond Two Souls Demo Regional SKU Test",
@@ -55572,15 +55770,16 @@
   [
     "e98c4d9672f545eab6881f81c6eeee4c",
     "6b3b9698082c43cd9dcd7f68e3365e79",
-    "Terbium75000",
+    "75,000 VC",
     [
-      "games",
+      "addons",
+      "addons/consumable",
       "applications"
     ],
     "2K Games, Inc.",
     1614622364,
-    1614622854,
-    "",
+    1621520820,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_75KVC_VisualConcepts_Packs_S2_1200x1600-16970e2c5dbde3aab082a51729b3412d",
     ""
   ],
   [
@@ -55665,7 +55864,7 @@
     ],
     "Digital Extremes",
     1621298588,
-    1621298588,
+    1621462095,
     "",
     ""
   ],
@@ -56598,7 +56797,6 @@
     "e35a5826457c4c98aada2ffad7b5ea5d",
     "The Lion's Song",
     [
-      "freegames",
       "games",
       "games/edition/base",
       "games/edition",
@@ -56606,7 +56804,7 @@
     ],
     "Mi'pu'mi Games GmbH",
     1618611195,
-    1620407514,
+    1621523543,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheLionsSong_MipumiGames_S2_1200x1600-7f75126e11b9d6f4265053ad128e8a3a",
     "the-lions-song"
   ],
@@ -60064,6 +60262,22 @@
     1588120702,
     "",
     "donut-county/home"
+  ],
+  [
+    "fbb91316b03e42d7950d02959fbbe29d",
+    "d5241c76f178492ea1540fce45616757",
+    "Mystery Game",
+    [
+      "freegames/vaulted",
+      "freegames",
+      "games",
+      "applications"
+    ],
+    "Epic Dev Test Account",
+    1620857673,
+    1621517868,
+    "",
+    "[]"
   ],
   [
     "fbd41c4a3096405aa0a4263d4dfc16af",

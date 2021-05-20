@@ -8,7 +8,7 @@
   "productSlug": "the-lions-song",
   "urlSlug": "dolcelattegeneralaudience",
   "creationDate": "2021-04-16T22:13:15.880Z",
-  "lastModifiedDate": "2021-05-07T17:11:54.480Z",
+  "lastModifiedDate": "2021-05-20T15:12:23.511Z",
   "effectiveDate": "2021-05-13T15:00:00.000Z",
   "viewableDate": "2021-05-06T14:25:00.000Z",
   "developer": null,
@@ -24,9 +24,6 @@
   "technicalDetails": null,
   "recurrence": "ONCE",
   "categories": [
-    {
-      "path": "freegames"
-    },
     {
       "path": "games"
     },

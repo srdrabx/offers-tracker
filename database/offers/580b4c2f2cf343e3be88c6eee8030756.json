@@ -1,0 +1,120 @@
+{
+  "id": "580b4c2f2cf343e3be88c6eee8030756",
+  "namespace": "4586d456108e4a03810c5927453ce6da",
+  "title": "Suzerain Original Soundtrack",
+  "description": "The original soundtrack for Suzerain. Written, produced and recorded by James Spence. Also available in the Suzerain Presidential Edition, along with the base game.",
+  "longDescription": "The original soundtrack for Suzerain. Written, produced and recorded by James Spence. Also available in the Suzerain Presidential Edition, along with the base game.",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "suzerain--original-soundtrack",
+  "creationDate": "2021-05-13T19:09:17.146Z",
+  "lastModifiedDate": "2021-05-20T14:05:39.021Z",
+  "effectiveDate": "2021-05-20T14:00:00.000Z",
+  "viewableDate": "2021-05-20T14:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-22uq4lnmzc6kmlbbaf5gp8yvysnn3t",
+    "name": "Fellow Traveller"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "digitalextras"
+    },
+    {
+      "path": "digitalextras/soundtrack"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-04-27T08:10:34.554Z",
+      "updated": "2021-05-20T15:00:35.271Z",
+      "status": "ACTIVE",
+      "referenceCount": 730,
+      "comment": ""
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Fellow Traveller"
+    },
+    {
+      "key": "developerName",
+      "value": "Torpor Games"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SuzerainOriginalSoundtrack_TorporGames_DLC_G1A_00_1920x1080-e5c12977a15c7a1e0aaa42a68219a95b",
+      "md5": "e5c12977a15c7a1e0aaa42a68219a95b",
+      "size": 461367,
+      "uploadedDate": "2021-05-13T20:06:04.938Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SuzerainOriginalSoundtrack_TorporGames_DLC_S2_1200x1600-aa0c6d39951fd588ca7e92ffb79f8e39",
+      "md5": "aa0c6d39951fd588ca7e92ffb79f8e39",
+      "size": 283148,
+      "uploadedDate": "2021-05-13T20:05:27.325Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SuzerainOriginalSoundtrack_TorporGames_DLC_S2_1200x1600-aa0c6d39951fd588ca7e92ffb79f8e39",
+      "md5": "aa0c6d39951fd588ca7e92ffb79f8e39",
+      "size": 283148,
+      "uploadedDate": "2021-05-13T20:05:35.455Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SuzerainOriginalSoundtrack_TorporGames_DLC_S2_1200x1600-aa0c6d39951fd588ca7e92ffb79f8e39",
+      "md5": "aa0c6d39951fd588ca7e92ffb79f8e39",
+      "size": 283148,
+      "uploadedDate": "2021-05-13T20:05:44.494Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SuzerainOriginalSoundtrack_TorporGames_DLC_IC1_200x200-e5bed48a30593e1ef1d750ce18792a13",
+      "md5": "e5bed48a30593e1ef1d750ce18792a13",
+      "size": 74556,
+      "uploadedDate": "2021-05-13T20:05:55.332Z",
+      "width": 200,
+      "height": 200
+    }
+  ],
+  "items": [
+    {
+      "id": "0d76177f90b24641ab9d2994a6f97577"
+    }
+  ],
+  "catalogNs": {
+    "name": "4586d456108e4a03810c5927453ce6da"
+  }
+}

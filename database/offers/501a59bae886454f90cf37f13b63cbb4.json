@@ -1,0 +1,211 @@
+{
+  "id": "501a59bae886454f90cf37f13b63cbb4",
+  "namespace": "4586d456108e4a03810c5927453ce6da",
+  "title": "Suzerain",
+  "description": "Suzerain",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "suzerain",
+  "urlSlug": "prosciuttogeneralaudience",
+  "creationDate": "2021-03-25T14:45:29.171Z",
+  "lastModifiedDate": "2021-05-20T14:06:12.550Z",
+  "effectiveDate": "2021-05-20T14:00:00.000Z",
+  "viewableDate": "2021-05-20T14:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-22uq4lnmzc6kmlbbaf5gp8yvysnn3t",
+    "name": "Fellow Traveller"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-04-27T08:10:34.554Z",
+      "updated": "2021-05-20T15:00:35.271Z",
+      "status": "ACTIVE",
+      "referenceCount": 730,
+      "comment": ""
+    },
+    {
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2021-02-10T17:35:47.790Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2021-02-10T17:36:06.452Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2021-02-10T17:35:19.827Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "Mac OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX",
+        "macOS"
+      ],
+      "operator": null,
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2021-02-10T17:26:31.125Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Fellow Traveller"
+    },
+    {
+      "key": "developerName",
+      "value": "Torpor Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "suzerain"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Suzerain_TorporGames_S1_2560x1440-c03f515d18be9c6153e87a375b16ef6f",
+      "md5": "c03f515d18be9c6153e87a375b16ef6f",
+      "size": 523590,
+      "uploadedDate": "2021-05-13T19:46:22.771Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Suzerain_TorporGames_S2_1200x1600-aa0c6d39951fd588ca7e92ffb79f8e39",
+      "md5": "aa0c6d39951fd588ca7e92ffb79f8e39",
+      "size": 283148,
+      "uploadedDate": "2021-05-13T19:46:31.283Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Suzerain_TorporGames_S2_1200x1600-aa0c6d39951fd588ca7e92ffb79f8e39",
+      "md5": "aa0c6d39951fd588ca7e92ffb79f8e39",
+      "size": 283148,
+      "uploadedDate": "2021-05-13T19:46:42.773Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Suzerain_TorporGames_S2_1200x1600-aa0c6d39951fd588ca7e92ffb79f8e39",
+      "md5": "aa0c6d39951fd588ca7e92ffb79f8e39",
+      "size": 283148,
+      "uploadedDate": "2021-05-13T19:46:53.691Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Suzerain_TorporGames_S1_2560x1440-c03f515d18be9c6153e87a375b16ef6f",
+      "md5": "c03f515d18be9c6153e87a375b16ef6f",
+      "size": 523590,
+      "uploadedDate": "2021-05-13T19:47:04.819Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Suzerain_TorporGames_S2_1200x1600-aa0c6d39951fd588ca7e92ffb79f8e39",
+      "md5": "aa0c6d39951fd588ca7e92ffb79f8e39",
+      "size": 283148,
+      "uploadedDate": "2021-05-13T19:47:14.904Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "b334bcf21e3f4e8c993e4160c68cd0fa"
+    }
+  ],
+  "catalogNs": {
+    "name": "4586d456108e4a03810c5927453ce6da"
+  }
+}

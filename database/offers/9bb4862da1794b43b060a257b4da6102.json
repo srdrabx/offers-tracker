@@ -8,7 +8,7 @@
   "productSlug": "legend-of-keepers",
   "urlSlug": "technetiumlaunchaudience",
   "creationDate": "2021-04-20T19:22:28.767Z",
-  "lastModifiedDate": "2021-04-22T15:57:28.903Z",
+  "lastModifiedDate": "2021-05-20T14:58:58.040Z",
   "effectiveDate": "2021-04-29T17:00:00.000Z",
   "viewableDate": "2021-04-29T17:00:00.000Z",
   "developer": null,
@@ -85,6 +85,18 @@
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-04-27T08:10:34.554Z",
+      "updated": "2021-05-20T15:00:35.271Z",
+      "status": "ACTIVE",
+      "referenceCount": 730,
+      "comment": ""
     },
     {
       "id": "9549",

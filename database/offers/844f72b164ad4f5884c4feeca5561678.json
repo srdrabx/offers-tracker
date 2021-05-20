@@ -8,7 +8,7 @@
   "productSlug": "the-first-tree",
   "urlSlug": "the-first-tree",
   "creationDate": "2020-08-18T23:13:20.788Z",
-  "lastModifiedDate": "2021-04-08T15:07:47.558Z",
+  "lastModifiedDate": "2021-05-20T14:46:13.335Z",
   "effectiveDate": "2021-04-15T15:00:00.000Z",
   "viewableDate": "2021-04-08T14:25:00.000Z",
   "developer": null,
@@ -24,9 +24,6 @@
   "technicalDetails": null,
   "recurrence": "ONCE",
   "categories": [
-    {
-      "path": "freegames"
-    },
     {
       "path": "games"
     },

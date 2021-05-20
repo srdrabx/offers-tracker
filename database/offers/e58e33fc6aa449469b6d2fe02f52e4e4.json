@@ -8,7 +8,7 @@
   "productSlug": "jurassic-world-evolution",
   "urlSlug": "december31mysterygame",
   "creationDate": "2020-12-14T20:35:48.138Z",
-  "lastModifiedDate": "2020-12-31T15:13:15.528Z",
+  "lastModifiedDate": "2021-05-20T14:47:23.402Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2020-12-30T15:25:00.000Z",
   "developer": null,
@@ -24,12 +24,6 @@
   "technicalDetails": null,
   "recurrence": "ONCE",
   "categories": [
-    {
-      "path": "freegames/vaulted"
-    },
-    {
-      "path": "freegames"
-    },
     {
       "path": "games"
     },

@@ -8,7 +8,7 @@
   "productSlug": "stranded-deep/home",
   "urlSlug": "december28mysterygame",
   "creationDate": "2020-12-14T20:34:01.061Z",
-  "lastModifiedDate": "2020-12-28T15:10:54.128Z",
+  "lastModifiedDate": "2021-05-19T18:28:56.085Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2020-12-27T15:25:00.000Z",
   "developer": null,
@@ -24,12 +24,6 @@
   "technicalDetails": null,
   "recurrence": "ONCE",
   "categories": [
-    {
-      "path": "freegames/vaulted"
-    },
-    {
-      "path": "freegames"
-    },
     {
       "path": "games"
     },
