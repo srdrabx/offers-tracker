@@ -1904,6 +1904,21 @@
     ""
   ],
   [
+    "08bcad37a9bc440ea8aed2132f852e9b",
+    "5bb3d43818ae4188850fe1dbad9d57a5",
+    "Knockout City™ Deluxe Block Party Edition",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Electronic Arts",
+    1618589111,
+    1621598271,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KnockoutCityDeluxeBlockPartyEdition_VelanStudios_Editions_S2_1200x1600-5008f0a7949e05d8700080e93c93324f",
+    "knockout-city/deluxe-block-party-edition"
+  ],
+  [
     "08d5b9d2e8304c3ab5dfea6694d17bac",
     "50648c4c6f7f47e98a1b3756ed06cc4a",
     "Assassin's Creed II Deluxe Edition",
@@ -2768,7 +2783,7 @@
     ],
     "Funselektor Labs INC",
     1605598653,
-    1614268883,
+    1621614137,
     "https://cdn1.epicgames.com/9d2f484bbec64aa8ad234b3199dcaf1c/offer/EGS_AbsoluteDrift_FunselektorLabsInc_S2-1200x1600-d61d185c1a25c41b211b497b89648832.jpg",
     "absolute-drift"
   ],
@@ -2812,6 +2827,22 @@
     1588120702,
     "",
     "horace/home"
+  ],
+  [
+    "0cdaaac2e9744112803c58efa0b0b185",
+    "0017cfe7374b4c16a42859241b3dfe94",
+    "Chicken Police - Paint it Red!",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Handy Games",
+    1619799324,
+    1621531898,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_ChickenPolicePaintitRed_TheWildGentlemen_S2_1200x1600-55cb4fd7679af6bc6d81dfbba7c5085b",
+    "chicken-police-paint-it-red"
   ],
   [
     "0cdf0b5edb684b3a85f63c2533b3e383",
@@ -7741,6 +7772,20 @@
     ""
   ],
   [
+    "205df0d0716c459abb94ec29ff4822b5",
+    "42ec8b08da634e5eb72459a8ec7d973b",
+    "DLC 004 - Bridge Skin 001",
+    [
+      "consumable",
+      "applications"
+    ],
+    "o-xbmhhs32ajtuszar863dprgnwtvedk",
+    1619554389,
+    1621542853,
+    "",
+    ""
+  ],
+  [
     "206071e112404367b2fbeecd0c986468",
     "f7d5c4e850874d2c9fa043e9516a7a49",
     "Twin Mirror",
@@ -9245,6 +9290,20 @@
     1603747464,
     1608309409,
     "",
+    ""
+  ],
+  [
+    "270b7a27eb0a428a9aeac366230ad227",
+    "jackal",
+    "Dauntless - Burning Soul Bundle",
+    [
+      "addons",
+      "addons/durable"
+    ],
+    "Phoenix Labs",
+    1620747057,
+    1621527900,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/Epic_BundleBurningSoul_PortraitOffer (1)_1200x1600-00aa71059010a95ce9e4e4c223f075b8",
     ""
   ],
   [
@@ -13930,12 +13989,11 @@
     [
       "games",
       "games/edition",
-      "games/edition/base",
       "applications"
     ],
     "Electronic Arts",
     1616463404,
-    1617634698,
+    1621598271,
     "https://cdn1.epicgames.com/5bb3d43818ae4188850fe1dbad9d57a5/offer/EGS_KnockoutCity_VelanStudios_S2-1200x1600-b7df4b64f600767dc20c64e8c6eb299c.jpg",
     "knockout-city"
   ],
@@ -16144,6 +16202,22 @@
     1603900449,
     "",
     ""
+  ],
+  [
+    "43b08021bc024451bbbd8caf8767b866",
+    "4288b8f6a5e94449a747efd5e1514fde",
+    "Viscerafest",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "1C Online Games Ltd",
+    1615329733,
+    1621528713,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/198f7fbc-6fa9-4555-b605-b7a816416f84_1200x1600-1e7b3984d407f22f9ce08abe0f8f3b55",
+    "viscerafest"
   ],
   [
     "43c24a8c2a0f4eb2933c361a7a666168",
@@ -22114,6 +22188,22 @@
     ""
   ],
   [
+    "5d386a5e1eec4fe884a7ed79e94c4c10",
+    "5bb3d43818ae4188850fe1dbad9d57a5",
+    "Knockout City™ Trial",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Electronic Arts",
+    1618588565,
+    1621598271,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KnockoutCity_VelanStudios_Trials_S2_1200x1600-8caa10a95e7e58d7e9fff2b479bbaaec",
+    "knockout-city/trial"
+  ],
+  [
     "5d50c2b2c6644380ae1fbf74e8548dea",
     "b9def67e597b4be7a16146146a044d02",
     "Mechwarrior 5 Pre-Purchase",
@@ -22811,7 +22901,7 @@
     ],
     "The Wandering Band LLC",
     1592028975,
-    1616671738,
+    1621538925,
     "https://cdn1.epicgames.com/e1809e1742cb498080d8849b11a99c5a/offer/EGS_AirborneKingdom_TheWanderingBan_S2-1200x1600-ef7b5c8d74730358fcc7d1f4c8c87252.jpg",
     "airborne-kingdom/home"
   ],
@@ -23435,7 +23525,7 @@
     ],
     "Bigben Interactive",
     1578603885,
-    1617762354,
+    1621537178,
     "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/EGS_Overpass_DesktopHorizontal-1360x766-8f99ba72dfbff47153fdec87b66ce21d.jpg",
     ""
   ],
@@ -24217,11 +24307,13 @@
     "84c76746bce94effb8e1047fabfd7eb7",
     "Ishizuchi MEGA Pack",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Wargaming Group Limited",
     1621313491,
-    1621521166,
+    1621530609,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_IshizuchiMEGAPack_Wargaming_AddOn_S2_1200x1600-2e006d4dca403ad5fa65baaf667717fc",
     ""
   ],
@@ -24814,6 +24906,22 @@
     "omen-of-sorrow/home"
   ],
   [
+    "68716bdfd1694a47836e345b6a001995",
+    "2b4c5960dc284359aede3f131c6e47e0",
+    "Wanna Survive",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Nicalis",
+    1615298797,
+    1621582571,
+    "https://cdn1.epicgames.com/2b4c5960dc284359aede3f131c6e47e0/offer/EGS_WannaSurvive_PINIXGames_S2-1200x1600-1200x1600-944f559d86b5c7a504b32470a867f286.jpg",
+    "wanna-survive"
+  ],
+  [
     "687b64a3e1194e69992f9caea70d77c4",
     "942b65a56ff448f6be529cd07b407bb0",
     "Hammerting",
@@ -25097,6 +25205,22 @@
     1616028912,
     "https://cdn1.epicgames.com/84c76746bce94effb8e1047fabfd7eb7/offer/EGS_WorldofWarships_WargamingGroupLimited_S2-1200x1600-f96166935d3d0b84086c6021c188ac0e.jpg",
     ""
+  ],
+  [
+    "69660a391b16453cbf22148ac86ad55d",
+    "a79db01bab484eccafce8dfd151859f9",
+    "Mayhem in Single Valley",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "tinyBuild Games",
+    1620941144,
+    1621526699,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_MayheminSingleValley_FluxscopicLtd_S2_1200x1600-c3b677e8ad526f0f4ad43f897ea89940",
+    "mayhem-in-single-valley"
   ],
   [
     "69734d15a95544a7bc2595674d81dcc4",
@@ -27756,6 +27880,20 @@
     "dark-and-light"
   ],
   [
+    "7455763f93c64ef9be32bbffef82be94",
+    "42ec8b08da634e5eb72459a8ec7d973b",
+    "DLC 003 - Bridge Monthly Pass 001",
+    [
+      "consumable",
+      "applications"
+    ],
+    "o-xbmhhs32ajtuszar863dprgnwtvedk",
+    1619554286,
+    1621542660,
+    "",
+    ""
+  ],
+  [
     "745dd4833cf44388ab55a06f4f178487",
     "amaranth",
     "The Humankind Odyssey Official Soundtrack Bundle",
@@ -27873,6 +28011,20 @@
     1593439190,
     1613056888,
     "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/offer/EGS_Spitter_LimbicEntertainment_DLC_S2-1200x1600-7572ab79f3e499fdc685004ce88fe53b.jpg",
+    ""
+  ],
+  [
+    "74f3a2cef50f49cda30eb3881dbc4935",
+    "42ec8b08da634e5eb72459a8ec7d973b",
+    "DLC 002 - In-game Currency 002",
+    [
+      "consumable",
+      "applications"
+    ],
+    "o-xbmhhs32ajtuszar863dprgnwtvedk",
+    1619553982,
+    1621542701,
+    "",
     ""
   ],
   [
@@ -29600,7 +29752,7 @@
     ],
     "Wizards of the Coast",
     1573004453,
-    1573053211,
+    1621544242,
     "",
     ""
   ],
@@ -30396,7 +30548,7 @@
     ],
     "2K Games, Inc.",
     1589406049,
-    1605803295,
+    1621542670,
     "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVINewFrontierPass_FiraxisGames_Bundles_S2-1200x1600-ea09702a0e2ee3c73d0e6e0d68731218.jpg",
     "sid-meiers-civilization-vi/new-frontier-pass"
   ],
@@ -32414,6 +32566,20 @@
     ""
   ],
   [
+    "89af1e3d008e48deba893f23ff10b36b",
+    "42ec8b08da634e5eb72459a8ec7d973b",
+    "DLC 006 - Bridge Skin 002",
+    [
+      "consumable",
+      "applications"
+    ],
+    "o-xbmhhs32ajtuszar863dprgnwtvedk",
+    1619554472,
+    1621542796,
+    "",
+    ""
+  ],
+  [
     "89ba8fbd80b94893a1dc447602794ceb",
     "7e508f543b05465abe3a935960eb70ac",
     "Founder's Pack III",
@@ -32528,7 +32694,7 @@
     ],
     "Funselektor Labs INC",
     1600203206,
-    1602109260,
+    1621613940,
     "https://cdn1.epicgames.com/4751c4f6a96547209a33831d847d2810/offer/egs-artofrally-funselektor-s4-1200x1600-071924356-1200x1600-60dd8cc8362d35e2074074b99756a92a.jpg",
     "art-of-rally/home"
   ],
@@ -32697,6 +32863,21 @@
     1596163714,
     "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_AllCardbacks_EpicGamesStore_N1_Newsfeed_ApprovedPublic-2560x1440-46260ef992a0e88f5d0f9f0a4f6dc644.jpg",
     "faeria/cardbacks-pack"
+  ],
+  [
+    "8afe88c7c5be4d58891c301e7730f7fd",
+    "d469e82d91fe4516a00d6566c3d2f8f7",
+    "Going Medieval Beta",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "The Irregular Corporation",
+    1619739225,
+    1621559779,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/GoingMedievalBeta_1200x1600_110521_1200x1600-832202d24d30f1387f4c79e03779b678",
+    ""
   ],
   [
     "8b013470b95e4d07982fd46a5de503c6",
@@ -32928,6 +33109,20 @@
     1620933932,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PathfinderKingmakerVarnholdsLotDLC_OwlcatGames_DLC_S2_1200x1600-2c0c576e4e1fcb86abd48e14cc8c7449",
     "pathfinder-kingmaker/imperial-edition"
+  ],
+  [
+    "8b9daf4dcecd468fbacca8f5aaa9834d",
+    "42ec8b08da634e5eb72459a8ec7d973b",
+    "DLC 001 - In-game Currency 001",
+    [
+      "consumable",
+      "applications"
+    ],
+    "o-xbmhhs32ajtuszar863dprgnwtvedk",
+    1619553788,
+    1621542768,
+    "",
+    ""
   ],
   [
     "8ba212740e774e8c8b6b8950a2e3666c",
@@ -34595,7 +34790,7 @@
     ],
     "Wizards of the Coast",
     1573005559,
-    1573053248,
+    1621544299,
     "",
     ""
   ],
@@ -35043,7 +35238,7 @@
     ],
     "Koch Media",
     1618601435,
-    1621353771,
+    1621612515,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AdventurerBundle_NineDotsStudio2015_Bundles_S2_1200x1600-4ea6a4461def22bfb069de7c705cf026",
     "outward--adventurer-bundle"
   ],
@@ -36080,6 +36275,21 @@
     1618860120,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Spelldrifter_FreeRangeGames_S2_1200x1600-07cc0709cce6b5e7b66eed8665c79b2e",
     "spelldrifter"
+  ],
+  [
+    "98428fbbbdfb487b96bb0098f27b22fb",
+    "5bb3d43818ae4188850fe1dbad9d57a5",
+    "Knockout City™ Block Party Edition",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Electronic Arts",
+    1618589076,
+    1621598271,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KnockoutCityBlockPartyEdition_VelanStudios_Editions_S2_1200x1600-3ba98619e8650e99058fcee56ff3c503",
+    "knockout-city/block-party-edition"
   ],
   [
     "984a625e47764af4ad76e5de21bde24d",
@@ -42028,7 +42238,7 @@
     ],
     "2K Games, Inc.",
     1597783441,
-    1617918811,
+    1621542683,
     "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_SEASONPASS_2_EPIC_Portrait_860x1148-860x1148-732b89a412767c9d2c705fd5972d159e.jpg",
     "borderlands-3/season-pass-02"
   ],
@@ -42516,11 +42726,13 @@
     "84c76746bce94effb8e1047fabfd7eb7",
     "Oktyabrskaya Revolutsiya MEGA Pack",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Wargaming Group Limited",
     1621313446,
-    1621521166,
+    1621530630,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_OktyabrskayaRevolutsiyaMEGAPack_Wargaming_AddOn_S2_1200x1600-26cf29550d2413e081b481a36854565a",
     ""
   ],
@@ -42886,7 +43098,7 @@
     ],
     "Square Enix (Japan)",
     1599825605,
-    1617109195,
+    1621608157,
     "https://cdn1.epicgames.com/c8ff067c1c984cd7ab1998e8a9afc8b6/offer/EGS_KINGDOMHEARTSHD28FinalChapterPrologue_SquareEnix_S6-1200x1600-a3fc8fc218fe1ff3541dc2b5b9f076d7.jpg",
     "kingdom-hearts-hd-2-8-final-chapter-prologue"
   ],
@@ -45050,11 +45262,13 @@
     "84c76746bce94effb8e1047fabfd7eb7",
     "Viribus Unitis MEGA Pack",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Wargaming Group Limited",
     1621313384,
-    1621521166,
+    1621530656,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_ViribusUnitisMEGAPack_Wargaming_AddOn_S2_1200x1600-48e5ca58495cea988f8d278143cea7da",
     ""
   ],
@@ -45881,6 +46095,21 @@
     1614274308,
     "https://cdn1.epicgames.com/cb6352a885e2466d900f4f1b737c295a/offer/DR4-OST_Portrait-1200x1600-9ce95531e3309ff8febe203e36085af7.jpg",
     "disaster-report-4-summer-memories"
+  ],
+  [
+    "bfdbe8b8e105460eae19c664e51b95cb",
+    "e89efaeec0cd408abee8bd4dd02c8d32",
+    "Buccaneers DLC",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Kalypso Media Group GmbH",
+    1611329474,
+    1621609219,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Buccaneers_GamingMindsStudios_DLC_S2_1200x1600-9013e79b1fedbbaf2a04f139bac38fad",
+    ""
   ],
   [
     "bfe3d653528643feadb0964743afd0ad",
@@ -47086,6 +47315,22 @@
     1588120702,
     "",
     "nuclear-throne/home"
+  ],
+  [
+    "c46e9b1010da4611a1ffe6312a6b0431",
+    "141904f61264483eaa1f71d7227b0965",
+    "Doctor Who: The Lonely Assassins",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Maze Theory Limited",
+    1618040390,
+    1621608297,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DoctorWhoTheLonelyAssassins_KaiganGames_S2_1200x1600-bc42c8dbc516867cba7fa821a604cbd3",
+    "doctor-who-the-lonely-assassins"
   ],
   [
     "c498cad78b624be2a492e4e6aff19481",
@@ -48451,7 +48696,7 @@
     ],
     "Wizards of the Coast",
     1573005127,
-    1573053228,
+    1621544180,
     "",
     ""
   ],
@@ -52276,7 +52521,7 @@
     ],
     "2K Games, Inc.",
     1585080823,
-    1601395922,
+    1621543838,
     "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_CivilizationScenarioPackBundle_FiraxisGames_Bundles_S2-1200x1600-329f877638adca83b9975047d050e99b.jpg",
     "sid-meiers-civilization-vi/civilization-and-scenario-pack-bundle"
   ],
@@ -52619,7 +52864,7 @@
     ],
     "Team17 Digital Ltd",
     1571707377,
-    1596598758,
+    1621544516,
     "https://cdn1.epicgames.com/115577f4ef1e4055aaf0da534fdfe81e/offer/EGS_TheEscapists2SeasonPass_Team17DigitalLtd_SeasonPass_S2-1200x1600-890275a364a60087d54a8aa606deea69.jpg",
     "the-escapists-2/season-pass"
   ],
@@ -54776,6 +55021,20 @@
     ""
   ],
   [
+    "e56bcbe61dde4d86bed72445352471a2",
+    "42ec8b08da634e5eb72459a8ec7d973b",
+    "DLC 005 - In-game Currency 005",
+    [
+      "consumable",
+      "applications"
+    ],
+    "o-xbmhhs32ajtuszar863dprgnwtvedk",
+    1619554168,
+    1621542736,
+    "",
+    ""
+  ],
+  [
     "e57319e4846041bc93c4962b74cf6b41",
     "conanexiles",
     "Devaucheries of Derketo Pack",
@@ -54949,8 +55208,8 @@
     ],
     "Phoenix Labs",
     1548708471,
-    1617897241,
-    "https://cdn1.epicgames.com/jackal/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S2-1200x1600-225f94f54cac194d2238509f981d8ecd.jpg",
+    1621529845,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LIVEFORTHEHUNT_PhoenixLabs_S2_1200x1600-9aac4e7ff2e633023200dd1f83206442",
     "dauntless/home"
   ],
   [
@@ -59189,6 +59448,20 @@
     ""
   ],
   [
+    "f7d485ca149241f6af61d16d43674f15",
+    "jackal",
+    "Dauntless - Disciple of Death Bundle",
+    [
+      "addons",
+      "addons/durable"
+    ],
+    "Phoenix Labs",
+    1620746964,
+    1621527900,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/Epic_BundleDiscipleDeath_PortraitOffer_1200x1600-3d72880ecaa5a10400cacc6d8414769b",
+    ""
+  ],
+  [
     "f7db37dbab1341fda7e992b8378f5fb8",
     "493e9ad801e8487497fe7840cb8404bb",
     "Farming Simulator 19 - Anderson Group Equipment Pack",
@@ -60510,6 +60783,22 @@
     ""
   ],
   [
+    "fd05ded73f7944798434bd7ee7b39e9c",
+    "8c7ed85dae4341d385919ee4d832eb1a",
+    "Just Die Already",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Curve Digital",
+    1608134935,
+    1621521896,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JustDieAlready_DoubleMoose_S6_1200x1600-577891f9b98a2f9fb55adcaae4ed5ebe",
+    "just-die-already"
+  ],
+  [
     "fd2df056f60e4ca8a59ca5c5f0ff3395",
     "34f7e1e275924bb6a90074920f9c1696",
     "Assassin's Creed Rogue",
@@ -60687,7 +60976,7 @@
     ],
     "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
     1578602247,
-    1617762354,
+    1621537178,
     "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/EGS_Overpass_DesktopHorizontal-1360x766-8f99ba72dfbff47153fdec87b66ce21d.jpg",
     ""
   ],

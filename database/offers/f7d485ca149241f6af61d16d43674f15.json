@@ -1,0 +1,158 @@
+{
+  "id": "f7d485ca149241f6af61d16d43674f15",
+  "namespace": "jackal",
+  "title": "Dauntless - Disciple of Death Bundle",
+  "description": "Even trained Andari Assassins sometimes go rogue—giving in to vengeance, bloodlust, or even mercenary greed. And when Andar's most lethal killers need lethal discipline, the Disciple of Death renders ultimate judgment.",
+  "longDescription": "Even trained Andari Assassins sometimes go rogue—giving in to vengeance, bloodlust, or even mercenary greed. And when Andar's most lethal killers need lethal discipline, the Disciple of Death renders ultimate judgment.\n\nContains:\n- 5,400 Platinum\n- \"Disciple of Death\" armour skin (helm, chest, arms and legs)",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "dauntless--dauntless-disciple-of-death-bundle",
+  "creationDate": "2021-05-11T15:29:24.048Z",
+  "lastModifiedDate": "2021-05-20T16:25:00.391Z",
+  "effectiveDate": "2021-05-20T17:00:00.000Z",
+  "viewableDate": "2021-05-20T17:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-krlzxj88qrtb69fredeuaf887bl5az",
+    "name": "Phoenix Labs"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1203",
+      "name": "Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2021-02-10T17:35:33.537Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1141",
+      "name": "Free to Play",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:28.688Z",
+      "updated": "2021-02-05T16:15:57.293Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2021-02-10T17:36:06.452Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "developerName",
+      "value": "Phoenix Labs"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Epic_BundleDiscipleDeath_LandscapeOffer (1)_2560x1440-5c4f7106e416ec2110eb3e5211b691f9",
+      "md5": "5c4f7106e416ec2110eb3e5211b691f9",
+      "size": 569354,
+      "uploadedDate": "2021-05-18T03:12:12.845Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Epic_BundleDiscipleDeath_PortraitOffer_1200x1600-3d72880ecaa5a10400cacc6d8414769b",
+      "md5": "3d72880ecaa5a10400cacc6d8414769b",
+      "size": 337049,
+      "uploadedDate": "2021-05-18T03:12:18.066Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Epic_BundleDiscipleDeath_PortraitOffer_1200x1600-3d72880ecaa5a10400cacc6d8414769b",
+      "md5": "3d72880ecaa5a10400cacc6d8414769b",
+      "size": 337049,
+      "uploadedDate": "2021-05-18T03:12:20.922Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Epic_BundleDiscipleDeath_PortraitOffer_1200x1600-3d72880ecaa5a10400cacc6d8414769b",
+      "md5": "3d72880ecaa5a10400cacc6d8414769b",
+      "size": 337049,
+      "uploadedDate": "2021-05-18T03:12:23.576Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Epic_BundleDiscipleDeath_LandscapeOffer (1)_2560x1440-5c4f7106e416ec2110eb3e5211b691f9",
+      "md5": "5c4f7106e416ec2110eb3e5211b691f9",
+      "size": 569354,
+      "uploadedDate": "2021-05-18T03:12:26.955Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Epic_BundleDiscipleDeath_PortraitOffer_1200x1600-3d72880ecaa5a10400cacc6d8414769b",
+      "md5": "3d72880ecaa5a10400cacc6d8414769b",
+      "size": 337049,
+      "uploadedDate": "2021-05-18T03:12:30.657Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "6911d09a7f4e4246a73ccb49132730e4"
+    }
+  ],
+  "catalogNs": {
+    "name": "jackal"
+  }
+}

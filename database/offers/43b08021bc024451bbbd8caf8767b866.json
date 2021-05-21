@@ -1,0 +1,184 @@
+{
+  "id": "43b08021bc024451bbbd8caf8767b866",
+  "namespace": "4288b8f6a5e94449a747efd5e1514fde",
+  "title": "Viscerafest",
+  "description": "Viscerafest",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "viscerafest",
+  "urlSlug": "kilo-general-audience",
+  "creationDate": "2021-03-09T22:42:13.746Z",
+  "lastModifiedDate": "2021-05-20T16:38:33.891Z",
+  "effectiveDate": "2021-05-20T17:00:00.000Z",
+  "viewableDate": "2021-05-20T17:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-n4d8bf5e8fnr4kujuut9j6v4d29muc",
+    "name": "1C Online Games Ltd"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2021-02-10T17:36:19.203Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1210",
+      "name": "Shooter",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2021-02-10T17:34:46.127Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:52.671Z",
+      "updated": "2020-09-10T15:44:03.705Z",
+      "status": "ACTIVE",
+      "referenceCount": 0,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "1C Online Games Ltd"
+    },
+    {
+      "key": "developerName",
+      "value": "Acid Man Games, Fire Plant Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "viscerafest"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/5f9e78c0-c5bf-419e-a489-2fa5afff4acf_2560x1440-626a4c8f17befb3c6726056132d20d83",
+      "md5": "626a4c8f17befb3c6726056132d20d83",
+      "size": 449412,
+      "uploadedDate": "2021-05-19T19:23:57.761Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/5f9e78c0-c5bf-419e-a489-2fa5afff4acf_2560x1440-626a4c8f17befb3c6726056132d20d83",
+      "md5": "626a4c8f17befb3c6726056132d20d83",
+      "size": 449412,
+      "uploadedDate": "2021-05-19T19:24:12.038Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/198f7fbc-6fa9-4555-b605-b7a816416f84_1200x1600-1e7b3984d407f22f9ce08abe0f8f3b55",
+      "md5": "1e7b3984d407f22f9ce08abe0f8f3b55",
+      "size": 280436,
+      "uploadedDate": "2021-05-19T19:24:22.665Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/198f7fbc-6fa9-4555-b605-b7a816416f84_1200x1600-1e7b3984d407f22f9ce08abe0f8f3b55",
+      "md5": "1e7b3984d407f22f9ce08abe0f8f3b55",
+      "size": 280436,
+      "uploadedDate": "2021-05-19T19:24:34.989Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/198f7fbc-6fa9-4555-b605-b7a816416f84_1200x1600-1e7b3984d407f22f9ce08abe0f8f3b55",
+      "md5": "1e7b3984d407f22f9ce08abe0f8f3b55",
+      "size": 280436,
+      "uploadedDate": "2021-05-19T19:24:46.960Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/198f7fbc-6fa9-4555-b605-b7a816416f84_1200x1600-1e7b3984d407f22f9ce08abe0f8f3b55",
+      "md5": "1e7b3984d407f22f9ce08abe0f8f3b55",
+      "size": 280436,
+      "uploadedDate": "2021-05-19T19:25:01.774Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "30b31327ca064ebbb4c400b898c9a313"
+    }
+  ],
+  "catalogNs": {
+    "name": "4288b8f6a5e94449a747efd5e1514fde"
+  }
+}

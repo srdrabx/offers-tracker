@@ -6,9 +6,9 @@
   "longDescription": "# Tier V Viribus Unitis Battleship + Commander with 6 Skill Points\n- Twelve 305 mm guns. Four superfiring turrets guarantee convenient training angles\n- Very good concealment for a battleship: with her permanent camouflage mounted, her detectability range by sea is only 12.1 km—on par with cruisers of her tier\n- Her bow armor belt, which has a thickness of up to 150 mm\n- Good maneuverability for her type and tier\n- She earns more credits per battle, plus her permanent camouflage adds a 50% XP bonus per battle and reduces the cost of your ship's post-battle service by 10%\n\n# 50x of the following Signal Flags\n- Equal Speed Charlie London: +50% to XP per battle\n- India Bravo Terrathree: –10% to the cost of the ship's post-battle service\n- Zulu: +20% to credits per battle\n- Papa Papa: +300% to Free XP per battle\n- Zulu Hotel: +50% to Commander XP per battle\n\n# 1,000,000 Credits\nCredits are the main in-game currency used to purchase and repair warships, as well as obtain modules and upgrades.",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "viribus-unitis-mega-pack",
+  "urlSlug": "world-of-warships--viribus-unitis-mega-pack",
   "creationDate": "2021-05-18T04:49:44.468Z",
-  "lastModifiedDate": "2021-05-20T14:32:46.665Z",
+  "lastModifiedDate": "2021-05-20T17:10:56.389Z",
   "effectiveDate": "2021-05-20T15:00:00.000Z",
   "viewableDate": "2021-05-20T15:00:00.000Z",
   "developer": null,
@@ -24,6 +24,12 @@
   "technicalDetails": null,
   "recurrence": "ONCE",
   "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
     {
       "path": "applications"
     }

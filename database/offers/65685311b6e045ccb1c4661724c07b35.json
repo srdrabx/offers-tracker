@@ -6,9 +6,9 @@
   "longDescription": "# Tier IV Battleship Ishizuchi + Commander with 6 Skill Points\n- Main battery comprising ten 305 mm guns with an enhanced rate of fire (2.4 shots per minute). She is capable of effectively using both AP and HE shells\n- A high speed for a battleship at 28 knots\n- A good pool of hit points for a Tier IV battleship at 45,700\n- More credits earned in each battle, and a camouflage that adds a 50% XP bonus per battle and saves 10% of the cost of your ship's post-battle service.\n\n# 20x of the following Signal Flags\n- Equal Speed Charlie London: +50% to XP per battle\n- India Bravo Terrathree: –10% to the cost of the ship's post-battle service\n- Zulu: +20% to credits per battle\n- Papa Papa: +300% to Free XP per battle\n- Zulu Hotel: +50% to Commander XP per battle\n\n# 940,000 Credits\nCredits are the main in-game currency used to purchase and repair warships, as well as obtain modules and upgrades.",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "ishizuchi-mega-pack",
+  "urlSlug": "world-of-warships--ishizuchi-mega-pack",
   "creationDate": "2021-05-18T04:51:31.020Z",
-  "lastModifiedDate": "2021-05-20T14:32:46.644Z",
+  "lastModifiedDate": "2021-05-20T17:10:09.103Z",
   "effectiveDate": "2021-05-20T15:00:00.000Z",
   "viewableDate": "2021-05-20T15:00:00.000Z",
   "developer": null,
@@ -24,6 +24,12 @@
   "technicalDetails": null,
   "recurrence": "ONCE",
   "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
     {
       "path": "applications"
     }

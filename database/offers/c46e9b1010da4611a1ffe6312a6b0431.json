@@ -1,0 +1,172 @@
+{
+  "id": "c46e9b1010da4611a1ffe6312a6b0431",
+  "namespace": "141904f61264483eaa1f71d7227b0965",
+  "title": "Doctor Who: The Lonely Assassins",
+  "description": "Doctor Who: The Lonely Assassins",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "doctor-who-the-lonely-assassins",
+  "urlSlug": "doctorwhothelonelyassassins-general-audience",
+  "creationDate": "2021-04-10T07:39:50.138Z",
+  "lastModifiedDate": "2021-05-21T14:44:57.069Z",
+  "effectiveDate": "2099-01-01T15:00:00.000Z",
+  "viewableDate": "2021-05-21T15:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-exukcf368mx3tdrkq2xmslavvpv8wg",
+    "name": "Maze Theory Limited"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1298",
+      "name": "Puzzle",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2021-02-10T17:34:06.225Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2021-02-10T17:35:47.790Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2021-02-10T17:35:19.827Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Maze Theory Limited"
+    },
+    {
+      "key": "developerName",
+      "value": "Maze Theory Limited"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "doctor-who-the-lonely-assassins"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DoctorWhoTheLonelyAssassins_KaiganGames_S1_2560x1440-2709066f1c50cbb73972cd5c4a0d3682",
+      "md5": "2709066f1c50cbb73972cd5c4a0d3682",
+      "size": 878051,
+      "uploadedDate": "2021-05-13T20:58:55.070Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DoctorWhoTheLonelyAssassins_KaiganGames_S2_1200x1600-bc42c8dbc516867cba7fa821a604cbd3",
+      "md5": "bc42c8dbc516867cba7fa821a604cbd3",
+      "size": 786758,
+      "uploadedDate": "2021-05-13T20:58:59.819Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DoctorWhoTheLonelyAssassins_KaiganGames_S2_1200x1600-bc42c8dbc516867cba7fa821a604cbd3",
+      "md5": "bc42c8dbc516867cba7fa821a604cbd3",
+      "size": 786758,
+      "uploadedDate": "2021-05-13T21:00:27.937Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DoctorWhoTheLonelyAssassins_KaiganGames_S2_1200x1600-bc42c8dbc516867cba7fa821a604cbd3",
+      "md5": "bc42c8dbc516867cba7fa821a604cbd3",
+      "size": 786758,
+      "uploadedDate": "2021-05-13T21:00:33.556Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DoctorWhoTheLonelyAssassins_KaiganGames_S1_2560x1440-2709066f1c50cbb73972cd5c4a0d3682",
+      "md5": "2709066f1c50cbb73972cd5c4a0d3682",
+      "size": 878051,
+      "uploadedDate": "2021-05-13T21:01:02.336Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DoctorWhoTheLonelyAssassins_KaiganGames_S2_1200x1600-bc42c8dbc516867cba7fa821a604cbd3",
+      "md5": "bc42c8dbc516867cba7fa821a604cbd3",
+      "size": 786758,
+      "uploadedDate": "2021-05-13T21:01:05.819Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "fa2b2fded0434d3b86bb03ec41c6e02e"
+    }
+  ],
+  "catalogNs": {
+    "name": "141904f61264483eaa1f71d7227b0965"
+  }
+}

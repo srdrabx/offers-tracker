@@ -8,7 +8,7 @@
   "productSlug": "dauntless/home",
   "urlSlug": "jackalgeneralaudience",
   "creationDate": "2019-01-28T20:47:51.249Z",
-  "lastModifiedDate": "2021-04-08T15:54:01.437Z",
+  "lastModifiedDate": "2021-05-20T16:57:25.854Z",
   "effectiveDate": "2019-04-30T16:00:00.000Z",
   "viewableDate": "2019-01-30T13:20:00.000Z",
   "developer": null,
@@ -115,58 +115,58 @@
   ],
   "keyImages": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/jackal/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S1-2560x1440-8f35f9e5cdfa3daad87f1ec4431792c8.jpg",
-      "md5": "8f35f9e5cdfa3daad87f1ec4431792c8",
-      "size": 548842,
-      "uploadedDate": "2021-04-07T02:46:59.488Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/jackal/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S2-1200x1600-225f94f54cac194d2238509f981d8ecd.jpg",
-      "md5": "225f94f54cac194d2238509f981d8ecd",
-      "size": 360840,
-      "uploadedDate": "2021-04-07T02:47:04.257Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LIVEFORTHEHUNT_PhoenixLabs_S2_1200x1600-9aac4e7ff2e633023200dd1f83206442",
+      "md5": "9aac4e7ff2e633023200dd1f83206442",
+      "size": 345711,
+      "uploadedDate": "2021-05-20T16:56:55.680Z",
       "width": 1200,
       "height": 1600
     },
     {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LIVEFORTHEHUNT_PhoenixLabs_S1_2560x1440-515f54e8312322f81d3d16698453060b",
+      "md5": "515f54e8312322f81d3d16698453060b",
+      "size": 643714,
+      "uploadedDate": "2021-05-20T16:57:02.503Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/jackal/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S2-1200x1600-225f94f54cac194d2238509f981d8ecd.jpg",
-      "md5": "225f94f54cac194d2238509f981d8ecd",
-      "size": 360840,
-      "uploadedDate": "2021-04-07T02:47:10.418Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LIVEFORTHEHUNT_PhoenixLabs_S2_1200x1600-9aac4e7ff2e633023200dd1f83206442",
+      "md5": "9aac4e7ff2e633023200dd1f83206442",
+      "size": 345711,
+      "uploadedDate": "2021-05-20T16:57:05.810Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/jackal/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S2-1200x1600-225f94f54cac194d2238509f981d8ecd.jpg",
-      "md5": "225f94f54cac194d2238509f981d8ecd",
-      "size": 360840,
-      "uploadedDate": "2021-04-07T02:47:16.084Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LIVEFORTHEHUNT_PhoenixLabs_S2_1200x1600-9aac4e7ff2e633023200dd1f83206442",
+      "md5": "9aac4e7ff2e633023200dd1f83206442",
+      "size": 345711,
+      "uploadedDate": "2021-05-20T16:57:08.559Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LIVEFORTHEHUNT_PhoenixLabs_S2_1200x1600-9aac4e7ff2e633023200dd1f83206442",
+      "md5": "9aac4e7ff2e633023200dd1f83206442",
+      "size": 345711,
+      "uploadedDate": "2021-05-20T16:57:15.280Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/jackal/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S1-2560x1440-8f35f9e5cdfa3daad87f1ec4431792c8.jpg",
-      "md5": "8f35f9e5cdfa3daad87f1ec4431792c8",
-      "size": 548842,
-      "uploadedDate": "2021-04-07T02:47:22.631Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LIVEFORTHEHUNT_PhoenixLabs_S1_2560x1440-515f54e8312322f81d3d16698453060b",
+      "md5": "515f54e8312322f81d3d16698453060b",
+      "size": 643714,
+      "uploadedDate": "2021-05-20T16:57:20.084Z",
       "width": 2560,
       "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/jackal/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S2-1200x1600-225f94f54cac194d2238509f981d8ecd.jpg",
-      "md5": "225f94f54cac194d2238509f981d8ecd",
-      "size": 360840,
-      "uploadedDate": "2021-04-07T02:47:27.170Z",
-      "width": 1200,
-      "height": 1600
     }
   ],
   "items": [
