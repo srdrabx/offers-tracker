@@ -5,10 +5,10 @@
   "description": "Upgrade from the Standard to the the Deluxe Edition with the Deluxe Pack!",
   "longDescription": "Upgrade from the Standard to the the Deluxe Edition with the Deluxe Pack!\n\nThe deluxe pack includes : \n\n\n• The Anarchist mission: meet Doctor Hugo Mercier, who will put your city-building and diplomatic skills to the test \n• Four exclusive company logos to customize your in-game profile\n• A selection of music from the game's orchestral soundtrack\n• A digital art book",
   "status": "ACTIVE",
-  "productSlug": "anno-1800/deluxe-pack",
+  "productSlug": null,
   "urlSlug": "anno-1800--deluxe-pack",
   "creationDate": "2019-04-23T17:20:00.301Z",
-  "lastModifiedDate": "2020-08-07T23:47:46.700Z",
+  "lastModifiedDate": "2021-05-22T04:20:18.631Z",
   "effectiveDate": "2019-05-29T18:11:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -28,9 +28,6 @@
       "path": "addons"
     },
     {
-      "path": "games"
-    },
-    {
       "path": "addons/durable"
     },
     {
@@ -38,18 +35,6 @@
     }
   ],
   "tags": [
-    {
-      "id": "14346",
-      "name": "Holiday Sale 2020",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2020-10-21T21:58:03.125Z",
-      "updated": "2021-01-07T16:00:15.373Z",
-      "status": "ACTIVE",
-      "referenceCount": 584,
-      "comment": ""
-    },
     {
       "id": "16011",
       "name": "Epic MEGA Sale",
@@ -60,18 +45,6 @@
       "updated": "2021-05-21T16:48:09.857Z",
       "status": "ACTIVE",
       "referenceCount": 733,
-      "comment": ""
-    },
-    {
-      "id": "15375",
-      "name": "Spring Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-03-10T09:37:21.403Z",
-      "updated": "2021-04-08T14:59:39.138Z",
-      "status": "ACTIVE",
-      "referenceCount": 618,
       "comment": ""
     }
   ],
@@ -87,10 +60,6 @@
     {
       "key": "developerName",
       "value": "Blue Byte"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "anno-1800/deluxe-pack"
     }
   ],
   "keyImages": [
@@ -129,6 +98,15 @@
       "uploadedDate": "2020-08-05T16:47:21.482Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/an18-dlx-game-logo-color-400x150-400x150-664995175_400x150-64761595e16f27022946cd1e031f9cd3",
+      "md5": "64761595e16f27022946cd1e031f9cd3",
+      "size": 17103,
+      "uploadedDate": "2021-04-19T21:57:37.272Z",
+      "width": 400,
+      "height": 150
     }
   ],
   "items": [

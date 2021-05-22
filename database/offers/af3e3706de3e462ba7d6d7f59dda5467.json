@@ -5,10 +5,10 @@
   "description": "Show off the power of your city with a prestigious palace and government departments to boost your economy.",
   "longDescription": "Take the industrial revolution further with Anno 1800 Seat of Power. Show off the power of your city with a prestigious palace and government departments to boost your economy with a variety of policies.",
   "status": "ACTIVE",
-  "productSlug": "anno-1800/seat-of-power",
+  "productSlug": null,
   "urlSlug": "anno-1800--seat-of-power",
   "creationDate": "2020-03-07T05:22:55.995Z",
-  "lastModifiedDate": "2020-08-07T23:47:46.655Z",
+  "lastModifiedDate": "2021-05-22T04:20:18.544Z",
   "effectiveDate": "2020-03-24T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -28,9 +28,6 @@
       "path": "addons"
     },
     {
-      "path": "games"
-    },
-    {
       "path": "addons/durable"
     },
     {
@@ -38,18 +35,6 @@
     }
   ],
   "tags": [
-    {
-      "id": "14346",
-      "name": "Holiday Sale 2020",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2020-10-21T21:58:03.125Z",
-      "updated": "2021-01-07T16:00:15.373Z",
-      "status": "ACTIVE",
-      "referenceCount": 584,
-      "comment": ""
-    },
     {
       "id": "16011",
       "name": "Epic MEGA Sale",
@@ -61,62 +46,148 @@
       "status": "ACTIVE",
       "referenceCount": 733,
       "comment": ""
-    },
-    {
-      "id": "15375",
-      "name": "Spring Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-03-10T09:37:21.403Z",
-      "updated": "2021-04-08T14:59:39.138Z",
-      "status": "ACTIVE",
-      "referenceCount": 618,
-      "comment": ""
     }
   ],
   "customAttributes": [
     {
-      "key": "com.epicgames.app.productSlug",
-      "value": "anno-1800/seat-of-power"
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "developerName",
+      "value": "Blue Byte  "
     }
   ],
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/oregano/offer/ANNO_SEAT_OF_POWER_DLC_EPIC_DLC_Capsule_1920x1080-1920x1080-a38ba4166f46460ac8358988e25095df.jpg",
-      "md5": "a38ba4166f46460ac8358988e25095df",
-      "size": 472337,
-      "uploadedDate": "2020-03-24T02:00:15.581Z",
-      "width": 1920,
-      "height": 1080
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/an18-seatofpower-store-landscape-2560x1440-2560x1440-337890353_2560x1440-28ab910c5b3e791929816e6b471dcbf0",
+      "md5": "28ab910c5b3e791929816e6b471dcbf0",
+      "size": 527242,
+      "uploadedDate": "2021-04-19T23:28:47.961Z",
+      "width": 2560,
+      "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_Store_Portrait_1200x1600-1200x1600-fe7774bb1563f584b97142f0b202d209.jpg",
-      "md5": "fe7774bb1563f584b97142f0b202d209",
-      "size": 865324,
-      "uploadedDate": "2020-08-05T16:50:42.782Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/an18-seatofpower-store-portrait-1200x1600-1200x1600-337890379_1200x1600-d62c2c573357983dac1401f4d61c7f75",
+      "md5": "d62c2c573357983dac1401f4d61c7f75",
+      "size": 348851,
+      "uploadedDate": "2021-04-19T23:28:57.444Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_Store_Portrait_1200x1600-1200x1600-fe7774bb1563f584b97142f0b202d209.jpg",
-      "md5": "fe7774bb1563f584b97142f0b202d209",
-      "size": 865324,
-      "uploadedDate": "2020-08-05T16:50:57.721Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/an18-seatofpower-store-portrait-1200x1600-1200x1600-337890379_1200x1600-d62c2c573357983dac1401f4d61c7f75",
+      "md5": "d62c2c573357983dac1401f4d61c7f75",
+      "size": 348851,
+      "uploadedDate": "2021-04-19T23:29:07.504Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_Store_Portrait_1200x1600-1200x1600-fe7774bb1563f584b97142f0b202d209.jpg",
-      "md5": "fe7774bb1563f584b97142f0b202d209",
-      "size": 865324,
-      "uploadedDate": "2020-08-05T16:51:06.858Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/an18-seatofpower-store-portrait-1200x1600-1200x1600-337890379_1200x1600-d62c2c573357983dac1401f4d61c7f75",
+      "md5": "d62c2c573357983dac1401f4d61c7f75",
+      "size": 348851,
+      "uploadedDate": "2021-04-19T23:29:19.815Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/DLC04_Screenshot_01_1920x1080-912ebb86c64269ccb6c257fa661a6914",
+      "md5": "912ebb86c64269ccb6c257fa661a6914",
+      "size": 1012439,
+      "uploadedDate": "2021-04-19T23:29:29.995Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/DLC04_Screenshot_02_1920x1080-92dd380c39d9dd759f6a2bc6f9f158ff",
+      "md5": "92dd380c39d9dd759f6a2bc6f9f158ff",
+      "size": 652557,
+      "uploadedDate": "2021-04-19T23:29:37.159Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/DLC04_Screenshot_03_1920x1080-985759dbae12831f455a27e108aee962",
+      "md5": "985759dbae12831f455a27e108aee962",
+      "size": 644401,
+      "uploadedDate": "2021-04-19T23:29:45.455Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/DLC04_Screenshot_04_1920x1080-c9328abf21299fe0ce005f7c6814c30c",
+      "md5": "c9328abf21299fe0ce005f7c6814c30c",
+      "size": 430107,
+      "uploadedDate": "2021-04-19T23:29:52.575Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/an18-seatofpower-game-logo-color-400x150-400x150-337889771_400x150-0b8f43f0fdabe2b63c79c6ca3aca8402",
+      "md5": "0b8f43f0fdabe2b63c79c6ca3aca8402",
+      "size": 6052,
+      "uploadedDate": "2021-04-19T23:30:05.386Z",
+      "width": 400,
+      "height": 150
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/an18-seatofpower-edition-thumbnail-1920x1080-1920x1080-337890173_1920x1080-f287ea8c198b92a2c1be7ce6d204d0e5",
+      "md5": "f287ea8c198b92a2c1be7ce6d204d0e5",
+      "size": 221740,
+      "uploadedDate": "2021-05-22T04:12:00.881Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Diesel_productv2_anno-1800_seat-of-power_DLC04_Screenshot_01-1920x1080-afeba8042d069da858bf08024bd56736607f7c1b_1920x1080-8abcfe02780b317da93834f3cec519ad",
+      "md5": "8abcfe02780b317da93834f3cec519ad",
+      "size": 526192,
+      "uploadedDate": "2021-05-22T04:12:11.087Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Diesel_productv2_anno-1800_seat-of-power_DLC04_Screenshot_02-1920x1080-f2e5974406f4f032ee80906a776a05b58a89d4d5_1920x1080-3869979a99cdd125ac6865d9085d8b0f",
+      "md5": "3869979a99cdd125ac6865d9085d8b0f",
+      "size": 291450,
+      "uploadedDate": "2021-05-22T04:12:19.037Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Diesel_productv2_anno-1800_seat-of-power_DLC04_Screenshot_03-1920x1080-0fdcc3b777fb48fb5702d6434207a8f59a4189e2_1920x1080-73f553faae0e9a8873af050108e90108",
+      "md5": "73f553faae0e9a8873af050108e90108",
+      "size": 269804,
+      "uploadedDate": "2021-05-22T04:12:27.429Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Diesel_productv2_anno-1800_seat-of-power_DLC04_Screenshot_04-1920x1080-6eb48f4dff754c6fb96e5e784ba3dd627df026e8_1920x1080-f45c37c675010eda861749a1d65c5ba8",
+      "md5": "f45c37c675010eda861749a1d65c5ba8",
+      "size": 217189,
+      "uploadedDate": "2021-05-22T04:12:35.383Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [

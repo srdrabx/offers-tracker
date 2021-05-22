@@ -1,14 +1,14 @@
 {
   "id": "25fc0f3619e44833a7b3e2909d88b064",
   "namespace": "oregano",
-  "title": "City Lights - DLC",
-  "description": "City Lights - DLC",
-  "longDescription": null,
+  "title": "Anno 1800™ - City Lights Pack",
+  "description": "Brighten up your residents’ lives with the City Lights Pack, with 21 new urban ornaments, including street lanterns.",
+  "longDescription": "The City Lights Pack Cosmetic DLC includes 21 new ornaments you can use to further flesh out your industrial cities and make them the envy of your rivals. \n\nThe fully functional streetlamps give you full control over which parts of your city you want to illuminate at night. Place them stand-alone or connect them with new ornamental fencing.\n\nDelight your citizens with a new centerpiece for your city center: a decorative pond with swan boats! \n\nBring joy to children of all ages with two new playgrounds. \n\nA variety of new vendor stalls and tables allow you to build the culinary festival of your dreams.",
   "status": "ACTIVE",
-  "productSlug": "anno-1800/city-lights",
-  "urlSlug": "citylightsdlc",
+  "productSlug": null,
+  "urlSlug": "anno-1800--city-lights-pack",
   "creationDate": "2020-11-10T02:40:43.487Z",
-  "lastModifiedDate": "2020-11-12T15:42:03.419Z",
+  "lastModifiedDate": "2021-05-22T04:29:21.538Z",
   "effectiveDate": "2020-11-12T16:00:00.000Z",
   "viewableDate": "2020-11-12T15:55:00.000Z",
   "developer": null,
@@ -44,8 +44,12 @@
       "value": "CN"
     },
     {
-      "key": "com.epicgames.app.productSlug",
-      "value": "anno-1800/city-lights"
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft Mainz"
     }
   ],
   "keyImages": [
@@ -102,6 +106,60 @@
       "uploadedDate": "2020-11-11T18:22:53.034Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/anno-city-lights-dlc-epic-dlc-capsule-1920x1080-1920x1080-497665395_1920x1080-5f16d5b4124726e4c0b5a155bcecc4fd",
+      "md5": "5f16d5b4124726e4c0b5a155bcecc4fd",
+      "size": 208669,
+      "uploadedDate": "2021-05-21T05:00:23.513Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/bbm4225-a7-city-life-dlc-screenshot-01-1920x1080-497706669_1920x1080-3b8b3e72d11e760eb55a9524d9ce821d",
+      "md5": "3b8b3e72d11e760eb55a9524d9ce821d",
+      "size": 273790,
+      "uploadedDate": "2021-05-21T05:00:44.420Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/bbm4225-a7-city-life-dlc-screenshot-02-v03-1920x1080-497706663_1920x1080-e60738f64f838ab2eff2f5a440ba6561",
+      "md5": "e60738f64f838ab2eff2f5a440ba6561",
+      "size": 456898,
+      "uploadedDate": "2021-05-21T05:00:54.784Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/bbm4225-a7-city-life-dlc-screenshot-03-v03-1920x1080-497706592_1920x1080-8b57e6a792a4bb7d4b943f94d0bd2d4c",
+      "md5": "8b57e6a792a4bb7d4b943f94d0bd2d4c",
+      "size": 328396,
+      "uploadedDate": "2021-05-21T05:01:04.941Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/bbm4225-a7-city-life-dlc-screenshot-04-v02-1920x1080-497706821_1920x1080-e4241e40289421ffacc2db9d379a97db",
+      "md5": "e4241e40289421ffacc2db9d379a97db",
+      "size": 366573,
+      "uploadedDate": "2021-05-21T05:01:14.157Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/bbm4225-a7-city-life-dlc-screenshot-05-v02-1920x1080-497706532_1920x1080-398ac4d5a6b2993530b9eeae153229e6",
+      "md5": "398ac4d5a6b2993530b9eeae153229e6",
+      "size": 269278,
+      "uploadedDate": "2021-05-21T05:01:23.800Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [

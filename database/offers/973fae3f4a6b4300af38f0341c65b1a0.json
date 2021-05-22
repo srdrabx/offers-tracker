@@ -1,14 +1,14 @@
 {
   "id": "973fae3f4a6b4300af38f0341c65b1a0",
   "namespace": "oregano",
-  "title": "Season 3 Pass",
-  "description": "Season 3 Pass",
-  "longDescription": "",
+  "title": "Anno 1800™ Season 3 Pass",
+  "description": "Immerse yourself in the next chapter of the Anno 1800™ Industrial Revolution with three new DLCs in the Season 3 Pass.",
+  "longDescription": "\"The Anno 1800™ Season 3 Pass includes the following DLCs:\n\nDOCKLANDS\nTurn your city into a global trade hub with a modular warehouse system and use trade contracts to create a monopoly on your favorite goods.\n\nTOURIST SEASON\nAttract the new Tourist resident tier to your city’s hotels and keep them entertained with restaurants and bus tours of touristic hotspots such as the new Tower monument.\n\nTHE HIGH LIFE\nChange your empire’s skyline forever with the construction of the first skyscrapers and keep your high-flying investors happy with shopping malls and the construction of the game’s biggest monument, the Empire Building. \n\nBONUS CONTENT\nIn addition, you will receive three exclusive ornaments themed with the new content, available today.\"",
   "status": "ACTIVE",
-  "productSlug": "anno-1800/season-pass-3",
+  "productSlug": null,
   "urlSlug": "anno-1800--season-pass-y3",
   "creationDate": "2021-01-29T23:12:01.897Z",
-  "lastModifiedDate": "2021-02-23T15:55:17.168Z",
+  "lastModifiedDate": "2021-05-22T04:20:18.439Z",
   "effectiveDate": "2021-02-09T16:00:00.000Z",
   "viewableDate": "2021-02-09T16:00:00.000Z",
   "developer": null,
@@ -47,10 +47,6 @@
     {
       "key": "developerName",
       "value": "Blue Byte"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "anno-1800/season-pass-3"
     }
   ],
   "keyImages": [
@@ -89,6 +85,24 @@
       "uploadedDate": "2021-02-03T21:08:38.413Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/an18-seasonpass3-epic-edition-capsule-hero-carrousel-1920x1080-1920x1080-b10561e4dd62_1920x1080-643a02027aa6c28f5e2a7c68ec902773",
+      "md5": "643a02027aa6c28f5e2a7c68ec902773",
+      "size": 342221,
+      "uploadedDate": "2021-05-22T04:01:53.286Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/anno-mockup-season3-pass-y3-en-1920x1080-8514e4f2b85a_1920x1080-08fe9d5e6025ac636d473a0eea090797",
+      "md5": "08fe9d5e6025ac636d473a0eea090797",
+      "size": 435008,
+      "uploadedDate": "2021-05-22T04:02:00.790Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [

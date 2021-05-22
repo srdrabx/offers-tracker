@@ -5,10 +5,10 @@
   "description": "Continue your adventure in Anno 1800™ with new Botanica DLC. Transform your island with flourishing gardens, a Bandstand and earn new rewards.",
   "longDescription": "Grow your city's attractiveness with a lush, beautiful botanical garden, allowing you to earn new items and rewards as your floral masterpiece captivates tourists. \n\nThe new DLC includes: \n-\t21 unique botanical modules\n-\t1 glasshouse module \n-\t11 unique ornament modules \n-\t9 new sets for your botanical garden, with a total of 59 plant items\n-\tA new music pavilion, including 5 music tracks from Anno themes",
   "status": "ACTIVE",
-  "productSlug": "anno-1800/botanica",
+  "productSlug": null,
   "urlSlug": "anno-1800--botanica",
   "creationDate": "2019-09-04T01:09:03.141Z",
-  "lastModifiedDate": "2020-08-07T23:47:46.625Z",
+  "lastModifiedDate": "2021-05-22T04:20:18.408Z",
   "effectiveDate": "2019-09-04T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -28,9 +28,6 @@
       "path": "addons"
     },
     {
-      "path": "games"
-    },
-    {
       "path": "addons/durable"
     },
     {
@@ -38,18 +35,6 @@
     }
   ],
   "tags": [
-    {
-      "id": "14346",
-      "name": "Holiday Sale 2020",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2020-10-21T21:58:03.125Z",
-      "updated": "2021-01-07T16:00:15.373Z",
-      "status": "ACTIVE",
-      "referenceCount": 584,
-      "comment": ""
-    },
     {
       "id": "16011",
       "name": "Epic MEGA Sale",
@@ -61,24 +46,20 @@
       "status": "ACTIVE",
       "referenceCount": 733,
       "comment": ""
-    },
-    {
-      "id": "15375",
-      "name": "Spring Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-03-10T09:37:21.403Z",
-      "updated": "2021-04-08T14:59:39.138Z",
-      "status": "ACTIVE",
-      "referenceCount": 618,
-      "comment": ""
     }
   ],
   "customAttributes": [
     {
-      "key": "com.epicgames.app.productSlug",
-      "value": "anno-1800/botanica"
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "developerName",
+      "value": "Blue Byte"
     }
   ],
   "keyImages": [
@@ -117,6 +98,33 @@
       "uploadedDate": "2020-08-05T16:41:37.066Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Diesel_productv2_anno-1800_botanica_Anno1800_DLC_Botanica_Garden-1920x1080-48d74a17694f354ab1b9c1bc05ffa77724698598_1920x1080-f4b2dd264d512ead12b6079897c7efaf",
+      "md5": "f4b2dd264d512ead12b6079897c7efaf",
+      "size": 355988,
+      "uploadedDate": "2021-04-19T22:18:29.170Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Diesel_productv2_anno-1800_botanica_Anno1800_DLC_Botanica_Music-Pavilion-1920x1080-388260a534557d7ade852da0ced5642942365887_1920x1080-34a5fe92c6ea68d8a1aa4aed7a3c0ba3",
+      "md5": "34a5fe92c6ea68d8a1aa4aed7a3c0ba3",
+      "size": 287955,
+      "uploadedDate": "2021-04-19T22:18:37.415Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/an18-dlc2-logo-color-400x150-400x150-664464382_400x150-8c4643c6add66ec65a591e0f0e81c94e",
+      "md5": "8c4643c6add66ec65a591e0f0e81c94e",
+      "size": 9155,
+      "uploadedDate": "2021-04-19T22:18:51.654Z",
+      "width": 400,
+      "height": 150
     }
   ],
   "items": [

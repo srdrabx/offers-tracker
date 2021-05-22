@@ -8,7 +8,7 @@
   "productSlug": "doctor-who-the-lonely-assassins",
   "urlSlug": "doctorwhothelonelyassassins-general-audience",
   "creationDate": "2021-04-10T07:39:50.138Z",
-  "lastModifiedDate": "2021-05-21T14:44:57.069Z",
+  "lastModifiedDate": "2021-05-21T16:57:22.425Z",
   "effectiveDate": "2099-01-01T15:00:00.000Z",
   "viewableDate": "2021-05-21T15:00:00.000Z",
   "developer": null,
@@ -107,58 +107,58 @@
   ],
   "keyImages": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DoctorWhoTheLonelyAssassins_KaiganGames_S1_2560x1440-2709066f1c50cbb73972cd5c4a0d3682",
-      "md5": "2709066f1c50cbb73972cd5c4a0d3682",
-      "size": 878051,
-      "uploadedDate": "2021-05-13T20:58:55.070Z",
-      "width": 2560,
-      "height": 1440
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined",
+      "md5": "778a6f2ec7da36ca5b2c19bedb698fc4",
+      "size": 8817947,
+      "uploadedDate": "2021-05-21T16:45:16.701Z",
+      "width": 3513,
+      "height": 4960
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DoctorWhoTheLonelyAssassins_KaiganGames_S2_1200x1600-bc42c8dbc516867cba7fa821a604cbd3",
-      "md5": "bc42c8dbc516867cba7fa821a604cbd3",
-      "size": 786758,
-      "uploadedDate": "2021-05-13T20:58:59.819Z",
-      "width": 1200,
-      "height": 1600
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined",
+      "md5": "fe086a90a804770297ada17597c46253",
+      "size": 9887675,
+      "uploadedDate": "2021-05-21T16:48:13.157Z",
+      "width": 3219,
+      "height": 1809
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DoctorWhoTheLonelyAssassins_KaiganGames_S2_1200x1600-bc42c8dbc516867cba7fa821a604cbd3",
-      "md5": "bc42c8dbc516867cba7fa821a604cbd3",
-      "size": 786758,
-      "uploadedDate": "2021-05-13T21:00:27.937Z",
-      "width": 1200,
-      "height": 1600
+      "url": "https://cdn1.epicgames.com/undefined",
+      "md5": "778a6f2ec7da36ca5b2c19bedb698fc4",
+      "size": 8817947,
+      "uploadedDate": "2021-05-21T16:50:25.816Z",
+      "width": 3513,
+      "height": 4960
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DoctorWhoTheLonelyAssassins_KaiganGames_S2_1200x1600-bc42c8dbc516867cba7fa821a604cbd3",
-      "md5": "bc42c8dbc516867cba7fa821a604cbd3",
-      "size": 786758,
-      "uploadedDate": "2021-05-13T21:00:33.556Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DoctorWhoTheLonelyAssassins_KaiganGames_S1_2560x1440-2709066f1c50cbb73972cd5c4a0d3682",
-      "md5": "2709066f1c50cbb73972cd5c4a0d3682",
-      "size": 878051,
-      "uploadedDate": "2021-05-13T21:01:02.336Z",
-      "width": 2560,
-      "height": 1440
+      "url": "https://cdn1.epicgames.com/undefined",
+      "md5": "778a6f2ec7da36ca5b2c19bedb698fc4",
+      "size": 8817947,
+      "uploadedDate": "2021-05-21T16:52:37.183Z",
+      "width": 3513,
+      "height": 4960
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DoctorWhoTheLonelyAssassins_KaiganGames_S2_1200x1600-bc42c8dbc516867cba7fa821a604cbd3",
-      "md5": "bc42c8dbc516867cba7fa821a604cbd3",
-      "size": 786758,
-      "uploadedDate": "2021-05-13T21:01:05.819Z",
-      "width": 1200,
-      "height": 1600
+      "url": "https://cdn1.epicgames.com/undefined",
+      "md5": "778a6f2ec7da36ca5b2c19bedb698fc4",
+      "size": 8817947,
+      "uploadedDate": "2021-05-21T16:54:55.642Z",
+      "width": 3513,
+      "height": 4960
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined",
+      "md5": "fe086a90a804770297ada17597c46253",
+      "size": 9887675,
+      "uploadedDate": "2021-05-21T16:56:41.281Z",
+      "width": 3219,
+      "height": 1809
     }
   ],
   "items": [

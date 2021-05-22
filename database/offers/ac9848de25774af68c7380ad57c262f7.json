@@ -5,10 +5,10 @@
   "description": "Enrich your city-building experience with the Anno 1800 Season 1 Pass. The Season 1 Pass contains 3 DLCs that will give you access to new adventures, challenges and tools as you shape your very own Industrial Revolution.",
   "longDescription": "Enrich your city-building experience with the Anno 1800 Season 1 Pass. The Season 1 Pass contains 3 DLCs that will give you access to new adventures, challenges and tools as you shape your very own Industrial Revolution.\n\nThis Season 1 Pass includes:\n+ Sunken Treasures DLC:  Expand your island with a new European session and large continental island, as you join an excentric inventor and his diving bell on a treasure hunt\n+ Botanica DLC: Grow your city's attractiveness to new heights with a modular Botanical Garden, allowing you to earn new items and rewards as you draw the tourist masses to your floral masterpiece\n+ The Passage DLC: Embark on a dangerous Arctic adventure as you try to find a long lost polar expedition on its journey to discover the legendary passage",
   "status": "ACTIVE",
-  "productSlug": "anno-1800/season-pass",
+  "productSlug": null,
   "urlSlug": "anno-1800--season-pass",
   "creationDate": "2019-04-15T22:02:21.793Z",
-  "lastModifiedDate": "2020-08-07T23:47:46.641Z",
+  "lastModifiedDate": "2021-05-22T04:20:18.492Z",
   "effectiveDate": "2019-04-15T12:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -84,10 +84,6 @@
     {
       "key": "developerName",
       "value": "Blue Byte"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "anno-1800/season-pass"
     }
   ],
   "keyImages": [

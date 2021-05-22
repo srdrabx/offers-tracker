@@ -1914,7 +1914,7 @@
     ],
     "Electronic Arts",
     1618589111,
-    1621598271,
+    1621639601,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KnockoutCityDeluxeBlockPartyEdition_VelanStudios_Editions_S2_1200x1600-5008f0a7949e05d8700080e93c93324f",
     "knockout-city/deluxe-block-party-edition"
   ],
@@ -8519,13 +8519,12 @@
     "The Passage - DLC",
     [
       "addons",
-      "games",
       "addons/durable",
       "applications"
     ],
     "Ubisoft Entertainment",
     1567614594,
-    1596844066,
+    1621657218,
     "https://cdn1.epicgames.com/oregano/offer/GameName_Store_Portrait_1200x1600-1200x1600-2951d54df90e12e0ac676bef94ed5ee1.jpg",
     "anno-1800/the-passage"
   ],
@@ -8983,7 +8982,7 @@
   [
     "25fc0f3619e44833a7b3e2909d88b064",
     "oregano",
-    "City Lights - DLC",
+    "Anno 1800™ - City Lights Pack",
     [
       "addons",
       "games",
@@ -8992,9 +8991,9 @@
     ],
     "Ubisoft Entertainment",
     1604976043,
-    1605195723,
+    1621657761,
     "https://cdn1.epicgames.com/oregano/offer/AN18_Store_Portrait_1200x1600-1200x1600-1bc64cd026b516311114db43a6ecf484.jpg",
-    "anno-1800/city-lights"
+    ""
   ],
   [
     "260b9b8e19d04e78ba5840995d64c089",
@@ -12020,15 +12019,14 @@
     "Sunken Treasures - DLC",
     [
       "addons",
-      "games",
       "addons/durable",
       "applications"
     ],
     "Ubisoft Entertainment",
     1564099461,
-    1596844066,
+    1621657218,
     "https://cdn1.epicgames.com/oregano/offer/CodeRedemptionSunkenTreasures-330x440-3232a49057263a619bf31a0d399932a2-330x440-3232a49057263a619bf31a0d399932a2.jpg",
-    "anno-1800/sunken-treasures"
+    ""
   ],
   [
     "3261371709d9420dac62eaa84ef736d1",
@@ -13993,7 +13991,7 @@
     ],
     "Electronic Arts",
     1616463404,
-    1621598271,
+    1621639601,
     "https://cdn1.epicgames.com/5bb3d43818ae4188850fe1dbad9d57a5/offer/EGS_KnockoutCity_VelanStudios_S2-1200x1600-b7df4b64f600767dc20c64e8c6eb299c.jpg",
     "knockout-city"
   ],
@@ -17937,6 +17935,21 @@
     ""
   ],
   [
+    "4a4cd324ed4747a8ad00476cb2d8c95f",
+    "6009be9994c2409099588cde6f3a5ed0",
+    "Cities: Skylines - Rail Hawk Radio",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Paradox Interactive",
+    1620061207,
+    1621620329,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CitiesSkylinesRailHawkRadio_ColossalOrder_DLC_S2_1200x1600-70c9552ebdf9544cda95845c41878b97",
+    ""
+  ],
+  [
     "4a58f83624244f238f662952ba0b0d83",
     "epic",
     "State of Decay 2: Juggernaut Edition",
@@ -18303,6 +18316,21 @@
     1569981766,
     1615805663,
     "https://cdn1.epicgames.com/d759128018124dcabb1fbee9bb28e178/offer/Wishlist_Portrait_SurvivingMars_MysteriesResupplyPack-860x1148-dae7a37ba93d1543982fe43cc38cf37b.png",
+    ""
+  ],
+  [
+    "4c2792ced08e47a4a26b953e7111fc58",
+    "6009be9994c2409099588cde6f3a5ed0",
+    "Cities: Skylines - Content Creator Pack: Bridges & Piers",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Paradox Interactive",
+    1620062948,
+    1621620329,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CitiesSkylinesCCPBridgesPiers_ColossalOrder_DLC_S2_1200x1600-6bd0abd048f8b94dbb4225ba55a5f571",
     ""
   ],
   [
@@ -19166,7 +19194,7 @@
     ],
     "Ubisoft Entertainment",
     1583558621,
-    1596163748,
+    1621657218,
     "https://cdn1.epicgames.com/oregano/offer/AN18_BrightHarvest_Wishlist_Portrait_860x1148-860x1148-c32c5702f34141328c32d94cf38be45d.jpg",
     "anno-1800/bright-harvest"
   ],
@@ -22199,7 +22227,7 @@
     ],
     "Electronic Arts",
     1618588565,
-    1621598271,
+    1621639601,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KnockoutCity_VelanStudios_Trials_S2_1200x1600-8caa10a95e7e58d7e9fff2b479bbaaec",
     "knockout-city/trial"
   ],
@@ -25474,7 +25502,7 @@
   [
     "6a4f46894d0d4223802e1885f9a1cf5e",
     "2744acda6a2e493e9894b389b6564df7",
-    "Burning Bright Vinyl Wrap Pack",
+    "Snowrunner - Burning Bright Vinyl Wrap Pack",
     [
       "addons",
       "addons/durable",
@@ -25482,7 +25510,7 @@
     ],
     "Focus Home",
     1617227089,
-    1621295973,
+    1621629542,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BurningBrightVinylWrapPack_SaberInteractive_DLC_S2_1200x1600-36e971ce3131b050f9ac3e7a763bc71e",
     ""
   ],
@@ -25688,7 +25716,7 @@
   [
     "6b2eeaa4b1164f4e8777f262410bedbd",
     "2744acda6a2e493e9894b389b6564df7",
-    "Season 4: New Frontiers",
+    "Snowrunner - Season 4: New Frontiers",
     [
       "addons",
       "addons/durable",
@@ -25696,7 +25724,7 @@
     ],
     "Focus Home",
     1578610848,
-    1621297816,
+    1621629527,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Season4NewFrontiers_SaberInteractive_DLC_S2_1200x1600-9eb88035ea9feff9b15caed82a94ed0d",
     ""
   ],
@@ -26358,7 +26386,7 @@
   [
     "6e77039b69a64a76bcbb082bb8442141",
     "oregano",
-    "Land of Lions - DLC",
+    "Anno 1800™: Land of Lions",
     [
       "addons",
       "games",
@@ -26367,9 +26395,9 @@
     ],
     "Ubisoft Entertainment",
     1602517300,
-    1605195660,
+    1621657817,
     "https://cdn1.epicgames.com/oregano/offer/AN18_LandOfLions_Store_Portrait_1200x1600-1200x1600-a1230fcf48b63b145913d1cd33b2fa06.jpg",
-    "anno-1800/land-of-lions"
+    ""
   ],
   [
     "6e90248798344e65b1d025f192e4411f",
@@ -29401,7 +29429,7 @@
   [
     "7abed2047c474b3cb2ac0a15026bfa34",
     "2744acda6a2e493e9894b389b6564df7",
-    "GMC Brigadier",
+    "Snowrunner - GMC Brigadier",
     [
       "addons",
       "addons/durable",
@@ -29409,7 +29437,7 @@
     ],
     "Focus Home",
     1617227034,
-    1621295973,
+    1621629512,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GMCBrigadier_SaberInteractive_DLC_S2_1200x1600-0c3d6ca933faeb43f7303c3ad9d7b1a7",
     ""
   ],
@@ -32726,7 +32754,7 @@
     ],
     "Urnique Studio",
     1619178719,
-    1621526977,
+    1621620649,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TimelieGameoftheYearEdition_UrniqueStudio_S2_1200x1600-7e4c8ee3cfa86f9263818b603aa80434",
     "timelie"
   ],
@@ -33830,6 +33858,21 @@
     1599181227,
     "https://cdn1.epicgames.com/deab864e1abf4357b303bcd5ff6fe8da/offer/EGS_TonyHawksProSkater12DeluxeEdition_VicariousVisions_Editions_S2-1200x1600-ceeb43b86ccb045b85e92a130440dc33.jpg",
     "tony-hawks-pro-skater-1-and-2/deluxe-edition"
+  ],
+  [
+    "8f024193b1894dc2bb54cdd938818b88",
+    "37ed871e17ab4466b4d5da28e9576ea6",
+    "R-Type Final 2 - DLC Set 1",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "NIS America, Inc.",
+    1616722494,
+    1621633643,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RTypeFinal2DLCSet1_GranzellaInc_DLC_S2_1200x1600-93a67c1878f04854d6b92491751e8d76",
+    ""
   ],
   [
     "8f0e878d1a7949f694e32443f60a4796",
@@ -35280,15 +35323,14 @@
     "Botanica - DLC",
     [
       "addons",
-      "games",
       "addons/durable",
       "applications"
     ],
     "Ubisoft Entertainment",
     1567559343,
-    1596844066,
+    1621657218,
     "https://cdn1.epicgames.com/oregano/offer/AN18_DLC2_Store_Portrait_1200x1600-1200x1600-05178c390cd7325309b6f73bfc003026.jpg",
-    "anno-1800/botanica"
+    ""
   ],
   [
     "94c53c191b7b495284ea8f2075414cd0",
@@ -36004,7 +36046,7 @@
   [
     "973fae3f4a6b4300af38f0341c65b1a0",
     "oregano",
-    "Season 3 Pass",
+    "Anno 1800™ Season 3 Pass",
     [
       "addons",
       "addons/durable",
@@ -36012,9 +36054,9 @@
     ],
     "Ubisoft Entertainment",
     1611961921,
-    1614095717,
+    1621657218,
     "https://cdn1.epicgames.com/oregano/offer/an18-seasonpass3-epic-store-portrait-1200x1600-1200x1600-c042156fce98-1200x1600-1fdbebf480248006f24b11db54dd2083.jpg",
-    "anno-1800/season-pass-3"
+    ""
   ],
   [
     "97408232545d484f881925718dcbdebe",
@@ -36051,15 +36093,14 @@
     "Anno 1800: Amusements DLC",
     [
       "addons",
-      "games",
       "addons/durable",
       "applications"
     ],
     "Ubisoft Entertainment",
     1596140581,
-    1597157987,
+    1621657218,
     "https://cdn1.epicgames.com/oregano/offer/GameName_Store_Portrait_1200x1600-1200x1600-7554c2eb24fb34d9ac1573cc5a1b30a7.jpg",
-    "anno-1800/amusements-pack"
+    ""
   ],
   [
     "97588283cb8c4ec4ba6f9ae7763c83e9",
@@ -36287,7 +36328,7 @@
     ],
     "Electronic Arts",
     1618589076,
-    1621598271,
+    1621639601,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KnockoutCityBlockPartyEdition_VelanStudios_Editions_S2_1200x1600-3ba98619e8650e99058fcee56ff3c503",
     "knockout-city/block-party-edition"
   ],
@@ -36636,6 +36677,21 @@
     1612303796,
     1619542213,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
+    ""
+  ],
+  [
+    "997c558ad0fc47929ea6d0e6cba13e23",
+    "6009be9994c2409099588cde6f3a5ed0",
+    "Cities: Skylines - Sunny Breeze Radio",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Paradox Interactive",
+    1620062163,
+    1621620329,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CitiesSkylinesSunnyBreezeRadio_ColossalOrder_DLC_S2_1200x1600-fedc711e879c6e482a9dfe35b748f36b",
     ""
   ],
   [
@@ -41741,9 +41797,9 @@
     ],
     "Ubisoft Entertainment",
     1555365741,
-    1596844066,
+    1621657218,
     "https://cdn1.epicgames.com/oregano/offer/AN18_Store_Portrait_1200x1600-1200x1600-fe7774bb1563f584b97142f0b202d209.jpg",
-    "anno-1800/season-pass"
+    ""
   ],
   [
     "ac98e035868b4b729c9b5d87dc960370",
@@ -42171,7 +42227,7 @@
   [
     "ae2c4aae24044568b9e462dd359d0e25",
     "oregano",
-    "Docklands - DLC",
+    "Anno 1800™ Docklands",
     [
       "addons",
       "addons/durable",
@@ -42179,7 +42235,7 @@
     ],
     "Ubisoft Entertainment",
     1612229157,
-    1616683222,
+    1621657218,
     "",
     ""
   ],
@@ -42397,15 +42453,14 @@
     "Seat of Power - DLC",
     [
       "addons",
-      "games",
       "addons/durable",
       "applications"
     ],
     "Ubisoft Entertainment",
     1583558575,
-    1596844066,
-    "https://cdn1.epicgames.com/oregano/offer/AN18_Store_Portrait_1200x1600-1200x1600-fe7774bb1563f584b97142f0b202d209.jpg",
-    "anno-1800/seat-of-power"
+    1621657218,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/an18-seatofpower-store-portrait-1200x1600-1200x1600-337890379_1200x1600-d62c2c573357983dac1401f4d61c7f75",
+    ""
   ],
   [
     "af3f5119e4a54b86924495aa16636cda",
@@ -43296,16 +43351,15 @@
   [
     "b2f669700fc44d289aae8220e3e49588",
     "oregano",
-    "Holiday Pack - DLC",
+    "Anno 1800™: Holiday Pack",
     [
       "addons",
-      "games",
       "addons/durable",
       "applications"
     ],
     "Ubisoft Entertainment",
     1575677625,
-    1596844066,
+    1621657218,
     "https://cdn1.epicgames.com/oregano/offer/AN18_UCS15139_Store_Portrait_1200x1600-1200x1600-8c2b93c45c40fafe1c06389406538be9.jpg",
     "anno-1800/holiday-pack"
   ],
@@ -43900,7 +43954,7 @@
     ],
     "Ubisoft Entertainment",
     1583553184,
-    1596844066,
+    1621657557,
     "https://cdn1.epicgames.com/oregano/offer/AN18_Store_Portrait_1200x1600-1200x1600-fe7774bb1563f584b97142f0b202d209.jpg",
     "anno-1800/season-pass-2"
   ],
@@ -47328,8 +47382,8 @@
     ],
     "Maze Theory Limited",
     1618040390,
-    1621608297,
-    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DoctorWhoTheLonelyAssassins_KaiganGames_S2_1200x1600-bc42c8dbc516867cba7fa821a604cbd3",
+    1621616242,
+    "https://cdn1.epicgames.com/undefined",
     "doctor-who-the-lonely-assassins"
   ],
   [
@@ -47772,6 +47826,21 @@
     1605114237,
     1605116427,
     "",
+    ""
+  ],
+  [
+    "c67e359b7a16491f88660a297e20f3ca",
+    "37ed871e17ab4466b4d5da28e9576ea6",
+    "R-Type Final 2 - Stage Pass",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "NIS America, Inc.",
+    1616722348,
+    1621633816,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RTypeFinal2StagePass_GranzellaInc_Editions_S2_1200x1600-308a143a2b45616be7470123ee551154",
     ""
   ],
   [
@@ -49437,15 +49506,14 @@
     "Anno 1800 Deluxe Pack",
     [
       "addons",
-      "games",
       "addons/durable",
       "applications"
     ],
     "Ubisoft Entertainment",
     1556040000,
-    1596844066,
+    1621657218,
     "https://cdn1.epicgames.com/oregano/offer/AN18_DLX_Store_Portrait_1200x1600-1200x1600-12ec93d23a829d1cd0a3dd8538d720c5.jpg",
-    "anno-1800/deluxe-pack"
+    ""
   ],
   [
     "ce344d20fe02413b846ef71200e6b768",
@@ -54174,7 +54242,7 @@
   [
     "e2672aab6af4466083e98afcfba9138b",
     "2744acda6a2e493e9894b389b6564df7",
-    "Anniversary DLC",
+    "Snowrunner - Anniversary DLC",
     [
       "addons",
       "addons/durable",
@@ -54182,7 +54250,7 @@
     ],
     "Focus Home",
     1617226859,
-    1621296868,
+    1621629481,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AnniversaryDLC_SaberInteractive_DLC_S2_1200x1600-900cd32ed47f4d71e094f06277b09822",
     ""
   ],
@@ -54772,6 +54840,21 @@
     1616773783,
     "https://cdn1.epicgames.com/41cd36dc3662428193f02f0f947bbe5e/offer/EGS_YesYourGrace_BraveAtNight_S2-1200x1600-7ca9c8e0ca57bfdb55fd17bb4daca005.jpg",
     "yes-your-grace"
+  ],
+  [
+    "e44f7fbe6e034a0bb52545952c35b891",
+    "6009be9994c2409099588cde6f3a5ed0",
+    "Cities: Skylines - Content Creator Pack: Train Stations",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Paradox Interactive",
+    1620064788,
+    1621620329,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CitiesSkylinesCCPTrainStations_ColossalOrder_DLC_S2_1200x1600-b7dde4cd7019c49144e7eb38f6dafb63",
+    ""
   ],
   [
     "e46b438a77ba4bbdb9cae2976981f3f2",
@@ -58541,7 +58624,7 @@
   [
     "f35be78031c64b3eb3d561e7f0a32028",
     "2744acda6a2e493e9894b389b6564df7",
-    "Year 2 Pass",
+    "Snowrunner - Year 2 Pass",
     [
       "addons",
       "addons/durable",
@@ -58549,7 +58632,7 @@
     ],
     "Focus Home",
     1617226786,
-    1621296857,
+    1621629496,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Year2Pass_SaberInteractive_SeasonPass_S2_1200x1600-b40bfd44e7de257a8b447cb507406516",
     ""
   ],

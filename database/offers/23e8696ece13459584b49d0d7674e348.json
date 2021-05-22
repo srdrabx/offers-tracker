@@ -8,7 +8,7 @@
   "productSlug": "anno-1800/the-passage",
   "urlSlug": "anno-1800--the-passage",
   "creationDate": "2019-09-04T16:29:54.334Z",
-  "lastModifiedDate": "2020-08-07T23:47:46.592Z",
+  "lastModifiedDate": "2021-05-22T04:20:18.270Z",
   "effectiveDate": "2019-12-10T17:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -28,9 +28,6 @@
       "path": "addons"
     },
     {
-      "path": "games"
-    },
-    {
       "path": "addons/durable"
     },
     {
@@ -38,18 +35,6 @@
     }
   ],
   "tags": [
-    {
-      "id": "14346",
-      "name": "Holiday Sale 2020",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2020-10-21T21:58:03.125Z",
-      "updated": "2021-01-07T16:00:15.373Z",
-      "status": "ACTIVE",
-      "referenceCount": 584,
-      "comment": ""
-    },
     {
       "id": "16011",
       "name": "Epic MEGA Sale",
@@ -60,18 +45,6 @@
       "updated": "2021-05-21T16:48:09.857Z",
       "status": "ACTIVE",
       "referenceCount": 733,
-      "comment": ""
-    },
-    {
-      "id": "15375",
-      "name": "Spring Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-03-10T09:37:21.403Z",
-      "updated": "2021-04-08T14:59:39.138Z",
-      "status": "ACTIVE",
-      "referenceCount": 618,
       "comment": ""
     }
   ],
@@ -121,6 +94,15 @@
       "uploadedDate": "2020-08-05T16:38:08.876Z",
       "width": 2560,
       "height": 1440
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/game-logo-color-400x150-400x150-665068840_400x150-79312e742ceb198c6e92f243f216362e",
+      "md5": "79312e742ceb198c6e92f243f216362e",
+      "size": 5962,
+      "uploadedDate": "2021-04-19T23:24:59.957Z",
+      "width": 400,
+      "height": 150
     }
   ],
   "items": [

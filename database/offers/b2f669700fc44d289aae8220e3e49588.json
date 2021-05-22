@@ -1,14 +1,14 @@
 {
   "id": "b2f669700fc44d289aae8220e3e49588",
   "namespace": "oregano",
-  "title": "Holiday Pack - DLC",
+  "title": "Anno 1800™: Holiday Pack",
   "description": "Bring the spirit of the holidays to Anno™ 1800 with this new cosmetic DLC pack, which includes 23 new ornaments that allow you to decorate your cities in festive style.",
   "longDescription": "The Anno 1800™: Holiday Ornament Pack gives players a range of cosmetic ornaments to turn their industrial cities into a holiday wonderland:\n\nA festive carousel, including fan favorite vehicles from the game.\n\nTwo Christmas trees, to fit the occasion.\n\nSanta’s Grotto, giving your citizens a chance to share their wish lists.\n\nThree different markets stalls for your very own Christmas market.\n\nA jolly hoard of Christmas presents.\n\nTwo festively ornamented street lanterns.\n\nAn appropriately wintery snowman ornament.\n\nA decorated hedge system with six tiles.\n\nA decorated fence system with six tiles.",
   "status": "ACTIVE",
   "productSlug": "anno-1800/holiday-pack",
   "urlSlug": "anno-1800--holiday-pack",
   "creationDate": "2019-12-07T00:13:45.572Z",
-  "lastModifiedDate": "2020-08-07T23:47:46.670Z",
+  "lastModifiedDate": "2021-05-22T04:20:18.574Z",
   "effectiveDate": "2019-12-10T17:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -28,9 +28,6 @@
       "path": "addons"
     },
     {
-      "path": "games"
-    },
-    {
       "path": "addons/durable"
     },
     {
@@ -48,18 +45,6 @@
       "updated": "2021-05-21T16:48:09.857Z",
       "status": "ACTIVE",
       "referenceCount": 733,
-      "comment": ""
-    },
-    {
-      "id": "15375",
-      "name": "Spring Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-03-10T09:37:21.403Z",
-      "updated": "2021-04-08T14:59:39.138Z",
-      "status": "ACTIVE",
-      "referenceCount": 618,
       "comment": ""
     }
   ],
@@ -109,6 +94,69 @@
       "uploadedDate": "2020-08-05T16:32:01.051Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Diesel_productv2_anno-1800_holiday-pack_AN18_UCS15420_HolidayPk_Screenshots_06-1920x1080-84bd8c3a09f731aaee0ca58b459bbd1dc6579915_1920x1080-7d40918124bd9a7d3642e44420fb9dbe",
+      "md5": "7d40918124bd9a7d3642e44420fb9dbe",
+      "size": 373312,
+      "uploadedDate": "2021-04-19T21:51:16.577Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Diesel_productv2_anno-1800_holiday-pack_AN18_UCS15420_HolidayPk_Screenshots_05-1920x1080-a2ba8489299dd33121e33a9eec6b904b5be7db2d_1920x1080-c14a1d1c7718a44b7fcd17e03af79614",
+      "md5": "c14a1d1c7718a44b7fcd17e03af79614",
+      "size": 524698,
+      "uploadedDate": "2021-04-19T21:51:29.616Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Diesel_productv2_anno-1800_holiday-pack_AN18_UCS15420_HolidayPk_Screenshots_04-1920x1080-ffe5762a1f631e85621ec401aaae2af461dd7dc9_1920x1080-7551c1c123878ec7a5966615ecdb6635",
+      "md5": "7551c1c123878ec7a5966615ecdb6635",
+      "size": 470711,
+      "uploadedDate": "2021-04-19T21:51:38.514Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Diesel_productv2_anno-1800_holiday-pack_AN18_UCS15420_HolidayPk_Screenshots_03-1920x1080-adbb2ba6e3465520f2f262320a625dabaf68acd1_1920x1080-4cf63d788747514b01c4aa0701376db1",
+      "md5": "4cf63d788747514b01c4aa0701376db1",
+      "size": 324300,
+      "uploadedDate": "2021-04-19T21:51:46.424Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Diesel_productv2_anno-1800_holiday-pack_AN18_UCS15420_HolidayPk_Screenshots_02-1920x1080-83d653b688a36f456bf2f5b00bed710a101fa09a_1920x1080-86e56651c5d42698b9ec4e319c76dd45",
+      "md5": "86e56651c5d42698b9ec4e319c76dd45",
+      "size": 298022,
+      "uploadedDate": "2021-04-19T21:51:55.443Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Diesel_productv2_anno-1800_holiday-pack_AN18_UCS15420_HolidayPk_Screenshots_01-1920x1080-051b3abf73668c42b1d280a6ca3c2eaec493c741_1920x1080-693d47160f30761ae5926ed4f7f45e0a",
+      "md5": "693d47160f30761ae5926ed4f7f45e0a",
+      "size": 501724,
+      "uploadedDate": "2021-04-19T21:52:03.634Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/an18-ucs15139-logo-color-400x150-400x150-665028386_400x150-b200c949af220e2d74534d5b7ec119a0",
+      "md5": "b200c949af220e2d74534d5b7ec119a0",
+      "size": 5879,
+      "uploadedDate": "2021-04-19T21:52:13.350Z",
+      "width": 400,
+      "height": 150
     }
   ],
   "items": [

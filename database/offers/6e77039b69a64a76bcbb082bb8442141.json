@@ -1,14 +1,14 @@
 {
   "id": "6e77039b69a64a76bcbb082bb8442141",
   "namespace": "oregano",
-  "title": "Land of Lions - DLC",
-  "description": "Land of Lions - DLC",
-  "longDescription": null,
+  "title": "Anno 1800™: Land of Lions",
+  "description": "Work with Emperor Ketema to turn his land green, discover three residential tiers, and master the new research feature.",
+  "longDescription": "Produce new trade goods to satisfy the needs of your two local residential tiers: The selfless Shepherds and traditionalist Elders. \n\nTurn the Land of Lions green with the new irrigation system and construct watering canals to transform the drylands into a lively oasis for the people. Use the new Enbesan Scholar residents in the Old World and learn how to create all items at your demand in their monumental Research Institute. New Major Discoveries give you powerful abilities, like changing island fertilities.\n\nExperience a rich story, in which Emperor Ketema fights to keep his land free of foreign influence. Discover an ancient monastery, a downtrodden oasis, and a fiercely independent island fortress and solve their quests to unite Enbesa.",
   "status": "ACTIVE",
-  "productSlug": "anno-1800/land-of-lions",
-  "urlSlug": "landoflionsdlc",
+  "productSlug": null,
+  "urlSlug": "anno-1800--land-of-lions",
   "creationDate": "2020-10-12T15:41:40.141Z",
-  "lastModifiedDate": "2020-11-12T15:41:00.362Z",
+  "lastModifiedDate": "2021-05-22T04:30:17.799Z",
   "effectiveDate": "2020-10-22T15:00:00.000Z",
   "viewableDate": "2020-10-22T15:00:00.000Z",
   "developer": null,
@@ -69,8 +69,12 @@
       "value": "CN"
     },
     {
-      "key": "com.epicgames.app.productSlug",
-      "value": "anno-1800/land-of-lions"
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft Mainz"
     }
   ],
   "keyImages": [
@@ -127,6 +131,60 @@
       "uploadedDate": "2020-10-20T23:17:41.541Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/anno-land-of-lions-dlc-epic-dlc-capsule-1920x1080-1920x1080-251552985_1920x1080-9e191baddfd340c1fb983bb31d7339ce",
+      "md5": "9e191baddfd340c1fb983bb31d7339ce",
+      "size": 259222,
+      "uploadedDate": "2021-05-22T03:48:08.533Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/anno1800-dlc6-landoflions-screenshot-1-1920x1080-251551383_1920x1080-8aa37950c0b45650fa1f552446f13081",
+      "md5": "8aa37950c0b45650fa1f552446f13081",
+      "size": 827637,
+      "uploadedDate": "2021-05-22T03:48:25.973Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/anno1800-dlc6-landoflions-screenshot-2-1920x1080-251551314_1920x1080-56e2dba2153e3c347585934a66addfff",
+      "md5": "56e2dba2153e3c347585934a66addfff",
+      "size": 1327825,
+      "uploadedDate": "2021-05-22T03:48:34.473Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/anno1800-dlc6-landoflions-screenshot-4-1920x1080-251551429_1920x1080-b3023840921e07302ca91210cff0fc7c",
+      "md5": "b3023840921e07302ca91210cff0fc7c",
+      "size": 1007220,
+      "uploadedDate": "2021-05-22T03:48:44.161Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/anno1800-dlc6-landoflions-screenshot-5-1920x1080-251551390_1920x1080-0e624544e4a8e15e09b65ef771cb101c",
+      "md5": "0e624544e4a8e15e09b65ef771cb101c",
+      "size": 1185033,
+      "uploadedDate": "2021-05-22T03:48:53.723Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/anno1800-dlc6-landoflions-screenshot-6-1920x1080-251551354_1920x1080-eba7ee966d0600ed83acd60949a08523",
+      "md5": "eba7ee966d0600ed83acd60949a08523",
+      "size": 1093624,
+      "uploadedDate": "2021-05-22T03:49:03.184Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
