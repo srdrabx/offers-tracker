@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "suzerain--original-soundtrack",
   "creationDate": "2021-05-13T19:09:17.146Z",
-  "lastModifiedDate": "2021-05-20T14:05:39.021Z",
+  "lastModifiedDate": "2021-05-24T14:30:29.721Z",
   "effectiveDate": "2021-05-20T14:00:00.000Z",
   "viewableDate": "2021-05-20T14:00:00.000Z",
   "developer": null,
@@ -51,7 +51,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR"
+      "value": "[]"
     },
     {
       "key": "publisherName",

@@ -8,7 +8,7 @@
   "productSlug": "suzerain/presidential-edition",
   "urlSlug": "prosciuttodeluxeaudience",
   "creationDate": "2021-05-13T19:08:14.997Z",
-  "lastModifiedDate": "2021-05-20T14:05:54.932Z",
+  "lastModifiedDate": "2021-05-24T14:30:45.732Z",
   "effectiveDate": "2021-05-20T14:00:00.000Z",
   "viewableDate": "2021-05-20T14:00:00.000Z",
   "developer": null,
@@ -51,7 +51,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR"
+      "value": "[]"
     },
     {
       "key": "publisherName",
