@@ -1602,7 +1602,7 @@
     ],
     "Plug In Digital SAS",
     1619051234,
-    1619566061,
+    1621947887,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheDungeonOfNaheulbeukRuinsOfLimis_ArtefactsStudio_DLC_S2_1200x1600-208a84371cb92cc0be8c9caaa475e881",
     ""
   ],
@@ -27277,6 +27277,22 @@
     "cardpocalypse/home"
   ],
   [
+    "725a964fc095473899047ce86e8c0276",
+    "295e40dbaf864be3b415cb8aa3980347",
+    "Tennis Manager 2021",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Rebound Capital Games",
+    1619170782,
+    1621947537,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TennisManager2021_ReboundCG_S4_1200x1600-28b043727bc4e59d9e3a277c4d942801",
+    "tennis-manager-2021"
+  ],
+  [
     "7269dde74c30454f9e92d5e92ef112f4",
     "catnip",
     "Catnip External DLC2 Audience",
@@ -51850,6 +51866,21 @@
     "rune-2/home"
   ],
   [
+    "d924e34416a748ed9ab9fefe8575e308",
+    "456d95ca54814c8d98db2f52346ff5de",
+    "The Dungeon of Naheulbeuk Ultimate Edition",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Plug In Digital SAS",
+    1621626162,
+    1621948319,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheDungeonOfNaheulbeukUltimateEdition_ArtefactsStudio_Packs_S2_1200x1600-59530915f932600e1889181a930313d7",
+    "the-dungeon-of-naheulbeuk/ultimate-edition"
+  ],
+  [
     "d93a5c8e6ae9421da81f7b0162361b83",
     "plumeria",
     "Shakedown Hawaii",
@@ -55927,6 +55958,21 @@
     1586972929,
     1594306676,
     "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
+    ""
+  ],
+  [
+    "e939dc8f681f4ce4b9a70d113cdedafc",
+    "456d95ca54814c8d98db2f52346ff5de",
+    "The Dungeon Of Naheulbeuk - Season Pass",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Plug In Digital SAS",
+    1621626341,
+    1621947887,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheDungeonOfNaheulbeukSeasonPass_ArtefactsStudio_SeasonPass_S2_1200x1600-e2434305fab06f41feaa0a9483d8ad4a",
     ""
   ],
   [

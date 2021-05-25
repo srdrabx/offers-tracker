@@ -1,0 +1,181 @@
+{
+  "id": "d924e34416a748ed9ab9fefe8575e308",
+  "namespace": "456d95ca54814c8d98db2f52346ff5de",
+  "title": "The Dungeon of Naheulbeuk Ultimate Edition",
+  "description": "The Dungeon of Naheulbeuk Ultimate Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "the-dungeon-of-naheulbeuk/ultimate-edition",
+  "urlSlug": "sarajevoultimateedition",
+  "creationDate": "2021-05-21T19:42:42.543Z",
+  "lastModifiedDate": "2021-05-25T13:11:59.938Z",
+  "effectiveDate": "2021-05-25T13:00:00.000Z",
+  "viewableDate": "2021-05-25T13:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+    "name": "Plug In Digital SAS"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-12-15T01:46:33.012Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2021-02-10T17:35:47.790Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2021-02-10T17:36:06.452Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Dear Villagers"
+    },
+    {
+      "key": "developerName",
+      "value": "Artefacts Studio"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-dungeon-of-naheulbeuk/ultimate-edition"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheDungeonOfNaheulbeukUltimateEdition_ArtefactsStudio_Packs_S1_2560x1440-3519377ca7e3cfc14f5205fc53c11a44",
+      "md5": "3519377ca7e3cfc14f5205fc53c11a44",
+      "size": 998936,
+      "uploadedDate": "2021-05-21T20:04:03.292Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheDungeonOfNaheulbeukUltimateEdition_ArtefactsStudio_Packs_S2_1200x1600-59530915f932600e1889181a930313d7",
+      "md5": "59530915f932600e1889181a930313d7",
+      "size": 933970,
+      "uploadedDate": "2021-05-21T20:04:07.499Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheDungeonOfNaheulbeukUltimateEdition_ArtefactsStudio_Packs_S2_1200x1600-59530915f932600e1889181a930313d7",
+      "md5": "59530915f932600e1889181a930313d7",
+      "size": 933970,
+      "uploadedDate": "2021-05-21T20:04:11.554Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheDungeonOfNaheulbeukUltimateEdition_ArtefactsStudio_Packs_S2_1200x1600-59530915f932600e1889181a930313d7",
+      "md5": "59530915f932600e1889181a930313d7",
+      "size": 933970,
+      "uploadedDate": "2021-05-21T20:04:17.912Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheDungeonOfNaheulbeukUltimateEdition_ArtefactsStudio_Packs_S1_2560x1440-3519377ca7e3cfc14f5205fc53c11a44",
+      "md5": "3519377ca7e3cfc14f5205fc53c11a44",
+      "size": 998936,
+      "uploadedDate": "2021-05-21T20:04:22.210Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheDungeonOfNaheulbeukUltimateEdition_ArtefactsStudio_Packs_S2_1200x1600-59530915f932600e1889181a930313d7",
+      "md5": "59530915f932600e1889181a930313d7",
+      "size": 933970,
+      "uploadedDate": "2021-05-21T20:04:26.965Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "cb7abeddf6394145a020550157fba4d1"
+    }
+  ],
+  "catalogNs": {
+    "name": "456d95ca54814c8d98db2f52346ff5de"
+  }
+}
