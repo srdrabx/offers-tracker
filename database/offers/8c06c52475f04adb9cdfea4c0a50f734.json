@@ -1,0 +1,196 @@
+{
+  "id": "8c06c52475f04adb9cdfea4c0a50f734",
+  "namespace": "c4c7d3cd0a2f4ea2bf7d4a57e46e8d68",
+  "title": "Neko Ghost, Jump!",
+  "description": "Neko Ghost, Jump!",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "neko-ghost-jump",
+  "urlSlug": "brilliantrosegeneralaudience",
+  "creationDate": "2021-05-04T16:45:13.979Z",
+  "lastModifiedDate": "2021-05-25T22:22:48.302Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-94sy2ptcstesqlae8luap66hgs8dbb",
+    "name": "Burgos Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1298",
+      "name": "Puzzle",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2021-02-10T17:34:06.225Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2021-02-10T17:36:06.452Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1151",
+      "name": "Platformer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:33.743Z",
+      "updated": "2021-02-10T17:14:16.761Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2021-02-10T17:35:19.827Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Burgos Games"
+    },
+    {
+      "key": "developerName",
+      "value": "Burgos Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "neko-ghost-jump"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_NekoGhostJump_BurgosGames_S5_1920x1080-080076d1dca3aa76305ccf5b2969b56e",
+      "md5": "080076d1dca3aa76305ccf5b2969b56e",
+      "size": 149520,
+      "uploadedDate": "2021-05-25T22:15:48.089Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_NekoGhostJump_BurgosGames_S6_1200x1600-e9703919f351e308c9dfc7c1a698a086",
+      "md5": "e9703919f351e308c9dfc7c1a698a086",
+      "size": 759771,
+      "uploadedDate": "2021-05-25T22:15:52.270Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_NekoGhostJump_BurgosGames_S6_1200x1600-e9703919f351e308c9dfc7c1a698a086",
+      "md5": "e9703919f351e308c9dfc7c1a698a086",
+      "size": 759771,
+      "uploadedDate": "2021-05-25T22:15:57.433Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_NekoGhostJump_BurgosGames_S6_1200x1600-e9703919f351e308c9dfc7c1a698a086",
+      "md5": "e9703919f351e308c9dfc7c1a698a086",
+      "size": 759771,
+      "uploadedDate": "2021-05-25T22:16:04.327Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_NekoGhostJump_BurgosGames_S5_1920x1080-080076d1dca3aa76305ccf5b2969b56e",
+      "md5": "080076d1dca3aa76305ccf5b2969b56e",
+      "size": 149520,
+      "uploadedDate": "2021-05-25T22:16:10.941Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_NekoGhostJump_BurgosGames_S6_1200x1600-e9703919f351e308c9dfc7c1a698a086",
+      "md5": "e9703919f351e308c9dfc7c1a698a086",
+      "size": 759771,
+      "uploadedDate": "2021-05-25T22:16:17.780Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "d3f5b8646bff45db8b24d0ef47179065"
+    }
+  ],
+  "catalogNs": {
+    "name": "c4c7d3cd0a2f4ea2bf7d4a57e46e8d68"
+  }
+}
