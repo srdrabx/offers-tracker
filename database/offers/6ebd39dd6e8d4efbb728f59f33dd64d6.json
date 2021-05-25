@@ -1,16 +1,16 @@
 {
   "id": "6ebd39dd6e8d4efbb728f59f33dd64d6",
   "namespace": "iris",
-  "title": "DLC 3 - Festering Skies",
-  "description": "The skies darken with alien vessels, and Phoenix Point must rise to the challenge. An all-new interception mode, inspired by the original X-COM, lets players build and upgrade their own aircraft, fight aliens in the skies, and harvest tech from downed alien vessels. Festering...",
-  "longDescription": "The skies darken with alien vessels, and Phoenix Point must rise to the challenge. An all-new interception mode, inspired by the original X-COM, lets players build and upgrade their own aircraft, fight aliens in the skies, and harvest tech from downed alien vessels. Festering Skies boasts an entirely new play style, new mission types, new vehicles, and much more.",
+  "title": "Festering Skies",
+  "description": "Take the fight to the air with Festering Skies, the latest DLC for Phoenix Point: Year One Edition! Festering Skies features a new interception mode, new missions, a new mission type, an original campaign story, and much more.",
+  "longDescription": "![Image 1](https://cdn2.unrealengine.com/egs-festeringskies-snapshotgames-dlc-g2-00-1920x1080-ca159241181f.jpg)\n\n# Phoenix Point: Year One Edition | DLC 3 - Festering Skies\n\nTake the fight to the air with Festering Skies, the latest DLC for Phoenix Point: Year One Edition! Festering Skies features a new interception mode, new missions, a new mission type, an original campaign story, and much more.",
   "status": "ACTIVE",
-  "productSlug": "phoenix-point/festering-skies",
+  "productSlug": null,
   "urlSlug": "phoenix-point--festering-skies",
   "creationDate": "2019-11-04T18:53:39.274Z",
-  "lastModifiedDate": "2020-12-11T01:08:50.666Z",
-  "effectiveDate": "2050-01-01T10:00:00.000Z",
-  "viewableDate": "2050-01-01T10:00:00.000Z",
+  "lastModifiedDate": "2021-05-25T16:48:33.314Z",
+  "effectiveDate": "2021-05-25T17:00:00.000Z",
+  "viewableDate": "2021-05-25T17:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
@@ -28,13 +28,7 @@
       "path": "addons"
     },
     {
-      "path": "games"
-    },
-    {
       "path": "addons/durable"
-    },
-    {
-      "path": "applications"
     }
   ],
   "tags": [
@@ -48,18 +42,6 @@
       "updated": "2020-12-15T01:46:33.012Z",
       "status": "ACTIVE",
       "referenceCount": 43,
-      "comment": null
-    },
-    {
-      "id": "1386",
-      "name": "Turn-Based",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:30.372Z",
-      "updated": "2021-02-05T16:19:58.338Z",
-      "status": "ACTIVE",
-      "referenceCount": 14,
       "comment": null
     },
     {
@@ -89,54 +71,126 @@
   ],
   "customAttributes": [
     {
+      "key": "publisherName",
+      "value": "Snapshot Games"
+    },
+    {
       "key": "isPrepurchase",
       "value": "true"
     },
     {
       "key": "developerName",
       "value": "Snapshot Games"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "phoenix-point/festering-skies"
     }
   ],
   "keyImages": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/undefined/offer/PhoenixPoint_CodeRedemption-340x440-8ddd13489c7216a86f4cfa9e96452981.jpg",
-      "md5": "8ddd13489c7216a86f4cfa9e96452981",
-      "size": 92735,
-      "uploadedDate": "2019-11-04T18:52:45.460Z",
-      "width": 340,
-      "height": 440
-    },
-    {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/iris/offer/Festering-skies-16.9-no-date-2560x1440-db5aa6c1466fba3143e7db4dd650dc4721074282.png",
-      "md5": "19375a710dda85676eadb4e9b226f9e7",
-      "size": 1053408,
-      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FesteringSkies_SnapshotGames_DLC_S1_2560x1440-8f0aa62f9bca176436a42f72556005c7",
+      "md5": "8f0aa62f9bca176436a42f72556005c7",
+      "size": 516947,
+      "uploadedDate": "2021-05-14T16:42:13.663Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/iris/offer/PhoenixPoint_CodeRedemption-340x440-8ddd13489c7216a86f4cfa9e96452981-340x440-8ddd13489c7216a86f4cfa9e96452981.jpg",
-      "md5": "8ddd13489c7216a86f4cfa9e96452981",
-      "size": 92735,
-      "uploadedDate": "2020-04-21T17:57:09.337Z",
-      "width": 340,
-      "height": 440
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FesteringSkies_SnapshotGames_DLC_S2_1200x1600-b81d03d5fa7d42baeac171c726c4ed72",
+      "md5": "b81d03d5fa7d42baeac171c726c4ed72",
+      "size": 313516,
+      "uploadedDate": "2021-05-14T16:42:19.415Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/iris/offer/PhoenixPoint_CodeRedemption-340x440-8ddd13489c7216a86f4cfa9e96452981-340x440-8ddd13489c7216a86f4cfa9e96452981.jpg",
-      "md5": "8ddd13489c7216a86f4cfa9e96452981",
-      "size": 92735,
-      "uploadedDate": "2020-04-21T17:57:18.946Z",
-      "width": 340,
-      "height": 440
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FesteringSkies_SnapshotGames_DLC_S2_1200x1600-b81d03d5fa7d42baeac171c726c4ed72",
+      "md5": "b81d03d5fa7d42baeac171c726c4ed72",
+      "size": 313516,
+      "uploadedDate": "2021-05-14T16:42:26.440Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FesteringSkies_SnapshotGames_DLC_S2_1200x1600-b81d03d5fa7d42baeac171c726c4ed72",
+      "md5": "b81d03d5fa7d42baeac171c726c4ed72",
+      "size": 313516,
+      "uploadedDate": "2021-05-14T16:42:33.833Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FesteringSkies_SnapshotGames_DLC_IC1_200x200-d3ab5009eead04aecc34a9ce96daa99f",
+      "md5": "d3ab5009eead04aecc34a9ce96daa99f",
+      "size": 27934,
+      "uploadedDate": "2021-05-14T16:42:49.282Z",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FesteringSkies_SnapshotGames_DLC_G1A_00_1920x1080-b8c8876037a3e9e011601219475a15a0",
+      "md5": "b8c8876037a3e9e011601219475a15a0",
+      "size": 382944,
+      "uploadedDate": "2021-05-14T16:43:00.263Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FesteringSkies_SnapshotGames_DLC_G1A_01_1920x1080-f30b8781497ce99a3225df5eb459f7bd",
+      "md5": "f30b8781497ce99a3225df5eb459f7bd",
+      "size": 721757,
+      "uploadedDate": "2021-05-14T16:43:08.818Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FesteringSkies_SnapshotGames_DLC_G1A_02_1920x1080-ec9c0a8af69dd543a43dde9c64bf7e6c",
+      "md5": "ec9c0a8af69dd543a43dde9c64bf7e6c",
+      "size": 396214,
+      "uploadedDate": "2021-05-14T16:43:17.402Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FesteringSkies_SnapshotGames_DLC_G1A_03_1920x1080-df499f55c20054b66429e8125e6ee77b",
+      "md5": "df499f55c20054b66429e8125e6ee77b",
+      "size": 964432,
+      "uploadedDate": "2021-05-14T16:43:26.276Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FesteringSkies_SnapshotGames_DLC_G1A_04_1920x1080-4282e32cca5e4961aff21141b6198c5d",
+      "md5": "4282e32cca5e4961aff21141b6198c5d",
+      "size": 656898,
+      "uploadedDate": "2021-05-14T16:43:43.996Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FesteringSkies_SnapshotGames_DLC_G1A_05_1920x1080-18d8e7540d768f75142c9b425590c26b",
+      "md5": "18d8e7540d768f75142c9b425590c26b",
+      "size": 442166,
+      "uploadedDate": "2021-05-14T16:44:15.534Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FesteringSkies_SnapshotGames_DLC_G1A_06_1920x1080-bec7c541a16808d29c1902d7523ae55f",
+      "md5": "bec7c541a16808d29c1902d7523ae55f",
+      "size": 779589,
+      "uploadedDate": "2021-05-14T16:44:23.870Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
@@ -144,5 +198,7 @@
       "id": "9b0f472f3428490392e682712c2a8add"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "iris"
+  }
 }

@@ -1,0 +1,55 @@
+{
+  "id": "94def1883f5149e5be8660ceae43ecab",
+  "namespace": "0ffb7cf5cff64cd0a621222a8e969c28",
+  "title": "JackfruitDLC04",
+  "description": "JackfruitDLC04",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "jackfruittestdlcaudience-04",
+  "creationDate": "2021-05-25T16:33:27.110Z",
+  "lastModifiedDate": "2021-05-25T16:46:14.588Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-rvmaypy9jeuja8bknjqftauuas6bph",
+    "name": "Improbable Worlds Limited"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "948713a107364bc5b92d5d3e03c68068"
+    }
+  ],
+  "catalogNs": {
+    "name": "0ffb7cf5cff64cd0a621222a8e969c28"
+  }
+}

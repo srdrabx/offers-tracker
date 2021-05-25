@@ -2551,6 +2551,19 @@
     "godfall/deluxe-edition"
   ],
   [
+    "0afd14d651074d81a2ce1b54637d77d0",
+    "0ffb7cf5cff64cd0a621222a8e969c28",
+    "Jackfruit DLC02",
+    [
+      "applications"
+    ],
+    "Improbable Worlds Limited",
+    1621960328,
+    1621961167,
+    "",
+    ""
+  ],
+  [
     "0b0982dfc17348ed8a32eb47e59e9f87",
     "bloodroot",
     "BloodrootDevAudience",
@@ -7829,6 +7842,19 @@
     ""
   ],
   [
+    "20645784a4bc437fbabb466e01581691",
+    "0ffb7cf5cff64cd0a621222a8e969c28",
+    "JackfruitDLC03",
+    [
+      "applications"
+    ],
+    "Improbable Worlds Limited",
+    1621960361,
+    1621961171,
+    "",
+    ""
+  ],
+  [
     "206cbd3720c8414c84302ba575ecf28a",
     "0712176b5e3e49bfa8866c0ee1359f2d",
     "KINGDOM HEARTS III + Re Mind",
@@ -7917,6 +7943,22 @@
     1605879525,
     "",
     ""
+  ],
+  [
+    "2126c0293dba49dba55a309a8edb6560",
+    "f7dc2f3c915444f1a6ba4105bc00d592",
+    "BIOMUTANT",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "THQ Nordic GmbH",
+    1613672853,
+    1621961437,
+    "https://cdn1.epicgames.com/f7dc2f3c915444f1a6ba4105bc00d592/offer/EGS_BIOMUTANT_Experiment101_S2-1200x1600-7f18bf0433d6631ea0383abb74e6392a.jpg",
+    "biomutant"
   ],
   [
     "2127e88c707a4fcda0843eca05693708",
@@ -14201,6 +14243,19 @@
     1605897089,
     1620056434,
     "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeaguexMonstercatVol6_PsyonixLLC_DigitalExtras_S2-1200x1600-fc16a1411e52b1d05551198d38b045e0.jpg",
+    ""
+  ],
+  [
+    "3b3f7e7f6f964f23bf16a5b230947a92",
+    "0ffb7cf5cff64cd0a621222a8e969c28",
+    "Jackfruit DLC01 ",
+    [
+      "applications"
+    ],
+    "Improbable Worlds Limited",
+    1621960176,
+    1621961163,
+    "",
     ""
   ],
   [
@@ -26461,18 +26516,16 @@
   [
     "6ebd39dd6e8d4efbb728f59f33dd64d6",
     "iris",
-    "DLC 3 - Festering Skies",
+    "Festering Skies",
     [
       "addons",
-      "games",
-      "addons/durable",
-      "applications"
+      "addons/durable"
     ],
     "Snapshot Games",
     1572893619,
-    1607648930,
-    "https://cdn1.epicgames.com/iris/offer/PhoenixPoint_CodeRedemption-340x440-8ddd13489c7216a86f4cfa9e96452981-340x440-8ddd13489c7216a86f4cfa9e96452981.jpg",
-    "phoenix-point/festering-skies"
+    1621961313,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FesteringSkies_SnapshotGames_DLC_S2_1200x1600-b81d03d5fa7d42baeac171c726c4ed72",
+    ""
   ],
   [
     "6ec68823439f40c5b2c3cd42c1c1034f",
@@ -32909,6 +32962,19 @@
     "merchant-of-the-skies"
   ],
   [
+    "8ad5202cf29b43879e1b162e8762894c",
+    "0ffb7cf5cff64cd0a621222a8e969c28",
+    "JackfruitDLC05",
+    [
+      "applications"
+    ],
+    "Improbable Worlds Limited",
+    1621960427,
+    1621961180,
+    "",
+    ""
+  ],
+  [
     "8ad8d623e6df40c3b542d099b3fb9d09",
     "snapdragon",
     "Metro Exodus DLC 1 Dev",
@@ -35390,6 +35456,19 @@
     1573828507,
     1588857020,
     "https://cdn1.epicgames.com/undefined/offer/STA_Thum-340x440-7c4b1418ae78e990b36550f0a6a8403f (1)-340x440-7c4b1418ae78e990b36550f0a6a8403f.jpg",
+    ""
+  ],
+  [
+    "94def1883f5149e5be8660ceae43ecab",
+    "0ffb7cf5cff64cd0a621222a8e969c28",
+    "JackfruitDLC04",
+    [
+      "applications"
+    ],
+    "Improbable Worlds Limited",
+    1621960407,
+    1621961174,
+    "",
     ""
   ],
   [
@@ -47024,6 +47103,21 @@
     "jackbox-party-pack-6/home"
   ],
   [
+    "c2cb8147a22b46978e053d58046c302b",
+    "iris",
+    "Phoenix Point - Expansion Pass",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Snapshot Games",
+    1621447041,
+    1621961313,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PhoenixPointExpansionPass_SnapshotGamesInc_SeasonPass_S2_1200x1600-ed21c4c9173b1977478cd4a5879bdcfc",
+    ""
+  ],
+  [
     "c2efef5a66b54082ba2b9b8cbef6ad99",
     "catnip",
     "Borderlands 3: Multiverse Disciples of the Vault Zane Cosmetic Pack",
@@ -48058,6 +48152,20 @@
     1591635576,
     1591635576,
     "",
+    ""
+  ],
+  [
+    "c73951def0854e0a9ad59b433a07108c",
+    "f7dc2f3c915444f1a6ba4105bc00d592",
+    "BIOMUTANT - Soundtrack",
+    [
+      "digitalextras",
+      "digitalextras/soundtrack"
+    ],
+    "THQ Nordic GmbH",
+    1619737832,
+    1621961437,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BIOMUTANTSoundtrack_Experiment101_DLC_S2_1200x1600-842172935ea11123ff15324f5ac6be5f",
     ""
   ],
   [
@@ -56002,7 +56110,7 @@
     ],
     "Plug In Digital SAS",
     1621626341,
-    1621958463,
+    1621959259,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/c09e02f2-cde5-43d6-bc3f-57ac2072ba9d_1200x1600-b1da6587735c28aee35cfa26bdba9f87",
     ""
   ],
@@ -56503,7 +56611,7 @@
     ],
     "Epic Games",
     1602267702,
-    1620132386,
+    1621963487,
     "https://cdn1.epicgames.com/fn/offer/EN_FN_Store_LastLaugh_512x512-512x512-976067d7867a922711bddc03d0a38b96.jpg",
     "fortnite/the-last-laugh-bundle"
   ],
