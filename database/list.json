@@ -1435,15 +1435,16 @@
   [
     "06b424684db44814865ad59134a6d100",
     "2dbd2f64abdc4bbab077424d5c85e01b",
-    "Ghost Recon Breakpoint - Trial",
+    "Ghost Recon Breakpoint - Trial Weekend",
     [
       "games",
+      "games/demo",
       "applications"
     ],
     "Ubisoft Entertainment",
     1583212457,
-    1611851851,
-    "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/BREAKPOINT_STANDARD_BREAKPOINT STANDARD_EPIC_TRIAL_WE_Portrait_Image_1200x1600-1200x1600-8b620c24084fce7c06f86361ad9e912f.png",
+    1621965092,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/UK_GRB_Epic_FWE_Portrait_1200x1600_1200x1600-e887d1c32a57d093a615af811f829446",
     ""
   ],
   [
@@ -9203,7 +9204,7 @@
     ],
     "Iceberg Interactive",
     1559449242,
-    1585791744,
+    1621964091,
     "https://cdn1.epicgames.com/ada169f07b81464a9fc06a7d6896101d/offer/CodeRedemptionSojourn-340x440-be3d03a2317f69ef303ca04f0e8d5df2.png",
     "the-sojourn/home"
   ],
@@ -10443,13 +10444,13 @@
   [
     "2c0bd2d5453548baaae40ac63062bb62",
     "244aaaa06bfa49d088205b13b9d2d115",
-    "Upgrade DLC 19",
+    "Gara Prime Accessories to Mass Vitrify Pack",
     [
       "applications"
     ],
     "Digital Extremes",
     1621298620,
-    1621462122,
+    1621966960,
     "",
     ""
   ],
@@ -10796,14 +10797,16 @@
   [
     "2d4e411ac1cb45d49fef31216926febb",
     "244aaaa06bfa49d088205b13b9d2d115",
-    "DLC 35",
+    "Warframe: Gara Prime Access - Mass Vitrify Pack",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Digital Extremes",
     1621294819,
-    1621461936,
-    "",
+    1621966941,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WarframeGaraPrimeAccessMassVitrifyPack_DigitalExtremes_AddOn_S2_1200x1600-3a55e50d2991655e074d0d66fe9175fe",
     ""
   ],
   [
@@ -14707,7 +14710,7 @@
     ],
     "Eugen Systems",
     1588277862,
-    1614266382,
+    1621964435,
     "https://cdn1.epicgames.com/d66c34349a054c3ea529726a5687520e/offer/EGS_WargameRedDragon_EugenSystems_S2-1200x1600-7afd0dc5cde72330c4318d84ae9e07c4.jpg",
     "wargame-red-dragon"
   ],
@@ -21479,13 +21482,13 @@
   [
     "59f33fe1f5634848ba850b066504ef67",
     "244aaaa06bfa49d088205b13b9d2d115",
-    "Upgrade DLC 21",
+    "Gara Prime Spectrorage + Accessories to Mass Vitrify",
     [
       "applications"
     ],
     "Digital Extremes",
     1621298683,
-    1621462154,
+    1621966907,
     "",
     ""
   ],
@@ -36460,14 +36463,16 @@
   [
     "984a625e47764af4ad76e5de21bde24d",
     "244aaaa06bfa49d088205b13b9d2d115",
-    "DLC 36",
+    "Warframe: Gara Prime Access - Accessories Pack",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Digital Extremes",
     1621294850,
-    1621461918,
-    "",
+    1621966842,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WarframeGaraPrimeAccessAccessoriesPack_DigitalExtremes_AddOn_S2_1200x1600-4dae03011ac4cbf2eb8e0b632fc36734",
     ""
   ],
   [
@@ -36741,7 +36746,7 @@
     ],
     "Digital Extremes",
     1617826215,
-    1619579898,
+    1621966811,
     "https://cdn1.epicgames.com/244aaaa06bfa49d088205b13b9d2d115/offer/EGS_WarframeTennoCon2021DigitalPack_DigitalExtremes_DLC_S2-1200x1600-988b96bf0026233fb1d96c658310be56.jpg",
     ""
   ],
@@ -38965,13 +38970,13 @@
   [
     "a0870c89d2c542ee8ca5605140b75ab7",
     "244aaaa06bfa49d088205b13b9d2d115",
-    "Upgrade DLC 16",
+    "Gara Prime Splinter Storm to Spectrorage",
     [
       "applications"
     ],
     "Digital Extremes",
     1621298523,
-    1621462050,
+    1621966758,
     "",
     ""
   ],
@@ -41671,13 +41676,13 @@
   [
     "ac1bf57c4a234468899529086af435b5",
     "244aaaa06bfa49d088205b13b9d2d115",
-    "Upgrade DLC 17",
+    "Gara Prime Spectrorage to Mass Virtify Pack",
     [
       "applications"
     ],
     "Digital Extremes",
     1621298555,
-    1621462072,
+    1621966743,
     "",
     ""
   ],
@@ -45468,14 +45473,16 @@
   [
     "bc1913d78a7d419db8a72e2b7c3733f6",
     "244aaaa06bfa49d088205b13b9d2d115",
-    "DLC 33",
+    "Warframe: Gara Prime Access - Splinter Storm Pack",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Digital Extremes",
     1621294690,
-    1621461966,
-    "",
+    1621966725,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WarframeGaraPrimeAccessSplinterStormPack_DigitalExtremes_AddOn_S2_1200x1600-553b300ad6e3fa7270a0a8d9cee0d2ff",
     ""
   ],
   [
@@ -48028,13 +48035,13 @@
   [
     "c69c9ce5926248839abff36c1fee6ee2",
     "244aaaa06bfa49d088205b13b9d2d115",
-    "Upgrade DLC 20",
+    "Gara Prime Splinter Storm + Accessories to Mass Vitrify",
     [
       "applications"
     ],
     "Digital Extremes",
     1621298652,
-    1621462140,
+    1621966680,
     "",
     ""
   ],
@@ -52444,14 +52451,16 @@
   [
     "daefe1487cd34fc683d4ba43a04962e7",
     "244aaaa06bfa49d088205b13b9d2d115",
-    "DLC 34",
+    "Warframe: Gara Prime Access - Spectrorage Pack",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Digital Extremes",
     1621294779,
-    1621461951,
-    "",
+    1621966661,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WarframeGaraPrimeAccessSpectroragePack_DigitalExtremes_AddOn_S2_1200x1600-48f758a07ac25bf2d7eecc99b3397bf0",
     ""
   ],
   [
@@ -56399,13 +56408,13 @@
   [
     "e9b5a2b7d0df475fbc675f8f947150e5",
     "244aaaa06bfa49d088205b13b9d2d115",
-    "Upgrade DLC 18",
+    "Gara Prime Splinter Storm to Mass Vitrify Pack",
     [
       "applications"
     ],
     "Digital Extremes",
     1621298588,
-    1621462095,
+    1621966603,
     "",
     ""
   ],

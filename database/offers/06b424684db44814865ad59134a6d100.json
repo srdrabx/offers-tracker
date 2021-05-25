@@ -1,16 +1,16 @@
 {
   "id": "06b424684db44814865ad59134a6d100",
   "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
-  "title": "Ghost Recon Breakpoint - Trial",
-  "description": "Ghost Recon Breakpoint - Trial",
+  "title": "Ghost Recon Breakpoint - Trial Weekend",
+  "description": "Ghost Recon Breakpoint - Trial Weekend\n",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "saffrontrialaudience",
   "creationDate": "2020-03-03T05:14:17.238Z",
-  "lastModifiedDate": "2021-01-28T16:37:31.244Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2021-05-25T17:51:32.415Z",
+  "effectiveDate": "2021-05-25T16:00:00.000Z",
+  "viewableDate": "2021-05-25T16:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
@@ -26,6 +26,9 @@
   "categories": [
     {
       "path": "games"
+    },
+    {
+      "path": "games/demo"
     },
     {
       "path": "applications"
@@ -44,29 +47,29 @@
   ],
   "keyImages": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/BREAKPOINT_STANDARD_BREAKPOINT STANDARD_EPIC_TRIAL_WE_Portrait_Image_1200x1600-1200x1600-8b620c24084fce7c06f86361ad9e912f.png",
-      "md5": "8b620c24084fce7c06f86361ad9e912f",
-      "size": 3873448,
-      "uploadedDate": "2021-01-19T17:22:47.101Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/breakpoint-standard-breakpoint-standard-epic-key-art-wide-3840x2160-uk-3840x2160-0ca419868f6e-3840x2160-66346bf6887a4a82d4b477e23d625b59.jpg",
-      "md5": "66346bf6887a4a82d4b477e23d625b59",
-      "size": 790349,
-      "uploadedDate": "2021-01-19T17:23:09.820Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/UK_GRB_Epic_FWE_HeroBanner_3840x2160_3840x2160-9558c26f7297b26833529c64836c1a26",
+      "md5": "9558c26f7297b26833529c64836c1a26",
+      "size": 900605,
+      "uploadedDate": "2021-05-24T23:36:12.368Z",
       "width": 3840,
       "height": 2160
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/BREAKPOINT_STANDARD_BREAKPOINT STANDARD_EPIC_TRIAL_WE_Portrait_Image_1200x1600-1200x1600-8b620c24084fce7c06f86361ad9e912f.png",
-      "md5": "8b620c24084fce7c06f86361ad9e912f",
-      "size": 3873448,
-      "uploadedDate": "2021-01-19T17:23:24.114Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/UK_GRB_Epic_FWE_Portrait_1200x1600_1200x1600-e887d1c32a57d093a615af811f829446",
+      "md5": "e887d1c32a57d093a615af811f829446",
+      "size": 773232,
+      "uploadedDate": "2021-05-24T23:36:21.113Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/UK_GRB_Epic_FWE_Portrait_1200x1600_1200x1600-e887d1c32a57d093a615af811f829446",
+      "md5": "e887d1c32a57d093a615af811f829446",
+      "size": 773232,
+      "uploadedDate": "2021-05-24T23:36:24.676Z",
       "width": 1200,
       "height": 1600
     }
