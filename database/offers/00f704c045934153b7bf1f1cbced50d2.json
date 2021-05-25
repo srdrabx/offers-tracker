@@ -1,0 +1,45 @@
+{
+  "id": "00f704c045934153b7bf1f1cbced50d2",
+  "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+  "title": "500 Rogue Bucks",
+  "description": "500 Rogue Bucks",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "peewee500roguebucks",
+  "creationDate": "2021-05-25T02:03:22.155Z",
+  "lastModifiedDate": "2021-05-25T02:03:22.155Z",
+  "effectiveDate": "2099-01-01T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+    "name": "Hi-Rez Studios"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "449d30cd9be54b608016103626952ead"
+    }
+  ],
+  "catalogNs": {
+    "name": "933ada2ec45e4184ae840d64c99e0ba9"
+  }
+}
