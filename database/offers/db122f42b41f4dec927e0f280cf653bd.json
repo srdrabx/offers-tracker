@@ -8,7 +8,7 @@
   "productSlug": "loop-hero",
   "urlSlug": "dysprosiumgeneralaudience",
   "creationDate": "2021-01-27T17:17:11.358Z",
-  "lastModifiedDate": "2021-03-04T17:12:48.072Z",
+  "lastModifiedDate": "2021-05-26T21:12:12.299Z",
   "effectiveDate": "2021-03-04T18:00:00.000Z",
   "viewableDate": "2021-03-04T18:00:00.000Z",
   "developer": null,
@@ -105,7 +105,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR"
+      "value": "[]"
     },
     {
       "key": "publisherName",
