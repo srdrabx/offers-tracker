@@ -5888,6 +5888,19 @@
     ""
   ],
   [
+    "1884245488c94646af9f8c202ccf8b53",
+    "0ded1556336546bf849c9d28878ec86c",
+    "CurrencyPackTest3",
+    [
+      "applications"
+    ],
+    "Jagex",
+    1621563724,
+    1622040595,
+    "",
+    ""
+  ],
+  [
     "18a61bb469a04bf0bceff64e36219e13",
     "epic",
     "Faster Than Light",
@@ -10667,6 +10680,19 @@
     ""
   ],
   [
+    "2cd6265497314145bd6ce9d480c007d4",
+    "0ded1556336546bf849c9d28878ec86c",
+    "Dev Pack 2",
+    [
+      "applications"
+    ],
+    "Jagex",
+    1621563374,
+    1622040672,
+    "",
+    ""
+  ],
+  [
     "2ce02cbe6ec64b0aa42bf28986dbd1e6",
     "SeaQA",
     "WalletCashItemTestin-001",
@@ -13277,6 +13303,19 @@
     "Epic Games",
     1539736070,
     1542071332,
+    "",
+    ""
+  ],
+  [
+    "37c9fcb174954860a4821dd8dca70e36",
+    "0ded1556336546bf849c9d28878ec86c",
+    "CurrencyPackTest2",
+    [
+      "applications"
+    ],
+    "Jagex",
+    1621563687,
+    1622040618,
     "",
     ""
   ],
@@ -16227,6 +16266,19 @@
     "Epic Dev Test Account",
     1568312646,
     1594840736,
+    "",
+    ""
+  ],
+  [
+    "4377c95d4e774c2abab258a728b9eb9a",
+    "0ded1556336546bf849c9d28878ec86c",
+    "Pack 1",
+    [
+      "applications"
+    ],
+    "Jagex",
+    1621563201,
+    1622040683,
     "",
     ""
   ],
@@ -19949,6 +20001,19 @@
     "soma/home"
   ],
   [
+    "52f47423ed1b4126aa35cc10a0dd5d36",
+    "0ded1556336546bf849c9d28878ec86c",
+    "Pack 2",
+    [
+      "applications"
+    ],
+    "Jagex",
+    1621563233,
+    1622040564,
+    "",
+    ""
+  ],
+  [
     "5314b8a11f7c4c94854b2ef7309e9bc1",
     "6009be9994c2409099588cde6f3a5ed0",
     "Cities: Skylines - Green Cities",
@@ -23501,6 +23566,21 @@
     1588120702,
     "",
     "offworld-trading-company/home"
+  ],
+  [
+    "618342a7298f4cc79dc25ab15694578e",
+    "bd46d4ce259349e5bd8b3ded20274737",
+    "Chivalry 2 Beta",
+    [
+      "games",
+      "games/demo",
+      "applications"
+    ],
+    "Tripwire Interactive",
+    1611632490,
+    1622037618,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/OPEN BETA EGS 1200x1600 library_1200x1600-4853367b5761f6fc6c4bdaedb8e2ae43",
+    ""
   ],
   [
     "61901d36491d48608e062514cfa7d7b5",
@@ -53546,6 +53626,19 @@
     "abzu/home"
   ],
   [
+    "defb1522eb7145e181f16bba8d8ffdf1",
+    "0ded1556336546bf849c9d28878ec86c",
+    "Dev Pack 1",
+    [
+      "applications"
+    ],
+    "Jagex",
+    1621563466,
+    1622040660,
+    "",
+    ""
+  ],
+  [
     "df11e0864da3490bb7dac6e108557eed",
     "6af58339c2424644988e0fb83dfd9bd5",
     "Premier Pack 01",
@@ -60373,6 +60466,19 @@
     1609792742,
     1613541605,
     "https://cdn1.epicgames.com/bf333e6236914222a95a536389c05813/offer/f132de24-5a61-40f7-8118-8cca93ab3c17-1200x1600-0131298991e5a44421475e8454af3f0b.jfif",
+    ""
+  ],
+  [
+    "f9c27d6900074833a7863c534042762e",
+    "0ded1556336546bf849c9d28878ec86c",
+    "CurrencyPackTest1",
+    [
+      "applications"
+    ],
+    "Jagex",
+    1621563645,
+    1622040644,
+    "",
     ""
   ],
   [
