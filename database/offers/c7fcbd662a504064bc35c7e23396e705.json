@@ -8,7 +8,7 @@
   "productSlug": "subnautica-below-zero",
   "urlSlug": "subnautica-below-zero",
   "creationDate": "2019-01-24T20:22:23.047Z",
-  "lastModifiedDate": "2021-05-14T04:20:52.592Z",
+  "lastModifiedDate": "2021-05-26T19:01:13.338Z",
   "effectiveDate": "2021-05-14T00:00:00.000Z",
   "viewableDate": "2021-05-14T00:00:00.000Z",
   "developer": null,
@@ -117,7 +117,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR"
+      "value": "[]"
     },
     {
       "key": "developerName",
