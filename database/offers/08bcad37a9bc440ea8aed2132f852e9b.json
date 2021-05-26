@@ -8,7 +8,7 @@
   "productSlug": "knockout-city/deluxe-block-party-edition",
   "urlSlug": "jalapenos-deluxebp-audience",
   "creationDate": "2021-04-16T16:05:11.528Z",
-  "lastModifiedDate": "2021-05-21T23:26:41.896Z",
+  "lastModifiedDate": "2021-05-26T15:57:42.096Z",
   "effectiveDate": "2021-05-21T12:00:00.000Z",
   "viewableDate": "2021-05-21T12:00:00.000Z",
   "developer": null,
@@ -87,7 +87,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "CN,HK,MO"
+      "value": "[]"
     },
     {
       "key": "publisherName",
