@@ -1,0 +1,55 @@
+{
+  "id": "1701a893b4cf4716a136582a51507a51",
+  "namespace": "bf333e6236914222a95a536389c05813",
+  "title": "PSO2:NGS SDRP Audience",
+  "description": "PSO2:NGS SDRP Audience",
+  "longDescription": "",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "phantasy-star-online-2--sdrp",
+  "creationDate": "2021-05-18T11:43:51.252Z",
+  "lastModifiedDate": "2021-05-27T22:21:24.954Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-yqy54tnq77et5vf5dtpvz8czyahm2y",
+    "name": "SEGA"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "SZ, NL, AN, BL, SD, MF, SH, PN, BV, TF, HM, BE, KR, SS, JP, AQ"
+    },
+    {
+      "key": "publisherName",
+      "value": "SEGA Corporation"
+    },
+    {
+      "key": "developerName",
+      "value": "SEGA Corporation"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "85cc27f6b94740efa1d61d6b5ab98857"
+    }
+  ],
+  "catalogNs": {
+    "name": "bf333e6236914222a95a536389c05813"
+  }
+}
