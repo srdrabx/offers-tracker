@@ -884,6 +884,22 @@
     ""
   ],
   [
+    "0491d12970024d2cbc417a649d6ea6ac",
+    "ca4058f18b0a4a9e9e2ccc28f7f33000",
+    "Festival Suite",
+    [
+      "digitalextras",
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Warhorse Studios",
+    1621617066,
+    1622060608,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FestivalSuite_WarhorseStudios_AddOn_S2_1200x1600-7f6479361d545f3a118c9841cdea0bd8",
+    ""
+  ],
+  [
     "0493b5e17e2f486aa6a942ca9e19e5f3",
     "nemesia",
     "Vampire: The Masquerade – Bloodlines 2 Unsanctioned Blood Pack",
@@ -55232,6 +55248,19 @@
     1605189722,
     "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/offer/Diesel_productv2_farming-simulator-19_home_EGS-GIANTS-FS19-1360x766_Standard-1360x766-3ff704f0c5b6993465dbbeb797b181e9acf313e3-1360x766-4c1c6da4e849066b899c43bed7614c6c.jpg",
     "farming-simulator-19"
+  ],
+  [
+    "e490819eb2704c66b868090690ce8ba2",
+    "b57455ede0604d83892c3412ec3d610e",
+    "111 test mod title UPD",
+    [
+      "mods"
+    ],
+    "EPAM",
+    1622121504,
+    1622121987,
+    "",
+    ""
   ],
   [
     "e4b898db18024de0a9a6576ed0acf9ab",
