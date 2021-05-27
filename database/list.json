@@ -7653,6 +7653,22 @@
     ""
   ],
   [
+    "1f5973d37acb475d99616711de47dd37",
+    "d118f9a27e514d98aa25534afd2f35c7",
+    "Sonic Colors: Ultimate",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Sega of America",
+    1618881402,
+    1622132428,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SonicColorsUltimate_BlindSquirrelEntertainment_S2_1200x1600-cb900631d297eb52062bd1fc18904083",
+    "sonic-colors-ultimate"
+  ],
+  [
     "1f59e837a27a48f78c326ac943cd8441",
     "amaranth",
     "Ancestors The Humankind Odyssey",
@@ -16981,6 +16997,21 @@
     1593097127,
     "https://cdn1.epicgames.com/db9ef498b3fa4b26afb501ea352e3c46/offer/ANHC_1701HE_Store_Portrait_1200x1600-1200x1600-ecd2d9d62d4822dfdc21c4374ce79ae5.jpg",
     "anno-1701/home"
+  ],
+  [
+    "46beb0b8a8214d6c91ac746cdbf334c8",
+    "ark",
+    "ARK: Ultimate Survivor Edition",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Studio Wildcard",
+    1621349086,
+    1622134416,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_ARKUltimateSurvivorEdition_StudioWildcard_Bundles_S2_1200x1600-5ae8bdca6728b60fc5cd480f766be1cf",
+    "ark/ultimate-survivor-edition"
   ],
   [
     "46c1cf334ffc4815b288bf35f6601457",
@@ -41069,6 +41100,21 @@
     "journey-to-the-savage-planet/home"
   ],
   [
+    "a8330ca3fd1f4a52b7a0a55a5ce5a541",
+    "d118f9a27e514d98aa25534afd2f35c7",
+    "Sonic Colors: Ultimate - Digital Deluxe",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Sega of America",
+    1618881377,
+    1622137312,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/cbc5a288-5cbd-4195-91a5-aef55a86be9c_1200x1600-473b073021b1f885f77c1cfa8e5a3052",
+    "sonic-colors-ultimate/digital-deluxe-edition"
+  ],
+  [
     "a84c27dbbe2843c39876a4b6e2e98f97",
     "calluna",
     "Control + The Foundation [Review]",
@@ -51339,6 +51385,21 @@
     1586957961,
     1594306676,
     "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
+    ""
+  ],
+  [
+    "d5ebcc8b77ae45ca80b9af1118339fc3",
+    "6af58339c2424644988e0fb83dfd9bd5",
+    "Dirty Vegas - \"Days Go By\"",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "NCSoft",
+    1618431119,
+    1622133342,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DirtyVegasDaysGoBy_HarmonixMusicSystemsInc_DLC_S2_1200x1600-fe90941bdc1a05dcf87930b45f55638b",
     ""
   ],
   [
