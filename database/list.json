@@ -8632,14 +8632,15 @@
   [
     "23ebef751a81416abd7552a1b4b44a93",
     "6af58339c2424644988e0fb83dfd9bd5",
-    "FaintShadow_LoopPack01Audience",
+    "Faint Shadow - \"Loop Pack 01\"",
     [
-      "applications"
+      "addons",
+      "addons/durable"
     ],
     "NCSoft",
     1618611171,
-    1618612745,
-    "",
+    1622068930,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FaintShadowLoopPack01_HarmonixMusicSystemsInc_DLC_S2_1200x1600-3214001ed7c2f8cd489d0403c77c86c1",
     ""
   ],
   [
@@ -22060,8 +22061,8 @@
     ],
     "Innersloth",
     1607012823,
-    1622128480,
-    "",
+    1622130120,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AmongUsStarterPack_Innersloth_Editions_S2_1200x1600-cc2f6b6465202f8a9a8d345040700d84",
     "among-us/starter-pack"
   ],
   [
@@ -22131,7 +22132,7 @@
     ],
     "Sega of America",
     1593484284,
-    1618942652,
+    1622132427,
     "",
     ""
   ],
@@ -32450,6 +32451,20 @@
     ""
   ],
   [
+    "883cc5f46a7b48288bbb67b54803214d",
+    "6af58339c2424644988e0fb83dfd9bd5",
+    "Haddaway - \"What Is Love\"",
+    [
+      "addons",
+      "addons/durable"
+    ],
+    "NCSoft",
+    1618432007,
+    1622068930,
+    "",
+    ""
+  ],
+  [
     "8843eb0f373d4a45a1bf57246476e730",
     "2744acda6a2e493e9894b389b6564df7",
     "SnowRunner - Scorched Vinyl Wrap",
@@ -32953,7 +32968,7 @@
     ],
     "Urnique Studio",
     1619178719,
-    1621620649,
+    1622131959,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TimelieGameoftheYearEdition_UrniqueStudio_S2_1200x1600-7e4c8ee3cfa86f9263818b603aa80434",
     "timelie"
   ],
@@ -40001,7 +40016,7 @@
     ],
     "Sega of America",
     1593484284,
-    1618942652,
+    1622132427,
     "",
     ""
   ],
