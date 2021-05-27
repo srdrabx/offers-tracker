@@ -14937,7 +14937,7 @@
     ],
     "Piranha Games",
     1604669792,
-    1621367183,
+    1622073611,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/hotis-s2-1200x1600_1200x1600-6c7c4bb426a9c6d14315df8ff30613cf",
     "mechwarrior-5/heroes-of-the-inner-sphere"
   ],
@@ -22377,7 +22377,7 @@
     ],
     "Piranha Games",
     1565816401,
-    1620077227,
+    1622073611,
     "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/Standard_Edition_Icon-700x300-454ff0b6a4a439c5e056eae993a24b2a.png",
     ""
   ],
@@ -23514,13 +23514,14 @@
     "Mechwarrior 5 Modding Toolkit",
     [
       "addons",
+      "games",
       "editors",
       "applications"
     ],
     "Piranha Games",
     1590159349,
-    1617207323,
-    "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/CodeRedemption_MechWarrior5-340x440-d6fc9fca58586de5b9d250d60e09e698-340x440-d6fc9fca58586de5b9d250d60e09e698.jpg",
+    1622073611,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/mw5-s2-1200x1600_1200x1600-c3fed40daadb2698d7e4f1f4c088ef30",
     ""
   ],
   [
@@ -27373,13 +27374,12 @@
     "Truck Driver",
     [
       "games",
-      "games/edition",
       "games/edition/base",
-      "applications"
+      "games/edition"
     ],
     "SOEDESCO",
     1619430163,
-    1621524163,
+    1622076828,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TruckDriver_SOEDESCOStudios_S2_1200x1600-b704edbab4970cdf1a01925aba1f2149",
     "truck-driver"
   ],
@@ -39416,6 +39416,21 @@
     ""
   ],
   [
+    "a1650022320747bea300da3c9a720b38",
+    "b9def67e597b4be7a16146146a044d02",
+    "Mechwarrior 5 Mercenaries Digital Extras",
+    [
+      "digitalextras/book",
+      "digitalextras",
+      "digitalextras/soundtrack"
+    ],
+    "Piranha Games",
+    1604669756,
+    1622073618,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/mw5-s2-1200x1600_1200x1600-8aef35c4c50dc226dcab93135f38aba3",
+    ""
+  ],
+  [
     "a1666ebf028849faa235b9ec8e3ad601",
     "244aaaa06bfa49d088205b13b9d2d115",
     "Warframe: 4300 Platinum + Triple Rare Mod",
@@ -41550,6 +41565,21 @@
     1608305246,
     "https://cdn1.epicgames.com/33956bcb55d4452d8c47e16b94e294bd/offer/EGS_AmongUsMiniCrewmateBundle_Innersloth_DLC_S2-1200x1600-ad5e2e0919e2a1d8a8df5a7857c68894.jpg",
     ""
+  ],
+  [
+    "aba5e594f61b4c829bcf65e72500e40a",
+    "b9def67e597b4be7a16146146a044d02",
+    "MechWarrior 5: Mercenaries Dropship Collection",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Piranha Games",
+    1622000810,
+    1622073618,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/mw5-s2-1200x1600_1200x1600-90c5f12b4fb329f0d0f2719323a77b3a",
+    "[]"
   ],
   [
     "aba6ec8b6cf745f8af6417f2bb5839b1",
@@ -46449,7 +46479,7 @@
     ],
     "Piranha Games",
     1563899923,
-    1620077227,
+    1622073611,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/mw5-s2-1200x1600_1200x1600-7e62db6ae48fcb403f9182068631df34",
     "mechwarrior-5/home"
   ],

@@ -1,15 +1,15 @@
 {
-  "id": "616d8e1ff26b4a65b14794e612da00c4",
+  "id": "a1650022320747bea300da3c9a720b38",
   "namespace": "b9def67e597b4be7a16146146a044d02",
-  "title": "Mechwarrior 5 Modding Toolkit",
-  "description": "Welcome to the Inner Sphere, Mercenaries. The MechWarrior 5: Mercenaries Mod Editor empowers you to imagine and create Mods using the full potential of Unreal Engine 4 and the MechWarrior 5: Mercenaries development project!",
-  "longDescription": "Welcome to the Inner Sphere, Mercenaries. The MechWarrior 5: Mercenaries Mod Editor empowers you to imagine and create Mods using the full potential of Unreal Engine 4 and the MechWarrior 5: Mercenaries development project!",
+  "title": "Mechwarrior 5 Mercenaries Digital Extras",
+  "description": "Content includes the MW5 Mercenaries Soundtrack, Heroes of the Inner Sphere Soundtrack & a selection of hi res artwork and renders for desktop & mobile and Tech Manual outlining Mech stats.",
+  "longDescription": "# Digital Content Breakdown\n\nSoundtracks\n- MechWarrior 5 Mercenaries Soundtrack - 25 tracks\n- Heroes of the Inner Sphere Soundtrack - 14 tracks\n\nPDF\n- Tech Manual Technical Readouts for Select Mechs  - 58 Pages with mech details\n\nArt Work and Desktops Images Various resolutions\n- Concept art\n- Select Screenshots\n- Selected Marketing Images\n",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "mechwarrior-5--mod-editor",
-  "creationDate": "2020-05-22T14:55:49.320Z",
-  "lastModifiedDate": "2021-05-27T00:00:11.897Z",
-  "effectiveDate": "2019-12-09T11:00:00.000Z",
+  "urlSlug": "mechwarrior-5--digital-extras",
+  "creationDate": "2020-11-06T13:35:56.075Z",
+  "lastModifiedDate": "2021-05-27T00:00:18.569Z",
+  "effectiveDate": "2021-05-27T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -25,16 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "addons"
+      "path": "digitalextras/book"
     },
     {
-      "path": "games"
+      "path": "digitalextras"
     },
     {
-      "path": "editors"
-    },
-    {
-      "path": "applications"
+      "path": "digitalextras/soundtrack"
     }
   ],
   "tags": [
@@ -109,18 +106,6 @@
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
-    },
-    {
-      "id": "1279",
-      "name": "Vampire",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:37.207Z",
-      "updated": "2021-02-05T16:12:54.271Z",
-      "status": "ACTIVE",
-      "referenceCount": 3,
-      "comment": null
     }
   ],
   "customAttributes": [
@@ -136,62 +121,62 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/mw5-s1-2560x1440_2560x1440-120a44ff75e294328765d1e470f490ee",
-      "md5": "120a44ff75e294328765d1e470f490ee",
-      "size": 3167426,
-      "uploadedDate": "2021-05-26T04:17:38.073Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/mw5-s1-2560x1440_2560x1440-b0201fac91012ae6d5bcf3fc1052f4e4",
+      "md5": "b0201fac91012ae6d5bcf3fc1052f4e4",
+      "size": 899839,
+      "uploadedDate": "2021-05-26T04:12:26.013Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/mw5-s2-1200x1600_1200x1600-c3fed40daadb2698d7e4f1f4c088ef30",
-      "md5": "c3fed40daadb2698d7e4f1f4c088ef30",
-      "size": 1014082,
-      "uploadedDate": "2021-05-26T04:17:41.080Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/mw5-s2-1200x1600_1200x1600-8aef35c4c50dc226dcab93135f38aba3",
+      "md5": "8aef35c4c50dc226dcab93135f38aba3",
+      "size": 720230,
+      "uploadedDate": "2021-05-26T04:12:29.525Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/mw5-s2-1200x1600_1200x1600-c3fed40daadb2698d7e4f1f4c088ef30",
-      "md5": "c3fed40daadb2698d7e4f1f4c088ef30",
-      "size": 1014082,
-      "uploadedDate": "2021-05-26T04:17:44.495Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/mw5-s2-1200x1600_1200x1600-8aef35c4c50dc226dcab93135f38aba3",
+      "md5": "8aef35c4c50dc226dcab93135f38aba3",
+      "size": 720230,
+      "uploadedDate": "2021-05-26T04:12:32.375Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/mw5-s2-1200x1600_1200x1600-c3fed40daadb2698d7e4f1f4c088ef30",
-      "md5": "c3fed40daadb2698d7e4f1f4c088ef30",
-      "size": 1014082,
-      "uploadedDate": "2021-05-26T04:17:47.227Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/mw5-s2-1200x1600_1200x1600-8aef35c4c50dc226dcab93135f38aba3",
+      "md5": "8aef35c4c50dc226dcab93135f38aba3",
+      "size": 720230,
+      "uploadedDate": "2021-05-26T04:12:35.631Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/mw5-s1-2560x1440_2560x1440-120a44ff75e294328765d1e470f490ee",
-      "md5": "120a44ff75e294328765d1e470f490ee",
-      "size": 3167426,
-      "uploadedDate": "2021-05-26T04:17:50.610Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/mw5-s1-2560x1440_2560x1440-b0201fac91012ae6d5bcf3fc1052f4e4",
+      "md5": "b0201fac91012ae6d5bcf3fc1052f4e4",
+      "size": 899839,
+      "uploadedDate": "2021-05-26T04:12:38.331Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/mw5-s2-1200x1600_1200x1600-c3fed40daadb2698d7e4f1f4c088ef30",
-      "md5": "c3fed40daadb2698d7e4f1f4c088ef30",
-      "size": 1014082,
-      "uploadedDate": "2021-05-26T04:17:53.476Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/mw5-s2-1200x1600_1200x1600-8aef35c4c50dc226dcab93135f38aba3",
+      "md5": "8aef35c4c50dc226dcab93135f38aba3",
+      "size": 720230,
+      "uploadedDate": "2021-05-26T04:12:41.093Z",
       "width": 1200,
       "height": 1600
     }
   ],
   "items": [
     {
-      "id": "e6b52375cd6b460d9249cc1a8a3645b3"
+      "id": "483fef21b5eb46e39aec72f71b160103"
     }
   ],
   "catalogNs": {

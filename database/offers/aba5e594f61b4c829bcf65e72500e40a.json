@@ -1,16 +1,16 @@
 {
-  "id": "bff1d0022b6f4e409daa3663d67edab0",
+  "id": "aba5e594f61b4c829bcf65e72500e40a",
   "namespace": "b9def67e597b4be7a16146146a044d02",
-  "title": "Mechwarrior 5",
-  "description": "MechWarrior 5 Standard Version",
-  "longDescription": null,
+  "title": "MechWarrior 5: Mercenaries Dropship Collection",
+  "description": "MechWarrior 5 Mercenaries Dropship Collection includes MechWarrior 5 Mercenaries featuring the year one update, The first DLC Heroes of the Inner Sphere, and the MechWarrior 5 Mercenaries Digital Extras.",
+  "longDescription": "Step inside the Dropship Collection to experience everything MechWarrior 5 Mercenaries has to offer.\n\nMechWarrior 5 Mercenaries Dropship Collection Content Breakdown\n\n-MechWarrior 5 Mercenaries Base Game featuring the massive Year one update including Gameplay improvements and Cross play with all versions.\n-Heroes of the Inner Sphere DLC expanding the game with new career mode, New Biome, New Modes, New weapons and equipment and New mechs to hunt.\n-MechWarrior 5 Mercenaries Digital Extras Featuring Soundtracks, High Res Backgrounds and a 58 page Tech Manual.",
   "status": "ACTIVE",
-  "productSlug": "mechwarrior-5/home",
-  "urlSlug": "hoopoegeneralaudience",
-  "creationDate": "2019-07-23T16:38:43.376Z",
-  "lastModifiedDate": "2021-05-27T00:00:11.919Z",
-  "effectiveDate": "2019-12-09T11:00:00.000Z",
-  "viewableDate": null,
+  "productSlug": "[]",
+  "urlSlug": "mechwarrior-5-mercenaries-dropship-collection",
+  "creationDate": "2021-05-26T03:46:50.021Z",
+  "lastModifiedDate": "2021-05-27T00:00:18.586Z",
+  "effectiveDate": "2021-05-27T00:00:00.000Z",
+  "viewableDate": "2021-05-27T00:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-muad9pj32k67stc4ycpgpplwq84sgq",
@@ -26,9 +26,6 @@
   "categories": [
     {
       "path": "games"
-    },
-    {
-      "path": "games/edition/base"
     },
     {
       "path": "games/edition"
@@ -111,18 +108,6 @@
       "comment": null
     },
     {
-      "id": "14346",
-      "name": "Holiday Sale 2020",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2020-10-21T21:58:03.125Z",
-      "updated": "2021-01-07T16:00:15.373Z",
-      "status": "ACTIVE",
-      "referenceCount": 584,
-      "comment": ""
-    },
-    {
       "id": "9547",
       "name": "Windows",
       "namespace": "epic",
@@ -132,6 +117,18 @@
       "updated": "2021-02-05T16:07:21.852Z",
       "status": "ACTIVE",
       "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1279",
+      "name": "Vampire",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:37.207Z",
+      "updated": "2021-02-05T16:12:54.271Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
       "comment": null
     },
     {
@@ -158,71 +155,68 @@
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "mechwarrior-5/home"
+      "value": "[]"
     }
   ],
   "keyImages": [
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/mw5-s2-1200x1600_1200x1600-7e62db6ae48fcb403f9182068631df34",
-      "md5": "7e62db6ae48fcb403f9182068631df34",
-      "size": 575502,
-      "uploadedDate": "2021-05-03T21:26:22.278Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/mw5-s1-2560x1440_2560x1440-8e632e897c65539f1a7b1e45c147726d",
-      "md5": "8e632e897c65539f1a7b1e45c147726d",
-      "size": 444811,
-      "uploadedDate": "2021-05-03T21:26:25.153Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/mw5-s1-2560x1440_2560x1440-618916082fd364e9c1ddd62d52de00dd",
+      "md5": "618916082fd364e9c1ddd62d52de00dd",
+      "size": 2831373,
+      "uploadedDate": "2021-05-26T03:45:52.734Z",
       "width": 2560,
       "height": 1440
     },
     {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/mw5-s2-1200x1600_1200x1600-90c5f12b4fb329f0d0f2719323a77b3a",
+      "md5": "90c5f12b4fb329f0d0f2719323a77b3a",
+      "size": 1286645,
+      "uploadedDate": "2021-05-26T03:45:59.030Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/mw5-s2-1200x1600_1200x1600-7e62db6ae48fcb403f9182068631df34",
-      "md5": "7e62db6ae48fcb403f9182068631df34",
-      "size": 575502,
-      "uploadedDate": "2021-05-03T21:26:27.766Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/mw5-s2-1200x1600_1200x1600-90c5f12b4fb329f0d0f2719323a77b3a",
+      "md5": "90c5f12b4fb329f0d0f2719323a77b3a",
+      "size": 1286645,
+      "uploadedDate": "2021-05-26T03:46:03.144Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/mw5-s2-1200x1600_1200x1600-7e62db6ae48fcb403f9182068631df34",
-      "md5": "7e62db6ae48fcb403f9182068631df34",
-      "size": 575502,
-      "uploadedDate": "2021-05-03T21:26:30.665Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/mw5-s2-1200x1600_1200x1600-7e62db6ae48fcb403f9182068631df34",
-      "md5": "7e62db6ae48fcb403f9182068631df34",
-      "size": 575502,
-      "uploadedDate": "2021-05-03T21:26:39.582Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/mw5-s2-1200x1600_1200x1600-90c5f12b4fb329f0d0f2719323a77b3a",
+      "md5": "90c5f12b4fb329f0d0f2719323a77b3a",
+      "size": 1286645,
+      "uploadedDate": "2021-05-26T03:46:05.821Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/mw5-s1-2560x1440_2560x1440-8e632e897c65539f1a7b1e45c147726d",
-      "md5": "8e632e897c65539f1a7b1e45c147726d",
-      "size": 444811,
-      "uploadedDate": "2021-05-03T21:26:43.707Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/mw5-s1-2560x1440_2560x1440-618916082fd364e9c1ddd62d52de00dd",
+      "md5": "618916082fd364e9c1ddd62d52de00dd",
+      "size": 2831373,
+      "uploadedDate": "2021-05-26T03:46:09.719Z",
       "width": 2560,
       "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/mw5-s2-1200x1600_1200x1600-90c5f12b4fb329f0d0f2719323a77b3a",
+      "md5": "90c5f12b4fb329f0d0f2719323a77b3a",
+      "size": 1286645,
+      "uploadedDate": "2021-05-26T03:46:12.287Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [
     {
-      "id": "e375d2e93e4b4644929a9776dafff77f"
-    },
-    {
-      "id": "16d9d0fc7dd049859513ccd7e6f7c8a3"
+      "id": "4d337dcafe244bb68a9d333277303325"
     }
   ],
   "catalogNs": {
