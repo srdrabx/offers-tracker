@@ -8,9 +8,9 @@
   "productSlug": "rogue-company/deadly-apparition-starter-pack",
   "urlSlug": "rogue-company--deadly-apparition-starter-pack",
   "creationDate": "2020-10-13T02:36:53.124Z",
-  "lastModifiedDate": "2021-04-22T23:17:32.569Z",
+  "lastModifiedDate": "2021-05-25T15:40:07.464Z",
   "effectiveDate": "2020-11-23T13:00:00.000Z",
-  "viewableDate": null,
+  "viewableDate": "2021-05-27T15:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
@@ -187,6 +187,6 @@
     }
   ],
   "catalogNs": {
-    "name": null
+    "name": "933ada2ec45e4184ae840d64c99e0ba9"
   }
 }

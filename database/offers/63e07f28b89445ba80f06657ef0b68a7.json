@@ -8,7 +8,7 @@
   "productSlug": "among-us",
   "urlSlug": "among-us",
   "creationDate": "2020-11-05T16:10:59.293Z",
-  "lastModifiedDate": "2021-05-27T14:56:32.611Z",
+  "lastModifiedDate": "2021-05-27T15:40:55.934Z",
   "effectiveDate": "2020-12-18T17:00:00.000Z",
   "viewableDate": "2020-12-18T17:00:00.000Z",
   "developer": null,
@@ -120,57 +120,57 @@
   "keyImages": [
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/33956bcb55d4452d8c47e16b94e294bd/offer/EGS_AmongUsAirshipSkins_Innersloth_DLC_S2-1200x1600-7b66bf04a92a4e47828c75bcc0cd13da.jpg",
-      "md5": "7b66bf04a92a4e47828c75bcc0cd13da",
-      "size": 397601,
-      "uploadedDate": "2021-03-31T18:08:23.910Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AmongUs_Innersloth_S2_1200x1600-1ed84c94766b627a7e2848a01d704b7a",
+      "md5": "1ed84c94766b627a7e2848a01d704b7a",
+      "size": 659841,
+      "uploadedDate": "2021-05-27T15:40:00.387Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/33956bcb55d4452d8c47e16b94e294bd/offer/EGS_AmongUsAirshipSkins_Innersloth_DLC_S1-2560x1440-9ce10a48edfdd1197a695654323986a5.jpg",
-      "md5": "9ce10a48edfdd1197a695654323986a5",
-      "size": 622543,
-      "uploadedDate": "2021-03-31T18:08:40.280Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AmongUs_Innersloth_S1_2560x1440-0a2daa0c14a0e5bb142a3cd0e347e791",
+      "md5": "0a2daa0c14a0e5bb142a3cd0e347e791",
+      "size": 977809,
+      "uploadedDate": "2021-05-27T15:40:07.855Z",
       "width": 2560,
       "height": 1440
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/33956bcb55d4452d8c47e16b94e294bd/offer/EGS_AmongUsAirshipSkins_Innersloth_DLC_S2-1200x1600-7b66bf04a92a4e47828c75bcc0cd13da.jpg",
-      "md5": "7b66bf04a92a4e47828c75bcc0cd13da",
-      "size": 397601,
-      "uploadedDate": "2021-03-31T18:09:02.281Z",
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AmongUs_Innersloth_S2_1200x1600-1ed84c94766b627a7e2848a01d704b7a",
+      "md5": "1ed84c94766b627a7e2848a01d704b7a",
+      "size": 659841,
+      "uploadedDate": "2021-05-27T15:40:15.423Z",
       "width": 1200,
       "height": 1600
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/33956bcb55d4452d8c47e16b94e294bd/offer/EGS_AmongUsAirshipSkins_Innersloth_DLC_S2-1200x1600-7b66bf04a92a4e47828c75bcc0cd13da.jpg",
-      "md5": "7b66bf04a92a4e47828c75bcc0cd13da",
-      "size": 397601,
-      "uploadedDate": "2021-03-31T18:09:17.396Z",
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AmongUs_Innersloth_S2_1200x1600-1ed84c94766b627a7e2848a01d704b7a",
+      "md5": "1ed84c94766b627a7e2848a01d704b7a",
+      "size": 659841,
+      "uploadedDate": "2021-05-27T15:40:23.456Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AmongUs_Innersloth_S2_1200x1600-1ed84c94766b627a7e2848a01d704b7a",
+      "md5": "1ed84c94766b627a7e2848a01d704b7a",
+      "size": 659841,
+      "uploadedDate": "2021-05-27T15:40:33.726Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/33956bcb55d4452d8c47e16b94e294bd/offer/EGS_AmongUsAirshipSkins_Innersloth_DLC_S1-2560x1440-9ce10a48edfdd1197a695654323986a5.jpg",
-      "md5": "9ce10a48edfdd1197a695654323986a5",
-      "size": 622543,
-      "uploadedDate": "2021-03-31T18:09:30.036Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AmongUs_Innersloth_S1_2560x1440-0a2daa0c14a0e5bb142a3cd0e347e791",
+      "md5": "0a2daa0c14a0e5bb142a3cd0e347e791",
+      "size": 977809,
+      "uploadedDate": "2021-05-27T15:40:42.745Z",
       "width": 2560,
       "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/33956bcb55d4452d8c47e16b94e294bd/offer/EGS_AmongUsAirshipSkins_Innersloth_DLC_S2-1200x1600-7b66bf04a92a4e47828c75bcc0cd13da.jpg",
-      "md5": "7b66bf04a92a4e47828c75bcc0cd13da",
-      "size": 397601,
-      "uploadedDate": "2021-03-31T18:09:39.868Z",
-      "width": 1200,
-      "height": 1600
     }
   ],
   "items": [

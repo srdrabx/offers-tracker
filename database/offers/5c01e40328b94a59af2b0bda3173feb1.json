@@ -5,10 +5,10 @@
   "description": "Talons DLC 09",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
+  "productSlug": "among-us/starter-pack",
   "urlSlug": "talonsdlc08-01",
   "creationDate": "2020-12-03T16:27:03.467Z",
-  "lastModifiedDate": "2020-12-18T15:27:27.030Z",
+  "lastModifiedDate": "2021-05-27T15:14:40.924Z",
   "effectiveDate": "2020-12-18T17:00:00.000Z",
   "viewableDate": "2020-12-18T17:00:00.000Z",
   "developer": null,
@@ -38,7 +38,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR"
+      "value": "[]"
     },
     {
       "key": "publisherName",
@@ -47,6 +47,10 @@
     {
       "key": "developerName",
       "value": "Innersloth"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "among-us/starter-pack"
     }
   ],
   "keyImages": [],

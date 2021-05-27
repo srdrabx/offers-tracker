@@ -5,10 +5,10 @@
   "description": "Among Us All-in-One Pack (new)",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
+  "productSlug": "among-us/all-in-one-pack",
   "urlSlug": "talonsdlc08-02",
   "creationDate": "2021-04-14T15:53:41.558Z",
-  "lastModifiedDate": "2021-04-19T18:06:27.346Z",
+  "lastModifiedDate": "2021-05-27T15:18:13.764Z",
   "effectiveDate": "2021-04-19T18:00:00.000Z",
   "viewableDate": "2021-04-19T18:00:00.000Z",
   "developer": null,
@@ -38,7 +38,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR"
+      "value": "[]"
     },
     {
       "key": "publisherName",
@@ -47,6 +47,10 @@
     {
       "key": "developerName",
       "value": "Innersloth"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "among-us/all-in-one-pack"
     }
   ],
   "keyImages": [
