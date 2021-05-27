@@ -9017,7 +9017,7 @@
     ],
     "Wizards of the Coast",
     1617056025,
-    1617375466,
+    1622126718,
     "https://cdn1.epicgames.com/22790376176c4efc89fba3ee685203e7/offer/EGS_PrePurchaseDeluxeEdition_TuqueGames_Bundles_S2-1200x1600-af4402b7d78372a6b8529263091766b3.jpg",
     "dark-alliance/deluxe-edition"
   ],
@@ -24192,8 +24192,8 @@
     ],
     "Innersloth",
     1604592659,
-    1617286544,
-    "https://cdn1.epicgames.com/33956bcb55d4452d8c47e16b94e294bd/offer/EGS_AmongUs_Innersloth_S2-1200x1600-0e804b9d53a159cb8659ebdac1e1ea01.jpg",
+    1622127392,
+    "https://cdn1.epicgames.com/33956bcb55d4452d8c47e16b94e294bd/offer/EGS_AmongUsAirshipSkins_Innersloth_DLC_S2-1200x1600-7b66bf04a92a4e47828c75bcc0cd13da.jpg",
     "among-us"
   ],
   [
@@ -27287,11 +27287,13 @@
     "6dc1883c42424bb98e03e30a0333401d",
     "The Longest Road on Earth Backstage Edition",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Raw Fury",
     1620252813,
-    1621362312,
+    1622127171,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheLongestRoadonEarthBackstageEdition_BrainwashGangTLRGames_DigitalExtras_S2_1200x1600-23bd62c62259a600ee975e981a4a252a",
     ""
   ],
@@ -43937,6 +43939,22 @@
     "the-escapists-2/wicked-ward"
   ],
   [
+    "b43c1e1e0ca14b6784b323c59c751136",
+    "d5241c76f178492ea1540fce45616757",
+    "Mystery Game",
+    [
+      "freegames/vaulted",
+      "freegames",
+      "games",
+      "applications"
+    ],
+    "Epic Dev Test Account",
+    1620857747,
+    1622125035,
+    "",
+    "[]"
+  ],
+  [
     "b4549b0a846e4fa289f87b48007fc42e",
     "orchid",
     "The Jackbox Party Pack 3",
@@ -52939,7 +52957,7 @@
     ],
     "Wizards of the Coast",
     1614811245,
-    1617655968,
+    1622126718,
     "https://cdn1.epicgames.com/22790376176c4efc89fba3ee685203e7/offer/EGS_DarkAlliance_TuqueGames_S4-1200x1600-5c756bdfc92cce5145253c1ce61f9a10.jpg",
     "dark-alliance"
   ],
@@ -53710,7 +53728,7 @@
     ],
     "Raw Fury",
     1617248626,
-    1621359285,
+    1622127171,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/f8d7bccb-98d2-4476-abb7-9169d06ae84e_1200x1600-14b4f145ced36114fe74ce8b76bfc8c0",
     "the-longest-road-on-earth"
   ],
@@ -61025,7 +61043,7 @@
   [
     "fbb91316b03e42d7950d02959fbbe29d",
     "d5241c76f178492ea1540fce45616757",
-    "Mystery Game",
+    "Among Us",
     [
       "freegames/vaulted",
       "freegames",
@@ -61034,9 +61052,9 @@
     ],
     "Epic Dev Test Account",
     1620857673,
-    1621517868,
+    1622124893,
     "",
-    "[]"
+    "among-us"
   ],
   [
     "fbd41c4a3096405aa0a4263d4dfc16af",

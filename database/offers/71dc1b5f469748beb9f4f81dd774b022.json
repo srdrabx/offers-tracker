@@ -2,14 +2,14 @@
   "id": "71dc1b5f469748beb9f4f81dd774b022",
   "namespace": "6dc1883c42424bb98e03e30a0333401d",
   "title": "The Longest Road on Earth Backstage Edition",
-  "description": "The Backstage Edition includes: 3 master tracks, a selection of sheet music, a behind-the-scenes documentary about the development of The Longest Road on Earth and its soundtrack, and an art book chalked full of stunning pixel-art",
-  "longDescription": "For those that want to dive into the inner-working of The Longest Road on Earth and how they travelled the road to launch: \n\n• 3 master tracks – perfect for remixes! \n• A selection of sheet music \n• A behind-the-scenes documentary about the development of The Longest Road on Earth and its soundtrack \n• An art book chalked full of stunning pixel-art\n\n",
+  "description": "The Backstage Edition includes: 3 master tracks, a selection of chords and lyrics sheets , a behind-the-scenes documentary about the development of The Longest Road on Earth and its soundtrack, and an art book chalked full of stunning pixel-art",
+  "longDescription": "For those that want to dive into the inner-working of The Longest Road on Earth and how they travelled the road to launch: \n\n• 3 master tracks – perfect for remixes! \n• A selection of chords and lyrics sheets \n• A behind-the-scenes documentary about the development of The Longest Road on Earth and its soundtrack \n• An art book chalked full of stunning pixel-art\n\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "the-longest-road-on-earth--backstage-edition",
   "creationDate": "2021-05-05T22:13:33.406Z",
-  "lastModifiedDate": "2021-05-18T18:25:12.587Z",
-  "effectiveDate": "2099-02-01T00:00:00.000Z",
+  "lastModifiedDate": "2021-05-27T14:52:51.694Z",
+  "effectiveDate": "2021-05-27T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -25,6 +25,12 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
       "path": "applications"
     }
   ],
@@ -32,7 +38,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "[]"
+      "value": "KR"
     },
     {
       "key": "publisherName",
@@ -40,7 +46,7 @@
     },
     {
       "key": "developerName",
-      "value": "Raw Fury"
+      "value": "Brainwash Gang; TLR Games"
     }
   ],
   "keyImages": [
@@ -97,6 +103,15 @@
       "uploadedDate": "2021-05-14T19:23:46.253Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheLongestRoadonEarthBackstageEdition_BrainwashGangTLRGames_DigitalExtras_IC1_200x200-e05cc357293e429e90c2085cadad5a92",
+      "md5": "e05cc357293e429e90c2085cadad5a92",
+      "size": 19410,
+      "uploadedDate": "2021-05-14T19:23:58.176Z",
+      "width": 200,
+      "height": 200
     },
     {
       "type": "featuredMedia",
@@ -160,15 +175,6 @@
       "uploadedDate": "2021-05-14T19:32:21.417Z",
       "width": 1920,
       "height": 1080
-    },
-    {
-      "type": "ProductLogo",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/df6cd88f-b6ee-44b7-960f-4839d846261a_200x200-a02d0ca316da0e2cf97410a48eb57baf",
-      "md5": "a02d0ca316da0e2cf97410a48eb57baf",
-      "size": 27392,
-      "uploadedDate": "2021-05-18T18:24:54.182Z",
-      "width": 200,
-      "height": 200
     }
   ],
   "items": [

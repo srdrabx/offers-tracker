@@ -8,8 +8,8 @@
   "productSlug": "dark-alliance/deluxe-edition",
   "urlSlug": "dark-alliance-deluxe-prepurchase",
   "creationDate": "2021-03-29T22:13:45.614Z",
-  "lastModifiedDate": "2021-04-02T14:57:46.456Z",
-  "effectiveDate": "2021-04-02T15:00:00.000Z",
+  "lastModifiedDate": "2021-05-27T14:45:18.537Z",
+  "effectiveDate": "2099-09-16T15:00:00.000Z",
   "viewableDate": "2021-04-02T15:00:00.000Z",
   "developer": null,
   "seller": {
@@ -104,14 +104,6 @@
     {
       "key": "publisherName",
       "value": "Wizards of the Coast"
-    },
-    {
-      "key": "isPrepurchase",
-      "value": "true"
-    },
-    {
-      "key": "availableDate",
-      "value": "1624374000"
     },
     {
       "key": "developerName",
