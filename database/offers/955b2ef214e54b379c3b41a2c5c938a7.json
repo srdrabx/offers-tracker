@@ -1,14 +1,14 @@
 {
-  "id": "3a744334d37740cf9f71fac90a9d8832",
+  "id": "955b2ef214e54b379c3b41a2c5c938a7",
   "namespace": "5bb3d43818ae4188850fe1dbad9d57a5",
-  "title": "Knockout City™",
-  "description": "Knockout City™",
+  "title": "Knockout City™ Deluxe Edition",
+  "description": "Knockout City™ Deluxe Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "knockout-city",
-  "urlSlug": "jalapenos-general-audience",
-  "creationDate": "2021-03-23T01:36:44.632Z",
-  "lastModifiedDate": "2021-05-29T23:12:52.177Z",
+  "productSlug": "knockout-city/deluxe-edition",
+  "urlSlug": "jalapenos-deluxe-audience",
+  "creationDate": "2021-04-16T16:06:19.603Z",
+  "lastModifiedDate": "2021-05-29T23:12:52.190Z",
   "effectiveDate": "2021-05-30T12:00:00.000Z",
   "viewableDate": "2021-05-30T12:00:00.000Z",
   "developer": null,
@@ -29,9 +29,6 @@
     },
     {
       "path": "games/edition"
-    },
-    {
-      "path": "games/edition/base"
     },
     {
       "path": "applications"
@@ -102,68 +99,50 @@
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "knockout-city"
+      "value": "knockout-city/deluxe-edition"
     }
   ],
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/5bb3d43818ae4188850fe1dbad9d57a5/offer/EGS_KnockoutCity_VelanStudios_S1-2560x1440-b43cfab24e8f67ecd084b7d10ed0d9d6.jpg",
-      "md5": "b43cfab24e8f67ecd084b7d10ed0d9d6",
-      "size": 1010692,
-      "uploadedDate": "2021-03-31T02:43:09.562Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/knockoutcitydeluxeedition-s1_2560x1440-d73e4442ccb3975fbaaac1e0c43aaf0c",
+      "md5": "d73e4442ccb3975fbaaac1e0c43aaf0c",
+      "size": 383691,
+      "uploadedDate": "2021-05-28T22:27:19.961Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/5bb3d43818ae4188850fe1dbad9d57a5/offer/EGS_KnockoutCity_VelanStudios_S2-1200x1600-b7df4b64f600767dc20c64e8c6eb299c.jpg",
-      "md5": "b7df4b64f600767dc20c64e8c6eb299c",
-      "size": 1017470,
-      "uploadedDate": "2021-03-31T02:43:15.476Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/knockoutcitydeluxeedition-s2_1200x1600-2bb6bfdc2f3c62ed508d158900ddb268",
+      "md5": "2bb6bfdc2f3c62ed508d158900ddb268",
+      "size": 333462,
+      "uploadedDate": "2021-05-28T22:27:24.755Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/5bb3d43818ae4188850fe1dbad9d57a5/offer/EGS_KnockoutCity_VelanStudios_S2-1200x1600-b7df4b64f600767dc20c64e8c6eb299c.jpg",
-      "md5": "b7df4b64f600767dc20c64e8c6eb299c",
-      "size": 1017470,
-      "uploadedDate": "2021-03-31T02:43:24.679Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/knockoutcitydeluxeedition-s2_1200x1600-2bb6bfdc2f3c62ed508d158900ddb268",
+      "md5": "2bb6bfdc2f3c62ed508d158900ddb268",
+      "size": 333462,
+      "uploadedDate": "2021-05-28T22:27:27.923Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/5bb3d43818ae4188850fe1dbad9d57a5/offer/EGS_KnockoutCity_VelanStudios_S2-1200x1600-b7df4b64f600767dc20c64e8c6eb299c.jpg",
-      "md5": "b7df4b64f600767dc20c64e8c6eb299c",
-      "size": 1017470,
-      "uploadedDate": "2021-03-31T02:43:30.238Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/5bb3d43818ae4188850fe1dbad9d57a5/offer/EGS_KnockoutCity_VelanStudios_S1-2560x1440-b43cfab24e8f67ecd084b7d10ed0d9d6.jpg",
-      "md5": "b43cfab24e8f67ecd084b7d10ed0d9d6",
-      "size": 1010692,
-      "uploadedDate": "2021-03-31T02:43:38.523Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/5bb3d43818ae4188850fe1dbad9d57a5/offer/EGS_KnockoutCity_VelanStudios_S2-1200x1600-b7df4b64f600767dc20c64e8c6eb299c.jpg",
-      "md5": "b7df4b64f600767dc20c64e8c6eb299c",
-      "size": 1017470,
-      "uploadedDate": "2021-03-31T02:43:43.948Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/knockoutcitydeluxeedition-s2_1200x1600-2bb6bfdc2f3c62ed508d158900ddb268",
+      "md5": "2bb6bfdc2f3c62ed508d158900ddb268",
+      "size": 333462,
+      "uploadedDate": "2021-05-28T22:27:31.909Z",
       "width": 1200,
       "height": 1600
     }
   ],
   "items": [
     {
-      "id": "1d75e2775594407bb3ab5b17f479e483"
+      "id": "83ddaef4163b45f78f6c7da47048cbb4"
     }
   ],
   "catalogNs": {

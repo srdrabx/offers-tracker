@@ -14145,11 +14145,12 @@
     [
       "games",
       "games/edition",
+      "games/edition/base",
       "applications"
     ],
     "Electronic Arts",
     1616463404,
-    1622044707,
+    1622329972,
     "https://cdn1.epicgames.com/5bb3d43818ae4188850fe1dbad9d57a5/offer/EGS_KnockoutCity_VelanStudios_S2-1200x1600-b7df4b64f600767dc20c64e8c6eb299c.jpg",
     "knockout-city"
   ],
@@ -35834,6 +35835,21 @@
     1596051633,
     "https://cdn1.epicgames.com/0584d2013f0149a791e7b9bad0eec102/offer/GTAV_EGS_Artwork_1200x1600_Portrait Store Banner-1200x1600-382243057711adf80322ed2aeea42191.jpg",
     "grand-theft-auto-v"
+  ],
+  [
+    "955b2ef214e54b379c3b41a2c5c938a7",
+    "5bb3d43818ae4188850fe1dbad9d57a5",
+    "Knockout City™ Deluxe Edition",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Electronic Arts",
+    1618589179,
+    1622329972,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/knockoutcitydeluxeedition-s2_1200x1600-2bb6bfdc2f3c62ed508d158900ddb268",
+    "knockout-city/deluxe-edition"
   ],
   [
     "956b6d1ec4314cbb9382c3048db5638f",
