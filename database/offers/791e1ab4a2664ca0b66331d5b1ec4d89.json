@@ -8,7 +8,7 @@
   "productSlug": "auto-chess/home",
   "urlSlug": "chickengeneralaudience",
   "creationDate": "2019-06-06T19:54:40.846Z",
-  "lastModifiedDate": "2021-03-24T15:59:57.461Z",
+  "lastModifiedDate": "2021-05-30T15:59:39.077Z",
   "effectiveDate": "2019-08-23T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -104,55 +104,55 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/EGS_AutoChess_DragonestGame_Wide-1920x1080-c86233271b42d9f1d59d9416164971a7.jpg",
-      "md5": "c86233271b42d9f1d59d9416164971a7",
-      "size": 623467,
-      "uploadedDate": "2021-03-18T19:55:03.644Z",
-      "width": 1920,
-      "height": 1080
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AutoChess_DragonestGame_S1_2560x1440-a851068154da4bae5b9209e03e6c7804",
+      "md5": "a851068154da4bae5b9209e03e6c7804",
+      "size": 298886,
+      "uploadedDate": "2021-05-28T16:27:20.205Z",
+      "width": 2560,
+      "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/EGS_AutoChess_DragonestGame_Tall-1200x1600-1ce0150d72927e152b42c6f2faac5736.jpg",
-      "md5": "1ce0150d72927e152b42c6f2faac5736",
-      "size": 543734,
-      "uploadedDate": "2021-03-18T19:55:12.555Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AutoChess_DragonestGame_S2_1200x1600-cf940a0d33e9eca317081fe8937397fa",
+      "md5": "cf940a0d33e9eca317081fe8937397fa",
+      "size": 202946,
+      "uploadedDate": "2021-05-28T16:27:25.220Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/EGS_AutoChess_DragonestGame_Tall-1200x1600-1ce0150d72927e152b42c6f2faac5736.jpg",
-      "md5": "1ce0150d72927e152b42c6f2faac5736",
-      "size": 543734,
-      "uploadedDate": "2021-03-18T19:55:21.687Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AutoChess_DragonestGame_S2_1200x1600-cf940a0d33e9eca317081fe8937397fa",
+      "md5": "cf940a0d33e9eca317081fe8937397fa",
+      "size": 202946,
+      "uploadedDate": "2021-05-28T16:27:33.051Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/EGS_AutoChess_DragonestGame_Tall-1200x1600-1ce0150d72927e152b42c6f2faac5736.jpg",
-      "md5": "1ce0150d72927e152b42c6f2faac5736",
-      "size": 543734,
-      "uploadedDate": "2021-03-18T19:55:30.959Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AutoChess_DragonestGame_S2_1200x1600-cf940a0d33e9eca317081fe8937397fa",
+      "md5": "cf940a0d33e9eca317081fe8937397fa",
+      "size": 202946,
+      "uploadedDate": "2021-05-28T16:27:37.768Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/EGS_AutoChess_DragonestGame_Wide-1920x1080-c86233271b42d9f1d59d9416164971a7.jpg",
-      "md5": "c86233271b42d9f1d59d9416164971a7",
-      "size": 623467,
-      "uploadedDate": "2021-03-18T19:59:05.739Z",
-      "width": 1920,
-      "height": 1080
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AutoChess_DragonestGame_S1_2560x1440-a851068154da4bae5b9209e03e6c7804",
+      "md5": "a851068154da4bae5b9209e03e6c7804",
+      "size": 298886,
+      "uploadedDate": "2021-05-28T16:27:42.924Z",
+      "width": 2560,
+      "height": 1440
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/EGS_AutoChess_DragonestGame_Tall-1200x1600-1ce0150d72927e152b42c6f2faac5736.jpg",
-      "md5": "1ce0150d72927e152b42c6f2faac5736",
-      "size": 543734,
-      "uploadedDate": "2021-03-18T19:59:13.083Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AutoChess_DragonestGame_S2_1200x1600-cf940a0d33e9eca317081fe8937397fa",
+      "md5": "cf940a0d33e9eca317081fe8937397fa",
+      "size": 202946,
+      "uploadedDate": "2021-05-28T16:27:48.399Z",
       "width": 1200,
       "height": 1600
     }
