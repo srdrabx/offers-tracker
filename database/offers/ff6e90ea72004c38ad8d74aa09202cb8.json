@@ -1,0 +1,199 @@
+{
+  "id": "ff6e90ea72004c38ad8d74aa09202cb8",
+  "namespace": "09d8b60b834a47d48fb0aba85a6d6a2e",
+  "title": "Backbone",
+  "description": "Backbone",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "backbone",
+  "urlSlug": "gouda-general-audience",
+  "creationDate": "2021-04-01T03:43:38.769Z",
+  "lastModifiedDate": "2021-05-28T18:31:27.197Z",
+  "effectiveDate": "2099-02-01T00:00:00.000Z",
+  "viewableDate": "2021-05-31T15:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
+    "name": "Raw Fury"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2021-02-10T17:35:47.790Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "1150",
+      "name": "NOIR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:33.254Z",
+      "updated": "2019-06-20T11:59:33.254Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2021-02-10T17:35:19.827Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "Mac OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX",
+        "macOS"
+      ],
+      "operator": null,
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2021-02-10T17:26:31.125Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Raw Fury"
+    },
+    {
+      "key": "developerName",
+      "value": "EggNut"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "backbone"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/5a97c2f6-cf8b-472b-9a55-c02d07169dc4_2560x1440-7e009cb2d9b6c0297e698756e0e7f180",
+      "md5": "7e009cb2d9b6c0297e698756e0e7f180",
+      "size": 1048120,
+      "uploadedDate": "2021-05-28T18:23:57.047Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/4923fc4b-b536-43d1-b12e-290aab9b1789_1200x1600-5e648a346d0c1a55eefcb6cbba794768",
+      "md5": "5e648a346d0c1a55eefcb6cbba794768",
+      "size": 848841,
+      "uploadedDate": "2021-05-28T18:24:07.713Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/4923fc4b-b536-43d1-b12e-290aab9b1789_1200x1600-5e648a346d0c1a55eefcb6cbba794768",
+      "md5": "5e648a346d0c1a55eefcb6cbba794768",
+      "size": 848841,
+      "uploadedDate": "2021-05-28T18:24:14.919Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/4923fc4b-b536-43d1-b12e-290aab9b1789_1200x1600-5e648a346d0c1a55eefcb6cbba794768",
+      "md5": "5e648a346d0c1a55eefcb6cbba794768",
+      "size": 848841,
+      "uploadedDate": "2021-05-28T18:24:25.824Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/5a97c2f6-cf8b-472b-9a55-c02d07169dc4_2560x1440-7e009cb2d9b6c0297e698756e0e7f180",
+      "md5": "7e009cb2d9b6c0297e698756e0e7f180",
+      "size": 1048120,
+      "uploadedDate": "2021-05-28T18:24:35.643Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/4923fc4b-b536-43d1-b12e-290aab9b1789_1200x1600-5e648a346d0c1a55eefcb6cbba794768",
+      "md5": "5e648a346d0c1a55eefcb6cbba794768",
+      "size": 848841,
+      "uploadedDate": "2021-05-28T18:24:42.780Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "6e2b13f4d614426489612340856de9ff"
+    }
+  ],
+  "catalogNs": {
+    "name": "09d8b60b834a47d48fb0aba85a6d6a2e"
+  }
+}
