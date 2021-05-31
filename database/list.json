@@ -3286,16 +3286,18 @@
   [
     "0eb875e7cf864f53999434bc1953729f",
     "8c8bd44c4f8a4948800b27d9c1248c0c",
-    "DemeterGeneralAudience",
+    "Necromunda: Hired Gun",
     [
       "games",
+      "games/edition/base",
+      "games/edition",
       "applications"
     ],
     "Focus Home",
     1614200338,
-    1615929723,
-    "",
-    ""
+    1622499124,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_NecromundaHiredGun_StreumOnStudio_S2-1200x1600_1200x1600-ef93e959fe00d4df8fdff4fded84c295",
+    "necromunda-hired-gun"
   ],
   [
     "0edc278af6bb437fb8a84499f3e0ddf6",
@@ -6934,6 +6936,23 @@
     ""
   ],
   [
+    "1cc98313cd424b979ff4bddb6d13559e",
+    "8c8bd44c4f8a4948800b27d9c1248c0c",
+    "Necromunda: Hired Gun - Original Soundtrack",
+    [
+      "addons",
+      "digitalextras",
+      "addons/durable",
+      "digitalextras/soundtrack",
+      "applications"
+    ],
+    "Focus Home",
+    1615236076,
+    1622498236,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_NecromundaHiredGunOriginalSoundtrack_StreumOnStudio_DigitalExtras_S2_1200x1600-9c1243caeda65dfd7a86b330d36fad01",
+    ""
+  ],
+  [
     "1ce540ccb5dc413780931468235ac813",
     "epic",
     "Tom Clancy's Ghost Recon Wildlands",
@@ -7042,6 +7061,23 @@
     1588956528,
     1597068408,
     "",
+    ""
+  ],
+  [
+    "1d504a1511374f5fbca5a891dd3f6703",
+    "8c8bd44c4f8a4948800b27d9c1248c0c",
+    "Necromunda: Hired Gun - Artbook",
+    [
+      "digitalextras/book",
+      "digitalextras",
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Focus Home",
+    1615236102,
+    1622498236,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_NecromundaHiredGunArtbook_StreumOnStudio_DigitalExtras_S2_1200x1600-17ce4214d398d614b048436e2b78561d",
     ""
   ],
   [
@@ -32609,7 +32645,7 @@
     ],
     "Focus Home",
     1614701296,
-    1615924221,
+    1622498236,
     "https://cdn1.epicgames.com/8c8bd44c4f8a4948800b27d9c1248c0c/offer/EGS_NecromundaHiredGunHuntersBountyPack_StreumOnStudio_DLC_S2-1200x1600-dcf5d629d3663754b9af464b9398d1f6.jpg",
     ""
   ],
@@ -59219,6 +59255,21 @@
     1605737643,
     "",
     ""
+  ],
+  [
+    "f34dc9e2912c498ea3a0d4059e9be8ff",
+    "8c8bd44c4f8a4948800b27d9c1248c0c",
+    "Necromunda: Hired Gun - Bundle",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Focus Home",
+    1614703895,
+    1622498236,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-necromundahiredgunbundle-streumonstudio-bundles-s2-1200x1600_1200x1600-5f2bbf39526cd00f7174f190e6326809",
+    "necromunda-hired-gun/bundle"
   ],
   [
     "f35be78031c64b3eb3d561e7f0a32028",

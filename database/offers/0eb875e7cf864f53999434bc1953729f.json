@@ -1,16 +1,16 @@
 {
   "id": "0eb875e7cf864f53999434bc1953729f",
   "namespace": "8c8bd44c4f8a4948800b27d9c1248c0c",
-  "title": "DemeterGeneralAudience",
-  "description": "DemeterGeneralAudience",
+  "title": "Necromunda: Hired Gun",
+  "description": "Necromunda: Hired Gun",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "demetergeneralaudience",
+  "productSlug": "necromunda-hired-gun",
+  "urlSlug": "necromunda-hired-gun",
   "creationDate": "2021-02-24T20:58:58.952Z",
-  "lastModifiedDate": "2021-03-16T21:22:03.407Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2021-05-31T22:12:04.336Z",
+  "effectiveDate": "2021-05-31T22:00:00.000Z",
+  "viewableDate": "2021-05-31T22:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
@@ -28,25 +28,163 @@
       "path": "games"
     },
     {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2021-02-10T17:36:19.203Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1336",
+      "name": "Action-Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:05.439Z",
+      "updated": "2020-12-15T02:17:02.957Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2021-02-10T17:35:47.790Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2021-02-10T17:36:06.452Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "[]"
     },
     {
       "key": "publisherName",
-      "value": "[]"
+      "value": "Focus Home Interactive"
     },
     {
       "key": "developerName",
-      "value": "[]"
+      "value": "Streum On Studio"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "necromunda-hired-gun"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_NecromundaHiredGun_StreumOnStudio_S1-2560x1440_2560x1440-3be8bb3344268054fd9ca5ac427afde3",
+      "md5": "3be8bb3344268054fd9ca5ac427afde3",
+      "size": 937485,
+      "uploadedDate": "2021-05-31T17:43:07.865Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_NecromundaHiredGun_StreumOnStudio_S2-1200x1600_1200x1600-ef93e959fe00d4df8fdff4fded84c295",
+      "md5": "ef93e959fe00d4df8fdff4fded84c295",
+      "size": 919299,
+      "uploadedDate": "2021-05-31T17:43:39.650Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_NecromundaHiredGun_StreumOnStudio_S1-2560x1440_2560x1440-3be8bb3344268054fd9ca5ac427afde3",
+      "md5": "3be8bb3344268054fd9ca5ac427afde3",
+      "size": 937485,
+      "uploadedDate": "2021-05-31T17:43:44.187Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_NecromundaHiredGun_StreumOnStudio_S2-1200x1600_1200x1600-ef93e959fe00d4df8fdff4fded84c295",
+      "md5": "ef93e959fe00d4df8fdff4fded84c295",
+      "size": 919299,
+      "uploadedDate": "2021-05-31T17:43:48.898Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_NecromundaHiredGun_StreumOnStudio_S2-1200x1600_1200x1600-ef93e959fe00d4df8fdff4fded84c295",
+      "md5": "ef93e959fe00d4df8fdff4fded84c295",
+      "size": 919299,
+      "uploadedDate": "2021-05-31T17:43:54.705Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_NecromundaHiredGun_StreumOnStudio_S2-1200x1600_1200x1600-ef93e959fe00d4df8fdff4fded84c295",
+      "md5": "ef93e959fe00d4df8fdff4fded84c295",
+      "size": 919299,
+      "uploadedDate": "2021-05-31T17:43:59.602Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "ebbb49896b5c4dc994001e6b729b70d4"
