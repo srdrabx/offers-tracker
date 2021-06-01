@@ -32661,7 +32661,7 @@
     ],
     "Focus Home",
     1614701296,
-    1622498236,
+    1622559158,
     "https://cdn1.epicgames.com/8c8bd44c4f8a4948800b27d9c1248c0c/offer/EGS_NecromundaHiredGunHuntersBountyPack_StreumOnStudio_DLC_S2-1200x1600-dcf5d629d3663754b9af464b9398d1f6.jpg",
     ""
   ],
@@ -38159,7 +38159,7 @@
     ],
     "The Irregular Corporation",
     1616030212,
-    1622510888,
+    1622559757,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GoingMedieval_FoxyVoxel_S2_1200x1600-2be78fec2b7260f1073859260f8e2e0d",
     "going-medieval"
   ],
@@ -53158,6 +53158,22 @@
     ""
   ],
   [
+    "dbe4bfec956f40f3b08cbf0f060f7468",
+    "65d31d60510a49629a0b52e93da8416a",
+    "Fashion Police Squad",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "No More Robots",
+    1621443180,
+    1622559940,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/fps_1200x1600-dd40393f202c5a61c1f7b426139b29a1",
+    "fashion-police-squad"
+  ],
+  [
     "dbfa7d82892f406e8ba87d31a09adcad",
     "1f436e99203a49479f4a4d5951374fe8",
     "Stonefly",
@@ -56563,6 +56579,20 @@
     1617228657,
     1620732194,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RogueCompanySeasonTwoStarterPack_FirstWatchGames_AddOn_S2_1200x1600-ce23337a1e7c36a1d0faae33ea1fee17",
+    ""
+  ],
+  [
+    "e93dcaeea3424d48b66408814ff840b2",
+    "d469e82d91fe4516a00d6566c3d2f8f7",
+    "Going Medieval Soundtrack",
+    [
+      "digitalextras",
+      "digitalextras/soundtrack"
+    ],
+    "The Irregular Corporation",
+    1622510432,
+    1622510888,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GoingMedievalSoundtrack_FoxyVoxel_DigitalExtras_S2_1200x1600-185e84707777b63092de1deccc4458d2",
     ""
   ],
   [

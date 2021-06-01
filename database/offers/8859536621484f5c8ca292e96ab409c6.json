@@ -8,8 +8,8 @@
   "productSlug": null,
   "urlSlug": "necromunda-hired-gun--hunters-bounty-pack",
   "creationDate": "2021-03-02T16:08:16.006Z",
-  "lastModifiedDate": "2021-05-31T21:57:16.078Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2021-06-01T14:52:38.287Z",
+  "effectiveDate": "2021-06-01T14:00:00.000Z",
   "viewableDate": "2021-03-16T15:45:00.000Z",
   "developer": null,
   "seller": {
@@ -38,7 +38,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR"
+      "value": "[]"
     },
     {
       "key": "publisherName",
