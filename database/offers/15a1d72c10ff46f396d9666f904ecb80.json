@@ -8,7 +8,7 @@
   "productSlug": "far-cry-6/home",
   "urlSlug": "kolachegeneralaudience",
   "creationDate": "2020-07-03T00:05:17.799Z",
-  "lastModifiedDate": "2020-11-10T18:27:54.582Z",
+  "lastModifiedDate": "2021-06-01T21:57:14.553Z",
   "effectiveDate": "2020-07-12T20:00:00.000Z",
   "viewableDate": "2020-07-12T20:00:00.000Z",
   "developer": null,
@@ -51,18 +51,6 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2021-02-05T16:07:21.852Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    },
-    {
       "id": "1307",
       "name": "Open World",
       "namespace": "epic",
@@ -72,6 +60,18 @@
       "updated": "2021-02-10T17:34:58.080Z",
       "status": "ACTIVE",
       "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
       "comment": null
     }
   ],
@@ -90,7 +90,7 @@
     },
     {
       "key": "availableDate",
-      "value": "1640970000"
+      "value": "1633618800"
     },
     {
       "key": "developerName",
