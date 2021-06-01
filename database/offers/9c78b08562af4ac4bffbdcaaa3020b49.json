@@ -8,9 +8,9 @@
   "productSlug": "going-medieval",
   "urlSlug": "bigoli-general-audience",
   "creationDate": "2021-03-18T01:16:52.292Z",
-  "lastModifiedDate": "2021-05-06T13:24:55.398Z",
-  "effectiveDate": "2021-06-01T13:00:00.000Z",
-  "viewableDate": "2021-05-06T13:00:00.000Z",
+  "lastModifiedDate": "2021-06-01T01:28:08.891Z",
+  "effectiveDate": "2021-06-01T15:00:00.000Z",
+  "viewableDate": null,
   "developer": null,
   "seller": {
     "id": "o-h3rhw2ntexmcgx44cv2pdje5bz3nqh",
@@ -38,18 +38,6 @@
     }
   ],
   "tags": [
-    {
-      "id": "1233",
-      "name": "Base-Building",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:14.176Z",
-      "updated": "2021-02-05T16:11:41.048Z",
-      "status": "ACTIVE",
-      "referenceCount": 1,
-      "comment": null
-    },
     {
       "id": "1370",
       "name": "Single Player",

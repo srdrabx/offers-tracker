@@ -1,14 +1,14 @@
 {
   "id": "11b8a03d5f3f49af84b3c5360f59e01a",
   "namespace": "affc33b82405457595a032f00284abd2",
-  "title": "DLC 146",
-  "description": "DLC 146",
+  "title": "Thermite Bore Weapon Bundle",
+  "description": "Thermite Bore Weapon Bundle",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "dlc146",
   "creationDate": "2021-04-27T21:57:23.259Z",
-  "lastModifiedDate": "2021-04-27T21:57:23.259Z",
+  "lastModifiedDate": "2021-06-01T02:26:50.765Z",
   "effectiveDate": "2021-06-22T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -21,7 +21,7 @@
   "ignoreOrder": false,
   "freeDays": 0,
   "collectionOfferIds": [],
-  "technicalDetails": null,
+  "technicalDetails": "DLC 146",
   "recurrence": "ONCE",
   "categories": [
     {

@@ -4144,14 +4144,14 @@
   [
     "11b8a03d5f3f49af84b3c5360f59e01a",
     "affc33b82405457595a032f00284abd2",
-    "DLC 146",
+    "Thermite Bore Weapon Bundle",
     [
       "games",
       "applications"
     ],
     "Tripwire Interactive",
     1619560643,
-    1619560643,
+    1622514410,
     "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
     ""
   ],
@@ -7676,14 +7676,14 @@
   [
     "1f4c6c60477c436b9cffc6f67bd6bb50",
     "affc33b82405457595a032f00284abd2",
-    "DLC 142",
+    "Astronaut Outfit Bundle",
     [
       "games",
       "applications"
     ],
     "Tripwire Interactive",
     1619560343,
-    1619560398,
+    1622514446,
     "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
     ""
   ],
@@ -9531,14 +9531,14 @@
   [
     "275d5494159849c4a58fbf234a4ab618",
     "affc33b82405457595a032f00284abd2",
-    "DLC 144",
+    "Beyond Horizon MKII Weapon Skin Bundle Pack",
     [
       "games",
       "applications"
     ],
     "Tripwire Interactive",
     1619560501,
-    1619560501,
+    1622514439,
     "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
     ""
   ],
@@ -15546,14 +15546,14 @@
   [
     "3fa39a103df3473084435e17b01da75c",
     "affc33b82405457595a032f00284abd2",
-    "DLC 143",
+    "Foundry Gear Cosmetic Bundle Pack",
     [
       "games",
       "applications"
     ],
     "Tripwire Interactive",
     1619560445,
-    1619560445,
+    1622514443,
     "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
     ""
   ],
@@ -25580,14 +25580,14 @@
   [
     "6985e5a1680f48fa849b8a0dc9ec3911",
     "affc33b82405457595a032f00284abd2",
-    "DLC 147",
+    "Interstellar Insanity Weapon Bundle",
     [
       "games",
       "applications"
     ],
     "Tripwire Interactive",
     1619560691,
-    1619560691,
+    1622514430,
     "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
     ""
   ],
@@ -32164,8 +32164,8 @@
     ],
     "Tripwire Interactive",
     1566000536,
-    1616511101,
-    "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/EGS_KillingFloor2_TripwireInteractive_S2-1200x1600-4b263db7c584bdfd3994f850e8089313.jpg",
+    1622513956,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KillingFloor2_TripwireInteractive_S2_1200x1600-753c8cf3f2b17a34a867c97b578264f9",
     "killing-floor-2"
   ],
   [
@@ -32217,14 +32217,14 @@
   [
     "86414ea50f8542fe841a91d6f5642758",
     "affc33b82405457595a032f00284abd2",
-    "DLC 145",
+    "FAMAS Masterkey Weapon Bundle",
     [
       "games",
       "applications"
     ],
     "Tripwire Interactive",
     1619560558,
-    1619560558,
+    1622514435,
     "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
     ""
   ],
@@ -38143,7 +38143,7 @@
     ],
     "The Irregular Corporation",
     1616030212,
-    1620307495,
+    1622510888,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GoingMedieval_FoxyVoxel_S2_1200x1600-2be78fec2b7260f1073859260f8e2e0d",
     "going-medieval"
   ],
@@ -49453,14 +49453,14 @@
   [
     "cb46711fc7ec48fe8d5c5584c9acf42b",
     "affc33b82405457595a032f00284abd2",
-    "DLC 141",
+    "Interstellar Insanity Full Gear Bundle",
     [
       "games",
       "applications"
     ],
     "Tripwire Interactive",
     1619560257,
-    1619560257,
+    1622514450,
     "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
     ""
   ],
@@ -53148,12 +53148,11 @@
     [
       "games",
       "games/edition",
-      "games/edition/base",
-      "applications"
+      "games/edition/base"
     ],
     "MWM Interactive",
     1614201405,
-    1619580488,
+    1622513272,
     "https://cdn1.epicgames.com/1f436e99203a49479f4a4d5951374fe8/offer/EGS_Stonefly_FlightSchoolStudio_S2-1200x1600-8b64e82cffebfa0bb04ca82740832d5a.jpg",
     "stonefly"
   ],

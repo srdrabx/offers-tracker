@@ -1,14 +1,14 @@
 {
   "id": "3fa39a103df3473084435e17b01da75c",
   "namespace": "affc33b82405457595a032f00284abd2",
-  "title": "DLC 143",
-  "description": "DLC 143",
+  "title": "Foundry Gear Cosmetic Bundle Pack",
+  "description": "Foundry Gear Cosmetic Bundle Pack",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "dlc143",
   "creationDate": "2021-04-27T21:54:05.919Z",
-  "lastModifiedDate": "2021-04-27T21:54:05.919Z",
+  "lastModifiedDate": "2021-06-01T02:27:23.370Z",
   "effectiveDate": "2021-06-22T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -21,7 +21,7 @@
   "ignoreOrder": false,
   "freeDays": 0,
   "collectionOfferIds": [],
-  "technicalDetails": null,
+  "technicalDetails": "DLC 143",
   "recurrence": "ONCE",
   "categories": [
     {

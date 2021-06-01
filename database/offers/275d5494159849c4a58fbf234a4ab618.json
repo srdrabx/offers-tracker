@@ -1,14 +1,14 @@
 {
   "id": "275d5494159849c4a58fbf234a4ab618",
   "namespace": "affc33b82405457595a032f00284abd2",
-  "title": "DLC 144",
-  "description": "DLC 144",
+  "title": "Beyond Horizon MKII Weapon Skin Bundle Pack",
+  "description": "Beyond Horizon MKII Weapon Skin Bundle Pack",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "dlc144",
   "creationDate": "2021-04-27T21:55:01.041Z",
-  "lastModifiedDate": "2021-04-27T21:55:01.041Z",
+  "lastModifiedDate": "2021-06-01T02:27:19.335Z",
   "effectiveDate": "2021-06-22T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -21,7 +21,7 @@
   "ignoreOrder": false,
   "freeDays": 0,
   "collectionOfferIds": [],
-  "technicalDetails": null,
+  "technicalDetails": "DLC 144",
   "recurrence": "ONCE",
   "categories": [
     {

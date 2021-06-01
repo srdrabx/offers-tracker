@@ -8,7 +8,7 @@
   "productSlug": "killing-floor-2",
   "urlSlug": "killing-floor",
   "creationDate": "2019-08-17T00:08:56.801Z",
-  "lastModifiedDate": "2021-03-23T14:51:41.472Z",
+  "lastModifiedDate": "2021-06-01T02:19:16.097Z",
   "effectiveDate": "2020-07-09T15:00:00.000Z",
   "viewableDate": "2020-07-02T15:00:00.000Z",
   "developer": null,
@@ -235,58 +235,58 @@
   ],
   "keyImages": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/EGS_KillingFloor2_TripwireInteractive_S1-2560x1440-cd331ce513a587ab5d9dc5278c531b3f.jpg",
-      "md5": "cd331ce513a587ab5d9dc5278c531b3f",
-      "size": 976149,
-      "uploadedDate": "2021-03-19T19:36:49.244Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/EGS_KillingFloor2_TripwireInteractive_S2-1200x1600-4b263db7c584bdfd3994f850e8089313.jpg",
-      "md5": "4b263db7c584bdfd3994f850e8089313",
-      "size": 913516,
-      "uploadedDate": "2021-03-19T19:36:54.596Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KillingFloor2_TripwireInteractive_S2_1200x1600-753c8cf3f2b17a34a867c97b578264f9",
+      "md5": "753c8cf3f2b17a34a867c97b578264f9",
+      "size": 639079,
+      "uploadedDate": "2021-06-01T02:18:20.962Z",
       "width": 1200,
       "height": 1600
     },
     {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KillingFloor2_TripwireInteractive_S1_2560x1440-3a74531ec3a1822a61e294d3f29edcf0",
+      "md5": "3a74531ec3a1822a61e294d3f29edcf0",
+      "size": 593092,
+      "uploadedDate": "2021-06-01T02:18:23.572Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/EGS_KillingFloor2_TripwireInteractive_S2-1200x1600-4b263db7c584bdfd3994f850e8089313.jpg",
-      "md5": "4b263db7c584bdfd3994f850e8089313",
-      "size": 913516,
-      "uploadedDate": "2021-03-19T19:37:01.249Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KillingFloor2_TripwireInteractive_S2_1200x1600-753c8cf3f2b17a34a867c97b578264f9",
+      "md5": "753c8cf3f2b17a34a867c97b578264f9",
+      "size": 639079,
+      "uploadedDate": "2021-06-01T02:18:26.169Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/EGS_KillingFloor2_TripwireInteractive_S2-1200x1600-4b263db7c584bdfd3994f850e8089313.jpg",
-      "md5": "4b263db7c584bdfd3994f850e8089313",
-      "size": 913516,
-      "uploadedDate": "2021-03-19T19:37:06.640Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KillingFloor2_TripwireInteractive_S2_1200x1600-753c8cf3f2b17a34a867c97b578264f9",
+      "md5": "753c8cf3f2b17a34a867c97b578264f9",
+      "size": 639079,
+      "uploadedDate": "2021-06-01T02:18:28.368Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KillingFloor2_TripwireInteractive_S2_1200x1600-753c8cf3f2b17a34a867c97b578264f9",
+      "md5": "753c8cf3f2b17a34a867c97b578264f9",
+      "size": 639079,
+      "uploadedDate": "2021-06-01T02:18:57.549Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/EGS_KillingFloor2_TripwireInteractive_S1-2560x1440-cd331ce513a587ab5d9dc5278c531b3f.jpg",
-      "md5": "cd331ce513a587ab5d9dc5278c531b3f",
-      "size": 976149,
-      "uploadedDate": "2021-03-19T19:37:14.925Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KillingFloor2_TripwireInteractive_S1_2560x1440-3a74531ec3a1822a61e294d3f29edcf0",
+      "md5": "3a74531ec3a1822a61e294d3f29edcf0",
+      "size": 593092,
+      "uploadedDate": "2021-06-01T02:19:00.241Z",
       "width": 2560,
       "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/EGS_KillingFloor2_TripwireInteractive_S2-1200x1600-4b263db7c584bdfd3994f850e8089313.jpg",
-      "md5": "4b263db7c584bdfd3994f850e8089313",
-      "size": 913516,
-      "uploadedDate": "2021-03-19T19:37:20.162Z",
-      "width": 1200,
-      "height": 1600
     }
   ],
   "items": [

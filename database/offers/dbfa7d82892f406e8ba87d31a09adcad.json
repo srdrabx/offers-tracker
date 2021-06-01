@@ -8,8 +8,8 @@
   "productSlug": "stonefly",
   "urlSlug": "xraygeneralaudience",
   "creationDate": "2021-02-24T21:16:45.492Z",
-  "lastModifiedDate": "2021-04-28T03:28:08.303Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2021-06-01T02:07:52.114Z",
+  "effectiveDate": "2021-06-01T13:00:00.000Z",
   "viewableDate": "2021-02-26T14:00:00.000Z",
   "developer": null,
   "seller": {
@@ -32,9 +32,6 @@
     },
     {
       "path": "games/edition/base"
-    },
-    {
-      "path": "applications"
     }
   ],
   "tags": [
@@ -102,7 +99,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR"
+      "value": "[]"
     },
     {
       "key": "publisherName",
