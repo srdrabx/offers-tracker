@@ -8,7 +8,7 @@
   "productSlug": "the-medium/home",
   "urlSlug": "tauruslaunchaudience",
   "creationDate": "2020-10-07T15:30:37.200Z",
-  "lastModifiedDate": "2021-04-13T16:39:30.798Z",
+  "lastModifiedDate": "2021-06-01T16:16:49.554Z",
   "effectiveDate": "2021-01-28T17:00:00.000Z",
   "viewableDate": "2021-01-28T17:00:00.000Z",
   "developer": null,
@@ -107,6 +107,24 @@
   ],
   "keyImages": [
     {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/e192c537dd6d47ce9a9b00b643c3cdb9/offer/EGS_TheMedium_BlooberTeam_S1-2560x1440-f8a3d12a0df00278617130bd72540050.jpg",
+      "md5": "f8a3d12a0df00278617130bd72540050",
+      "size": 1008773,
+      "uploadedDate": "2020-10-07T15:25:38.333Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/e192c537dd6d47ce9a9b00b643c3cdb9/offer/EGS_TheMedium_BlooberTeam_S2-1200x1600-ae6bf4c64b365f9d90dba125c562f59a.jpg",
+      "md5": "ae6bf4c64b365f9d90dba125c562f59a",
+      "size": 799723,
+      "uploadedDate": "2020-10-07T15:25:47.142Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
       "type": "Thumbnail",
       "url": "https://cdn1.epicgames.com/e192c537dd6d47ce9a9b00b643c3cdb9/offer/EGS_TheMedium_BlooberTeam_S2-1200x1600-ae6bf4c64b365f9d90dba125c562f59a.jpg",
       "md5": "ae6bf4c64b365f9d90dba125c562f59a",
@@ -125,38 +143,20 @@
       "height": 1600
     },
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/landscape - 1920x1080_1920x1080-bd7f78730388040542614e80bb978e2d",
-      "md5": "bd7f78730388040542614e80bb978e2d",
-      "size": 2892186,
-      "uploadedDate": "2021-04-13T16:07:17.185Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/portrait -1200x1600_1200x1600-0924fc8b4e604b2d3f7c6a1a3f48fc4f",
-      "md5": "0924fc8b4e604b2d3f7c6a1a3f48fc4f",
-      "size": 2522130,
-      "uploadedDate": "2021-04-13T16:07:28.192Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/landscape - 1920x1080_1920x1080-bd7f78730388040542614e80bb978e2d",
-      "md5": "bd7f78730388040542614e80bb978e2d",
-      "size": 2892186,
-      "uploadedDate": "2021-04-13T16:07:49.042Z",
-      "width": 1920,
-      "height": 1080
+      "url": "https://cdn1.epicgames.com/e192c537dd6d47ce9a9b00b643c3cdb9/offer/EGS_TheMedium_BlooberTeam_S1-2560x1440-f8a3d12a0df00278617130bd72540050.jpg",
+      "md5": "f8a3d12a0df00278617130bd72540050",
+      "size": 1008773,
+      "uploadedDate": "2020-10-07T15:26:17.171Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/portrait -1200x1600_1200x1600-0924fc8b4e604b2d3f7c6a1a3f48fc4f",
-      "md5": "0924fc8b4e604b2d3f7c6a1a3f48fc4f",
-      "size": 2522130,
-      "uploadedDate": "2021-04-13T16:08:04.628Z",
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/e192c537dd6d47ce9a9b00b643c3cdb9/offer/EGS_TheMedium_BlooberTeam_S2-1200x1600-ae6bf4c64b365f9d90dba125c562f59a.jpg",
+      "md5": "ae6bf4c64b365f9d90dba125c562f59a",
+      "size": 799723,
+      "uploadedDate": "2020-10-07T15:26:26.344Z",
       "width": 1200,
       "height": 1600
     }

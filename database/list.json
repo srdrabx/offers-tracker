@@ -12263,8 +12263,8 @@
     ],
     "Klei Entertainment",
     1551705084,
-    1618503526,
-    "https://cdn1.epicgames.com/phlox/offer/EGS_Griftlands_KleiEntertainment_S2-860x1148-5fc47bd45ab3e9271046563fa33b5081.jpg",
+    1622567059,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/9e22be41-f375-43a3-9958-9f948108cb5e_1200x1600-15577c5981b31bf797a3cb9a2e5cdf61",
     "griftlands/home"
   ],
   [
@@ -21858,7 +21858,7 @@
     ],
     "Bloober Team",
     1602084637,
-    1618331970,
+    1622564209,
     "https://cdn1.epicgames.com/e192c537dd6d47ce9a9b00b643c3cdb9/offer/EGS_TheMedium_BlooberTeam_S2-1200x1600-ae6bf4c64b365f9d90dba125c562f59a.jpg",
     "the-medium/home"
   ],
@@ -24587,6 +24587,20 @@
     ""
   ],
   [
+    "6521742a65fe41c98b701d72af9a9995",
+    "a763ba642aa24102a86875ebec54b486",
+    "DevcatawbaAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "Alpha Channel Inc.",
+    1622566068,
+    1622566962,
+    "",
+    ""
+  ],
+  [
     "6522f448ae01405c94a1e1298aff08f9",
     "6af58339c2424644988e0fb83dfd9bd5",
     "Vengaboys - \"We Like to Party! (The Vengabus)\"",
@@ -26784,6 +26798,20 @@
     1620054163,
     "https://cdn1.epicgames.com/ff17044fb2804a4aa8066dde0626514d/offer/EGS_DisciplesLiberation_FrimaStudio_S6-1200x1600-89473ab64a7d3d531e88c921340ed608.jpg",
     "disciples-liberation"
+  ],
+  [
+    "6ec716f2f73c4de9b87134200cad4cc2",
+    "a763ba642aa24102a86875ebec54b486",
+    "catawbaGeneralAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "Alpha Channel Inc.",
+    1622566068,
+    1622566962,
+    "",
+    ""
   ],
   [
     "6ec989a1b78b49669850bfffeebe540d",
@@ -60564,7 +60592,7 @@
     ],
     "Bloober Team",
     1611094496,
-    1618331970,
+    1622564209,
     "https://cdn1.epicgames.com/e192c537dd6d47ce9a9b00b643c3cdb9/offer/egs-themediumdeluxeedition-blooberteam-editions-s2-1200x1600-e06fd81ffcab-1200x1600-221de9eb09089a13323993217fe026fe.jpg",
     "the-medium/deluxe-edition"
   ],

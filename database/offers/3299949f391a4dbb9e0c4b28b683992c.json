@@ -8,7 +8,7 @@
   "productSlug": "griftlands/home",
   "urlSlug": "phloxgeneralaudience",
   "creationDate": "2019-03-04T13:11:24.093Z",
-  "lastModifiedDate": "2021-04-15T16:18:46.424Z",
+  "lastModifiedDate": "2021-06-01T17:04:19.173Z",
   "effectiveDate": "2019-06-14T11:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -123,18 +123,6 @@
       "comment": null
     },
     {
-      "id": "15375",
-      "name": "Spring Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-03-10T09:37:21.403Z",
-      "updated": "2021-04-08T14:59:39.138Z",
-      "status": "ACTIVE",
-      "referenceCount": 618,
-      "comment": ""
-    },
-    {
       "id": "10719",
       "name": "Mac OS",
       "namespace": "epic",
@@ -148,6 +136,18 @@
       "status": "ACTIVE",
       "referenceCount": 19,
       "comment": null
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-03-10T09:37:21.403Z",
+      "updated": "2021-04-08T14:59:39.138Z",
+      "status": "ACTIVE",
+      "referenceCount": 618,
+      "comment": ""
     }
   ],
   "customAttributes": [
@@ -166,40 +166,58 @@
   ],
   "keyImages": [
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/phlox/offer/EGS_Griftlands_KleiEntertainment_S2-860x1148-5fc47bd45ab3e9271046563fa33b5081.jpg",
-      "md5": "5fc47bd45ab3e9271046563fa33b5081",
-      "size": 896738,
-      "uploadedDate": "2020-07-17T23:38:28.699Z",
-      "width": 860,
-      "height": 1148
-    },
-    {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/phlox/offer/EGS_Griftlands_KleiEntertainment_S1-2560x1440-2bb40dbfe56f556c9359708f2cf4d4aa.jpg",
-      "md5": "2bb40dbfe56f556c9359708f2cf4d4aa",
-      "size": 2887403,
-      "uploadedDate": "2020-07-17T23:39:39.206Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/1f4b3210-a376-4ded-8160-5e40edd69019_2560x1440-4d871bd3da016f0631d0131e73b392ed",
+      "md5": "4d871bd3da016f0631d0131e73b392ed",
+      "size": 971648,
+      "uploadedDate": "2021-06-01T17:02:55.679Z",
       "width": 2560,
       "height": 1440
     },
     {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/9e22be41-f375-43a3-9958-9f948108cb5e_1200x1600-15577c5981b31bf797a3cb9a2e5cdf61",
+      "md5": "15577c5981b31bf797a3cb9a2e5cdf61",
+      "size": 901525,
+      "uploadedDate": "2021-06-01T17:03:06.657Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/phlox/offer/EGS_Griftlands_KleiEntertainment_S2-860x1148-5fc47bd45ab3e9271046563fa33b5081.jpg",
-      "md5": "5fc47bd45ab3e9271046563fa33b5081",
-      "size": 896738,
-      "uploadedDate": "2020-07-17T23:40:49.903Z",
-      "width": 860,
-      "height": 1148
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/9e22be41-f375-43a3-9958-9f948108cb5e_1200x1600-15577c5981b31bf797a3cb9a2e5cdf61",
+      "md5": "15577c5981b31bf797a3cb9a2e5cdf61",
+      "size": 901525,
+      "uploadedDate": "2021-06-01T17:03:19.973Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/phlox/offer/EGS_Griftlands_KleiEntertainment_S2-860x1148-5fc47bd45ab3e9271046563fa33b5081.jpg",
-      "md5": "5fc47bd45ab3e9271046563fa33b5081",
-      "size": 896738,
-      "uploadedDate": "2020-07-17T23:41:00.321Z",
-      "width": 860,
-      "height": 1148
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/9e22be41-f375-43a3-9958-9f948108cb5e_1200x1600-15577c5981b31bf797a3cb9a2e5cdf61",
+      "md5": "15577c5981b31bf797a3cb9a2e5cdf61",
+      "size": 901525,
+      "uploadedDate": "2021-06-01T17:03:36.146Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/9e22be41-f375-43a3-9958-9f948108cb5e_1200x1600-15577c5981b31bf797a3cb9a2e5cdf61",
+      "md5": "15577c5981b31bf797a3cb9a2e5cdf61",
+      "size": 901525,
+      "uploadedDate": "2021-06-01T17:03:49.980Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/1f4b3210-a376-4ded-8160-5e40edd69019_2560x1440-4d871bd3da016f0631d0131e73b392ed",
+      "md5": "4d871bd3da016f0631d0131e73b392ed",
+      "size": 971648,
+      "uploadedDate": "2021-06-01T17:04:04.289Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
   "items": [
