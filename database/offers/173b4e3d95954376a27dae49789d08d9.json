@@ -8,7 +8,7 @@
   "productSlug": "watch-dogs-legion/ultimate-edition",
   "urlSlug": "watchdogslegionultimateaudience",
   "creationDate": "2020-10-27T02:30:17.662Z",
-  "lastModifiedDate": "2021-06-02T20:55:16.208Z",
+  "lastModifiedDate": "2021-06-02T23:08:29.720Z",
   "effectiveDate": "2020-10-29T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -25,13 +25,10 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "bundles"
-    },
-    {
       "path": "games"
     },
     {
-      "path": "bundles/games"
+      "path": "games/edition"
     },
     {
       "path": "applications"

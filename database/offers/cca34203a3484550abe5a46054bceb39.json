@@ -8,7 +8,7 @@
   "productSlug": "watch-dogs-legion/gold-edition",
   "urlSlug": "watchdogslegiongoldaudience",
   "creationDate": "2020-10-27T02:20:36.547Z",
-  "lastModifiedDate": "2021-06-02T20:55:07.969Z",
+  "lastModifiedDate": "2021-06-02T23:07:13.300Z",
   "effectiveDate": "2020-10-29T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -31,7 +31,7 @@
       "path": "games"
     },
     {
-      "path": "bundles/games"
+      "path": "games/edition"
     },
     {
       "path": "applications"
