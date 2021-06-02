@@ -8,7 +8,7 @@
   "productSlug": "watch-dogs-legion/ultimate-edition",
   "urlSlug": "watchdogslegionultimateaudience",
   "creationDate": "2020-10-27T02:30:17.662Z",
-  "lastModifiedDate": "2020-10-29T15:19:18.306Z",
+  "lastModifiedDate": "2021-06-02T20:55:16.208Z",
   "effectiveDate": "2020-10-29T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -25,10 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "bundles"
+    },
+    {
       "path": "games"
     },
     {
-      "path": "games/edition"
+      "path": "bundles/games"
     },
     {
       "path": "applications"
@@ -76,6 +79,10 @@
     {
       "key": "com.epicgames.app.blacklist",
       "value": "CN,JP"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
     },
     {
       "key": "availableDate",
@@ -129,6 +136,9 @@
       "id": "13c200217cf44b9c83b9c5f4a1932eff"
     },
     {
+      "id": "1ce4e55cd01841ae90df7a51fb4420d4"
+    },
+    {
       "id": "89ca33783a0342579c41d5abb3d111cf"
     },
     {
@@ -145,6 +155,9 @@
     },
     {
       "id": "52fe48f721cc4137ac3f2e94e303435d"
+    },
+    {
+      "id": "0a023e68a68140419ed3fb7e29855cf0"
     },
     {
       "id": "e18e70614c4e41339cbddcfce2493d48"

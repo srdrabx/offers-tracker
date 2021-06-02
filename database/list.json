@@ -5628,13 +5628,14 @@
     "021c3558a62a47cca2715d42b2b65593",
     "Watch Dogs: Legion Ultimate Edition",
     [
+      "bundles",
       "games",
-      "games/edition",
+      "bundles/games",
       "applications"
     ],
     "Ubisoft Entertainment",
     1603765817,
-    1603984758,
+    1622667316,
     "https://cdn1.epicgames.com/021c3558a62a47cca2715d42b2b65593/offer/WDL_Ultimate-1200x1600-5bc6b7eee393cb6b987b11435646f3d5.jpg",
     "watch-dogs-legion/ultimate-edition"
   ],
@@ -12789,7 +12790,7 @@
     ],
     "Beetlewing",
     1617095745,
-    1621867309,
+    1622666379,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Slipways_Beetlewing_S2_1200x1600-c87cbafe764e5b18c2d5c0e5fd5015ff",
     "slipways"
   ],
@@ -36554,7 +36555,7 @@
     ],
     "Ubisoft Entertainment",
     1559574261,
-    1604068091,
+    1622667299,
     "https://cdn1.epicgames.com/0a84818055e740a7be21a2e5b6162703/offer/WatchDogs_Legion_Store_Portrait_1200x1600-1200x1600-a6b2d4cce489aeeb87bad4a6db168bed.jpg",
     "watch-dogs-legion"
   ],
@@ -49845,13 +49846,14 @@
     "a140ff4439624f99a32934a151a6d914",
     "Watch Dogs: Legion Gold Edition",
     [
+      "bundles",
       "games",
-      "games/edition",
+      "bundles/games",
       "applications"
     ],
     "Ubisoft Entertainment",
     1603765236,
-    1603983343,
+    1622667307,
     "https://cdn1.epicgames.com/a140ff4439624f99a32934a151a6d914/offer/WDL_GE_Store_Portrait_1200x1600-1200x1600-bef65c46e56cfc1deef0211857379cad.jpg",
     "watch-dogs-legion/gold-edition"
   ],
@@ -57255,7 +57257,7 @@
     ],
     "Ubisoft Entertainment",
     1549906223,
-    1589468400,
+    1622662527,
     "https://cdn1.epicgames.com/sundrop/offer/STANDARDHERO-2500x1406-18925359ecbf4bcb7e139341f425fb65.jpg",
     "for-honor/home"
   ],

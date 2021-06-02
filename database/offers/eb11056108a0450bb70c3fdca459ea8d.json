@@ -8,7 +8,7 @@
   "productSlug": "for-honor/home",
   "urlSlug": "sundropgeneralaudience",
   "creationDate": "2019-02-11T17:30:23.752Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
+  "lastModifiedDate": "2021-06-02T19:35:27.493Z",
   "effectiveDate": "2019-08-02T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -87,18 +87,6 @@
       "comment": null
     },
     {
-      "id": "14346",
-      "name": "Holiday Sale 2020",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2020-10-21T21:58:03.125Z",
-      "updated": "2021-01-07T16:00:15.373Z",
-      "status": "ACTIVE",
-      "referenceCount": 584,
-      "comment": ""
-    },
-    {
       "id": "9547",
       "name": "Windows",
       "namespace": "epic",
@@ -111,18 +99,6 @@
       "comment": null
     },
     {
-      "id": "16011",
-      "name": "Epic MEGA Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-04-27T08:10:34.554Z",
-      "updated": "2021-06-01T15:45:58.654Z",
-      "status": "ACTIVE",
-      "referenceCount": 741,
-      "comment": ""
-    },
-    {
       "id": "9549",
       "name": "Controller Support",
       "namespace": "epic",
@@ -133,18 +109,6 @@
       "status": "ACTIVE",
       "referenceCount": 103,
       "comment": null
-    },
-    {
-      "id": "15375",
-      "name": "Spring Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-03-10T09:37:21.403Z",
-      "updated": "2021-04-08T14:59:39.138Z",
-      "status": "ACTIVE",
-      "referenceCount": 618,
-      "comment": ""
     }
   ],
   "customAttributes": [
