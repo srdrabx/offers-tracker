@@ -1,0 +1,180 @@
+{
+  "id": "acc319019e974ec9a4af28530141d888",
+  "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+  "title": "Genshin Impact",
+  "description": "Genshin Impact",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "genshin-impact",
+  "urlSlug": "genshin-impact",
+  "creationDate": "2021-01-28T21:51:24.956Z",
+  "lastModifiedDate": "2021-06-02T04:11:28.074Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": "2021-06-02T13:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+    "name": "miHoYo Co., Ltd"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1203",
+      "name": "Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2021-02-10T17:35:33.537Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-12-15T01:46:33.012Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "Open World",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2021-02-10T17:34:58.080Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2021-02-10T17:35:47.790Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "miHoYo Limited"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "genshin-impact"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GenshinImpact_miHoYoLimited_S1_2560x1440-91c6cd7312cc2647c3ebccca10f30399",
+      "md5": "91c6cd7312cc2647c3ebccca10f30399",
+      "size": 997652,
+      "uploadedDate": "2021-05-17T18:20:38.903Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GenshinImpact_miHoYoLimited_S2_1200x1600-c12cdcc2cac330df2185aa58c508e820",
+      "md5": "c12cdcc2cac330df2185aa58c508e820",
+      "size": 796187,
+      "uploadedDate": "2021-05-17T18:20:42.038Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GenshinImpact_miHoYoLimited_S1_2560x1440-91c6cd7312cc2647c3ebccca10f30399",
+      "md5": "91c6cd7312cc2647c3ebccca10f30399",
+      "size": 997652,
+      "uploadedDate": "2021-05-17T18:20:45.391Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GenshinImpact_miHoYoLimited_S2_1200x1600-c12cdcc2cac330df2185aa58c508e820",
+      "md5": "c12cdcc2cac330df2185aa58c508e820",
+      "size": 796187,
+      "uploadedDate": "2021-05-17T18:20:48.303Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GenshinImpact_miHoYoLimited_S2_1200x1600-c12cdcc2cac330df2185aa58c508e820",
+      "md5": "c12cdcc2cac330df2185aa58c508e820",
+      "size": 796187,
+      "uploadedDate": "2021-05-17T18:20:51.267Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GenshinImpact_miHoYoLimited_S2_1200x1600-c12cdcc2cac330df2185aa58c508e820",
+      "md5": "c12cdcc2cac330df2185aa58c508e820",
+      "size": 796187,
+      "uploadedDate": "2021-05-17T18:20:53.944Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "9e81ef5caf374f89ad95b1cb782dbf3f"
+    }
+  ],
+  "catalogNs": {
+    "name": "879b0d8776ab46a59a129983ba78f0ce"
+  }
+}
