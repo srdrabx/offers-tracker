@@ -5,10 +5,10 @@
   "description": "King's Bounty II Lord's Edition Upgraded includes exclusive content",
   "longDescription": "King's Bounty II Lord's Edition Upgraded includes the following exclusive content:\n• Digital Artbook\n• Official Soundtrack\n• Rod of Deception \n• Frosthammer \n• Staff of Harmony \n• Tyrant's Sword \n• Armor of the Hollow\n• Heroes & Villains Premium Pack",
   "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "kings-bounty-ii--lords-edition-upgrade",
+  "productSlug": "kings-bounty-ii/lords-edition-upgraded",
+  "urlSlug": "kings-bounty-ii--lords-edition-upgraded",
   "creationDate": "2021-05-26T17:54:48.602Z",
-  "lastModifiedDate": "2021-06-02T16:01:22.134Z",
+  "lastModifiedDate": "2021-06-02T18:18:55.707Z",
   "effectiveDate": "2021-06-02T16:00:00.000Z",
   "viewableDate": "2021-06-02T16:00:00.000Z",
   "developer": null,
@@ -25,10 +25,10 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "addons"
+      "path": "games/edition"
     },
     {
-      "path": "addons/durable"
+      "path": "games"
     },
     {
       "path": "applications"
@@ -76,54 +76,13 @@
     {
       "key": "developerName",
       "value": "1C Entertainment"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "kings-bounty-ii/lords-edition-upgraded"
     }
   ],
   "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KingsBountyIILordsEditionUpgraded_1CEntertainment_Editions_S1_2560x1440-b5678304cfc56dbf2679090fb58f65de",
-      "md5": "b5678304cfc56dbf2679090fb58f65de",
-      "size": 587078,
-      "uploadedDate": "2021-05-25T00:12:11.820Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KingsBountyIILordsEditionUpgraded_1CEntertainment_Editions_S2_1200x1600-63e526fc2d7da1f74a8db94559c2edf0",
-      "md5": "63e526fc2d7da1f74a8db94559c2edf0",
-      "size": 505101,
-      "uploadedDate": "2021-05-25T00:12:15.244Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KingsBountyIILordsEditionUpgraded_1CEntertainment_Editions_S2_1200x1600-63e526fc2d7da1f74a8db94559c2edf0",
-      "md5": "63e526fc2d7da1f74a8db94559c2edf0",
-      "size": 505101,
-      "uploadedDate": "2021-05-25T00:12:18.363Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KingsBountyIILordsEditionUpgraded_1CEntertainment_Editions_S2_1200x1600-63e526fc2d7da1f74a8db94559c2edf0",
-      "md5": "63e526fc2d7da1f74a8db94559c2edf0",
-      "size": 505101,
-      "uploadedDate": "2021-05-25T00:12:21.741Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "ProductLogo",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KingsBountyIILordsEditionUpgraded_1CEntertainment_Editions_IC1_200x200-fba617c812fb4b6da222332405f734a4",
-      "md5": "fba617c812fb4b6da222332405f734a4",
-      "size": 45496,
-      "uploadedDate": "2021-05-26T17:18:02.434Z",
-      "width": 200,
-      "height": 200
-    },
     {
       "type": "GalleryImage",
       "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KingsBountyIILordsEditionUpgraded_1CEntertainment_Editions_G1A_03_1920x1080-1ec6940e8ec1de17db57d2951d1bad5a",
@@ -177,6 +136,51 @@
       "uploadedDate": "2021-05-26T17:20:16.588Z",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KingsBountyIILordsEditionUpgraded_1CEntertainment_Editions_IC1_200x200-8f847986eb5bb3038d764705da52122b",
+      "md5": "8f847986eb5bb3038d764705da52122b",
+      "size": 45673,
+      "uploadedDate": "2021-06-02T16:06:16.442Z",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KingsBountyIILordsEditionUpgraded_1CEntertainment_Editions_S1_2560x1440-9afd1ca4e3bc8d52274b65c046488a9e",
+      "md5": "9afd1ca4e3bc8d52274b65c046488a9e",
+      "size": 432476,
+      "uploadedDate": "2021-06-02T16:07:13.219Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KingsBountyIILordsEditionUpgraded_1CEntertainment_Editions_S2_1200x1600-11172229287bb43a5985217dd26f9f17",
+      "md5": "11172229287bb43a5985217dd26f9f17",
+      "size": 504667,
+      "uploadedDate": "2021-06-02T16:07:31.102Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KingsBountyIILordsEditionUpgraded_1CEntertainment_Editions_S2_1200x1600-11172229287bb43a5985217dd26f9f17",
+      "md5": "11172229287bb43a5985217dd26f9f17",
+      "size": 504667,
+      "uploadedDate": "2021-06-02T16:07:52.334Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KingsBountyIILordsEditionUpgraded_1CEntertainment_Editions_S2_1200x1600-11172229287bb43a5985217dd26f9f17",
+      "md5": "11172229287bb43a5985217dd26f9f17",
+      "size": 504667,
+      "uploadedDate": "2021-06-02T16:08:00.352Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [

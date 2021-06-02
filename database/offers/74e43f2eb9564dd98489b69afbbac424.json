@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "tropico-6--spitter",
   "creationDate": "2020-06-29T13:59:50.985Z",
-  "lastModifiedDate": "2021-02-11T15:21:28.037Z",
+  "lastModifiedDate": "2021-06-02T16:47:09.458Z",
   "effectiveDate": "2020-12-23T16:00:00.000Z",
   "viewableDate": "2020-12-23T16:00:00.000Z",
   "developer": null,
@@ -152,6 +152,15 @@
       "uploadedDate": "2020-11-16T20:38:27.260Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/1c874953-2a61-4b0c-98dd-024128584d31_200x108-047c415a4d7a4b0c07344dba1c147c1c",
+      "md5": "047c415a4d7a4b0c07344dba1c147c1c",
+      "size": 40219,
+      "uploadedDate": "2021-06-02T16:47:04.658Z",
+      "width": 200,
+      "height": 108
     }
   ],
   "items": [

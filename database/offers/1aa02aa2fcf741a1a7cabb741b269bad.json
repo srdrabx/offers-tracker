@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "tropico-6--llama-of-wall-street",
   "creationDate": "2020-06-29T14:02:38.614Z",
-  "lastModifiedDate": "2021-02-11T15:21:01.610Z",
+  "lastModifiedDate": "2021-06-02T16:44:45.757Z",
   "effectiveDate": "2020-12-23T16:00:00.000Z",
   "viewableDate": "2020-12-23T16:00:00.000Z",
   "developer": null,
@@ -152,6 +152,15 @@
       "uploadedDate": "2020-11-16T20:45:00.251Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/040ff6f5-7892-4baf-af38-deaa40e805ce_200x126-c11fc09c6ce36d2beac34e4688ce7b9d",
+      "md5": "c11fc09c6ce36d2beac34e4688ce7b9d",
+      "size": 46136,
+      "uploadedDate": "2021-06-02T16:44:22.211Z",
+      "width": 200,
+      "height": 126
     }
   ],
   "items": [

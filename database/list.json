@@ -6324,7 +6324,7 @@
     ],
     "Studio Wildcard",
     1589239886,
-    1622596848,
+    1622654419,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_ARKGenesisSeasonPass_StudioWildcard_SeasonPass_S2_1200x1600-4eb44319441ebbbecf3ad99af058bd65",
     "ark/genesis-season-pass"
   ],
@@ -6510,7 +6510,7 @@
     ],
     "Kalypso Media Group GmbH",
     1593439358,
-    1613056861,
+    1622652285,
     "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/offer/EGS_TheLlamaofWallStreet_LimbicEntertainment_DLC_S2-1200x1600-f7b732c53014e9cb978e96eaffefbeaf.jpg",
     ""
   ],
@@ -12310,7 +12310,7 @@
     ],
     "Koch Media",
     1621975351,
-    1622649658,
+    1622650382,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KingsBountyIILordsEdition_1CEntertainment_Editions_S2_1200x1600-d60658a282bb54a2529d72fdf656e73a",
     "kings-bounty-ii/lords-edition"
   ],
@@ -20556,15 +20556,15 @@
     "aa4742eef2744a41bdb3115cfeca8b89",
     "King's Bounty II Lord's Edition Upgraded ",
     [
-      "addons",
-      "addons/durable",
+      "games/edition",
+      "games",
       "applications"
     ],
     "Koch Media",
     1622051688,
-    1622649682,
-    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KingsBountyIILordsEditionUpgraded_1CEntertainment_Editions_S2_1200x1600-63e526fc2d7da1f74a8db94559c2edf0",
-    ""
+    1622657935,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KingsBountyIILordsEditionUpgraded_1CEntertainment_Editions_S2_1200x1600-11172229287bb43a5985217dd26f9f17",
+    "kings-bounty-ii/lords-edition-upgraded"
   ],
   [
     "54afda1bc17244deaff5a4f738becf72",
@@ -24697,7 +24697,7 @@
     ],
     "Koch Media",
     1621974996,
-    1622649631,
+    1622650320,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KingsBountyII_1CEntertainment_S2_1200x1600-93fd192261be8f0f0c7834f9de94eac9",
     "kings-bounty-ii"
   ],
@@ -28453,7 +28453,7 @@
     ],
     "Kalypso Media Group GmbH",
     1593439190,
-    1613056888,
+    1622652429,
     "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/offer/EGS_Spitter_LimbicEntertainment_DLC_S2-1200x1600-7572ab79f3e499fdc685004ce88fe53b.jpg",
     ""
   ],
@@ -45337,7 +45337,7 @@
     ],
     "Kalypso Media Group GmbH",
     1606913861,
-    1613056969,
+    1622652178,
     "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/offer/EGS_CarribeanSkies_RealmforgeStudios_DLC_S2-1200x1600-38235b5b247b395b9f82642cbb7ff840.jpg",
     ""
   ],
@@ -51323,7 +51323,7 @@
     ],
     "Kalypso Media Group GmbH",
     1593439324,
-    1613056913,
+    1622651994,
     "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/offer/EGS_Lobbyistico_LimbicEntertainment_DLC_S2-1200x1600-05a54dc41b1e7fba4b37f3aeb147eda8.jpg",
     ""
   ],
