@@ -11655,6 +11655,20 @@
     "godfall/ascended-edition"
   ],
   [
+    "30361b9807be4427ad25ef1b1d1fa7a5",
+    "6af58339c2424644988e0fb83dfd9bd5",
+    "Fleetwood Mac - \"Dreams\"",
+    [
+      "addons",
+      "addons/durable"
+    ],
+    "NCSoft",
+    1618961743,
+    1622736095,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FleetwoodMacDreams_HarmonixMusicSystemsInc_DLC_S2_1200x1600-a11d5eec861b10a9e1443dd2813f9416",
+    ""
+  ],
+  [
     "30396ded6d954d2db6baf9358c6565ff",
     "cd14dcaa4f3443f19f7169a980559c62",
     "KingletKhmerIndonesiaStaging",
@@ -12586,6 +12600,20 @@
     1588120702,
     "",
     "the-escapists/home"
+  ],
+  [
+    "33b1ff7eb5a84cb9ab97367daa657a2a",
+    "6af58339c2424644988e0fb83dfd9bd5",
+    "Daryl Hall & John Oates - \"Maneater\"",
+    [
+      "addons",
+      "addons/durable"
+    ],
+    "NCSoft",
+    1618961782,
+    1622736095,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DarylHallJohnOatesManeater_HarmonixMusicSystemsInc_DLC_S2_1200x1600-5fd8b501e3f33addb9abc152ad64ec02",
+    ""
   ],
   [
     "33b9ff6ba85b4b82a5b5f9b7b2bd8716",
@@ -50236,14 +50264,12 @@
     "d5241c76f178492ea1540fce45616757",
     "NBA 2K21",
     [
-      "freegames/vaulted",
-      "freegames",
       "games",
       "applications"
     ],
     "Epic Dev Test Account",
     1620857302,
-    1621524487,
+    1622733243,
     "",
     "nba-2k21"
   ],
@@ -60499,6 +60525,20 @@
     "farming-simulator-19/anderson-group-equipment-pack"
   ],
   [
+    "f7e52b854d3047c387ee391625b434ef",
+    "6af58339c2424644988e0fb83dfd9bd5",
+    "Cap’n Spicy Dill - \"Soon May The Wellerman Come\"",
+    [
+      "addons",
+      "addons/durable"
+    ],
+    "NCSoft",
+    1618961816,
+    1622736095,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CapnSpicyDillSoonMayTheWellermanCome_HarmonixMusicSystemsInc_DLC_S2_1200x1600-7c75c44d2bd04d34eba005db463b1f67",
+    ""
+  ],
+  [
     "f7e60790188248b2add20279fb905568",
     "ca4058f18b0a4a9e9e2ccc28f7f33000",
     "A Woman's Lot",
@@ -61591,14 +61631,12 @@
     "d5241c76f178492ea1540fce45616757",
     "Among Us",
     [
-      "freegames/vaulted",
-      "freegames",
       "games",
       "applications"
     ],
     "Epic Dev Test Account",
     1620857673,
-    1622124893,
+    1622733253,
     "",
     "among-us"
   ],
