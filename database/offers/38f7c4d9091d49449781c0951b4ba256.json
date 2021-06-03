@@ -1,16 +1,16 @@
 {
-  "id": "b43c1e1e0ca14b6784b323c59c751136",
+  "id": "38f7c4d9091d49449781c0951b4ba256",
   "namespace": "d5241c76f178492ea1540fce45616757",
-  "title": "Frostpunk",
-  "description": "Frostpunk",
+  "title": "Mystery Game",
+  "description": "Mystery Game ",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "frostpunk",
-  "urlSlug": "free-games-06",
-  "creationDate": "2021-05-12T22:15:47.196Z",
-  "lastModifiedDate": "2021-06-03T14:25:37.154Z",
+  "productSlug": "[]",
+  "urlSlug": "free-games-07",
+  "creationDate": "2021-05-12T22:17:34.473Z",
+  "lastModifiedDate": "2021-06-03T14:25:37.133Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": "2021-05-27T14:25:00.000Z",
+  "viewableDate": "2021-06-03T14:25:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
@@ -49,11 +49,11 @@
     },
     {
       "key": "com.epicgames.app.freegames.vault.slug",
-      "value": "news/the-epic-mega-sale-returns-for-2021"
+      "value": "free-games"
     },
     {
       "key": "publisherName",
-      "value": "11 bit studios"
+      "value": "[]"
     },
     {
       "key": "dupe",
@@ -65,11 +65,11 @@
     },
     {
       "key": "developerName",
-      "value": "11 bit studios"
+      "value": "[]"
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "frostpunk"
+      "value": "[]"
     }
   ],
   "keyImages": [
@@ -81,24 +81,6 @@
       "uploadedDate": "2020-05-05T15:58:33.054Z",
       "width": 1920,
       "height": 1080
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Frostpunk_wide_2560x1440-ef2f4d458120af0839dde35b1a022828",
-      "md5": "ef2f4d458120af0839dde35b1a022828",
-      "size": 890477,
-      "uploadedDate": "2021-06-02T17:45:13.776Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Frostpunk_Tall_1200x1600-c71dc27cfe505c6c662c49011b36a0c5",
-      "md5": "c71dc27cfe505c6c662c49011b36a0c5",
-      "size": 835884,
-      "uploadedDate": "2021-06-02T17:45:24.887Z",
-      "width": 1200,
-      "height": 1600
     }
   ],
   "items": [

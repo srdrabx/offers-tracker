@@ -5753,6 +5753,21 @@
     ""
   ],
   [
+    "17af1760bdca4c46babf4af85bb44e0a",
+    "be886d9db65047a89b24cd4317695f18",
+    "Frostpunk: The Rifts",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "11 Bit Studios",
+    1620926334,
+    1622731101,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FrostpunkTheRifts_11bitstudios_DLC_S2_1200x1600-dba8c49d170b7cd228163a29bfe6a458",
+    ""
+  ],
+  [
     "17b5b8a36adb4fdf876eea5e5eeab3e1",
     "ad2a1760f21a4df6aa597fc4b58ac719",
     "3 Out of 10: Season One",
@@ -7062,6 +7077,22 @@
     1597068408,
     "",
     ""
+  ],
+  [
+    "1d43b9f055f846f38413d036f0cc2a04",
+    "be886d9db65047a89b24cd4317695f18",
+    "Frostpunk",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "11 Bit Studios",
+    1568311990,
+    1622731101,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Frostpunk_11bitstudios_S2_1200x1600-c71dc27cfe505c6c662c49011b36a0c5",
+    "frostpunk"
   ],
   [
     "1d504a1511374f5fbca5a891dd3f6703",
@@ -9557,6 +9588,21 @@
     1613086571,
     "https://cdn1.epicgames.com/c749cd78da34408d8434a46271f4bb79/offer/EGS_Saturnalia_SantaRagionesrl_S1-2560x1440-62a841e178df1331230c2f8ed09087fa.jpg",
     "saturnalia/home"
+  ],
+  [
+    "27800876436140b1803e2656e14ab0e6",
+    "be886d9db65047a89b24cd4317695f18",
+    "Frostpunk Original Soundtrack",
+    [
+      "digitalextras",
+      "digitalextras/soundtrack",
+      "applications"
+    ],
+    "11 Bit Studios",
+    1620926724,
+    1622731101,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FrostpunkOriginalSoundtrack_11bitstudios_DigitalExtras_S2_1200x1600-0e8126cc502990caa734e262fd6087e0",
+    ""
   ],
   [
     "2784b5dce2e4495790e5d895b7575ba2",
@@ -13749,6 +13795,22 @@
     1622044415,
     "https://cdn1.epicgames.com/b30b6d1b4dfd4dcc93b5490be5e094e5/offer/RDO_Standalone_EGS_PortraitProductImage_1200x1600_Deliverable-1200x1600-b59e0f9eaa6ef53e8e4e62515aabadc2.jpg",
     "red-dead-redemption-2/red-dead-online"
+  ],
+  [
+    "38f7c4d9091d49449781c0951b4ba256",
+    "d5241c76f178492ea1540fce45616757",
+    "Mystery Game",
+    [
+      "freegames/vaulted",
+      "freegames",
+      "games",
+      "applications"
+    ],
+    "Epic Dev Test Account",
+    1620857854,
+    1622730337,
+    "",
+    "[]"
   ],
   [
     "38fa1647ce8b43b29071239f37a908d5",
@@ -21601,6 +21663,21 @@
     1620231341,
     1620825306,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheHandofMerlinSoundtrack_RoomCGames_DigitalExtras_S2_1200x1600-be487621de0af97d0e8c923d6370ba38",
+    ""
+  ],
+  [
+    "58d560411d54460f8f0aabcd5dd28166",
+    "be886d9db65047a89b24cd4317695f18",
+    "Frostpunk: The Last Autumn",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "11 Bit Studios",
+    1620926444,
+    1622731101,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FrostpunkTheLastAutumn_11bitstudios_DLC_S2_1200x1600-506f61afa4c86e06735f44eede65db99",
     ""
   ],
   [
@@ -44261,7 +44338,7 @@
   [
     "b43c1e1e0ca14b6784b323c59c751136",
     "d5241c76f178492ea1540fce45616757",
-    "Mystery Game",
+    "Frostpunk",
     [
       "freegames/vaulted",
       "freegames",
@@ -44270,9 +44347,9 @@
     ],
     "Epic Dev Test Account",
     1620857747,
-    1622125035,
+    1622730337,
     "",
-    "[]"
+    "frostpunk"
   ],
   [
     "b4549b0a846e4fa289f87b48007fc42e",
@@ -49136,6 +49213,21 @@
     ""
   ],
   [
+    "c97096387eca4edb8c0f55bc29cead64",
+    "be886d9db65047a89b24cd4317695f18",
+    "Frostpunk: Game of The Year Edition",
+    [
+      "games/edition",
+      "games",
+      "applications"
+    ],
+    "11 Bit Studios",
+    1620926804,
+    1622731101,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FrostpunkGameofTheYearEdition_11bitstudios_Bundles_S2_1200x1600-343a02267cdb6c24474d1428bf6a6a32",
+    "frostpunk--game-of-the-year-edition"
+  ],
+  [
     "c97c99cb46a244db9447cfaf60e0ec3b",
     "06a97980aac14fdfb914ef603a113792",
     "Star Trek Online",
@@ -49895,6 +49987,21 @@
     1535449998,
     1539758375,
     "",
+    ""
+  ],
+  [
+    "ccd2e165c278497ab457a9035a661482",
+    "be886d9db65047a89b24cd4317695f18",
+    "Frostpunk: On The Edge",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "11 Bit Studios",
+    1620926655,
+    1622731101,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FrostpunkOnTheEdge_11bitstudios_DLC_S2_1200x1600-d487264d472d11d5e5ae85fd95d7fcfd",
     ""
   ],
   [
@@ -55074,6 +55181,22 @@
     ""
   ],
   [
+    "e2c18d2b73d0430db184019913c1e10f",
+    "ca93b6d41a4e41af864942d8f0a2a826",
+    "UNO® 50th Anniversary DLC",
+    [
+      "addons",
+      "games",
+      "addons/durable",
+      "applications"
+    ],
+    "Ubisoft Entertainment",
+    1622585630,
+    1622731102,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/UNO_50ANNIVERSARY_EPIC_Store Portrait_1200x1600_1200x1600-b11a111f1846ec9ae58433d9c8eb138c",
+    ""
+  ],
+  [
     "e2cfd82210fc4aa0b663cd18c4b626ff",
     "ed55aa5edc5941de92fd7f64de415793",
     "HITMAN 3 Deluxe Edition",
@@ -57889,6 +58012,21 @@
     1603721204,
     1613070742,
     "",
+    ""
+  ],
+  [
+    "ed6dc23f78ca4db28ccd482081462d0e",
+    "be886d9db65047a89b24cd4317695f18",
+    "Frostpunk Expansions Original Soundtrack",
+    [
+      "digitalextras",
+      "digitalextras/soundtrack",
+      "applications"
+    ],
+    "11 Bit Studios",
+    1621264087,
+    1622731101,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FrostpunkExpansionsOriginalSoundtrack_11bitstudios_DigitalExtras_S2_1200x1600-94674aca05b6a17d4d34733c5e335172",
     ""
   ],
   [
@@ -61432,6 +61570,21 @@
     1588120702,
     "",
     "donut-county/home"
+  ],
+  [
+    "fbb8db52b81346b3a4933586cfe00e64",
+    "be886d9db65047a89b24cd4317695f18",
+    "Frostpunk: Season Pass",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "11 Bit Studios",
+    1620926763,
+    1622731101,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FrostpunkSeasonPass_11bitstudios_SeasonPass_S2_1200x1600-590e382fee002fbbb9f799e52d3c3626",
+    ""
   ],
   [
     "fbb91316b03e42d7950d02959fbbe29d",
