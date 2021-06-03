@@ -1,0 +1,172 @@
+{
+  "id": "5392c4fea272405db7202b885f0dcfb6",
+  "namespace": "ab7e605d8d734d3ab48a243c51ca5b8e",
+  "title": "Warhammer 40,000: Chaos Gate - Daemonhunters",
+  "description": "Warhammer 40,000: Chaos Gate - Daemonhunters",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "warhammer-40000-chaos-gate-daemonhunters",
+  "urlSlug": "glaucous-general-audience",
+  "creationDate": "2021-05-26T18:04:54.125Z",
+  "lastModifiedDate": "2021-06-03T14:42:05.215Z",
+  "effectiveDate": "2099-02-01T00:00:00.000Z",
+  "viewableDate": "2021-06-03T17:30:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-mlnjydnrxlmer2ducb6u6ngznq25mx",
+    "name": "Frontier Developments"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-12-15T01:46:33.012Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "Strategy",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2021-02-10T17:35:11.878Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Frontier Foundry"
+    },
+    {
+      "key": "developerName",
+      "value": "Complex Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "warhammer-40000-chaos-gate-daemonhunters"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/628dca02-6ade-4bcc-a913-4360f8d0ae1b_2560x1440-a83b382c32f9a0ccc57dc0acb2db3c0b",
+      "md5": "a83b382c32f9a0ccc57dc0acb2db3c0b",
+      "size": 1039929,
+      "uploadedDate": "2021-06-02T20:28:37.193Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/a1bb9c0c-74fb-4939-9350-3da9b5f3e9a5_1200x1600-7332dbf10393d78def58fe83b897f985",
+      "md5": "7332dbf10393d78def58fe83b897f985",
+      "size": 644050,
+      "uploadedDate": "2021-06-02T20:28:42.611Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/a1bb9c0c-74fb-4939-9350-3da9b5f3e9a5_1200x1600-7332dbf10393d78def58fe83b897f985",
+      "md5": "7332dbf10393d78def58fe83b897f985",
+      "size": 644050,
+      "uploadedDate": "2021-06-02T20:28:50.421Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/a1bb9c0c-74fb-4939-9350-3da9b5f3e9a5_1200x1600-7332dbf10393d78def58fe83b897f985",
+      "md5": "7332dbf10393d78def58fe83b897f985",
+      "size": 644050,
+      "uploadedDate": "2021-06-02T20:28:56.578Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/628dca02-6ade-4bcc-a913-4360f8d0ae1b_2560x1440-a83b382c32f9a0ccc57dc0acb2db3c0b",
+      "md5": "a83b382c32f9a0ccc57dc0acb2db3c0b",
+      "size": 1039929,
+      "uploadedDate": "2021-06-02T20:29:04.127Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/a1bb9c0c-74fb-4939-9350-3da9b5f3e9a5_1200x1600-7332dbf10393d78def58fe83b897f985",
+      "md5": "7332dbf10393d78def58fe83b897f985",
+      "size": 644050,
+      "uploadedDate": "2021-06-02T20:29:13.938Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "7be0ceadd624487c82cc4554579b77b6"
+    }
+  ],
+  "catalogNs": {
+    "name": "ab7e605d8d734d3ab48a243c51ca5b8e"
+  }
+}

@@ -5763,7 +5763,7 @@
     ],
     "11 Bit Studios",
     1620926334,
-    1622731101,
+    1622744017,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FrostpunkTheRifts_11bitstudios_DLC_S2_1200x1600-dba8c49d170b7cd228163a29bfe6a458",
     ""
   ],
@@ -11664,7 +11664,7 @@
     ],
     "NCSoft",
     1618961743,
-    1622736095,
+    1622736798,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FleetwoodMacDreams_HarmonixMusicSystemsInc_DLC_S2_1200x1600-a11d5eec861b10a9e1443dd2813f9416",
     ""
   ],
@@ -12611,7 +12611,7 @@
     ],
     "NCSoft",
     1618961782,
-    1622736095,
+    1622736798,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DarylHallJohnOatesManeater_HarmonixMusicSystemsInc_DLC_S2_1200x1600-5fd8b501e3f33addb9abc152ad64ec02",
     ""
   ],
@@ -19347,6 +19347,21 @@
     ""
   ],
   [
+    "4ebe1b0abe704724b33c299b14862273",
+    "0d89655f53884b09b241b60c07e684af",
+    "Warhammer 40,000: Gladius - Specialist Pack",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Slitherine Software UK Ltd.",
+    1622150825,
+    1622736314,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Warhammer40000GladiusSpecialistPack_ProxyStudios_DLC_S2_1200x1600-0f1bea6c78bbaa3110de133f44c66a44",
+    ""
+  ],
+  [
     "4ec1862e3c9c477aa737b4aae9a7fe6e",
     "244aaaa06bfa49d088205b13b9d2d115",
     "Warframe: Prime Vault – Chroma Prime Pack",
@@ -20377,6 +20392,22 @@
     1620140101,
     "https://cdn1.epicgames.com/3db17abfd650423f993291624b1b2ac1/offer/tall-1200x1600-bba05a724e82bc7fb2b2b2dc2224d83b.jpg",
     ""
+  ],
+  [
+    "5392c4fea272405db7202b885f0dcfb6",
+    "ab7e605d8d734d3ab48a243c51ca5b8e",
+    "Warhammer 40,000: Chaos Gate - Daemonhunters",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Frontier Developments",
+    1622052294,
+    1622731325,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/a1bb9c0c-74fb-4939-9350-3da9b5f3e9a5_1200x1600-7332dbf10393d78def58fe83b897f985",
+    "warhammer-40000-chaos-gate-daemonhunters"
   ],
   [
     "53aaffd9b8b44020932b4a5759db1781",
@@ -21704,7 +21735,7 @@
     ],
     "11 Bit Studios",
     1620926444,
-    1622731101,
+    1622744139,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FrostpunkTheLastAutumn_11bitstudios_DLC_S2_1200x1600-506f61afa4c86e06735f44eede65db99",
     ""
   ],
@@ -50028,7 +50059,7 @@
     ],
     "11 Bit Studios",
     1620926655,
-    1622731101,
+    1622744047,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FrostpunkOnTheEdge_11bitstudios_DLC_S2_1200x1600-d487264d472d11d5e5ae85fd95d7fcfd",
     ""
   ],
@@ -60534,7 +60565,7 @@
     ],
     "NCSoft",
     1618961816,
-    1622736095,
+    1622736798,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CapnSpicyDillSoonMayTheWellermanCome_HarmonixMusicSystemsInc_DLC_S2_1200x1600-7c75c44d2bd04d34eba005db463b1f67",
     ""
   ],
@@ -61622,7 +61653,7 @@
     ],
     "11 Bit Studios",
     1620926763,
-    1622731101,
+    1622744156,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FrostpunkSeasonPass_11bitstudios_SeasonPass_S2_1200x1600-590e382fee002fbbb9f799e52d3c3626",
     ""
   ],
