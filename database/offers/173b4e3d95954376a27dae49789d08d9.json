@@ -5,10 +5,10 @@
   "description": "Watch Dogs: Legion Ultimate Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "watch-dogs-legion/ultimate-edition",
+  "productSlug": "watch-dogs-legion-ultimate-edition",
   "urlSlug": "watchdogslegionultimateaudience",
   "creationDate": "2020-10-27T02:30:17.662Z",
-  "lastModifiedDate": "2021-06-02T23:08:29.720Z",
+  "lastModifiedDate": "2021-06-04T01:01:16.730Z",
   "effectiveDate": "2020-10-29T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -25,10 +25,10 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "bundles"
     },
     {
-      "path": "games/edition"
+      "path": "bundles/games"
     },
     {
       "path": "applications"
@@ -78,16 +78,8 @@
       "value": "CN,JP"
     },
     {
-      "key": "isPrepurchase",
-      "value": "true"
-    },
-    {
-      "key": "availableDate",
-      "value": "1609473600"
-    },
-    {
       "key": "com.epicgames.app.productSlug",
-      "value": "watch-dogs-legion/ultimate-edition"
+      "value": "watch-dogs-legion-ultimate-edition"
     }
   ],
   "keyImages": [

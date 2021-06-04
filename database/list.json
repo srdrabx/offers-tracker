@@ -5628,15 +5628,15 @@
     "021c3558a62a47cca2715d42b2b65593",
     "Watch Dogs: Legion Ultimate Edition",
     [
-      "games",
-      "games/edition",
+      "bundles",
+      "bundles/games",
       "applications"
     ],
     "Ubisoft Entertainment",
     1603765817,
-    1622675309,
+    1622768476,
     "https://cdn1.epicgames.com/021c3558a62a47cca2715d42b2b65593/offer/WDL_Ultimate-1200x1600-5bc6b7eee393cb6b987b11435646f3d5.jpg",
-    "watch-dogs-legion/ultimate-edition"
+    "watch-dogs-legion-ultimate-edition"
   ],
   [
     "174176c906464d30a8fb633cc7979682",
@@ -50026,15 +50026,14 @@
     "Watch Dogs: Legion Gold Edition",
     [
       "bundles",
-      "games",
-      "games/edition",
+      "bundles/games",
       "applications"
     ],
     "Ubisoft Entertainment",
     1603765236,
-    1622675233,
+    1622768456,
     "https://cdn1.epicgames.com/a140ff4439624f99a32934a151a6d914/offer/WDL_GE_Store_Portrait_1200x1600-1200x1600-bef65c46e56cfc1deef0211857379cad.jpg",
-    "watch-dogs-legion/gold-edition"
+    "watch-dogs-legion-gold-edition"
   ],
   [
     "cca72ba0ab864f289b617a7ddc0989a4",
