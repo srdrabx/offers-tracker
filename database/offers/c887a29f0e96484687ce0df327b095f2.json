@@ -8,7 +8,7 @@
   "productSlug": "rogue-company/deadly-apparition-starter-pack",
   "urlSlug": "rogue-company--deadly-apparition-starter-pack",
   "creationDate": "2020-10-13T02:36:53.124Z",
-  "lastModifiedDate": "2021-05-25T15:40:07.464Z",
+  "lastModifiedDate": "2021-06-04T20:21:43.568Z",
   "effectiveDate": "2020-11-23T13:00:00.000Z",
   "viewableDate": "2021-05-27T15:00:00.000Z",
   "developer": null,
@@ -35,78 +35,12 @@
     }
   ],
   "tags": [
-    {
-      "id": "1216",
-      "name": "Action",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2021-02-10T17:36:19.203Z",
-      "status": "ACTIVE",
-      "referenceCount": 110,
-      "comment": null
-    },
-    {
-      "id": "1264",
-      "name": "Co-op",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.700Z",
-      "updated": "2021-02-10T17:34:35.309Z",
-      "status": "ACTIVE",
-      "referenceCount": 27,
-      "comment": null
-    },
-    {
-      "id": "1210",
-      "name": "Shooter",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:02.690Z",
-      "updated": "2021-02-10T17:34:46.127Z",
-      "status": "ACTIVE",
-      "referenceCount": 28,
-      "comment": null
-    },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2021-02-10T17:36:35.389Z",
-      "status": "ACTIVE",
-      "referenceCount": 195,
-      "comment": null
-    },
-    {
-      "id": "1115",
-      "name": "Strategy",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2021-02-10T17:35:11.878Z",
-      "status": "ACTIVE",
-      "referenceCount": 33,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2021-02-05T16:07:21.852Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    }
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
   ],
   "customAttributes": [
     {
@@ -176,6 +110,15 @@
       "uploadedDate": "2020-12-14T16:36:08.795Z",
       "width": 2560,
       "height": 1440
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/RoCo-Logo-200x200_200x200-a138278c780c6459299b0ee637d9af1f",
+      "md5": "a138278c780c6459299b0ee637d9af1f",
+      "size": 11931,
+      "uploadedDate": "2021-06-04T20:21:39.556Z",
+      "width": 200,
+      "height": 200
     }
   ],
   "items": [
@@ -187,6 +130,6 @@
     }
   ],
   "catalogNs": {
-    "name": "933ada2ec45e4184ae840d64c99e0ba9"
+    "name": null
   }
 }

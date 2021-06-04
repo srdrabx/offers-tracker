@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "rogue-company--season-2-starter-pack",
   "creationDate": "2021-03-31T22:10:57.041Z",
-  "lastModifiedDate": "2021-05-11T11:23:14.126Z",
+  "lastModifiedDate": "2021-06-04T20:23:10.413Z",
   "effectiveDate": "2021-05-11T11:00:00.000Z",
   "viewableDate": "2021-05-11T11:00:00.000Z",
   "developer": null,
@@ -85,6 +85,15 @@
       "uploadedDate": "2021-04-22T23:24:08.861Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/RoCo-Logo-200x200_200x200-a138278c780c6459299b0ee637d9af1f",
+      "md5": "a138278c780c6459299b0ee637d9af1f",
+      "size": 11931,
+      "uploadedDate": "2021-06-04T20:23:07.332Z",
+      "width": 200,
+      "height": 200
     }
   ],
   "items": [
@@ -96,6 +105,6 @@
     }
   ],
   "catalogNs": {
-    "name": "933ada2ec45e4184ae840d64c99e0ba9"
+    "name": null
   }
 }

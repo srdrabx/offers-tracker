@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "rogue-company--year-one-pass",
   "creationDate": "2021-01-11T20:48:21.383Z",
-  "lastModifiedDate": "2021-05-11T11:07:22.795Z",
+  "lastModifiedDate": "2021-06-04T20:22:17.501Z",
   "effectiveDate": "2021-02-03T12:00:00.000Z",
   "viewableDate": "2021-02-03T12:00:00.000Z",
   "developer": null,
@@ -32,18 +32,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "16011",
-      "name": "Epic MEGA Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-04-27T08:10:34.554Z",
-      "updated": "2021-06-01T15:45:58.654Z",
-      "status": "ACTIVE",
-      "referenceCount": 741,
-      "comment": ""
-    }
+    null
   ],
   "customAttributes": [
     {
@@ -95,6 +84,15 @@
       "uploadedDate": "2021-05-06T23:35:05.710Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Year1Pass-Logo-200x200_200x200-67d584b1aef6e14a70caf4bc2fb120f3",
+      "md5": "67d584b1aef6e14a70caf4bc2fb120f3",
+      "size": 17434,
+      "uploadedDate": "2021-06-04T20:22:13.689Z",
+      "width": 200,
+      "height": 200
     }
   ],
   "items": [
@@ -106,6 +104,6 @@
     }
   ],
   "catalogNs": {
-    "name": "933ada2ec45e4184ae840d64c99e0ba9"
+    "name": null
   }
 }

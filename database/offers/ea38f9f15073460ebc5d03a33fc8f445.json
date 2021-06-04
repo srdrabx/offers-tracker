@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "rogue-company--rogue-edition",
   "creationDate": "2021-01-11T20:51:07.160Z",
-  "lastModifiedDate": "2021-02-03T05:50:36.658Z",
+  "lastModifiedDate": "2021-06-04T20:22:38.420Z",
   "effectiveDate": "2021-02-03T12:00:00.000Z",
   "viewableDate": "2021-02-03T12:00:00.000Z",
   "developer": null,
@@ -32,18 +32,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "16011",
-      "name": "Epic MEGA Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-04-27T08:10:34.554Z",
-      "updated": "2021-06-01T15:45:58.654Z",
-      "status": "ACTIVE",
-      "referenceCount": 741,
-      "comment": ""
-    }
+    null
   ],
   "customAttributes": [
     {
@@ -95,6 +84,15 @@
       "uploadedDate": "2021-02-03T00:28:41.658Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/RogueEdition-Logo-200x200_200x200-029957bc2010923004a644c124a092e8",
+      "md5": "029957bc2010923004a644c124a092e8",
+      "size": 12331,
+      "uploadedDate": "2021-06-04T20:22:35.271Z",
+      "width": 200,
+      "height": 200
     }
   ],
   "items": [
@@ -106,6 +104,6 @@
     }
   ],
   "catalogNs": {
-    "name": "933ada2ec45e4184ae840d64c99e0ba9"
+    "name": null
   }
 }
