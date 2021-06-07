@@ -5,10 +5,10 @@
   "description": "Dress Code includes over 80 new cosmetics to choose from so you're looking fresh, funky, or freaky!",
   "longDescription": "Dress Code includes over 80 new cosmetics to choose from so you're looking fresh, funky, or freaky!\n\nStay fashionable with new shirts, pants, hats, hair, lips, and so much more!",
   "status": "ACTIVE",
-  "productSlug": "totally-reliable-delivery-service/dress-code",
+  "productSlug": null,
   "urlSlug": "totally-reliable-delivery-service--dress-code",
   "creationDate": "2020-03-02T14:43:47.138Z",
-  "lastModifiedDate": "2020-07-31T02:48:44.813Z",
+  "lastModifiedDate": "2021-06-07T22:35:32.518Z",
   "effectiveDate": "2020-04-01T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -87,10 +87,6 @@
     {
       "key": "developerName",
       "value": "We're Five Games"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "totally-reliable-delivery-service/dress-code"
     }
   ],
   "keyImages": [

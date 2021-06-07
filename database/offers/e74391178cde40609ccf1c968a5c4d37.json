@@ -5,10 +5,10 @@
   "description": "Official Industries of Titan work-in-progress soundtrack from composer Danny Baranowsky featuring DRM-free tracks updated throughout development.",
   "longDescription": "Hey Founder, we just got this audio transmission — Danny Baranowsky's album that he'll update throughout development. He's included MP3 and FLAC, but with the download speeds on the spaceport? Yeah, I can't get you all the formats straight away.\n\nThe readme.txt said he'll send the release version of the tracks once they're finished to anyone who downloads this. Pretty neat, huh?\n\nI already gave them a listen — I think you're gonna love them!\n\n- Urlan Fletch, Spaceport Operator\n",
   "status": "ACTIVE",
-  "productSlug": "industries-of-titan/under-construction-ost",
+  "productSlug": null,
   "urlSlug": "industries-of-titan--under-construction-ost",
   "creationDate": "2020-04-13T18:49:24.859Z",
-  "lastModifiedDate": "2020-08-04T20:25:17.086Z",
+  "lastModifiedDate": "2021-06-07T23:01:31.362Z",
   "effectiveDate": "2020-07-07T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -107,10 +107,6 @@
     {
       "key": "developerName",
       "value": "Brace Yourself Games"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "industries-of-titan/under-construction-ost"
     }
   ],
   "keyImages": [
