@@ -5,10 +5,10 @@
   "description": "Explore SnowRunner in style with the unique Scorched Vinyl Wrap for the Chevrolet CK 1500. \nThis custom skin is included for all Year 1 Pass owners.",
   "longDescription": "Explore SnowRunner in style with the unique Scorched Vinyl Wrap for the Chevrolet CK 1500. \n\nThe Scorched Vinyl Wrap adds a fiery burst look to the Chevrolet CK 1500.\n\nThis custom skin is included for all Year 1 Pass owners.",
   "status": "ACTIVE",
-  "productSlug": "snowrunner/scorched-vinyl-wrap",
+  "productSlug": null,
   "urlSlug": "snowrunner--scorched-vinyl-wrap",
   "creationDate": "2020-03-19T17:55:46.487Z",
-  "lastModifiedDate": "2021-05-18T00:25:52.174Z",
+  "lastModifiedDate": "2021-06-07T21:36:05.819Z",
   "effectiveDate": "2020-04-27T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -99,10 +99,6 @@
     {
       "key": "developerName",
       "value": "Saber Interactive"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "snowrunner/scorched-vinyl-wrap"
     }
   ],
   "keyImages": [

@@ -5,10 +5,10 @@
   "description": "Bring the spirit of the holidays to Anno™ 1800 with this new cosmetic DLC pack, which includes 23 new ornaments that allow you to decorate your cities in festive style.",
   "longDescription": "The Anno 1800™: Holiday Ornament Pack gives players a range of cosmetic ornaments to turn their industrial cities into a holiday wonderland:\n\nA festive carousel, including fan favorite vehicles from the game.\n\nTwo Christmas trees, to fit the occasion.\n\nSanta’s Grotto, giving your citizens a chance to share their wish lists.\n\nThree different markets stalls for your very own Christmas market.\n\nA jolly hoard of Christmas presents.\n\nTwo festively ornamented street lanterns.\n\nAn appropriately wintery snowman ornament.\n\nA decorated hedge system with six tiles.\n\nA decorated fence system with six tiles.",
   "status": "ACTIVE",
-  "productSlug": "anno-1800/holiday-pack",
+  "productSlug": null,
   "urlSlug": "anno-1800--holiday-pack",
   "creationDate": "2019-12-07T00:13:45.572Z",
-  "lastModifiedDate": "2021-05-22T04:20:18.574Z",
+  "lastModifiedDate": "2021-06-07T20:30:13.562Z",
   "effectiveDate": "2019-12-10T17:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -52,10 +52,6 @@
     {
       "key": "com.epicgames.app.blacklist",
       "value": "CN"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "anno-1800/holiday-pack"
     }
   ],
   "keyImages": [

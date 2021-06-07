@@ -5,10 +5,10 @@
   "description": "Gear up for your next mission with the Deadly Apparition Starter Pack.  This Pack Contains: - 600 Rogue Bucks - Deadly Apparition Phantom Outfit - Star-stuff Primary Weapon Wrap",
   "longDescription": "Gear up for your next mission with the Deadly Apparition Starter Pack.\n\nThis Pack Contains:\n- 600 Rogue Bucks\n- Deadly Apparition Phantom Outfit\n- Star-stuff Primary Weapon Wrap",
   "status": "ACTIVE",
-  "productSlug": "rogue-company/deadly-apparition-starter-pack",
+  "productSlug": null,
   "urlSlug": "rogue-company--deadly-apparition-starter-pack",
   "creationDate": "2020-10-13T02:36:53.124Z",
-  "lastModifiedDate": "2021-06-04T20:21:43.568Z",
+  "lastModifiedDate": "2021-06-07T21:33:01.750Z",
   "effectiveDate": "2020-11-23T13:00:00.000Z",
   "viewableDate": "2021-05-27T15:00:00.000Z",
   "developer": null,
@@ -116,10 +116,6 @@
     {
       "key": "developerName",
       "value": "Hi-Rez Studios"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "rogue-company/deadly-apparition-starter-pack"
     }
   ],
   "keyImages": [
