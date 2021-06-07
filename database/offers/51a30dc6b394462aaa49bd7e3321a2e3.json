@@ -8,7 +8,7 @@
   "productSlug": "old-world",
   "urlSlug": "nightjargeneralaudience-01",
   "creationDate": "2020-03-04T02:18:13.708Z",
-  "lastModifiedDate": "2021-04-14T15:08:33.534Z",
+  "lastModifiedDate": "2021-06-07T16:07:16.471Z",
   "effectiveDate": "2020-05-05T15:00:00.000Z",
   "viewableDate": "2020-05-05T15:00:00.000Z",
   "developer": null,
@@ -48,6 +48,18 @@
       "updated": "2021-02-10T17:36:35.389Z",
       "status": "ACTIVE",
       "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1386",
+      "name": "Turn-Based",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:30.372Z",
+      "updated": "2021-02-05T16:19:58.338Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
       "comment": null
     },
     {
