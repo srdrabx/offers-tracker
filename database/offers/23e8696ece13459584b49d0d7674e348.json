@@ -5,10 +5,10 @@
   "description": "Take to the skies with your airships and use new production chains and goods to create an arctic outpost that will withstand the cold of the Passage.",
   "longDescription": "Take your Anno 1800™ experience to the next level with the new arctic session: The Passage. \n\n- Construct arctic outposts and a fleet of airships to speed up the trade across all sessions of your empire \n- Enjoy the new Explorer and Technician residential tiers \n- Master new production chains and arctic trade goods \n- Use the new heating system to ensure your residents survive the brutal cold of the Passage\n\nThis DLC includes: \n\n- 2 new citizen tiers\n- New airship system\n- 32 new buildings\n- 7 new production chains\n- 13 new production goods\n- 60 new quests\n- 80 new items",
   "status": "ACTIVE",
-  "productSlug": "anno-1800/the-passage",
+  "productSlug": null,
   "urlSlug": "anno-1800--the-passage",
   "creationDate": "2019-09-04T16:29:54.334Z",
-  "lastModifiedDate": "2021-05-22T04:20:18.270Z",
+  "lastModifiedDate": "2021-06-07T20:29:18.021Z",
   "effectiveDate": "2019-12-10T17:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -52,10 +52,6 @@
     {
       "key": "com.epicgames.app.blacklist",
       "value": "CN"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "anno-1800/the-passage"
     }
   ],
   "keyImages": [
