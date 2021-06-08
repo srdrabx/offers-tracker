@@ -8,7 +8,7 @@
   "productSlug": "fortnite",
   "urlSlug": "fortnite-free-audience",
   "creationDate": "2017-05-16T20:01:43.170Z",
-  "lastModifiedDate": "2021-03-30T14:57:04.153Z",
+  "lastModifiedDate": "2021-06-08T08:11:19.955Z",
   "effectiveDate": "2017-09-20T13:00:00.000Z",
   "viewableDate": "2017-09-20T13:00:00.000Z",
   "developer": null,
@@ -150,58 +150,58 @@
   ],
   "keyImages": [
     {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/17BR_S17_Launcher_EGS_Blade_2560x1440_2560x1440-713334cd3a6adfe74ca68f25498f3d74",
+      "md5": "713334cd3a6adfe74ca68f25498f3d74",
+      "size": 2424452,
+      "uploadedDate": "2021-06-08T07:18:26.714Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/17BR_S17_Launcher_EGS_Blade_1200x1600_1201x1600-711dd5f589b12dc04d79312bbb4ce4f3",
+      "md5": "711dd5f589b12dc04d79312bbb4ce4f3",
+      "size": 1098544,
+      "uploadedDate": "2021-06-08T07:18:37.022Z",
+      "width": 1201,
+      "height": 1600
+    },
+    {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/fn/offer/16BR_AgentJonesy_EGS_Thumb_1200x1600-1200x1600-07f7c3f058b6c594c1ccac61480a4093.jpg",
-      "md5": "07f7c3f058b6c594c1ccac61480a4093",
-      "size": 758273,
-      "uploadedDate": "2021-03-16T06:46:46.054Z",
-      "width": 1200,
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/17BR_S17_Launcher_EGS_Thumb_1200x1600_1201x1600-711dd5f589b12dc04d79312bbb4ce4f3",
+      "md5": "711dd5f589b12dc04d79312bbb4ce4f3",
+      "size": 1098544,
+      "uploadedDate": "2021-06-08T07:19:04.756Z",
+      "width": 1201,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/fn/offer/16BR_AgentJonesy_EGS_Thumb_1200x1600-1200x1600-07f7c3f058b6c594c1ccac61480a4093.jpg",
-      "md5": "07f7c3f058b6c594c1ccac61480a4093",
-      "size": 758273,
-      "uploadedDate": "2021-03-16T06:48:36.140Z",
-      "width": 1200,
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/17BR_S17_Launcher_EGS_Thumb_1200x1600_1201x1600-711dd5f589b12dc04d79312bbb4ce4f3",
+      "md5": "711dd5f589b12dc04d79312bbb4ce4f3",
+      "size": 1098544,
+      "uploadedDate": "2021-06-08T07:19:24.817Z",
+      "width": 1201,
       "height": 1600
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/fn/offer/16BR_KeyArt_EGS_S2_1200x1600-1200x1600-0f5565989795186a6623442a4a6e7035.jpg",
-      "md5": "0f5565989795186a6623442a4a6e7035",
-      "size": 1018001,
-      "uploadedDate": "2021-03-30T14:54:56.258Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/fn/offer/16BR_KeyArt_EGS_S1_2560x1440-2560x1440-d7408e6d9cf1213079c679e721b42142.jpg",
-      "md5": "d7408e6d9cf1213079c679e721b42142",
-      "size": 1788136,
-      "uploadedDate": "2021-03-30T14:55:12.162Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/fn/offer/16BR_KeyArt_EGS_S1_2560x1440-2560x1440-d7408e6d9cf1213079c679e721b42142.jpg",
-      "md5": "d7408e6d9cf1213079c679e721b42142",
-      "size": 1788136,
-      "uploadedDate": "2021-03-30T14:56:14.997Z",
-      "width": 2560,
-      "height": 1440
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/fn/offer/16BR_KeyArt_EGS_S2_1200x1600-1200x1600-0f5565989795186a6623442a4a6e7035.jpg",
-      "md5": "0f5565989795186a6623442a4a6e7035",
-      "size": 1018001,
-      "uploadedDate": "2021-03-30T14:56:29.270Z",
-      "width": 1200,
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/17BR_S17_Launcher_EGS_Thumb_1200x1600_1201x1600-711dd5f589b12dc04d79312bbb4ce4f3",
+      "md5": "711dd5f589b12dc04d79312bbb4ce4f3",
+      "size": 1098544,
+      "uploadedDate": "2021-06-08T07:19:52.390Z",
+      "width": 1201,
       "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/17BR_S17_Launcher_EGS_Blade_2560x1440_2560x1440-713334cd3a6adfe74ca68f25498f3d74",
+      "md5": "713334cd3a6adfe74ca68f25498f3d74",
+      "size": 2424452,
+      "uploadedDate": "2021-06-08T07:20:24.940Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
   "items": [
