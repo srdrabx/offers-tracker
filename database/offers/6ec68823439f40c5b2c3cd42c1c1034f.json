@@ -8,7 +8,7 @@
   "productSlug": "disciples-liberation",
   "urlSlug": "avyanna-pre-purchase-audience",
   "creationDate": "2021-03-25T17:39:22.992Z",
-  "lastModifiedDate": "2021-06-08T20:26:25.334Z",
+  "lastModifiedDate": "2021-06-08T20:31:01.217Z",
   "effectiveDate": "2099-01-01T01:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -38,66 +38,11 @@
     }
   ],
   "tags": [
-    {
-      "id": "1203",
-      "name": "Multiplayer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2021-02-10T17:35:33.537Z",
-      "status": "ACTIVE",
-      "referenceCount": 46,
-      "comment": null
-    },
-    {
-      "id": "1367",
-      "name": "RPG",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2020-12-15T01:46:33.012Z",
-      "status": "ACTIVE",
-      "referenceCount": 43,
-      "comment": null
-    },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2021-02-10T17:36:35.389Z",
-      "status": "ACTIVE",
-      "referenceCount": 195,
-      "comment": null
-    },
-    {
-      "id": "1115",
-      "name": "Strategy",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2021-02-10T17:35:11.878Z",
-      "status": "ACTIVE",
-      "referenceCount": 33,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2021-02-05T16:07:21.852Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    }
+    null,
+    null,
+    null,
+    null,
+    null
   ],
   "customAttributes": [
     {
@@ -183,13 +128,10 @@
   ],
   "items": [
     {
-      "id": "1842b659be7a40c1a364adce6c899397"
-    },
-    {
       "id": "e996e05d509548e49b3c8a2caaa314e6"
     }
   ],
   "catalogNs": {
-    "name": "ff17044fb2804a4aa8066dde0626514d"
+    "name": null
   }
 }
