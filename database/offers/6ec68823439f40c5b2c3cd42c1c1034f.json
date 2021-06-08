@@ -8,7 +8,7 @@
   "productSlug": "disciples-liberation",
   "urlSlug": "avyanna-pre-purchase-audience",
   "creationDate": "2021-03-25T17:39:22.992Z",
-  "lastModifiedDate": "2021-05-03T15:02:43.257Z",
+  "lastModifiedDate": "2021-06-08T20:26:25.334Z",
   "effectiveDate": "2099-01-01T01:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -184,6 +184,9 @@
   "items": [
     {
       "id": "1842b659be7a40c1a364adce6c899397"
+    },
+    {
+      "id": "e996e05d509548e49b3c8a2caaa314e6"
     }
   ],
   "catalogNs": {
