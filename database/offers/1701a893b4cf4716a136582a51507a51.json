@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "phantasy-star-online-2--ngs-start-dash-rappy",
   "creationDate": "2021-05-18T11:43:51.252Z",
-  "lastModifiedDate": "2021-06-08T09:01:26.125Z",
+  "lastModifiedDate": "2021-06-08T14:39:00.871Z",
   "effectiveDate": "2021-06-08T09:00:00.000Z",
   "viewableDate": "2021-06-08T09:00:00.000Z",
   "developer": null,
@@ -51,60 +51,6 @@
   ],
   "keyImages": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PSO2NGSStartDashRappyPack_SEGACorporation_AddOn_S1_2560x1440-3c057fccc0e4d0dc3abc463bc61e1670",
-      "md5": "3c057fccc0e4d0dc3abc463bc61e1670",
-      "size": 929919,
-      "uploadedDate": "2021-06-02T18:18:18.377Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PSO2NGSStartDashRappyPack_SEGACorporation_AddOn_S2_1200x1600-51f2168e97aa80df25448aa107e85a1d",
-      "md5": "51f2168e97aa80df25448aa107e85a1d",
-      "size": 909172,
-      "uploadedDate": "2021-06-02T18:18:23.207Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PSO2NGSStartDashRappyPack_SEGACorporation_AddOn_S2_1200x1600-51f2168e97aa80df25448aa107e85a1d",
-      "md5": "51f2168e97aa80df25448aa107e85a1d",
-      "size": 909172,
-      "uploadedDate": "2021-06-02T18:18:29.906Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PSO2NGSStartDashRappyPack_SEGACorporation_AddOn_S2_1200x1600-51f2168e97aa80df25448aa107e85a1d",
-      "md5": "51f2168e97aa80df25448aa107e85a1d",
-      "size": 909172,
-      "uploadedDate": "2021-06-02T18:18:36.640Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PSO2NGSStartDashRappyPack_SEGACorporation_AddOn_S1_2560x1440-3c057fccc0e4d0dc3abc463bc61e1670",
-      "md5": "3c057fccc0e4d0dc3abc463bc61e1670",
-      "size": 929919,
-      "uploadedDate": "2021-06-02T18:18:49.122Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PSO2NGSStartDashRappyPack_SEGACorporation_AddOn_S2_1200x1600-51f2168e97aa80df25448aa107e85a1d",
-      "md5": "51f2168e97aa80df25448aa107e85a1d",
-      "size": 909172,
-      "uploadedDate": "2021-06-02T18:18:55.336Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "ProductLogo",
       "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PSO2NGSStartDashRappyPack_SEGACorporation_AddOn_IC1_200x200-87c25bdade40847c79b1ae0e5ff327de",
       "md5": "87c25bdade40847c79b1ae0e5ff327de",
@@ -115,12 +61,12 @@
     },
     {
       "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PSO2NGSStartDashRappyPack_SEGACorporation_AddOn_G1A_00_1920x1080-2a10309f871194d2fa8ceeff090afdaa",
-      "md5": "2a10309f871194d2fa8ceeff090afdaa",
-      "size": 935680,
-      "uploadedDate": "2021-06-02T18:19:14.656Z",
-      "width": 1920,
-      "height": 1080
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/7db0ced7-7e90-4ab5-9ee7-1b8814da579c_2560x1440-35b4ec84456139614327efc4c7341def",
+      "md5": "35b4ec84456139614327efc4c7341def",
+      "size": 764019,
+      "uploadedDate": "2021-06-08T14:38:47.257Z",
+      "width": 2560,
+      "height": 1440
     },
     {
       "type": "featuredMedia",
@@ -157,6 +103,60 @@
       "uploadedDate": "2021-06-02T18:19:36.904Z",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/7db0ced7-7e90-4ab5-9ee7-1b8814da579c_2560x1440-35b4ec84456139614327efc4c7341def",
+      "md5": "35b4ec84456139614327efc4c7341def",
+      "size": 764019,
+      "uploadedDate": "2021-06-08T14:37:23.982Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/0c595444-b058-4033-ba7c-0e4c1c21feb9_1200x1600-9e01927d19c89f838c628a084f2465b4",
+      "md5": "9e01927d19c89f838c628a084f2465b4",
+      "size": 961703,
+      "uploadedDate": "2021-06-08T14:37:32.481Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/0c595444-b058-4033-ba7c-0e4c1c21feb9_1200x1600-9e01927d19c89f838c628a084f2465b4",
+      "md5": "9e01927d19c89f838c628a084f2465b4",
+      "size": 961703,
+      "uploadedDate": "2021-06-08T14:37:41.327Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/0c595444-b058-4033-ba7c-0e4c1c21feb9_1200x1600-9e01927d19c89f838c628a084f2465b4",
+      "md5": "9e01927d19c89f838c628a084f2465b4",
+      "size": 961703,
+      "uploadedDate": "2021-06-08T14:37:55.886Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/0c595444-b058-4033-ba7c-0e4c1c21feb9_1200x1600-9e01927d19c89f838c628a084f2465b4",
+      "md5": "9e01927d19c89f838c628a084f2465b4",
+      "size": 961703,
+      "uploadedDate": "2021-06-08T14:38:05.391Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/7db0ced7-7e90-4ab5-9ee7-1b8814da579c_2560x1440-35b4ec84456139614327efc4c7341def",
+      "md5": "35b4ec84456139614327efc4c7341def",
+      "size": 764019,
+      "uploadedDate": "2021-06-08T14:38:15.078Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
   "items": [
