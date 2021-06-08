@@ -1,0 +1,172 @@
+{
+  "id": "79e93c9a70b14b1cba2c8c9b45a1c36b",
+  "namespace": "bd46d4ce259349e5bd8b3ded20274737",
+  "title": "Chivalry 2",
+  "description": "Chivalry 2",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "chivalry-2",
+  "urlSlug": "chivalry2",
+  "creationDate": "2020-08-12T16:04:34.670Z",
+  "lastModifiedDate": "2021-06-08T14:11:28.662Z",
+  "effectiveDate": "2021-06-08T15:00:00.000Z",
+  "viewableDate": "2021-06-08T15:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+    "name": "Tripwire Interactive"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1344",
+      "name": "Fighting",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:09.322Z",
+      "updated": "2021-02-05T16:17:17.035Z",
+      "status": "ACTIVE",
+      "referenceCount": 8,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2021-02-10T17:35:33.537Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1294",
+      "name": "First Person",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:44.596Z",
+      "updated": "2021-02-10T17:33:51.253Z",
+      "status": "ACTIVE",
+      "referenceCount": 24,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Tripwire Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Torn Banner Studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "chivalry-2"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Chivalry2_TornBannerStudios_S2_1200x1600-85fa89b6c28dda3367d4fa4dc538259d",
+      "md5": "85fa89b6c28dda3367d4fa4dc538259d",
+      "size": 518684,
+      "uploadedDate": "2021-06-01T21:26:54.892Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Chivalry2_TornBannerStudios_S1_2560x1440-df45c1788036abf73c14f324f7f15d34",
+      "md5": "df45c1788036abf73c14f324f7f15d34",
+      "size": 788881,
+      "uploadedDate": "2021-06-01T21:26:58.684Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Chivalry2_TornBannerStudios_S2_1200x1600-85fa89b6c28dda3367d4fa4dc538259d",
+      "md5": "85fa89b6c28dda3367d4fa4dc538259d",
+      "size": 518684,
+      "uploadedDate": "2021-06-01T21:27:02.044Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Chivalry2_TornBannerStudios_S2_1200x1600-85fa89b6c28dda3367d4fa4dc538259d",
+      "md5": "85fa89b6c28dda3367d4fa4dc538259d",
+      "size": 518684,
+      "uploadedDate": "2021-06-01T21:27:36.497Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Chivalry2_TornBannerStudios_S2_1200x1600-85fa89b6c28dda3367d4fa4dc538259d",
+      "md5": "85fa89b6c28dda3367d4fa4dc538259d",
+      "size": 518684,
+      "uploadedDate": "2021-06-01T21:27:42.647Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Chivalry2_TornBannerStudios_S1_2560x1440-df45c1788036abf73c14f324f7f15d34",
+      "md5": "df45c1788036abf73c14f324f7f15d34",
+      "size": 788881,
+      "uploadedDate": "2021-06-01T21:27:47.348Z",
+      "width": 2560,
+      "height": 1440
+    }
+  ],
+  "items": [
+    {
+      "id": "daad36f10acf4ff4ba663584ad0a3d9c"
+    }
+  ],
+  "catalogNs": {
+    "name": "bd46d4ce259349e5bd8b3ded20274737"
+  }
+}
