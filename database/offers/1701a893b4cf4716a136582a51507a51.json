@@ -1,16 +1,16 @@
 {
   "id": "1701a893b4cf4716a136582a51507a51",
   "namespace": "bf333e6236914222a95a536389c05813",
-  "title": "PSO2:NGS SDRP Audience",
-  "description": "PSO2:NGS SDRP Audience",
-  "longDescription": "",
+  "title": "PSO2:NGS Start Dash Rappy Pack",
+  "description": "This item pack contains new Rappy costumes, a favorite from Phantasy Star Online 2, as well as various support items that will be helpful in your adventures.",
+  "longDescription": "This item pack contains new Rappy costumes, a favorite from Phantasy Star Online 2, as well as various support items that will be helpful in your adventures.\n\n▼ The following items are included in this pack\n - N-Rappy Suit [Fu] (Fullset Wear)\n - MTN: Idle - Rappy (Change Motions)\n - MTN: Glide - Rappy (Change Motions)\n - STP: Rappy - Love (Stamp)\n - Premium Set (15 Days) x2\n - Material Storage Use (15 Days) x2\n - N-Rare Drop Rate +50% x3\n - N-EXP Earned +10% x3\n - Salon Free Pass\n - N-Half Scape Doll x5\n - Monotite x30\n - Dualomite x30\n - Trinite x30\n - Photon Chunk x50\n - Photon Quartz x50\n\n・The character in the image may have some items that are not included in the pack.\n\n・This product can be purchased in the in-game AC Shop for 4900AC.\n\n・The items in this pack are the same as those in the Start Dash Rappy Pack, sold in the in-game AC Shop.\n\n・The items obtainable through this content are exclusive to Phantasy Star Online 2 New Genesis.\n　This cannot be used in other services, including the Japanese service.\n\n・After purchasing the content, log in to Phantasy Star Online 2 New Genesis to receive the items.\n  Please receive the item from Main Menu →  Get Campaign Items →  Purchase/Receive Benefits.\n\n･Phantasy Star Online 2 New Genesis is required in order to use this content.\n　If the latest patch is available, please update to the latest version before using this content.\n\n・ It may take up to 24 hours for the product to be reflected upon your first billed purchase.\n   If over 48 hours have passed and the product has still not been reflected, please contact us through the Phantasy Star Online 2 New Genesis Official Website.",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "phantasy-star-online-2--sdrp",
+  "urlSlug": "phantasy-star-online-2--ngs-start-dash-rappy",
   "creationDate": "2021-05-18T11:43:51.252Z",
-  "lastModifiedDate": "2021-05-27T22:21:24.954Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2021-06-08T09:01:26.125Z",
+  "effectiveDate": "2021-06-08T09:00:00.000Z",
+  "viewableDate": "2021-06-08T09:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-yqy54tnq77et5vf5dtpvz8czyahm2y",
@@ -24,6 +24,12 @@
   "technicalDetails": null,
   "recurrence": "ONCE",
   "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
     {
       "path": "applications"
     }
@@ -43,7 +49,116 @@
       "value": "SEGA Corporation"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PSO2NGSStartDashRappyPack_SEGACorporation_AddOn_S1_2560x1440-3c057fccc0e4d0dc3abc463bc61e1670",
+      "md5": "3c057fccc0e4d0dc3abc463bc61e1670",
+      "size": 929919,
+      "uploadedDate": "2021-06-02T18:18:18.377Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PSO2NGSStartDashRappyPack_SEGACorporation_AddOn_S2_1200x1600-51f2168e97aa80df25448aa107e85a1d",
+      "md5": "51f2168e97aa80df25448aa107e85a1d",
+      "size": 909172,
+      "uploadedDate": "2021-06-02T18:18:23.207Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PSO2NGSStartDashRappyPack_SEGACorporation_AddOn_S2_1200x1600-51f2168e97aa80df25448aa107e85a1d",
+      "md5": "51f2168e97aa80df25448aa107e85a1d",
+      "size": 909172,
+      "uploadedDate": "2021-06-02T18:18:29.906Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PSO2NGSStartDashRappyPack_SEGACorporation_AddOn_S2_1200x1600-51f2168e97aa80df25448aa107e85a1d",
+      "md5": "51f2168e97aa80df25448aa107e85a1d",
+      "size": 909172,
+      "uploadedDate": "2021-06-02T18:18:36.640Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PSO2NGSStartDashRappyPack_SEGACorporation_AddOn_S1_2560x1440-3c057fccc0e4d0dc3abc463bc61e1670",
+      "md5": "3c057fccc0e4d0dc3abc463bc61e1670",
+      "size": 929919,
+      "uploadedDate": "2021-06-02T18:18:49.122Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PSO2NGSStartDashRappyPack_SEGACorporation_AddOn_S2_1200x1600-51f2168e97aa80df25448aa107e85a1d",
+      "md5": "51f2168e97aa80df25448aa107e85a1d",
+      "size": 909172,
+      "uploadedDate": "2021-06-02T18:18:55.336Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PSO2NGSStartDashRappyPack_SEGACorporation_AddOn_IC1_200x200-87c25bdade40847c79b1ae0e5ff327de",
+      "md5": "87c25bdade40847c79b1ae0e5ff327de",
+      "size": 85313,
+      "uploadedDate": "2021-06-02T18:19:05.952Z",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PSO2NGSStartDashRappyPack_SEGACorporation_AddOn_G1A_00_1920x1080-2a10309f871194d2fa8ceeff090afdaa",
+      "md5": "2a10309f871194d2fa8ceeff090afdaa",
+      "size": 935680,
+      "uploadedDate": "2021-06-02T18:19:14.656Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PSO2NGSStartDashRappyPack_SEGACorporation_AddOn_G1A_01_1920x1080-85670b006375d6eba4c32e375295bb66",
+      "md5": "85670b006375d6eba4c32e375295bb66",
+      "size": 532160,
+      "uploadedDate": "2021-06-02T18:19:19.522Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PSO2NGSStartDashRappyPack_SEGACorporation_AddOn_G1A_02_1920x1080-546089236fe326a08144f8a27cf295e3",
+      "md5": "546089236fe326a08144f8a27cf295e3",
+      "size": 705780,
+      "uploadedDate": "2021-06-02T18:19:25.835Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PSO2NGSStartDashRappyPack_SEGACorporation_AddOn_G1A_03_1920x1080-dbd44bc6c226de71cb82d12d51142ae5",
+      "md5": "dbd44bc6c226de71cb82d12d51142ae5",
+      "size": 647742,
+      "uploadedDate": "2021-06-02T18:19:31.736Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PSO2NGSStartDashRappyPack_SEGACorporation_AddOn_G1A_04_1920x1080-fa540e55737e5b34dee0a993ebd69b30",
+      "md5": "fa540e55737e5b34dee0a993ebd69b30",
+      "size": 706400,
+      "uploadedDate": "2021-06-02T18:19:36.904Z",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
   "items": [
     {
       "id": "85cc27f6b94740efa1d61d6b5ab98857"
