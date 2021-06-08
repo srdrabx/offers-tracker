@@ -4773,7 +4773,7 @@
     ],
     "Tripwire Interactive",
     1591223851,
-    1613071180,
+    1623163956,
     "",
     ""
   ],
@@ -6184,6 +6184,21 @@
     ""
   ],
   [
+    "1947b2b0e83c4165aaf69fa6856965f7",
+    "a8a489c0a58646ec88aec778d015fc73",
+    "Edge Of Eternity - Artbook",
+    [
+      "digitalextras/book",
+      "digitalextras",
+      "applications"
+    ],
+    "Plug In Digital SAS",
+    1622751535,
+    1623163803,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EdgeOfEternityArtbook_MidgarStudio_DigitalExtras_S2_1200x1600-abc3fbcdc68d75a69e957754dbf03053",
+    ""
+  ],
+  [
     "1952a08c91eb45b981f0445ac4b01317",
     "96f4ce259e1b4845848399fc29c718fe",
     "Serial Cleaners",
@@ -6935,6 +6950,21 @@
     1614056260,
     1616620695,
     "https://cdn1.epicgames.com/bd6437617fc841df8c43800901211059/offer/EGS_BattleChasersNightwarDigitalExtras_AirshipSyndicate_DigitalExtras_S2-1200x1600-09ea045d02467f9bdf3d49a38062f0fd.jpg",
+    ""
+  ],
+  [
+    "1ca52aa91b604ba48ba0283cedcb81be",
+    "a8a489c0a58646ec88aec778d015fc73",
+    "Edge Of Eternity - Digital Deluxe Edition",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Plug In Digital SAS",
+    1622751166,
+    1623163803,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EdgeOfEternityDigitalDeluxeEdition_MidgarStudio_Bundles_S2_1200x1600-11a2c6f85610c146d58cb275dddc8196",
     ""
   ],
   [
@@ -16329,6 +16359,22 @@
     ""
   ],
   [
+    "42864c360cb7442487f23f12cf1d1ebe",
+    "a8a489c0a58646ec88aec778d015fc73",
+    "Edge Of Eternity",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Plug In Digital SAS",
+    1614724772,
+    1623163803,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EdgeOfEternity_MidgarStudio_S4_1200x1600-19c3a9eac2f152ef62fb26984a7e7e59",
+    "edge-of-eternity"
+  ],
+  [
     "428ca33d5ec34188baf1db4f0abae22c",
     "ff1cd8b38bda4f6281879c9bdb228ff1",
     "Atomicrops Press",
@@ -24321,6 +24367,20 @@
     ""
   ],
   [
+    "62feb2e1c57a4dafb1ac55007703bb30",
+    "a8a489c0a58646ec88aec778d015fc73",
+    "Edge Of Eternity - Goodies Pack",
+    [
+      "digitalextras",
+      "applications"
+    ],
+    "Plug In Digital SAS",
+    1622751632,
+    1623163803,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EdgeOfEternityGoodiesPack_MidgarStudio_DigitalExtras_S2_1200x1600-3abb2a471b77d8797975c2731af0e29e",
+    ""
+  ],
+  [
     "63068b8716d34d48b4e83d562906e3b9",
     "wombat",
     "World War Z Early Access",
@@ -28623,6 +28683,21 @@
     1605124532,
     1605126258,
     "https://cdn1.epicgames.com/8a574ca3cbfc46c69ea8d3491932e973/offer/EGS_WreckfestSeasonPass1_Bugbear_SeasonPass_S2-1200x1600-e3355d6fce8bbf77a9923f1482a84bd1.jpg",
+    ""
+  ],
+  [
+    "74cb59bfe7cf452f95a69ab7ab7c29e1",
+    "a8a489c0a58646ec88aec778d015fc73",
+    "Edge Of Eternity - War Nekaroo Skin",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Plug In Digital SAS",
+    1622751796,
+    1623163803,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EdgeOfEternityWarNekarooSkin_MidgarStudio_DigitalExtras_S2_1200x1600-ab343dd69098a32ec612f5fbe3fa3308",
     ""
   ],
   [
@@ -50739,7 +50814,7 @@
     ],
     "Tripwire Interactive",
     1591221985,
-    1613071180,
+    1623163965,
     "",
     ""
   ],
@@ -52926,7 +53001,7 @@
     ],
     "Tripwire Interactive",
     1591223730,
-    1613071180,
+    1623163977,
     "",
     ""
   ],
@@ -53888,6 +53963,21 @@
     1613506628,
     1614106949,
     "https://cdn1.epicgames.com/244aaaa06bfa49d088205b13b9d2d115/offer/mallet.2-1200x1600-7ea6cb085c0ad54a6b996d95e2ba831b.jpg",
+    ""
+  ],
+  [
+    "dd53d14f29914e06a0bbc1070e9d7cae",
+    "a8a489c0a58646ec88aec778d015fc73",
+    "Edge Of Eternity - OST",
+    [
+      "digitalextras",
+      "digitalextras/soundtrack",
+      "applications"
+    ],
+    "Plug In Digital SAS",
+    1622751425,
+    1623163803,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EdgeOfEternityOST_MidgarStudio_DigitalExtras_S2_1200x1600-b969876d1a597a23d89ec9f6920190b7",
     ""
   ],
   [
@@ -59958,7 +60048,7 @@
     ],
     "Tripwire Interactive",
     1591223783,
-    1613071180,
+    1623163988,
     "",
     ""
   ],

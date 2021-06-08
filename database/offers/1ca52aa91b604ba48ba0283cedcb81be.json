@@ -1,0 +1,177 @@
+{
+  "id": "1ca52aa91b604ba48ba0283cedcb81be",
+  "namespace": "a8a489c0a58646ec88aec778d015fc73",
+  "title": "Edge Of Eternity - Digital Deluxe Edition",
+  "description": "Edge Of Eternity - Digital Deluxe Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "edge-of-eternity--deluxe-edition",
+  "creationDate": "2021-06-03T20:12:46.073Z",
+  "lastModifiedDate": "2021-06-08T14:50:03.449Z",
+  "effectiveDate": "2021-06-08T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+    "name": "Plug In Digital SAS"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-12-15T01:46:33.012Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "Strategy",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2021-02-10T17:35:11.878Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "Open World",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2021-02-10T17:34:58.080Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Plug In Digital SAS"
+    },
+    {
+      "key": "developerName",
+      "value": "Plug In Digital SAS"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EdgeOfEternityDigitalDeluxeEdition_MidgarStudio_Bundles_S1_2560x1440-38b84504fe04a835761bfa77b405e785",
+      "md5": "38b84504fe04a835761bfa77b405e785",
+      "size": 1005497,
+      "uploadedDate": "2021-06-03T20:48:41.478Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EdgeOfEternityDigitalDeluxeEdition_MidgarStudio_Bundles_S2_1200x1600-11a2c6f85610c146d58cb275dddc8196",
+      "md5": "11a2c6f85610c146d58cb275dddc8196",
+      "size": 1008043,
+      "uploadedDate": "2021-06-03T20:49:03.082Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EdgeOfEternityDigitalDeluxeEdition_MidgarStudio_Bundles_S2_1200x1600-11a2c6f85610c146d58cb275dddc8196",
+      "md5": "11a2c6f85610c146d58cb275dddc8196",
+      "size": 1008043,
+      "uploadedDate": "2021-06-03T20:49:07.744Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EdgeOfEternityDigitalDeluxeEdition_MidgarStudio_Bundles_S2_1200x1600-11a2c6f85610c146d58cb275dddc8196",
+      "md5": "11a2c6f85610c146d58cb275dddc8196",
+      "size": 1008043,
+      "uploadedDate": "2021-06-03T20:49:11.908Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EdgeOfEternityDigitalDeluxeEdition_MidgarStudio_Bundles_S1_2560x1440-38b84504fe04a835761bfa77b405e785",
+      "md5": "38b84504fe04a835761bfa77b405e785",
+      "size": 1005497,
+      "uploadedDate": "2021-06-03T20:49:32.888Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EdgeOfEternityDigitalDeluxeEdition_MidgarStudio_Bundles_S2_1200x1600-11a2c6f85610c146d58cb275dddc8196",
+      "md5": "11a2c6f85610c146d58cb275dddc8196",
+      "size": 1008043,
+      "uploadedDate": "2021-06-03T20:49:36.302Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "658424aa36624a979c30d5b7010c1fb2"
+    }
+  ],
+  "catalogNs": {
+    "name": "a8a489c0a58646ec88aec778d015fc73"
+  }
+}
