@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "watch-dogs-legion--season-pass",
   "creationDate": "2021-06-02T20:22:52.181Z",
-  "lastModifiedDate": "2021-06-02T21:40:25.835Z",
+  "lastModifiedDate": "2021-06-08T19:07:37.683Z",
   "effectiveDate": "2019-06-14T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -29,9 +29,6 @@
     },
     {
       "path": "addons/durable"
-    },
-    {
-      "path": "applications"
     }
   ],
   "tags": [
