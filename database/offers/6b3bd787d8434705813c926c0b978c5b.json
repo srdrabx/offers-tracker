@@ -8,7 +8,7 @@
   "productSlug": "samurai-shodown-reboot/season-pass-2",
   "urlSlug": "samurai-shodown-reboot--season-pass",
   "creationDate": "2020-04-29T21:33:50.494Z",
-  "lastModifiedDate": "2020-08-01T00:19:48.638Z",
+  "lastModifiedDate": "2021-06-08T15:50:57.917Z",
   "effectiveDate": "2020-06-11T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -36,6 +36,18 @@
   ],
   "tags": [
     {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2021-02-10T17:36:19.203Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
       "id": "1264",
       "name": "Co-op",
       "namespace": "epic",
@@ -57,18 +69,6 @@
       "updated": "2021-02-05T16:17:17.035Z",
       "status": "ACTIVE",
       "referenceCount": 8,
-      "comment": null
-    },
-    {
-      "id": "1216",
-      "name": "Action",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2021-02-10T17:36:19.203Z",
-      "status": "ACTIVE",
-      "referenceCount": 110,
       "comment": null
     },
     {
@@ -125,30 +125,66 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/ace4435645d9489cacfbb422b7c1c817/offer/EGS_SEASONPASS2_SNKCORPORATION_SeasonPass_S1-2560x1440-b3fe247c546cf5bb4f36e4d599673c86.jpg",
-      "md5": "b3fe247c546cf5bb4f36e4d599673c86",
-      "size": 783047,
-      "uploadedDate": "2020-06-11T05:29:11.867Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/1c6a9f56-622e-4225-9b6f-de43949daa5e_2560x1440-55336efe364bbfa014476a57743e522e",
+      "md5": "55336efe364bbfa014476a57743e522e",
+      "size": 954694,
+      "uploadedDate": "2021-06-08T15:49:26.398Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/ace4435645d9489cacfbb422b7c1c817/offer/EGS_SEASONPASS2_SNKCORPORATION_SeasonPass_S2-1200x1600-f8b6c66b2018200793114a72c06ccff6.jpg",
-      "md5": "f8b6c66b2018200793114a72c06ccff6",
-      "size": 433872,
-      "uploadedDate": "2020-06-11T05:29:20.286Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/f4c6fe51-fe57-4a99-a6d8-ed60ea2786c2_1200x1600-44dd345ef8cce0f350d502b4b32f4457",
+      "md5": "44dd345ef8cce0f350d502b4b32f4457",
+      "size": 801038,
+      "uploadedDate": "2021-06-08T15:49:33.812Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/ace4435645d9489cacfbb422b7c1c817/offer/EGS_SEASONPASS2_SNKCORPORATION_SeasonPass_S2-1200x1600-f8b6c66b2018200793114a72c06ccff6.jpg",
-      "md5": "f8b6c66b2018200793114a72c06ccff6",
-      "size": 433872,
-      "uploadedDate": "2020-06-11T05:29:32.776Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/f4c6fe51-fe57-4a99-a6d8-ed60ea2786c2_1200x1600-44dd345ef8cce0f350d502b4b32f4457",
+      "md5": "44dd345ef8cce0f350d502b4b32f4457",
+      "size": 801038,
+      "uploadedDate": "2021-06-08T15:49:41.581Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/f4c6fe51-fe57-4a99-a6d8-ed60ea2786c2_1200x1600-44dd345ef8cce0f350d502b4b32f4457",
+      "md5": "44dd345ef8cce0f350d502b4b32f4457",
+      "size": 801038,
+      "uploadedDate": "2021-06-08T15:49:47.810Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/f4c6fe51-fe57-4a99-a6d8-ed60ea2786c2_1200x1600-44dd345ef8cce0f350d502b4b32f4457",
+      "md5": "44dd345ef8cce0f350d502b4b32f4457",
+      "size": 801038,
+      "uploadedDate": "2021-06-08T15:49:54.975Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/1c6a9f56-622e-4225-9b6f-de43949daa5e_2560x1440-55336efe364bbfa014476a57743e522e",
+      "md5": "55336efe364bbfa014476a57743e522e",
+      "size": 954694,
+      "uploadedDate": "2021-06-08T15:50:02.568Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/7635fa15-b4c0-4008-b5ba-12b9c9cc3e7a_200x110-a007fcdc17f9737b7678ced257bc1d48",
+      "md5": "a007fcdc17f9737b7678ced257bc1d48",
+      "size": 22329,
+      "uploadedDate": "2021-06-08T15:50:54.592Z",
+      "width": 200,
+      "height": 110
     }
   ],
   "items": [
