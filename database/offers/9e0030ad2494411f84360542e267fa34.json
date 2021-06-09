@@ -67,7 +67,5 @@
       "id": "159d92ebec254ecf8373709a99388a62"
     }
   ],
-  "catalogNs": {
-    "name": "cosmos"
-  }
+  "catalogNs": null
 }
