@@ -26999,6 +26999,22 @@
     "conan-exiles/seekers-of-the-dawn-pack"
   ],
   [
+    "6e57639bc193428d892a39cb86effe13",
+    "cc56bfab64424c71b9109bc0607a00dd",
+    "Trials of Fire",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Whatboy Games",
+    1621459486,
+    1623249827,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TrialsofFire_WhatboyGames_S2_1200x1600-164673a6e7c980e62cc8dd238ce11842",
+    "trials-of-fire"
+  ],
+  [
     "6e5904a89f374739bba2dd502a739d92",
     "affc33b82405457595a032f00284abd2",
     "Dragon & Koi Tier 2 Weapon Skin Bundle",
@@ -30867,6 +30883,22 @@
     1598291407,
     "",
     ""
+  ],
+  [
+    "7e28b3d9557640cd9a7f30f8a1462931",
+    "52f57f57120c440fad9bfa0e6c279317",
+    "Battlefield 2042",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Electronic Arts",
+    1622600093,
+    1623249146,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Battlefield2042_DICE_S2_1200x1600-331f59b6877d2bf2194943fcf7a68048",
+    "battlefield-2042"
   ],
   [
     "7e3262cf5ea34981849b0cd9b7551c7b",
@@ -55977,6 +56009,21 @@
     ""
   ],
   [
+    "e481671cf546407a86cf9b1146d7e6c6",
+    "52f57f57120c440fad9bfa0e6c279317",
+    "Battlefield 2042 Ultimate Edition",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Electronic Arts",
+    1622600157,
+    1623249146,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Battlefield2042UltimateEdition_DICE_Editions_S2_1200x1600-a5a28478353f01e2ea4e3b075a875749",
+    "battlefield-2042/ultimate-edition"
+  ],
+  [
     "e4868020b9684f5aa181266d982ee935",
     "affc33b82405457595a032f00284abd2",
     "Horzine Supply Weapon Crate | Series #13 Silver Bundle Pack",
@@ -62548,6 +62595,21 @@
     1588771719,
     "https://cdn1.epicgames.com/f4a904fcef2447439c35c4e6457f3027/offer/EGS_KojimaProductions_DeathStranding_S1-2560x1440-e56d3a322a94fd7dd18b9c93ee080d01.jpg",
     ""
+  ],
+  [
+    "fef9270e0c384d3a8119132f0f1c8efe",
+    "52f57f57120c440fad9bfa0e6c279317",
+    "Battlefield 2042 Gold Edition",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Electronic Arts",
+    1622600125,
+    1623249146,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Battlefield2042GoldEdition_DICE_Editions_S2_1200x1600-7c17333dabc71d9830f45585a6937963",
+    "battlefield-2042/gold-edition"
   ],
   [
     "ff071daf1e30467fa0d35bf9182a8bba",
