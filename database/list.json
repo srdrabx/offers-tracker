@@ -710,6 +710,20 @@
     ""
   ],
   [
+    "0376ec9ec58849fab17a775f2aeb5406",
+    "ec49d0a2e38148458a3a2f4df3128ec5",
+    "burgundyGeneralAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "Wired Productions",
+    1622763170,
+    1623266428,
+    "",
+    ""
+  ],
+  [
     "0394bcc34ee54c13bf1d84590c11fd18",
     "canna",
     "RollerCoaster Tycoon Adventures",
@@ -62201,6 +62215,20 @@
     1621521896,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JustDieAlready_DoubleMoose_S6_1200x1600-577891f9b98a2f9fb55adcaae4ed5ebe",
     "just-die-already"
+  ],
+  [
+    "fd254470e7e74060b6d73f7f43593984",
+    "ec49d0a2e38148458a3a2f4df3128ec5",
+    "DevburgundyAudience",
+    [
+      "games",
+      "applications"
+    ],
+    "Wired Productions",
+    1622763170,
+    1623266428,
+    "",
+    ""
   ],
   [
     "fd2df056f60e4ca8a59ca5c5f0ff3395",
