@@ -8,7 +8,7 @@
   "productSlug": "samurai-shodown-reboot/season-pass-1",
   "urlSlug": "samurai-shodown-reboot--season-pass-01",
   "creationDate": "2020-04-29T21:32:18.258Z",
-  "lastModifiedDate": "2020-08-01T00:20:12.882Z",
+  "lastModifiedDate": "2021-06-09T21:17:09.412Z",
   "effectiveDate": "2020-06-11T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -36,6 +36,18 @@
   ],
   "tags": [
     {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2021-02-10T17:36:19.203Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
       "id": "1264",
       "name": "Co-op",
       "namespace": "epic",
@@ -57,18 +69,6 @@
       "updated": "2021-02-05T16:17:17.035Z",
       "status": "ACTIVE",
       "referenceCount": 8,
-      "comment": null
-    },
-    {
-      "id": "1216",
-      "name": "Action",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2021-02-10T17:36:19.203Z",
-      "status": "ACTIVE",
-      "referenceCount": 110,
       "comment": null
     },
     {
@@ -149,6 +149,15 @@
       "uploadedDate": "2020-06-11T05:57:50.703Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/5a7f8c61-d661-467d-98f9-c8aabc082de3_200x110-bf9f8f93e8a1ce533a31063f8620899e",
+      "md5": "bf9f8f93e8a1ce533a31063f8620899e",
+      "size": 26774,
+      "uploadedDate": "2021-06-09T21:17:03.990Z",
+      "width": 200,
+      "height": 110
     }
   ],
   "items": [
