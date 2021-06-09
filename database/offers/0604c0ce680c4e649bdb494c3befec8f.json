@@ -63,5 +63,7 @@
       "id": "52a4182498ad4a08acb3352fb4a60e3f"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "magnolia"
+  }
 }

@@ -63,5 +63,7 @@
       "id": "760fd4f4758443c4b54778a38194558d"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "jaguar"
+  }
 }

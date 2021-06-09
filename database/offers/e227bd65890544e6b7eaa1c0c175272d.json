@@ -67,5 +67,7 @@
       "id": "f0df34986d814a74ac916ba8044b461b"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "calluna"
+  }
 }
