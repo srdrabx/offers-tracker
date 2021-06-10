@@ -1,0 +1,160 @@
+{
+  "id": "456ea86ca17f40299a00e3ff295ebf7c",
+  "namespace": "4817ba5c11504724ba4d5817c8995dff",
+  "title": "Jurassic World Evolution 2",
+  "description": "Jurassic World Evolution 2",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "jurassic-world-evolution-2",
+  "urlSlug": "kombugreen-general-audience",
+  "creationDate": "2021-05-26T18:03:40.816Z",
+  "lastModifiedDate": "2021-06-10T20:07:15.637Z",
+  "effectiveDate": "2099-02-01T00:00:00.000Z",
+  "viewableDate": "2021-06-10T20:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-mlnjydnrxlmer2ducb6u6ngznq25mx",
+    "name": "Frontier Developments"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "Strategy",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2021-02-10T17:35:11.878Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Frontier Developments"
+    },
+    {
+      "key": "developerName",
+      "value": "Frontier Developments"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "jurassic-world-evolution-2"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2_FrontierDevelopments_S1_2560x1440-7dfe96026e2e6f9054c7a73f9b74447f",
+      "md5": "7dfe96026e2e6f9054c7a73f9b74447f",
+      "size": 1024874,
+      "uploadedDate": "2021-06-03T14:26:21.849Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2_FrontierDevelopments_S2_1200x1600-10a105a6bfe6c419db5ac4b15098398e",
+      "md5": "10a105a6bfe6c419db5ac4b15098398e",
+      "size": 1012501,
+      "uploadedDate": "2021-06-03T14:26:25.937Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2_FrontierDevelopments_S2_1200x1600-10a105a6bfe6c419db5ac4b15098398e",
+      "md5": "10a105a6bfe6c419db5ac4b15098398e",
+      "size": 1012501,
+      "uploadedDate": "2021-06-03T14:26:31.141Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2_FrontierDevelopments_S2_1200x1600-10a105a6bfe6c419db5ac4b15098398e",
+      "md5": "10a105a6bfe6c419db5ac4b15098398e",
+      "size": 1012501,
+      "uploadedDate": "2021-06-03T14:26:37.233Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2_FrontierDevelopments_S1_2560x1440-7dfe96026e2e6f9054c7a73f9b74447f",
+      "md5": "7dfe96026e2e6f9054c7a73f9b74447f",
+      "size": 1024874,
+      "uploadedDate": "2021-06-03T14:26:43.802Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2_FrontierDevelopments_S2_1200x1600-10a105a6bfe6c419db5ac4b15098398e",
+      "md5": "10a105a6bfe6c419db5ac4b15098398e",
+      "size": 1012501,
+      "uploadedDate": "2021-06-03T14:26:52.459Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "95fd31c5b4c54bb4ac9105ee14dbb500"
+    }
+  ],
+  "catalogNs": {
+    "name": "4817ba5c11504724ba4d5817c8995dff"
+  }
+}
