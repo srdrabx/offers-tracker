@@ -46301,16 +46301,17 @@
   [
     "bb04b2f296104e32b70df72c2ce0634b",
     "0610384879594dd0b42c73e2d8af88ae",
-    "CentaurGeneralAudience",
+    "Moonglow Bay",
     [
       "games",
-      "applications"
+      "games/edition/base",
+      "games/edition"
     ],
     "Coatsink",
     1605111982,
-    1605112408,
-    "",
-    ""
+    1623360681,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_MoonglowBay_Bunnyhug_S2_1200x1600-5dee944c8789c29cc85084438ad895db",
+    "moonglow-bay"
   ],
   [
     "bb07d774456b42caa0a65480212f705c",
