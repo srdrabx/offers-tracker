@@ -1,0 +1,181 @@
+{
+  "id": "f301fd4611f240da87cdc7baf1b67f44",
+  "namespace": "cd14dcaa4f3443f19f7169a980559c62",
+  "title": "Sid Meier's Civilization VI : Anthology Edition",
+  "description": "Sid Meier's Civilization VI : Anthology Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "sid-meiers-civilization-vi--anthology-edition",
+  "urlSlug": "sid-meiers-civilization-vi--anthology-edition",
+  "creationDate": "2021-05-24T21:22:48.492Z",
+  "lastModifiedDate": "2021-06-10T16:56:34.099Z",
+  "effectiveDate": "2021-06-10T17:00:00.000Z",
+  "viewableDate": "2021-06-10T17:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+    "name": "2K Games, Inc."
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1203",
+      "name": "Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2021-02-10T17:35:33.537Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "Strategy",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2021-02-10T17:35:11.878Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1166",
+      "name": "4X",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:41.019Z",
+      "updated": "2020-08-11T17:30:09.076Z",
+      "status": "ACTIVE",
+      "referenceCount": 1,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CU,IR,SY,VE"
+    },
+    {
+      "key": "publisherName",
+      "value": "2K Games"
+    },
+    {
+      "key": "developerName",
+      "value": "Firaxis games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "sid-meiers-civilization-vi--anthology-edition"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Mobile-Image_315x399_315x399-436eda4879a0cc9362108cab2debc43b",
+      "md5": "436eda4879a0cc9362108cab2debc43b",
+      "size": 8191,
+      "uploadedDate": "2021-06-09T16:11:07.447Z",
+      "width": 315,
+      "height": 399
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Mobile-Image_315x399_315x399-436eda4879a0cc9362108cab2debc43b",
+      "md5": "436eda4879a0cc9362108cab2debc43b",
+      "size": 8191,
+      "uploadedDate": "2021-06-09T16:11:23.005Z",
+      "width": 315,
+      "height": 399
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/1920x1080_1920x1080-0623cbe9e19b16e9a5126f324f3daa2f",
+      "md5": "0623cbe9e19b16e9a5126f324f3daa2f",
+      "size": 73537,
+      "uploadedDate": "2021-06-09T16:11:34.751Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/1920x1080_1920x1080-0623cbe9e19b16e9a5126f324f3daa2f",
+      "md5": "0623cbe9e19b16e9a5126f324f3daa2f",
+      "size": 73537,
+      "uploadedDate": "2021-06-09T16:11:45.842Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Mobile-Image_315x399_315x399-436eda4879a0cc9362108cab2debc43b",
+      "md5": "436eda4879a0cc9362108cab2debc43b",
+      "size": 8191,
+      "uploadedDate": "2021-06-09T16:12:00.859Z",
+      "width": 315,
+      "height": 399
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Mobile-Image_315x399_315x399-436eda4879a0cc9362108cab2debc43b",
+      "md5": "436eda4879a0cc9362108cab2debc43b",
+      "size": 8191,
+      "uploadedDate": "2021-06-09T16:12:21.426Z",
+      "width": 315,
+      "height": 399
+    }
+  ],
+  "items": [
+    {
+      "id": "e6b6b6c3cf644612a8359513d9022ef5"
+    }
+  ],
+  "catalogNs": {
+    "name": "cd14dcaa4f3443f19f7169a980559c62"
+  }
+}

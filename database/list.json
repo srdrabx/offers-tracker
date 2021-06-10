@@ -1285,6 +1285,21 @@
     ""
   ],
   [
+    "05e562bfa54247e88b8217454810471f",
+    "cd14dcaa4f3443f19f7169a980559c62",
+    "Sid Meier’s Civilization® VI Anthology Upgrade",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "2K Games, Inc.",
+    1621891099,
+    1623345879,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/1200x1600_1200x1600-18154d39f5255ea2df904383354c9075",
+    ""
+  ],
+  [
     "05ec36ac6f4b402f944c0f60fdf4d6af",
     "c3e63401d6ba410493de31ed69a798a1",
     "GE Soldier Pack: Infantry Anti-Tank",
@@ -6169,6 +6184,22 @@
     ""
   ],
   [
+    "18f91469941b4f9fabbeb4470a86e0af",
+    "fbab831cc1c94385b4e311f47f6fdc4f",
+    "Galactic Civilizations IV",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Stardock Entertainment, Inc",
+    1620677826,
+    1623344117,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GalacticCivilizationsIV_StardockEntertainment_S2_1200x1600-cc286f02f92c9c715c3f9cd105373b8e",
+    "galactic-civilizations-iv"
+  ],
+  [
     "190237b4494844c9ac81492287506674",
     "7e508f543b05465abe3a935960eb70ac",
     "3 Chests",
@@ -9225,6 +9256,20 @@
     ""
   ],
   [
+    "25cdcf2640bb4ef2a908c65e5fad5dd5",
+    "fdd71e435e8d46faa9c46d33e694cb65",
+    "WE ARE FOOTBALL DLC - Edition \"Bundesliga\"",
+    [
+      "addons",
+      "addons/durable"
+    ],
+    "THQ Nordic GmbH",
+    1619550638,
+    1623342023,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WEAREFOOTBALLDLCEditionBundesliga_WinningStreakGames_DLC_S2_1200x1600-ba2f23189c750a8836f8a8bc480642fd",
+    ""
+  ],
+  [
     "25cf3a9524bd468393ebeae00c456bc2",
     "7e508f543b05465abe3a935960eb70ac",
     "Complete Force Grey Pack",
@@ -10488,6 +10533,21 @@
     1552086838,
     1588120698,
     "https://cdn1.epicgames.com/buttercup/offer/TWD2_CodeRedemption_MRating-400x634-f73404a956aa94861ed161b6bad10f33.jpg",
+    ""
+  ],
+  [
+    "2abd7345b6274fccb6343b3f7cc41348",
+    "402982723c79438bab7bfe346c34b5b6",
+    "Little Big Workshop - The Evil DLC",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Handy Games",
+    1620670829,
+    1623342078,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LittleBigWorkshopTheEvilDLC_MirageGameStudios_DLC_S2_1200x1600-b33301a6b70d7268c9884ad24a713da3",
     ""
   ],
   [
@@ -27950,6 +28010,21 @@
     ""
   ],
   [
+    "71f4d4594664446b8fff7569f696317e",
+    "fdd71e435e8d46faa9c46d33e694cb65",
+    "WE ARE FOOTBALL",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base"
+    ],
+    "THQ Nordic GmbH",
+    1617640720,
+    1623342023,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WEAREFOOTBALL_WinningStreakGames_S2_1200x1600-576c372b276c5f8925026cc61f84d14d",
+    "we-are-football"
+  ],
+  [
     "71f7b3d1755744e5b85d73b9b32e5831",
     "ed85e819ef2f48588bdfad2fd270b70e",
     "DCL the Game - Track Editor",
@@ -36334,9 +36409,9 @@
       "games",
       "applications"
     ],
-    "Epic Dev Test Account",
+    "Ubisoft Entertainment",
     1568917255,
-    1571239582,
+    1623345122,
     "",
     ""
   ],
@@ -47747,6 +47822,21 @@
     1618495220,
     "https://cdn1.epicgames.com/eb348461cdaf4bec9d69a1c4bb39ecc4/offer/EGS_HandofFate2AColdHearth_DefiantDevelopment_DLC_S2-1200x1600-37075c5b5a0c60e28081ceac9d0c0ce7.jpg",
     ""
+  ],
+  [
+    "c1733477f75042f4afcfbbae4c7cbe08",
+    "ff17044fb2804a4aa8066dde0626514d",
+    "Disciples: Liberation Digital Deluxe Edition",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Kalypso Media Group GmbH",
+    1623183751,
+    1623342702,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DisciplesLiberationDigitalDeluxeEdition_FrimaStudio_Editions_S2_1200x1600-95f1713f04ea0ca69830172ab2b0eb28",
+    "disciples-liberation--digital-deluxe-edition"
   ],
   [
     "c17e8d2bed694f37b240a7bcc80fd722",
@@ -60006,6 +60096,21 @@
     "the-division-2/home"
   ],
   [
+    "f301fd4611f240da87cdc7baf1b67f44",
+    "cd14dcaa4f3443f19f7169a980559c62",
+    "Sid Meier's Civilization VI : Anthology Edition",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "2K Games, Inc.",
+    1621891368,
+    1623344194,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/Mobile-Image_315x399_315x399-436eda4879a0cc9362108cab2debc43b",
+    "sid-meiers-civilization-vi--anthology-edition"
+  ],
+  [
     "f307dd722fdf440eb341f3fdea664db3",
     "076207fa2b5c4803a636af606c3c28b7",
     "SMITE Season Pass 2021",
@@ -61116,6 +61221,21 @@
     1594306671,
     "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
     ""
+  ],
+  [
+    "f826bb54e078491a8322938983197d18",
+    "402982723c79438bab7bfe346c34b5b6",
+    "Little Big Workshop",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base"
+    ],
+    "Handy Games",
+    1619753006,
+    1623342078,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LittleBigWorkshop_MirageGameStudios_S2_1200x1600-ffe151a4bf27560b8ecbc155b512b03b",
+    "little-big-workshop"
   ],
   [
     "f83354d936b74f7e9419366862b1e024",

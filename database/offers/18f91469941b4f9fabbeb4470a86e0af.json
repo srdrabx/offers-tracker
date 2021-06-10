@@ -1,0 +1,196 @@
+{
+  "id": "18f91469941b4f9fabbeb4470a86e0af",
+  "namespace": "fbab831cc1c94385b4e311f47f6fdc4f",
+  "title": "Galactic Civilizations IV",
+  "description": "Galactic Civilizations IV",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "galactic-civilizations-iv",
+  "urlSlug": "caracalpromoedition",
+  "creationDate": "2021-05-10T20:17:06.489Z",
+  "lastModifiedDate": "2021-06-10T16:55:17.263Z",
+  "effectiveDate": "2021-06-10T17:00:00.000Z",
+  "viewableDate": "2021-06-10T17:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+    "name": "Stardock Entertainment, Inc"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1203",
+      "name": "Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2021-02-10T17:35:33.537Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "Strategy",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2021-02-10T17:35:11.878Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1166",
+      "name": "4X",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:41.019Z",
+      "updated": "2020-08-11T17:30:09.076Z",
+      "status": "ACTIVE",
+      "referenceCount": 1,
+      "comment": null
+    },
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:52.671Z",
+      "updated": "2020-09-10T15:44:03.705Z",
+      "status": "ACTIVE",
+      "referenceCount": 0,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Stardock Entertainment"
+    },
+    {
+      "key": "developerName",
+      "value": "Stardock Entertainment"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "galactic-civilizations-iv"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GalacticCivilizationsIV_StardockEntertainment_S1_2560x1440-f4a43768c5cc8982e846dc4109d21972",
+      "md5": "f4a43768c5cc8982e846dc4109d21972",
+      "size": 871536,
+      "uploadedDate": "2021-06-03T21:20:57.182Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GalacticCivilizationsIV_StardockEntertainment_S2_1200x1600-cc286f02f92c9c715c3f9cd105373b8e",
+      "md5": "cc286f02f92c9c715c3f9cd105373b8e",
+      "size": 473395,
+      "uploadedDate": "2021-06-03T21:21:01.554Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GalacticCivilizationsIV_StardockEntertainment_S2_1200x1600-cc286f02f92c9c715c3f9cd105373b8e",
+      "md5": "cc286f02f92c9c715c3f9cd105373b8e",
+      "size": 473395,
+      "uploadedDate": "2021-06-03T21:21:07.123Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GalacticCivilizationsIV_StardockEntertainment_S2_1200x1600-cc286f02f92c9c715c3f9cd105373b8e",
+      "md5": "cc286f02f92c9c715c3f9cd105373b8e",
+      "size": 473395,
+      "uploadedDate": "2021-06-03T21:21:13.224Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GalacticCivilizationsIV_StardockEntertainment_S1_2560x1440-f4a43768c5cc8982e846dc4109d21972",
+      "md5": "f4a43768c5cc8982e846dc4109d21972",
+      "size": 871536,
+      "uploadedDate": "2021-06-03T21:21:19.266Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GalacticCivilizationsIV_StardockEntertainment_S2_1200x1600-cc286f02f92c9c715c3f9cd105373b8e",
+      "md5": "cc286f02f92c9c715c3f9cd105373b8e",
+      "size": 473395,
+      "uploadedDate": "2021-06-03T21:21:25.329Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "1beee24b0b2a4920abec98bc1d82f599"
+    }
+  ],
+  "catalogNs": {
+    "name": "fbab831cc1c94385b4e311f47f6fdc4f"
+  }
+}
