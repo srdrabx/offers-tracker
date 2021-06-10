@@ -5,10 +5,10 @@
   "description": "Control",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "control/home",
+  "productSlug": "control",
   "urlSlug": "control",
   "creationDate": "2019-02-28T14:15:02.157Z",
-  "lastModifiedDate": "2020-09-09T23:58:42.149Z",
+  "lastModifiedDate": "2021-06-10T04:59:22.603Z",
   "effectiveDate": "2019-08-26T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -114,7 +114,7 @@
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "control/home"
+      "value": "control"
     }
   ],
   "keyImages": [
@@ -146,15 +146,6 @@
       "height": 1450
     },
     {
-      "type": "TakeoverWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/Control_Store_Primary_Promo-2580x1450-371d5dd82a48a881145528b4781fe757.jpg",
-      "md5": "371d5dd82a48a881145528b4781fe757",
-      "size": 223868,
-      "uploadedDate": "2019-08-23T13:22:12.036Z",
-      "width": 2580,
-      "height": 1450
-    },
-    {
       "type": "TakeoverLogo",
       "url": "https://cdn1.epicgames.com/epic/offer/Control_Store_Portrait_logo-560x128-5a125b9814c241f852eb1d627574b3eb.png",
       "md5": "5a125b9814c241f852eb1d627574b3eb",
@@ -162,15 +153,6 @@
       "uploadedDate": "2019-08-23T20:42:10.004Z",
       "width": 560,
       "height": 128
-    },
-    {
-      "type": "TakeoverTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/Control_Store_Portrait_promo4-1280x1420-bc8884619f0a9f4348c24890f6ab7dae.png",
-      "md5": "bc8884619f0a9f4348c24890f6ab7dae",
-      "size": 1416901,
-      "uploadedDate": "2019-08-23T21:22:14.710Z",
-      "width": 1280,
-      "height": 1420
     },
     {
       "type": "OfferImageTall",
