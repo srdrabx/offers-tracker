@@ -6,10 +6,10 @@
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": "open-country",
-  "urlSlug": "nitrogengeneralaudience",
+  "urlSlug": "open-country",
   "creationDate": "2021-02-24T00:28:33.659Z",
-  "lastModifiedDate": "2021-03-02T16:52:37.403Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2021-06-10T14:49:03.593Z",
+  "effectiveDate": "2021-06-10T15:00:00.000Z",
   "viewableDate": "2021-03-02T17:00:00.000Z",
   "developer": null,
   "seller": {
@@ -83,58 +83,58 @@
   ],
   "keyImages": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/dd7c9906a9604b68af4ffe0405f51af5/offer/Epic_OC1920x1080-1920x1080-c92456aed28c1cbb362737cc553e9cc7.jpg",
-      "md5": "c92456aed28c1cbb362737cc553e9cc7",
-      "size": 564991,
-      "uploadedDate": "2021-02-25T04:33:47.484Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/dd7c9906a9604b68af4ffe0405f51af5/offer/Epic_OC1200x1600-1200x1600-355a886f2f63aa51541b239e2566a0a4.jpg",
-      "md5": "355a886f2f63aa51541b239e2566a0a4",
-      "size": 439133,
-      "uploadedDate": "2021-02-25T04:33:54.036Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/dd7c9906a9604b68af4ffe0405f51af5/offer/Epic_OC1200x1600-1200x1600-355a886f2f63aa51541b239e2566a0a4.jpg",
-      "md5": "355a886f2f63aa51541b239e2566a0a4",
-      "size": 439133,
-      "uploadedDate": "2021-02-25T04:34:02.900Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/dd7c9906a9604b68af4ffe0405f51af5/offer/Epic_OC1200x1600-1200x1600-355a886f2f63aa51541b239e2566a0a4.jpg",
-      "md5": "355a886f2f63aa51541b239e2566a0a4",
-      "size": 439133,
-      "uploadedDate": "2021-02-25T04:34:09.569Z",
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Epic_OC1200x1600_1200x1600-8ae30190049aaa68a4802e92a4a56701",
+      "md5": "8ae30190049aaa68a4802e92a4a56701",
+      "size": 428409,
+      "uploadedDate": "2021-06-09T22:22:49.410Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/dd7c9906a9604b68af4ffe0405f51af5/offer/Epic_OC2560x1440-2560x1440-28d3b6f6dc3776a92bf31677cb876b47.jpg",
-      "md5": "28d3b6f6dc3776a92bf31677cb876b47",
-      "size": 892154,
-      "uploadedDate": "2021-02-25T04:34:24.945Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Epic_OC2560x1440_2560x1440-3bea497e1eb98911f97f12c74b90e05f",
+      "md5": "3bea497e1eb98911f97f12c74b90e05f",
+      "size": 886498,
+      "uploadedDate": "2021-06-09T22:22:53.679Z",
       "width": 2560,
       "height": 1440
     },
     {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/dd7c9906a9604b68af4ffe0405f51af5/offer/Epic_OC1200x1600-1200x1600-355a886f2f63aa51541b239e2566a0a4.jpg",
-      "md5": "355a886f2f63aa51541b239e2566a0a4",
-      "size": 439133,
-      "uploadedDate": "2021-02-25T04:34:33.351Z",
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Epic_OC1200x1600_1200x1600-8ae30190049aaa68a4802e92a4a56701",
+      "md5": "8ae30190049aaa68a4802e92a4a56701",
+      "size": 428409,
+      "uploadedDate": "2021-06-09T22:23:11.963Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Epic_OC1200x1600_1200x1600-8ae30190049aaa68a4802e92a4a56701",
+      "md5": "8ae30190049aaa68a4802e92a4a56701",
+      "size": 428409,
+      "uploadedDate": "2021-06-09T22:23:09.117Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Epic_OC1200x1600_1200x1600-8ae30190049aaa68a4802e92a4a56701",
+      "md5": "8ae30190049aaa68a4802e92a4a56701",
+      "size": 428409,
+      "uploadedDate": "2021-06-09T22:23:35.763Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Epic_OC2560x1440_2560x1440-3bea497e1eb98911f97f12c74b90e05f",
+      "md5": "3bea497e1eb98911f97f12c74b90e05f",
+      "size": 886498,
+      "uploadedDate": "2021-06-09T22:23:31.238Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
   "items": [

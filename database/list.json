@@ -195,6 +195,21 @@
     "[]"
   ],
   [
+    "00bb174be27d48cdba79d30e5ce78695",
+    "2d94b7b33d7f4d02a8fff6fbf71ac7ab",
+    "Overcooked! 2 - Carnival of Chaos",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Team17 Digital Ltd",
+    1571079941,
+    1623337473,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CarnivalofChaos_GhostTownGamesandTeam17DigitalLtd_DLC_S2_1200x1600-8b9faeb40b1f2cd5c143d7abfbc4e708",
+    ""
+  ],
+  [
     "00d74de590684ba9adf5e71842edbc7b",
     "wex",
     "Pouch of Gems",
@@ -3186,6 +3201,21 @@
     ""
   ],
   [
+    "0e25b5d6cace4d108e2386f60ec531a7",
+    "2d94b7b33d7f4d02a8fff6fbf71ac7ab",
+    "Overcooked! 2 - Surf 'n' Turf",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Team17 Digital Ltd",
+    1571080303,
+    1623337473,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SurfnTurf_GhostTownGamesandTeam17DigitalLtd_DLC_S2_1200x1600-0883edc7a8881119764f8b0268f1bc5f",
+    ""
+  ],
+  [
     "0e2cbcb3d2c84c9ab26f38b0b619b260",
     "fn",
     "Llamalaxy",
@@ -3604,7 +3634,7 @@
     ],
     "Team17 Digital Ltd",
     1568144042,
-    1623334381,
+    1623337473,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-overcooked2-tall_1200x1600-fbae89fad70c05cd1979316f620e64a9",
     "overcooked-2"
   ],
@@ -5795,7 +5825,7 @@
     ],
     "Kongregate",
     1610582782,
-    1623334147,
+    1623337638,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Hellisotherdemons_CuddleMonsterGames_S2_1200x1600-da6dce7cd466a31ae78e34ccdc27bab8",
     "hell-is-other-demons"
   ],
@@ -13971,7 +14001,7 @@
     ],
     "Epic Dev Test Account",
     1620857854,
-    1623335062,
+    1623337480,
     "",
     "control"
   ],
@@ -16366,7 +16396,7 @@
     ],
     "Discord Inc",
     1613436048,
-    1623334003,
+    1623337445,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-discord-discord-s2-1200x1600-7f26149140c8_1200x1600-14fff66a6835df9c5915cd015cd7fefb",
     "discord"
   ],
@@ -21454,8 +21484,8 @@
     ],
     "505 Games",
     1614126513,
-    1614703957,
-    "https://cdn1.epicgames.com/dd7c9906a9604b68af4ffe0405f51af5/offer/Epic_OC1200x1600-1200x1600-355a886f2f63aa51541b239e2566a0a4.jpg",
+    1623336543,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/Epic_OC1200x1600_1200x1600-8ae30190049aaa68a4802e92a4a56701",
     "open-country"
   ],
   [
@@ -31131,6 +31161,21 @@
     1588120702,
     "",
     "free-games-collection"
+  ],
+  [
+    "7f2c2c5bd792489490d01fbd633e5c1f",
+    "2d94b7b33d7f4d02a8fff6fbf71ac7ab",
+    "Overcooked! 2 - Night of the Hangry Horde",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Team17 Digital Ltd",
+    1571080106,
+    1623337473,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_NightoftheHangryHorde_GhostTownGamesandTeam17DigitalLtd_DLC_S2_1200x1600-b338cb2ccc43388b75af9bad9f0284e9",
+    ""
   ],
   [
     "7f383d44d81340b9b9b09b46d5a1fb4a",
@@ -44656,14 +44701,12 @@
     "d5241c76f178492ea1540fce45616757",
     "Frostpunk",
     [
-      "freegames/vaulted",
-      "freegames",
       "games",
       "applications"
     ],
     "Epic Dev Test Account",
     1620857747,
-    1622730337,
+    1623337199,
     "",
     "frostpunk"
   ],
@@ -44990,6 +45033,21 @@
     1608047745,
     "https://cdn1.epicgames.com/95d0b9561be1464cb43bd029e94cf526/offer/Epic_GR_WINTER_1200x1600-1200x1600-3076997f0b61c2f3e6f7a6a1f0cc66d2.jpg",
     "ghostrunner/winter-pack"
+  ],
+  [
+    "b5bdaa0d1ce041f0b6b156b3b71211b5",
+    "2d94b7b33d7f4d02a8fff6fbf71ac7ab",
+    "Overcooked! 2 - Campfire Cook Off",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Team17 Digital Ltd",
+    1571080205,
+    1623337473,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CampfireCookOff_GhostTownGamesandTeam17DigitalLtd_DLC_S2_1200x1600-48096d57c836de6c7f3d955cdffcf19e",
+    ""
   ],
   [
     "b5bfa6cccf5f4f5ab2b43f4007705722",
@@ -51867,6 +51925,20 @@
     "hue"
   ],
   [
+    "d4625712a13b466cb83a8762be64f0e2",
+    "5f3c898b2a3244af99e9900e015717f8",
+    "Discord Nitro",
+    [
+      "addons",
+      "addons/durable"
+    ],
+    "Discord Inc",
+    1621447783,
+    1623334003,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Discord_Nitro_Mobile_1200x1600_1200x1600-98bc3f097023a53fca0c6a6c6781c9f5",
+    ""
+  ],
+  [
     "d46eb49f931e4f6a9412ca31f55002a6",
     "bb9f87bb3d0042258bb1c97397bc60f2",
     "Crayta",
@@ -53580,6 +53652,21 @@
     1550183294,
     1588121196,
     "",
+    ""
+  ],
+  [
+    "db860c50a3114125a17918274e1ea128",
+    "2d94b7b33d7f4d02a8fff6fbf71ac7ab",
+    "Overcooked! 2 - Too Many Cooks Pack",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Team17 Digital Ltd",
+    1571076056,
+    1623337473,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TooManyCooks_GhostTownGamesandTeam17DigitalLtd_DLC_S2_1200x1600-f39a3b5193ca9bb3ca51ce032ef19856",
     ""
   ],
   [
@@ -62042,6 +62129,21 @@
     1589384151,
     "",
     "world-war-z/home"
+  ],
+  [
+    "fc17f11ea7f64f0bad10c9efbdc9b9ee",
+    "2d94b7b33d7f4d02a8fff6fbf71ac7ab",
+    "Overcooked! 2 - Gourmet Edition",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Team17 Digital Ltd",
+    1622574959,
+    1623337473,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Overcooked2GourmetEdition_GhostTownGamesandTeam17DigitalLtd_Editions_S2_1200x1600-f40f1a5bfc3e92987f0fc2262193174c",
+    "overcooked-2--gourmet-edition"
   ],
   [
     "fc268a2465eb4a379a99a4d811fb78d1",

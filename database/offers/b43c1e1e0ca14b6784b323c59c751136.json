@@ -8,7 +8,7 @@
   "productSlug": "frostpunk",
   "urlSlug": "free-games-06",
   "creationDate": "2021-05-12T22:15:47.196Z",
-  "lastModifiedDate": "2021-06-03T14:25:37.154Z",
+  "lastModifiedDate": "2021-06-10T14:59:59.876Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2021-05-27T14:25:00.000Z",
   "developer": null,
@@ -24,12 +24,6 @@
   "technicalDetails": null,
   "recurrence": "ONCE",
   "categories": [
-    {
-      "path": "freegames/vaulted"
-    },
-    {
-      "path": "freegames"
-    },
     {
       "path": "games"
     },
