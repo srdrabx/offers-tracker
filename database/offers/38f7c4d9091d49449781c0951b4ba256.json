@@ -1,14 +1,14 @@
 {
   "id": "38f7c4d9091d49449781c0951b4ba256",
   "namespace": "d5241c76f178492ea1540fce45616757",
-  "title": "Mystery Game",
-  "description": "Mystery Game ",
+  "title": "Control",
+  "description": "Control",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "[]",
+  "productSlug": "control",
   "urlSlug": "free-games-07",
   "creationDate": "2021-05-12T22:17:34.473Z",
-  "lastModifiedDate": "2021-06-03T14:25:37.133Z",
+  "lastModifiedDate": "2021-06-10T14:24:22.683Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2021-06-03T14:25:00.000Z",
   "developer": null,
@@ -49,11 +49,11 @@
     },
     {
       "key": "com.epicgames.app.freegames.vault.slug",
-      "value": "free-games"
+      "value": "news/the-epic-mega-sale-returns-for-2021"
     },
     {
       "key": "publisherName",
-      "value": "[]"
+      "value": "505 Games"
     },
     {
       "key": "dupe",
@@ -65,11 +65,11 @@
     },
     {
       "key": "developerName",
-      "value": "[]"
+      "value": "Remedy Entertainment"
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "[]"
+      "value": "control"
     }
   ],
   "keyImages": [
@@ -81,6 +81,24 @@
       "uploadedDate": "2020-05-05T15:58:33.054Z",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Control_Tall_1453x1600-47cf014d6a6a7b1fbabd2824c3157598",
+      "md5": "47cf014d6a6a7b1fbabd2824c3157598",
+      "size": 838485,
+      "uploadedDate": "2021-06-10T05:03:54.341Z",
+      "width": 1453,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Control_Wide_2560x1440-25eae8ca3c7549465a8b8b05bd586a73",
+      "md5": "25eae8ca3c7549465a8b8b05bd586a73",
+      "size": 793097,
+      "uploadedDate": "2021-06-10T05:04:08.632Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
   "items": [

@@ -8,8 +8,8 @@
   "productSlug": "discord",
   "urlSlug": "bohriumgeneralaudience",
   "creationDate": "2021-02-16T00:40:48.203Z",
-  "lastModifiedDate": "2021-05-19T01:25:59.121Z",
-  "effectiveDate": "2050-02-15T18:39:00.000Z",
+  "lastModifiedDate": "2021-06-10T14:06:43.334Z",
+  "effectiveDate": "2021-06-10T15:00:00.000Z",
   "viewableDate": "2021-05-06T17:20:00.000Z",
   "developer": null,
   "seller": {
@@ -32,9 +32,6 @@
     },
     {
       "path": "software/edition/base"
-    },
-    {
-      "path": "applications"
     }
   ],
   "tags": [
@@ -54,6 +51,33 @@
       "status": "ACTIVE",
       "referenceCount": 0,
       "comment": ""
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "Mac OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX",
+        "macOS"
+      ],
+      "operator": null,
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2021-02-10T17:26:31.125Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -73,57 +97,57 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-discord-discord-s1-2560x1440-834f227d1383_2560x1440-53f5d8dfeecbcb54b5ef5cc2acd8f21f",
-      "md5": "53f5d8dfeecbcb54b5ef5cc2acd8f21f",
-      "size": 138972,
-      "uploadedDate": "2021-05-19T01:25:08.255Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-discord-discord-s1-2560x1440-51474ee7abe3_2560x1440-e14a2b58e93768f0abc47dbf62a4ee86",
+      "md5": "e14a2b58e93768f0abc47dbf62a4ee86",
+      "size": 152722,
+      "uploadedDate": "2021-05-06T17:09:10.036Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-discord-discord-s2-1200x1600-b72c609ef567_1200x1600-7e960066e153510e27bdded06d99ff5e",
-      "md5": "7e960066e153510e27bdded06d99ff5e",
-      "size": 87602,
-      "uploadedDate": "2021-05-19T01:25:19.545Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-discord-discord-s2-1200x1600-7f26149140c8_1200x1600-14fff66a6835df9c5915cd015cd7fefb",
+      "md5": "14fff66a6835df9c5915cd015cd7fefb",
+      "size": 93727,
+      "uploadedDate": "2021-05-06T17:09:19.777Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-discord-discord-s2-1200x1600-b72c609ef567_1200x1600-7e960066e153510e27bdded06d99ff5e",
-      "md5": "7e960066e153510e27bdded06d99ff5e",
-      "size": 87602,
-      "uploadedDate": "2021-05-19T01:25:27.940Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-discord-discord-s2-1200x1600-7f26149140c8_1200x1600-14fff66a6835df9c5915cd015cd7fefb",
+      "md5": "14fff66a6835df9c5915cd015cd7fefb",
+      "size": 93727,
+      "uploadedDate": "2021-05-06T17:09:28.833Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-discord-discord-s2-1200x1600-b72c609ef567_1200x1600-7e960066e153510e27bdded06d99ff5e",
-      "md5": "7e960066e153510e27bdded06d99ff5e",
-      "size": 87602,
-      "uploadedDate": "2021-05-19T01:25:36.202Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-discord-discord-s2-1200x1600-b72c609ef567_1200x1600-7e960066e153510e27bdded06d99ff5e",
-      "md5": "7e960066e153510e27bdded06d99ff5e",
-      "size": 87602,
-      "uploadedDate": "2021-05-19T01:25:44.612Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-discord-discord-s2-1200x1600-7f26149140c8_1200x1600-14fff66a6835df9c5915cd015cd7fefb",
+      "md5": "14fff66a6835df9c5915cd015cd7fefb",
+      "size": 93727,
+      "uploadedDate": "2021-05-06T17:09:38.941Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-discord-discord-s1-2560x1440-834f227d1383_2560x1440-53f5d8dfeecbcb54b5ef5cc2acd8f21f",
-      "md5": "53f5d8dfeecbcb54b5ef5cc2acd8f21f",
-      "size": 138972,
-      "uploadedDate": "2021-05-19T01:25:54.030Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-discord-discord-s1-2560x1440-51474ee7abe3_2560x1440-e14a2b58e93768f0abc47dbf62a4ee86",
+      "md5": "e14a2b58e93768f0abc47dbf62a4ee86",
+      "size": 152722,
+      "uploadedDate": "2021-05-06T17:09:48.274Z",
       "width": 2560,
       "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-discord-discord-s2-1200x1600-7f26149140c8_1200x1600-14fff66a6835df9c5915cd015cd7fefb",
+      "md5": "14fff66a6835df9c5915cd015cd7fefb",
+      "size": 93727,
+      "uploadedDate": "2021-05-06T17:10:02.643Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [

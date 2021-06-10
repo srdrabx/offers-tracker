@@ -3593,6 +3593,22 @@
     ""
   ],
   [
+    "0fd170f41c284239a6a6e0be2df3b8e5",
+    "2d94b7b33d7f4d02a8fff6fbf71ac7ab",
+    "Overcooked! 2",
+    [
+      "freegames",
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Team17 Digital Ltd",
+    1568144042,
+    1623334381,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-overcooked2-tall_1200x1600-fbae89fad70c05cd1979316f620e64a9",
+    "overcooked-2"
+  ],
+  [
     "0fd5b920ec0d42768281b263a982ca5b",
     "7f498fbf0a4e43239d58eee6615ae806",
     "PeacockDevAudience",
@@ -5766,6 +5782,22 @@
     1599752561,
     "https://cdn1.epicgames.com/c14dd3d3c8214149b27477dd4619f029/offer/EGS_AsFarAsTheEye_UnexpectedStudio_S2-1200x1600-54d45d0a4e42603f0bceea6290da5a02.jpg",
     "as-far-as-the-eye/soundtrack"
+  ],
+  [
+    "1786c8d9cd474bef9ce221929411633f",
+    "643a8667d7a940b8b36094020fcd0dcf",
+    "Hell is other demons",
+    [
+      "freegames",
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Kongregate",
+    1610582782,
+    1623334147,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Hellisotherdemons_CuddleMonsterGames_S2_1200x1600-da6dce7cd466a31ae78e34ccdc27bab8",
+    "hell-is-other-demons"
   ],
   [
     "179e1468a4ce46a28b5523a8a62ada3e",
@@ -13930,7 +13962,7 @@
   [
     "38f7c4d9091d49449781c0951b4ba256",
     "d5241c76f178492ea1540fce45616757",
-    "Mystery Game",
+    "Control",
     [
       "freegames/vaulted",
       "freegames",
@@ -13939,9 +13971,9 @@
     ],
     "Epic Dev Test Account",
     1620857854,
-    1622730337,
+    1623335062,
     "",
-    "[]"
+    "control"
   ],
   [
     "38fa1647ce8b43b29071239f37a908d5",
@@ -16330,13 +16362,12 @@
     [
       "software",
       "software/edition",
-      "software/edition/base",
-      "applications"
+      "software/edition/base"
     ],
     "Discord Inc",
     1613436048,
-    1621387559,
-    "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-discord-discord-s2-1200x1600-b72c609ef567_1200x1600-7e960066e153510e27bdded06d99ff5e",
+    1623334003,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-discord-discord-s2-1200x1600-7f26149140c8_1200x1600-14fff66a6835df9c5915cd015cd7fefb",
     "discord"
   ],
   [
