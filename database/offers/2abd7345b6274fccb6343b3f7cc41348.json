@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "little-big-workshop--the-evil-dlc",
   "creationDate": "2021-05-10T18:20:29.968Z",
-  "lastModifiedDate": "2021-06-10T16:21:18.224Z",
+  "lastModifiedDate": "2021-06-10T22:53:25.189Z",
   "effectiveDate": "2021-06-10T17:00:00.000Z",
   "viewableDate": "2021-06-10T17:00:00.000Z",
   "developer": null,
@@ -156,6 +156,6 @@
     }
   ],
   "catalogNs": {
-    "name": "402982723c79438bab7bfe346c34b5b6"
+    "name": null
   }
 }
