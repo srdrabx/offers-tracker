@@ -21597,7 +21597,7 @@
   [
     "579fbc4c51a44f098bfaff5dc4a31d92",
     "28d06644e2f84b398c1b7fb96a2b6bd5",
-    "Gods Will Fall: The Valley of the Dormant Gods",
+    "Valley of the Dormant Gods Season Pass",
     [
       "addons",
       "addons/durable",
@@ -21605,8 +21605,8 @@
     ],
     "Koch Media",
     1605125452,
-    1611878507,
-    "https://cdn1.epicgames.com/28d06644e2f84b398c1b7fb96a2b6bd5/offer/GWF_VOTDG_Artwork_Portrait_Final-1524x1900-5ad71a9c34545441b2d54a10a228fb81.png",
+    1623343201,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GodsWillFallValleyoftheDormantGods_CleverBeansLtd_SeasonPass_S2_1200x1600-ba143d4718f65c4f2ac47a1928063c7d",
     ""
   ],
   [
@@ -27217,7 +27217,7 @@
     ],
     "Kalypso Media Group GmbH",
     1616693962,
-    1623184261,
+    1623342893,
     "https://cdn1.epicgames.com/ff17044fb2804a4aa8066dde0626514d/offer/EGS_DisciplesLiberation_FrimaStudio_S6-1200x1600-89473ab64a7d3d531e88c921340ed608.jpg",
     "disciples-liberation"
   ],
@@ -39820,6 +39820,20 @@
     ""
   ],
   [
+    "a097c361bf484a808d735c5a9bfa2db2",
+    "sundrop",
+    "For Honor® Y5S2 Battle Bundle",
+    [
+      "addons",
+      "addons/durable"
+    ],
+    "Ubisoft Entertainment",
+    1623102546,
+    1623339180,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/HRO_Y5S2_BattleBundle_Store_Portrait_1200x1600_1200x1600-e8f0d4a598c078a546dab225d7fb0272",
+    ""
+  ],
+  [
     "a0ad09f4284148f1b2eca5b87626ee2f",
     "affc33b82405457595a032f00284abd2",
     "Horzine Supply Emote Crate | Series #3 Silver Bundle Pack",
@@ -42037,6 +42051,20 @@
     1611253634,
     1613056553,
     "",
+    ""
+  ],
+  [
+    "a9eb46d561404aa9978977e668b487a7",
+    "sundrop",
+    "For Honor® Y5S2 Battle Pass",
+    [
+      "addons",
+      "addons/durable"
+    ],
+    "Ubisoft Entertainment",
+    1623102656,
+    1623339180,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/HRO_Y5S2_BattlePass_Store_Portrait_1200x1600_1200x1600-66e1f94f313b42f73d7717ef6a48e04c",
     ""
   ],
   [
@@ -60006,6 +60034,20 @@
     ""
   ],
   [
+    "f32b9f4b2c7f42beb64f648bed2731a1",
+    "6af58339c2424644988e0fb83dfd9bd5",
+    "Alesso & Armin van Buuren - \"Leave A Little Love\"",
+    [
+      "addons",
+      "addons/durable"
+    ],
+    "NCSoft",
+    1619733481,
+    1623337073,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AlessoArminvanBuurenLeaveALittleLove_HarmonixMusicSystemsInc_DLC_S2_1200x1600-3be1776fbfb76f98fb30ef9d082e4724",
+    ""
+  ],
+  [
     "f33a23824ef64b798118eecf95eb0420",
     "6ae065d071d74979ad62236b71dc11c7",
     "DevOncillaAudience",
@@ -61133,6 +61175,20 @@
     1612469839,
     "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/41e8f34a-86b8-4e9a-a258-b937258f3931-1200x1600-1d545395117cae9eee34b13144bf4639.jfif",
     "paladins/season-pass2021"
+  ],
+  [
+    "f853f932b912431dab00a30e7e92f77e",
+    "6af58339c2424644988e0fb83dfd9bd5",
+    "Zara Larsson - \"Look What You've Done\"",
+    [
+      "addons",
+      "addons/durable"
+    ],
+    "NCSoft",
+    1619732606,
+    1623337073,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_ZaraLarssonLookWhatYouveDone_HarmonixMusicSystemsInc_DLC_S2_1200x1600-a8824dc4929b7591f8ea0800212aec18",
+    ""
   ],
   [
     "f8554704641d4a2995077d54caf299ce",

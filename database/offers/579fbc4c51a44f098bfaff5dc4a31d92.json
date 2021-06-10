@@ -1,16 +1,16 @@
 {
   "id": "579fbc4c51a44f098bfaff5dc4a31d92",
   "namespace": "28d06644e2f84b398c1b7fb96a2b6bd5",
-  "title": "Gods Will Fall: The Valley of the Dormant Gods",
-  "description": "\"The Valley of the Dormant Gods\" DLC Pack Includes:\n\nThree New Gods,  \nNew Weapon Classes,   \nNew Items, \nNew Skills, \nOverworld Extras,  \nWarriors' Garb",
-  "longDescription": "# You Are The Last Hope For Humanity\nThe gods’ torturous rule over humanity has lasted for millennia.  Bent on cruelty and suffering, they demand to be served with blind worship through an oath of fealty pledged from every man, woman and child. To those who don't submit to the gods’ will; a slow and merciless death awaits.\nExperience the brutal trials of a venturous band of warriors in their desperate plight to sever the gods’ callous grip on humanity. Every man and woman who can muster a blade, having suffered the brutality of the gods’ reign for too long, will be called upon to form your clan of 8 Celtic survivors and rise up to take on the legions of horrific beasts and minions that dwell in each of the gods’ hellish realms.    \nA personal tale emerges with every decision made. Succeed and see legends born. Fail, and watch lives turn to dust.\n\n# \"The Valley of the Dormant Gods\" DLC Pack Includes:\n\n# Three New Gods\nEnter and battle your way through three new infernal god realms. Each of these uncharted hellscapes, inhabited by abominable swarms of minions, will be a grueling test to your mettle.\n\n# New Weapon Classes\nPlay as two new barbarous warrior types, each with their own unique death-dealing style of combat.\n\n# New Items\nA windfall of new gear and provisions to aid your clan in battle and turn the tides of war.\n\n# New Skills\nNew methods of melee to further expand your warriors’ combat system and ensure the apt champion is chosen for the battle that lies ahead.\n\n# Overworld Extras\nAs you traverse the tranquil overworld, keep your eyes peeled and unearth the hidden secrets now spread across this serene landscape.\n\n# Warriors' Garb\nSuit up your clan in the finest battle-ready attire & headgear for extra swagger as they enter the fray.",
+  "title": "Valley of the Dormant Gods Season Pass",
+  "description": "Equipped with a deadly new weapon class along with new skills and items added to your arsenal, ascend the savage mountain realm of Yaltogguth.\n\nValley of the Dormant Gods Season Pass will automatically update for owners of the Valiant Edition.",
+  "longDescription": "The island of the gods has been conquered and your clan of warriors have battled their way to victory, breaking the gods' grip on humanity.\n\n# Valley of the Dormant Gods Season Pass includes: \n\n**A new realm**\nA mountainous realm to explore with a new god to defeat -  Yaltogguth, the god of Eyes.\n\n**A new weapon class**\nThe Brawler, equipped with gauntlets.\n\n**Three new items**\nBlood Moss, Bone Quake and War Paint.\n\n**Three new skills**\nAgile Warrior, Momentum of War and Parry Master.\n\n**Warriors' Garb**\nNew clothing items for your clan.\n",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "gods-will-fall--valley-of-the-dormant-gods",
+  "urlSlug": "gods-will-fall--valley-of-the-dormant-gods-season-pass",
   "creationDate": "2020-11-11T20:10:52.652Z",
-  "lastModifiedDate": "2021-01-29T00:01:47.523Z",
-  "effectiveDate": "2021-01-29T00:00:00.000Z",
-  "viewableDate": "2021-01-29T00:00:00.000Z",
+  "lastModifiedDate": "2021-06-10T16:40:01.681Z",
+  "effectiveDate": "2021-06-10T15:00:00.000Z",
+  "viewableDate": "2021-06-10T15:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
@@ -34,7 +34,44 @@
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2021-02-10T17:36:19.203Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1336",
+      "name": "Action-Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:05.439Z",
+      "updated": "2020-12-15T02:17:02.957Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -52,57 +89,93 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/28d06644e2f84b398c1b7fb96a2b6bd5/offer/GWF_VOTDG_Artwork_1920x1080_Final-1920x1080-26d4daf80d71580bffffe80415d0e447.png",
-      "md5": "26d4daf80d71580bffffe80415d0e447",
-      "size": 2610462,
-      "uploadedDate": "2020-11-20T17:26:42.710Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/28d06644e2f84b398c1b7fb96a2b6bd5/offer/GWF_VOTDG_Artwork_1920x1080_Final-1920x1080-26d4daf80d71580bffffe80415d0e447.png",
-      "md5": "26d4daf80d71580bffffe80415d0e447",
-      "size": 2610462,
-      "uploadedDate": "2020-11-20T17:27:12.524Z",
-      "width": 1920,
-      "height": 1080
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GodsWillFallValleyoftheDormantGods_CleverBeansLtd_SeasonPass_S1_2560x1440-b712ef14787cf7586dd20e89234563f0",
+      "md5": "b712ef14787cf7586dd20e89234563f0",
+      "size": 479065,
+      "uploadedDate": "2021-05-26T15:10:20.488Z",
+      "width": 2560,
+      "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/28d06644e2f84b398c1b7fb96a2b6bd5/offer/GWF_VOTDG_Artwork_Portrait_Final-1524x1900-5ad71a9c34545441b2d54a10a228fb81.png",
-      "md5": "5ad71a9c34545441b2d54a10a228fb81",
-      "size": 3882440,
-      "uploadedDate": "2020-11-20T17:27:45.165Z",
-      "width": 1524,
-      "height": 1900
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GodsWillFallValleyoftheDormantGods_CleverBeansLtd_SeasonPass_S2_1200x1600-ba143d4718f65c4f2ac47a1928063c7d",
+      "md5": "ba143d4718f65c4f2ac47a1928063c7d",
+      "size": 454080,
+      "uploadedDate": "2021-05-26T15:10:56.888Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/28d06644e2f84b398c1b7fb96a2b6bd5/offer/GWF_VOTDG_Artwork_Portrait_Final-1524x1900-5ad71a9c34545441b2d54a10a228fb81.png",
-      "md5": "5ad71a9c34545441b2d54a10a228fb81",
-      "size": 3882440,
-      "uploadedDate": "2020-11-20T17:28:46.087Z",
-      "width": 1524,
-      "height": 1900
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GodsWillFallValleyoftheDormantGods_CleverBeansLtd_SeasonPass_S2_1200x1600-ba143d4718f65c4f2ac47a1928063c7d",
+      "md5": "ba143d4718f65c4f2ac47a1928063c7d",
+      "size": 454080,
+      "uploadedDate": "2021-05-26T15:11:02.165Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/28d06644e2f84b398c1b7fb96a2b6bd5/offer/GWF_VOTDG_Artwork_Portrait_Final-1524x1900-5ad71a9c34545441b2d54a10a228fb81.png",
-      "md5": "5ad71a9c34545441b2d54a10a228fb81",
-      "size": 3882440,
-      "uploadedDate": "2020-11-20T17:29:11.734Z",
-      "width": 1524,
-      "height": 1900
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GodsWillFallValleyoftheDormantGods_CleverBeansLtd_SeasonPass_S2_1200x1600-ba143d4718f65c4f2ac47a1928063c7d",
+      "md5": "ba143d4718f65c4f2ac47a1928063c7d",
+      "size": 454080,
+      "uploadedDate": "2021-05-26T15:11:06.750Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GodsWillFallValleyoftheDormantGods_CleverBeansLtd_SeasonPass_S1_2560x1440-b712ef14787cf7586dd20e89234563f0",
+      "md5": "b712ef14787cf7586dd20e89234563f0",
+      "size": 479065,
+      "uploadedDate": "2021-05-26T15:10:52.600Z",
+      "width": 2560,
+      "height": 1440
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/28d06644e2f84b398c1b7fb96a2b6bd5/offer/GWF_VOTDG_Artwork_Portrait_Final-1524x1900-5ad71a9c34545441b2d54a10a228fb81.png",
-      "md5": "5ad71a9c34545441b2d54a10a228fb81",
-      "size": 3882440,
-      "uploadedDate": "2020-11-20T17:30:01.688Z",
-      "width": 1524,
-      "height": 1900
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GodsWillFallValleyoftheDormantGods_CleverBeansLtd_SeasonPass_S2_1200x1600-ba143d4718f65c4f2ac47a1928063c7d",
+      "md5": "ba143d4718f65c4f2ac47a1928063c7d",
+      "size": 454080,
+      "uploadedDate": "2021-05-26T15:11:14.666Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GodsWillFallValleyoftheDormantGods_CleverBeansLtd_SeasonPass_IC1_200x200-4b8f7cec4c99527ca6f15d29e35131b8",
+      "md5": "4b8f7cec4c99527ca6f15d29e35131b8",
+      "size": 50101,
+      "uploadedDate": "2021-05-26T15:11:25.301Z",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GodsWillFallValleyoftheDormantGods_CleverBeansLtd_SeasonPass_G1A_01_1920x1080-53c388ed6bb171e3679978499620f80e",
+      "md5": "53c388ed6bb171e3679978499620f80e",
+      "size": 297134,
+      "uploadedDate": "2021-05-26T15:11:36.312Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GodsWillFallValleyoftheDormantGods_CleverBeansLtd_SeasonPass_G1A_02_1920x1080-6949b03476aad0806079ff4019425a61",
+      "md5": "6949b03476aad0806079ff4019425a61",
+      "size": 272591,
+      "uploadedDate": "2021-05-26T15:11:48.723Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GodsWillFallValleyoftheDormantGods_CleverBeansLtd_SeasonPass_G1A_03_1920x1080-aa064f771d4dcc41751f308ae1886109",
+      "md5": "aa064f771d4dcc41751f308ae1886109",
+      "size": 297981,
+      "uploadedDate": "2021-05-26T15:12:00.995Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
@@ -110,5 +183,7 @@
       "id": "a44c3817c9c3466d86b472476c93893c"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "28d06644e2f84b398c1b7fb96a2b6bd5"
+  }
 }
