@@ -8,7 +8,7 @@
   "productSlug": "battlefield-2042/gold-edition",
   "urlSlug": "babyblue-goldprepurchase-audience",
   "creationDate": "2021-06-02T02:15:25.327Z",
-  "lastModifiedDate": "2021-06-09T14:32:26.955Z",
+  "lastModifiedDate": "2021-06-11T03:38:15.191Z",
   "effectiveDate": "2021-06-09T15:00:00.000Z",
   "viewableDate": "2021-06-09T15:00:00.000Z",
   "developer": null,
@@ -36,15 +36,27 @@
   ],
   "tags": [
     {
-      "id": "1216",
-      "name": "Action",
+      "id": "1203",
+      "name": "Multiplayer",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2021-02-10T17:36:19.203Z",
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2021-02-10T17:35:33.537Z",
       "status": "ACTIVE",
-      "referenceCount": 110,
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1210",
+      "name": "Shooter",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2021-02-10T17:34:46.127Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
       "comment": null
     },
     {
@@ -60,15 +72,15 @@
       "comment": null
     },
     {
-      "id": "1117",
-      "name": "Adventure",
+      "id": "1294",
+      "name": "First Person",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2021-02-10T17:35:47.790Z",
+      "created": "2019-06-20T12:00:44.596Z",
+      "updated": "2021-02-10T17:33:51.253Z",
       "status": "ACTIVE",
-      "referenceCount": 84,
+      "referenceCount": 24,
       "comment": null
     }
   ],
