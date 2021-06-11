@@ -8,7 +8,7 @@
   "productSlug": "genshin-impact",
   "urlSlug": "genshin-impact",
   "creationDate": "2021-01-28T21:51:24.956Z",
-  "lastModifiedDate": "2021-06-10T18:06:45.661Z",
+  "lastModifiedDate": "2021-06-10T23:56:06.665Z",
   "effectiveDate": "2021-06-08T23:00:00.000Z",
   "viewableDate": "2021-06-02T13:00:00.000Z",
   "developer": null,
@@ -136,15 +136,6 @@
       "height": 1600
     },
     {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GenshinImpact_miHoYoLimited_S2_1200x1600-c12cdcc2cac330df2185aa58c508e820",
-      "md5": "c12cdcc2cac330df2185aa58c508e820",
-      "size": 796187,
-      "uploadedDate": "2021-05-17T18:20:48.303Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "Thumbnail",
       "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GenshinImpact_miHoYoLimited_S2_1200x1600-c12cdcc2cac330df2185aa58c508e820",
       "md5": "c12cdcc2cac330df2185aa58c508e820",
@@ -173,10 +164,10 @@
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GenshinImpact_miHoYoLimited_S2_1200x1600-c12cdcc2cac330df2185aa58c508e820_1200x1600-c12cdcc2cac330df2185aa58c508e820",
-      "md5": "c12cdcc2cac330df2185aa58c508e820",
-      "size": 796187,
-      "uploadedDate": "2021-06-10T18:05:59.220Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_EGS_GenshinImpact_BonusCode_1200x1600_1200x1600-72287195c25de9461d16d54675253da3",
+      "md5": "72287195c25de9461d16d54675253da3",
+      "size": 1189283,
+      "uploadedDate": "2021-06-10T23:53:23.457Z",
       "width": 1200,
       "height": 1600
     }
