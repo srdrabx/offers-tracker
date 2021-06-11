@@ -1,0 +1,172 @@
+{
+  "id": "76cd108ce4354545bd825e181262dbad",
+  "namespace": "1311a5735ed844c0b3c47027cab321f0",
+  "title": "Doki Doki Literature Club Plus!",
+  "description": "Doki Doki Literature Club Plus!",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "doki-doki-literature-club-plus",
+  "urlSlug": "doki-doki-literature-club-plus",
+  "creationDate": "2021-06-09T00:10:33.302Z",
+  "lastModifiedDate": "2021-06-11T20:03:21.473Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": "2021-06-11T20:30:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-256f2bc2a35049a39ceae0f57d01bb",
+    "name": "Serenity Forge"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1218",
+      "name": "Horror",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:06.599Z",
+      "updated": "2021-02-10T17:14:06.043Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-12-15T01:46:33.012Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Serenity Forge"
+    },
+    {
+      "key": "developerName",
+      "value": "Team Salvato"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "doki-doki-literature-club-plus"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DokiDokiLiteratureClubPlus_TeamSalvato_S1_2560x1440-11bf3498c7d817623a070b9b4ac84288",
+      "md5": "11bf3498c7d817623a070b9b4ac84288",
+      "size": 931805,
+      "uploadedDate": "2021-06-10T14:06:49.712Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DokiDokiLiteratureClubPlus_TeamSalvato_S2_1200x1600-9c6fa6ac4b26e9ad4fb0d3e35797dcac",
+      "md5": "9c6fa6ac4b26e9ad4fb0d3e35797dcac",
+      "size": 920786,
+      "uploadedDate": "2021-06-10T14:06:58.088Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DokiDokiLiteratureClubPlus_TeamSalvato_S2_1200x1600-9c6fa6ac4b26e9ad4fb0d3e35797dcac",
+      "md5": "9c6fa6ac4b26e9ad4fb0d3e35797dcac",
+      "size": 920786,
+      "uploadedDate": "2021-06-10T14:07:08.822Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DokiDokiLiteratureClubPlus_TeamSalvato_S2_1200x1600-9c6fa6ac4b26e9ad4fb0d3e35797dcac",
+      "md5": "9c6fa6ac4b26e9ad4fb0d3e35797dcac",
+      "size": 920786,
+      "uploadedDate": "2021-06-10T14:07:18.699Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DokiDokiLiteratureClubPlus_TeamSalvato_S2_1200x1600-9c6fa6ac4b26e9ad4fb0d3e35797dcac",
+      "md5": "9c6fa6ac4b26e9ad4fb0d3e35797dcac",
+      "size": 920786,
+      "uploadedDate": "2021-06-10T14:07:46.664Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DokiDokiLiteratureClubPlus_TeamSalvato_S1_2560x1440-11bf3498c7d817623a070b9b4ac84288",
+      "md5": "11bf3498c7d817623a070b9b4ac84288",
+      "size": 931805,
+      "uploadedDate": "2021-06-10T15:05:18.909Z",
+      "width": 2560,
+      "height": 1440
+    }
+  ],
+  "items": [
+    {
+      "id": "0a13322142fa4ae1a4e0e0ed65ed4073"
+    }
+  ],
+  "catalogNs": {
+    "name": "1311a5735ed844c0b3c47027cab321f0"
+  }
+}
