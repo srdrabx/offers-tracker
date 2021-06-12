@@ -5,10 +5,10 @@
   "description": "This GOTY Edition Upgrade takes your standard edition of World War Z and any combination of individual DLC you might own, and upgrades you fully to the GOTY Edition.",
   "longDescription": "Note: You must own the standard edition of World War Z in order to upgrade to the Game of the Year Edition with this pack.  If you don’t own the standard edition of World War Z, the GOTY Edition is still available to you on its separate store page.\n\nWorld War Z is a heart-pounding coop third-person shooter for up to 4 players featuring swarms of hundreds of zombies. Based on the Paramount Pictures film, World War Z focuses on fast-paced gameplay while exploring new storylines from around the world.\n\nThis GOTY Edition Upgrade takes your standard edition of World War Z and any combination of individual DLC you might own, and upgrades you fully to the GOTY Edition, which includes:\n\n• Marseille Episode with 3 new PvE missions located in France\n• Many explosive game modes in PvP/PvE including the deadly Horde Mode Z\n• All character Skin Packs (The Professionals, War Heroes)\n• All weapon Skin and Variant packs (Last Aid, Special Operations, Biohazard, Lobo)\n• And one more upcoming weapon pack",
   "status": "ACTIVE",
-  "productSlug": "world-war-z/goty-edition-upgrade",
+  "productSlug": null,
   "urlSlug": "world-war-z--goty-edition-upgrade",
   "creationDate": "2020-04-24T15:20:10.769Z",
-  "lastModifiedDate": "2020-07-31T02:49:22.683Z",
+  "lastModifiedDate": "2021-06-12T21:03:25.213Z",
   "effectiveDate": "2020-05-04T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -26,9 +26,6 @@
   "categories": [
     {
       "path": "addons"
-    },
-    {
-      "path": "games"
     },
     {
       "path": "addons/durable"
@@ -58,18 +55,6 @@
       "status": "ACTIVE",
       "referenceCount": 27,
       "comment": null
-    },
-    {
-      "id": "14944",
-      "name": "The Showcase Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-02-04T17:51:00.530Z",
-      "updated": "2021-02-25T16:37:32.464Z",
-      "status": "ACTIVE",
-      "referenceCount": 366,
-      "comment": ""
     },
     {
       "id": "1203",
@@ -106,18 +91,6 @@
       "status": "ACTIVE",
       "referenceCount": 195,
       "comment": null
-    },
-    {
-      "id": "14346",
-      "name": "Holiday Sale 2020",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2020-10-21T21:58:03.125Z",
-      "updated": "2021-01-07T16:00:15.373Z",
-      "status": "ACTIVE",
-      "referenceCount": 584,
-      "comment": ""
     },
     {
       "id": "9547",
@@ -182,12 +155,12 @@
   ],
   "customAttributes": [
     {
-      "key": "developerName",
-      "value": "Saber Interactive"
+      "key": "publisherName",
+      "value": "Mad Dog Games"
     },
     {
-      "key": "com.epicgames.app.productSlug",
-      "value": "world-war-z/goty-edition-upgrade"
+      "key": "developerName",
+      "value": "Saber Interactive"
     }
   ],
   "keyImages": [

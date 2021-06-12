@@ -5,10 +5,10 @@
   "description": "Wombat GOTY",
   "longDescription": "Wombat GOTY",
   "status": "ACTIVE",
-  "productSlug": "world-war-z",
-  "urlSlug": "wombat-goty",
+  "productSlug": "world-war-z/goty-edition",
+  "urlSlug": "world-war-z--goty-edition",
   "creationDate": "2020-04-24T15:11:05.966Z",
-  "lastModifiedDate": "2020-07-22T10:02:13.788Z",
+  "lastModifiedDate": "2021-06-12T21:03:25.234Z",
   "effectiveDate": "2020-05-04T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -29,9 +29,6 @@
     },
     {
       "path": "games/edition"
-    },
-    {
-      "path": "games/edition/base"
     },
     {
       "path": "applications"
@@ -61,18 +58,6 @@
       "status": "ACTIVE",
       "referenceCount": 27,
       "comment": null
-    },
-    {
-      "id": "14944",
-      "name": "The Showcase Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-02-04T17:51:00.530Z",
-      "updated": "2021-02-25T16:37:32.464Z",
-      "status": "ACTIVE",
-      "referenceCount": 366,
-      "comment": ""
     },
     {
       "id": "1203",
@@ -111,16 +96,16 @@
       "comment": null
     },
     {
-      "id": "14346",
-      "name": "Holiday Sale 2020",
-      "namespace": null,
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2020-10-21T21:58:03.125Z",
-      "updated": "2021-01-07T16:00:15.373Z",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
       "status": "ACTIVE",
-      "referenceCount": 584,
-      "comment": ""
+      "referenceCount": 259,
+      "comment": null
     },
     {
       "id": "16011",
@@ -182,7 +167,7 @@
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "world-war-z"
+      "value": "world-war-z/goty-edition"
     }
   ],
   "keyImages": [

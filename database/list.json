@@ -9905,6 +9905,21 @@
     ""
   ],
   [
+    "2813d7441e6c4ff1b68dd35b113075f2",
+    "wombat",
+    "World War Z Aftermath Deluxe Edition ",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Saber Interactive",
+    1622742505,
+    1623532661,
+    "",
+    "world-war-z/aftermath-deluxe-edition"
+  ],
+  [
     "281ac461a272436aa0f2a4e8439f9042",
     "c1ccf2ba1bc1473abb6ca5168e1a670c",
     "DevPallasAudience",
@@ -15733,14 +15748,13 @@
     "World War Z GOTY DLC  Upgrade",
     [
       "addons",
-      "games",
       "addons/durable"
     ],
     "Saber Interactive",
     1587741610,
-    1596163762,
+    1623531805,
     "https://cdn1.epicgames.com/wombat/offer/WWZ-GOTY-Edition_EpicGames_Desktop-Vertical-510x680-updatev1-510x680-ff7696791c5ccdb6edd09d78159289c2.jpg",
-    "world-war-z/goty-edition-upgrade"
+    ""
   ],
   [
     "3f33b68db9ac412597707ab5276965fa",
@@ -30833,6 +30847,22 @@
     1588120702,
     "",
     "dhalucard"
+  ],
+  [
+    "7c59641607234be48285863b4e798467",
+    "wombat",
+    "World War Z Aftermath",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Saber Interactive",
+    1622742085,
+    1623532661,
+    "",
+    "world-war-z"
   ],
   [
     "7c7f1eaaca35408498f5014731068e72",
@@ -55581,14 +55611,13 @@
     [
       "games",
       "games/edition",
-      "games/edition/base",
       "applications"
     ],
     "Saber Interactive",
     1587741065,
-    1595412133,
+    1623531805,
     "https://cdn1.epicgames.com/wombat/offer/WWZ-GOTY-Edition_EpicGames_PortraitImage_860x1148-860x1148-6ad932230150a3580974ba0a719bcdaa.jpg",
-    "world-war-z"
+    "world-war-z/goty-edition"
   ],
   [
     "e19c8e07320f4635aea08827582f36dc",
