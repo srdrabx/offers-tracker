@@ -1,0 +1,184 @@
+{
+  "id": "d19627e74ac445bcbcfc8157a35d6f80",
+  "namespace": "66a0893b7b9a42a695f0a387d64dfcc6",
+  "title": "Sable",
+  "description": "Sable",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "sable",
+  "urlSlug": "sable",
+  "creationDate": "2021-06-01T20:17:25.836Z",
+  "lastModifiedDate": "2021-06-12T15:03:35.421Z",
+  "effectiveDate": "2099-02-01T00:00:00.000Z",
+  "viewableDate": "2021-06-12T15:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
+    "name": "Raw Fury"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "Open World",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2021-02-10T17:34:58.080Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2021-02-10T17:35:47.790Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2021-02-10T17:35:19.827Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Raw Fury"
+    },
+    {
+      "key": "developerName",
+      "value": "Shedworks"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "sable"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Sable_Shedworks_S1_2560x1440-64ec090eed8335263a9083de0eb7f5cf",
+      "md5": "64ec090eed8335263a9083de0eb7f5cf",
+      "size": 829798,
+      "uploadedDate": "2021-06-10T16:34:13.711Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Sable_Shedworks_S2_1200x1600-8c822a6ef6f9cb4f07651ea61f291391",
+      "md5": "8c822a6ef6f9cb4f07651ea61f291391",
+      "size": 670094,
+      "uploadedDate": "2021-06-10T16:34:18.617Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Sable_Shedworks_S4_1200x1600-8c822a6ef6f9cb4f07651ea61f291391",
+      "md5": "8c822a6ef6f9cb4f07651ea61f291391",
+      "size": 670094,
+      "uploadedDate": "2021-06-10T16:34:25.883Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Sable_Shedworks_S2_1200x1600-8c822a6ef6f9cb4f07651ea61f291391",
+      "md5": "8c822a6ef6f9cb4f07651ea61f291391",
+      "size": 670094,
+      "uploadedDate": "2021-06-10T16:34:33.614Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Sable_Shedworks_S1_2560x1440-64ec090eed8335263a9083de0eb7f5cf",
+      "md5": "64ec090eed8335263a9083de0eb7f5cf",
+      "size": 829798,
+      "uploadedDate": "2021-06-10T16:34:41.817Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Sable_Shedworks_S2_1200x1600-8c822a6ef6f9cb4f07651ea61f291391",
+      "md5": "8c822a6ef6f9cb4f07651ea61f291391",
+      "size": 670094,
+      "uploadedDate": "2021-06-10T16:34:49.147Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "5623f6cc511545bc98bca0201a1b847c"
+    }
+  ],
+  "catalogNs": {
+    "name": "66a0893b7b9a42a695f0a387d64dfcc6"
+  }
+}
