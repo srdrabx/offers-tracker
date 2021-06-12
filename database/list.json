@@ -6448,7 +6448,7 @@
     ],
     "Ubisoft Entertainment",
     1599553201,
-    1611684601,
+    1623528401,
     "https://cdn1.epicgames.com/83d6990f16444655866b04be562bf589/offer/MAD_GE_Store_Portrait_1200x1600-1200x1600-b4ffd067f9a8b4d883022238b6983df0.jpg",
     ""
   ],
@@ -10475,6 +10475,22 @@
     1615479436,
     "https://cdn1.epicgames.com/1cdfbaaccaab490c9305e86496c7f3fa/offer/SCL4_UCS17159_EGST_Store_Portrait_1200x1600-1200x1600-2cb5091f3265104c378c90378f36c83f.jpg",
     "splinter-cell-double-agent"
+  ],
+  [
+    "2a9d454525564030af135a5acfbb76fe",
+    "1093790870b043cdbae03d91d76d9ae6",
+    "Tom Clancy's Rainbow Six Extraction Pre-Purchase",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Ubisoft Entertainment",
+    1623279785,
+    1623525923,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_R6E_STD_EPIC_Store Portrait_1200x1600_UK_1200x1600-9859512196094e740761af80c09a41d6",
+    "rainbow-six-extraction"
   ],
   [
     "2aa893533da449c7b146c72880a414b3",
@@ -38155,7 +38171,7 @@
     ],
     "Ubisoft Entertainment",
     1599552822,
-    1611692314,
+    1623528401,
     "https://cdn1.epicgames.com/83d6990f16444655866b04be562bf589/offer/MAD_STD_Store_Portrait_1200x1600-1200x1600-e3c7aa72fbb1c9c5eb32805aadbb29b0.jpg",
     "riders-republic/home"
   ],
@@ -38427,6 +38443,21 @@
     1616081388,
     "https://cdn1.epicgames.com/1696ef78f67c411ea67d2c2b8e9bc5a6/offer/EGS_CartelTycoon_MoonMoose_S6-1200x1600-407453ba664be5c928dd01e437afdf30.jpg",
     "cartel-tycoon"
+  ],
+  [
+    "9b7209cfeb8d41d48c4bab4e51bb9808",
+    "1093790870b043cdbae03d91d76d9ae6",
+    "Tom Clancy's Rainbow Six Extraction Deluxe Edition Pre-Purchase",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Ubisoft Entertainment",
+    1623279956,
+    1623525923,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_R6E_DELUXE_EPIC_Store Portrait_1200x1600_UK_1200x1600-23d70800984f407ab6ccd02c808c225a",
+    "rainbow-six-extraction--deluxe-edition"
   ],
   [
     "9b84714cc39d462ead46c595d0a379fd",
@@ -49946,7 +49977,7 @@
     ],
     "Ubisoft Entertainment",
     1599553299,
-    1611684562,
+    1623528402,
     "https://cdn1.epicgames.com/83d6990f16444655866b04be562bf589/offer/MAD_ULT_Store_Portrait_1200x1600-1200x1600-bc41d7f2d90ec8fafb1a0cb8f1e1943d.jpg",
     ""
   ],
