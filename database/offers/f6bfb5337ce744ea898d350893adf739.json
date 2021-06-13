@@ -1,0 +1,172 @@
+{
+  "id": "f6bfb5337ce744ea898d350893adf739",
+  "namespace": "a4824407d9ec4f6a8c13919e732f9400",
+  "title": "Eiyuden Chronicle: Rising ",
+  "description": "Eiyuden Chronicle: Rising ",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "eiyuden-chronicle-rising",
+  "urlSlug": "eiyuden-chronicle-rising",
+  "creationDate": "2021-06-10T21:24:25.696Z",
+  "lastModifiedDate": "2021-06-13T18:16:43.817Z",
+  "effectiveDate": "2099-02-01T00:00:00.000Z",
+  "viewableDate": "2021-06-13T18:30:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+    "name": "505 Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2021-02-10T17:36:19.203Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-12-15T01:46:33.012Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "505 Games"
+    },
+    {
+      "key": "developerName",
+      "value": "505 Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "eiyuden-chronicle-rising"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EiyudenChronicleRising_RabbitBearStudios_S4_1200x1600-8a63d1f99ab4a79d6b129aaf157da9d8",
+      "md5": "8a63d1f99ab4a79d6b129aaf157da9d8",
+      "size": 857750,
+      "uploadedDate": "2021-06-11T15:39:55.754Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EiyudenChronicleRising_RabbitBearStudios_S4_1200x1600-8a63d1f99ab4a79d6b129aaf157da9d8",
+      "md5": "8a63d1f99ab4a79d6b129aaf157da9d8",
+      "size": 857750,
+      "uploadedDate": "2021-06-11T15:40:23.593Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EiyudenChronicleRising_RabbitBearStudios_S3_2560x1440-c134546e3d584244c4448050fe520766",
+      "md5": "c134546e3d584244c4448050fe520766",
+      "size": 466561,
+      "uploadedDate": "2021-06-11T15:40:19.111Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EiyudenChronicleRising_RabbitBearStudios_S4_1200x1600-8a63d1f99ab4a79d6b129aaf157da9d8",
+      "md5": "8a63d1f99ab4a79d6b129aaf157da9d8",
+      "size": 857750,
+      "uploadedDate": "2021-06-11T15:41:12.760Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EiyudenChronicleRising_RabbitBearStudios_S3_2560x1440-c134546e3d584244c4448050fe520766",
+      "md5": "c134546e3d584244c4448050fe520766",
+      "size": 466561,
+      "uploadedDate": "2021-06-11T15:41:08.384Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EiyudenChronicleRising_RabbitBearStudios_S4_1200x1600-8a63d1f99ab4a79d6b129aaf157da9d8",
+      "md5": "8a63d1f99ab4a79d6b129aaf157da9d8",
+      "size": 857750,
+      "uploadedDate": "2021-06-11T15:42:40.687Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "610534b12cae4bb6bdb1ca6529d9d39c"
+    }
+  ],
+  "catalogNs": {
+    "name": "a4824407d9ec4f6a8c13919e732f9400"
+  }
+}
