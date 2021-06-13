@@ -1,0 +1,137 @@
+{
+  "id": "40fb5992beb74cbf83ecaadef3b36796",
+  "namespace": "2a09fb19b47f46dfb11ebd382f132a8f",
+  "title": "Marvel's Guardians of the Galaxy: Deluxe Edition",
+  "description": "Marvel's Guardians of the Galaxy: Deluxe Edition",
+  "longDescription": "Marvel's Guardians of the Galaxy: Deluxe Edition Pre-Purchase",
+  "status": "ACTIVE",
+  "productSlug": "marvels-guardians-of-the-galaxy--deluxe-edition",
+  "urlSlug": "marvels-guardians-of-the-galaxy--deluxe-edition",
+  "creationDate": "2021-04-28T22:23:32.294Z",
+  "lastModifiedDate": "2021-06-13T20:01:04.664Z",
+  "effectiveDate": "2021-06-13T20:00:00.000Z",
+  "viewableDate": "2021-06-13T20:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
+    "name": "Square Enix"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Square Enix  "
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "availableDate",
+      "value": "1635260400"
+    },
+    {
+      "key": "developerName",
+      "value": "Eidos-Montréal  "
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "marvels-guardians-of-the-galaxy--deluxe-edition"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_MarvelsGuardiansoftheGalaxyDeluxeEdition_EidosMontral_Editions_S1_2560x1440-bca3c00906661b41c88e5cffda313e7c",
+      "md5": "bca3c00906661b41c88e5cffda313e7c",
+      "size": 810805,
+      "uploadedDate": "2021-06-08T02:29:29.935Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_MarvelsGuardiansoftheGalaxyDeluxeEdition_EidosMontral_Editions_S2_1200x1600-353771cb93ddda5872937d41fce3adaf",
+      "md5": "353771cb93ddda5872937d41fce3adaf",
+      "size": 485947,
+      "uploadedDate": "2021-06-08T02:29:25.800Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_MarvelsGuardiansoftheGalaxyDeluxeEdition_EidosMontral_Editions_S2_1200x1600-353771cb93ddda5872937d41fce3adaf",
+      "md5": "353771cb93ddda5872937d41fce3adaf",
+      "size": 485947,
+      "uploadedDate": "2021-06-08T02:29:20.913Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_MarvelsGuardiansoftheGalaxyDeluxeEdition_EidosMontral_Editions_S2_1200x1600-353771cb93ddda5872937d41fce3adaf",
+      "md5": "353771cb93ddda5872937d41fce3adaf",
+      "size": 485947,
+      "uploadedDate": "2021-06-08T02:29:17.273Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_MarvelsGuardiansoftheGalaxyDeluxeEdition_EidosMontral_Editions_S1_2560x1440-bca3c00906661b41c88e5cffda313e7c",
+      "md5": "bca3c00906661b41c88e5cffda313e7c",
+      "size": 810805,
+      "uploadedDate": "2021-06-08T02:29:13.776Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_MarvelsGuardiansoftheGalaxyDeluxeEdition_EidosMontral_Editions_S2_1200x1600-353771cb93ddda5872937d41fce3adaf",
+      "md5": "353771cb93ddda5872937d41fce3adaf",
+      "size": 485947,
+      "uploadedDate": "2021-06-08T02:29:10.329Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "b4247562f5454ad292624f02cb08ca6b"
+    },
+    {
+      "id": "5f8fa95347984dd49750114b7fcf7a07"
+    }
+  ],
+  "catalogNs": {
+    "name": null
+  }
+}

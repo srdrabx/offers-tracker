@@ -16316,6 +16316,21 @@
     ""
   ],
   [
+    "40fb5992beb74cbf83ecaadef3b36796",
+    "2a09fb19b47f46dfb11ebd382f132a8f",
+    "Marvel's Guardians of the Galaxy: Deluxe Edition",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Square Enix",
+    1619648612,
+    1623614464,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_MarvelsGuardiansoftheGalaxyDeluxeEdition_EidosMontral_Editions_S2_1200x1600-353771cb93ddda5872937d41fce3adaf",
+    "marvels-guardians-of-the-galaxy--deluxe-edition"
+  ],
+  [
     "411776ca8f3b43c5939dcd08658734e6",
     "599d248ca46b45a8b40a3b4e484712cb",
     "The Crew 2 Season Pass",
@@ -35245,6 +35260,22 @@
     1588120725,
     "https://cdn1.epicgames.com/cosmos/offer/CodeRedemption_Rune2-340x440-f08e22c1d9e2df849a51bbab19de7627-340x440-f08e22c1d9e2df849a51bbab19de7627.png",
     ""
+  ],
+  [
+    "8fae93bdd24f4ef78a6c52ba2ba5f83d",
+    "2a09fb19b47f46dfb11ebd382f132a8f",
+    "Marvel's Guardians of the Galaxy",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Square Enix",
+    1619648545,
+    1623614464,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_MarvelsGuardiansoftheGalaxy_EidosMontral_S4_1200x1600-46bb438971863acc3b706e00b0f05a86",
+    "marvels-guardians-of-the-galaxy"
   ],
   [
     "8fbe88b117a34cce8abf827cf6f38a33",
