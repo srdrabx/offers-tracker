@@ -3373,6 +3373,21 @@
     "necromunda-hired-gun"
   ],
   [
+    "0eb92b44f2504b889cd1d3c1e510bd6d",
+    "0c6aee83b9b64372bf44a043001325f2",
+    "NARAKA: BLADEPOINT Deluxe Edition ",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "24 Entertainment",
+    1622676267,
+    1623599594,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DELUXEEDITION_24Entertainment_Editions_S2_1200x1600-a59238fd5ec53534cff944e140164574",
+    "p/naraka-bladepoint--deluxe-edition"
+  ],
+  [
     "0edc278af6bb437fb8a84499f3e0ddf6",
     "newt",
     "Spellbreak - DLC01",
@@ -47103,6 +47118,22 @@
     ""
   ],
   [
+    "bdd8a627c9914901a37edf6347c6b49e",
+    "0c6aee83b9b64372bf44a043001325f2",
+    "NARAKA: BLADEPOINT",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "24 Entertainment",
+    1622676109,
+    1623599595,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_NARAKABLADEPOINT_24Entertainment_S2_1200x1600-a59238fd5ec53534cff944e140164574",
+    "naraka-bladepoint"
+  ],
+  [
     "be0192d357b141b9b16cad35373b1dbb",
     "3d4b3dcf7ec449c7a042c163d08fa0f3",
     "Supporter Pack",
@@ -48361,6 +48392,21 @@
     1588120702,
     "",
     "jackbox-party-pack-6/home"
+  ],
+  [
+    "c2c332c6fc4440c28b971846747985c6",
+    "0c6aee83b9b64372bf44a043001325f2",
+    "NARAKA: BLADEPOINT  Ultimate Edition",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "24 Entertainment",
+    1622676484,
+    1623599595,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DELUXEEDITION_24Entertainment_Editions_S2_1200x1600-a59238fd5ec53534cff944e140164574",
+    "p/naraka-bladepoint--ultimate-edition"
   ],
   [
     "c2cb8147a22b46978e053d58046c302b",
