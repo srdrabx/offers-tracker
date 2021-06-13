@@ -1,0 +1,187 @@
+{
+  "id": "c2f05f471b6f43cc8e864199f2503bc2",
+  "namespace": "3a18db06dff0465b8a58308aa29020a0",
+  "title": "Songs of Conquest",
+  "description": "Songs of Conquest",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "songs-of-conquest",
+  "urlSlug": "songs-of-conquest",
+  "creationDate": "2020-07-14T15:10:58.445Z",
+  "lastModifiedDate": "2021-06-13T20:12:27.388Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": "2021-06-13T22:53:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-9r9hp69ccnr39qp9f9mgpsznznu4as",
+    "name": "Coffee Stain Publishing"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "Strategy",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2021-02-10T17:35:11.878Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2021-02-10T17:35:47.790Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "Mac OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX",
+        "macOS"
+      ],
+      "operator": null,
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2021-02-10T17:26:31.125Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Coffee Stain Publishing"
+    },
+    {
+      "key": "developerName",
+      "value": "Lavapotion"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "songs-of-conquest"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SongsofConquest_Lavapotion_S1_2560x1440-3fa3330bd9689e34d2c9b9fdd56c1f7c",
+      "md5": "3fa3330bd9689e34d2c9b9fdd56c1f7c",
+      "size": 511924,
+      "uploadedDate": "2021-06-07T23:24:37.578Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SongsofConquest_Lavapotion_S2_1200x1600-8df5c12cd72ffeb34990a1012b944208",
+      "md5": "8df5c12cd72ffeb34990a1012b944208",
+      "size": 504278,
+      "uploadedDate": "2021-06-07T23:24:33.645Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SongsofConquest_Lavapotion_S2_1200x1600-8df5c12cd72ffeb34990a1012b944208",
+      "md5": "8df5c12cd72ffeb34990a1012b944208",
+      "size": 504278,
+      "uploadedDate": "2021-06-07T23:24:27.510Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SongsofConquest_Lavapotion_S2_1200x1600-8df5c12cd72ffeb34990a1012b944208",
+      "md5": "8df5c12cd72ffeb34990a1012b944208",
+      "size": 504278,
+      "uploadedDate": "2021-06-07T23:24:23.368Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SongsofConquest_Lavapotion_S1_2560x1440-3fa3330bd9689e34d2c9b9fdd56c1f7c",
+      "md5": "3fa3330bd9689e34d2c9b9fdd56c1f7c",
+      "size": 511924,
+      "uploadedDate": "2021-06-07T23:24:17.304Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SongsofConquest_Lavapotion_S2_1200x1600-8df5c12cd72ffeb34990a1012b944208",
+      "md5": "8df5c12cd72ffeb34990a1012b944208",
+      "size": 504278,
+      "uploadedDate": "2021-06-07T23:24:13.523Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "13f00b1dd2ac4f5cbccd187f8d3616e7"
+    }
+  ],
+  "catalogNs": {
+    "name": "3a18db06dff0465b8a58308aa29020a0"
+  }
+}
