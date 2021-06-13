@@ -1,0 +1,200 @@
+{
+  "id": "8151ab044f754abc8b057d41dd192ff6",
+  "namespace": "602a0ef0aceb46cca62445439661d712",
+  "title": "S.T.A.L.K.E.R. 2: Heart of Chernobyl Ultimate Edition",
+  "description": "S.T.A.L.K.E.R. 2: Heart of Chernobyl Ultimate Edition ",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "stalker-2-heart-of-chernobyl--ultimate-edition",
+  "urlSlug": "stalker-2-heart-of-chernobyl--ultimate-edition-01",
+  "creationDate": "2021-06-10T01:50:58.748Z",
+  "lastModifiedDate": "2021-06-13T18:53:13.330Z",
+  "effectiveDate": "2021-06-13T19:00:00.000Z",
+  "viewableDate": "2021-06-13T19:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-e4pcmp7frwrbjnn6q4tc3a642ud2x8",
+    "name": "GSC Game World Global LTD."
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2021-02-10T17:36:19.203Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1185",
+      "name": "FPS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:50.376Z",
+      "updated": "2020-09-05T13:11:46.644Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2021-02-10T17:35:33.537Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "Open World",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2021-02-10T17:34:58.080Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "GSC Game World Global LTD."
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "developerName",
+      "value": "GSC Game World Global LTD."
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "stalker-2-heart-of-chernobyl--ultimate-edition"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_STALKER2HeartofChernobylDeluxe_GSCGameWorld_Bundles_S1_2560x1440-9dc4208f96d602b6754628a8f44e43b6",
+      "md5": "9dc4208f96d602b6754628a8f44e43b6",
+      "size": 502211,
+      "uploadedDate": "2021-06-10T14:57:51.154Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_STALKER2HeartofChernobylDeluxe_GSCGameWorld_Bundles_S2_1200x1600-a97a5d738ba776358c19b70e4926f3e3",
+      "md5": "a97a5d738ba776358c19b70e4926f3e3",
+      "size": 499328,
+      "uploadedDate": "2021-06-10T14:57:56.207Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_STALKER2HeartofChernobylDeluxe_GSCGameWorld_Bundles_S2_1200x1600-a97a5d738ba776358c19b70e4926f3e3",
+      "md5": "a97a5d738ba776358c19b70e4926f3e3",
+      "size": 499328,
+      "uploadedDate": "2021-06-10T14:58:02.461Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_STALKER2HeartofChernobylDeluxe_GSCGameWorld_Bundles_S2_1200x1600-a97a5d738ba776358c19b70e4926f3e3",
+      "md5": "a97a5d738ba776358c19b70e4926f3e3",
+      "size": 499328,
+      "uploadedDate": "2021-06-10T14:58:08.678Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_STALKER2HeartofChernobylDeluxe_GSCGameWorld_Bundles_S1_2560x1440-9dc4208f96d602b6754628a8f44e43b6",
+      "md5": "9dc4208f96d602b6754628a8f44e43b6",
+      "size": 502211,
+      "uploadedDate": "2021-06-10T14:58:20.688Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_STALKER2HeartofChernobylDeluxe_GSCGameWorld_Bundles_S2_1200x1600-a97a5d738ba776358c19b70e4926f3e3",
+      "md5": "a97a5d738ba776358c19b70e4926f3e3",
+      "size": 499328,
+      "uploadedDate": "2021-06-10T14:58:28.029Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "32616a9515c84f04af4346a2ee07a6d9"
+    },
+    {
+      "id": "aaff224c9d47468b8a747573703748a6"
+    }
+  ],
+  "catalogNs": {
+    "name": "602a0ef0aceb46cca62445439661d712"
+  }
+}
