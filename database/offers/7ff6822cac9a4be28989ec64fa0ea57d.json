@@ -98,7 +98,18 @@
       "referenceCount": 584,
       "comment": ""
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
     {
       "id": "16011",
       "name": "Epic MEGA Sale",
@@ -111,7 +122,18 @@
       "referenceCount": 741,
       "comment": ""
     },
-    null,
+    {
+      "id": "1166",
+      "name": "4X",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:41.019Z",
+      "updated": "2020-08-11T17:30:09.076Z",
+      "status": "ACTIVE",
+      "referenceCount": 1,
+      "comment": null
+    },
     {
       "id": "15375",
       "name": "Spring Sale",
@@ -124,7 +146,18 @@
       "referenceCount": 618,
       "comment": ""
     },
-    null,
+    {
+      "id": "1203",
+      "name": "Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2021-02-10T17:35:33.537Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
     {
       "id": "14869",
       "name": "2K Publisher Sale",
@@ -137,12 +170,42 @@
       "referenceCount": 18,
       "comment": ""
     },
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "Strategy",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2021-02-10T17:35:11.878Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "1279",
+      "name": "Vampire",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:37.207Z",
+      "updated": "2021-02-05T16:12:54.271Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {
@@ -206,6 +269,6 @@
     }
   ],
   "catalogNs": {
-    "name": null
+    "name": "cd14dcaa4f3443f19f7169a980559c62"
   }
 }
