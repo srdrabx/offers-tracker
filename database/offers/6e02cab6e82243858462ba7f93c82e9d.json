@@ -8,7 +8,7 @@
   "productSlug": "trackmania/home",
   "urlSlug": "pigeongeneralaudience",
   "creationDate": "2019-08-24T04:42:54.442Z",
-  "lastModifiedDate": "2020-11-16T19:43:01.444Z",
+  "lastModifiedDate": "2021-06-14T14:55:40.819Z",
   "effectiveDate": "2020-07-01T15:00:00.000Z",
   "viewableDate": "2020-07-01T15:00:00.000Z",
   "developer": null,
@@ -39,42 +39,6 @@
   ],
   "tags": [
     {
-      "id": "1203",
-      "name": "Multiplayer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2021-02-10T17:35:33.537Z",
-      "status": "ACTIVE",
-      "referenceCount": 46,
-      "comment": null
-    },
-    {
-      "id": "1159",
-      "name": "Arcade",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:37.620Z",
-      "updated": "2021-02-05T16:12:11.582Z",
-      "status": "ACTIVE",
-      "referenceCount": 2,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2021-02-05T16:07:21.852Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    },
-    {
       "id": "16011",
       "name": "Epic MEGA Sale",
       "namespace": null,
@@ -85,18 +49,6 @@
       "status": "ACTIVE",
       "referenceCount": 741,
       "comment": ""
-    },
-    {
-      "id": "1212",
-      "name": "Racing",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:03.663Z",
-      "updated": "2021-02-05T16:17:00.647Z",
-      "status": "ACTIVE",
-      "referenceCount": 6,
-      "comment": null
     }
   ],
   "customAttributes": [
@@ -119,58 +71,58 @@
   ],
   "keyImages": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/b04882669b2e495e9f747c8560488c93/offer/TM_StarterEdition_Store_Landscape_2560x1440-2560x1440-e748deac61ee274e1ef8faa5f40b03cd.jpg",
-      "md5": "e748deac61ee274e1ef8faa5f40b03cd",
-      "size": 848239,
-      "uploadedDate": "2020-07-01T14:45:57.347Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/b04882669b2e495e9f747c8560488c93/offer/TM_StarterEdition_Store_Portrait_1200x1600-1200x1600-1200x1600-9afa6ef84b3de2468fee739e79942e91.jpg",
-      "md5": "9afa6ef84b3de2468fee739e79942e91",
-      "size": 778942,
-      "uploadedDate": "2020-07-01T14:46:05.383Z",
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Trackmania_Royal_KeyArt_1200x1600_1200x1600-baf0e1c64be7ae2fefa18ba9e845f4c2",
+      "md5": "baf0e1c64be7ae2fefa18ba9e845f4c2",
+      "size": 2670797,
+      "uploadedDate": "2021-06-09T16:53:11.139Z",
       "width": 1200,
       "height": 1600
     },
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/b04882669b2e495e9f747c8560488c93/offer/TM_StarterEdition_Store_Landscape_2560x1440-2560x1440-e748deac61ee274e1ef8faa5f40b03cd.jpg",
-      "md5": "e748deac61ee274e1ef8faa5f40b03cd",
-      "size": 848239,
-      "uploadedDate": "2020-07-01T14:46:12.989Z",
-      "width": 2560,
-      "height": 1440
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Trackmania_Royal_KeyArt_1200x1600_1200x1600-baf0e1c64be7ae2fefa18ba9e845f4c2",
+      "md5": "baf0e1c64be7ae2fefa18ba9e845f4c2",
+      "size": 2670797,
+      "uploadedDate": "2021-06-09T16:53:30.137Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/b04882669b2e495e9f747c8560488c93/offer/TM_StarterEdition_Store_Portrait_1200x1600-1200x1600-1200x1600-9afa6ef84b3de2468fee739e79942e91.jpg",
-      "md5": "9afa6ef84b3de2468fee739e79942e91",
-      "size": 778942,
-      "uploadedDate": "2020-07-01T14:46:22.106Z",
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Trackmania_Royal_KeyArt_1200x1600_1200x1600-baf0e1c64be7ae2fefa18ba9e845f4c2",
+      "md5": "baf0e1c64be7ae2fefa18ba9e845f4c2",
+      "size": 2670797,
+      "uploadedDate": "2021-06-09T16:53:50.259Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/b04882669b2e495e9f747c8560488c93/offer/TM_StarterEdition_Store_Portrait_1200x1600-1200x1600-1200x1600-9afa6ef84b3de2468fee739e79942e91.jpg",
-      "md5": "9afa6ef84b3de2468fee739e79942e91",
-      "size": 778942,
-      "uploadedDate": "2020-07-01T14:46:31.340Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Trackmania_Royal_KeyArt_1200x1600_1200x1600-baf0e1c64be7ae2fefa18ba9e845f4c2",
+      "md5": "baf0e1c64be7ae2fefa18ba9e845f4c2",
+      "size": 2670797,
+      "uploadedDate": "2021-06-09T16:54:03.916Z",
       "width": 1200,
       "height": 1600
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/b04882669b2e495e9f747c8560488c93/offer/TM_StarterEdition_Store_Portrait_1200x1600-1200x1600-1200x1600-9afa6ef84b3de2468fee739e79942e91.jpg",
-      "md5": "9afa6ef84b3de2468fee739e79942e91",
-      "size": 778942,
-      "uploadedDate": "2020-07-01T14:46:40.390Z",
-      "width": 1200,
-      "height": 1600
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/TM_StarterEd_Store_Landscape_2560x1440_2560x1440-0208bfc8d824b707130420b61249d4f5",
+      "md5": "0208bfc8d824b707130420b61249d4f5",
+      "size": 713351,
+      "uploadedDate": "2021-06-11T22:57:23.436Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/TM_StarterEd_Store_Landscape_2560x1440_2560x1440-0208bfc8d824b707130420b61249d4f5",
+      "md5": "0208bfc8d824b707130420b61249d4f5",
+      "size": 713351,
+      "uploadedDate": "2021-06-11T22:57:27.349Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
   "items": [

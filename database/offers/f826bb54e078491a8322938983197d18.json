@@ -8,7 +8,7 @@
   "productSlug": "little-big-workshop",
   "urlSlug": "little-big-workshop",
   "creationDate": "2021-04-30T03:23:26.564Z",
-  "lastModifiedDate": "2021-06-10T16:21:18.253Z",
+  "lastModifiedDate": "2021-06-14T15:02:44.289Z",
   "effectiveDate": "2021-06-10T17:00:00.000Z",
   "viewableDate": "2021-06-10T17:00:00.000Z",
   "developer": null,
@@ -82,6 +82,18 @@
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-04-27T08:10:34.554Z",
+      "updated": "2021-06-01T15:45:58.654Z",
+      "status": "ACTIVE",
+      "referenceCount": 741,
+      "comment": ""
     },
     {
       "id": "9549",
