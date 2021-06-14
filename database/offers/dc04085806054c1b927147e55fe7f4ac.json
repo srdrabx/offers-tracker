@@ -83,7 +83,18 @@
       "referenceCount": 14,
       "comment": null
     },
-    null,
+    {
+      "id": "14346",
+      "name": "Holiday Sale 2020",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2020-10-21T21:58:03.125Z",
+      "updated": "2021-01-07T16:00:15.373Z",
+      "status": "ACTIVE",
+      "referenceCount": 584,
+      "comment": ""
+    },
     {
       "id": "9547",
       "name": "Windows",
@@ -179,8 +190,7 @@
       "status": "ACTIVE",
       "referenceCount": 33,
       "comment": null
-    },
-    null
+    }
   ],
   "customAttributes": [
     {
@@ -244,6 +254,6 @@
     }
   ],
   "catalogNs": {
-    "name": null
+    "name": "cd14dcaa4f3443f19f7169a980559c62"
   }
 }
