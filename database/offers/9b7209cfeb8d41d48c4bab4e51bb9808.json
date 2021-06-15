@@ -8,7 +8,7 @@
   "productSlug": "rainbow-six-extraction--deluxe-edition",
   "urlSlug": "rainbow-six-extraction--deluxe-edition-pre-purchase",
   "creationDate": "2021-06-09T23:05:56.109Z",
-  "lastModifiedDate": "2021-06-12T19:25:23.138Z",
+  "lastModifiedDate": "2021-06-15T02:00:15.346Z",
   "effectiveDate": "2021-06-12T20:10:00.000Z",
   "viewableDate": "2021-06-12T20:10:00.000Z",
   "developer": null,
@@ -106,24 +106,12 @@
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
-    },
-    {
-      "id": "1279",
-      "name": "Vampire",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:37.207Z",
-      "updated": "2021-02-05T16:12:54.271Z",
-      "status": "ACTIVE",
-      "referenceCount": 3,
-      "comment": null
     }
   ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "CN,KR"
+      "value": "CN"
     },
     {
       "key": "isPrepurchase",

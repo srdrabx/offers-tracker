@@ -8,7 +8,7 @@
   "productSlug": "rainbow-six-extraction",
   "urlSlug": "rainbow-six-extraction-pre-purchase",
   "creationDate": "2021-06-09T23:03:05.076Z",
-  "lastModifiedDate": "2021-06-12T19:25:23.251Z",
+  "lastModifiedDate": "2021-06-15T01:59:55.444Z",
   "effectiveDate": "2021-06-12T20:10:00.000Z",
   "viewableDate": "2021-06-12T20:10:00.000Z",
   "developer": null,
@@ -114,7 +114,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "CN,KR"
+      "value": "CN"
     },
     {
       "key": "isPrepurchase",
