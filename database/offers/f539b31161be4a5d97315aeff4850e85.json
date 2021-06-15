@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "sack-of-crowns",
   "creationDate": "2020-06-03T22:36:23.286Z",
-  "lastModifiedDate": "2021-06-08T15:29:06.074Z",
+  "lastModifiedDate": "2021-06-15T20:19:11.070Z",
   "effectiveDate": "2021-06-08T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -37,6 +37,6 @@
     }
   ],
   "catalogNs": {
-    "name": "bd46d4ce259349e5bd8b3ded20274737"
+    "name": null
   }
 }
