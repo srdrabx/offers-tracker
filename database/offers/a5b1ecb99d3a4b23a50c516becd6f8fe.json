@@ -5,12 +5,12 @@
   "description": "Rainbow Six Siege - Trial",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "rainbow-six-siege/free-trial",
+  "productSlug": "rainbow-six-siege--free-trial",
   "urlSlug": "carnationweekaudience",
   "creationDate": "2019-08-22T19:32:14.613Z",
-  "lastModifiedDate": "2021-03-24T01:18:35.269Z",
-  "effectiveDate": "2021-03-16T18:00:00.000Z",
-  "viewableDate": "2021-03-16T18:00:00.000Z",
+  "lastModifiedDate": "2021-06-15T17:26:16.194Z",
+  "effectiveDate": "2021-06-15T18:00:00.000Z",
+  "viewableDate": "2021-06-15T18:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
@@ -28,7 +28,7 @@
       "path": "games"
     },
     {
-      "path": "games/edition"
+      "path": "games/demo"
     },
     {
       "path": "applications"
@@ -46,63 +46,18 @@
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "rainbow-six-siege/free-trial"
+      "value": "rainbow-six-siege--free-trial"
     }
   ],
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/carnation/offer/RBS_Epic_FWE_HeroBanner_3840x2160_UK-3840x2160-fa0a5cdff94bce61730e6ab245a301d5.jpg",
-      "md5": "fa0a5cdff94bce61730e6ab245a301d5",
-      "size": 989673,
-      "uploadedDate": "2021-03-16T00:53:50.354Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/RBS_Epic_FWE_HeroBanner_3840x2160_EN_3840x2160-c47249767a7a4d41b25b93d729a5e3d3",
+      "md5": "c47249767a7a4d41b25b93d729a5e3d3",
+      "size": 987034,
+      "uploadedDate": "2021-06-14T19:34:03.684Z",
       "width": 3840,
       "height": 2160
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/carnation/offer/RBS_Epic__EPIC_Store_Portrait_1200x1600_UK-1200x1600-3b4d51fa168ee9ce4ab6654b153764e1.jpg",
-      "md5": "3b4d51fa168ee9ce4ab6654b153764e1",
-      "size": 1006130,
-      "uploadedDate": "2021-03-16T00:54:03.297Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/carnation/offer/RBS_Epic__EPIC_Store_Portrait_1200x1600_UK-1200x1600-3b4d51fa168ee9ce4ab6654b153764e1.jpg",
-      "md5": "3b4d51fa168ee9ce4ab6654b153764e1",
-      "size": 1006130,
-      "uploadedDate": "2021-03-16T00:54:16.673Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/carnation/offer/RBS_Epic__EPIC_Store_Portrait_1200x1600_UK-1200x1600-3b4d51fa168ee9ce4ab6654b153764e1.jpg",
-      "md5": "3b4d51fa168ee9ce4ab6654b153764e1",
-      "size": 1006130,
-      "uploadedDate": "2021-03-16T00:54:25.123Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/carnation/offer/RBS_Epic_FWE_HeroBanner_3840x2160_UK-3840x2160-fa0a5cdff94bce61730e6ab245a301d5.jpg",
-      "md5": "fa0a5cdff94bce61730e6ab245a301d5",
-      "size": 989673,
-      "uploadedDate": "2021-03-16T00:54:38.222Z",
-      "width": 3840,
-      "height": 2160
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/carnation/offer/RBS_Epic__EPIC_Store_Portrait_1200x1600_UK-1200x1600-3b4d51fa168ee9ce4ab6654b153764e1.jpg",
-      "md5": "3b4d51fa168ee9ce4ab6654b153764e1",
-      "size": 1006130,
-      "uploadedDate": "2021-03-16T00:54:49.724Z",
-      "width": 1200,
-      "height": 1600
     }
   ],
   "items": [
