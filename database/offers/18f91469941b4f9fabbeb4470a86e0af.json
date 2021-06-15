@@ -8,7 +8,7 @@
   "productSlug": "galactic-civilizations-iv",
   "urlSlug": "caracalpromoedition",
   "creationDate": "2021-05-10T20:17:06.489Z",
-  "lastModifiedDate": "2021-06-10T16:55:17.263Z",
+  "lastModifiedDate": "2021-06-15T18:55:32.997Z",
   "effectiveDate": "2021-06-10T17:00:00.000Z",
   "viewableDate": "2021-06-10T17:00:00.000Z",
   "developer": null,
@@ -114,7 +114,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR"
+      "value": "[]"
     },
     {
       "key": "publisherName",
