@@ -29684,14 +29684,15 @@
   [
     "77626754496d49ae96ad3747f13fa483",
     "076207fa2b5c4803a636af606c3c28b7",
-    "YGP",
+    "SMITE Gecko Guardian Bundle",
     [
-      "applications"
+      "addons",
+      "addons/durable"
     ],
     "Hi-Rez Studios",
     1619546145,
-    1619546145,
-    "",
+    1623755632,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/Smite-EGS-GeckoGuardianYmir-PortraitIMG-1200x1600_1200x1600-583fdc71c1b42e03e5cfd6689c5c7960",
     ""
   ],
   [
@@ -60989,8 +60990,8 @@
     ],
     "Hi-Rez Studios",
     1571363584,
-    1621335543,
-    "https://cdn1.epicgames.com/salesEvent/salesEvent/PortraitIMG-AzulaPele-1200x1600_1200x1600-a74b43e9c4ce832ffbe24dd7a3027237",
+    1623754868,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/Smite-EGS-MorganLeFay-PortraitIMG-1200x1600_1200x1600-f27d2096e78ee3a0c434dc4b711ed5ab",
     "smite"
   ],
   [

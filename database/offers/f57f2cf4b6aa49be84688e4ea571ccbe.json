@@ -8,7 +8,7 @@
   "productSlug": "smite",
   "urlSlug": "smite",
   "creationDate": "2019-10-18T01:53:04.996Z",
-  "lastModifiedDate": "2021-05-18T10:59:03.103Z",
+  "lastModifiedDate": "2021-06-15T11:01:08.127Z",
   "effectiveDate": "2020-04-28T15:00:00.000Z",
   "viewableDate": "2020-04-28T15:00:00.000Z",
   "developer": null,
@@ -132,55 +132,55 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/LandscapeIMG-AzulaPele-2560x1440_2560x1440-96e78e20ae50601aae135a4a9a5fd3e8",
-      "md5": "96e78e20ae50601aae135a4a9a5fd3e8",
-      "size": 419759,
-      "uploadedDate": "2021-05-18T10:53:57.166Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Smite-EGS-MorganLeFay-LandscapeIMG-2560x1440_2560x1440-2b9caefdbb81a3f65074b296a79e5a9e",
+      "md5": "2b9caefdbb81a3f65074b296a79e5a9e",
+      "size": 359747,
+      "uploadedDate": "2021-06-15T06:28:43.156Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/PortraitIMG-AzulaPele-1200x1600_1200x1600-a74b43e9c4ce832ffbe24dd7a3027237",
-      "md5": "a74b43e9c4ce832ffbe24dd7a3027237",
-      "size": 349692,
-      "uploadedDate": "2021-05-18T10:54:02.770Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Smite-EGS-MorganLeFay-PortraitIMG-1200x1600_1200x1600-f27d2096e78ee3a0c434dc4b711ed5ab",
+      "md5": "f27d2096e78ee3a0c434dc4b711ed5ab",
+      "size": 255641,
+      "uploadedDate": "2021-06-15T06:28:45.904Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/LandscapeIMG-AzulaPele-2560x1440_2560x1440-96e78e20ae50601aae135a4a9a5fd3e8",
-      "md5": "96e78e20ae50601aae135a4a9a5fd3e8",
-      "size": 419759,
-      "uploadedDate": "2021-05-18T10:54:06.493Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Smite-EGS-MorganLeFay-LandscapeIMG-2560x1440_2560x1440-2b9caefdbb81a3f65074b296a79e5a9e",
+      "md5": "2b9caefdbb81a3f65074b296a79e5a9e",
+      "size": 359747,
+      "uploadedDate": "2021-06-15T06:28:48.188Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/PortraitIMG-AzulaPele-1200x1600_1200x1600-a74b43e9c4ce832ffbe24dd7a3027237",
-      "md5": "a74b43e9c4ce832ffbe24dd7a3027237",
-      "size": 349692,
-      "uploadedDate": "2021-05-18T10:54:10.652Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/PortraitIMG-AzulaPele-1200x1600_1200x1600-a74b43e9c4ce832ffbe24dd7a3027237",
-      "md5": "a74b43e9c4ce832ffbe24dd7a3027237",
-      "size": 349692,
-      "uploadedDate": "2021-05-18T10:54:13.842Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Smite-EGS-MorganLeFay-PortraitIMG-1200x1600_1200x1600-f27d2096e78ee3a0c434dc4b711ed5ab",
+      "md5": "f27d2096e78ee3a0c434dc4b711ed5ab",
+      "size": 255641,
+      "uploadedDate": "2021-06-15T06:28:51.410Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/PortraitIMG-AzulaPele-1200x1600_1200x1600-a74b43e9c4ce832ffbe24dd7a3027237",
-      "md5": "a74b43e9c4ce832ffbe24dd7a3027237",
-      "size": 349692,
-      "uploadedDate": "2021-05-18T10:54:16.895Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Smite-EGS-MorganLeFay-PortraitIMG-1200x1600_1200x1600-f27d2096e78ee3a0c434dc4b711ed5ab",
+      "md5": "f27d2096e78ee3a0c434dc4b711ed5ab",
+      "size": 255641,
+      "uploadedDate": "2021-06-15T06:28:53.774Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Smite-EGS-MorganLeFay-PortraitIMG-1200x1600_1200x1600-f27d2096e78ee3a0c434dc4b711ed5ab",
+      "md5": "f27d2096e78ee3a0c434dc4b711ed5ab",
+      "size": 255641,
+      "uploadedDate": "2021-06-15T06:28:57.019Z",
       "width": 1200,
       "height": 1600
     }

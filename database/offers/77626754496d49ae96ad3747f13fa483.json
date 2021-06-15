@@ -1,16 +1,16 @@
 {
   "id": "77626754496d49ae96ad3747f13fa483",
   "namespace": "076207fa2b5c4803a636af606c3c28b7",
-  "title": "YGP",
-  "description": "YGP",
-  "longDescription": "---",
+  "title": "SMITE Gecko Guardian Bundle",
+  "description": "Protect the Battleground of the Gods with the Gecko Guardian Bundle.  Unlock the Exclusive Gecko Guardian Ymir Skin. Connect with nature in mind and soul with this meditative skin. This bundle also includes the Gecko Guardian Avatar and 400 Gems!",
+  "longDescription": "Protect the Battleground of the Gods with the Gecko Guardian Bundle.\n\nUnlock the Exclusive Gecko Guardian Skin for Ymir, Father of the Frost Giants. Connect with nature in mind and soul with this meditative skin. This bundle also includes the Gecko Guardian Avatar and 400 Gems!\n\nThe Gecko Guardian Bundle includes:\n\n- Gecko Guardian Ymir Skin\n- Gecko Guardian Avatar\n- 400 Gems",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "smite-ygp",
+  "urlSlug": "smite--gecko-guardian-bundle",
   "creationDate": "2021-04-27T17:55:45.528Z",
-  "lastModifiedDate": "2021-04-27T17:55:45.528Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2021-06-15T11:13:52.013Z",
+  "effectiveDate": "2021-06-15T11:00:00.000Z",
+  "viewableDate": "2021-06-15T11:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
@@ -25,7 +25,10 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "applications"
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
     }
   ],
   "tags": [],
@@ -43,7 +46,53 @@
       "value": "Titan Forge Games"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Smite-EGS-GeckoGuardianYmir-LandscapeIMG-2560x1440_2560x1440-f041a52817ac80cfbe6e3ceeb60d49c5",
+      "md5": "f041a52817ac80cfbe6e3ceeb60d49c5",
+      "size": 215424,
+      "uploadedDate": "2021-06-15T06:08:17.471Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Smite-EGS-GeckoGuardianYmir-PortraitIMG-1200x1600_1200x1600-583fdc71c1b42e03e5cfd6689c5c7960",
+      "md5": "583fdc71c1b42e03e5cfd6689c5c7960",
+      "size": 989397,
+      "uploadedDate": "2021-06-15T06:08:20.938Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Smite-EGS-GeckoGuardianYmir-PortraitIMG-1200x1600_1200x1600-583fdc71c1b42e03e5cfd6689c5c7960",
+      "md5": "583fdc71c1b42e03e5cfd6689c5c7960",
+      "size": 989397,
+      "uploadedDate": "2021-06-15T06:08:24.560Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Smite-EGS-GeckoGuardianYmir-PortraitIMG-1200x1600_1200x1600-583fdc71c1b42e03e5cfd6689c5c7960",
+      "md5": "583fdc71c1b42e03e5cfd6689c5c7960",
+      "size": 989397,
+      "uploadedDate": "2021-06-15T06:08:29.558Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Smite-EGS-GeckoGuardianYmir-EN-1920x1080_1920x1080-ccfd4ccd41f4e31f8c39e5aaa36b4f22",
+      "md5": "ccfd4ccd41f4e31f8c39e5aaa36b4f22",
+      "size": 192593,
+      "uploadedDate": "2021-06-15T06:07:19.480Z",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
   "items": [
     {
       "id": "fb990e38edfc4fc7b8365e8d70a72531"
