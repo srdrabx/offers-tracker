@@ -1,0 +1,189 @@
+{
+  "id": "2557a26ee61549cc8269bb32590859b9",
+  "namespace": "390584f0f63a4e69978eafa4d4fce9e7",
+  "title": "Smalland",
+  "description": "Smalland",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "smalland",
+  "urlSlug": "smalland",
+  "creationDate": "2021-05-09T18:38:44.479Z",
+  "lastModifiedDate": "2021-06-15T22:30:08.417Z",
+  "effectiveDate": "2099-06-16T08:00:00.000Z",
+  "viewableDate": "2021-06-16T08:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-a48yz3k54qmrtbupltgrvubuprkf3x",
+    "name": "Merge Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1203",
+      "name": "Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2021-02-10T17:35:33.537Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1080",
+      "name": "Survival",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2021-02-05T16:19:16.566Z",
+      "status": "ACTIVE",
+      "referenceCount": 11,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2021-02-10T17:35:47.790Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2021-02-10T17:36:06.452Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Merge Games"
+    },
+    {
+      "key": "developerName",
+      "value": "Merge Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "smalland"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Smalland_MergeGamesLtd_S1_2560x1440-2d289afe08b21da4525341664c8cdf26",
+      "md5": "2d289afe08b21da4525341664c8cdf26",
+      "size": 940699,
+      "uploadedDate": "2021-06-11T01:02:29.026Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Smalland_MergeGamesLtd_S2_1200x1600-aae33e4e35531f7350e9ce55ebe46ab6",
+      "md5": "aae33e4e35531f7350e9ce55ebe46ab6",
+      "size": 511692,
+      "uploadedDate": "2021-06-11T01:02:39.203Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Smalland_MergeGamesLtd_S2_1200x1600-aae33e4e35531f7350e9ce55ebe46ab6",
+      "md5": "aae33e4e35531f7350e9ce55ebe46ab6",
+      "size": 511692,
+      "uploadedDate": "2021-06-11T01:02:48.133Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Smalland_MergeGamesLtd_S2_1200x1600-aae33e4e35531f7350e9ce55ebe46ab6",
+      "md5": "aae33e4e35531f7350e9ce55ebe46ab6",
+      "size": 511692,
+      "uploadedDate": "2021-06-11T01:02:57.739Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Smalland_MergeGamesLtd_S1_2560x1440-2d289afe08b21da4525341664c8cdf26",
+      "md5": "2d289afe08b21da4525341664c8cdf26",
+      "size": 940699,
+      "uploadedDate": "2021-06-11T01:03:12.091Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Smalland_MergeGamesLtd_S2_1200x1600-aae33e4e35531f7350e9ce55ebe46ab6",
+      "md5": "aae33e4e35531f7350e9ce55ebe46ab6",
+      "size": 511692,
+      "uploadedDate": "2021-06-11T01:03:23.778Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "664916ecc0e54645a630a3315319cd40"
+    }
+  ],
+  "catalogNs": {
+    "name": "390584f0f63a4e69978eafa4d4fce9e7"
+  }
+}
