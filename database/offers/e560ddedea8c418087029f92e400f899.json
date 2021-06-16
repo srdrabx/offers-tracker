@@ -67,5 +67,7 @@
       "id": "bac0df320ea0414f805f1e914f94f36f"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "amaranth"
+  }
 }
