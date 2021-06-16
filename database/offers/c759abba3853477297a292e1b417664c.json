@@ -133,7 +133,5 @@
       "id": "fc2ad28007624ba9ba1117fbd6cdea6f"
     }
   ],
-  "catalogNs": {
-    "name": "daffodil"
-  }
+  "catalogNs": null
 }
