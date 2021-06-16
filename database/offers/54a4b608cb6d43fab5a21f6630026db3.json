@@ -1,14 +1,14 @@
 {
   "id": "54a4b608cb6d43fab5a21f6630026db3",
   "namespace": "aa4742eef2744a41bdb3115cfeca8b89",
-  "title": "King's Bounty II Lord's Edition Upgraded ",
-  "description": "King's Bounty II Lord's Edition Upgraded includes exclusive content",
+  "title": "King's Bounty II - Duke's Edition",
+  "description": "Legend returns! King’s Bounty II is the long-awaited sequel to the legendary King’s Bounty video games franchise, one of the most iconic representatives of the turn-based RPG genre.",
   "longDescription": "King's Bounty II Lord's Edition Upgraded includes the following exclusive content:\n• Digital Artbook\n• Official Soundtrack\n• Rod of Deception \n• Frosthammer \n• Staff of Harmony \n• Tyrant's Sword \n• Armor of the Hollow\n• Heroes & Villains Premium Pack",
   "status": "ACTIVE",
-  "productSlug": "kings-bounty-ii/lords-edition-upgraded",
+  "productSlug": "kings-bounty-ii/dukes-edition",
   "urlSlug": "kings-bounty-ii--lords-edition-upgraded",
   "creationDate": "2021-05-26T17:54:48.602Z",
-  "lastModifiedDate": "2021-06-02T18:18:55.707Z",
+  "lastModifiedDate": "2021-06-16T16:09:17.892Z",
   "effectiveDate": "2021-06-02T16:00:00.000Z",
   "viewableDate": "2021-06-02T16:00:00.000Z",
   "developer": null,
@@ -79,108 +79,72 @@
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "kings-bounty-ii/lords-edition-upgraded"
+      "value": "kings-bounty-ii/dukes-edition"
     }
   ],
   "keyImages": [
     {
-      "type": "GalleryImage",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KingsBountyIILordsEditionUpgraded_1CEntertainment_Editions_G1A_03_1920x1080-1ec6940e8ec1de17db57d2951d1bad5a",
-      "md5": "1ec6940e8ec1de17db57d2951d1bad5a",
-      "size": 924465,
-      "uploadedDate": "2021-05-26T17:18:14.052Z",
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KingsBountyIIDukesEdition_1CEntertainment_Editions_S2_1200x1600-519444d58fc0442a02cea24e52e5e85f",
+      "md5": "519444d58fc0442a02cea24e52e5e85f",
+      "size": 497644,
+      "uploadedDate": "2021-06-16T16:02:58.725Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KingsBountyIIDukesEdition_1CEntertainment_Editions_S2_1200x1600-519444d58fc0442a02cea24e52e5e85f",
+      "md5": "519444d58fc0442a02cea24e52e5e85f",
+      "size": 497644,
+      "uploadedDate": "2021-06-16T16:03:10.467Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KingsBountyIIDukesEdition_1CEntertainment_Editions_G1C_00_1920x1080-9d7529807001c988867893ad791960d1",
+      "md5": "9d7529807001c988867893ad791960d1",
+      "size": 828867,
+      "uploadedDate": "2021-06-16T16:03:24.058Z",
       "width": 1920,
       "height": 1080
     },
     {
-      "type": "GalleryImage",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KingsBountyIILordsEditionUpgraded_1CEntertainment_Editions_G1A_05_1920x1080-2388682a87ba7296dfb7cce526e886f2",
-      "md5": "2388682a87ba7296dfb7cce526e886f2",
-      "size": 930485,
-      "uploadedDate": "2021-05-26T17:19:14.829Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "GalleryImage",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KingsBountyIILordsEditionUpgraded_1CEntertainment_Editions_G1A_04_1920x1080-eef42251fa155ed0eb3217ccbd437c50",
-      "md5": "eef42251fa155ed0eb3217ccbd437c50",
-      "size": 838518,
-      "uploadedDate": "2021-05-26T17:19:07.640Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "GalleryImage",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KingsBountyIILordsEditionUpgraded_1CEntertainment_Editions_G1A_06_1920x1080-c3089077f248548d4b547643aeeba758",
-      "md5": "c3089077f248548d4b547643aeeba758",
-      "size": 784804,
-      "uploadedDate": "2021-05-26T17:19:27.747Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "GalleryImage",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KingsBountyIILordsEditionUpgraded_1CEntertainment_Editions_G1A_07_1920x1080-46222bf29889c39f9712bd48785dd2db",
-      "md5": "46222bf29889c39f9712bd48785dd2db",
-      "size": 1009872,
-      "uploadedDate": "2021-05-26T17:20:07.678Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "GalleryImage",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KingsBountyIILordsEditionUpgraded_1CEntertainment_Editions_G1A_08_1920x1080-597d0589d1a66192a1b55aa13b1bb40b",
-      "md5": "597d0589d1a66192a1b55aa13b1bb40b",
-      "size": 819154,
-      "uploadedDate": "2021-05-26T17:20:16.588Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "ProductLogo",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KingsBountyIILordsEditionUpgraded_1CEntertainment_Editions_IC1_200x200-8f847986eb5bb3038d764705da52122b",
-      "md5": "8f847986eb5bb3038d764705da52122b",
-      "size": 45673,
-      "uploadedDate": "2021-06-02T16:06:16.442Z",
-      "width": 200,
-      "height": 200
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KingsBountyIIDukesEdition_1CEntertainment_Editions_S2_1200x1600-519444d58fc0442a02cea24e52e5e85f",
+      "md5": "519444d58fc0442a02cea24e52e5e85f",
+      "size": 497644,
+      "uploadedDate": "2021-06-16T16:03:37.953Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KingsBountyIILordsEditionUpgraded_1CEntertainment_Editions_S1_2560x1440-9afd1ca4e3bc8d52274b65c046488a9e",
-      "md5": "9afd1ca4e3bc8d52274b65c046488a9e",
-      "size": 432476,
-      "uploadedDate": "2021-06-02T16:07:13.219Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KingsBountyIIDukesEdition_1CEntertainment_Editions_S1_2560x1440-73f941bbd989ce58ffc242251985e33f",
+      "md5": "73f941bbd989ce58ffc242251985e33f",
+      "size": 432678,
+      "uploadedDate": "2021-06-16T16:03:51.575Z",
       "width": 2560,
       "height": 1440
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KingsBountyIILordsEditionUpgraded_1CEntertainment_Editions_S2_1200x1600-11172229287bb43a5985217dd26f9f17",
-      "md5": "11172229287bb43a5985217dd26f9f17",
-      "size": 504667,
-      "uploadedDate": "2021-06-02T16:07:31.102Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KingsBountyIILordsEditionUpgraded_1CEntertainment_Editions_S2_1200x1600-11172229287bb43a5985217dd26f9f17",
-      "md5": "11172229287bb43a5985217dd26f9f17",
-      "size": 504667,
-      "uploadedDate": "2021-06-02T16:07:52.334Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KingsBountyIIDukesEdition_1CEntertainment_Editions_S2_1200x1600-519444d58fc0442a02cea24e52e5e85f",
+      "md5": "519444d58fc0442a02cea24e52e5e85f",
+      "size": 497644,
+      "uploadedDate": "2021-06-16T16:04:04.652Z",
       "width": 1200,
       "height": 1600
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KingsBountyIILordsEditionUpgraded_1CEntertainment_Editions_S2_1200x1600-11172229287bb43a5985217dd26f9f17",
-      "md5": "11172229287bb43a5985217dd26f9f17",
-      "size": 504667,
-      "uploadedDate": "2021-06-02T16:08:00.352Z",
-      "width": 1200,
-      "height": 1600
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KingsBountyIIDukesEdition_1CEntertainment_Editions_IC1_200x200-9dc7a056f667e191f31b6e767eefeb9c",
+      "md5": "9dc7a056f667e191f31b6e767eefeb9c",
+      "size": 43648,
+      "uploadedDate": "2021-06-16T16:04:31.610Z",
+      "width": 200,
+      "height": 200
     }
   ],
   "items": [

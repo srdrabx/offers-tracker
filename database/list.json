@@ -16582,6 +16582,20 @@
     "farming-simulator-19/rottne-dlc"
   ],
   [
+    "423f71d9b14a4d55bd792ee425adc43b",
+    "be9b4a568a934573b2204f3fb97f8042",
+    "Luna's Fishing Garden Soundtrack",
+    [
+      "digitalextras",
+      "digitalextras/soundtrack"
+    ],
+    "AbsoDev SIA",
+    1623781377,
+    1623833062,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LunasFishingGardenSoundtrack_ColdwildGames_DigitalExtras_S2_1200x1600-894151b94a197c335c46e7b86b65089f",
+    ""
+  ],
+  [
     "4240f7a851574e42919fce4d564f6ea0",
     "e89efaeec0cd408abee8bd4dd02c8d32",
     "Port Royale 4 Extended Edition",
@@ -20212,6 +20226,21 @@
     ""
   ],
   [
+    "50ad2ebf631c4704bdc9bafe004f8538",
+    "be9b4a568a934573b2204f3fb97f8042",
+    "Luna's Fishing Garden",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base"
+    ],
+    "AbsoDev SIA",
+    1620949785,
+    1623833069,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LunasFishingGarden_ColdwildGames_S2_1200x1600-d383f363ec38e1cbe67a844a2b36c804",
+    "lunas-fishing-garden"
+  ],
+  [
     "50b8c8f98d334af68f47f68c852a36c3",
     "affc33b82405457595a032f00284abd2",
     "Premium Christmas Treat Ticket",
@@ -21067,7 +21096,7 @@
   [
     "54a4b608cb6d43fab5a21f6630026db3",
     "aa4742eef2744a41bdb3115cfeca8b89",
-    "King's Bounty II Lord's Edition Upgraded ",
+    "King's Bounty II - Duke's Edition",
     [
       "games/edition",
       "games",
@@ -21075,9 +21104,9 @@
     ],
     "Koch Media",
     1622051688,
-    1622657935,
-    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KingsBountyIILordsEditionUpgraded_1CEntertainment_Editions_S2_1200x1600-11172229287bb43a5985217dd26f9f17",
-    "kings-bounty-ii/lords-edition-upgraded"
+    1623859757,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KingsBountyIIDukesEdition_1CEntertainment_Editions_S2_1200x1600-519444d58fc0442a02cea24e52e5e85f",
+    "kings-bounty-ii/dukes-edition"
   ],
   [
     "54afda1bc17244deaff5a4f738becf72",
