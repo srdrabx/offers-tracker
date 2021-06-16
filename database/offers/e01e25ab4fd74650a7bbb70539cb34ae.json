@@ -2,13 +2,13 @@
   "id": "e01e25ab4fd74650a7bbb70539cb34ae",
   "namespace": "bb9f87bb3d0042258bb1c97397bc60f2",
   "title": "Crayta Mechanical Revolution Battle Pass",
-  "description": "Forge your own paths in an age of industry by Pre-Purchasing our Mechanical Revolution Battle Pass, out on soon!\n\nEarn XP while completing Creator Challenges and unlock all kinds of steam-powered content!",
-  "longDescription": "Forge your own paths in an age of industry by Pre-Purchasing our Mechanical Revolution Battle Pass, out soon! \nEarn XP while completing Creator Challenges and unlock all kinds of incredible content such as the Dollface and Sprocket skins, the Choo Chooooo! emote, Magpie Drone & much more as you progress through 100 levels of industrial themed content!\n\n# PLAY THOUSANDS OF GAMES\n\nPlay from an expanding universe of user-generated multiplayer games across a huge variety of genres. From team-based shooters and obstacle courses to farming simulators and escape rooms, there’s going to be something for everyone.\n\n# CREATE GAMES WITH FRIENDS\n\nCrayta is a truly collaborative game creation platform built on Unreal Engine 4 - you and your friends can jump in and create games together in the cloud, regardless of your experience.\n\n# SHOW YOUR STYLE\n\nExpress yourself in the Crayta universe with a range of high quality customisation options. Collect outfits, emotes, drones and more to tailor your identity throughout the game.\n\n# UNLOCK GEAR AS YOU PLAY\n\nGain XP as you complete Creator Challenges and unlock tonnes of cosmetics as you progress through our Mechanical Revolution Battle Pass!",
+  "description": "Forge your own paths in an age of industry with our Mechanical Revolution Battle Pass! \n\nEarn XP while completing Creator Challenges and unlock all kinds of steam-powered content as you progress through a towering 100 levels.",
+  "longDescription": "Forge your own paths in an age of industry with our Mechanical Revolution Battle Pass! \n\nEarn XP while completing Creator Challenges and unlock all kinds of incredible content such as the Dollface and Sprocket skins, the Choo Chooooo! emote, Magpie Drone & much more as you progress through 100 levels of industrial themed content!\n\n# PLAY THOUSANDS OF GAMES\n\nPlay from an expanding universe of user-generated multiplayer games across a huge variety of genres. From team-based shooters and obstacle courses to farming simulators and escape rooms, there’s going to be something for everyone.\n\n# CREATE GAMES WITH FRIENDS\n\nCrayta is a truly collaborative game creation platform built on Unreal Engine 4 - you and your friends can jump in and create games together in the cloud, regardless of your experience.\n\n# SHOW YOUR STYLE\n\nExpress yourself in the Crayta universe with a range of high quality customization options. Collect outfits, emotes, drones and more to tailor your identity throughout the game.\n\n# UNLOCK GEAR AS YOU PLAY\n\nGain XP as you complete Creator Challenges and unlock tons of cosmetics as you progress through our Mechanical Revolution Battle Pass!\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "crayta--mechanical-revolution-battle-pass",
   "creationDate": "2021-01-14T22:57:30.666Z",
-  "lastModifiedDate": "2021-05-19T12:55:18.565Z",
+  "lastModifiedDate": "2021-06-16T14:00:25.163Z",
   "effectiveDate": "2021-05-19T09:00:00.000Z",
   "viewableDate": "2021-05-19T09:00:00.000Z",
   "developer": null,
@@ -92,10 +92,6 @@
     {
       "key": "publisherName",
       "value": "Unit 2 Games"
-    },
-    {
-      "key": "isPrepurchase",
-      "value": "true"
     },
     {
       "key": "developerName",
