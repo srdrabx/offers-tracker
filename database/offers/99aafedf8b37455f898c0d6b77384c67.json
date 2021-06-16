@@ -8,7 +8,7 @@
   "productSlug": "predator-hunting-grounds/home",
   "urlSlug": "predator-hunting-grounds",
   "creationDate": "2019-11-12T23:31:21.431Z",
-  "lastModifiedDate": "2021-04-06T19:28:30.877Z",
+  "lastModifiedDate": "2021-06-16T19:08:27.004Z",
   "effectiveDate": "2020-04-23T23:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -143,15 +143,6 @@
   ],
   "keyImages": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/offer/Predator_Portrait-1280x1440-21060c43debce23ca17d694f67298b03.jpg",
-      "md5": "21060c43debce23ca17d694f67298b03",
-      "size": 483818,
-      "uploadedDate": "2019-12-09T18:34:15.711Z",
-      "width": 1280,
-      "height": 1440
-    },
-    {
       "type": "DieselStoreFrontWide",
       "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/offer/PHG_StoreWide-2560x1440-e62fa18a59b9ae27cd6ce93eb7935c6c.jpg",
       "md5": "e62fa18a59b9ae27cd6ce93eb7935c6c",
@@ -171,30 +162,39 @@
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/offer/PHG_StoreTall-2560x1440-e62fa18a59b9ae27cd6ce93eb7935c6c.jpg",
-      "md5": "e62fa18a59b9ae27cd6ce93eb7935c6c",
-      "size": 633252,
-      "uploadedDate": "2020-04-23T23:15:52.115Z",
-      "width": 2560,
-      "height": 1440
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PredatorDLCBundle_IllfonicLLC_Bundles_S2_1200x1600-2547d08a7ecd5a20524e601c9f174bbb",
+      "md5": "2547d08a7ecd5a20524e601c9f174bbb",
+      "size": 230081,
+      "uploadedDate": "2021-06-16T19:07:24.999Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/offer/PHG_Tall-1280x1440-21060c43debce23ca17d694f67298b03.jpg",
-      "md5": "21060c43debce23ca17d694f67298b03",
-      "size": 483818,
-      "uploadedDate": "2020-04-23T23:16:37.940Z",
-      "width": 1280,
-      "height": 1440
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PredatorDLCBundle_IllfonicLLC_Bundles_S2_1200x1600-2547d08a7ecd5a20524e601c9f174bbb",
+      "md5": "2547d08a7ecd5a20524e601c9f174bbb",
+      "size": 230081,
+      "uploadedDate": "2021-06-16T19:07:50.286Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PredatorDLCBundle_IllfonicLLC_Bundles_S2_1200x1600-2547d08a7ecd5a20524e601c9f174bbb",
+      "md5": "2547d08a7ecd5a20524e601c9f174bbb",
+      "size": 230081,
+      "uploadedDate": "2021-06-16T19:07:59.568Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/offer/PHG_StoreTall-2560x1440-e62fa18a59b9ae27cd6ce93eb7935c6c.jpg",
-      "md5": "e62fa18a59b9ae27cd6ce93eb7935c6c",
-      "size": 633252,
-      "uploadedDate": "2020-04-23T23:17:09.699Z",
-      "width": 2560,
-      "height": 1440
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_PredatorDLCBundle_IllfonicLLC_Bundles_S2_1200x1600-2547d08a7ecd5a20524e601c9f174bbb",
+      "md5": "2547d08a7ecd5a20524e601c9f174bbb",
+      "size": 230081,
+      "uploadedDate": "2021-06-16T19:08:11.162Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [
