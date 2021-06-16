@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "hitman-3--seven-deadly-sins-act-3-sloth",
   "creationDate": "2021-03-04T23:46:11.588Z",
-  "lastModifiedDate": "2021-06-15T13:00:29.276Z",
+  "lastModifiedDate": "2021-06-16T16:54:50.374Z",
   "effectiveDate": "2021-06-15T13:00:00.000Z",
   "viewableDate": "2021-06-15T13:00:00.000Z",
   "developer": null,
@@ -152,6 +152,6 @@
     }
   ],
   "catalogNs": {
-    "name": "ed55aa5edc5941de92fd7f64de415793"
+    "name": null
   }
 }
