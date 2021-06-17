@@ -55950,11 +55950,12 @@
     [
       "games",
       "games/edition",
+      "games/edition/base",
       "applications"
     ],
     "Saber Interactive",
     1587741065,
-    1623531805,
+    1623951658,
     "https://cdn1.epicgames.com/wombat/offer/WWZ-GOTY-Edition_EpicGames_PortraitImage_860x1148-860x1148-6ad932230150a3580974ba0a719bcdaa.jpg",
     "world-war-z/goty-edition"
   ],
