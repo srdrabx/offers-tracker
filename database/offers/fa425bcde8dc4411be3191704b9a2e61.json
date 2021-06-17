@@ -2,15 +2,15 @@
   "id": "fa425bcde8dc4411be3191704b9a2e61",
   "namespace": "ce9774c9678a4377befaa8fdfc8ef71b",
   "title": "Magic: Legends - Epic Planeswalker Starter Pack",
-  "description": "Unlock the Moorland Ranger character costume, Moorland Ranger Werewolf summon skin, and two drop boosts, for increased rewards. The Epic Planeswalker Starter Pack will be available from the beginning of Open Beta on March 23, until April 6, at 9am Pacific.",
-  "longDescription": "Unlock the Moorland Ranger character costume, Moorland Ranger Werewolf summon skin, and two drop boosts, for increased rewards.\n\nThe Epic Planeswalker Starter Pack will be available from the beginning of Open Beta on March 23, until April 6, at 9am Pacific.",
+  "description": "Unlock the Moorland Ranger character costume, Moorland Ranger Werewolf summon skin, and two drop boosts, for increased rewards.  The Epic Planeswalker Starter Pack will be available for a limited time from June 17, 2021 10AM PT to June 24, 2021 10AM PT.",
+  "longDescription": "Unlock the Moorland Ranger character costume, Moorland Ranger Werewolf summon skin, and two drop boosts, for increased rewards.\n\nThe Epic Planeswalker Starter Pack will be available for a limited time from June 17, 2021 10AM PT to June 24, 2021 10AM PT.",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "magic-legends--epic-planeswalker-starter-pack",
   "creationDate": "2021-02-09T03:31:54.605Z",
-  "lastModifiedDate": "2021-03-25T00:24:11.318Z",
-  "effectiveDate": "2021-03-23T17:00:00.000Z",
-  "viewableDate": "2021-03-23T17:00:00.000Z",
+  "lastModifiedDate": "2021-06-17T17:11:30.934Z",
+  "effectiveDate": "2021-06-17T17:00:00.000Z",
+  "viewableDate": "2021-06-17T17:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
@@ -129,6 +129,6 @@
     }
   ],
   "catalogNs": {
-    "name": null
+    "name": "ce9774c9678a4377befaa8fdfc8ef71b"
   }
 }
