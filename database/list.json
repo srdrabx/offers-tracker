@@ -22078,11 +22078,12 @@
     [
       "freegames",
       "games",
-      "games/edition"
+      "games/edition",
+      "games/edition/base"
     ],
     "AQUIRIS",
     1611701771,
-    1623939047,
+    1623943860,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HorizonChaseTurbo_AQUIRIS_S2_1200x1600-7b51e6b8f8cf6ebd50f5fb77be96ad9d",
     "horizon-chase-turbo"
   ],
@@ -34779,11 +34780,12 @@
       "freegames",
       "games",
       "games/edition",
+      "games/edition/base",
       "applications"
     ],
     "Sega of America",
     1582680771,
-    1623940115,
+    1623943650,
     "https://cdn1.epicgames.com/45e7cf3c49054f2fb20b673d9b0ae69e/offer/EGS_SonicMania_Lab42_S6-510x680-b83646998d6a711b6997e076e091c015.jpg",
     "sonic-mania"
   ],
