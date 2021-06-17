@@ -1,16 +1,16 @@
 {
   "id": "8d50972d297f448cb3718d6e8094327a",
   "namespace": "45e7cf3c49054f2fb20b673d9b0ae69e",
-  "title": "AmethystGeneralAudience",
-  "description": "AmethystGeneralAudience",
+  "title": "Sonic Mania",
+  "description": "Sonic Mania",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
+  "productSlug": "sonic-mania",
   "urlSlug": "amethystgeneralaudience",
   "creationDate": "2020-02-26T01:32:51.320Z",
-  "lastModifiedDate": "2020-04-22T20:11:51.030Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2021-06-17T14:28:35.781Z",
+  "effectiveDate": "2021-06-24T15:00:00.000Z",
+  "viewableDate": "2021-06-17T14:25:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-5gbgsfvsrt9wlx9gu868mrxmhq6dlv",
@@ -25,32 +25,172 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "freegames"
+    },
+    {
       "path": "games"
+    },
+    {
+      "path": "games/edition"
     },
     {
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2021-02-10T17:36:19.203Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1264",
+      "name": "Co-op",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.700Z",
+      "updated": "2021-02-10T17:34:35.309Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2021-02-10T17:36:06.452Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1151",
+      "name": "Platformer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:33.743Z",
+      "updated": "2021-02-10T17:14:16.761Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "[]"
     },
     {
       "key": "publisherName",
-      "value": "[]"
+      "value": "SEGA"
     },
     {
       "key": "developerName",
-      "value": "[]"
+      "value": "Lab42"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "sonic-mania"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/45e7cf3c49054f2fb20b673d9b0ae69e/offer/EGS_SonicMania_Lab42_S5-1360x765-31b5379f91e2451e57e0273339bf68b8.jpg",
+      "md5": "31b5379f91e2451e57e0273339bf68b8",
+      "size": 352113,
+      "uploadedDate": "2020-08-13T01:15:14.583Z",
+      "width": 1360,
+      "height": 765
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/45e7cf3c49054f2fb20b673d9b0ae69e/offer/EGS_SonicMania_Lab42_S6-510x680-b83646998d6a711b6997e076e091c015.jpg",
+      "md5": "b83646998d6a711b6997e076e091c015",
+      "size": 333330,
+      "uploadedDate": "2020-08-13T01:15:21.803Z",
+      "width": 510,
+      "height": 680
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/45e7cf3c49054f2fb20b673d9b0ae69e/offer/EGS_SonicMania_Lab42_S6-510x680-b83646998d6a711b6997e076e091c015.jpg",
+      "md5": "b83646998d6a711b6997e076e091c015",
+      "size": 333330,
+      "uploadedDate": "2020-08-13T01:15:30.137Z",
+      "width": 510,
+      "height": 680
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/45e7cf3c49054f2fb20b673d9b0ae69e/offer/EGS_SonicMania_Lab42_S6-510x680-b83646998d6a711b6997e076e091c015.jpg",
+      "md5": "b83646998d6a711b6997e076e091c015",
+      "size": 333330,
+      "uploadedDate": "2020-08-13T01:15:38.723Z",
+      "width": 510,
+      "height": 680
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/45e7cf3c49054f2fb20b673d9b0ae69e/offer/EGS_SonicMania_Lab42_S5-1360x765-31b5379f91e2451e57e0273339bf68b8.jpg",
+      "md5": "31b5379f91e2451e57e0273339bf68b8",
+      "size": 352113,
+      "uploadedDate": "2020-08-13T01:15:48.111Z",
+      "width": 1360,
+      "height": 765
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/45e7cf3c49054f2fb20b673d9b0ae69e/offer/EGS_SonicMania_Lab42_S6-510x680-b83646998d6a711b6997e076e091c015.jpg",
+      "md5": "b83646998d6a711b6997e076e091c015",
+      "size": 333330,
+      "uploadedDate": "2020-08-13T01:15:56.176Z",
+      "width": 510,
+      "height": 680
+    }
+  ],
   "items": [
     {
       "id": "82063d1e3a5842a4a783b5417df6c203"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "45e7cf3c49054f2fb20b673d9b0ae69e"
+  }
 }

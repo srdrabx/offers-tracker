@@ -205,7 +205,7 @@
     ],
     "Team17 Digital Ltd",
     1571079941,
-    1623857697,
+    1623940108,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CarnivalofChaos_GhostTownGamesandTeam17DigitalLtd_DLC_S2_1200x1600-8b9faeb40b1f2cd5c143d7abfbc4e708",
     ""
   ],
@@ -3676,11 +3676,12 @@
       "freegames",
       "games",
       "games/edition",
+      "games/edition/base",
       "applications"
     ],
     "Team17 Digital Ltd",
     1568144042,
-    1623857559,
+    1623940072,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-overcooked2-tall_1200x1600-fbae89fad70c05cd1979316f620e64a9",
     "overcooked-2"
   ],
@@ -22055,6 +22056,21 @@
     ""
   ],
   [
+    "58a2b650955f4920876afe86dfb563c1",
+    "253d451b16364a22907dd01b7e928fb6",
+    "Horizon Chase Turbo",
+    [
+      "freegames",
+      "games",
+      "games/edition"
+    ],
+    "AQUIRIS",
+    1611701771,
+    1623939047,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HorizonChaseTurbo_AQUIRIS_S2_1200x1600-7b51e6b8f8cf6ebd50f5fb77be96ad9d",
+    "horizon-chase-turbo"
+  ],
+  [
     "58a8a6e7c736477ba451f6fe79bf3d44",
     "ace4435645d9489cacfbb422b7c1c817",
     "DLC CHARACTER 4 \"???\"",
@@ -34742,16 +34758,18 @@
   [
     "8d50972d297f448cb3718d6e8094327a",
     "45e7cf3c49054f2fb20b673d9b0ae69e",
-    "AmethystGeneralAudience",
+    "Sonic Mania",
     [
+      "freegames",
       "games",
+      "games/edition",
       "applications"
     ],
     "Sega of America",
     1582680771,
-    1587586311,
-    "",
-    ""
+    1623940115,
+    "https://cdn1.epicgames.com/45e7cf3c49054f2fb20b673d9b0ae69e/offer/EGS_SonicMania_Lab42_S6-510x680-b83646998d6a711b6997e076e091c015.jpg",
+    "sonic-mania"
   ],
   [
     "8d5ac59c73ab4851911b63fbc7bc1b97",
