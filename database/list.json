@@ -5682,7 +5682,7 @@
     ],
     "Studio Wildcard",
     1584985409,
-    1603202293,
+    1623942027,
     "https://cdn1.epicgames.com/ark/offer/EGS_ARKSurvivalEvolved_StudioWildcard_S2-1200x1600-5b58fdefea9f885c7426e894a1034921.jpg",
     "ark"
   ],
@@ -6524,7 +6524,7 @@
     ],
     "Studio Wildcard",
     1589239886,
-    1622654419,
+    1623942046,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_ARKGenesisSeasonPass_StudioWildcard_SeasonPass_S2_1200x1600-4eb44319441ebbbecf3ad99af058bd65",
     "ark/genesis-season-pass"
   ],
@@ -7262,6 +7262,22 @@
     1588120702,
     "",
     "for-honor/home"
+  ],
+  [
+    "1d309546149d4646a24b15b28eedb358",
+    "3a1067df83654812b976101174e1904f",
+    "Timberborn",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Mechanistry",
+    1619564929,
+    1623940931,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Timberborn_Mechanistry_S4_1200x1600-454bfe5d0369aa8b54d0760728e5cdb2",
+    "timberborn"
   ],
   [
     "1d379e3b53a44b358f746751bf9439a8",
@@ -21121,7 +21137,7 @@
     ],
     "Studio Wildcard",
     1589239624,
-    1603202658,
+    1623942038,
     "https://cdn1.epicgames.com/ark/offer/EGS_ARKSeasonPass_StudioWildcard_SeasonPass_S2-1200x1600-99404c44ac8fb17f8961f3bc6111a27f.jpg",
     "ark/season-pass"
   ],
@@ -36122,15 +36138,16 @@
   [
     "93005b3ae6774dacb4c7a7f89462d3dd",
     "45e7cf3c49054f2fb20b673d9b0ae69e",
-    "Encore DLC",
+    "Sonic Mania - Encore DLC",
     [
-      "games",
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Sega of America",
     1584024649,
-    1584991035,
-    "",
+    1623939885,
+    "https://cdn1.epicgames.com/45e7cf3c49054f2fb20b673d9b0ae69e/offer/EGS_SonicManiaEncoreDLC_Lab42_DLC_S2-1200x1600-3606844579b531150e72a9630fb769a8.jpg",
     ""
   ],
   [
@@ -39283,7 +39300,7 @@
     ],
     "2K Games, Inc.",
     1585083523,
-    1596053543,
+    1623942069,
     "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVIPlatinumEdition_FiraxisGames_Bundles_S2-1200x1600-67715a33899e9a531cfff3a99385ebe8.jpg",
     "sid-meiers-civilization-vi/platinum-edition"
   ],
