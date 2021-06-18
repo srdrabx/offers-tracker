@@ -1,0 +1,42 @@
+{
+  "id": "4c7d305d315446ab8858a1a39fad4172",
+  "namespace": "7ac3374a63524c509541e762348a4fb8",
+  "title": "VirgoDLCAudience",
+  "description": "VirgoDLCAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "devvirgoaudience-01",
+  "creationDate": "2021-06-18T14:59:49.139Z",
+  "lastModifiedDate": "2021-06-18T14:59:49.139Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-3uzwefdyr4ludvmhy9w5gua9v5fb72",
+    "name": "Bad Fox Studios"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "3b6751baed384677ac8d49da096004f5"
+    }
+  ],
+  "catalogNs": {
+    "name": "7ac3374a63524c509541e762348a4fb8"
+  }
+}
