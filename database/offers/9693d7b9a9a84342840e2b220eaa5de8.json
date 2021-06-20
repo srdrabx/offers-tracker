@@ -48,5 +48,7 @@
       "id": "36df71bea659419daca3d8df0b666fe1"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "rose"
+  }
 }
