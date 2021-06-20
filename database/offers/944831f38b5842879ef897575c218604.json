@@ -44,7 +44,5 @@
       "id": "ddd9d584a1994e359c23624a77b8200b"
     }
   ],
-  "catalogNs": {
-    "name": "weaver"
-  }
+  "catalogNs": null
 }
