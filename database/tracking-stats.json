@@ -1,9 +1,9 @@
 {
   "timeUnit": "ms",
-  "fetchStoreOffersTime": 59948,
+  "fetchStoreOffersTime": 54361,
   "fetchStoreOffersByNamespaceTime": 0,
-  "indexTime": 295,
-  "fetchOffersTime": 59948,
-  "lastUpdate": 1624211902683,
-  "lastUpdateString": "2021-06-20T17:58:22.683Z"
+  "indexTime": 300,
+  "fetchOffersTime": 54361,
+  "lastUpdate": 1624213805965,
+  "lastUpdateString": "2021-06-20T18:30:05.965Z"
 }
