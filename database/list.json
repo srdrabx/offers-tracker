@@ -2799,6 +2799,21 @@
     ""
   ],
   [
+    "0be81cf0a8be464d9cf05c955ef9abdd",
+    "faefb44ad5354f56ad7fb348230e4557",
+    "Tower of Guns Soundtrack",
+    [
+      "digitalextras",
+      "digitalextras/soundtrack",
+      "applications"
+    ],
+    "Versus Evil",
+    1622735534,
+    1624217018,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TowerofGunsSoundtrack_TerriblePostureGames_DigitalExtras_S2_1200x1600-007e8598f83c05a893748fb8849b7449",
+    ""
+  ],
+  [
     "0c1006e0e8a042ceb6956558ad5fb15e",
     "8d4a32fcfce3401e96e1cbe349b8d859",
     "DevThaliaAudience",
@@ -27187,6 +27202,22 @@
     1615476084,
     "https://cdn1.epicgames.com/9afcf28baab84109ad3bc8038d07e7c1/offer/TRFU_UCS17404_EGST_Store_Portrait_1200x1600-1200x1600-907b33b9a3415124d7212acc9e75f13a.jpg",
     ""
+  ],
+  [
+    "6cdb320a799c49138349084e1b4aafe3",
+    "faefb44ad5354f56ad7fb348230e4557",
+    "Tower of Guns",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Versus Evil",
+    1617214366,
+    1623981353,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TowerofGuns_TerriblePostureGames_S2_1200x1600-e00bcd15f0e74241311b2e5c76ac5d4f",
+    "tower-of-guns"
   ],
   [
     "6cf72e00719344bf8f7aae98d5f67702",
@@ -55161,6 +55192,22 @@
     1608787664,
     "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/offer/havenDLCportrait-1200x1600-d60210fd405976bbc9d668fa3b7a4248.jfif",
     ""
+  ],
+  [
+    "de5fb28da9e04dbd852fc4457da692c8",
+    "2e953f5d56f44248ab500be341e54a65",
+    "Wild West Dynasty",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Toplitz Productions GmbH",
+    1616452404,
+    1624166242,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WildWestDynasty_VirtualMagicGames_S2_1200x1600-e1d41c2805e4e24a268117f0f0e25d16",
+    "wild-west-dynasty"
   ],
   [
     "de63034e2cf44d08b88dcd4927029e8d",
