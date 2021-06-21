@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "sid-meiers-civilization-vi--anthology-upgrade",
   "creationDate": "2021-05-24T21:18:19.680Z",
-  "lastModifiedDate": "2021-06-13T19:21:21.155Z",
+  "lastModifiedDate": "2021-06-21T17:28:45.118Z",
   "effectiveDate": "2021-06-10T17:00:00.000Z",
   "viewableDate": "2021-06-10T17:00:00.000Z",
   "developer": null,
@@ -112,47 +112,47 @@
   ],
   "keyImages": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/1200x1600_1200x1600-18154d39f5255ea2df904383354c9075",
-      "md5": "18154d39f5255ea2df904383354c9075",
-      "size": 231368,
-      "uploadedDate": "2021-06-09T17:09:54.802Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/1200x1600_1200x1600-18154d39f5255ea2df904383354c9075",
-      "md5": "18154d39f5255ea2df904383354c9075",
-      "size": 231368,
-      "uploadedDate": "2021-06-09T17:10:16.971Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/CVAU_Epic_Epic_Portrait_Offer_Image_1200x1600_1200x1600-5fc1a52be66274fcd45dd8f16a92ffee",
+      "md5": "5fc1a52be66274fcd45dd8f16a92ffee",
+      "size": 1818538,
+      "uploadedDate": "2021-06-21T17:23:28.743Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/1920x1080_1920x1080-69786c6c6cdb5bc24bb523b41d288578",
-      "md5": "69786c6c6cdb5bc24bb523b41d288578",
-      "size": 258298,
-      "uploadedDate": "2021-06-09T17:10:45.895Z",
-      "width": 1920,
-      "height": 1080
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/CVAU_Epic_Epic_Landscape_Store_2560x1440_2560x1440-24794e6d9043fe955161d758673da073",
+      "md5": "24794e6d9043fe955161d758673da073",
+      "size": 3132721,
+      "uploadedDate": "2021-06-21T17:23:59.941Z",
+      "width": 2560,
+      "height": 1440
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/1200x1600_1200x1600-18154d39f5255ea2df904383354c9075",
-      "md5": "18154d39f5255ea2df904383354c9075",
-      "size": 231368,
-      "uploadedDate": "2021-06-09T17:10:59.943Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/CVAU_Epic_Epic_Portrait_Offer_Image_1200x1600_1200x1600-5fc1a52be66274fcd45dd8f16a92ffee",
+      "md5": "5fc1a52be66274fcd45dd8f16a92ffee",
+      "size": 1818538,
+      "uploadedDate": "2021-06-21T17:24:26.534Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/CVAU_Epic_Epic_Portrait_Offer_Image_1200x1600_1200x1600-5fc1a52be66274fcd45dd8f16a92ffee",
+      "md5": "5fc1a52be66274fcd45dd8f16a92ffee",
+      "size": 1818538,
+      "uploadedDate": "2021-06-21T17:25:07.926Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "ProductLogo",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Logo-400x400_400x400-c87474ed8b05f5595335fb6f59fc21aa",
-      "md5": "c87474ed8b05f5595335fb6f59fc21aa",
-      "size": 45174,
-      "uploadedDate": "2021-06-09T17:11:22.080Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/CVAU_Epic_Epic_Logo_400x400_400x400-a7b4ac67adecbedb807b25632516f514",
+      "md5": "a7b4ac67adecbedb807b25632516f514",
+      "size": 80430,
+      "uploadedDate": "2021-06-21T17:25:16.387Z",
       "width": 400,
       "height": 400
     }
