@@ -8,7 +8,7 @@
   "productSlug": "edge-of-eternity",
   "urlSlug": "edge-of-eternity",
   "creationDate": "2021-03-02T22:39:32.220Z",
-  "lastModifiedDate": "2021-06-08T14:50:03.475Z",
+  "lastModifiedDate": "2021-06-21T23:49:14.542Z",
   "effectiveDate": "2021-06-08T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -110,7 +110,7 @@
     },
     {
       "key": "developerName",
-      "value": "Plug In Digital SAS"
+      "value": "Dear Villagers"
     },
     {
       "key": "com.epicgames.app.productSlug",
