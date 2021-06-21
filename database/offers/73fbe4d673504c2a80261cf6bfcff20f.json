@@ -8,7 +8,7 @@
   "productSlug": "state-of-decay-2-juggernaut-edition/home",
   "urlSlug": "snoekgeneralaudience",
   "creationDate": "2020-01-27T23:21:07.288Z",
-  "lastModifiedDate": "2020-05-26T17:00:00.315Z",
+  "lastModifiedDate": "2021-06-21T17:51:54.436Z",
   "effectiveDate": "2020-03-13T10:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -132,48 +132,57 @@
   "keyImages": [
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_StateofDecay2JuggernautEdition_UndeadLabs_S1-2560x1440-a511367776edbdaf619fc594bf173fc9.jpg",
-      "md5": "a511367776edbdaf619fc594bf173fc9",
-      "size": 409640,
-      "uploadedDate": "2020-03-05T22:19:15.188Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_StateofDecay2JuggernautEdition_UndeadLabs_S1_2560x1440-b0dfd92ba196f8c9d475cb9b64d66432",
+      "md5": "b0dfd92ba196f8c9d475cb9b64d66432",
+      "size": 985498,
+      "uploadedDate": "2021-06-21T17:51:05.601Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_StateofDecay2JuggernautEdition_UndeadLabs_S2-860x1148-13ba1a38ea2f8c924cb636059bc28aec.jpg",
-      "md5": "13ba1a38ea2f8c924cb636059bc28aec",
-      "size": 475611,
-      "uploadedDate": "2020-03-05T22:19:26.265Z",
-      "width": 860,
-      "height": 1148
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_StateofDecay2JuggernautEdition_UndeadLabs_S2-860x1148-13ba1a38ea2f8c924cb636059bc28aec.jpg",
-      "md5": "13ba1a38ea2f8c924cb636059bc28aec",
-      "size": 475611,
-      "uploadedDate": "2020-03-05T22:19:26.265Z",
-      "width": 860,
-      "height": 1148
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_StateofDecay2JuggernautEdition_UndeadLabs_S2_1200x1600-96e75cb7c40d3757c2f1df01d1675130",
+      "md5": "96e75cb7c40d3757c2f1df01d1675130",
+      "size": 961404,
+      "uploadedDate": "2021-06-21T17:51:21.723Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/11eb2ae2943641b498efb54501511b86/offer/landscape_image_2560x1440-2560x1440-a511367776edbdaf619fc594bf173fc9.jpg",
-      "md5": "a511367776edbdaf619fc594bf173fc9",
-      "size": 409640,
-      "uploadedDate": "2020-02-24T20:39:33.103Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_StateofDecay2JuggernautEdition_UndeadLabs_S1_2560x1440-b0dfd92ba196f8c9d475cb9b64d66432",
+      "md5": "b0dfd92ba196f8c9d475cb9b64d66432",
+      "size": 985498,
+      "uploadedDate": "2021-06-21T17:51:28.829Z",
       "width": 2560,
       "height": 1440
     },
     {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_StateofDecay2JuggernautEdition_UndeadLabs_S2_1200x1600-96e75cb7c40d3757c2f1df01d1675130",
+      "md5": "96e75cb7c40d3757c2f1df01d1675130",
+      "size": 961404,
+      "uploadedDate": "2021-06-21T17:51:36.917Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_StateofDecay2JuggernautEdition_UndeadLabs_S2_1200x1600-96e75cb7c40d3757c2f1df01d1675130",
+      "md5": "96e75cb7c40d3757c2f1df01d1675130",
+      "size": 961404,
+      "uploadedDate": "2021-06-21T17:51:43.857Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/11eb2ae2943641b498efb54501511b86/offer/EGS_StateofDecay2JuggernautEdition_UndeadLabs_S1-2560x1440-a511367776edbdaf619fc594bf173fc9.jpg",
-      "md5": "a511367776edbdaf619fc594bf173fc9",
-      "size": 409640,
-      "uploadedDate": "2020-03-06T16:35:09.973Z",
-      "width": 2560,
-      "height": 1440
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_StateofDecay2JuggernautEdition_UndeadLabs_S2_1200x1600-96e75cb7c40d3757c2f1df01d1675130",
+      "md5": "96e75cb7c40d3757c2f1df01d1675130",
+      "size": 961404,
+      "uploadedDate": "2021-06-21T17:51:50.063Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [
