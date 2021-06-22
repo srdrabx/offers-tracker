@@ -1,0 +1,55 @@
+{
+  "id": "9e764a3406984b9db3c5100a4d5ff683",
+  "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+  "title": "DLC09",
+  "description": "DLC09",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "tantalumgeneralaudience-01-07",
+  "creationDate": "2021-06-22T04:59:18.554Z",
+  "lastModifiedDate": "2021-06-22T13:45:51.151Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+    "name": "miHoYo Co., Ltd"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "2e6996fff8b54fa38d361013d96dfbd7"
+    }
+  ],
+  "catalogNs": {
+    "name": "879b0d8776ab46a59a129983ba78f0ce"
+  }
+}
