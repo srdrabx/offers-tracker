@@ -7828,7 +7828,7 @@
     ],
     "Tripwire Interactive",
     1611628259,
-    1616511101,
+    1624375327,
     "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/EGS_2021SeasonPass_TripwireInteractive_SeasonPass_S2-1200x1600-dd2b2c018aa6dfb37b0c834b4b82ce71.jpg",
     ""
   ],
@@ -27714,6 +27714,22 @@
     ""
   ],
   [
+    "6f1f423c5bbc43109be6c1ef811fc010",
+    "7e011bb3fb724959b2a132aef9bf27fc",
+    "The Anacrusis",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Stray Bombay Company",
+    1615866432,
+    1624374600,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheAnacrusis_StrayBombay_S2_1200x1600-bc5415bbf463a81cee61980f10b4d91c",
+    "the-anacrusis"
+  ],
+  [
     "6f28248a5fbf4bd294339f548e187f74",
     "affc33b82405457595a032f00284abd2",
     "Rhino Revolver",
@@ -33222,8 +33238,8 @@
     ],
     "Tripwire Interactive",
     1566000536,
-    1622513956,
-    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KillingFloor2_TripwireInteractive_S2_1200x1600-753c8cf3f2b17a34a867c97b578264f9",
+    1624374508,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KillingFloor2_TripwireInteractive_S2_1200x1600-61eddca145e94717236af493feb79545",
     "killing-floor-2"
   ],
   [
@@ -47442,6 +47458,22 @@
     1619712180,
     "https://cdn1.epicgames.com/2362b692c2574b4ea2184540ac8c5c10/offer/EGS_LostWordsBeyondthePage_SketchbookGamesFourthState_S2-1200x1600-0bce0b76f06e6c6b8df74b942f7e8de1.jpg",
     "lost-words-beyond-the-page"
+  ],
+  [
+    "bd886035d7ee4eb1b886a5ada1358528",
+    "ea533c2d54754167a9392a2ffa61bb87",
+    "LEGO® Builder's Journey",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "LEGO System A/S",
+    1620221514,
+    1624370063,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LEGOBuildersJourney_LightBrickStudio_S2_1200x1600-dad6f4682babb9ffc39ca8c586e22ea1",
+    "lego-builders-journey"
   ],
   [
     "bd894d7e7b55470ba8ccbddebb284818",
