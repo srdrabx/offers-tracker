@@ -25710,12 +25710,11 @@
     "879b0d8776ab46a59a129983ba78f0ce",
     "DLC02",
     [
-      "games",
       "applications"
     ],
     "miHoYo Co., Ltd",
     1616524557,
-    1622607088,
+    1624337686,
     "",
     ""
   ],
@@ -34859,6 +34858,19 @@
     1601584510,
     "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_Orion-1200x1600-aa50c880c1e4b68f49fc6f02376614aa.png",
     "path-of-exile/orion-pack"
+  ],
+  [
+    "8d4c99afd9b04eb08e7a29cd285ef6ed",
+    "879b0d8776ab46a59a129983ba78f0ce",
+    "DLC04",
+    [
+      "applications"
+    ],
+    "miHoYo Co., Ltd",
+    1624337765,
+    1624337765,
+    "",
+    ""
   ],
   [
     "8d50972d297f448cb3718d6e8094327a",
@@ -48127,6 +48139,19 @@
     1614298419,
     1620133967,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_Rebellion_ZombieArmy4_M1934-Pistol-Bundle_S2_1200x1600_1200x1600-d8e2f2457c6b981a542e6b832adaf3a3",
+    ""
+  ],
+  [
+    "c08908aec82b45acba4e0de6687b37b2",
+    "879b0d8776ab46a59a129983ba78f0ce",
+    "DLC03",
+    [
+      "applications"
+    ],
+    "miHoYo Co., Ltd",
+    1624337713,
+    1624337736,
+    "",
     ""
   ],
   [

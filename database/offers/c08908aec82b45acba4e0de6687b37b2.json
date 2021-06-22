@@ -1,14 +1,14 @@
 {
-  "id": "6727bb5a90484542a6f388b092a27033",
+  "id": "c08908aec82b45acba4e0de6687b37b2",
   "namespace": "879b0d8776ab46a59a129983ba78f0ce",
-  "title": "DLC02",
-  "description": "DLC02",
+  "title": "DLC03",
+  "description": "DLC03",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "tantalumgeneralaudience-01",
-  "creationDate": "2021-03-23T18:35:57.025Z",
-  "lastModifiedDate": "2021-06-22T04:54:46.413Z",
+  "urlSlug": "tantalumgeneralaudience-01-01",
+  "creationDate": "2021-06-22T04:55:13.461Z",
+  "lastModifiedDate": "2021-06-22T04:55:36.212Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -46,7 +46,7 @@
   "keyImages": [],
   "items": [
     {
-      "id": "e2930b29d0344bb3ad2bf0a37d4d8edd"
+      "id": "83e36e913ce1426d974d9dd741622f9e"
     }
   ],
   "catalogNs": {
