@@ -15661,7 +15661,7 @@
   [
     "3e4df039772c47999a1b0769e847ea94",
     "025f0740981e4902a0cc7e1f1d92dd13",
-    "IridiumGeneralAudience",
+    "Swords of Legends Online",
     [
       "games",
       "games/edition",
@@ -15670,8 +15670,8 @@
     ],
     "Gameforge 4D GmbH",
     1612541421,
-    1623376263,
-    "",
+    1624322703,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SwordsofLegendsOnline_WangyuanShengtangEntertainmentTechnologyCO_S2_1200x1600-b123c02bf392a56c196872fffdeda780",
     "swords-of-legends-online/home"
   ],
   [
@@ -33165,6 +33165,21 @@
     1594306671,
     "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
     ""
+  ],
+  [
+    "85a3e831e4b44eb5950ad0bfe85218d6",
+    "025f0740981e4902a0cc7e1f1d92dd13",
+    "Swords of Legends Deluxe Edition",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Gameforge 4D GmbH",
+    1618601484,
+    1624322772,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SwordsofLegendsOnlineDeluxeEdition_WangyuanShengtangEntertainmentTechnologyCO_Editions_S2_1200x1600-187cd325051b2782cb1d91e8068cd6be",
+    "swords-of-legends-online/deluxe-edition"
   ],
   [
     "85a5a532dbd04ec48ad2b9ac1e772300",
@@ -56690,8 +56705,8 @@
     ],
     "Cellar Door Games",
     1592916126,
-    1621875918,
-    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RogueLegacy2_CellarDoorGames_S2_1200x1600-5cbfa06696339a113ac12511c7884368",
+    1624381277,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/RL2_Pizza_epicstore_product_portrait_1200x1600-d15d956a4d9bb0224cbd7fe975bdd422",
     "rogue-legacy-2"
   ],
   [
@@ -63660,6 +63675,21 @@
     1587479592,
     "",
     ""
+  ],
+  [
+    "fe6871ab164b402785afb5aba6d9ab3f",
+    "025f0740981e4902a0cc7e1f1d92dd13",
+    "Swords of Legends Collector's Edition",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Gameforge 4D GmbH",
+    1618601564,
+    1624322781,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SwordsofLegendsOnlineCollectorsEdition_WangyuanShengtangEntertainmentTechnologyCO_Editions_S2_1200x1600-4923ec1ad47583eb56e566edf3036889",
+    "swords-of-legends-online/collectors-edition  "
   ],
   [
     "fe6ac09bfee74b44ac40097d639711db",

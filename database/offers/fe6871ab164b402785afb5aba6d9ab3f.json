@@ -1,14 +1,14 @@
 {
-  "id": "3e4df039772c47999a1b0769e847ea94",
+  "id": "fe6871ab164b402785afb5aba6d9ab3f",
   "namespace": "025f0740981e4902a0cc7e1f1d92dd13",
-  "title": "Swords of Legends Online",
-  "description": "Swords of Legends Online",
+  "title": "Swords of Legends Collector's Edition",
+  "description": "Swords of Legends Collector's Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "swords-of-legends-online/home",
-  "urlSlug": "swords-of-legends-online",
-  "creationDate": "2021-02-05T16:10:21.342Z",
-  "lastModifiedDate": "2021-06-22T00:45:03.549Z",
+  "productSlug": "swords-of-legends-online/collectors-edition  ",
+  "urlSlug": "swords-of-legends-online--collectors-edition",
+  "creationDate": "2021-04-16T19:32:44.170Z",
+  "lastModifiedDate": "2021-06-22T00:46:21.357Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2021-06-22T17:00:00.000Z",
   "developer": null,
@@ -29,9 +29,6 @@
     },
     {
       "path": "games/edition"
-    },
-    {
-      "path": "games/edition/base"
     },
     {
       "path": "applications"
@@ -118,76 +115,76 @@
     },
     {
       "key": "publisherName",
-      "value": "Gameforge 4D GmbH"
+      "value": "Gameforge 4D GmbH  "
     },
     {
       "key": "developerName",
-      "value": "Wangyuan Shengtang Entertainment Technology CO."
+      "value": "Wangyuan Shengtang Entertainment Technology CO.   "
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "swords-of-legends-online/home"
+      "value": "swords-of-legends-online/collectors-edition  "
     }
   ],
   "keyImages": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SwordsofLegendsOnline_WangyuanShengtangEntertainmentTechnologyCO_S2_1200x1600-b123c02bf392a56c196872fffdeda780",
-      "md5": "b123c02bf392a56c196872fffdeda780",
-      "size": 586893,
-      "uploadedDate": "2021-06-17T18:00:21.863Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SwordsofLegendsOnline_WangyuanShengtangEntertainmentTechnologyCO_S2_1200x1600-b123c02bf392a56c196872fffdeda780",
-      "md5": "b123c02bf392a56c196872fffdeda780",
-      "size": 586893,
-      "uploadedDate": "2021-06-17T18:00:38.805Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SwordsofLegendsOnline_WangyuanShengtangEntertainmentTechnologyCO_S1_2560x1440-cad817be31c2a2c532ad6a574e8e7d19",
-      "md5": "cad817be31c2a2c532ad6a574e8e7d19",
-      "size": 1013793,
-      "uploadedDate": "2021-06-17T18:00:48.160Z",
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SwordsofLegendsOnlineCollectorsEdition_WangyuanShengtangEntertainmentTechnologyCO_Editions_S1_2560x1440-e4a41824940c44be3b47c26e258d6a6d",
+      "md5": "e4a41824940c44be3b47c26e258d6a6d",
+      "size": 1015771,
+      "uploadedDate": "2021-06-11T01:48:56.831Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SwordsofLegendsOnline_WangyuanShengtangEntertainmentTechnologyCO_S2_1200x1600-b123c02bf392a56c196872fffdeda780",
-      "md5": "b123c02bf392a56c196872fffdeda780",
-      "size": 586893,
-      "uploadedDate": "2021-06-17T18:00:59.706Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SwordsofLegendsOnlineCollectorsEdition_WangyuanShengtangEntertainmentTechnologyCO_Editions_S2_1200x1600-4923ec1ad47583eb56e566edf3036889",
+      "md5": "4923ec1ad47583eb56e566edf3036889",
+      "size": 385363,
+      "uploadedDate": "2021-06-11T01:49:02.302Z",
       "width": 1200,
       "height": 1600
     },
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SwordsofLegendsOnline_WangyuanShengtangEntertainmentTechnologyCO_S1_2560x1440-cad817be31c2a2c532ad6a574e8e7d19",
-      "md5": "cad817be31c2a2c532ad6a574e8e7d19",
-      "size": 1013793,
-      "uploadedDate": "2021-06-17T18:01:08.810Z",
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SwordsofLegendsOnlineCollectorsEdition_WangyuanShengtangEntertainmentTechnologyCO_Editions_S2_1200x1600-4923ec1ad47583eb56e566edf3036889",
+      "md5": "4923ec1ad47583eb56e566edf3036889",
+      "size": 385363,
+      "uploadedDate": "2021-06-11T01:49:08.538Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SwordsofLegendsOnlineCollectorsEdition_WangyuanShengtangEntertainmentTechnologyCO_Editions_S2_1200x1600-4923ec1ad47583eb56e566edf3036889",
+      "md5": "4923ec1ad47583eb56e566edf3036889",
+      "size": 385363,
+      "uploadedDate": "2021-06-11T01:49:16.283Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SwordsofLegendsOnlineCollectorsEdition_WangyuanShengtangEntertainmentTechnologyCO_Editions_S1_2560x1440-e4a41824940c44be3b47c26e258d6a6d",
+      "md5": "e4a41824940c44be3b47c26e258d6a6d",
+      "size": 1015771,
+      "uploadedDate": "2021-06-11T01:49:24.682Z",
       "width": 2560,
       "height": 1440
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SwordsofLegendsOnline_WangyuanShengtangEntertainmentTechnologyCO_S2_1200x1600-b123c02bf392a56c196872fffdeda780",
-      "md5": "b123c02bf392a56c196872fffdeda780",
-      "size": 586893,
-      "uploadedDate": "2021-06-17T18:01:18.253Z",
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SwordsofLegendsOnlineCollectorsEdition_WangyuanShengtangEntertainmentTechnologyCO_Editions_S2_1200x1600-4923ec1ad47583eb56e566edf3036889",
+      "md5": "4923ec1ad47583eb56e566edf3036889",
+      "size": 385363,
+      "uploadedDate": "2021-06-11T01:49:33.020Z",
       "width": 1200,
       "height": 1600
     }
   ],
   "items": [
     {
-      "id": "8fba3c97478844fa9622b3a0fd2e5777"
+      "id": "60252e0a4f3c404eb3abd2044ca44ae4"
     }
   ],
   "catalogNs": {
