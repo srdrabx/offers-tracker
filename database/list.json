@@ -1424,14 +1424,16 @@
   [
     "06311f4fd9d042a8bfec8c6c3c81aa8a",
     "dfd2530e80e4425d801913b0879be444",
-    "DLC00073",
+    "Zombie Tank Weapon Skins",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Rebellion",
     1614621205,
-    1620133164,
-    "",
+    1624366601,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_Rebellion_ZombieArmy4_Zombie-Tank_WeaponSkins_S2_1200x1600_1200x1600-1d69fdd7cf13a3d20929ace3fbe5e12e",
     ""
   ],
   [
@@ -8724,14 +8726,16 @@
   [
     "2291575b6e04410196e9bebe95dbd701",
     "dfd2530e80e4425d801913b0879be444",
-    "DLC00070",
+    "Left 4 Dead Character Pack 1",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Rebellion",
     1614621082,
-    1620133164,
-    "",
+    1624366601,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_Rebellion_ZombieArmy4_Left4Dead-CharacterPack01_S2_1200x1600_1200x1600-5e1f19db2cee09b4d7745ae6af0f65cd",
     ""
   ],
   [
@@ -25337,14 +25341,16 @@
   [
     "652619abcf9a4bc69b50d449662df673",
     "dfd2530e80e4425d801913b0879be444",
-    "DLC00069",
+    "WW1 Josiah Outfit",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Rebellion",
     1614620977,
-    1620133164,
-    "",
+    1624366601,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_Rebellion_ZombieArmy4_WWI-Josiah-Outfit_S2_1200x1600_1200x1600-86d3c5ecebb407abee2ca1c8c7672f26",
     ""
   ],
   [
@@ -32875,14 +32881,16 @@
   [
     "84b00ed539bd468db131b3e25034c077",
     "dfd2530e80e4425d801913b0879be444",
-    "DLC00072",
+    "MP.1940 SMG Bundle",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Rebellion",
     1614621164,
-    1620133164,
-    "",
+    1624366708,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_Rebellion_ZombieArmy4_WWII-Headgear-Pack_S2_1200x1600_1200x1600-21641e88d779bc82b0f26e815b7de6f9",
     ""
   ],
   [
@@ -35651,14 +35659,16 @@
   [
     "904f2b63606c436590f9b5b69bf06fe2",
     "dfd2530e80e4425d801913b0879be444",
-    "DLC00071",
+    "WWII Headgear Pack",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Rebellion",
     1614621128,
-    1620133164,
-    "",
+    1624366601,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_Rebellion_ZombieArmy4_WWII-Headgear-Pack_S2_1200x1600_1200x1600-54ac9f16f79d123138a849a6e5c96663",
     ""
   ],
   [
@@ -39859,15 +39869,17 @@
   [
     "9edfded699e246a487e3220a5db9ec2b",
     "dfd2530e80e4425d801913b0879be444",
-    "SparrowMission8",
+    "Mission 8 - Abaddon Asylum",
     [
+      "addons",
       "games",
+      "addons/durable",
       "applications"
     ],
     "Rebellion",
     1613433371,
-    1620133164,
-    "",
+    1624366601,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_Rebellion_ZombieArmy4_Abaddon_Asylum_S2_1200x1600_1200x1600-adb4a0825f48499337bc81b8f26124a8",
     ""
   ],
   [
@@ -54663,6 +54675,21 @@
     1607024556,
     1607461092,
     "",
+    ""
+  ],
+  [
+    "dc6f566ce097449aa4520482d38321ec",
+    "2744acda6a2e493e9894b389b6564df7",
+    "SnowRunner - TATRA Dual Pack",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Focus Home",
+    1617226889,
+    1624343540,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SnowRunnerTATRADualPack_SaberInteractive_DLC_S2_1200x1600-266ea393349e524d0a1f818ac25b5657",
     ""
   ],
   [
