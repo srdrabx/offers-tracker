@@ -1,15 +1,15 @@
 {
   "id": "8c681dbc881043468eaf93ad99c42fb7",
   "namespace": "dfd2530e80e4425d801913b0879be444",
-  "title": "DLC00074",
-  "description": "DLC00074",
+  "title": "DLC00069",
+  "description": "DLC00069",
   "longDescription": "DLC00074",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "zombie-army-4-dead-war---",
+  "urlSlug": "zombie-army-4-dead-war--",
   "creationDate": "2021-03-01T18:15:25.678Z",
-  "lastModifiedDate": "2021-05-04T12:59:24.349Z",
-  "effectiveDate": "2099-01-01T16:00:00.000Z",
+  "lastModifiedDate": "2021-06-22T16:26:56.637Z",
+  "effectiveDate": "2099-01-21T13:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -107,7 +107,7 @@
   "keyImages": [],
   "items": [
     {
-      "id": "3664bdb3d41c4b34826aea9f5f9fc652"
+      "id": "5b8e0b10a8cc491683911b04a94a2e24"
     }
   ],
   "catalogNs": {
