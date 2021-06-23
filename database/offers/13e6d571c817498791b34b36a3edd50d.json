@@ -1,0 +1,140 @@
+{
+  "id": "13e6d571c817498791b34b36a3edd50d",
+  "namespace": "2016da2363da487bbf78961d8faec81c",
+  "title": "Worms Rumble - Armageddon Weapon Skin Pack",
+  "description": "Customise any of your weapons with these Legendary skins inspired by the smash-hit classic Worms Armageddon!\nThis pack includes:\nCheese Weapon Skin,\nBrimstone Weapon Skin,\nForest Weapon Skin,\nSports Weapon Skin,\nManhattan Weapon Skin.",
+  "longDescription": "Customise any of your weapons with these Legendary skins inspired by the smash-hit classic Worms Armageddon!\n\nThis pack includes:\nCheese Weapon Skin\nBrimstone Weapon Skin\nForest Weapon Skin\nSports Weapon Skin\nManhattan Weapon Skin",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "worms-rumble--armageddon-weapon-skin-pack",
+  "creationDate": "2021-04-01T22:02:25.786Z",
+  "lastModifiedDate": "2021-06-23T17:54:06.306Z",
+  "effectiveDate": "2021-06-23T18:00:00.000Z",
+  "viewableDate": "2021-06-23T18:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+    "name": "Team17 Digital Ltd"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Team17"
+    },
+    {
+      "key": "developerName",
+      "value": "Team17"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WormsRumbleSpacewormAlienDoublePack_Team17_DLC_S2_1200x1600-cd104dc085edd63f7252ad0d4cd8c5b4",
+      "md5": "cd104dc085edd63f7252ad0d4cd8c5b4",
+      "size": 336704,
+      "uploadedDate": "2021-06-23T15:16:22.023Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WormsRumbleSpacewormAlienDoublePack_Team17_DLC_S2_1200x1600-cd104dc085edd63f7252ad0d4cd8c5b4",
+      "md5": "cd104dc085edd63f7252ad0d4cd8c5b4",
+      "size": 336704,
+      "uploadedDate": "2021-06-23T15:16:32.932Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WormsRumbleSpacewormAlienDoublePack_Team17_DLC_S1_2560x1440-9bc86f83a4d8dcc7f8ce12544b7975f7",
+      "md5": "9bc86f83a4d8dcc7f8ce12544b7975f7",
+      "size": 479358,
+      "uploadedDate": "2021-06-23T15:16:51.304Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WormsRumbleSpacewormAlienDoublePack_Team17_DLC_IC1_200x90-fb015acddd0dd416d930f2e2bcfd904a",
+      "md5": "fb015acddd0dd416d930f2e2bcfd904a",
+      "size": 37319,
+      "uploadedDate": "2021-06-23T15:17:16.133Z",
+      "width": 200,
+      "height": 90
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WormsRumbleSpacewormAlienDoublePack_Team17_DLC_G1A_00_1920x1080-d014fd5b6ff9703e10be4c2143a1f456",
+      "md5": "d014fd5b6ff9703e10be4c2143a1f456",
+      "size": 449309,
+      "uploadedDate": "2021-06-23T15:17:31.348Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WormsRumbleSpacewormAlienDoublePack_Team17_DLC_G1A_01_1920x1080-312e998cecce4065d6c7768c21487343",
+      "md5": "312e998cecce4065d6c7768c21487343",
+      "size": 449501,
+      "uploadedDate": "2021-06-23T15:18:27.305Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WormsRumbleSpacewormAlienDoublePack_Team17_DLC_G1A_02_1920x1080-2c4252342c0ed1e61c6f8c270b67914d",
+      "md5": "2c4252342c0ed1e61c6f8c270b67914d",
+      "size": 469464,
+      "uploadedDate": "2021-06-23T15:18:32.491Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WormsRumbleSpacewormAlienDoublePack_Team17_DLC_G1A_03_1920x1080-a2289a6c33803589804993c2a40d58aa",
+      "md5": "a2289a6c33803589804993c2a40d58aa",
+      "size": 470705,
+      "uploadedDate": "2021-06-23T15:18:38.384Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WormsRumbleSpacewormAlienDoublePack_Team17_DLC_S2_1200x1600-cd104dc085edd63f7252ad0d4cd8c5b4",
+      "md5": "cd104dc085edd63f7252ad0d4cd8c5b4",
+      "size": 336704,
+      "uploadedDate": "2021-06-23T15:18:00.254Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "5177ed4c1f1944988a71df0f404b9e0b"
+    }
+  ],
+  "catalogNs": {
+    "name": "2016da2363da487bbf78961d8faec81c"
+  }
+}

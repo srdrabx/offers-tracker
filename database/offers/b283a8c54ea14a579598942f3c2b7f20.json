@@ -1,0 +1,184 @@
+{
+  "id": "b283a8c54ea14a579598942f3c2b7f20",
+  "namespace": "2016da2363da487bbf78961d8faec81c",
+  "title": "Worms Rumble",
+  "description": "Worms Rumble",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "worms-rumble",
+  "urlSlug": "worms-rumble",
+  "creationDate": "2020-02-26T15:22:11.901Z",
+  "lastModifiedDate": "2021-06-23T17:53:31.152Z",
+  "effectiveDate": "2021-06-23T18:00:00.000Z",
+  "viewableDate": "2021-06-23T18:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+    "name": "Team17 Digital Ltd"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2021-02-10T17:36:19.203Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2021-02-10T17:35:33.537Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1156",
+      "name": "Battle Royale",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:36.154Z",
+      "updated": "2021-02-05T16:12:02.791Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "Strategy",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2021-02-10T17:35:11.878Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Team17"
+    },
+    {
+      "key": "developerName",
+      "value": "Team17"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "worms-rumble"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WormsRumble_Tem17_S4_1200x1600-1e1ae1286c7749d91e7fa205ee393b05",
+      "md5": "1e1ae1286c7749d91e7fa205ee393b05",
+      "size": 430961,
+      "uploadedDate": "2021-06-23T15:47:30.798Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WormsRumble_Tem17_S4_1200x1600-1e1ae1286c7749d91e7fa205ee393b05",
+      "md5": "1e1ae1286c7749d91e7fa205ee393b05",
+      "size": 430961,
+      "uploadedDate": "2021-06-23T15:47:25.734Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WormsRumble_Tem17_S3_2560x1440-272fede85a58626f9ff4103438e69536",
+      "md5": "272fede85a58626f9ff4103438e69536",
+      "size": 413764,
+      "uploadedDate": "2021-06-23T15:47:14.744Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WormsRumble_Tem17_S4_1200x1600-1e1ae1286c7749d91e7fa205ee393b05",
+      "md5": "1e1ae1286c7749d91e7fa205ee393b05",
+      "size": 430961,
+      "uploadedDate": "2021-06-23T15:47:09.044Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WormsRumble_Tem17_S3_2560x1440-272fede85a58626f9ff4103438e69536",
+      "md5": "272fede85a58626f9ff4103438e69536",
+      "size": 413764,
+      "uploadedDate": "2021-06-23T15:47:01.911Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WormsRumble_Tem17_S4_1200x1600-1e1ae1286c7749d91e7fa205ee393b05",
+      "md5": "1e1ae1286c7749d91e7fa205ee393b05",
+      "size": 430961,
+      "uploadedDate": "2021-06-23T15:46:55.066Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "8b9eae79118c4b93bbe45473dfea0727"
+    }
+  ],
+  "catalogNs": {
+    "name": "2016da2363da487bbf78961d8faec81c"
+  }
+}
