@@ -5,10 +5,10 @@
   "description": "The Digital Deluxe Edition includes:\n• Worms Rumble Base Game\n• Legends Pack: 6 Outfits, Retro Commando, Sheep, Donkey, Skunk, Cow and Pigeon (each with 3 colour variants!) 6 Weapon Skins - Retro, Wooly, Concrete, Poison, Bovine, Feathers and 6 Banners",
   "longDescription": "Worms Rumble is Worms like you’ve never played it before, with intense, real-time, arena-based 32 player cross-platform combat. Get ready for frantic Deathmatches and intense Last Worm Standing!\n\nThe Digital Deluxe Edition includes:\n• Worms Rumble Base Game\n• Legends Pack - 6 Outfits – Retro Commando, Sheep, Donkey, Skunk, Cow and Pigeon (each with 3 different colour variants!) 6 Weapon Skins - Retro, Wooly, Concrete, Poison, Bovine, Feathers and 6 Banners",
   "status": "ACTIVE",
-  "productSlug": "worms-rumble/digital-deluxe-edition",
+  "productSlug": "worms-rumble--digital-deluxe-edition",
   "urlSlug": "worms-rumble--digital-deluxe-edition",
   "creationDate": "2021-04-01T22:23:43.817Z",
-  "lastModifiedDate": "2021-06-23T17:48:25.969Z",
+  "lastModifiedDate": "2021-06-23T19:44:15.408Z",
   "effectiveDate": "2021-06-23T18:00:00.000Z",
   "viewableDate": "2021-06-23T18:00:00.000Z",
   "developer": null,
@@ -87,7 +87,7 @@
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "worms-rumble/digital-deluxe-edition"
+      "value": "worms-rumble--digital-deluxe-edition"
     }
   ],
   "keyImages": [

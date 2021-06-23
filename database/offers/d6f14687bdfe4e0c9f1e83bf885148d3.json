@@ -63,5 +63,7 @@
       "id": "1c6e0dc608e2470a8a737274eb0cab54"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "hibiscus"
+  }
 }
