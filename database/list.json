@@ -5929,11 +5929,11 @@
       "freegames",
       "games",
       "games/edition",
-      "applications"
+      "games/edition/base"
     ],
     "Kongregate",
     1610582782,
-    1623337638,
+    1624475225,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Hellisotherdemons_CuddleMonsterGames_S2_1200x1600-da6dce7cd466a31ae78e34ccdc27bab8",
     "hell-is-other-demons"
   ],
@@ -36486,7 +36486,7 @@
     ],
     "Sega of America",
     1584024649,
-    1624457522,
+    1624474388,
     "https://cdn1.epicgames.com/45e7cf3c49054f2fb20b673d9b0ae69e/offer/EGS_SonicManiaEncoreDLC_Lab42_DLC_S2-1200x1600-3606844579b531150e72a9630fb769a8.jpg",
     ""
   ],
@@ -47684,7 +47684,7 @@
     ],
     "Warhorse Studios",
     1574884838,
-    1589383530,
+    1624474601,
     "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg",
     "kingdom-come-deliverance/home"
   ],

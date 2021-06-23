@@ -8,7 +8,7 @@
   "productSlug": "hell-is-other-demons",
   "urlSlug": "hell-is-other-demons",
   "creationDate": "2021-01-14T00:06:22.633Z",
-  "lastModifiedDate": "2021-06-10T15:07:18.811Z",
+  "lastModifiedDate": "2021-06-23T19:07:05.883Z",
   "effectiveDate": "2021-06-17T15:00:00.000Z",
   "viewableDate": "2021-06-10T14:20:00.000Z",
   "developer": null,
@@ -34,7 +34,7 @@
       "path": "games/edition"
     },
     {
-      "path": "applications"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -63,18 +63,6 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2021-02-05T16:07:21.852Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    },
-    {
       "id": "1083",
       "name": "Rogue-Lite",
       "namespace": "epic",
@@ -84,6 +72,18 @@
       "updated": "2021-02-05T16:16:40.749Z",
       "status": "ACTIVE",
       "referenceCount": 6,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
       "comment": null
     },
     {
