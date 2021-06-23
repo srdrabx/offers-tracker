@@ -1,0 +1,51 @@
+{
+  "id": "d0d3393b3d1b4acbb3004652df23fa0d",
+  "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+  "title": "Paris - SDLC7",
+  "description": "Paris - SDLC7",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "paris-sdlc7",
+  "creationDate": "2021-06-03T22:43:25.016Z",
+  "lastModifiedDate": "2021-06-23T20:47:43.787Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+    "name": "Expansive Worlds AB"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Expansive Worlds"
+    },
+    {
+      "key": "developerName",
+      "value": "Expansive Worlds"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "9987a953eb3d4170a8118ead0a9f6e69"
+    }
+  ],
+  "catalogNs": {
+    "name": "c7f9346e3db148fca6dd63e9dd8451bd"
+  }
+}
