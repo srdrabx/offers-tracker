@@ -1,0 +1,51 @@
+{
+  "id": "e8c6940dec7c4501a8a08f593f8af895",
+  "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+  "title": "Paris - BDLC1",
+  "description": "Paris - BDLC1",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "paris-bdlc1",
+  "creationDate": "2021-06-03T22:58:18.468Z",
+  "lastModifiedDate": "2021-06-23T20:52:52.347Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+    "name": "Expansive Worlds AB"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Expansive Worlds"
+    },
+    {
+      "key": "developerName",
+      "value": "Expansive Worlds"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "5c2064e97c464ef88dcbe014f46e6999"
+    }
+  ],
+  "catalogNs": {
+    "name": "c7f9346e3db148fca6dd63e9dd8451bd"
+  }
+}

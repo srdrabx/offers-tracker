@@ -1,0 +1,51 @@
+{
+  "id": "0f0ecea2c70442b9ba88f29e095c96f3",
+  "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+  "title": "Paris - SDLC13",
+  "description": "Paris - SDLC13\n",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "paris-sdlc13",
+  "creationDate": "2021-06-03T22:26:42.920Z",
+  "lastModifiedDate": "2021-06-23T20:53:19.935Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+    "name": "Expansive Worlds AB"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Expansive Worlds"
+    },
+    {
+      "key": "developerName",
+      "value": "Expansive Worlds"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "d5fe81189c2140d39c7d7d1b1d7f7147"
+    }
+  ],
+  "catalogNs": {
+    "name": "c7f9346e3db148fca6dd63e9dd8451bd"
+  }
+}

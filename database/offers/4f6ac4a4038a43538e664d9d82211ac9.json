@@ -1,0 +1,45 @@
+{
+  "id": "4f6ac4a4038a43538e664d9d82211ac9",
+  "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+  "title": "Paris - BDL2",
+  "description": "Paris - BDL2",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "paris-bdl2",
+  "creationDate": "2021-06-03T23:13:06.839Z",
+  "lastModifiedDate": "2021-06-23T20:53:41.819Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+    "name": "Expansive Worlds AB"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "b568fa6fe6a54d8194786acf37f42ec9"
+    }
+  ],
+  "catalogNs": {
+    "name": "c7f9346e3db148fca6dd63e9dd8451bd"
+  }
+}
