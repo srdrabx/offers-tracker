@@ -1,0 +1,196 @@
+{
+  "id": "2cb68a86262b4e0a91dbe0625cbbb242",
+  "namespace": "32ef234417314b65a4f76041b684f4d0",
+  "title": "The Spectrum Retreat",
+  "description": "The Spectrum Retreat",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "the-spectrum-retreat",
+  "urlSlug": "capsicum-general-audience",
+  "creationDate": "2021-03-22T21:53:24.644Z",
+  "lastModifiedDate": "2021-06-24T07:04:23.934Z",
+  "effectiveDate": "2021-07-01T15:00:00.000Z",
+  "viewableDate": "2021-06-24T14:25:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-fbx9l7z95axq9s73trhbttadbareuq",
+    "name": "Ripstone Ltd"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "freegames"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1298",
+      "name": "Puzzle",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2021-02-10T17:34:06.225Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "Strategy",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2021-02-10T17:35:11.878Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2021-02-10T17:35:47.790Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2021-02-10T17:36:06.452Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ripstone Ltd"
+    },
+    {
+      "key": "developerName",
+      "value": "Dan Smith"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-spectrum-retreat"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/bf525c62-bc8c-4a51-9d30-799186ab1293_1200x1600-166b997f74a0f926ffe562d8b3dc67b9",
+      "md5": "166b997f74a0f926ffe562d8b3dc67b9",
+      "size": 650605,
+      "uploadedDate": "2021-06-24T07:01:36.075Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/bf525c62-bc8c-4a51-9d30-799186ab1293_1200x1600-166b997f74a0f926ffe562d8b3dc67b9",
+      "md5": "166b997f74a0f926ffe562d8b3dc67b9",
+      "size": 650605,
+      "uploadedDate": "2021-06-24T07:01:43.720Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/bf525c62-bc8c-4a51-9d30-799186ab1293_1200x1600-166b997f74a0f926ffe562d8b3dc67b9",
+      "md5": "166b997f74a0f926ffe562d8b3dc67b9",
+      "size": 650605,
+      "uploadedDate": "2021-06-24T07:01:50.490Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/52b99d72-9223-4524-ab74-240ae808c489_2560x1440-d583c45997a46d39e1a31525ae883b84",
+      "md5": "d583c45997a46d39e1a31525ae883b84",
+      "size": 719838,
+      "uploadedDate": "2021-06-24T07:01:56.887Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/bf525c62-bc8c-4a51-9d30-799186ab1293_1200x1600-166b997f74a0f926ffe562d8b3dc67b9",
+      "md5": "166b997f74a0f926ffe562d8b3dc67b9",
+      "size": 650605,
+      "uploadedDate": "2021-06-24T07:02:03.383Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/52b99d72-9223-4524-ab74-240ae808c489_2560x1440-d583c45997a46d39e1a31525ae883b84",
+      "md5": "d583c45997a46d39e1a31525ae883b84",
+      "size": 719838,
+      "uploadedDate": "2021-06-24T07:02:08.833Z",
+      "width": 2560,
+      "height": 1440
+    }
+  ],
+  "items": [
+    {
+      "id": "7a643c21ff114df8a553a3685ae5f5e7"
+    }
+  ],
+  "catalogNs": {
+    "name": "32ef234417314b65a4f76041b684f4d0"
+  }
+}
