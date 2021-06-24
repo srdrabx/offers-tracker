@@ -1954,6 +1954,22 @@
     ""
   ],
   [
+    "089db945fd7b4a2e9da658532d4880fa",
+    "0ba4cb8e4f6a49fc87836ef2c35e0d21",
+    "Unbound: Worlds Apart",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Alien Pixel Studios SRL",
+    1608334337,
+    1624491660,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_UnboundWorldsApart_AlienPixelStudios_S2_1200x1600-b4fd283611b08ef8e958da956191727e",
+    "unbound-worlds-apart"
+  ],
+  [
     "08a2c617e9b342dbabb7cf28a06895a2",
     "90c3f58497da48d789cc39bff57dc2f4",
     "Overpass Drive With Style Pack - Retail",
@@ -26197,7 +26213,7 @@
     ],
     "White Thorn Digital",
     1616117935,
-    1623518083,
+    1624554111,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BeastsofMaravillaIsland_BananaBirdStudios_S2_1200x1600-2162d90885f2bee6883426f3389cb4af",
     "beasts-of-maravilla-island"
   ],
@@ -50761,7 +50777,7 @@
     ],
     "M2H",
     1616120826,
-    1624516921,
+    1624553718,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/eacae17c-6ea9-47bb-964f-4734c76d17e7_1200x1600-8d431f6886ff29e953378da9d48a45b6",
     "crash-drive-3"
   ],
@@ -51962,6 +51978,21 @@
     1588120702,
     "",
     "zombey"
+  ],
+  [
+    "ccadd85bfb8846ed9037d96464e81245",
+    "08142466e4104a018e149441d35dbabc",
+    "Trails of Cold Steel IV - Lossless Audio Pack",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "NIS America, Inc.",
+    1622735016,
+    1624554008,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TrailsofColdSteelIVLosslessAudioPack_NihonFalcom_DLC_S2_1200x1600-3e8c08091ab3e44b19ffb90bf9e030db",
+    ""
   ],
   [
     "cccddba2ac264ac6ae6512334de81379",
@@ -64931,6 +64962,20 @@
     1581429228,
     1581430197,
     "",
+    ""
+  ],
+  [
+    "ff97a153f8a94f278837a3e34f70b51f",
+    "f7dc2f3c915444f1a6ba4105bc00d592",
+    "BIOMUTANT - Mercenary Class",
+    [
+      "addons",
+      "addons/durable"
+    ],
+    "THQ Nordic GmbH",
+    1619738046,
+    1624554292,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BIOMUTANTMercenaryClass_Experiment101_DLC_S2_1200x1600-4840081efceca01f6f1fbffeaee85155",
     ""
   ],
   [
