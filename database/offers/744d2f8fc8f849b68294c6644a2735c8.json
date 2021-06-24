@@ -1,0 +1,42 @@
+{
+  "id": "744d2f8fc8f849b68294c6644a2735c8",
+  "namespace": "244aaaa06bfa49d088205b13b9d2d115",
+  "title": "DLC 37",
+  "description": "DLC 37",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "20-75plat-01",
+  "creationDate": "2021-06-24T04:28:13.744Z",
+  "lastModifiedDate": "2021-06-24T04:28:13.744Z",
+  "effectiveDate": "2099-01-01T19:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-nvl9gfg7wr3taz2semsy269894sau5",
+    "name": "Digital Extremes"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "Warframe: 75 Platinum 20",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "8b96cff556e04aa4a7af552bfd579f11"
+    }
+  ],
+  "catalogNs": {
+    "name": "244aaaa06bfa49d088205b13b9d2d115"
+  }
+}

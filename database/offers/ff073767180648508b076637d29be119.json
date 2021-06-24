@@ -1,0 +1,42 @@
+{
+  "id": "ff073767180648508b076637d29be119",
+  "namespace": "244aaaa06bfa49d088205b13b9d2d115",
+  "title": "DLC 39",
+  "description": "DLC 39",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "20-75plat-01-02",
+  "creationDate": "2021-06-24T04:29:09.895Z",
+  "lastModifiedDate": "2021-06-24T04:29:09.895Z",
+  "effectiveDate": "2099-01-01T19:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-nvl9gfg7wr3taz2semsy269894sau5",
+    "name": "Digital Extremes"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "Warframe: 75 Platinum 20",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "4ef518093fe84897989061ef72545c7f"
+    }
+  ],
+  "catalogNs": {
+    "name": "244aaaa06bfa49d088205b13b9d2d115"
+  }
+}
