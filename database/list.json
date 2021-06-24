@@ -3769,7 +3769,6 @@
     "2d94b7b33d7f4d02a8fff6fbf71ac7ab",
     "Overcooked! 2",
     [
-      "freegames",
       "games",
       "games/edition",
       "games/edition/base",
@@ -3777,7 +3776,7 @@
     ],
     "Team17 Digital Ltd",
     1568144042,
-    1623940072,
+    1624547613,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-overcooked2-tall_1200x1600-fbae89fad70c05cd1979316f620e64a9",
     "overcooked-2"
   ],
@@ -11245,11 +11244,12 @@
       "freegames",
       "games",
       "games/edition",
+      "games/edition/base",
       "applications"
     ],
     "Ripstone Ltd",
     1616450004,
-    1624518263,
+    1624546989,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/bf525c62-bc8c-4a51-9d30-799186ab1293_1200x1600-166b997f74a0f926ffe562d8b3dc67b9",
     "the-spectrum-retreat"
   ],
@@ -16117,6 +16117,22 @@
     1588672800,
     "https://cdn1.epicgames.com/wombat/offer/world-war-z_promo-1920x1080-db15a2a2755fc0fbec95bb199d340ea9.jpg",
     "wwzgeneralaudience"
+  ],
+  [
+    "3f468b7977d0416a9a36af16f384c516",
+    "3bb4afc31dd241c787bad056e9b8dbf9",
+    "GRIME",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Akupara Games",
+    1613700833,
+    1624476707,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GRIME_CloverBite_S2_1200x1600-95bc1926548601ba6e56d0a804862afb",
+    "grime"
   ],
   [
     "3f482775b0a941638f76efd6e4a47165",

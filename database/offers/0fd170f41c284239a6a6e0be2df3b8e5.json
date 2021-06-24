@@ -8,7 +8,7 @@
   "productSlug": "overcooked-2",
   "urlSlug": "overcooked",
   "creationDate": "2019-09-10T19:34:02.628Z",
-  "lastModifiedDate": "2021-06-17T14:27:52.565Z",
+  "lastModifiedDate": "2021-06-24T15:13:33.958Z",
   "effectiveDate": "2021-06-17T15:00:00.000Z",
   "viewableDate": "2021-06-10T14:20:00.000Z",
   "developer": null,
@@ -24,9 +24,6 @@
   "technicalDetails": null,
   "recurrence": "ONCE",
   "categories": [
-    {
-      "path": "freegames"
-    },
     {
       "path": "games"
     },
