@@ -29234,6 +29234,21 @@
     "predator-hunting-grounds/dutch-87-dlc-pack"
   ],
   [
+    "73b9314db7f94621940bcc204ddd6179",
+    "7e8cbfe4588e471cbdc790da5250ff2d",
+    "Real Farm - Gold Edition",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition"
+    ],
+    "SOEDESCO",
+    1623434427,
+    1624500923,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RealFarmGoldEdition_SOEDESCO_S2_1200x1600-8382c9c8555c1a0cb48aefe612e47ef2",
+    "real-farm-gold-edition"
+  ],
+  [
     "73bb7ff3ee9c42df958990296dcd0495",
     "6009be9994c2409099588cde6f3a5ed0",
     "Cities: Skylines - Content Creator Pack: University City",
@@ -50646,6 +50661,22 @@
     1564593539,
     "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_Atomicrops-340x440-c8b07cc882b332bae541a823f23f4343.png",
     ""
+  ],
+  [
+    "c793249d7976459cb2e17a7bc08ad4d3",
+    "15cb739316ba44ed87878349d10b3ffc",
+    "Crash Drive 3",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "M2H",
+    1616120826,
+    1624516921,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/eacae17c-6ea9-47bb-964f-4734c76d17e7_1200x1600-8d431f6886ff29e953378da9d48a45b6",
+    "crash-drive-3"
   ],
   [
     "c7aaa2e680fd4dceb5fc87eebe80ade9",
