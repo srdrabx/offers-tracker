@@ -2,13 +2,13 @@
   "id": "a9b826c011cf48ea8b0a219a0e789937",
   "namespace": "c37115918ccc4969a57b6b1bdc28af4a",
   "title": "Tiny Tina's Wonderlands",
-  "description": "Tiny Tina's Wonderlands",
+  "description": "Tiny Tina's Wonderlands - Pre Purchase ",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": "tiny-tinas-wonderlands",
   "urlSlug": "tiny-tinas-wonderlands",
   "creationDate": "2020-05-04T23:20:16.821Z",
-  "lastModifiedDate": "2021-06-10T18:33:19.723Z",
+  "lastModifiedDate": "2021-06-25T17:07:01.254Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2021-06-10T19:00:00.000Z",
   "developer": null,
@@ -176,6 +176,9 @@
   "items": [
     {
       "id": "365ab43ecf694d50b45332c4d7aa67e1"
+    },
+    {
+      "id": "2db57c359e9a49e4ac5777854fd8b783"
     }
   ],
   "catalogNs": {
