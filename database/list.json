@@ -15836,7 +15836,7 @@
     ],
     "Gameforge 4D GmbH",
     1612541421,
-    1624322703,
+    1624662118,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SwordsofLegendsOnline_WangyuanShengtangEntertainmentTechnologyCO_S2_1200x1600-b123c02bf392a56c196872fffdeda780",
     "swords-of-legends-online/home"
   ],
@@ -33636,7 +33636,7 @@
   [
     "85a3e831e4b44eb5950ad0bfe85218d6",
     "025f0740981e4902a0cc7e1f1d92dd13",
-    "Swords of Legends Deluxe Edition",
+    "Swords of Legends Online Deluxe Edition",
     [
       "games",
       "games/edition",
@@ -33644,9 +33644,9 @@
     ],
     "Gameforge 4D GmbH",
     1618601484,
-    1624322772,
+    1624662118,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SwordsofLegendsOnlineDeluxeEdition_WangyuanShengtangEntertainmentTechnologyCO_Editions_S2_1200x1600-187cd325051b2782cb1d91e8068cd6be",
-    "swords-of-legends-online/deluxe-edition"
+    "swords-of-legends-online--deluxe-edition"
   ],
   [
     "85a5a532dbd04ec48ad2b9ac1e772300",
@@ -37298,6 +37298,19 @@
     "Thunder Lotus Games",
     1568307810,
     1575561322,
+    "",
+    ""
+  ],
+  [
+    "9497c8a443214228bb13140bae5d8bc1",
+    "3ee6cb949927486a847f9d81e61ff644",
+    "cavatelli Eyepatch DLC",
+    [
+      "applications"
+    ],
+    "Nicalis",
+    1624663187,
+    1624663187,
     "",
     ""
   ],
@@ -44069,6 +44082,19 @@
     1589468400,
     "https://cdn1.epicgames.com/aa5ef9d2f8394731a034504c562e292c/offer/BAD_NORTH_Promo-2560x1440-2834d69532da43f798e77c06031ba3a5.jpg",
     "bad-north/home"
+  ],
+  [
+    "ac60b45873054f6ba2db0c3fdd2d1f44",
+    "3ee6cb949927486a847f9d81e61ff644",
+    "cavatelli 5000 ToriCredits DLC",
+    [
+      "applications"
+    ],
+    "Nicalis",
+    1624663243,
+    1624663243,
+    "",
+    ""
   ],
   [
     "ac67df45f9ce45779c0451e133d8f7c3",
@@ -64658,7 +64684,7 @@
   [
     "fe6871ab164b402785afb5aba6d9ab3f",
     "025f0740981e4902a0cc7e1f1d92dd13",
-    "Swords of Legends Collector's Edition",
+    "Swords of Legends Online Collector's Edition",
     [
       "games",
       "games/edition",
@@ -64666,9 +64692,9 @@
     ],
     "Gameforge 4D GmbH",
     1618601564,
-    1624322781,
+    1624662118,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SwordsofLegendsOnlineCollectorsEdition_WangyuanShengtangEntertainmentTechnologyCO_Editions_S2_1200x1600-4923ec1ad47583eb56e566edf3036889",
-    "swords-of-legends-online/collectors-edition  "
+    "swords-of-legends-online--collectors-edition  "
   ],
   [
     "fe6ac09bfee74b44ac40097d639711db",

@@ -1,15 +1,15 @@
 {
   "id": "fe6871ab164b402785afb5aba6d9ab3f",
   "namespace": "025f0740981e4902a0cc7e1f1d92dd13",
-  "title": "Swords of Legends Collector's Edition",
-  "description": "Swords of Legends Collector's Edition",
+  "title": "Swords of Legends Online Collector's Edition",
+  "description": "Swords of Legends Online Collector's Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "swords-of-legends-online/collectors-edition  ",
+  "productSlug": "swords-of-legends-online--collectors-edition  ",
   "urlSlug": "swords-of-legends-online--collectors-edition",
   "creationDate": "2021-04-16T19:32:44.170Z",
-  "lastModifiedDate": "2021-06-22T00:46:21.357Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2021-06-25T23:01:58.231Z",
+  "effectiveDate": "2021-07-09T12:00:00.000Z",
   "viewableDate": "2021-06-22T17:00:00.000Z",
   "developer": null,
   "seller": {
@@ -123,7 +123,7 @@
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "swords-of-legends-online/collectors-edition  "
+      "value": "swords-of-legends-online--collectors-edition  "
     }
   ],
   "keyImages": [
