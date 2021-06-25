@@ -5,10 +5,10 @@
   "description": "Outward",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "outward/home",
-  "urlSlug": "violageneralaudience",
+  "productSlug": "outward",
+  "urlSlug": "outward",
   "creationDate": "2019-03-26T02:18:08.156Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
+  "lastModifiedDate": "2021-06-25T19:37:03.329Z",
   "effectiveDate": "2019-03-25T20:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -154,7 +154,7 @@
     },
     {
       "key": "publisherName",
-      "value": "Deep Silver"
+      "value": "PRIME MATTER"
     },
     {
       "key": "developerName",
@@ -162,7 +162,7 @@
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "outward/home"
+      "value": "outward"
     }
   ],
   "keyImages": [

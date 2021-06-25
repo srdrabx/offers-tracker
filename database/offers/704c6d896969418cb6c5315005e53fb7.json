@@ -5,10 +5,10 @@
   "description": "You will play an important role in the timeline of Aurai:  Join the rebuilding efforts of old Sirocco refugee camp by  providing the pitiable folks there a new place to call home, a new Sirocco.",
   "longDescription": "There is more than destruction on the path of an adventurer, the time for rebuilding has come! \n\nYou will play an important role in the timeline of Aurai:  Join the rebuilding efforts of old Sirocco refugee camp by  providing the pitiable folks there a new place to call home, a new Sirocco.  \nNew weapons, skills and numerous other gadgets will help you on your uncertain journey into the unknown. \nThe gates are opening, and the path leads to “Caldera”, a new region in the world of Outward which is waiting for you with new adventures, dangers and secrets to explore!  \n\n•\tCity Building Mechanic: Rebuilding Sirocco: \nCreate your own landmark in Aurai by helping the population to survive in this ruthless world! With the new City Building mechanic, you are part of rebuilding the Refugee Camp into New Sirocco. \n\n•\tNew Area: Caldera:  \nAurai is expanding and Caldera is more than just a new landscape. New dungeons, quests and locations make it a treasure trove for every adventurer! \n\n•\tSkill Tree: The Primal Ritualist:  \nPrepare the battlefield with your mighty totems and give yourself an advantage before the scrimmage has even started! \n\n•\tGrenade & Elemental Arrows   \nEnhance your combat repertoire with Grenades and Elemental Arrows. There are numerous new possibilities to be creative in your long-range fighting! \n\n•\tAwakened Weapons:  \nThese legendary weapons are not easy to get – But the effort will pay off! Their unique attributes will give you the necessary advantage in dangerous situations! \n   \nFilled with new adventures, skills, weapons, recipes and pets, “The Three Brothers”-DLC offers you an entirely new journey in the unique world of Aurai!",
   "status": "ACTIVE",
-  "productSlug": "outward/the-three-brothers",
+  "productSlug": null,
   "urlSlug": "outward--the-three-brothers",
   "creationDate": "2020-10-12T16:57:17.563Z",
-  "lastModifiedDate": "2020-12-16T16:34:08.765Z",
+  "lastModifiedDate": "2021-06-25T19:38:26.472Z",
   "effectiveDate": "2020-12-15T18:00:00.000Z",
   "viewableDate": "2020-12-15T18:00:00.000Z",
   "developer": null,
@@ -139,15 +139,11 @@
     },
     {
       "key": "publisherName",
-      "value": "Deep Silver"
+      "value": "PRIME MATTER"
     },
     {
       "key": "developerName",
       "value": "Nine Dots Studio"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "outward/the-three-brothers"
     }
   ],
   "keyImages": [
