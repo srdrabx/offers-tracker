@@ -19518,14 +19518,16 @@
   [
     "4c7d305d315446ab8858a1a39fad4172",
     "7ac3374a63524c509541e762348a4fb8",
-    "VirgoDLCAudience",
+    "Super Pack",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Bad Fox Studios",
     1624028389,
-    1624028389,
-    "",
+    1624630118,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SuperPack_BadFoxStudios_DLC_S2_1200x1600-8d40d35b44546e9616d2f8dfcef87751",
     ""
   ],
   [
@@ -30079,7 +30081,7 @@
     ],
     "Bad Fox Studios",
     1605567489,
-    1615992639,
+    1624629891,
     "https://cdn1.epicgames.com/7ac3374a63524c509541e762348a4fb8/offer/EGS_SuperSquad_BadFoxStudios_S2-1200x1600-728833600c3d3e5c93cdfcf5154993bd.jpg",
     "super-squad"
   ],
