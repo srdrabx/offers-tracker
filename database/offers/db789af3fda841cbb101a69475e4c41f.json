@@ -1,0 +1,58 @@
+{
+  "id": "db789af3fda841cbb101a69475e4c41f",
+  "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+  "title": "RCS3SP",
+  "description": "RCS3SP",
+  "longDescription": "",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "rogue-company-s3sp",
+  "creationDate": "2021-06-25T02:47:19.542Z",
+  "lastModifiedDate": "2021-06-25T02:52:21.876Z",
+  "effectiveDate": "2099-01-01T11:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+    "name": "Hi-Rez Studios"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Hi-Rez Studios"
+    },
+    {
+      "key": "developerName",
+      "value": "First Watch Games"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "cddd17e69f2e4a23934cd968e79b57c3"
+    },
+    {
+      "id": "56d98dc0fdd74aaa9de8201dff3172cc"
+    }
+  ],
+  "catalogNs": {
+    "name": "933ada2ec45e4184ae840d64c99e0ba9"
+  }
+}
