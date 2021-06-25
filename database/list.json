@@ -298,13 +298,13 @@
   [
     "0138be0e56c34be68bf219d388d62114",
     "ed8a79694c054f70a6350cb2c8c45316",
-    "dlc_test_iap_pack_4Audience",
+    "dlc_test_iap_pack_4",
     [
       "applications"
     ],
     "Gameloft SE",
     1616610103,
-    1619567030,
+    1624654914,
     "",
     ""
   ],
@@ -2852,7 +2852,7 @@
     ],
     "Digital Extremes",
     1607026050,
-    1607647983,
+    1624654522,
     "https://cdn1.epicgames.com/244aaaa06bfa49d088205b13b9d2d115/offer/WF_SwarmPack_1200x1600-1200x1600-0ba9b99ba2ac48d8364200c9a311565a.jpg",
     ""
   ],
@@ -3115,7 +3115,7 @@
     ],
     "Digital Extremes",
     1607027944,
-    1607647983,
+    1624654533,
     "https://cdn1.epicgames.com/244aaaa06bfa49d088205b13b9d2d115/offer/WF_HivePack_1200x1600-1200x1600-7b0fe031eeed546444be535e339ad14e.jpg",
     ""
   ],
@@ -17451,7 +17451,7 @@
     ],
     "Digital Extremes",
     1607023813,
-    1607647982,
+    1624654504,
     "https://cdn1.epicgames.com/244aaaa06bfa49d088205b13b9d2d115/offer/WF_SwarmPack_1200x1600-1200x1600-0ba9b99ba2ac48d8364200c9a311565a.jpg",
     ""
   ],
@@ -18302,7 +18302,7 @@
     ],
     "Digital Extremes",
     1607027863,
-    1607647983,
+    1624654527,
     "https://cdn1.epicgames.com/244aaaa06bfa49d088205b13b9d2d115/offer/WF_SwarmPack_1200x1600-1200x1600-0ba9b99ba2ac48d8364200c9a311565a.jpg",
     ""
   ],
@@ -24151,7 +24151,7 @@
     ],
     "Digital Extremes",
     1607024335,
-    1607647982,
+    1624654510,
     "https://cdn1.epicgames.com/244aaaa06bfa49d088205b13b9d2d115/offer/WF_HivePack_1200x1600-1200x1600-7b0fe031eeed546444be535e339ad14e.jpg",
     ""
   ],
@@ -24903,13 +24903,13 @@
   [
     "61eb71b91d034de6990d7260025a1e8f",
     "ed8a79694c054f70a6350cb2c8c45316",
-    "dlc_test_iap_pack_1Audience",
+    "dlc_test_iap_pack_1",
     [
       "applications"
     ],
     "Gameloft SE",
     1616609386,
-    1619567083,
+    1624654875,
     "",
     ""
   ],
@@ -27745,7 +27745,7 @@
     ],
     "Digital Extremes",
     1607024374,
-    1607647982,
+    1624654517,
     "https://cdn1.epicgames.com/244aaaa06bfa49d088205b13b9d2d115/offer/WF_NeophytePack_1200x1600-1200x1600-b81a0b3bc97645860b7c52c7e0ad751e.jpg",
     ""
   ],
@@ -30999,13 +30999,13 @@
   [
     "7a0a9a2bf1ba4e7184465a005ecdc86e",
     "ed8a79694c054f70a6350cb2c8c45316",
-    "dlc_standaloneAudience",
+    "dlc_standalone",
     [
       "applications"
     ],
     "Gameloft SE",
     1616537161,
-    1619567049,
+    1624654866,
     "",
     ""
   ],
@@ -38076,13 +38076,13 @@
   [
     "96ebb6a2c3784c949845ff5a5e9ec007",
     "ed8a79694c054f70a6350cb2c8c45316",
-    "dlc_test_iap_pack_2Audience",
+    "dlc_test_iap_pack_2",
     [
       "applications"
     ],
     "Gameloft SE",
     1616609784,
-    1619567109,
+    1624654901,
     "",
     ""
   ],
@@ -51266,13 +51266,13 @@
   [
     "c9ae7cd146e04453be449f7c63c18d17",
     "ed8a79694c054f70a6350cb2c8c45316",
-    "dlc_test_iap_pack_3Audience",
+    "dlc_test_iap_pack_3",
     [
       "applications"
     ],
     "Gameloft SE",
     1616610030,
-    1619567068,
+    1624654856,
     "",
     ""
   ],
