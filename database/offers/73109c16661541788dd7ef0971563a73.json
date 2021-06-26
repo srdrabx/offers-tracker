@@ -63,5 +63,7 @@
       "id": "97111475af31449b83aaeb2aa0692804"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "tulip"
+  }
 }
