@@ -1,0 +1,109 @@
+{
+  "id": "c4ac28c0858348249a5a627e364e3ec5",
+  "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+  "title": "Isabelle Fireteam DLC Pack",
+  "description": "Play as the elite sniper Isabelle, a fan-favorite character from the 2010 Predators film. This DLC pack features the look and voice of Alice Braga and includes early access to the NRV-E Sniper Rifle Fireteam weapon.",
+  "longDescription": "Join the hunt as one of the deadliest hunters that the Predator has ever faced, with more confirmed Predator kills than nearly any other human. Play as the elite sniper Isabelle, a fan-favorite character from the 2010 Predators film, featuring the look and voice of Alice Braga.\n",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "predator-hunting-grounds--isabelle-fireteam-dlc-pack",
+  "creationDate": "2021-04-09T17:54:52.736Z",
+  "lastModifiedDate": "2021-06-29T03:10:16.294Z",
+  "effectiveDate": "2021-06-29T14:00:00.000Z",
+  "viewableDate": "2021-06-29T14:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
+    "name": "Sony Interactive Entertainment"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Sony Interactive Entertainment"
+    },
+    {
+      "key": "developerName",
+      "value": "IllFonic"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_IsabelleFireteamDLCPack_IllfonicLLC_AddOn_S2_1200x1600-38dae9dbba6066601deca6d2632fd0eb",
+      "md5": "38dae9dbba6066601deca6d2632fd0eb",
+      "size": 689010,
+      "uploadedDate": "2021-06-23T04:19:33.673Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_IsabelleFireteamDLCPack_IllfonicLLC_AddOn_S2_1200x1600-38dae9dbba6066601deca6d2632fd0eb",
+      "md5": "38dae9dbba6066601deca6d2632fd0eb",
+      "size": 689010,
+      "uploadedDate": "2021-06-23T04:19:36.483Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_IsabelleFireteamDLCPack_IllfonicLLC_AddOn_S1_2560x1440-7d07c248ec9ed10a502550d77b165efb",
+      "md5": "7d07c248ec9ed10a502550d77b165efb",
+      "size": 1021923,
+      "uploadedDate": "2021-06-23T04:19:39.383Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_IsabelleFireteamDLCPack_IllfonicLLC_AddOn_S2_1200x1600-38dae9dbba6066601deca6d2632fd0eb",
+      "md5": "38dae9dbba6066601deca6d2632fd0eb",
+      "size": 689010,
+      "uploadedDate": "2021-06-23T04:19:42.011Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_IsabelleFireteamDLCPack_IllfonicLLC_AddOn_S1_2560x1440-7d07c248ec9ed10a502550d77b165efb",
+      "md5": "7d07c248ec9ed10a502550d77b165efb",
+      "size": 1021923,
+      "uploadedDate": "2021-06-23T04:19:44.554Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_IsabelleFireteamDLCPack_IllfonicLLC_AddOn_S2_1200x1600-38dae9dbba6066601deca6d2632fd0eb",
+      "md5": "38dae9dbba6066601deca6d2632fd0eb",
+      "size": 689010,
+      "uploadedDate": "2021-06-23T04:19:47.169Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "2145dd8df8954dc986e40910de0a5fbf"
+    }
+  ],
+  "catalogNs": {
+    "name": "5a82d5954a1943d79dc6b49cde2fe972"
+  }
+}
