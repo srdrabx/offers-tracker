@@ -8,7 +8,7 @@
   "productSlug": "warface",
   "urlSlug": "bizetgeneralaudience",
   "creationDate": "2021-03-08T23:30:16.319Z",
-  "lastModifiedDate": "2021-06-29T02:51:45.420Z",
+  "lastModifiedDate": "2021-06-29T15:36:21.401Z",
   "effectiveDate": "2021-06-29T09:00:00.000Z",
   "viewableDate": "2021-06-29T09:00:00.000Z",
   "developer": null,
@@ -85,6 +85,10 @@
     }
   ],
   "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
     {
       "key": "publisherName",
       "value": "MY.GAMES"
