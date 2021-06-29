@@ -1,0 +1,165 @@
+{
+  "id": "d4929ecf15d446d0b4ff4f0eaa3826a0",
+  "namespace": "80e804312c2149c69a75aee703e85a9a",
+  "title": "Warface",
+  "description": "Warface",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "warface",
+  "urlSlug": "bizetgeneralaudience",
+  "creationDate": "2021-03-08T23:30:16.319Z",
+  "lastModifiedDate": "2021-06-29T02:51:45.420Z",
+  "effectiveDate": "2021-06-29T09:00:00.000Z",
+  "viewableDate": "2021-06-29T09:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-tg8bdyuaqa58k5lnzh29nw3qx2fjxm",
+    "name": "MY.GAMES"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1185",
+      "name": "FPS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:50.376Z",
+      "updated": "2020-09-05T13:11:46.644Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2021-02-10T17:35:33.537Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1210",
+      "name": "Shooter",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2021-02-10T17:34:46.127Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "MY.GAMES"
+    },
+    {
+      "key": "developerName",
+      "value": "Allods Team"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "warface"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Warface_AllodsTeam_S2_1200x1600-90a094bdcb6824eefe84c60ef0c4a612",
+      "md5": "90a094bdcb6824eefe84c60ef0c4a612",
+      "size": 507675,
+      "uploadedDate": "2021-06-14T01:43:54.289Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Warface_AllodsTeam_S2_1200x1600-90a094bdcb6824eefe84c60ef0c4a612",
+      "md5": "90a094bdcb6824eefe84c60ef0c4a612",
+      "size": 507675,
+      "uploadedDate": "2021-06-14T01:44:00.202Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Warface_AllodsTeam_S1_2560x1440-bf3c5da7b0239523117b1ff2bba16dc9",
+      "md5": "bf3c5da7b0239523117b1ff2bba16dc9",
+      "size": 499836,
+      "uploadedDate": "2021-06-14T01:44:03.828Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Warface_AllodsTeam_S2_1200x1600-90a094bdcb6824eefe84c60ef0c4a612",
+      "md5": "90a094bdcb6824eefe84c60ef0c4a612",
+      "size": 507675,
+      "uploadedDate": "2021-06-14T01:44:07.505Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Warface_AllodsTeam_S1_2560x1440-bf3c5da7b0239523117b1ff2bba16dc9",
+      "md5": "bf3c5da7b0239523117b1ff2bba16dc9",
+      "size": 499836,
+      "uploadedDate": "2021-06-14T01:44:12.306Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Warface_AllodsTeam_S2_1200x1600-90a094bdcb6824eefe84c60ef0c4a612",
+      "md5": "90a094bdcb6824eefe84c60ef0c4a612",
+      "size": 507675,
+      "uploadedDate": "2021-06-14T01:44:16.589Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "f2078115da1f4f9499f9d26f5a97135d"
+    }
+  ],
+  "catalogNs": {
+    "name": "80e804312c2149c69a75aee703e85a9a"
+  }
+}
