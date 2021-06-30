@@ -5348,7 +5348,7 @@
     ],
     "Proletariat, Inc.",
     1612976593,
-    1624404022,
+    1625072169,
     "https://cdn1.epicgames.com/newt/offer/EGS_SpellbreakTricksterChapterPack_ProletariatInc_DLC_S2-1200x1600-d43059b507487f6b32de9fe56de10d50.jpg",
     "spellbreak/trickster"
   ],
@@ -8308,6 +8308,22 @@
     1594306676,
     "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
     ""
+  ],
+  [
+    "2048b7fdff7a47d3831814c0b7f8ec49",
+    "365ade02815042a9a804764344b17670",
+    "NecroLand: Undead Corps",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Nicalis",
+    1616115721,
+    1625072283,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_NecroLandUndeadCorps_JANUSLABS_S2_1200x1600-21d2552dd784371f83fa65def9181c58",
+    "necroland-undead-corps"
   ],
   [
     "2048f6445aaf4917ba11439992b7db79",
@@ -35327,7 +35343,7 @@
     ],
     "Proletariat, Inc.",
     1612976710,
-    1624404065,
+    1625072172,
     "https://cdn1.epicgames.com/newt/offer/EGS_SpellbreakPriestessChapterPack_ProletariatInc_DLC_S2-1200x1600-99d8377b13a166fc82b538ad5f71f736.jpg",
     "spellbreak/priestess"
   ],
