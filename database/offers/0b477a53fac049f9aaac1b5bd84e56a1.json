@@ -1,0 +1,169 @@
+{
+  "id": "0b477a53fac049f9aaac1b5bd84e56a1",
+  "namespace": "e901b6ea77454b0e9d944976a975165c",
+  "title": "Rogue Lords",
+  "description": "Rogue Lords",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "rogue-lords",
+  "urlSlug": "fetageneralaudience",
+  "creationDate": "2021-04-01T18:52:23.900Z",
+  "lastModifiedDate": "2021-06-30T21:17:44.518Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+    "name": "Nacon"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1258",
+      "name": "Rogue-Like",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:26.599Z",
+      "updated": "2021-02-05T16:14:01.575Z",
+      "status": "ACTIVE",
+      "referenceCount": 4,
+      "comment": null
+    },
+    {
+      "id": "1083",
+      "name": "Rogue-Lite",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:58:59.720Z",
+      "updated": "2021-02-05T16:16:40.749Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2021-02-10T17:35:19.827Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Nacon"
+    },
+    {
+      "key": "developerName",
+      "value": "Leikir Studio"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "rogue-lords"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RogueLords_LeikirStudio_S2_1200x1600-b126536afcbcde9099a843c629500ff8",
+      "md5": "b126536afcbcde9099a843c629500ff8",
+      "size": 984408,
+      "uploadedDate": "2021-06-30T21:10:20.729Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RogueLords_LeikirStudio_S2_1200x1600-b126536afcbcde9099a843c629500ff8",
+      "md5": "b126536afcbcde9099a843c629500ff8",
+      "size": 984408,
+      "uploadedDate": "2021-06-30T21:10:23.557Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RogueLords_LeikirStudio_S1_2560x1440-9bc54937156e2bcfc7a0e2847fda7453",
+      "md5": "9bc54937156e2bcfc7a0e2847fda7453",
+      "size": 978920,
+      "uploadedDate": "2021-06-30T21:10:26.965Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RogueLords_LeikirStudio_S2_1200x1600-b126536afcbcde9099a843c629500ff8",
+      "md5": "b126536afcbcde9099a843c629500ff8",
+      "size": 984408,
+      "uploadedDate": "2021-06-30T21:10:30.568Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RogueLords_LeikirStudio_S1_2560x1440-9bc54937156e2bcfc7a0e2847fda7453",
+      "md5": "9bc54937156e2bcfc7a0e2847fda7453",
+      "size": 978920,
+      "uploadedDate": "2021-06-30T21:10:34.497Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RogueLords_LeikirStudio_S2_1200x1600-b126536afcbcde9099a843c629500ff8",
+      "md5": "b126536afcbcde9099a843c629500ff8",
+      "size": 984408,
+      "uploadedDate": "2021-06-30T21:10:36.997Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "7dff96aabbb24c9d94e3aae07c906ee0"
+    }
+  ],
+  "catalogNs": {
+    "name": "e901b6ea77454b0e9d944976a975165c"
+  }
+}
