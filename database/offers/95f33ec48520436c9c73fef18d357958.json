@@ -1,0 +1,157 @@
+{
+  "id": "95f33ec48520436c9c73fef18d357958",
+  "namespace": "1ef3edbf3bf14defac0cdb42301e3d5e",
+  "title": "RiMS Racing",
+  "description": "RiMS Racing",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "rims-racing",
+  "urlSlug": "mascarpone-general-audience",
+  "creationDate": "2021-04-01T19:44:22.299Z",
+  "lastModifiedDate": "2021-06-30T21:38:19.644Z",
+  "effectiveDate": "2099-02-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+    "name": "Nacon"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "Simulation",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2021-02-10T17:33:03.717Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1212",
+      "name": "Racing",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:03.663Z",
+      "updated": "2021-02-05T16:17:00.647Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Nacon"
+    },
+    {
+      "key": "developerName",
+      "value": "Raceward Studio"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "rims-racing"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RiMSRacing_RacewardStudio_S2_1200x1600-249d07ee346663646e18e978c50df616",
+      "md5": "249d07ee346663646e18e978c50df616",
+      "size": 436674,
+      "uploadedDate": "2021-06-30T21:36:07.078Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RiMSRacing_RacewardStudio_S2_1200x1600-249d07ee346663646e18e978c50df616",
+      "md5": "249d07ee346663646e18e978c50df616",
+      "size": 436674,
+      "uploadedDate": "2021-06-30T21:36:09.715Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RiMSRacing_RacewardStudio_S1_2560x1440-37da14c1de760fb517971a4f691ccaa3",
+      "md5": "37da14c1de760fb517971a4f691ccaa3",
+      "size": 528765,
+      "uploadedDate": "2021-06-30T21:36:12.056Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RiMSRacing_RacewardStudio_S2_1200x1600-249d07ee346663646e18e978c50df616",
+      "md5": "249d07ee346663646e18e978c50df616",
+      "size": 436674,
+      "uploadedDate": "2021-06-30T21:36:15.598Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RiMSRacing_RacewardStudio_S1_2560x1440-37da14c1de760fb517971a4f691ccaa3",
+      "md5": "37da14c1de760fb517971a4f691ccaa3",
+      "size": 528765,
+      "uploadedDate": "2021-06-30T21:36:18.596Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RiMSRacing_RacewardStudio_S2_1200x1600-249d07ee346663646e18e978c50df616",
+      "md5": "249d07ee346663646e18e978c50df616",
+      "size": 436674,
+      "uploadedDate": "2021-06-30T21:36:21.128Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "69af1f47899a4c4e94fd483ed2c97fdd"
+    }
+  ],
+  "catalogNs": {
+    "name": "1ef3edbf3bf14defac0cdb42301e3d5e"
+  }
+}

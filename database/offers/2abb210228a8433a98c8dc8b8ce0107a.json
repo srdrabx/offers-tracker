@@ -1,0 +1,157 @@
+{
+  "id": "2abb210228a8433a98c8dc8b8ce0107a",
+  "namespace": "d4d0270b8219470ebfc720c18767aef9",
+  "title": "WRC 10 FIA World Rally Championship",
+  "description": "WRC 10 FIA World Rally Championship",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "wrc-10",
+  "urlSlug": "asiago-general-audience",
+  "creationDate": "2021-04-01T20:59:12.438Z",
+  "lastModifiedDate": "2021-06-30T21:32:58.562Z",
+  "effectiveDate": "2099-02-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+    "name": "Nacon"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "Simulation",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2021-02-10T17:33:03.717Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1212",
+      "name": "Racing",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:03.663Z",
+      "updated": "2021-02-05T16:17:00.647Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Nacon"
+    },
+    {
+      "key": "developerName",
+      "value": "KT Racing"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "wrc-10"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WRC10FIAWorldRallyChampionship_KTRacing_S2_1200x1600-f1f76e27c255d020f2994932289b3a69",
+      "md5": "f1f76e27c255d020f2994932289b3a69",
+      "size": 973046,
+      "uploadedDate": "2021-06-30T21:30:53.379Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WRC10FIAWorldRallyChampionship_KTRacing_S2_1200x1600-f1f76e27c255d020f2994932289b3a69",
+      "md5": "f1f76e27c255d020f2994932289b3a69",
+      "size": 973046,
+      "uploadedDate": "2021-06-30T21:30:56.083Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WRC10FIAWorldRallyChampionship_KTRacing_S1_2560x1440-dc491a3d734c4137a223f2c85f422ba7",
+      "md5": "dc491a3d734c4137a223f2c85f422ba7",
+      "size": 843876,
+      "uploadedDate": "2021-06-30T21:30:58.471Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WRC10FIAWorldRallyChampionship_KTRacing_S2_1200x1600-f1f76e27c255d020f2994932289b3a69",
+      "md5": "f1f76e27c255d020f2994932289b3a69",
+      "size": 973046,
+      "uploadedDate": "2021-06-30T21:31:00.819Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WRC10FIAWorldRallyChampionship_KTRacing_S1_2560x1440-dc491a3d734c4137a223f2c85f422ba7",
+      "md5": "dc491a3d734c4137a223f2c85f422ba7",
+      "size": 843876,
+      "uploadedDate": "2021-06-30T21:31:03.667Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WRC10FIAWorldRallyChampionship_KTRacing_S2_1200x1600-f1f76e27c255d020f2994932289b3a69",
+      "md5": "f1f76e27c255d020f2994932289b3a69",
+      "size": 973046,
+      "uploadedDate": "2021-06-30T21:31:06.430Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "e09cc008e3e14b86b436988e70f70b85"
+    }
+  ],
+  "catalogNs": {
+    "name": "d4d0270b8219470ebfc720c18767aef9"
+  }
+}
