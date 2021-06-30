@@ -2,13 +2,13 @@
   "id": "579fbc4c51a44f098bfaff5dc4a31d92",
   "namespace": "28d06644e2f84b398c1b7fb96a2b6bd5",
   "title": "Valley of the Dormant Gods Season Pass",
-  "description": "Equipped with a deadly new weapon class along with new skills and items added to your arsenal, ascend the savage mountain realm of Yaltogguth.\n\nValley of the Dormant Gods Season Pass will automatically update for owners of the Valiant Edition.",
-  "longDescription": "The island of the gods has been conquered and your clan of warriors have battled their way to victory, breaking the gods' grip on humanity.\n\n# Valley of the Dormant Gods Season Pass includes: \n\n**A new realm**\nA mountainous realm to explore with a new god to defeat -  Yaltogguth, the god of Eyes.\n\n**A new weapon class**\nThe Brawler, equipped with gauntlets.\n\n**Three new items**\nBlood Moss, Bone Quake and War Paint.\n\n**Three new skills**\nAgile Warrior, Momentum of War and Parry Master.\n\n**Warriors' Garb**\nNew clothing items for your clan.\n",
+  "description": "The second of 3 Gods Will Fall DLC episodes is out!\n\nEnter a punishing new realm, equipped with a new weapon class, skills and items, and face Gortainh, the god of Pain. \n\nValley of the Dormant Gods Part 1 & 2 are available for owners of the Valiant Edition.",
+  "longDescription": "# The second of 3 Gods Will Fall DLC episodes is out!\n\nEnter a punishing new realm, equipped with a new weapon class, skills and items, and face Gortainh, the god of Pain. \n\nValley of the Dormant Gods Part 1 & 2 are available for owners of the Valiant Edition.\n\nThe island of the gods has been conquered and your clan of warriors have battled their way to victory, breaking the gods' grip on humanity.\n\n# Valley of the Dormant Gods Season Pass includes: \n\n**A new realm**\nA mountainous realm to explore with a new god to defeat -  Yaltogguth, the god of Eyes.\n\n**A new weapon class**\nThe Brawler, equipped with gauntlets.\n\n**Three new items**\nBlood Moss, Bone Quake and War Paint.\n\n**Three new skills**\nAgile Warrior, Momentum of War and Parry Master.\n\n**Warriors' Garb**\nNew clothing items for your clan.\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "gods-will-fall--valley-of-the-dormant-gods-season-pass",
   "creationDate": "2020-11-11T20:10:52.652Z",
-  "lastModifiedDate": "2021-06-15T19:19:23.489Z",
+  "lastModifiedDate": "2021-06-30T00:05:19.496Z",
   "effectiveDate": "2021-06-10T15:00:00.000Z",
   "viewableDate": "2021-06-10T15:00:00.000Z",
   "developer": null,
@@ -174,6 +174,24 @@
       "md5": "aa064f771d4dcc41751f308ae1886109",
       "size": 297981,
       "uploadedDate": "2021-05-26T15:12:00.995Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GodsWillFallValleyoftheDormantGods_CleverBeansLtd_SeasonPass_G1C_01_1920x1080-234d0b8839bfdbae1401d192ec477d64",
+      "md5": "234d0b8839bfdbae1401d192ec477d64",
+      "size": 260147,
+      "uploadedDate": "2021-06-30T00:04:45.721Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GodsWillFallValleyoftheDormantGods_CleverBeansLtd_SeasonPass_G1A_05_1920x1080-1a8eb7e7e0e4abe1a4decca6bc357dcd",
+      "md5": "1a8eb7e7e0e4abe1a4decca6bc357dcd",
+      "size": 819004,
+      "uploadedDate": "2021-06-30T00:05:03.447Z",
       "width": 1920,
       "height": 1080
     }
