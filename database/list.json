@@ -14564,11 +14564,12 @@
       "freegames",
       "games",
       "games/edition",
+      "games/edition/base",
       "applications"
     ],
     "Ripstone Ltd",
     1616098794,
-    1625149415,
+    1625151803,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/593cf912-972f-47e3-b135-fccf3f29d3df_1200x1600-22aef3da3e959fb2d715af7a0f6014f0",
     "ironcast"
   ],
@@ -22523,14 +22524,13 @@
     "253d451b16364a22907dd01b7e928fb6",
     "Horizon Chase Turbo",
     [
-      "freegames",
       "games",
       "games/edition",
       "games/edition/base"
     ],
     "AQUIRIS",
     1611701771,
-    1624329425,
+    1625151708,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HorizonChaseTurbo_AQUIRIS_S2_1200x1600-7b51e6b8f8cf6ebd50f5fb77be96ad9d",
     "horizon-chase-turbo"
   ],
@@ -35585,7 +35585,6 @@
     "45e7cf3c49054f2fb20b673d9b0ae69e",
     "Sonic Mania",
     [
-      "freegames",
       "games",
       "games/edition",
       "games/edition/base",
@@ -35593,7 +35592,7 @@
     ],
     "Sega of America",
     1582680771,
-    1624457505,
+    1625151868,
     "https://cdn1.epicgames.com/45e7cf3c49054f2fb20b673d9b0ae69e/offer/EGS_SonicMania_Lab42_S6-510x680-b83646998d6a711b6997e076e091c015.jpg",
     "sonic-mania"
   ],
@@ -60774,7 +60773,7 @@
     ],
     "Sunwolf Entertainment",
     1616083389,
-    1617214084,
+    1625151914,
     "https://cdn1.epicgames.com/83c7eb83fadd4a41ad2367dbf17705fc/offer/egs-impofthesun-sunwolfentertainment-s2-1200x1600-931e29796724-1200x1600-7aa30e62b0c9d20f1c7157a576e3bb46.jpeg",
     "imp-of-the-sun"
   ],

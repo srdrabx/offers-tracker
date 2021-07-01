@@ -8,7 +8,7 @@
   "productSlug": "horizon-chase-turbo",
   "urlSlug": "lutetiumgeneralaudience",
   "creationDate": "2021-01-26T22:56:11.745Z",
-  "lastModifiedDate": "2021-06-22T02:37:05.408Z",
+  "lastModifiedDate": "2021-07-01T15:01:48.103Z",
   "effectiveDate": "2021-06-24T15:00:00.000Z",
   "viewableDate": "2021-06-17T14:25:00.000Z",
   "developer": null,
@@ -24,9 +24,6 @@
   "technicalDetails": null,
   "recurrence": "ONCE",
   "categories": [
-    {
-      "path": "freegames"
-    },
     {
       "path": "games"
     },
