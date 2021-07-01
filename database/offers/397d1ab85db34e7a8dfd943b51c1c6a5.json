@@ -1,0 +1,130 @@
+{
+  "id": "397d1ab85db34e7a8dfd943b51c1c6a5",
+  "namespace": "8e56fc9fc0fb4f18af0592c74ad896ba",
+  "title": "Ironcast",
+  "description": "Ironcast",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "ironcast",
+  "urlSlug": "mezzelune-general-audience",
+  "creationDate": "2021-03-18T20:19:54.231Z",
+  "lastModifiedDate": "2021-07-01T14:23:35.366Z",
+  "effectiveDate": "2021-07-08T15:00:00.000Z",
+  "viewableDate": "2021-07-01T14:25:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-fbx9l7z95axq9s73trhbttadbareuq",
+    "name": "Ripstone Ltd"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "freegames"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ripstone Ltd"
+    },
+    {
+      "key": "developerName",
+      "value": "Dreadbit Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "ironcast"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/593cf912-972f-47e3-b135-fccf3f29d3df_1200x1600-22aef3da3e959fb2d715af7a0f6014f0",
+      "md5": "22aef3da3e959fb2d715af7a0f6014f0",
+      "size": 796684,
+      "uploadedDate": "2021-06-24T07:17:55.388Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/593cf912-972f-47e3-b135-fccf3f29d3df_1200x1600-22aef3da3e959fb2d715af7a0f6014f0",
+      "md5": "22aef3da3e959fb2d715af7a0f6014f0",
+      "size": 796684,
+      "uploadedDate": "2021-06-24T07:18:05.947Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/593cf912-972f-47e3-b135-fccf3f29d3df_1200x1600-22aef3da3e959fb2d715af7a0f6014f0",
+      "md5": "22aef3da3e959fb2d715af7a0f6014f0",
+      "size": 796684,
+      "uploadedDate": "2021-06-24T07:18:10.838Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/593cf912-972f-47e3-b135-fccf3f29d3df_1200x1600-22aef3da3e959fb2d715af7a0f6014f0",
+      "md5": "22aef3da3e959fb2d715af7a0f6014f0",
+      "size": 796684,
+      "uploadedDate": "2021-06-24T07:18:17.583Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/743ba10b-3846-411e-bc6e-d0398a94b9a9_2560x1440-37817b67478acbda7c7f709773cce0db",
+      "md5": "37817b67478acbda7c7f709773cce0db",
+      "size": 701607,
+      "uploadedDate": "2021-06-24T07:18:23.648Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/743ba10b-3846-411e-bc6e-d0398a94b9a9_2560x1440-37817b67478acbda7c7f709773cce0db",
+      "md5": "37817b67478acbda7c7f709773cce0db",
+      "size": 701607,
+      "uploadedDate": "2021-06-24T07:18:30.642Z",
+      "width": 2560,
+      "height": 1440
+    }
+  ],
+  "items": [
+    {
+      "id": "afc78184227c44edbfa078dea941e54a"
+    }
+  ],
+  "catalogNs": {
+    "name": null
+  }
+}
