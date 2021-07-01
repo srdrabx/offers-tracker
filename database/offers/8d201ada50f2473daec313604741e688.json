@@ -1,0 +1,42 @@
+{
+  "id": "8d201ada50f2473daec313604741e688",
+  "namespace": "bde5c96f4d5d4a199275f367f2fe4bae",
+  "title": "DLC1",
+  "description": "DLC1",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "dlc1",
+  "creationDate": "2021-06-23T15:14:19.421Z",
+  "lastModifiedDate": "2021-07-01T18:34:51.428Z",
+  "effectiveDate": "2099-02-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-9uf2bsrkptwqbkpy867grcbj5jxrta",
+    "name": "SOEDESCO"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "4f371e2ce3d44f0ba82176ec9918b8f8"
+    }
+  ],
+  "catalogNs": {
+    "name": null
+  }
+}
