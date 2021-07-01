@@ -5,10 +5,10 @@
   "description": "Spotify Music",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "spotify/home",
+  "productSlug": "spotify",
   "urlSlug": "spotify",
   "creationDate": "2020-11-19T20:59:43.173Z",
-  "lastModifiedDate": "2021-05-18T16:11:39.706Z",
+  "lastModifiedDate": "2021-07-01T22:38:07.074Z",
   "effectiveDate": "2020-12-17T15:00:00.000Z",
   "viewableDate": "2020-12-17T14:55:00.000Z",
   "developer": null,
@@ -39,6 +39,23 @@
   ],
   "tags": [
     {
+      "id": "15909",
+      "name": "App",
+      "namespace": null,
+      "aliases": [
+        "application",
+        "software",
+        "apps",
+        "applications"
+      ],
+      "operator": null,
+      "created": "2021-04-15T01:05:31.194Z",
+      "updated": "2021-04-20T15:21:51.051Z",
+      "status": "ACTIVE",
+      "referenceCount": 0,
+      "comment": ""
+    },
+    {
       "id": "1110",
       "name": "Party",
       "namespace": "epic",
@@ -66,7 +83,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "AF,AX,AS,AO,AI,AQ,AG,AM,AW,AZ,BS,BD,BB,BZ,BJ,BM,BT,BQ,BW,BV,IO,VG,BN,BF,BI,KH,CM,CV,KY,CF,TD,CN,CX,CC,KM,CG,CK,CI,CU,CW,DJ,DM,GQ,ER,ET,FK,FO,FJ,GF,PF,TF,GA,GM,GE,GH,GI,GL,GD,GP,GU,GG,GN,GW,GY,HT,HM,IR,IQ,IM,IL,JM,JE,KE,KI,KG,LA,LS,LR,LY,MO,MG,MW,MV,ML,MH,MQ,MR,MU,YT,FM,MN,MS,MZ,MM,NA,NR,NP,AN,NC,NE,NG,NU,NF,KP,MP,PK,PW,PG,PN,PR,RE,RW,BL,SH,KN,LC,MF,PM,VC,WS,SM,ST,SN,SC,SL,SX,SB,SO,GS,SS,LK,SD,SR,SJ,SZ,SY,TJ,TZ,CD,TL,TG,TK,TO,TT,TM,TC,TV,VI,UG,UM,UZ,VU,VA,VE,WF,EH,YE,ZM,ZW"
+      "value": "AF,AXAS,AI,AQ,AW,BM,BQ,BV,IO,VG,KY,CF,CN,CX,CC,CG,CK,CU,ER,ET,FK,FO,GF,PF,TF,GI,GL,GP,GU,GG,HM,IR,IQ,IM,JE,LY,MQ,YT,MS,MM,AN,NC,NU,NF,KP,MP,PN,PR,RE,BL,SH,MF,OM,SX,SO,GS,SS,SD,SJ,SY,TJ,CD,TK,TM,TC,VI,UM,VA,VE,WF,EH,YE"
     },
     {
       "key": "publisherName",
@@ -74,7 +91,7 @@
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "spotify/home"
+      "value": "spotify"
     }
   ],
   "keyImages": [
