@@ -8,7 +8,7 @@
   "productSlug": "old-world",
   "urlSlug": "nightjargeneralaudience-01",
   "creationDate": "2020-03-04T02:18:13.708Z",
-  "lastModifiedDate": "2021-07-01T13:59:16.036Z",
+  "lastModifiedDate": "2021-07-01T20:35:02.748Z",
   "effectiveDate": "2020-05-05T15:00:00.000Z",
   "viewableDate": "2020-05-05T15:00:00.000Z",
   "developer": null,
@@ -36,6 +36,30 @@
   ],
   "tags": [
     {
+      "id": "1264",
+      "name": "Co-op",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.700Z",
+      "updated": "2021-02-10T17:34:35.309Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2021-02-10T17:35:33.537Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
       "id": "1370",
       "name": "Single Player",
       "namespace": "epic",
@@ -45,6 +69,18 @@
       "updated": "2021-02-10T17:36:35.389Z",
       "status": "ACTIVE",
       "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1386",
+      "name": "Turn-Based",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:30.372Z",
+      "updated": "2021-02-05T16:19:58.338Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
       "comment": null
     },
     {
