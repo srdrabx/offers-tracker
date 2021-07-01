@@ -20865,13 +20865,12 @@
     [
       "games",
       "games/edition/base",
-      "games/edition",
-      "applications"
+      "games/edition"
     ],
     "Mohawk Games",
     1583288293,
-    1623082036,
-    "https://cdn1.epicgames.com/07f4a7dd3c884e5d87e9a209716962ca/offer/EGS_OldWorld_MohawkGames_S2-860x1148-0e077ae9572c911683633fa9b19bd5c5.jpg",
+    1625147956,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_OldWorld_MohawkGames_S2_1200x1600-cf57197806c4b3dca34059594ef40d91",
     "old-world"
   ],
   [
@@ -35745,6 +35744,7 @@
     "39697c68e46b48d2b75e17bdc417d859",
     "Bridge Constructor The Walking Dead",
     [
+      "freegames",
       "games",
       "games/edition",
       "games/edition/base",
@@ -35752,7 +35752,7 @@
     ],
     "Headup Gmbh",
     1601486668,
-    1614358482,
+    1625148908,
     "https://cdn1.epicgames.com/39697c68e46b48d2b75e17bdc417d859/offer/EGS_BridgeConstructorTheWalkingDead_ClockStoneSoftware_S2-1200x1600-a6fe394eb2f1d31fe4646b1539487ac3.jpg",
     "bridge-constructor-the-walking-dead/home"
   ],

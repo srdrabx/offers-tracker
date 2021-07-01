@@ -8,7 +8,7 @@
   "productSlug": "old-world",
   "urlSlug": "nightjargeneralaudience-01",
   "creationDate": "2020-03-04T02:18:13.708Z",
-  "lastModifiedDate": "2021-06-07T16:07:16.471Z",
+  "lastModifiedDate": "2021-07-01T13:59:16.036Z",
   "effectiveDate": "2020-05-05T15:00:00.000Z",
   "viewableDate": "2020-05-05T15:00:00.000Z",
   "developer": null,
@@ -32,9 +32,6 @@
     },
     {
       "path": "games/edition"
-    },
-    {
-      "path": "applications"
     }
   ],
   "tags": [
@@ -48,18 +45,6 @@
       "updated": "2021-02-10T17:36:35.389Z",
       "status": "ACTIVE",
       "referenceCount": 195,
-      "comment": null
-    },
-    {
-      "id": "1386",
-      "name": "Turn-Based",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:30.372Z",
-      "updated": "2021-02-05T16:19:58.338Z",
-      "status": "ACTIVE",
-      "referenceCount": 14,
       "comment": null
     },
     {
@@ -126,58 +111,58 @@
   ],
   "keyImages": [
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/07f4a7dd3c884e5d87e9a209716962ca/offer/EGS_OldWorld_MohawkGames_S2-860x1148-0e077ae9572c911683633fa9b19bd5c5.jpg",
-      "md5": "2e01cd5f701f45c64b73212e1b6f3a06",
-      "size": 696045,
-      "uploadedDate": "2020-05-05T02:20:26.347Z",
-      "width": 860,
-      "height": 1148
-    },
-    {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/07f4a7dd3c884e5d87e9a209716962ca/offer/EGS_OldWorld_MohawkGames_S2-860x1148-0e077ae9572c911683633fa9b19bd5c5.jpg",
-      "md5": "2e01cd5f701f45c64b73212e1b6f3a06",
-      "size": 696045,
-      "uploadedDate": "2020-05-05T02:20:32.938Z",
-      "width": 860,
-      "height": 1148
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/07f4a7dd3c884e5d87e9a209716962ca/offer/EGS_OldWorld_MohawkGames_S2-860x1148-0e077ae9572c911683633fa9b19bd5c5.jpg",
-      "md5": "2e01cd5f701f45c64b73212e1b6f3a06",
-      "size": 696045,
-      "uploadedDate": "2020-05-05T02:20:42.957Z",
-      "width": 860,
-      "height": 1148
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_OldWorld_MohawkGames_S2_1200x1600-cf57197806c4b3dca34059594ef40d91",
+      "md5": "cf57197806c4b3dca34059594ef40d91",
+      "size": 217087,
+      "uploadedDate": "2021-06-30T20:15:02.527Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/07f4a7dd3c884e5d87e9a209716962ca/offer/EGS_OldWorld_MohawkGames_S2-860x1148-0e077ae9572c911683633fa9b19bd5c5.jpg",
-      "md5": "2e01cd5f701f45c64b73212e1b6f3a06",
-      "size": 696045,
-      "uploadedDate": "2020-05-05T02:20:52.310Z",
-      "width": 860,
-      "height": 1148
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/07f4a7dd3c884e5d87e9a209716962ca/offer/EGS_OldWorld_MohawkGames_S1-2560x1440-9f8de361a5835c8c32754f1e2d7c0084.jpg",
-      "md5": "c713458aa5d0aab68c2d757d225d08ff",
-      "size": 2070193,
-      "uploadedDate": "2020-05-05T02:21:04.395Z",
-      "width": 2560,
-      "height": 1440
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_OldWorld_MohawkGames_S2_1200x1600-cf57197806c4b3dca34059594ef40d91",
+      "md5": "cf57197806c4b3dca34059594ef40d91",
+      "size": 217087,
+      "uploadedDate": "2021-06-30T20:15:04.946Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/07f4a7dd3c884e5d87e9a209716962ca/offer/EGS_OldWorld_MohawkGames_S1-2560x1440-9f8de361a5835c8c32754f1e2d7c0084.jpg",
-      "md5": "c713458aa5d0aab68c2d757d225d08ff",
-      "size": 2070193,
-      "uploadedDate": "2020-05-05T02:21:13.174Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_OldWorld_MohawkGames_S1_2560x1440-ad3f83d78ffdcc569b89dfd3e9b14297",
+      "md5": "ad3f83d78ffdcc569b89dfd3e9b14297",
+      "size": 355573,
+      "uploadedDate": "2021-06-30T20:15:07.089Z",
       "width": 2560,
       "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_OldWorld_MohawkGames_S2_1200x1600-cf57197806c4b3dca34059594ef40d91",
+      "md5": "cf57197806c4b3dca34059594ef40d91",
+      "size": 217087,
+      "uploadedDate": "2021-06-30T20:15:09.462Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_OldWorld_MohawkGames_S1_2560x1440-ad3f83d78ffdcc569b89dfd3e9b14297",
+      "md5": "ad3f83d78ffdcc569b89dfd3e9b14297",
+      "size": 355573,
+      "uploadedDate": "2021-06-30T20:15:12.691Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_OldWorld_MohawkGames_S2_1200x1600-cf57197806c4b3dca34059594ef40d91",
+      "md5": "cf57197806c4b3dca34059594ef40d91",
+      "size": 217087,
+      "uploadedDate": "2021-06-30T20:15:14.981Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [
