@@ -8,7 +8,7 @@
   "productSlug": "heroes-and-generals-wwii/home",
   "urlSlug": "heroes-and-general-wwii",
   "creationDate": "2020-03-31T23:32:26.684Z",
-  "lastModifiedDate": "2021-04-30T19:28:07.593Z",
+  "lastModifiedDate": "2021-07-02T15:20:05.581Z",
   "effectiveDate": "2020-09-24T14:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -187,56 +187,56 @@
   ],
   "keyImages": [
     {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/3bc10602-4c1f-4e87-92a7-a051a530afc4_1200x1600-b4b75b9b71fb043b1bb89d3232a67085",
+      "md5": "b4b75b9b71fb043b1bb89d3232a67085",
+      "size": 856080,
+      "uploadedDate": "2021-06-29T18:43:09.881Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/3bc10602-4c1f-4e87-92a7-a051a530afc4_1200x1600-b4b75b9b71fb043b1bb89d3232a67085",
+      "md5": "b4b75b9b71fb043b1bb89d3232a67085",
+      "size": 856080,
+      "uploadedDate": "2021-06-29T18:43:29.055Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/hng_default_boxart_1200x1600-f47e0091839c038ee0a5473116268220",
-      "md5": "f47e0091839c038ee0a5473116268220",
-      "size": 987357,
-      "uploadedDate": "2021-04-30T19:25:36.619Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/3bc10602-4c1f-4e87-92a7-a051a530afc4_1200x1600-b4b75b9b71fb043b1bb89d3232a67085",
+      "md5": "b4b75b9b71fb043b1bb89d3232a67085",
+      "size": 856080,
+      "uploadedDate": "2021-06-29T18:43:44.992Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HeroesGeneralsWWII_RETOMOTO_S1_2560x1440-95230c1f46464b4752fdde442a686b00",
-      "md5": "95230c1f46464b4752fdde442a686b00",
-      "size": 1022052,
-      "uploadedDate": "2021-04-30T19:25:47.203Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/f91ca9d1-be93-46c9-9825-85519550410b_2560x1440-d68a335150b6be526c3da770ebf65bfb",
+      "md5": "d68a335150b6be526c3da770ebf65bfb",
+      "size": 999589,
+      "uploadedDate": "2021-06-29T18:43:55.124Z",
       "width": 2560,
       "height": 1440
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/hng_default_boxart_1200x1600-f47e0091839c038ee0a5473116268220",
-      "md5": "f47e0091839c038ee0a5473116268220",
-      "size": 987357,
-      "uploadedDate": "2021-04-30T19:25:59.602Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/hng_default_boxart_1200x1600-f47e0091839c038ee0a5473116268220",
-      "md5": "f47e0091839c038ee0a5473116268220",
-      "size": 987357,
-      "uploadedDate": "2021-04-30T19:26:10.412Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/hng_default_boxart_1200x1600-f47e0091839c038ee0a5473116268220",
-      "md5": "f47e0091839c038ee0a5473116268220",
-      "size": 987357,
-      "uploadedDate": "2021-04-30T19:26:20.797Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/3bc10602-4c1f-4e87-92a7-a051a530afc4_1200x1600-b4b75b9b71fb043b1bb89d3232a67085",
+      "md5": "b4b75b9b71fb043b1bb89d3232a67085",
+      "size": 856080,
+      "uploadedDate": "2021-06-29T18:44:06.826Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HeroesGeneralsWWII_RETOMOTO_S1_2560x1440-95230c1f46464b4752fdde442a686b00",
-      "md5": "95230c1f46464b4752fdde442a686b00",
-      "size": 1022052,
-      "uploadedDate": "2021-04-30T19:26:30.421Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/f91ca9d1-be93-46c9-9825-85519550410b_2560x1440-d68a335150b6be526c3da770ebf65bfb",
+      "md5": "d68a335150b6be526c3da770ebf65bfb",
+      "size": 999589,
+      "uploadedDate": "2021-06-29T18:44:19.016Z",
       "width": 2560,
       "height": 1440
     }
