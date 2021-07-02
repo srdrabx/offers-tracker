@@ -1110,6 +1110,20 @@
     ""
   ],
   [
+    "0525a58209734421835d148951464a95",
+    "bddbb30a6c36455a9ca82c3a0f91af06",
+    "Dark Deception Complete",
+    [
+      "games",
+      "games/edition"
+    ],
+    "Glowstick Entertainment, Inc.",
+    1620779225,
+    1625245118,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DarkDeceptionComplete_GlowstickEntertainment_Bundles_S2_1200x1600-c3afefe5bb032c7cf5e5842ff6379f9a",
+    "dark-deception--complete-edition"
+  ],
+  [
     "052783283a6448ec8f8f234047654a44",
     "dfd2530e80e4425d801913b0879be444",
     "Occult Ritual Weapon Skins",
@@ -6684,6 +6698,20 @@
     1606237160,
     "https://cdn1.epicgames.com/95d0b9561be1464cb43bd029e94cf526/offer/GR_Portrait_Offer_1200x1600-1200x1600-a7811e23904db375486535513d10412f.jpg",
     "ghostrunner"
+  ],
+  [
+    "19bbbd618ebb42089a5abacb3cc58b15",
+    "bddbb30a6c36455a9ca82c3a0f91af06",
+    "Dark Deception - Chapter 3",
+    [
+      "addons",
+      "addons/durable"
+    ],
+    "Glowstick Entertainment, Inc.",
+    1620777937,
+    1625244663,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DarkDeceptionChapter3_GlowstickEntertainment_DLC_S2_1200x1600-c9413768155bd6bf060c91c6bfafda8a",
+    ""
   ],
   [
     "19c0e2ad1b0b45819bf20819aeb6d669",
@@ -23058,6 +23086,20 @@
     1575420769,
     1617897928,
     "",
+    ""
+  ],
+  [
+    "5ae7699074034c2f946900e219355575",
+    "bddbb30a6c36455a9ca82c3a0f91af06",
+    "Dark Deception - Chapter 2",
+    [
+      "addons",
+      "addons/durable"
+    ],
+    "Glowstick Entertainment, Inc.",
+    1620773348,
+    1625244645,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DarkDeceptionChapter2_GlowstickEntertainment_DLC_S2_1200x1600-af76ac022b168c027f737dd0af8c264b",
     ""
   ],
   [
@@ -65123,6 +65165,21 @@
     1617897928,
     "https://cdn1.epicgames.com/azalea/offer/UI_Art_Currencies_offer_13500-672x1104-71872551debadb532c21b43993115730.jpg",
     ""
+  ],
+  [
+    "feb54dfc423448a98cd15c5ef44c9b69",
+    "bddbb30a6c36455a9ca82c3a0f91af06",
+    "Dark Deception",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base"
+    ],
+    "Glowstick Entertainment, Inc.",
+    1617816884,
+    1625244890,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DarkDeceptionChapter1_GlowstickEntertainment_S2_1200x1600-d78ac15e7a36e14c579c8c1e5d67699a",
+    "dark-deception"
   ],
   [
     "fed082ca65fd45448e45a2e0f3bb22c3",

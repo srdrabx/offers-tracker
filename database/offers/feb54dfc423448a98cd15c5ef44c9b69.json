@@ -1,0 +1,169 @@
+{
+  "id": "feb54dfc423448a98cd15c5ef44c9b69",
+  "namespace": "bddbb30a6c36455a9ca82c3a0f91af06",
+  "title": "Dark Deception",
+  "description": "Dark Deception",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "dark-deception",
+  "urlSlug": "darkdeception-6e78d354-general-audience",
+  "creationDate": "2021-04-07T17:34:44.519Z",
+  "lastModifiedDate": "2021-07-02T16:54:50.012Z",
+  "effectiveDate": "2099-02-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-mmjqjlu9vs9qltdpm54xlmpqc5b3b4",
+    "name": "Glowstick Entertainment, Inc."
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1218",
+      "name": "Horror",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:06.599Z",
+      "updated": "2021-02-10T17:14:06.043Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1159",
+      "name": "Arcade",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:37.620Z",
+      "updated": "2021-02-05T16:12:11.582Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2021-02-10T17:35:19.827Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Glowstick Entertainment, Inc."
+    },
+    {
+      "key": "developerName",
+      "value": "Glowstick Entertainment, Inc."
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "dark-deception"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DarkDeceptionChapter1_GlowstickEntertainment_S2_1200x1600-d78ac15e7a36e14c579c8c1e5d67699a",
+      "md5": "d78ac15e7a36e14c579c8c1e5d67699a",
+      "size": 145531,
+      "uploadedDate": "2021-07-02T16:54:32.605Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DarkDeceptionChapter1_GlowstickEntertainment_S2_1200x1600-d78ac15e7a36e14c579c8c1e5d67699a",
+      "md5": "d78ac15e7a36e14c579c8c1e5d67699a",
+      "size": 145531,
+      "uploadedDate": "2021-07-02T16:54:35.809Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DarkDeceptionChapter1_GlowstickEntertainment_S1_2560x1440-fc95a66604448613a4040e6cdd7ff2ea",
+      "md5": "fc95a66604448613a4040e6cdd7ff2ea",
+      "size": 246447,
+      "uploadedDate": "2021-07-02T16:54:38.550Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DarkDeceptionChapter1_GlowstickEntertainment_S2_1200x1600-d78ac15e7a36e14c579c8c1e5d67699a",
+      "md5": "d78ac15e7a36e14c579c8c1e5d67699a",
+      "size": 145531,
+      "uploadedDate": "2021-07-02T16:54:41.492Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DarkDeceptionChapter1_GlowstickEntertainment_S1_2560x1440-fc95a66604448613a4040e6cdd7ff2ea",
+      "md5": "fc95a66604448613a4040e6cdd7ff2ea",
+      "size": 246447,
+      "uploadedDate": "2021-07-02T16:54:44.501Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DarkDeceptionChapter1_GlowstickEntertainment_S2_1200x1600-d78ac15e7a36e14c579c8c1e5d67699a",
+      "md5": "d78ac15e7a36e14c579c8c1e5d67699a",
+      "size": 145531,
+      "uploadedDate": "2021-07-02T16:54:47.048Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "bd43e70b792f47aab8a3b9573391ce73"
+    }
+  ],
+  "catalogNs": {
+    "name": "bddbb30a6c36455a9ca82c3a0f91af06"
+  }
+}
