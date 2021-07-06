@@ -8,7 +8,7 @@
   "productSlug": "the-crew-2/home",
   "urlSlug": "hermitgeneralaudience",
   "creationDate": "2019-10-01T23:40:40.957Z",
-  "lastModifiedDate": "2020-05-14T19:36:13.299Z",
+  "lastModifiedDate": "2021-07-06T15:59:28.719Z",
   "effectiveDate": "2019-12-04T11:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -123,6 +123,18 @@
       "comment": null
     },
     {
+      "id": "1279",
+      "name": "Vampire",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:37.207Z",
+      "updated": "2021-02-05T16:12:54.271Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": null
+    },
+    {
       "id": "15375",
       "name": "Spring Sale",
       "namespace": null,
@@ -156,66 +168,57 @@
   "keyImages": [
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/S2-TC2-1280x1440-93c82474c04d9f96218202d425973483.jpg",
-      "md5": "93c82474c04d9f96218202d425973483",
-      "size": 388879,
-      "uploadedDate": "2019-12-04T16:02:55.295Z",
-      "width": 1280,
-      "height": 1440
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/UK_TC2_STD_EPIC_Store_Portrait_1200x1600_UK_1200x1600-53de0001cbf86324b0c7d2be18666011",
+      "md5": "53de0001cbf86324b0c7d2be18666011",
+      "size": 904121,
+      "uploadedDate": "2021-07-01T22:04:46.176Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/CREW2_UCS12476_EGST_BannerBundle_STD_US_Edition_Capsule_1920X1080-1920x1080-3ddf7e01cdabcb15cb44393a486c22b3.jpg",
-      "md5": "3ddf7e01cdabcb15cb44393a486c22b3",
-      "size": 219213,
-      "uploadedDate": "2019-12-04T16:03:03.570Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/S2-TC2-1280x1440-93c82474c04d9f96218202d425973483.jpg",
-      "md5": "93c82474c04d9f96218202d425973483",
-      "size": 388879,
-      "uploadedDate": "2019-12-04T16:02:55.295Z",
-      "width": 1280,
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/UK_TC2_STD_EPIC_Store_Landscape_2560x1440_UK_2560x1440-6e2b5c0cbe6d1e0fefab2da7530c5abe",
+      "md5": "6e2b5c0cbe6d1e0fefab2da7530c5abe",
+      "size": 453374,
+      "uploadedDate": "2021-07-01T22:05:13.407Z",
+      "width": 2560,
       "height": 1440
     },
     {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/UK_TC2_STD_EPIC_Store_Landscape_2560x1440_UK_2560x1440-6e2b5c0cbe6d1e0fefab2da7530c5abe",
+      "md5": "6e2b5c0cbe6d1e0fefab2da7530c5abe",
+      "size": 453374,
+      "uploadedDate": "2021-07-01T22:05:16.876Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/UK_TC2_STD_EPIC_Store_Portrait_1200x1600_UK_1200x1600-53de0001cbf86324b0c7d2be18666011",
+      "md5": "53de0001cbf86324b0c7d2be18666011",
+      "size": 904121,
+      "uploadedDate": "2021-07-01T22:04:56.480Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/599d248ca46b45a8b40a3b4e484712cb/offer/CodeRedemption_TC2_TC2_Standard-330x440-d7078059b16d9bbad316f5b37d6ca68a.jpg",
-      "md5": "d7078059b16d9bbad316f5b37d6ca68a",
-      "size": 26524,
-      "uploadedDate": "2019-12-04T16:22:29.496Z",
-      "width": 330,
-      "height": 440
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/UK_TC2_STD_EPIC_Store_Portrait_1200x1600_UK_1200x1600-53de0001cbf86324b0c7d2be18666011",
+      "md5": "53de0001cbf86324b0c7d2be18666011",
+      "size": 904121,
+      "uploadedDate": "2021-07-01T22:05:01.028Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/599d248ca46b45a8b40a3b4e484712cb/offer/CodeRedemption_TC2_TC2_Standard-330x440-d7078059b16d9bbad316f5b37d6ca68a.jpg",
-      "md5": "d7078059b16d9bbad316f5b37d6ca68a",
-      "size": 26524,
-      "uploadedDate": "2019-12-04T16:22:40.180Z",
-      "width": 330,
-      "height": 440
-    },
-    {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/599d248ca46b45a8b40a3b4e484712cb/offer/TheCrew2_ESRB_T-398x190-3c370131d3c68081cc5845c99c8c90c3.jpg",
-      "md5": "3c370131d3c68081cc5845c99c8c90c3",
-      "size": 12961,
-      "uploadedDate": "2019-12-05T13:50:01.521Z",
-      "width": 398,
-      "height": 190
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/599d248ca46b45a8b40a3b4e484712cb/offer/CREW2_UCS12476_EGST_BannerBundle_STD_US_Edition_Capsule_1920X1080-1920x1080-9361d33084144af7dee2d7d1e624b778b3ac9a57.jpg",
-      "md5": "3ddf7e01cdabcb15cb44393a486c22b3",
-      "size": 219213,
-      "uploadedDate": "2020-02-12T09:41:44.790Z",
-      "width": 1920,
-      "height": 1080
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/UK_TC2_STD_EPIC_Store_Portrait_1200x1600_UK_1200x1600-53de0001cbf86324b0c7d2be18666011",
+      "md5": "53de0001cbf86324b0c7d2be18666011",
+      "size": 904121,
+      "uploadedDate": "2021-07-01T22:05:05.573Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [

@@ -8,9 +8,9 @@
   "productSlug": null,
   "urlSlug": "hermit-trial",
   "creationDate": "2019-11-27T21:43:02.722Z",
-  "lastModifiedDate": "2020-05-12T15:51:48.361Z",
-  "effectiveDate": "2019-12-04T11:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2021-07-06T16:10:41.666Z",
+  "effectiveDate": "2021-07-06T16:00:00.000Z",
+  "viewableDate": "2021-07-06T16:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
@@ -25,10 +25,10 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/trial"
+      "path": "games"
     },
     {
-      "path": "games"
+      "path": "games/demo"
     },
     {
       "path": "applications"
@@ -52,30 +52,39 @@
   "keyImages": [
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/599d248ca46b45a8b40a3b4e484712cb/offer/CodeRedemption_TC2_FreeWeekend-330x440-d1470303d2a08cbc5b51bd001216bfd6.jpg",
-      "md5": "d1470303d2a08cbc5b51bd001216bfd6",
-      "size": 17798,
-      "uploadedDate": "2019-12-04T16:20:35.023Z",
-      "width": 330,
-      "height": 440
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_TC2_Epic_Store_Portrait_1200x1600_1200x1600-c4d8f701e1fe209a3eb9ffc04bff67ee",
+      "md5": "c4d8f701e1fe209a3eb9ffc04bff67ee",
+      "size": 925822,
+      "uploadedDate": "2021-06-24T18:47:40.429Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/599d248ca46b45a8b40a3b4e484712cb/offer/CodeRedemption_TC2_FreeWeekend-330x440-d1470303d2a08cbc5b51bd001216bfd6.jpg",
-      "md5": "d1470303d2a08cbc5b51bd001216bfd6",
-      "size": 17798,
-      "uploadedDate": "2019-12-04T16:20:43.087Z",
-      "width": 330,
-      "height": 440
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_TC2_Epic_Store_Portrait_1200x1600_1200x1600-c4d8f701e1fe209a3eb9ffc04bff67ee",
+      "md5": "c4d8f701e1fe209a3eb9ffc04bff67ee",
+      "size": 925822,
+      "uploadedDate": "2021-06-24T18:47:44.722Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/599d248ca46b45a8b40a3b4e484712cb/offer/TheCrew2_ESRB_T-398x190-3c370131d3c68081cc5845c99c8c90c3.jpg",
-      "md5": "3c370131d3c68081cc5845c99c8c90c3",
-      "size": 12961,
-      "uploadedDate": "2019-12-05T13:51:06.497Z",
-      "width": 398,
-      "height": 190
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_TC2_Epic_FWE_HeroBanner_3840x2160_3840x2160-536e15b1580ca60dc38bad4d97171c04",
+      "md5": "536e15b1580ca60dc38bad4d97171c04",
+      "size": 930053,
+      "uploadedDate": "2021-06-28T18:43:28.602Z",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_TC2_Epic_Store_Portrait_1200x1600_1200x1600-c4d8f701e1fe209a3eb9ffc04bff67ee",
+      "md5": "c4d8f701e1fe209a3eb9ffc04bff67ee",
+      "size": 925822,
+      "uploadedDate": "2021-06-28T18:43:36.129Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [

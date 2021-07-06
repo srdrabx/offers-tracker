@@ -16797,7 +16797,7 @@
     ],
     "Ubisoft Entertainment",
     1574890763,
-    1596840190,
+    1625587841,
     "https://cdn1.epicgames.com/599d248ca46b45a8b40a3b4e484712cb/offer/CodeRedemption_TC2_SeasonPass-330x440-407721b8bbfec0d13a45cdb86d09a5ff-330x440-407721b8bbfec0d13a45cdb86d09a5ff.jpg",
     "the-crew-2/season-pass"
   ],
@@ -27670,8 +27670,8 @@
     ],
     "Ubisoft Entertainment",
     1569973240,
-    1589484973,
-    "https://cdn1.epicgames.com/599d248ca46b45a8b40a3b4e484712cb/offer/CodeRedemption_TC2_TC2_Standard-330x440-d7078059b16d9bbad316f5b37d6ca68a.jpg",
+    1625587168,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/UK_TC2_STD_EPIC_Store_Portrait_1200x1600_UK_1200x1600-53de0001cbf86324b0c7d2be18666011",
     "the-crew-2/home"
   ],
   [
@@ -39702,6 +39702,21 @@
     ""
   ],
   [
+    "9b569116321446afab43f629131c4e15",
+    "599d248ca46b45a8b40a3b4e484712cb",
+    "The Crew 2 Special Edition",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Ubisoft Entertainment",
+    1624644835,
+    1625587168,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/UK_TC2_SPECIAL_EPIC_Store Portrait_1200x1600_UK_1200x1600-5ff5bab8b48c13c0e9a4f3d31ea2bf86",
+    "the-crew-2/special-edition"
+  ],
+  [
     "9b68e26505c045759ab603efc2deab23",
     "1696ef78f67c411ea67d2c2b8e9bc5a6",
     "Cartel Tycoon",
@@ -42062,14 +42077,14 @@
     "599d248ca46b45a8b40a3b4e484712cb",
     "The Crew 2 Trial",
     [
-      "games/trial",
       "games",
+      "games/demo",
       "applications"
     ],
     "Ubisoft Entertainment",
     1574890982,
-    1589298708,
-    "https://cdn1.epicgames.com/599d248ca46b45a8b40a3b4e484712cb/offer/CodeRedemption_TC2_FreeWeekend-330x440-d1470303d2a08cbc5b51bd001216bfd6.jpg",
+    1625587841,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_TC2_Epic_Store_Portrait_1200x1600_1200x1600-c4d8f701e1fe209a3eb9ffc04bff67ee",
     ""
   ],
   [
@@ -53220,6 +53235,21 @@
     "saturnalia/home"
   ],
   [
+    "d0cdd483102d4502b1df0e066f249417",
+    "599d248ca46b45a8b40a3b4e484712cb",
+    "The Crew 2 Gold Edition",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Ubisoft Entertainment",
+    1624645041,
+    1625587168,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/UK_TC2_GOLD_EPIC_Store Portrait_1200x1600_UK_1200x1600-af89932e526606ba6a6ad334feb6a42f",
+    "the-crew-2/gold-edition"
+  ],
+  [
     "d0d3393b3d1b4acbb3004652df23fa0d",
     "c7f9346e3db148fca6dd63e9dd8451bd",
     "Paris - SDLC7",
@@ -62216,7 +62246,7 @@
     ],
     "Ubisoft Entertainment",
     1574890667,
-    1592445158,
+    1625587841,
     "https://cdn1.epicgames.com/599d248ca46b45a8b40a3b4e484712cb/offer/CREW2_UCS12478_EGST_BannerBundle_GE_US_Edition_Capsule_1920X1080-1920x1080-1a6a3d55c2b4ccadabf5c8f8f596cafd.jpg",
     "the-crew-2/gold-edition"
   ],
