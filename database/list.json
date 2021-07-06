@@ -29788,14 +29788,16 @@
   [
     "744d2f8fc8f849b68294c6644a2735c8",
     "244aaaa06bfa49d088205b13b9d2d115",
-    "DLC 37",
+    "Warframe: Sisters of Parvos Riptide Pack",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Digital Extremes",
     1624508893,
-    1624515381,
-    "",
+    1625608840,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WarframeSistersofParvosRiptidePack_DigitalExtremes_DLC_S2_1200x1600-a8a6b6fc99d0eb4a8766997c38e3cde3",
     ""
   ],
   [
@@ -45053,14 +45055,16 @@
   [
     "aea7690f2bbf487aa9bb045add7f8873",
     "244aaaa06bfa49d088205b13b9d2d115",
-    "DLC 38",
+    "Warframe: Sisters of Parvos Waverider Pack",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Digital Extremes",
     1624508921,
-    1624515414,
-    "",
+    1625608840,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WarframeSistersofParvosWaveriderPack_DigitalExtremes_DLC_S2_1200x1600-ecfb7f38cf1277ea417249a4cdfffe77",
     ""
   ],
   [
