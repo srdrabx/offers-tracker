@@ -1374,6 +1374,22 @@
     "spellbreak/starter-pack"
   ],
   [
+    "05ff221779ee40a98b35b19ea758430d",
+    "e59da5b391d24c05ba6d9115b6e05459",
+    "Ys IX: Monstrum Nox (Launch Week)",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "NIS America, Inc.",
+    1623816062,
+    1625589977,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_YsIXMonstrumNox_NihonFalcom_S4_1200x1600-970d37be7c18d5c7bc5a545bff427a18",
+    "ys-ix-monstrum-nox"
+  ],
+  [
     "06013b2f47eb4cb89a94496850581d17",
     "6af58339c2424644988e0fb83dfd9bd5",
     "Soulja Boy Tell 'Em - \"Crank That (Soulja Boy)\"",
@@ -34816,6 +34832,21 @@
     "q-u-b-e-2/puzzle-pack-2"
   ],
   [
+    "89c122ba13c5491ba7cdd50366fad230",
+    "e59da5b391d24c05ba6d9115b6e05459",
+    "Ys IX Digital Ultimate Edition (Launch Week)",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "NIS America, Inc.",
+    1623816570,
+    1625589977,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_YsIXMonstrumNoxDigitalUltimateEdition_NihonFalcom_Editions_S2_1200x1600-738b3c402b2327e0ca22e5d5b9ba0ed9",
+    "ys-ix-monstrum-nox"
+  ],
+  [
     "89fb03b0c37c4bb0bb26383f20b8f880",
     "244aaaa06bfa49d088205b13b9d2d115",
     "DLC 43",
@@ -40912,6 +40943,21 @@
     1594306671,
     "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
     ""
+  ],
+  [
+    "9f1968cb30b74160a4d3af339b3c4e01",
+    "e59da5b391d24c05ba6d9115b6e05459",
+    "Ys IX Digital Deluxe Edition (Launch Week)",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "NIS America, Inc.",
+    1623816374,
+    1625589977,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_YsIXMonstrumNoxDigitalDeluxeEdition_NihonFalcom_Editions_S2_1200x1600-51880045b0324e9c133ba8fca9944180",
+    "ys-ix-monstrum-nox"
   ],
   [
     "9f2abdb36ffe42798f1497031cc4e4a8",
@@ -48985,6 +49031,21 @@
     ""
   ],
   [
+    "bfb57edd542446219f32e01c32461e1a",
+    "e59da5b391d24c05ba6d9115b6e05459",
+    "Ys IX: Monstrum Nox - Attachments Bundle",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "NIS America, Inc.",
+    1623817029,
+    1625589977,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_YsIXMonstrumNoxAttachmentsBundle_NihonFalcom_DLC_S2_1200x1600-0d8c86d9cc263cd642d643befbc47ed3",
+    ""
+  ],
+  [
     "bfba5c4bab344751b8ab159a48555209",
     "abd29ccc8c2a4a40a31f27de63cb0603",
     "Night in the Woods",
@@ -56623,6 +56684,21 @@
     "flower/home"
   ],
   [
+    "de02333040744513baa69579e8ccf6cd",
+    "e59da5b391d24c05ba6d9115b6e05459",
+    "Ys IX: Monstrum Nox - Consumable Bundle",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "NIS America, Inc.",
+    1623816827,
+    1625589977,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_YsIXMonstrumNoxConsumableBundle_NihonFalcom_DLC_S2_1200x1600-0cd438889973abb2060dd9e71a41753b",
+    ""
+  ],
+  [
     "de17ea89136b46b189fa7cc07bada311",
     "sundrop",
     "For Honor: Year 4 Season 4 Battle Pass DLC",
@@ -60284,6 +60360,21 @@
     1553622608,
     1588121198,
     "",
+    ""
+  ],
+  [
+    "eb9dd8ffeeba481bb03fb628670556bc",
+    "e59da5b391d24c05ba6d9115b6e05459",
+    "Ys IX: Monstrum Nox - Monstrum Troupe Bundle",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "NIS America, Inc.",
+    1623816964,
+    1625591159,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_YsIXMonstrumNoxMonstrumTroupeBundle_NihonFalcom_DLC_S2_1200x1600-df239ac16b57c2a73f8714cbbbfaaa0b",
     ""
   ],
   [
