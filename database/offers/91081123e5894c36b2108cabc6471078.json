@@ -1,0 +1,205 @@
+{
+  "id": "91081123e5894c36b2108cabc6471078",
+  "namespace": "0ded1556336546bf849c9d28878ec86c",
+  "title": "Space Punks",
+  "description": "Space Punks",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "space-punks",
+  "urlSlug": "jarlsberg-general-audience",
+  "creationDate": "2021-05-03T17:41:54.887Z",
+  "lastModifiedDate": "2021-07-08T04:54:39.703Z",
+  "effectiveDate": "2099-02-01T00:00:00.000Z",
+  "viewableDate": "2021-07-08T12:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-pabxa6wl5qzfbkdutrz85c2mnrptrr",
+    "name": "Jagex"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1264",
+      "name": "Co-op",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.700Z",
+      "updated": "2021-02-10T17:34:35.309Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2021-02-10T17:35:33.537Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-12-15T01:46:33.012Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1210",
+      "name": "Shooter",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2021-02-10T17:34:46.127Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:52.671Z",
+      "updated": "2020-09-10T15:44:03.705Z",
+      "status": "ACTIVE",
+      "referenceCount": 0,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Jagex"
+    },
+    {
+      "key": "developerName",
+      "value": "Flying Wild Hog"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "space-punks"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SpacePunks_FlyingWildHog_S2_1200x1600-5bbc069923d3cd8e671f54de01451030",
+      "md5": "5bbc069923d3cd8e671f54de01451030",
+      "size": 424824,
+      "uploadedDate": "2021-07-08T04:50:49.495Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SpacePunks_FlyingWildHog_S2_1200x1600-5bbc069923d3cd8e671f54de01451030",
+      "md5": "5bbc069923d3cd8e671f54de01451030",
+      "size": 424824,
+      "uploadedDate": "2021-07-08T04:50:44.509Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SpacePunks_FlyingWildHog_S1_2560x1440-8e1c5adb27a0063289473e1482f11665",
+      "md5": "8e1c5adb27a0063289473e1482f11665",
+      "size": 823198,
+      "uploadedDate": "2021-07-08T04:50:52.170Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SpacePunks_FlyingWildHog_S2_1200x1600-5bbc069923d3cd8e671f54de01451030",
+      "md5": "5bbc069923d3cd8e671f54de01451030",
+      "size": 424824,
+      "uploadedDate": "2021-07-08T04:50:55.373Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SpacePunks_FlyingWildHog_S1_2560x1440-8e1c5adb27a0063289473e1482f11665",
+      "md5": "8e1c5adb27a0063289473e1482f11665",
+      "size": 823198,
+      "uploadedDate": "2021-07-08T04:50:58.107Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SpacePunks_FlyingWildHog_S2_1200x1600-5bbc069923d3cd8e671f54de01451030",
+      "md5": "5bbc069923d3cd8e671f54de01451030",
+      "size": 424824,
+      "uploadedDate": "2021-07-08T04:51:00.611Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "74423413fddd476890ca1b12364f4ea1"
+    }
+  ],
+  "catalogNs": {
+    "name": "0ded1556336546bf849c9d28878ec86c"
+  }
+}
