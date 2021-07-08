@@ -3099,16 +3099,18 @@
   [
     "0d0066ee2bdd40feab491b76f5387a5b",
     "5493b8894a4b4f49984240f298a8ef06",
-    "LanthanumGeneralAudience",
+    "Crystal Crisis",
     [
       "games",
+      "games/edition/base",
+      "games/edition",
       "applications"
     ],
     "Nicalis",
     1611776854,
-    1614986494,
-    "",
-    ""
+    1625732449,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CrystalCrisis_NicalisInc_S2_1200x1600-5151871a0a4f248d070a0b18acf4e8af",
+    "crystal-crisis"
   ],
   [
     "0d09497f706e4f5f8c5be27c690ce780",
@@ -18635,11 +18637,12 @@
     [
       "freegames",
       "games",
-      "games/edition"
+      "games/edition",
+      "games/edition/base"
     ],
     "Cyan, Inc.",
     1620150036,
-    1625753706,
+    1625756482,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Obduction_CyanInc_S2_1200x1600-7a12b5dfb5998545f1b285e1647be99b",
     "obduction"
   ],

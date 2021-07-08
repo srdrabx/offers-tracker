@@ -8,7 +8,7 @@
   "productSlug": "obduction",
   "urlSlug": "obduction-general-audience",
   "creationDate": "2021-05-04T17:40:36.378Z",
-  "lastModifiedDate": "2021-07-08T14:15:06.474Z",
+  "lastModifiedDate": "2021-07-08T15:01:22.911Z",
   "effectiveDate": "2021-07-15T15:00:00.000Z",
   "viewableDate": "2021-07-08T14:25:00.000Z",
   "developer": null,
@@ -32,6 +32,9 @@
     },
     {
       "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -191,6 +194,6 @@
     }
   ],
   "catalogNs": {
-    "name": "4ac85017adaf4d228518d64325c4ec65"
+    "name": null
   }
 }
