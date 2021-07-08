@@ -6,9 +6,9 @@
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": "offworld-trading-company/home",
-  "urlSlug": "snappergeneralaudience",
+  "urlSlug": "offworld-trading-company",
   "creationDate": "2020-01-23T07:07:21.130Z",
-  "lastModifiedDate": "2020-08-05T15:38:18.993Z",
+  "lastModifiedDate": "2021-07-08T08:16:04.212Z",
   "effectiveDate": "2020-03-05T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -24,6 +24,9 @@
   "technicalDetails": null,
   "recurrence": "ONCE",
   "categories": [
+    {
+      "path": "freegames"
+    },
     {
       "path": "games"
     },

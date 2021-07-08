@@ -17712,6 +17712,7 @@
     "e8882546f28e4832af823c646aed232e",
     "Offworld Trading Company",
     [
+      "freegames",
       "games",
       "games/edition/base",
       "games/edition",
@@ -17719,7 +17720,7 @@
     ],
     "Stardock Entertainment, Inc",
     1579763241,
-    1596641898,
+    1625732164,
     "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/otc-portrait-img-1200x1600-1200x1600-fe9ec1695e7785c3285add90a79a755a.jpg",
     "offworld-trading-company/home"
   ],
@@ -30832,7 +30833,7 @@
     ],
     "Nicalis",
     1611776855,
-    1614986494,
+    1625732449,
     "",
     ""
   ],
@@ -54812,6 +54813,22 @@
     1588120702,
     "",
     "south-park-the-stick-of-truth/home"
+  ],
+  [
+    "d78802b5a3fd4b188ff865f0e55a0222",
+    "15cb739316ba44ed87878349d10b3ffc",
+    "Crash Drive 3",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "M2H",
+    1624514195,
+    1624553718,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/eacae17c-6ea9-47bb-964f-4734c76d17e7_1200x1600-8d431f6886ff29e953378da9d48a45b6",
+    "crash-drive-3"
   ],
   [
     "d796c58f704b4014b2294ad680bb913c",
