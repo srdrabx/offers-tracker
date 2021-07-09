@@ -1317,18 +1317,6 @@
     "referenceCount": 2,
     "comment": ""
   },
-  "15760": {
-    "id": "15760",
-    "name": "Sale extension Hitman 3",
-    "namespace": null,
-    "aliases": [],
-    "operator": null,
-    "created": "2021-04-08T08:14:23.256Z",
-    "updated": "2021-04-30T15:13:56.313Z",
-    "status": "ACTIVE",
-    "referenceCount": 2,
-    "comment": ""
-  },
   "15895": {
     "id": "15895",
     "name": "Tropico Anniversary Sale",
