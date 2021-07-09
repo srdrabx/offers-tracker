@@ -1,0 +1,220 @@
+{
+  "id": "1097a7b8a4b04bb38ebe11e960edcf58",
+  "namespace": "f1bbea1c0d694e95a8ba0f649a396352",
+  "title": "Black Skylands",
+  "description": "Build your skyship and explore the open world, fight factions of pirates and monsters, claim your territory by foot or by your flying vessel. You're the captain and the sky is the limit in this skypunk Open World action adventure!",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "black-skylands",
+  "urlSlug": "black-skylands",
+  "creationDate": "2021-02-11T01:11:38.563Z",
+  "lastModifiedDate": "2021-07-08T15:11:00.995Z",
+  "effectiveDate": "2021-07-09T16:00:00.000Z",
+  "viewableDate": "2021-07-09T16:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+    "name": "tinyBuild Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2021-02-10T17:36:19.203Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1336",
+      "name": "Action-Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:05.439Z",
+      "updated": "2020-12-15T02:17:02.957Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    },
+    {
+      "id": "1210",
+      "name": "Shooter",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2021-02-10T17:34:46.127Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2021-02-10T17:35:47.790Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2021-02-10T17:36:06.452Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:52.671Z",
+      "updated": "2020-09-10T15:44:03.705Z",
+      "status": "ACTIVE",
+      "referenceCount": 0,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2021-02-10T17:35:19.827Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "tinyBuild"
+    },
+    {
+      "key": "developerName",
+      "value": "Hungry Couch Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "black-skylands"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BlackSkylands_HungryCouchGames_S2_1200x1600-dfe8fa1840dbf51234fefddeae4508c0",
+      "md5": "dfe8fa1840dbf51234fefddeae4508c0",
+      "size": 1014398,
+      "uploadedDate": "2021-06-22T22:28:06.280Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BlackSkylands_HungryCouchGames_S2_1200x1600-dfe8fa1840dbf51234fefddeae4508c0",
+      "md5": "dfe8fa1840dbf51234fefddeae4508c0",
+      "size": 1014398,
+      "uploadedDate": "2021-06-22T22:28:17.488Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BlackSkylands_HungryCouchGames_S1_2560x1440-e9111b8ad01a14c38d07d43319d9c025",
+      "md5": "e9111b8ad01a14c38d07d43319d9c025",
+      "size": 1003448,
+      "uploadedDate": "2021-06-22T22:28:24.268Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BlackSkylands_HungryCouchGames_S2_1200x1600-dfe8fa1840dbf51234fefddeae4508c0",
+      "md5": "dfe8fa1840dbf51234fefddeae4508c0",
+      "size": 1014398,
+      "uploadedDate": "2021-06-22T22:28:32.501Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BlackSkylands_HungryCouchGames_S1_2560x1440-e9111b8ad01a14c38d07d43319d9c025",
+      "md5": "e9111b8ad01a14c38d07d43319d9c025",
+      "size": 1003448,
+      "uploadedDate": "2021-06-22T22:28:40.692Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BlackSkylands_HungryCouchGames_S2_1200x1600-dfe8fa1840dbf51234fefddeae4508c0",
+      "md5": "dfe8fa1840dbf51234fefddeae4508c0",
+      "size": 1014398,
+      "uploadedDate": "2021-06-22T22:28:47.495Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "e2aee1fac23e49d980e0485b4b66a701"
+    }
+  ],
+  "catalogNs": {
+    "name": "f1bbea1c0d694e95a8ba0f649a396352"
+  }
+}
