@@ -35,8 +35,30 @@
     }
   ],
   "tags": [
-    null,
-    null,
+    {
+      "id": "14944",
+      "name": "The Showcase Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-02-04T17:51:00.530Z",
+      "updated": "2021-02-25T16:37:32.464Z",
+      "status": "ACTIVE",
+      "referenceCount": 366,
+      "comment": ""
+    },
+    {
+      "id": "16004",
+      "name": "Weeklong Deals",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-04-26T11:38:40.572Z",
+      "updated": "2021-05-06T09:17:50.587Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": ""
+    },
     {
       "id": "14346",
       "name": "Holiday Sale 2020",
@@ -112,7 +134,18 @@
       "referenceCount": 24,
       "comment": null
     },
-    null,
+    {
+      "id": "15375",
+      "name": "Spring Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-03-10T09:37:21.403Z",
+      "updated": "2021-04-08T14:59:39.138Z",
+      "status": "ACTIVE",
+      "referenceCount": 618,
+      "comment": ""
+    },
     {
       "id": "1264",
       "name": "Co-op",
@@ -172,10 +205,7 @@
       "status": "ACTIVE",
       "referenceCount": 195,
       "comment": null
-    },
-    null,
-    null,
-    null
+    }
   ],
   "customAttributes": [
     {
@@ -300,6 +330,6 @@
     }
   ],
   "catalogNs": {
-    "name": null
+    "name": "catnip"
   }
 }
