@@ -8,8 +8,8 @@
   "productSlug": "the-chameleon",
   "urlSlug": "the-chameleon",
   "creationDate": "2021-05-03T20:52:12.290Z",
-  "lastModifiedDate": "2021-05-17T20:16:05.146Z",
-  "effectiveDate": "2099-02-01T00:00:00.000Z",
+  "lastModifiedDate": "2021-07-12T17:21:28.050Z",
+  "effectiveDate": "2021-07-13T14:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -111,7 +111,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR"
+      "value": "[]"
     },
     {
       "key": "developerName",
