@@ -8,7 +8,7 @@
   "productSlug": "smite",
   "urlSlug": "smite",
   "creationDate": "2019-10-18T01:53:04.996Z",
-  "lastModifiedDate": "2021-06-15T11:01:08.127Z",
+  "lastModifiedDate": "2021-07-13T11:01:07.456Z",
   "effectiveDate": "2020-04-28T15:00:00.000Z",
   "viewableDate": "2020-04-28T15:00:00.000Z",
   "developer": null,
@@ -132,55 +132,37 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Smite-EGS-MorganLeFay-LandscapeIMG-2560x1440_2560x1440-2b9caefdbb81a3f65074b296a79e5a9e",
-      "md5": "2b9caefdbb81a3f65074b296a79e5a9e",
-      "size": 359747,
-      "uploadedDate": "2021-06-15T06:28:43.156Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/LandscapeIMG-StrangerThings-2560x1440_2560x1440-bf4b8a5ecac30ccaf997c924873e5aeb",
+      "md5": "bf4b8a5ecac30ccaf997c924873e5aeb",
+      "size": 247557,
+      "uploadedDate": "2021-06-24T20:49:57.203Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Smite-EGS-MorganLeFay-PortraitIMG-1200x1600_1200x1600-f27d2096e78ee3a0c434dc4b711ed5ab",
-      "md5": "f27d2096e78ee3a0c434dc4b711ed5ab",
-      "size": 255641,
-      "uploadedDate": "2021-06-15T06:28:45.904Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Smite-EGS-MorganLeFay-LandscapeIMG-2560x1440_2560x1440-2b9caefdbb81a3f65074b296a79e5a9e",
-      "md5": "2b9caefdbb81a3f65074b296a79e5a9e",
-      "size": 359747,
-      "uploadedDate": "2021-06-15T06:28:48.188Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Smite-EGS-MorganLeFay-PortraitIMG-1200x1600_1200x1600-f27d2096e78ee3a0c434dc4b711ed5ab",
-      "md5": "f27d2096e78ee3a0c434dc4b711ed5ab",
-      "size": 255641,
-      "uploadedDate": "2021-06-15T06:28:51.410Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Smite-EGS-MorganLeFay-PortraitIMG-1200x1600_1200x1600-f27d2096e78ee3a0c434dc4b711ed5ab",
-      "md5": "f27d2096e78ee3a0c434dc4b711ed5ab",
-      "size": 255641,
-      "uploadedDate": "2021-06-15T06:28:53.774Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/PortraitIMG-StrangerThings-1200x1600_1200x1600-ef9315366fc5a8acb0020abfb46fdc68",
+      "md5": "ef9315366fc5a8acb0020abfb46fdc68",
+      "size": 264771,
+      "uploadedDate": "2021-06-24T20:50:03.255Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Smite-EGS-MorganLeFay-PortraitIMG-1200x1600_1200x1600-f27d2096e78ee3a0c434dc4b711ed5ab",
-      "md5": "f27d2096e78ee3a0c434dc4b711ed5ab",
-      "size": 255641,
-      "uploadedDate": "2021-06-15T06:28:57.019Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/PortraitIMG-StrangerThings-1200x1600_1200x1600-ef9315366fc5a8acb0020abfb46fdc68",
+      "md5": "ef9315366fc5a8acb0020abfb46fdc68",
+      "size": 264771,
+      "uploadedDate": "2021-06-24T20:50:05.654Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/PortraitIMG-StrangerThings-1200x1600_1200x1600-ef9315366fc5a8acb0020abfb46fdc68",
+      "md5": "ef9315366fc5a8acb0020abfb46fdc68",
+      "size": 264771,
+      "uploadedDate": "2021-06-24T20:50:08.384Z",
       "width": 1200,
       "height": 1600
     }
