@@ -14634,6 +14634,21 @@
     "surviving-mars"
   ],
   [
+    "3951ef6d26e249e6a5df3aea0c90fbf0",
+    "e59da5b391d24c05ba6d9115b6e05459",
+    "Ys IX: Monstrum Nox Digital Deluxe Edition",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "NIS America, Inc.",
+    1623816686,
+    1626202656,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_YsIXMonstrumNoxDigitalDeluxeEdition_NihonFalcom_Editions_S2_1200x1600-51880045b0324e9c133ba8fca9944180",
+    "ys-ix-monstrum-nox--deluxe-edition"
+  ],
+  [
     "395871092de04d2383d839221b47f99d",
     "7ad5508d382e46228056f1d1a0189ae2",
     "Core Breach To Core Harvest Upgrade",
@@ -21753,7 +21768,7 @@
     ],
     "Koch Media",
     1622051688,
-    1624652623,
+    1626203659,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KingsBountyIIDukesEdition_1CEntertainment_Editions_S2_1200x1600-519444d58fc0442a02cea24e52e5e85f",
     "kings-bounty-ii--dukes-edition"
   ],
@@ -51132,6 +51147,21 @@
     ""
   ],
   [
+    "c68122ac0cef42cc8bce65b0d60ea700",
+    "e59da5b391d24c05ba6d9115b6e05459",
+    "Ys IX: Monstrum Nox Digital Ultimate Edition",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "NIS America, Inc.",
+    1623816624,
+    1626202626,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_YsIXMonstrumNoxDigitalUltimateEdition_NihonFalcom_Editions_S2_1200x1600-738b3c402b2327e0ca22e5d5b9ba0ed9",
+    "ys-ix-monstrum-nox  "
+  ],
+  [
     "c685b34f37f144e59a763f85ca716c84",
     "244aaaa06bfa49d088205b13b9d2d115",
     "Octavia Prime Mallet to Resonator Pack",
@@ -54994,6 +55024,22 @@
     1586881189,
     "https://cdn1.epicgames.com/2bfd5ca43ef443739ada168e017e1b78/offer/Cardpocalypse_MME_Portrait-Offer-860x1148-ce91aba4f517d126c882b6058b15e585.jpg",
     "cardpocalypse/mega-mutant-edition"
+  ],
+  [
+    "d79986f917c24134b226738c2d7a6369",
+    "e59da5b391d24c05ba6d9115b6e05459",
+    "Ys IX: Monstrum Nox",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "NIS America, Inc.",
+    1602796709,
+    1626202827,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_YsIXMonstrumNox_NihonFalcom_S4_1200x1600-970d37be7c18d5c7bc5a545bff427a18",
+    "ys-ix-monstrum-nox"
   ],
   [
     "d79e3248103445809800dc37d0d4d086",
