@@ -8,9 +8,9 @@
   "productSlug": "for-honor/free-trial",
   "urlSlug": "sundroptrialaudience",
   "creationDate": "2020-07-20T20:21:41.470Z",
-  "lastModifiedDate": "2020-07-24T02:12:32.742Z",
-  "effectiveDate": "2020-07-23T14:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2021-07-13T15:59:30.327Z",
+  "effectiveDate": "2021-07-13T16:00:00.000Z",
+  "viewableDate": "2021-07-13T16:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
@@ -28,10 +28,7 @@
       "path": "games"
     },
     {
-      "path": "games/edition/base"
-    },
-    {
-      "path": "games/edition"
+      "path": "games/demo"
     },
     {
       "path": "applications"
@@ -40,93 +37,81 @@
   "tags": [
     {
       "id": "1216",
-      "name": "ACTION",
+      "name": "Action",
       "namespace": "epic",
-      "aliases": null,
+      "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2020-07-27T01:01:38.721Z",
+      "updated": "2021-02-10T17:36:19.203Z",
       "status": "ACTIVE",
       "referenceCount": 110,
       "comment": null
     },
     {
       "id": "1344",
-      "name": "FIGHTING",
+      "name": "Fighting",
       "namespace": "epic",
-      "aliases": null,
+      "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:09.322Z",
-      "updated": "2020-07-24T02:12:32.945Z",
+      "updated": "2021-02-05T16:17:17.035Z",
       "status": "ACTIVE",
       "referenceCount": 8,
       "comment": null
     },
     {
       "id": "1203",
-      "name": "MULTIPLAYER",
+      "name": "Multiplayer",
       "namespace": "epic",
-      "aliases": null,
+      "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2020-07-24T13:47:11.931Z",
+      "updated": "2021-02-10T17:35:33.537Z",
       "status": "ACTIVE",
       "referenceCount": 46,
       "comment": null
     },
     {
       "id": "1370",
-      "name": "SINGLEPLAYER",
+      "name": "Single Player",
       "namespace": "epic",
-      "aliases": null,
+      "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-07-27T01:07:12.864Z",
+      "updated": "2021-02-10T17:36:35.389Z",
       "status": "ACTIVE",
       "referenceCount": 195,
       "comment": null
     },
     {
       "id": "9547",
-      "name": "WINDOWS",
+      "name": "Windows",
       "namespace": "epic",
       "aliases": [],
-      "operator": "kimberly.rodatos",
+      "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-07-27T01:07:12.896Z",
+      "updated": "2021-02-05T16:07:21.852Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
     },
     {
       "id": "9549",
-      "name": "CONTROLLER SUPPORT",
+      "name": "Controller Support",
       "namespace": "epic",
       "aliases": [],
-      "operator": "kimberly.rodatos",
+      "operator": null,
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2020-07-24T02:12:32.885Z",
+      "updated": "2021-02-10T17:36:06.452Z",
       "status": "ACTIVE",
       "referenceCount": 103,
-      "comment": null
-    },
-    {
-      "id": "1279",
-      "name": "VAMPIRE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:37.207Z",
-      "updated": "2020-07-24T02:12:33.005Z",
-      "status": "ACTIVE",
-      "referenceCount": 3,
       "comment": null
     }
   ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "CN"
+      "value": "JP"
     },
     {
       "key": "developerName",
@@ -139,38 +124,38 @@
   ],
   "keyImages": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/sundrop/offer/FH_FW_capsule-de-1920x1080_V2-1920x1080-facc3266e8b8a73809dc5d24e0d144b4.jpg",
-      "md5": "facc3266e8b8a73809dc5d24e0d144b4",
-      "size": 493483,
-      "uploadedDate": "2020-07-20T21:51:33.127Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/sundrop/offer/EPIC_1200x1600_UK-1200x1600-7ecb0dfb5ea8a8f61ba7ca7559007074.jpg",
-      "md5": "7ecb0dfb5ea8a8f61ba7ca7559007074",
-      "size": 992590,
-      "uploadedDate": "2020-07-20T21:51:39.078Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/sundrop/offer/EPIC_1200x1600_UK-1200x1600-7ecb0dfb5ea8a8f61ba7ca7559007074.jpg",
-      "md5": "7ecb0dfb5ea8a8f61ba7ca7559007074",
-      "size": 992590,
-      "uploadedDate": "2020-07-20T21:51:57.022Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/US_FH_Epic_Portrait_1200x1600_US_1200x1600-4c5803f0f087485075bf03cda0c85538",
+      "md5": "4c5803f0f087485075bf03cda0c85538",
+      "size": 1016844,
+      "uploadedDate": "2021-07-12T21:57:52.817Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/sundrop/offer/EPIC_1200x1600_UK-1200x1600-7ecb0dfb5ea8a8f61ba7ca7559007074.jpg",
-      "md5": "7ecb0dfb5ea8a8f61ba7ca7559007074",
-      "size": 992590,
-      "uploadedDate": "2020-07-20T21:52:03.991Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/US_FH_Epic_Portrait_1200x1600_US_1200x1600-4c5803f0f087485075bf03cda0c85538",
+      "md5": "4c5803f0f087485075bf03cda0c85538",
+      "size": 1016844,
+      "uploadedDate": "2021-07-12T21:57:56.411Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/US_FH_Epic_HeroBanner_3840x2160_US_3840x2160-c7339fc83ef37aba4257670f67c6a9bd",
+      "md5": "c7339fc83ef37aba4257670f67c6a9bd",
+      "size": 4465065,
+      "uploadedDate": "2021-07-12T21:58:05.263Z",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/US_FH_Epic_Portrait_1200x1600_US_1200x1600-4c5803f0f087485075bf03cda0c85538",
+      "md5": "4c5803f0f087485075bf03cda0c85538",
+      "size": 1016844,
+      "uploadedDate": "2021-07-12T21:58:11.768Z",
       "width": 1200,
       "height": 1600
     }
@@ -180,5 +165,7 @@
       "id": "576a3f4107034f3eaee0b24389e2887c"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "sundrop"
+  }
 }
