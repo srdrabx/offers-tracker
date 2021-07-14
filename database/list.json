@@ -25042,6 +25042,20 @@
     ""
   ],
   [
+    "60f9a03897f04824b0557095b0ce43e4",
+    "8618da9904ad41ad951fcc470d1873cb",
+    "SuchArt: Creative Space",
+    [
+      "games",
+      "games/demo"
+    ],
+    "Hypetrain Digital",
+    1626214642,
+    1626280067,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/portrait-product-cs_1200x1600-5c794aa451f846ba01786a36aacfc828",
+    "suchart-genius-artist-simulator--creative-space-demo"
+  ],
+  [
     "612bcef43d5642e2a7338b70b26b55fd",
     "ca4058f18b0a4a9e9e2ccc28f7f33000",
     "DEV Treasures of The Past Offer",
@@ -53580,6 +53594,21 @@
     1613664124,
     "https://cdn1.epicgames.com/dd7371cb38ea42469d9ba0df57aa394d/offer/EGS_CarnivalGames_MassMediaGames_S2-1200x1600-d31a90472d6d46891bb3cf9f4b523e04.jpg",
     "carnival-games"
+  ],
+  [
+    "d0a18192b7ef4c5e962b8fd9858464b1",
+    "8618da9904ad41ad951fcc470d1873cb",
+    "SuchArt: Genius Artist Simulator",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base"
+    ],
+    "Hypetrain Digital",
+    1618340384,
+    1626280067,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SuchArtGeniusArtistSimulator_Voolgi_S2_1200x1600-d51ac0f4a3d20ef478616438e37bb884",
+    "suchart-genius-artist-simulator"
   ],
   [
     "d0c42c7281f6411bab33f7853dc0705e",
