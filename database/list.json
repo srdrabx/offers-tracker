@@ -10100,6 +10100,20 @@
     ""
   ],
   [
+    "2726fa5b9175428882caf2d179f2f772",
+    "0ded1556336546bf849c9d28878ec86c",
+    "Space Punks - Founders Swag Pack",
+    [
+      "games",
+      "games/edition"
+    ],
+    "Jagex",
+    1624292847,
+    1626264091,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SwagPack_FlyingWildHog_Bundles_S2_1200x1600-1bcf13cca96f175c6ac705c04552cc3b",
+    "space-punks--founders-swag-pack"
+  ],
+  [
     "2727b470868f49888f7a77bedad1904a",
     "carnation",
     "Rainbow Six Siege Ultimate Edition Y6",
@@ -42945,6 +42959,21 @@
     1613138599,
     "",
     ""
+  ],
+  [
+    "a5510edb06e34537bd6788c0224106d8",
+    "0ded1556336546bf849c9d28878ec86c",
+    "Space Punks - Founders Splendor Pack",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base"
+    ],
+    "Jagex",
+    1624292869,
+    1626264057,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SplendorPack_FlyingWildHog_Bundles_S2_1200x1600-96cc2a4b2dd9fcc4d0f2bdef7637fa92",
+    "space-punks--founders-splendor-pack"
   ],
   [
     "a55fffbb111c43bf8703847159d79bf6",
