@@ -8,7 +8,7 @@
   "productSlug": "space-punks",
   "urlSlug": "jarlsberg-general-audience",
   "creationDate": "2021-05-03T17:41:54.887Z",
-  "lastModifiedDate": "2021-07-08T04:54:39.703Z",
+  "lastModifiedDate": "2021-07-14T11:52:18.103Z",
   "effectiveDate": "2099-02-01T00:00:00.000Z",
   "viewableDate": "2021-07-08T12:00:00.000Z",
   "developer": null,
@@ -29,9 +29,6 @@
     },
     {
       "path": "games/edition"
-    },
-    {
-      "path": "games/edition/base"
     }
   ],
   "tags": [
