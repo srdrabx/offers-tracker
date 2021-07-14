@@ -1,0 +1,196 @@
+{
+  "id": "42cc3b0d2bd7413db19fc3d8dcee436a",
+  "namespace": "8a84f291e373466d9b7cc9f7cea4b2e6",
+  "title": "Exo One",
+  "description": "Exo One",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "exo-one",
+  "urlSlug": "caesiumgeneralaudience",
+  "creationDate": "2021-01-06T21:21:15.332Z",
+  "lastModifiedDate": "2021-07-14T14:46:40.661Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": "2021-07-14T15:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-z4ym8gzjceg8v4zjmx8t3wlb797rxn",
+    "name": "Future Friends Games Limited"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1281",
+      "name": "Space Sim",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:38.182Z",
+      "updated": "2021-02-05T16:13:43.665Z",
+      "status": "ACTIVE",
+      "referenceCount": 4,
+      "comment": null
+    },
+    {
+      "id": "1381",
+      "name": "Exploration",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:27.799Z",
+      "updated": "2021-02-05T16:20:12.282Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2021-02-10T17:35:47.790Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2021-02-10T17:36:06.452Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Future Friends Games"
+    },
+    {
+      "key": "developerName",
+      "value": "Exbleative"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "exo-one"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_ExoOne_Exbleative_S2_1200x1600-b8ad5efaae97568aa3b74b30303fc612",
+      "md5": "b8ad5efaae97568aa3b74b30303fc612",
+      "size": 381456,
+      "uploadedDate": "2021-07-13T18:02:53.440Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_ExoOne_Exbleative_S2_1200x1600-b8ad5efaae97568aa3b74b30303fc612",
+      "md5": "b8ad5efaae97568aa3b74b30303fc612",
+      "size": 381456,
+      "uploadedDate": "2021-07-13T18:02:58.302Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_ExoOne_Exbleative_S2_1200x1600-b8ad5efaae97568aa3b74b30303fc612",
+      "md5": "b8ad5efaae97568aa3b74b30303fc612",
+      "size": 381456,
+      "uploadedDate": "2021-07-13T18:03:03.259Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_ExoOne_Exbleative_S1_2560x1440-b2265ccf8ce525ec639e60010885a2c3",
+      "md5": "b2265ccf8ce525ec639e60010885a2c3",
+      "size": 654156,
+      "uploadedDate": "2021-07-13T18:03:08.875Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_ExoOne_Exbleative_S2_1200x1600-b8ad5efaae97568aa3b74b30303fc612",
+      "md5": "b8ad5efaae97568aa3b74b30303fc612",
+      "size": 381456,
+      "uploadedDate": "2021-07-13T18:03:14.033Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_ExoOne_Exbleative_S1_2560x1440-b2265ccf8ce525ec639e60010885a2c3",
+      "md5": "b2265ccf8ce525ec639e60010885a2c3",
+      "size": 654156,
+      "uploadedDate": "2021-07-13T18:03:18.741Z",
+      "width": 2560,
+      "height": 1440
+    }
+  ],
+  "items": [
+    {
+      "id": "a55ffd39438b48f18faa09752f25c77e"
+    }
+  ],
+  "catalogNs": {
+    "name": "8a84f291e373466d9b7cc9f7cea4b2e6"
+  }
+}
