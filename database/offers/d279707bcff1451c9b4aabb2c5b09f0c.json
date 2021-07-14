@@ -8,7 +8,7 @@
   "productSlug": "before-your-eyes",
   "urlSlug": "before-your-eyes",
   "creationDate": "2021-03-08T22:58:52.156Z",
-  "lastModifiedDate": "2021-04-07T21:16:48.047Z",
+  "lastModifiedDate": "2021-07-14T15:36:49.370Z",
   "effectiveDate": "2021-04-08T12:00:00.000Z",
   "viewableDate": "2021-04-08T12:00:00.000Z",
   "developer": null,
@@ -114,7 +114,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR"
+      "value": "[]"
     },
     {
       "key": "publisherName",
