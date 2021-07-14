@@ -8,8 +8,8 @@
   "productSlug": "dream-engines-nomad-cities",
   "urlSlug": "americiumgeneralaudience",
   "creationDate": "2021-03-14T21:18:11.641Z",
-  "lastModifiedDate": "2021-06-24T02:29:36.581Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2021-07-14T13:19:45.941Z",
+  "effectiveDate": "2021-07-14T14:00:00.000Z",
   "viewableDate": "2021-06-24T09:00:00.000Z",
   "developer": null,
   "seller": {
@@ -35,54 +35,11 @@
     }
   ],
   "tags": [
-    {
-      "id": "1080",
-      "name": "Survival",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:58:58.070Z",
-      "updated": "2021-02-05T16:19:16.566Z",
-      "status": "ACTIVE",
-      "referenceCount": 11,
-      "comment": null
-    },
-    {
-      "id": "1146",
-      "name": "City Builder",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:31.235Z",
-      "updated": "2021-02-05T16:18:08.310Z",
-      "status": "ACTIVE",
-      "referenceCount": 9,
-      "comment": null
-    },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2021-02-10T17:36:35.389Z",
-      "status": "ACTIVE",
-      "referenceCount": 195,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2021-02-05T16:07:21.852Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    }
+    null,
+    null,
+    null,
+    null,
+    null
   ],
   "customAttributes": [
     {
@@ -100,56 +57,56 @@
   ],
   "keyImages": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DreamEnginesNomadCities_Suncrash_S1_2560x1440-0677a73847c7d5a7971de23051653b72",
-      "md5": "0677a73847c7d5a7971de23051653b72",
-      "size": 439599,
-      "uploadedDate": "2021-04-06T01:48:30.221Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DreamEnginesNomadCities_Suncrash_S2_1200x1600-184f938bc2fa3f3be1579a4ca19f457f",
-      "md5": "184f938bc2fa3f3be1579a4ca19f457f",
-      "size": 952484,
-      "uploadedDate": "2021-04-06T01:48:39.667Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DreamEnginesNomadCities_Suncrash_S2_1200x1600-184f938bc2fa3f3be1579a4ca19f457f",
-      "md5": "184f938bc2fa3f3be1579a4ca19f457f",
-      "size": 952484,
-      "uploadedDate": "2021-04-06T01:48:49.856Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DreamEnginesNomadCities_Suncrash_S2_1200x1600-184f938bc2fa3f3be1579a4ca19f457f",
-      "md5": "184f938bc2fa3f3be1579a4ca19f457f",
-      "size": 952484,
-      "uploadedDate": "2021-04-06T01:49:00.097Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DreamEnginesNomadCities_Suncrash_S2_1200x1600-905b076841dbb8f6878061f54b16cea5",
+      "md5": "905b076841dbb8f6878061f54b16cea5",
+      "size": 483941,
+      "uploadedDate": "2021-07-13T21:33:24.125Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DreamEnginesNomadCities_Suncrash_S2_1200x1600-905b076841dbb8f6878061f54b16cea5",
+      "md5": "905b076841dbb8f6878061f54b16cea5",
+      "size": 483941,
+      "uploadedDate": "2021-07-13T21:33:26.424Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DreamEnginesNomadCities_Suncrash_S1_2560x1440-0677a73847c7d5a7971de23051653b72",
-      "md5": "0677a73847c7d5a7971de23051653b72",
-      "size": 439599,
-      "uploadedDate": "2021-04-06T01:49:14.624Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DreamEnginesNomadCities_Suncrash_S1_2560x1440-035cb1af5ebb996dd77e4cdb4c49b918",
+      "md5": "035cb1af5ebb996dd77e4cdb4c49b918",
+      "size": 816307,
+      "uploadedDate": "2021-07-13T21:33:28.536Z",
       "width": 2560,
       "height": 1440
     },
     {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DreamEnginesNomadCities_Suncrash_S2_1200x1600-184f938bc2fa3f3be1579a4ca19f457f",
-      "md5": "184f938bc2fa3f3be1579a4ca19f457f",
-      "size": 952484,
-      "uploadedDate": "2021-04-06T01:49:28.190Z",
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DreamEnginesNomadCities_Suncrash_S2_1200x1600-905b076841dbb8f6878061f54b16cea5",
+      "md5": "905b076841dbb8f6878061f54b16cea5",
+      "size": 483941,
+      "uploadedDate": "2021-07-13T21:33:31.122Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DreamEnginesNomadCities_Suncrash_S1_2560x1440-035cb1af5ebb996dd77e4cdb4c49b918",
+      "md5": "035cb1af5ebb996dd77e4cdb4c49b918",
+      "size": 816307,
+      "uploadedDate": "2021-07-13T21:33:33.578Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DreamEnginesNomadCities_Suncrash_S2_1200x1600-905b076841dbb8f6878061f54b16cea5",
+      "md5": "905b076841dbb8f6878061f54b16cea5",
+      "size": 483941,
+      "uploadedDate": "2021-07-13T21:33:35.873Z",
       "width": 1200,
       "height": 1600
     }
@@ -160,6 +117,6 @@
     }
   ],
   "catalogNs": {
-    "name": "94556f7a788243108635913cf8216a10"
+    "name": null
   }
 }
