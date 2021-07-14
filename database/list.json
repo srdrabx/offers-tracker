@@ -1230,14 +1230,14 @@
   [
     "057fa2d2197e431ea950e7a29533f9ef",
     "7ad5508d382e46228056f1d1a0189ae2",
-    "AesirToAesirWarriorUpgrade",
+    "Aesir To Aesir Warrior Upgrade",
     [
       "games",
       "applications"
     ],
     "Grinding Gear Games",
     1626219057,
-    1626219430,
+    1626221822,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/1200x1600_UpgradeAesirToAesirWarrior_1200x1600-72e54461ca0f74b547bb63625d239385",
     ""
   ],
@@ -1601,14 +1601,14 @@
   [
     "06c94c16e52046279d52d08d681a73da",
     "7ad5508d382e46228056f1d1a0189ae2",
-    "AesirToAesirDemigod Audience",
+    "Aesir To Aesir Demigod Upgrade",
     [
       "games",
       "applications"
     ],
     "Grinding Gear Games",
     1626219146,
-    1626219492,
+    1626221806,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/1200x1600_UpgradeAesirToAesirDemigod_1200x1600-fb735728be3fdf6912dc988182ad06ce",
     ""
   ],
@@ -11297,6 +11297,20 @@
     ""
   ],
   [
+    "2c173558f82e49968f26740ba1ef7692",
+    "7ad5508d382e46228056f1d1a0189ae2",
+    "Soulkeeper Vizier To Soulkeeper Demigod Upgrade",
+    [
+      "games",
+      "applications"
+    ],
+    "Grinding Gear Games",
+    1626221065,
+    1626221741,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/1200x1600_UpgradeSoulkeeperVizierToSoulkeeperDemigod_1200x1600-4c889ca178afb04813d18da918f40867",
+    ""
+  ],
+  [
     "2c328a34978546a487861d442713a8e0",
     "9cf250606722448887fa1447b1d9da06",
     "WRC 9 FIA World Rally Championship",
@@ -13194,14 +13208,14 @@
   [
     "32f5dc9324c94ae3b8f9232ea0151ebb",
     "7ad5508d382e46228056f1d1a0189ae2",
-    "AesirWarriorToAesirDemigod Audience",
+    "Aesir Warrior To Aesir Demigod Upgrade",
     [
       "games",
       "applications"
     ],
     "Grinding Gear Games",
     1626219285,
-    1626219554,
+    1626221789,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/1200x1600_UpgradeAesirWarriorToAesirDemigod_1200x1600-5e9d8559aed396d43ce6f6f6d5a59ff2",
     ""
   ],
@@ -49619,6 +49633,20 @@
     ""
   ],
   [
+    "c09dae7487394493accbdc4c48cb1cac",
+    "7ad5508d382e46228056f1d1a0189ae2",
+    "Soulkeeper To Soulkeeper Demigod Upgrade",
+    [
+      "games",
+      "applications"
+    ],
+    "Grinding Gear Games",
+    1626220930,
+    1626221755,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/1200x1600_UpgradeSoulkeeperToSoulkeeperDemigod_1200x1600-bc33d4d04a395ecc7fc90d332bf5727e",
+    ""
+  ],
+  [
     "c0b8343f3af94f8f98d73014ff3e44d9",
     "nemesia",
     "Vampire: The Masquerade – Bloodlines 2 Blood Moon Edition Pre-Purchase",
@@ -52186,7 +52214,7 @@
     ],
     "Hidden Path",
     1586970522,
-    1608476930,
+    1626222402,
     "https://cdn1.epicgames.com/0dabb0f14acf4fef84bd2b2bf3085dfc/offer/EGS_DefenseGridTheAwakening_HiddenPathEntertainment_S4-1200x1600-7f6d059571b0e4b72947ae5e9faf0e3b.jpg",
     "defense-grid"
   ],
@@ -57798,6 +57826,20 @@
     1596163718,
     "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/offer/Diesel_productv2_ticket-to-ride_1910_Mobile-Vertical-510x680-510x680-de1e2f4fe3cda87eac433f7411dc0f56c427556d-510x680-2dfd5e895a1d532979efad759dbd7871.jpg",
     "ticket-to-ride/1910"
+  ],
+  [
+    "e17685e0415e4d6e853ed83aa569f566",
+    "7ad5508d382e46228056f1d1a0189ae2",
+    "Soulkeeper To Soulkeeper Vizier Upgrade",
+    [
+      "games",
+      "applications"
+    ],
+    "Grinding Gear Games",
+    1626220817,
+    1626221771,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/1200x1600_UpgradeSoulkeeperToSoulkeeperVizier_1200x1600-e638d0d0b8d7b42ed6aaba6ecf3083fd",
+    ""
   ],
   [
     "e17b303a64564822b35f1f63493ae445",
