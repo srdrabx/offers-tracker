@@ -37,7 +37,7 @@
   "tags": [
     {
       "id": "1264",
-      "name": "Кооперативная",
+      "name": "Cooperativo",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -73,7 +73,7 @@
     },
     {
       "id": "1151",
-      "name": "Платформер",
+      "name": "Plataforma",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -141,5 +141,7 @@
       "id": "099083bc5a99464aa1bccffb579222bf"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "4c7117cadb714722950338f02850fd8d"
+  }
 }

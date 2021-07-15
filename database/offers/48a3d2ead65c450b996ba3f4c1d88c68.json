@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1298",
-      "name": "Rompecabezas",
+      "name": "Rompicapo",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1370",
-      "name": "Un solo jugador",
+      "name": "Giocatore singolo",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1117",
-      "name": "Aventura",
+      "name": "Avventura",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
