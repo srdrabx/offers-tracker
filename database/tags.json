@@ -409,7 +409,7 @@
   },
   "1190": {
     "id": "1190",
-    "name": "WAR",
+    "name": "Guerra",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -973,7 +973,7 @@
   },
   "1367": {
     "id": "1367",
-    "name": "Rol",
+    "name": "RPG",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
