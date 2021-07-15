@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1203",
-      "name": "Многопользовательская",
+      "name": "Multijugador",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1299",
-      "name": "Соревновательная",
+      "name": "Competitivo",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1370",
-      "name": "Одиночная",
+      "name": "Para un solo jugador",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "16011",
-      "name": "Superoferta de Epic",
+      "name": "Megaoferta de Epic",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "1279",
-      "name": "Вампир",
+      "name": "Vampiros",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
