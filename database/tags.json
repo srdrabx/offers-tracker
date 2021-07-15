@@ -25,7 +25,7 @@
   },
   "1083": {
     "id": "1083",
-    "name": "Rogue-Lite",
+    "name": "Roguelite",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -481,7 +481,7 @@
   },
   "1215": {
     "id": "1215",
-    "name": "종말 이후",
+    "name": "POST-APOCALYPTIC",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -973,7 +973,7 @@
   },
   "1367": {
     "id": "1367",
-    "name": "RPG",
+    "name": "Ролевая",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -1343,7 +1343,7 @@
   },
   "15895": {
     "id": "15895",
-    "name": "《Tropico》周年特惠",
+    "name": "Tropico Anniversary Sale",
     "namespace": null,
     "aliases": [],
     "operator": null,

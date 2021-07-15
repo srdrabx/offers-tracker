@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1298",
-      "name": "Quebra-Cabeça",
+      "name": "Puzzle",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1370",
-      "name": "Um jogador",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1117",
-      "name": "Aventura",
+      "name": "Adventure",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "1263",
-      "name": "Independente",
+      "name": "Indie",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -177,7 +177,5 @@
       "id": "c8e0e6a355a244dfba4ba3f0a24f0607"
     }
   ],
-  "catalogNs": {
-    "name": "tulip"
-  }
+  "catalogNs": null
 }

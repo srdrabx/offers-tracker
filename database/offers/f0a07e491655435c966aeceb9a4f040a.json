@@ -82,7 +82,7 @@
     },
     {
       "id": "1279",
-      "name": "Вампир",
+      "name": "Vampire",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -146,7 +146,5 @@
       "id": "7dc6f4bb6f0e4d56b64c976211164e4f"
     }
   ],
-  "catalogNs": {
-    "name": "jackal"
-  }
+  "catalogNs": null
 }

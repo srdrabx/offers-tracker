@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1187",
-      "name": "3인칭 슈터",
+      "name": "THIRD-PERSON SHOOTER",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1203",
-      "name": "멀티플레이어",
+      "name": "Multiplayer",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1299",
-      "name": "경쟁",
+      "name": "Competitive",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1210",
-      "name": "슈팅",
+      "name": "Shooter",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "1164",
-      "name": "팀 기반",
+      "name": "TEAM-BASED",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "9549",
-      "name": "컨트롤러 지원",
+      "name": "Controller Support",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -112,7 +112,7 @@
     },
     {
       "id": "1310",
-      "name": "얼리 액세스",
+      "name": "EARLY ACCESS",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
@@ -124,7 +124,7 @@
     },
     {
       "id": "1215",
-      "name": "종말 이후",
+      "name": "POST-APOCALYPTIC",
       "namespace": "epic",
       "aliases": null,
       "operator": null,

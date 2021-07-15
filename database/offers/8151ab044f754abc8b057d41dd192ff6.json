@@ -8,7 +8,7 @@
   "productSlug": "stalker-2-heart-of-chernobyl--ultimate-edition",
   "urlSlug": "stalker-2-heart-of-chernobyl--ultimate-edition-01",
   "creationDate": "2021-06-10T01:50:58.748Z",
-  "lastModifiedDate": "2021-06-13T18:53:13.330Z",
+  "lastModifiedDate": "2021-07-15T17:03:46.471Z",
   "effectiveDate": "2021-06-13T19:00:00.000Z",
   "viewableDate": "2021-06-13T19:00:00.000Z",
   "developer": null,
@@ -132,58 +132,67 @@
   ],
   "keyImages": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_STALKER2HeartofChernobylDeluxe_GSCGameWorld_Bundles_S1_2560x1440-9dc4208f96d602b6754628a8f44e43b6",
-      "md5": "9dc4208f96d602b6754628a8f44e43b6",
-      "size": 502211,
-      "uploadedDate": "2021-06-10T14:57:51.154Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_STALKER2HeartofChernobylDeluxe_GSCGameWorld_Bundles_S2_1200x1600-a97a5d738ba776358c19b70e4926f3e3",
-      "md5": "a97a5d738ba776358c19b70e4926f3e3",
-      "size": 499328,
-      "uploadedDate": "2021-06-10T14:57:56.207Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_STALKER2HeartofChernobylDeluxe_GSCGameWorld_Bundles_S2_1200x1600-a97a5d738ba776358c19b70e4926f3e3",
-      "md5": "a97a5d738ba776358c19b70e4926f3e3",
-      "size": 499328,
-      "uploadedDate": "2021-06-10T14:58:02.461Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_STALKER2HeartofChernobylDeluxe_GSCGameWorld_Bundles_S2_1200x1600-a97a5d738ba776358c19b70e4926f3e3",
-      "md5": "a97a5d738ba776358c19b70e4926f3e3",
-      "size": 499328,
-      "uploadedDate": "2021-06-10T14:58:08.678Z",
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_STALKER2HeartofChernobylUltimate_GSCGameWorld_Bundles_S2_1200x1600-dd4c0c299bb4be6507a9d990a4aa922b",
+      "md5": "dd4c0c299bb4be6507a9d990a4aa922b",
+      "size": 340848,
+      "uploadedDate": "2021-07-15T17:01:03.824Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_STALKER2HeartofChernobylDeluxe_GSCGameWorld_Bundles_S1_2560x1440-9dc4208f96d602b6754628a8f44e43b6",
-      "md5": "9dc4208f96d602b6754628a8f44e43b6",
-      "size": 502211,
-      "uploadedDate": "2021-06-10T14:58:20.688Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_STALKER2HeartofChernobylUltimate_GSCGameWorld_Bundles_S1_2560x1440-f15aae1c7acae6d2a41e40b8a69ec836",
+      "md5": "f15aae1c7acae6d2a41e40b8a69ec836",
+      "size": 415093,
+      "uploadedDate": "2021-07-15T17:01:18.043Z",
       "width": 2560,
       "height": 1440
     },
     {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_STALKER2HeartofChernobylDeluxe_GSCGameWorld_Bundles_S2_1200x1600-a97a5d738ba776358c19b70e4926f3e3",
-      "md5": "a97a5d738ba776358c19b70e4926f3e3",
-      "size": 499328,
-      "uploadedDate": "2021-06-10T14:58:28.029Z",
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_STALKER2HeartofChernobylUltimate_GSCGameWorld_Bundles_S2_1200x1600-dd4c0c299bb4be6507a9d990a4aa922b",
+      "md5": "dd4c0c299bb4be6507a9d990a4aa922b",
+      "size": 340848,
+      "uploadedDate": "2021-07-15T17:02:03.630Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_STALKER2HeartofChernobylUltimate_GSCGameWorld_Bundles_S1_2560x1440-f15aae1c7acae6d2a41e40b8a69ec836",
+      "md5": "f15aae1c7acae6d2a41e40b8a69ec836",
+      "size": 415093,
+      "uploadedDate": "2021-07-15T17:02:12.444Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_STALKER2HeartofChernobylUltimate_GSCGameWorld_Bundles_S2_1200x1600-dd4c0c299bb4be6507a9d990a4aa922b",
+      "md5": "dd4c0c299bb4be6507a9d990a4aa922b",
+      "size": 340848,
+      "uploadedDate": "2021-07-15T17:02:29.534Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_STALKER2HeartofChernobylUltimate_GSCGameWorld_Bundles_S2_1200x1600-dd4c0c299bb4be6507a9d990a4aa922b",
+      "md5": "dd4c0c299bb4be6507a9d990a4aa922b",
+      "size": 340848,
+      "uploadedDate": "2021-07-15T17:02:44.403Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_STALKER2HeartofChernobylUltimate_GSCGameWorld_Bundles_IC1_200x200-b8319b09afea3d37701ee7c0c1231679",
+      "md5": "b8319b09afea3d37701ee7c0c1231679",
+      "size": 47277,
+      "uploadedDate": "2021-07-15T17:03:12.203Z",
+      "width": 200,
+      "height": 200
     }
   ],
   "items": [
