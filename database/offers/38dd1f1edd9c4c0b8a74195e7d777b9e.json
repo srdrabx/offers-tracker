@@ -37,7 +37,7 @@
   "tags": [
     {
       "id": "1216",
-      "name": "Action",
+      "name": "Akcja",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -49,7 +49,7 @@
     },
     {
       "id": "1393",
-      "name": "Simulation",
+      "name": "Symulatory",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -61,7 +61,7 @@
     },
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "Tryb jednego gracza",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -85,7 +85,7 @@
     },
     {
       "id": "16011",
-      "name": "Epic MEGA Sale",
+      "name": "Mega wyprzedaż Epic",
       "namespace": null,
       "aliases": [],
       "operator": null,
