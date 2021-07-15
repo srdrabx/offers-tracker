@@ -37,7 +37,7 @@
   "tags": [
     {
       "id": "1216",
-      "name": "Action",
+      "name": "アクション",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -49,7 +49,7 @@
     },
     {
       "id": "1381",
-      "name": "Exploration",
+      "name": "探検",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -61,7 +61,7 @@
     },
     {
       "id": "1336",
-      "name": "Action-Adventure",
+      "name": "アクションアドベンチャー",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -73,7 +73,7 @@
     },
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "シングルプレイヤー",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -97,7 +97,7 @@
     },
     {
       "id": "1117",
-      "name": "Adventure",
+      "name": "アドベンチャー",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
