@@ -28244,6 +28244,21 @@
     "chill-games"
   ],
   [
+    "6d8e92801a5c4933a23698587f302099",
+    "93eeeab14a3d45b8bf5586a900137733",
+    "Against The Storm - Royal Woodlands Demo",
+    [
+      "games",
+      "games/demo",
+      "applications"
+    ],
+    "Eremite Games sp. z o.o.",
+    1623794038,
+    1626323308,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AgainsttheStorm_EremiteGames_S2_1200x1600-da57640aeba607fa58e79456408f1192",
+    "against-the-storm--royal-woodlands-demo"
+  ],
+  [
     "6da77092c2c54f2788b43b82d9537e8d",
     "epic",
     "Hello Neighbor Mod Kit",
@@ -35527,6 +35542,22 @@
     1622221199,
     "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
     ""
+  ],
+  [
+    "8b217ddb2bd54967ad46ba5217c42348",
+    "93eeeab14a3d45b8bf5586a900137733",
+    "Against the Storm",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Eremite Games sp. z o.o.",
+    1620861743,
+    1626323308,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AgainsttheStorm_EremiteGames_S2_1200x1600-da57640aeba607fa58e79456408f1192",
+    "against-the-storm"
   ],
   [
     "8b26194f915c47b988cd98686d14f298",
