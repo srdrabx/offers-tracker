@@ -8,9 +8,9 @@
   "productSlug": null,
   "urlSlug": "path-of-exile--aesir-warrior-pack",
   "creationDate": "2021-07-13T23:13:25.053Z",
-  "lastModifiedDate": "2021-07-14T17:50:43.041Z",
+  "lastModifiedDate": "2021-07-15T20:03:51.291Z",
   "effectiveDate": "2021-07-15T20:00:00.000Z",
-  "viewableDate": null,
+  "viewableDate": "2021-07-15T20:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-hjnk7yyxh7s2pm8k5dhxnubswnbler",
@@ -25,7 +25,10 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "addons"
+    },
+    {
+      "path": "addons/consumable"
     }
   ],
   "tags": [],

@@ -8,9 +8,9 @@
   "productSlug": null,
   "urlSlug": "path-of-exile--aesir-pack",
   "creationDate": "2021-07-13T23:10:55.628Z",
-  "lastModifiedDate": "2021-07-15T00:02:37.083Z",
+  "lastModifiedDate": "2021-07-15T20:03:51.259Z",
   "effectiveDate": "2021-07-15T20:00:00.000Z",
-  "viewableDate": null,
+  "viewableDate": "2021-07-15T20:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-hjnk7yyxh7s2pm8k5dhxnubswnbler",
@@ -25,7 +25,10 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "addons"
+    },
+    {
+      "path": "addons/consumable"
     }
   ],
   "tags": [],

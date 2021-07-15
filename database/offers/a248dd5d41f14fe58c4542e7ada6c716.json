@@ -8,7 +8,7 @@
   "productSlug": "jett-the-far-shore",
   "urlSlug": "onyxgeneralaudience",
   "creationDate": "2020-02-27T18:25:38.547Z",
-  "lastModifiedDate": "2020-06-11T20:56:24.578Z",
+  "lastModifiedDate": "2021-07-15T20:17:07.989Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -115,56 +115,56 @@
   ],
   "keyImages": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/d5dc736cb39c4b09b32a0049a4009d67/offer/EGS_JETTTHEFARSHORE_SuperbrothersPineScented_S1-2560x1440-a3e28519bd2a32405647e4949a1053c2.jpg",
-      "md5": "a3e28519bd2a32405647e4949a1053c2",
-      "size": 294959,
-      "uploadedDate": "2020-05-28T22:15:12.079Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/d5dc736cb39c4b09b32a0049a4009d67/offer/EGS_JETTTHEFARSHORE_SuperbrothersPineScented_S2-1200x1600-1fe4a7a9e76dee787315d29a5ac63595.jpg",
-      "md5": "1fe4a7a9e76dee787315d29a5ac63595",
-      "size": 176372,
-      "uploadedDate": "2020-05-28T22:15:25.616Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/d5dc736cb39c4b09b32a0049a4009d67/offer/EGS_JETTTHEFARSHORE_SuperbrothersPineScented_S2-1200x1600-1fe4a7a9e76dee787315d29a5ac63595.jpg",
-      "md5": "1fe4a7a9e76dee787315d29a5ac63595",
-      "size": 176372,
-      "uploadedDate": "2020-05-28T22:15:33.913Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/d5dc736cb39c4b09b32a0049a4009d67/offer/EGS_JETTTHEFARSHORE_SuperbrothersPineScented_S2-1200x1600-1fe4a7a9e76dee787315d29a5ac63595.jpg",
-      "md5": "1fe4a7a9e76dee787315d29a5ac63595",
-      "size": 176372,
-      "uploadedDate": "2020-05-28T22:15:41.062Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JETTTHEFARSHORE_SuperbrothersPineScented_S2_1200x1600-7398300b6f6379d901588afe32cdec11",
+      "md5": "7398300b6f6379d901588afe32cdec11",
+      "size": 609379,
+      "uploadedDate": "2021-07-15T20:16:28.012Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JETTTHEFARSHORE_SuperbrothersPineScented_S2_1200x1600-7398300b6f6379d901588afe32cdec11",
+      "md5": "7398300b6f6379d901588afe32cdec11",
+      "size": 609379,
+      "uploadedDate": "2021-07-15T20:16:21.845Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/d5dc736cb39c4b09b32a0049a4009d67/offer/EGS_JETTTHEFARSHORE_SuperbrothersPineScented_S1-2560x1440-a3e28519bd2a32405647e4949a1053c2.jpg",
-      "md5": "a3e28519bd2a32405647e4949a1053c2",
-      "size": 294959,
-      "uploadedDate": "2020-05-28T22:15:49.198Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JETTTHEFARSHORE_SuperbrothersPineScented_S1_2560x1440-06aab902949d99180add16e771325d76",
+      "md5": "06aab902949d99180add16e771325d76",
+      "size": 990993,
+      "uploadedDate": "2021-07-15T20:16:16.863Z",
       "width": 2560,
       "height": 1440
     },
     {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/d5dc736cb39c4b09b32a0049a4009d67/offer/EGS_JETTTHEFARSHORE_SuperbrothersPineScented_S2-1200x1600-1fe4a7a9e76dee787315d29a5ac63595.jpg",
-      "md5": "1fe4a7a9e76dee787315d29a5ac63595",
-      "size": 176372,
-      "uploadedDate": "2020-05-28T22:16:10.612Z",
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JETTTHEFARSHORE_SuperbrothersPineScented_S2_1200x1600-7398300b6f6379d901588afe32cdec11",
+      "md5": "7398300b6f6379d901588afe32cdec11",
+      "size": 609379,
+      "uploadedDate": "2021-07-15T20:16:47.751Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JETTTHEFARSHORE_SuperbrothersPineScented_S1_2560x1440-06aab902949d99180add16e771325d76",
+      "md5": "06aab902949d99180add16e771325d76",
+      "size": 990993,
+      "uploadedDate": "2021-07-15T20:16:42.596Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JETTTHEFARSHORE_SuperbrothersPineScented_S2_1200x1600-7398300b6f6379d901588afe32cdec11",
+      "md5": "7398300b6f6379d901588afe32cdec11",
+      "size": 609379,
+      "uploadedDate": "2021-07-15T20:17:00.530Z",
       "width": 1200,
       "height": 1600
     }

@@ -1237,7 +1237,7 @@
     ],
     "Grinding Gear Games",
     1626219057,
-    1626221822,
+    1626379431,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/1200x1600_UpgradeAesirToAesirWarrior_1200x1600-72e54461ca0f74b547bb63625d239385",
     ""
   ],
@@ -1608,7 +1608,7 @@
     ],
     "Grinding Gear Games",
     1626219146,
-    1626377578,
+    1626379431,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/1200x1600_UpgradeAesirToAesirDemigod_1200x1600-9a6c299306d8a1464b48ba69b494186d",
     ""
   ],
@@ -6277,11 +6277,12 @@
     "7ad5508d382e46228056f1d1a0189ae2",
     "Aesir Demigod Pack",
     [
-      "games"
+      "addons",
+      "addons/consumable"
     ],
     "Grinding Gear Games",
     1626218173,
-    1626285059,
+    1626379431,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/1200x1600_AesirDemigod_1200x1600-e166ed77103bc99c9c3c1e7e231f3bdb",
     ""
   ],
@@ -11365,7 +11366,7 @@
     ],
     "Grinding Gear Games",
     1626221065,
-    1626221741,
+    1626379431,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/1200x1600_UpgradeSoulkeeperVizierToSoulkeeperDemigod_1200x1600-4c889ca178afb04813d18da918f40867",
     ""
   ],
@@ -13274,7 +13275,7 @@
     ],
     "Grinding Gear Games",
     1626219285,
-    1626377528,
+    1626379431,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/1200x1600_UpgradeAesirWarriorToAesirDemigod_1200x1600-a1a5d29fa9aaa7d590f6db8577391b0e",
     ""
   ],
@@ -13921,11 +13922,12 @@
     "7ad5508d382e46228056f1d1a0189ae2",
     "Soulkeeper Pack",
     [
-      "games"
+      "addons",
+      "addons/consumable"
     ],
     "Grinding Gear Games",
     1626219994,
-    1626285077,
+    1626379431,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/1200x1600_Soulkeeper_1200x1600-a471e07983d67a43b5a6e453eda230e7",
     ""
   ],
@@ -17556,11 +17558,12 @@
     "7ad5508d382e46228056f1d1a0189ae2",
     "Soulkeeper Demigod Pack",
     [
-      "games"
+      "addons",
+      "addons/consumable"
     ],
     "Grinding Gear Games",
     1626220444,
-    1626285533,
+    1626379431,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/1200x1600_SoulkeeperDemigod_1200x1600-60a367a66baa599b1b2a00e626e07c46",
     ""
   ],
@@ -24645,11 +24648,12 @@
     "7ad5508d382e46228056f1d1a0189ae2",
     "Soulkeeper Vizier Pack",
     [
-      "games"
+      "addons",
+      "addons/consumable"
     ],
     "Grinding Gear Games",
     1626220321,
-    1626285466,
+    1626379431,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/1200x1600_SoulkeeperVizier_1200x1600-d04890b7739c2450fd11cd5f851f9654",
     ""
   ],
@@ -26580,11 +26584,12 @@
     "7ad5508d382e46228056f1d1a0189ae2",
     "Aesir Pack",
     [
-      "games"
+      "addons",
+      "addons/consumable"
     ],
     "Grinding Gear Games",
     1626217855,
-    1626307357,
+    1626379431,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/1200x1600_Aesir_1200x1600-bface5fb050df6cc6630b9e8c4836792",
     ""
   ],
@@ -33730,11 +33735,12 @@
     "7ad5508d382e46228056f1d1a0189ae2",
     "Aesir Warrior Pack",
     [
-      "games"
+      "addons",
+      "addons/consumable"
     ],
     "Grinding Gear Games",
     1626218005,
-    1626285043,
+    1626379431,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/1200x1600_AesirWarrior_1200x1600-85d12c1d455eb56e290ff1569cc90f81",
     ""
   ],
@@ -36132,7 +36138,7 @@
     ],
     "miHoYo Co., Ltd",
     1624337765,
-    1625169504,
+    1626380240,
     "",
     ""
   ],
@@ -42492,8 +42498,8 @@
     ],
     "Superbrothers",
     1582827938,
-    1591908984,
-    "https://cdn1.epicgames.com/d5dc736cb39c4b09b32a0049a4009d67/offer/EGS_JETTTHEFARSHORE_SuperbrothersPineScented_S2-1200x1600-1fe4a7a9e76dee787315d29a5ac63595.jpg",
+    1626380227,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JETTTHEFARSHORE_SuperbrothersPineScented_S2_1200x1600-7398300b6f6379d901588afe32cdec11",
     "jett-the-far-shore"
   ],
   [
@@ -49869,7 +49875,7 @@
     ],
     "Grinding Gear Games",
     1626220930,
-    1626307662,
+    1626379431,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/1200x1600_UpgradeSoulkeeperToSoulkeeperDemigod_1200x1600-bc33d4d04a395ecc7fc90d332bf5727e",
     ""
   ],
@@ -58122,7 +58128,7 @@
     ],
     "Grinding Gear Games",
     1626220817,
-    1626221771,
+    1626379431,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/1200x1600_UpgradeSoulkeeperToSoulkeeperVizier_1200x1600-e638d0d0b8d7b42ed6aaba6ecf3083fd",
     ""
   ],

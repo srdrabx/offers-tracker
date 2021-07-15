@@ -8,9 +8,9 @@
   "productSlug": null,
   "urlSlug": "path-of-exile--soulkeeper-vizier-pack",
   "creationDate": "2021-07-13T23:52:01.649Z",
-  "lastModifiedDate": "2021-07-14T17:57:46.873Z",
+  "lastModifiedDate": "2021-07-15T20:03:51.225Z",
   "effectiveDate": "2021-07-15T20:00:00.000Z",
-  "viewableDate": null,
+  "viewableDate": "2021-07-15T20:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-hjnk7yyxh7s2pm8k5dhxnubswnbler",
@@ -25,7 +25,10 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "addons"
+    },
+    {
+      "path": "addons/consumable"
     }
   ],
   "tags": [],

@@ -8,9 +8,9 @@
   "productSlug": null,
   "urlSlug": "path-of-exile--soulkeeper-pack",
   "creationDate": "2021-07-13T23:46:34.146Z",
-  "lastModifiedDate": "2021-07-14T17:51:17.843Z",
+  "lastModifiedDate": "2021-07-15T20:03:51.154Z",
   "effectiveDate": "2021-07-15T20:00:00.000Z",
-  "viewableDate": null,
+  "viewableDate": "2021-07-15T20:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-hjnk7yyxh7s2pm8k5dhxnubswnbler",
@@ -25,7 +25,10 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "addons"
+    },
+    {
+      "path": "addons/consumable"
     }
   ],
   "tags": [],
