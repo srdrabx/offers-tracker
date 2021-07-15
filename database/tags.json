@@ -407,18 +407,6 @@
     "referenceCount": 0,
     "comment": null
   },
-  "1190": {
-    "id": "1190",
-    "name": "WAR",
-    "namespace": "epic",
-    "aliases": null,
-    "operator": null,
-    "created": "2019-06-20T11:59:52.815Z",
-    "updated": "2019-06-20T11:59:52.815Z",
-    "status": "ACTIVE",
-    "referenceCount": null,
-    "comment": null
-  },
   "1203": {
     "id": "1203",
     "name": "Multiplayer",
