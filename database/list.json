@@ -32324,6 +32324,22 @@
     ""
   ],
   [
+    "7d26ed48c61f498189e60b282eaddbdf",
+    "e4a2a414d46849f49a35c0f80df2903a",
+    "Verdun",
+    [
+      "freegames",
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "M2H",
+    1619068391,
+    1626328253,
+    "https://s3.amazonaws.com/epic-cms-service-prod/dev-portal/0ace422f066d4084a67ce591efedc7f4/assets/8bf426af-772f-41ae-8685-b30890434fab?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIASH5VZXLEE6647FR7%2F20210715%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210715T053422Z&X-Amz-Expires=900&X-Amz-Signature=137eb66aea33003ef5480741315802707e1a233557b0fae73e10e7a32771a580&X-Amz-SignedHeaders=host",
+    "verdun"
+  ],
+  [
     "7d270c7e78d3439db8afe81bcd0b6b6a",
     "wex",
     "Castle Treasury",
@@ -52397,7 +52413,7 @@
     ],
     "Hidden Path",
     1586970522,
-    1626358314,
+    1626358913,
     "https://cdn1.epicgames.com/0dabb0f14acf4fef84bd2b2bf3085dfc/offer/EGS_DefenseGridTheAwakening_HiddenPathEntertainment_S4-1200x1600-7f6d059571b0e4b72947ae5e9faf0e3b.jpg",
     "defense-grid"
   ],
