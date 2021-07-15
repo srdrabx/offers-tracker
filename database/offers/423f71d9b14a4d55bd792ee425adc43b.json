@@ -34,7 +34,7 @@
   "tags": [
     {
       "id": "1296",
-      "name": "Gelegenheitsspiel",
+      "name": "Casual",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -58,7 +58,7 @@
     },
     {
       "id": "1381",
-      "name": "Erkunden",
+      "name": "Exploration",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
