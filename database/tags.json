@@ -25,7 +25,7 @@
   },
   "1083": {
     "id": "1083",
-    "name": "Roguelite",
+    "name": "Rogue-Lite",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -409,7 +409,7 @@
   },
   "1190": {
     "id": "1190",
-    "name": "Wojna",
+    "name": "WAR",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -793,7 +793,7 @@
   },
   "1310": {
     "id": "1310",
-    "name": "EARLY ACCESS",
+    "name": "Accès anticipé",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -1319,7 +1319,7 @@
   },
   "15735": {
     "id": "15735",
-    "name": "Football Manager 2021-Sale",
+    "name": "Football Manager 2021 Sale",
     "namespace": null,
     "aliases": [],
     "operator": null,

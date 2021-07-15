@@ -43,7 +43,7 @@
     },
     {
       "id": "1203",
-      "name": "Multijoueur",
+      "name": "Multiplayer",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -55,7 +55,7 @@
     },
     {
       "id": "1370",
-      "name": "Solo",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -91,7 +91,7 @@
     },
     {
       "id": "1279",
-      "name": "Vampires",
+      "name": "Vampire",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -193,7 +193,5 @@
       "id": "30e9edeb89de4a23a73feb432234e98c"
     }
   ],
-  "catalogNs": {
-    "name": "493e9ad801e8487497fe7840cb8404bb"
-  }
+  "catalogNs": null
 }
