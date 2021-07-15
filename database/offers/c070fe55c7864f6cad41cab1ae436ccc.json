@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1264",
-      "name": "Coopération",
+      "name": "Cooperativo",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1203",
-      "name": "Multijoueur",
+      "name": "Multijugador",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1299",
-      "name": "Compétitif",
+      "name": "Competitivo",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "1205",
-      "name": "Conduite",
+      "name": "Conducción",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "1370",
-      "name": "Solo",
+      "name": "Un solo jugador",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -124,7 +124,7 @@
     },
     {
       "id": "1212",
-      "name": "Course",
+      "name": "Carreras",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
