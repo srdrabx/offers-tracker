@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "path-of-exile--aesirwarriortoaesirdemigod",
   "creationDate": "2021-07-13T23:34:45.273Z",
-  "lastModifiedDate": "2021-07-14T00:16:29.690Z",
+  "lastModifiedDate": "2021-07-15T19:32:08.627Z",
   "effectiveDate": "2021-07-15T20:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -45,37 +45,37 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/1200x1600_UpgradeAesirWarriorToAesirDemigod_1920x1080-499b3a84aa59f52da90c9569c9cca681",
-      "md5": "499b3a84aa59f52da90c9569c9cca681",
-      "size": 2696974,
-      "uploadedDate": "2021-07-13T23:39:02.687Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/1200x1600_UpgradeAesirWarriorToAesirDemigod_1920x1080-850de77a76c2143cdeb1f6b7ceabdabc",
+      "md5": "850de77a76c2143cdeb1f6b7ceabdabc",
+      "size": 2696914,
+      "uploadedDate": "2021-07-15T19:31:09.857Z",
       "width": 1920,
       "height": 1080
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/1200x1600_UpgradeAesirWarriorToAesirDemigod_1200x1600-5e9d8559aed396d43ce6f6f6d5a59ff2",
-      "md5": "5e9d8559aed396d43ce6f6f6d5a59ff2",
-      "size": 2495980,
-      "uploadedDate": "2021-07-13T23:38:52.483Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/1200x1600_UpgradeAesirWarriorToAesirDemigod_1200x1600-a1a5d29fa9aaa7d590f6db8577391b0e",
+      "md5": "a1a5d29fa9aaa7d590f6db8577391b0e",
+      "size": 2495907,
+      "uploadedDate": "2021-07-15T19:31:21.967Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/1200x1600_UpgradeAesirWarriorToAesirDemigod_1200x1600-5e9d8559aed396d43ce6f6f6d5a59ff2",
-      "md5": "5e9d8559aed396d43ce6f6f6d5a59ff2",
-      "size": 2495980,
-      "uploadedDate": "2021-07-13T23:38:49.180Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/1200x1600_UpgradeAesirWarriorToAesirDemigod_1200x1600-a1a5d29fa9aaa7d590f6db8577391b0e",
+      "md5": "a1a5d29fa9aaa7d590f6db8577391b0e",
+      "size": 2495907,
+      "uploadedDate": "2021-07-15T19:31:26.217Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/1200x1600_UpgradeAesirWarriorToAesirDemigod_1200x1600-5e9d8559aed396d43ce6f6f6d5a59ff2",
-      "md5": "5e9d8559aed396d43ce6f6f6d5a59ff2",
-      "size": 2495980,
-      "uploadedDate": "2021-07-13T23:38:45.264Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/1200x1600_UpgradeAesirWarriorToAesirDemigod_1200x1600-a1a5d29fa9aaa7d590f6db8577391b0e",
+      "md5": "a1a5d29fa9aaa7d590f6db8577391b0e",
+      "size": 2495907,
+      "uploadedDate": "2021-07-15T19:31:32.633Z",
       "width": 1200,
       "height": 1600
     }
