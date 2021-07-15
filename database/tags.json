@@ -409,7 +409,7 @@
   },
   "1190": {
     "id": "1190",
-    "name": "WAR",
+    "name": "Guerra",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -493,7 +493,7 @@
   },
   "1216": {
     "id": "1216",
-    "name": "Azione",
+    "name": "Ação",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -661,7 +661,7 @@
   },
   "1279": {
     "id": "1279",
-    "name": "Vampiri",
+    "name": "Vampiro",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -1331,7 +1331,7 @@
   },
   "15760": {
     "id": "15760",
-    "name": "Sale extension Hitman 3",
+    "name": "Prolongation de la promotion sur Hitman 3",
     "namespace": null,
     "aliases": [],
     "operator": null,
