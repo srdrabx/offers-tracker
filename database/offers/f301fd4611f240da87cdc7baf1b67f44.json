@@ -37,7 +37,7 @@
   "tags": [
     {
       "id": "1203",
-      "name": "Tryb wieloosobowy",
+      "name": "Multijogador",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -49,7 +49,7 @@
     },
     {
       "id": "1370",
-      "name": "Tryb jednego gracza",
+      "name": "Um jogador",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -61,7 +61,7 @@
     },
     {
       "id": "1115",
-      "name": "Strategiczne",
+      "name": "Estratégia",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
