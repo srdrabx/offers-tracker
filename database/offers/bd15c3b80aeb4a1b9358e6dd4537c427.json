@@ -37,7 +37,7 @@
   "tags": [
     {
       "id": "1264",
-      "name": "Coopération",
+      "name": "W trybie współpracy",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -49,7 +49,7 @@
     },
     {
       "id": "1203",
-      "name": "Multijoueur",
+      "name": "Tryb wieloosobowy",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -61,7 +61,7 @@
     },
     {
       "id": "1299",
-      "name": "Compétitif",
+      "name": "Rywalizacja",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -73,7 +73,7 @@
     },
     {
       "id": "1205",
-      "name": "Conduite",
+      "name": "Jazda autem",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
@@ -85,7 +85,7 @@
     },
     {
       "id": "1370",
-      "name": "Solo",
+      "name": "Tryb jednego gracza",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -109,7 +109,7 @@
     },
     {
       "id": "1212",
-      "name": "Course",
+      "name": "Wyścigi",
       "namespace": "epic",
       "aliases": [],
       "operator": null,

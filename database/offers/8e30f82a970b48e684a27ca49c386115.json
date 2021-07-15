@@ -37,7 +37,7 @@
   "tags": [
     {
       "id": "14944",
-      "name": "Le offerte dello Showcase",
+      "name": "The Showcase Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -49,7 +49,7 @@
     },
     {
       "id": "1393",
-      "name": "Simulazione",
+      "name": "Simulation",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -61,7 +61,7 @@
     },
     {
       "id": "1298",
-      "name": "Rompicapo",
+      "name": "Puzzle",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -73,7 +73,7 @@
     },
     {
       "id": "1370",
-      "name": "Giocatore singolo",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -85,7 +85,7 @@
     },
     {
       "id": "14346",
-      "name": "Offerte delle feste 2020",
+      "name": "Holiday Sale 2020",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -97,7 +97,7 @@
     },
     {
       "id": "1115",
-      "name": "Strategico",
+      "name": "Strategy",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -136,7 +136,7 @@
     },
     {
       "id": "15375",
-      "name": "Saldi primaverili",
+      "name": "Spring Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -227,6 +227,6 @@
     }
   ],
   "catalogNs": {
-    "name": null
+    "name": "39697c68e46b48d2b75e17bdc417d859"
   }
 }

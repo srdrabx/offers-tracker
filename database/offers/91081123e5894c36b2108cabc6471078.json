@@ -34,7 +34,7 @@
   "tags": [
     {
       "id": "1264",
-      "name": "W trybie współpracy",
+      "name": "Coopération",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -46,7 +46,7 @@
     },
     {
       "id": "1203",
-      "name": "Tryb wieloosobowy",
+      "name": "Multijoueur",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -58,7 +58,7 @@
     },
     {
       "id": "1367",
-      "name": "RPG",
+      "name": "Jeu de rôle",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -70,7 +70,7 @@
     },
     {
       "id": "1210",
-      "name": "Strzelanki",
+      "name": "Jeu de tir",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -82,7 +82,7 @@
     },
     {
       "id": "1370",
-      "name": "Tryb jednego gracza",
+      "name": "Solo",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -106,7 +106,7 @@
     },
     {
       "id": "1310",
-      "name": "Wczesny dostęp",
+      "name": "Accès anticipé",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
