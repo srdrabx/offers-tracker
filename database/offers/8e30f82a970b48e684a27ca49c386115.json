@@ -8,7 +8,7 @@
   "productSlug": "bridge-constructor-the-walking-dead/home",
   "urlSlug": "bctwd-launchaudience",
   "creationDate": "2020-09-30T17:24:28.581Z",
-  "lastModifiedDate": "2021-07-01T14:15:08.390Z",
+  "lastModifiedDate": "2021-07-15T15:13:15.418Z",
   "effectiveDate": "2020-11-19T16:00:00.000Z",
   "viewableDate": "2020-11-19T16:00:00.000Z",
   "developer": null,
@@ -25,9 +25,6 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "freegames"
-    },
-    {
       "path": "games"
     },
     {
@@ -35,9 +32,6 @@
     },
     {
       "path": "games/edition/base"
-    },
-    {
-      "path": "applications"
     }
   ],
   "tags": [

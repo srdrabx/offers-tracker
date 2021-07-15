@@ -9056,6 +9056,22 @@
     ""
   ],
   [
+    "228fd423ac1c483d8f3d8ff34b274353",
+    "5099c5ef163b4932b95e70f7298b07d5",
+    "Eiyuden Chronicle: Hundred Heroes",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "505 Games",
+    1623962613,
+    1626359724,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EiyudenChronicleHundredHeroes_RabbitBear_S4_1200x1600-9dd30785a1b2ab4f52abcfc91aa5da73",
+    "eiyuden-chronicle-hundred-heroes"
+  ],
+  [
     "22903c4c1a914754a5927b71b9d91010",
     "lotus",
     "LotusNightlyAudience",
@@ -14808,15 +14824,13 @@
     "8e56fc9fc0fb4f18af0592c74ad896ba",
     "Ironcast",
     [
-      "freegames",
       "games",
       "games/edition",
-      "games/edition/base",
-      "applications"
+      "games/edition/base"
     ],
     "Ripstone Ltd",
     1616098794,
-    1625151803,
+    1626362027,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/593cf912-972f-47e3-b135-fccf3f29d3df_1200x1600-22aef3da3e959fb2d715af7a0f6014f0",
     "ironcast"
   ],
@@ -18257,6 +18271,20 @@
     1581429280,
     1581430197,
     "",
+    ""
+  ],
+  [
+    "46a753a7dbc74d34a53137ce1d12651d",
+    "84c76746bce94effb8e1047fabfd7eb7",
+    "50,000 Doubloons",
+    [
+      "addons",
+      "addons/consumable"
+    ],
+    "Wargaming Group Limited",
+    1626317515,
+    1626362156,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_50000doubloons_Wargaming_AddOn_S2_1200x1600-cbe89ee07328f1ce59275c1886e0c733",
     ""
   ],
   [
@@ -32331,12 +32359,13 @@
       "freegames",
       "games",
       "games/edition",
+      "games/edition/base",
       "applications"
     ],
     "M2H",
     1619068391,
-    1626328253,
-    "https://s3.amazonaws.com/epic-cms-service-prod/dev-portal/0ace422f066d4084a67ce591efedc7f4/assets/8bf426af-772f-41ae-8685-b30890434fab?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIASH5VZXLEE6647FR7%2F20210715%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210715T053422Z&X-Amz-Expires=900&X-Amz-Signature=137eb66aea33003ef5480741315802707e1a233557b0fae73e10e7a32771a580&X-Amz-SignedHeaders=host",
+    1626361504,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Verdun_M2HBlackmillGames_S2_1200x1600-87b0a1a746d4e990c318a6e71ecae744",
     "verdun"
   ],
   [
@@ -36300,15 +36329,13 @@
     "39697c68e46b48d2b75e17bdc417d859",
     "Bridge Constructor The Walking Dead",
     [
-      "freegames",
       "games",
       "games/edition",
-      "games/edition/base",
-      "applications"
+      "games/edition/base"
     ],
     "Headup Gmbh",
     1601486668,
-    1625148908,
+    1626361995,
     "https://cdn1.epicgames.com/39697c68e46b48d2b75e17bdc417d859/offer/EGS_BridgeConstructorTheWalkingDead_ClockStoneSoftware_S2-1200x1600-a6fe394eb2f1d31fe4646b1539487ac3.jpg",
     "bridge-constructor-the-walking-dead/home"
   ],
