@@ -43,7 +43,7 @@
   "tags": [
     {
       "id": "1299",
-      "name": "경쟁",
+      "name": "Wettkampf",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -55,7 +55,7 @@
     },
     {
       "id": "1115",
-      "name": "전략",
+      "name": "Strategie",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -79,7 +79,7 @@
     },
     {
       "id": "1263",
-      "name": "인디",
+      "name": "Indie",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
