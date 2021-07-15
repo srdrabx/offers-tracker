@@ -10174,14 +10174,16 @@
   [
     "2737a19b80f441bd815cf11b5d4aa20c",
     "244aaaa06bfa49d088205b13b9d2d115",
-    "DLC 20",
+    "Unreal Tournament Weapon Bundle",
     [
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Digital Extremes",
     1607124276,
-    1607461277,
-    "",
+    1626324248,
+    "https://cdn1.epicgames.com/244aaaa06bfa49d088205b13b9d2d115/offer/af755ca5-7004-4505-b1b2-2e84d42a28c8-1200x1600-ea0e625c4b922564a63446c5fae6c298.jpg",
     ""
   ],
   [

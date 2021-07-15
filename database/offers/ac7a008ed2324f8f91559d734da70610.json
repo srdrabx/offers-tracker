@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1367",
-      "name": "RPG",
+      "name": "Ролевая",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "Одиночная",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
