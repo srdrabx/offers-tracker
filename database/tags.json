@@ -217,7 +217,7 @@
   },
   "1141": {
     "id": "1141",
-    "name": "Free to Play",
+    "name": "Бесплатная",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -409,7 +409,7 @@
   },
   "1190": {
     "id": "1190",
-    "name": "Guerra",
+    "name": "WAR",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -1343,7 +1343,7 @@
   },
   "15895": {
     "id": "15895",
-    "name": "《Tropico》周年特惠",
+    "name": "Tropico Anniversary Sale",
     "namespace": null,
     "aliases": [],
     "operator": null,
