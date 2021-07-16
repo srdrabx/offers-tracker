@@ -229,7 +229,7 @@
   },
   "1146": {
     "id": "1146",
-    "name": "City Builder",
+    "name": "도시 건설",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -517,7 +517,7 @@
   },
   "1220": {
     "id": "1220",
-    "name": "ZOMBIES",
+    "name": "僵尸",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -1235,7 +1235,7 @@
   },
   "15257": {
     "id": "15257",
-    "name": "Rockstar Games 特賣",
+    "name": "Ofertas Rockstar Games",
     "namespace": null,
     "aliases": [],
     "operator": null,
@@ -1259,7 +1259,7 @@
   },
   "15375": {
     "id": "15375",
-    "name": "Spring Sale",
+    "name": "Promoção de primavera",
     "namespace": null,
     "aliases": [],
     "operator": null,
