@@ -43,7 +43,7 @@
   "tags": [
     {
       "id": "1299",
-      "name": "Rywalizacja",
+      "name": "竞技",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -55,7 +55,7 @@
     },
     {
       "id": "1115",
-      "name": "Strategiczne",
+      "name": "战略",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -79,7 +79,7 @@
     },
     {
       "id": "1263",
-      "name": "Niezależne",
+      "name": "独立",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
