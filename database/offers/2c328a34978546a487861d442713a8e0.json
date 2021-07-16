@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "14944",
-      "name": "쇼케이스 세일",
+      "name": "Promoção de Apresentação",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1393",
-      "name": "Simulation",
+      "name": "Simulação",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1203",
-      "name": "Multiplayer",
+      "name": "Multijogador",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1283",
-      "name": "Sports",
+      "name": "Esportes",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "Um jogador",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "14346",
-      "name": "홀리데이 세일 2020",
+      "name": "Promoção de Fim de Ano 2020",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -124,7 +124,7 @@
     },
     {
       "id": "16011",
-      "name": "에픽 메가 세일",
+      "name": "Megapromoção da Epic",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -136,7 +136,7 @@
     },
     {
       "id": "1212",
-      "name": "Racing",
+      "name": "Corrida",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -148,7 +148,7 @@
     },
     {
       "id": "15375",
-      "name": "봄맞이 세일",
+      "name": "Promoção de primavera",
       "namespace": null,
       "aliases": [],
       "operator": null,

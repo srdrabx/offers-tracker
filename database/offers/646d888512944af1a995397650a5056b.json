@@ -37,7 +37,7 @@
   "tags": [
     {
       "id": "1218",
-      "name": "Horror",
+      "name": "恐怖",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -61,7 +61,7 @@
     },
     {
       "id": "1117",
-      "name": "Adventure",
+      "name": "冒險",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -73,7 +73,7 @@
     },
     {
       "id": "1294",
-      "name": "First Person",
+      "name": "第一人稱",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
