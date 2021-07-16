@@ -49,7 +49,7 @@
     },
     {
       "id": "1115",
-      "name": "Estrategia",
+      "name": "Strategy",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -61,7 +61,7 @@
     },
     {
       "id": "1166",
-      "name": "Construcción de imperios",
+      "name": "4X",
       "namespace": "epic",
       "aliases": null,
       "operator": null,

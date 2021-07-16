@@ -313,7 +313,7 @@
   },
   "1166": {
     "id": "1166",
-    "name": "Construcción de imperios",
+    "name": "4X",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -481,7 +481,7 @@
   },
   "1215": {
     "id": "1215",
-    "name": "POST-APOCALYPTIC",
+    "name": "Pós-Apocalíptico",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
