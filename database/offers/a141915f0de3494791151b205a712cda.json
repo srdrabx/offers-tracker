@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "14944",
-      "name": "The Showcase Sale",
+      "name": "ショーケース セール",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "シングルプレイヤー",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "14346",
-      "name": "Holiday Sale 2020",
+      "name": "2020年ホリデーセール",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "1115",
-      "name": "Strategy",
+      "name": "ストラテジー",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -112,7 +112,7 @@
     },
     {
       "id": "16011",
-      "name": "Epic MEGA Sale",
+      "name": "Epic メガセール",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -124,7 +124,7 @@
     },
     {
       "id": "1181",
-      "name": "Card Game",
+      "name": "カードゲーム",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -151,7 +151,7 @@
     },
     {
       "id": "15375",
-      "name": "Spring Sale",
+      "name": "春のセール",
       "namespace": null,
       "aliases": [],
       "operator": null,
