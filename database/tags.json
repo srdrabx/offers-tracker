@@ -409,7 +409,7 @@
   },
   "1190": {
     "id": "1190",
-    "name": "战争",
+    "name": "Wojna",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -853,7 +853,7 @@
   },
   "1333": {
     "id": "1333",
-    "name": "Action RPG",
+    "name": "Rol de acción",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -1398,7 +1398,7 @@
   },
   "16005": {
     "id": "16005",
-    "name": "STAR WARS May The 4th Sale",
+    "name": "STAR WARS: Распродажа",
     "namespace": null,
     "aliases": [],
     "operator": null,
