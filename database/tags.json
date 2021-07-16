@@ -409,7 +409,7 @@
   },
   "1190": {
     "id": "1190",
-    "name": "WAR",
+    "name": "战争",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -853,7 +853,7 @@
   },
   "1333": {
     "id": "1333",
-    "name": "GDR d'azione",
+    "name": "Action RPG",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -1235,7 +1235,7 @@
   },
   "15257": {
     "id": "15257",
-    "name": "Rockstar Games 特賣",
+    "name": "Rockstar Games Sale",
     "namespace": null,
     "aliases": [],
     "operator": null,
