@@ -517,7 +517,7 @@
   },
   "1220": {
     "id": "1220",
-    "name": "ZOMBIES",
+    "name": "Зомби",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -937,7 +937,7 @@
   },
   "1349": {
     "id": "1349",
-    "name": "Динамичная",
+    "name": "Rasant",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
