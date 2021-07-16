@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1393",
-      "name": "Simulação",
+      "name": "Simulation",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1203",
-      "name": "Multijogador",
+      "name": "Multiplayer",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1283",
-      "name": "Esportes",
+      "name": "Sports",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1370",
-      "name": "Um jogador",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "1212",
-      "name": "Corrida",
+      "name": "Racing",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -168,7 +168,5 @@
       "id": "8d83dc41a4334389b4423124ddecac9f"
     }
   ],
-  "catalogNs": {
-    "name": "9cf250606722448887fa1447b1d9da06"
-  }
+  "catalogNs": null
 }

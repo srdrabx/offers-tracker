@@ -37,7 +37,7 @@
   "tags": [
     {
       "id": "1264",
-      "name": "협동",
+      "name": "協力プレイ",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -49,7 +49,7 @@
     },
     {
       "id": "1203",
-      "name": "멀티플레이어",
+      "name": "マルチプレイヤー",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -73,7 +73,7 @@
     },
     {
       "id": "1210",
-      "name": "슈팅",
+      "name": "シューター",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -85,7 +85,7 @@
     },
     {
       "id": "1370",
-      "name": "싱글 플레이어",
+      "name": "シングルプレイヤー",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -109,7 +109,7 @@
     },
     {
       "id": "1310",
-      "name": "얼리 액세스",
+      "name": "早期アクセス",
       "namespace": "epic",
       "aliases": null,
       "operator": null,

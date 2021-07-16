@@ -361,7 +361,7 @@
   },
   "1181": {
     "id": "1181",
-    "name": "Jeu de cartes",
+    "name": "Card Game",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -481,7 +481,7 @@
   },
   "1215": {
     "id": "1215",
-    "name": "POST-APOCALYPTIC",
+    "name": "Pós-Apocalíptico",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -937,7 +937,7 @@
   },
   "1349": {
     "id": "1349",
-    "name": "De ritmo rápido",
+    "name": "FAST-PACED",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -1343,7 +1343,7 @@
   },
   "15895": {
     "id": "15895",
-    "name": "Tropico Anniversary Sale",
+    "name": "Rebajas de aniversario de Tropico",
     "namespace": null,
     "aliases": [],
     "operator": null,
