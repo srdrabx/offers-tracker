@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1344",
-      "name": "Fighting",
+      "name": "Lucha",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1216",
-      "name": "Action",
+      "name": "Acción",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "Para un solo jugador",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "1084",
-      "name": "Stealth",
+      "name": "Sigilo",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
