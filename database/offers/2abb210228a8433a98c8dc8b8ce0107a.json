@@ -37,7 +37,7 @@
   "tags": [
     {
       "id": "1393",
-      "name": "Simulation",
+      "name": "Simulación",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -61,7 +61,7 @@
     },
     {
       "id": "1212",
-      "name": "Racing",
+      "name": "Carreras",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
