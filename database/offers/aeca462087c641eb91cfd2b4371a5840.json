@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1218",
-      "name": "恐怖",
+      "name": "Horror",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1203",
-      "name": "多人游戏",
+      "name": "Multiplayer",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1258",
-      "name": "Rogue-like",
+      "name": "Rogue-Like",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1370",
-      "name": "单人游戏",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "1084",
-      "name": "潜行",
+      "name": "Stealth",
       "namespace": "epic",
       "aliases": [],
       "operator": null,

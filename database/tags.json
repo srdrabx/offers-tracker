@@ -409,7 +409,7 @@
   },
   "1190": {
     "id": "1190",
-    "name": "WAR",
+    "name": "Savaş",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -1398,7 +1398,7 @@
   },
   "16005": {
     "id": "16005",
-    "name": "STAR WARS: Promoção",
+    "name": "STAR WARS May The 4th Sale",
     "namespace": null,
     "aliases": [],
     "operator": null,
