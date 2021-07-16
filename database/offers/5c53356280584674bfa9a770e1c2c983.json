@@ -37,7 +37,7 @@
   "tags": [
     {
       "id": "14944",
-      "name": "Schaufenster-Sale",
+      "name": "The Showcase Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -49,7 +49,7 @@
     },
     {
       "id": "14346",
-      "name": "Feiertagsangebote 2020",
+      "name": "Holiday Sale 2020",
       "namespace": null,
       "aliases": [],
       "operator": null,
