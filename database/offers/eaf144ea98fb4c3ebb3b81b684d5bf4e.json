@@ -37,7 +37,7 @@
   "tags": [
     {
       "id": "1203",
-      "name": "Multiplayer",
+      "name": "Mehrspieler",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -61,7 +61,7 @@
     },
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "Einzelspieler",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -73,7 +73,7 @@
     },
     {
       "id": "1307",
-      "name": "Open World",
+      "name": "Open-World",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -97,7 +97,7 @@
     },
     {
       "id": "9549",
-      "name": "Controller Support",
+      "name": "Für Controller",
       "namespace": "epic",
       "aliases": [],
       "operator": null,

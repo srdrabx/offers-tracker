@@ -37,7 +37,7 @@
   "tags": [
     {
       "id": "1203",
-      "name": "Tryb wieloosobowy",
+      "name": "Multiplayer",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -49,7 +49,7 @@
     },
     {
       "id": "1141",
-      "name": "Gry free-to-play",
+      "name": "Free to Play",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -73,7 +73,7 @@
     },
     {
       "id": "9549",
-      "name": "Obsługa kontrolera",
+      "name": "Controller Support",
       "namespace": "epic",
       "aliases": [],
       "operator": null,

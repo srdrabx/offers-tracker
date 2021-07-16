@@ -253,7 +253,7 @@
   },
   "1151": {
     "id": "1151",
-    "name": "Plateformes",
+    "name": "Platformer",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -289,7 +289,7 @@
   },
   "1160": {
     "id": "1160",
-    "name": "Skate",
+    "name": "SKATEBOARDING",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -937,7 +937,7 @@
   },
   "1349": {
     "id": "1349",
-    "name": "FAST-PACED",
+    "name": "Динамичная",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -973,7 +973,7 @@
   },
   "1367": {
     "id": "1367",
-    "name": "Ролевая",
+    "name": "RPG",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
