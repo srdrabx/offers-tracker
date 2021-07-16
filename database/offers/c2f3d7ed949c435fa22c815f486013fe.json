@@ -37,7 +37,7 @@
   "tags": [
     {
       "id": "1216",
-      "name": "Action",
+      "name": "액션",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -61,7 +61,7 @@
     },
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "싱글 플레이어",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -97,7 +97,7 @@
     },
     {
       "id": "1341",
-      "name": "Supernatural",
+      "name": "초자연",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -109,7 +109,7 @@
     },
     {
       "id": "1117",
-      "name": "Adventure",
+      "name": "어드벤처",
       "namespace": "epic",
       "aliases": [],
       "operator": null,

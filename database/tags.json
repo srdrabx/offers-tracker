@@ -253,7 +253,7 @@
   },
   "1151": {
     "id": "1151",
-    "name": "Platformer",
+    "name": "Plateformes",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -973,7 +973,7 @@
   },
   "1367": {
     "id": "1367",
-    "name": "Rol",
+    "name": "Ролевая",
     "namespace": "epic",
     "aliases": [],
     "operator": null,

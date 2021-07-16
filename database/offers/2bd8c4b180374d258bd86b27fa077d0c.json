@@ -76,7 +76,7 @@
     },
     {
       "id": "1283",
-      "name": "Sports",
+      "name": "Esportes",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "1321",
-      "name": "GREAT SOUNDTRACK",
+      "name": "Trilha Sonora Incrível",
       "namespace": "epic",
       "aliases": null,
       "operator": null,

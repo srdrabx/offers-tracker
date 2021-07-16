@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1216",
-      "name": "Azione",
+      "name": "Acción",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1203",
-      "name": "Multigiocatore",
+      "name": "Multiplayer",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "1210",
-      "name": "Sparatutto",
+      "name": "Disparos",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "1370",
-      "name": "Giocatore singolo",
+      "name": "Para un solo jugador",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -124,7 +124,7 @@
     },
     {
       "id": "9549",
-      "name": "Supporto controller",
+      "name": "Controller Support",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -136,7 +136,7 @@
     },
     {
       "id": "1294",
-      "name": "In prima persona",
+      "name": "Primera persona",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
