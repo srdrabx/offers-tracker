@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1381",
-      "name": "探索",
+      "name": "Exploration",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1117",
-      "name": "冒险",
+      "name": "Adventure",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "9549",
-      "name": "控制器支持",
+      "name": "Controller Support",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "1263",
-      "name": "独立",
+      "name": "Indie",
       "namespace": "epic",
       "aliases": [],
       "operator": null,

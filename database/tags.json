@@ -409,7 +409,7 @@
   },
   "1190": {
     "id": "1190",
-    "name": "Savaş",
+    "name": "WAR",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -493,7 +493,7 @@
   },
   "1216": {
     "id": "1216",
-    "name": "Action",
+    "name": "Akcja",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -661,7 +661,7 @@
   },
   "1279": {
     "id": "1279",
-    "name": "Vampire",
+    "name": "Wampiry",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -769,7 +769,7 @@
   },
   "1299": {
     "id": "1299",
-    "name": "Competitive",
+    "name": "Rywalizacja",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -853,7 +853,7 @@
   },
   "1333": {
     "id": "1333",
-    "name": "Action RPG",
+    "name": "액션 RPG",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -1211,7 +1211,7 @@
   },
   "14917": {
     "id": "14917",
-    "name": "Deep Silver 發行商特賣",
+    "name": "Deep Silver Publisher Sale",
     "namespace": null,
     "aliases": [],
     "operator": null,
