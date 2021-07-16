@@ -229,7 +229,7 @@
   },
   "1146": {
     "id": "1146",
-    "name": "City Builder",
+    "name": "Construcción de ciudades",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -409,7 +409,7 @@
   },
   "1190": {
     "id": "1190",
-    "name": "WAR",
+    "name": "Guerra",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -517,7 +517,7 @@
   },
   "1220": {
     "id": "1220",
-    "name": "ZOMBIES",
+    "name": "僵尸",
     "namespace": "epic",
     "aliases": null,
     "operator": null,

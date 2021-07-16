@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "14944",
-      "name": "The Showcase Sale",
+      "name": "쇼케이스 세일",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1080",
-      "name": "Survival",
+      "name": "생존",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1146",
-      "name": "City Builder",
+      "name": "도시 건설",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "싱글 플레이어",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "14346",
-      "name": "Holiday Sale 2020",
+      "name": "홀리데이 세일 2020",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "1115",
-      "name": "Strategy",
+      "name": "전략",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -124,7 +124,7 @@
     },
     {
       "id": "16187",
-      "name": "PDXCON 2021 Sale",
+      "name": "PDXCON 2021 할인",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -136,7 +136,7 @@
     },
     {
       "id": "16011",
-      "name": "Epic MEGA Sale",
+      "name": "에픽 메가 세일",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -148,7 +148,7 @@
     },
     {
       "id": "9549",
-      "name": "Controller Support",
+      "name": "컨트롤러 지원",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -160,7 +160,7 @@
     },
     {
       "id": "15375",
-      "name": "Spring Sale",
+      "name": "봄맞이 세일",
       "namespace": null,
       "aliases": [],
       "operator": null,
