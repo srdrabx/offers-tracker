@@ -37,7 +37,7 @@
   "tags": [
     {
       "id": "1216",
-      "name": "Action",
+      "name": "Экшен",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -49,7 +49,7 @@
     },
     {
       "id": "1203",
-      "name": "Multiplayer",
+      "name": "Многопользовательская",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -61,7 +61,7 @@
     },
     {
       "id": "1336",
-      "name": "Action-Adventure",
+      "name": "Приключенческий боевик",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
