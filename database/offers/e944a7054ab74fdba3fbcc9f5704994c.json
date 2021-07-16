@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1393",
-      "name": "Simulación",
+      "name": "Simulation",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1400",
-      "name": "Física",
+      "name": "Physics",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1370",
-      "name": "Un solo jugador",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1115",
-      "name": "Estrategia",
+      "name": "Strategy",
       "namespace": "epic",
       "aliases": [],
       "operator": null,

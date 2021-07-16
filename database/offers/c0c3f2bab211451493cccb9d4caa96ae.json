@@ -8,9 +8,9 @@
   "productSlug": null,
   "urlSlug": "spellforce-3-soul-harvest--digital-extras",
   "creationDate": "2020-11-11T17:35:17.940Z",
-  "lastModifiedDate": "2020-11-11T17:40:27.626Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2021-07-16T16:05:06.857Z",
+  "effectiveDate": "2021-07-16T16:00:00.000Z",
+  "viewableDate": "2021-07-16T16:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
@@ -25,31 +25,16 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "addons"
+      "path": "digitalextras/book"
     },
     {
-      "path": "games"
+      "path": "digitalextras"
     },
     {
-      "path": "addons/durable"
-    },
-    {
-      "path": "applications"
+      "path": "digitalextras/soundtrack"
     }
   ],
   "tags": [
-    {
-      "id": "1233",
-      "name": "Base-Building",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:14.176Z",
-      "updated": "2021-02-05T16:11:41.048Z",
-      "status": "ACTIVE",
-      "referenceCount": 1,
-      "comment": null
-    },
     {
       "id": "1203",
       "name": "Multiplayer",
@@ -97,6 +82,30 @@
       "status": "ACTIVE",
       "referenceCount": 33,
       "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-04-27T08:10:34.554Z",
+      "updated": "2021-06-21T17:02:31.156Z",
+      "status": "ACTIVE",
+      "referenceCount": 741,
+      "comment": ""
     }
   ],
   "customAttributes": [
@@ -174,5 +183,7 @@
       "id": "0544dea24f70423a8f43328cfc51cf7e"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "70fa3dd4efb549f9a09f1fc019d8e751"
+  }
 }

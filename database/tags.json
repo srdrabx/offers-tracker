@@ -289,7 +289,7 @@
   },
   "1160": {
     "id": "1160",
-    "name": "SKATEBOARDING",
+    "name": "Skate",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -973,7 +973,7 @@
   },
   "1367": {
     "id": "1367",
-    "name": "RPG",
+    "name": "Rol",
     "namespace": "epic",
     "aliases": [],
     "operator": null,

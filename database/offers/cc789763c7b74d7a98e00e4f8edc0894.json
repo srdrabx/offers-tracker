@@ -8,9 +8,9 @@
   "productSlug": "spellforce-3-soul-harvest/home",
   "urlSlug": "lithiumgeneralaudience",
   "creationDate": "2020-11-11T17:03:56.664Z",
-  "lastModifiedDate": "2020-11-11T17:40:27.574Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2021-07-16T16:04:49.268Z",
+  "effectiveDate": "2021-07-16T16:00:00.000Z",
+  "viewableDate": "2021-07-16T16:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
@@ -32,32 +32,17 @@
     },
     {
       "path": "games/edition/base"
-    },
-    {
-      "path": "applications"
     }
   ],
   "tags": [
     {
-      "id": "1233",
-      "name": "BASE-BUILDING",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:14.176Z",
-      "updated": "2020-05-13T21:05:17.873Z",
-      "status": "ACTIVE",
-      "referenceCount": 1,
-      "comment": null
-    },
-    {
       "id": "1203",
-      "name": "MULTIPLAYER",
+      "name": "Multiplayer",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2020-12-15T01:44:09.654Z",
+      "updated": "2021-02-10T17:35:33.537Z",
       "status": "ACTIVE",
       "referenceCount": 46,
       "comment": null
@@ -76,26 +61,38 @@
     },
     {
       "id": "1370",
-      "name": "SINGLEPLAYER",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-12-15T01:43:50.926Z",
+      "updated": "2021-02-10T17:36:35.389Z",
       "status": "ACTIVE",
       "referenceCount": 195,
       "comment": null
     },
     {
       "id": "1115",
-      "name": "STRATEGY",
+      "name": "Strategy",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2020-12-15T01:46:50.820Z",
+      "updated": "2021-02-10T17:35:11.878Z",
       "status": "ACTIVE",
       "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
       "comment": null
     }
   ],
@@ -178,5 +175,7 @@
       "id": "c012d45524e6418b9ef085337de1dcf2"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "70fa3dd4efb549f9a09f1fc019d8e751"
+  }
 }

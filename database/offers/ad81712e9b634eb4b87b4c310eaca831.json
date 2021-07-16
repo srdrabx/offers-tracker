@@ -31,7 +31,7 @@
   "tags": [
     {
       "id": "1344",
-      "name": "Fighting",
+      "name": "Файтинг",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -43,7 +43,7 @@
     },
     {
       "id": "1203",
-      "name": "Multiplayer",
+      "name": "Многопользовательская",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -67,7 +67,7 @@
     },
     {
       "id": "1294",
-      "name": "First Person",
+      "name": "От первого лица",
       "namespace": "epic",
       "aliases": [],
       "operator": null,

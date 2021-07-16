@@ -4117,13 +4117,12 @@
     "Darksiders Genesis",
     [
       "games",
-      "games/edition",
       "games/edition/base",
-      "applications"
+      "games/edition"
     ],
     "THQ Nordic GmbH",
     1589911287,
-    1605111447,
+    1626451536,
     "https://cdn1.epicgames.com/9bcf72043732431397782f3a32efbbd5/offer/EGS_DarksidersGenesis_AirshipSyndicate_S2-1200x1600-7d9136a9cc2b8a14acd44e7b68b923fe.jpg",
     "darksiders-genesis/home"
   ],
@@ -21209,13 +21208,13 @@
     "9bcf72043732431397782f3a32efbbd5",
     "Darksiders Genesis Digital Extras",
     [
-      "addons",
-      "addons/durable",
-      "applications"
+      "digitalextras/book",
+      "digitalextras",
+      "digitalextras/soundtrack"
     ],
     "THQ Nordic GmbH",
     1605110648,
-    1605115970,
+    1626451554,
     "https://cdn1.epicgames.com/9bcf72043732431397782f3a32efbbd5/offer/EGS_DarksidersGenesisDigitalExtras_AirshipSyndicate_DigitalExtras_S2-1200x1600-554d5378b7c677c5bfb010d6e02bda96.jpg",
     ""
   ],
@@ -49899,14 +49898,13 @@
     "70fa3dd4efb549f9a09f1fc019d8e751",
     "SpellForce 3: Soul Harvest Digital Extras",
     [
-      "addons",
-      "games",
-      "addons/durable",
-      "applications"
+      "digitalextras/book",
+      "digitalextras",
+      "digitalextras/soundtrack"
     ],
     "THQ Nordic GmbH",
     1605116117,
-    1605116427,
+    1626451506,
     "https://cdn1.epicgames.com/70fa3dd4efb549f9a09f1fc019d8e751/offer/EGS_SpellForce3SoulHarvestDigitalExtras_GrimloreGames_DigitalExtras_S2-1200x1600-4f202b6cec4b9acf1a67637051815eae.jpg",
     ""
   ],
@@ -52883,12 +52881,11 @@
     [
       "games",
       "games/edition",
-      "games/edition/base",
-      "applications"
+      "games/edition/base"
     ],
     "THQ Nordic GmbH",
     1605114236,
-    1605116427,
+    1626451489,
     "https://cdn1.epicgames.com/70fa3dd4efb549f9a09f1fc019d8e751/offer/EGS_SpellForce3SoulHarvest_GrimloreGames_S2-1200x1600-ee36cca63cdc2bf50da4777c69932f0c.jpg",
     "spellforce-3-soul-harvest/home"
   ],
