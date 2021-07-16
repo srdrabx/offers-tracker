@@ -409,7 +409,7 @@
   },
   "1190": {
     "id": "1190",
-    "name": "Guerra",
+    "name": "WAR",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -709,7 +709,7 @@
   },
   "1287": {
     "id": "1287",
-    "name": "Фэнтези",
+    "name": "Fantasy",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -877,7 +877,7 @@
   },
   "1341": {
     "id": "1341",
-    "name": "Сверхъестественное",
+    "name": "Supernatural",
     "namespace": "epic",
     "aliases": [],
     "operator": null,

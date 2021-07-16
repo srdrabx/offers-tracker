@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1203",
-      "name": "Multiplayer",
+      "name": "Multijogador",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "16011",
-      "name": "Epic MEGA Sale",
+      "name": "Megapromoção da Epic",
       "namespace": null,
       "aliases": [],
       "operator": null,
