@@ -37,7 +37,7 @@
   "tags": [
     {
       "id": "1216",
-      "name": "动作",
+      "name": "Action",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -49,7 +49,7 @@
     },
     {
       "id": "1121",
-      "name": "太空",
+      "name": "SPACE",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
@@ -61,7 +61,7 @@
     },
     {
       "id": "1281",
-      "name": "空间模拟",
+      "name": "Space Sim",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -73,7 +73,7 @@
     },
     {
       "id": "1203",
-      "name": "多人游戏",
+      "name": "Multiplayer",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -97,7 +97,7 @@
     },
     {
       "id": "1370",
-      "name": "单人游戏",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
