@@ -229,7 +229,7 @@
   },
   "1146": {
     "id": "1146",
-    "name": "City Builder",
+    "name": "城市建造",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -409,7 +409,7 @@
   },
   "1190": {
     "id": "1190",
-    "name": "Wojna",
+    "name": "WAR",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -853,7 +853,7 @@
   },
   "1333": {
     "id": "1333",
-    "name": "Rol de acción",
+    "name": "Action RPG",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -1398,7 +1398,7 @@
   },
   "16005": {
     "id": "16005",
-    "name": "STAR WARS: Распродажа",
+    "name": "STAR WARS May The 4th Sale",
     "namespace": null,
     "aliases": [],
     "operator": null,

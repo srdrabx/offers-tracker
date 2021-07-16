@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1216",
-      "name": "Action",
+      "name": "أكشن",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1203",
-      "name": "Multiplayer",
+      "name": "متعددة اللاعبين",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1367",
-      "name": "RPG",
+      "name": "تقمص أدوار",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "15375",
-      "name": "Spring Sale",
+      "name": "تخفيضات الربيع",
       "namespace": null,
       "aliases": [],
       "operator": null,
