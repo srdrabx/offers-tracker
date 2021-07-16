@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1218",
-      "name": "Terror",
+      "name": "Horror",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1370",
-      "name": "Um jogador",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1117",
-      "name": "Aventura",
+      "name": "Adventure",
       "namespace": "epic",
       "aliases": [],
       "operator": null,

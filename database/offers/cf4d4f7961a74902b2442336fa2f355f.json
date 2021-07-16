@@ -64,7 +64,7 @@
     },
     {
       "id": "1370",
-      "name": "Einzelspieler",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "1117",
-      "name": "Abenteuer",
+      "name": "Adventure",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -156,7 +156,5 @@
       "id": "d6edab6f34af4062aab05d0ef66c8832"
     }
   ],
-  "catalogNs": {
-    "name": "ark"
-  }
+  "catalogNs": null
 }
