@@ -217,7 +217,7 @@
   },
   "1141": {
     "id": "1141",
-    "name": "Бесплатная",
+    "name": "Gratuito",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -361,7 +361,7 @@
   },
   "1181": {
     "id": "1181",
-    "name": "Card Game",
+    "name": "Карточная игра",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
