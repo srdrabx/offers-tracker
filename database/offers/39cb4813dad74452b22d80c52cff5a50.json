@@ -43,7 +43,7 @@
     },
     {
       "id": "1203",
-      "name": "Multiplayer",
+      "name": "Mehrspieler",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -55,7 +55,7 @@
     },
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "Einzelspieler",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -91,7 +91,7 @@
     },
     {
       "id": "1279",
-      "name": "Vampire",
+      "name": "Vampir",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -103,7 +103,7 @@
     },
     {
       "id": "15375",
-      "name": "Spring Sale",
+      "name": "Frühlings-Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,

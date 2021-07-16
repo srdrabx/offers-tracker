@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1216",
-      "name": "액션",
+      "name": "Acción",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1203",
-      "name": "Multiplayer",
+      "name": "Multijugador",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1141",
-      "name": "무료",
+      "name": "Gratuito",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "1210",
-      "name": "슈팅",
+      "name": "Disparos",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "1370",
-      "name": "싱글 플레이어",
+      "name": "Un solo jugador",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -124,7 +124,7 @@
     },
     {
       "id": "9549",
-      "name": "컨트롤러 지원",
+      "name": "Controller Support",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -136,7 +136,7 @@
     },
     {
       "id": "1294",
-      "name": "1인칭",
+      "name": "Primera persona",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
