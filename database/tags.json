@@ -481,7 +481,7 @@
   },
   "1215": {
     "id": "1215",
-    "name": "POST-APOCALYPTIC",
+    "name": "Post-apocalyptique",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -517,7 +517,7 @@
   },
   "1220": {
     "id": "1220",
-    "name": "ZOMBIES",
+    "name": "Зомби",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
