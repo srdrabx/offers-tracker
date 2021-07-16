@@ -34,7 +34,7 @@
   "tags": [
     {
       "id": "1264",
-      "name": "協力プレイ",
+      "name": "Кооперативная",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -46,7 +46,7 @@
     },
     {
       "id": "1203",
-      "name": "マルチプレイヤー",
+      "name": "Многопользовательская",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -58,7 +58,7 @@
     },
     {
       "id": "1367",
-      "name": "RPG",
+      "name": "Ролевая",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -70,7 +70,7 @@
     },
     {
       "id": "1210",
-      "name": "シューター",
+      "name": "Шутер",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -82,7 +82,7 @@
     },
     {
       "id": "1370",
-      "name": "シングルプレイヤー",
+      "name": "Одиночная",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -106,7 +106,7 @@
     },
     {
       "id": "1310",
-      "name": "早期アクセス",
+      "name": "Ранний доступ",
       "namespace": "epic",
       "aliases": null,
       "operator": null,

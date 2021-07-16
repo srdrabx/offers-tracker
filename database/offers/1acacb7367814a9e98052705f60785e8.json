@@ -34,7 +34,7 @@
   "tags": [
     {
       "id": "1344",
-      "name": "전투",
+      "name": "格斗",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -46,7 +46,7 @@
     },
     {
       "id": "1203",
-      "name": "멀티플레이어",
+      "name": "多人游戏",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -70,7 +70,7 @@
     },
     {
       "id": "1294",
-      "name": "1인칭",
+      "name": "第一人称",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
