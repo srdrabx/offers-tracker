@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1298",
-      "name": "Puzzle",
+      "name": "解密",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "单人游戏",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -91,7 +91,7 @@
     },
     {
       "id": "1102",
-      "name": "Programming",
+      "name": "编程",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -103,7 +103,7 @@
     },
     {
       "id": "1263",
-      "name": "Indie",
+      "name": "独立",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -115,7 +115,7 @@
     },
     {
       "id": "15375",
-      "name": "Spring Sale",
+      "name": "春季特惠",
       "namespace": null,
       "aliases": [],
       "operator": null,
