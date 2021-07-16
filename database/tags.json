@@ -301,7 +301,7 @@
   },
   "1164": {
     "id": "1164",
-    "name": "TEAM-BASED",
+    "name": "基于团队",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -409,7 +409,7 @@
   },
   "1190": {
     "id": "1190",
-    "name": "Война",
+    "name": "WAR",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -493,7 +493,7 @@
   },
   "1216": {
     "id": "1216",
-    "name": "Action",
+    "name": "Akcja",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -553,7 +553,7 @@
   },
   "1234": {
     "id": "1234",
-    "name": "PVP",
+    "name": "玩家对玩家",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -661,7 +661,7 @@
   },
   "1279": {
     "id": "1279",
-    "name": "Vampire",
+    "name": "Wampiry",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -769,7 +769,7 @@
   },
   "1299": {
     "id": "1299",
-    "name": "Competitive",
+    "name": "Rywalizacja",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
