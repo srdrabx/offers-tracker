@@ -52,7 +52,7 @@
     },
     {
       "id": "1283",
-      "name": "Sports",
+      "name": "Спортивная",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "1141",
-      "name": "Free to Play",
+      "name": "Бесплатная",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
