@@ -43,7 +43,7 @@
   "tags": [
     {
       "id": "1298",
-      "name": "Головоломка",
+      "name": "Puzzle",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -55,7 +55,7 @@
     },
     {
       "id": "1370",
-      "name": "Одиночная",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -67,7 +67,7 @@
     },
     {
       "id": "1115",
-      "name": "Стратегия",
+      "name": "Strategy",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -91,7 +91,7 @@
     },
     {
       "id": "1117",
-      "name": "Приключение",
+      "name": "Adventure",
       "namespace": "epic",
       "aliases": [],
       "operator": null,

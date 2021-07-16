@@ -301,7 +301,7 @@
   },
   "1164": {
     "id": "1164",
-    "name": "TEAM-BASED",
+    "name": "Por equipos",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -481,7 +481,7 @@
   },
   "1215": {
     "id": "1215",
-    "name": "Pós-Apocalíptico",
+    "name": "POST-APOCALYPTIC",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -553,7 +553,7 @@
   },
   "1234": {
     "id": "1234",
-    "name": "PVP",
+    "name": "JcJ",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -1235,7 +1235,7 @@
   },
   "15257": {
     "id": "15257",
-    "name": "Rockstar Games Sale",
+    "name": "Promoção Rockstar Games",
     "namespace": null,
     "aliases": [],
     "operator": null,
@@ -1331,7 +1331,7 @@
   },
   "15760": {
     "id": "15760",
-    "name": "Sale extension Hitman 3",
+    "name": "Hitman 3 – przedłużenie wyprzedaży",
     "namespace": null,
     "aliases": [],
     "operator": null,
