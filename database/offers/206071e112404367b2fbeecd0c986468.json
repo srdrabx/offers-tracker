@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "14944",
-      "name": "تخفيضات المعرض",
+      "name": "The Showcase Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1395",
-      "name": "سرد",
+      "name": "Narration",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1127",
-      "name": "تحقيقات",
+      "name": "Investigation",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "16011",
-      "name": "هائلة من تخفيضات Epic",
+      "name": "Epic MEGA Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "1117",
-      "name": "مغامرة",
+      "name": "Adventure",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -112,7 +112,7 @@
     },
     {
       "id": "15375",
-      "name": "تخفيضات الربيع",
+      "name": "Spring Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
