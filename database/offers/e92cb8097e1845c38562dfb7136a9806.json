@@ -43,7 +43,7 @@
   "tags": [
     {
       "id": "1381",
-      "name": "Keşif",
+      "name": "Exploration",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -55,7 +55,7 @@
     },
     {
       "id": "1080",
-      "name": "Hayatta Kalma",
+      "name": "Survival",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -67,7 +67,7 @@
     },
     {
       "id": "1370",
-      "name": "Tek Oyunculu",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -91,7 +91,7 @@
     },
     {
       "id": "1307",
-      "name": "Açık Dünya",
+      "name": "Open World",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -103,7 +103,7 @@
     },
     {
       "id": "9549",
-      "name": "Kumanda Desteği",
+      "name": "Controller Support",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -175,7 +175,5 @@
       "id": "05ab5e75e1cb4e4aa33b704ff9b25ba3"
     }
   ],
-  "catalogNs": {
-    "name": "amaranth"
-  }
+  "catalogNs": null
 }

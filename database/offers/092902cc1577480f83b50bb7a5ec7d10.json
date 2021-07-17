@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1216",
-      "name": "Action",
+      "name": "动作",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1400",
-      "name": "Physics",
+      "name": "物理",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "单人游戏",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "1307",
-      "name": "Open World",
+      "name": "开放世界",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "15375",
-      "name": "Spring Sale",
+      "name": "春季特惠",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -159,7 +159,5 @@
       "id": "e132c2dd11224087aec09970a1e86b97"
     }
   ],
-  "catalogNs": {
-    "name": "ba8062bdcc1342c0b78743e3c6242575"
-  }
+  "catalogNs": null
 }

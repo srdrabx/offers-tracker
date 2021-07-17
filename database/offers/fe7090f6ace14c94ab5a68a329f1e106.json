@@ -37,7 +37,7 @@
   "tags": [
     {
       "id": "16011",
-      "name": "Epic MEGA Sale",
+      "name": "Epic 大特賣",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -49,7 +49,7 @@
     },
     {
       "id": "15375",
-      "name": "Spring Sale",
+      "name": "春季特惠",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -119,7 +119,5 @@
       "id": "52fe48f721cc4137ac3f2e94e303435d"
     }
   ],
-  "catalogNs": {
-    "name": "ecebf45065bc4993abfe0e84c40ff18e"
-  }
+  "catalogNs": null
 }
