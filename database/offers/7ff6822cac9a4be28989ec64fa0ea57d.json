@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1088",
-      "name": "Turn-Based Strategy",
+      "name": "Пошаговая стратегия",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "14944",
-      "name": "The Showcase Sale",
+      "name": "Распродажа показа",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "16004",
-      "name": "Weeklong Deals",
+      "name": "Предложения на неделю",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1386",
-      "name": "Turn-Based",
+      "name": "Пошаговая",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "14346",
-      "name": "Holiday Sale 2020",
+      "name": "Праздничная распродажа 2020",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -112,7 +112,7 @@
     },
     {
       "id": "16011",
-      "name": "Epic MEGA Sale",
+      "name": "Мегараспродажа Epic",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -136,7 +136,7 @@
     },
     {
       "id": "15375",
-      "name": "Spring Sale",
+      "name": "Весенняя распродажа",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -148,7 +148,7 @@
     },
     {
       "id": "1203",
-      "name": "Multiplayer",
+      "name": "Многопользовательская",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -160,7 +160,7 @@
     },
     {
       "id": "14869",
-      "name": "2K Publisher Sale",
+      "name": "Распродажа издателя 2K",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -172,7 +172,7 @@
     },
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "Одиночная",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -184,7 +184,7 @@
     },
     {
       "id": "1115",
-      "name": "Strategy",
+      "name": "Стратегия",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
