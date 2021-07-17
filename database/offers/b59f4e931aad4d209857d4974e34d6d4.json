@@ -37,7 +37,7 @@
   "tags": [
     {
       "id": "1370",
-      "name": "Tek Oyunculu",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -61,7 +61,7 @@
     },
     {
       "id": "1132",
-      "name": "Bilim Kurgu",
+      "name": "SCI-FI",
       "namespace": "epic",
       "aliases": null,
       "operator": null,

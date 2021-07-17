@@ -46,7 +46,7 @@
     },
     {
       "id": "1264",
-      "name": "Coopération",
+      "name": "Co-op",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -70,7 +70,7 @@
     },
     {
       "id": "1203",
-      "name": "Multijoueur",
+      "name": "Multiplayer",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -94,7 +94,7 @@
     },
     {
       "id": "1115",
-      "name": "Stratégie",
+      "name": "Strategy",
       "namespace": "epic",
       "aliases": [],
       "operator": null,

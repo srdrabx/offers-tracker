@@ -52,7 +52,7 @@
     },
     {
       "id": "1203",
-      "name": "多人游戏",
+      "name": "Mehrspieler",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1156",
-      "name": "大逃杀",
+      "name": "Battle Royale",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
