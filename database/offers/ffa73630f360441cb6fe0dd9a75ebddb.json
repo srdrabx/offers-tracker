@@ -52,7 +52,7 @@
     },
     {
       "id": "1386",
-      "name": "Tour par tour",
+      "name": "Turn-Based",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1115",
-      "name": "Stratégie",
+      "name": "Strategy",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
