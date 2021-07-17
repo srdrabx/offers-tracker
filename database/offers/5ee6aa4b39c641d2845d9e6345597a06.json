@@ -37,7 +37,7 @@
   "tags": [
     {
       "id": "14346",
-      "name": "Holiday Sale 2020",
+      "name": "Yılbaşı Tatili İndirimi 2020",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -49,7 +49,7 @@
     },
     {
       "id": "16011",
-      "name": "Epic MEGA Sale",
+      "name": "Epic MEGA İndirim",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -61,7 +61,7 @@
     },
     {
       "id": "15375",
-      "name": "Spring Sale",
+      "name": "BAHAR İNDİRİMİ",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -140,5 +140,7 @@
       "id": "d1b64a07a1334a54a51151902f9fe029"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "impala"
+  }
 }

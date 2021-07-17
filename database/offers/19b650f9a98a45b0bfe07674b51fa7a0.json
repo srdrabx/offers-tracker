@@ -76,7 +76,7 @@
     },
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "Solo",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -124,7 +124,7 @@
     },
     {
       "id": "1132",
-      "name": "SCI-FI",
+      "name": "Science-fiction",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
@@ -226,5 +226,7 @@
       "id": "f36085249f784d919993008b89a9c13b"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "95d0b9561be1464cb43bd029e94cf526"
+  }
 }

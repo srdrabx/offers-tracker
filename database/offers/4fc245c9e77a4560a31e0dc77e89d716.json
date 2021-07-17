@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "14944",
-      "name": "The Showcase Sale",
+      "name": "Le offerte dello Showcase",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1203",
-      "name": "Multiplayer",
+      "name": "Multigiocatore",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "Giocatore singolo",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "14346",
-      "name": "Holiday Sale 2020",
+      "name": "Offerte delle feste 2020",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "1115",
-      "name": "Strategy",
+      "name": "Strategico",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -112,7 +112,7 @@
     },
     {
       "id": "16011",
-      "name": "Epic MEGA Sale",
+      "name": "MEGA Saldi di Epic",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -232,5 +232,7 @@
       "id": "110700eec1124f78b064e66bb6c30f1c"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "53310576ce1d4446b20dbbdac4f09f2d"
+  }
 }

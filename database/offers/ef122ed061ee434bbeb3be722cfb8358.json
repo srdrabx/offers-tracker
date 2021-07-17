@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "14346",
-      "name": "Holiday Sale 2020",
+      "name": "Ofertas navideñas de 2020",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "16011",
-      "name": "Epic MEGA Sale",
+      "name": "Superoferta de Epic",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "15375",
-      "name": "Spring Sale",
+      "name": "Ofertas de primavera",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -154,5 +154,7 @@
       "id": "c3d0381293ae4505a7f00bdb0c024e9e"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "213259527d2f41baa90cbe0ae5555271"
+  }
 }

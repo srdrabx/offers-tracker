@@ -661,7 +661,7 @@
   },
   "1279": {
     "id": "1279",
-    "name": "Vampire",
+    "name": "Vampir",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -769,7 +769,7 @@
   },
   "1299": {
     "id": "1299",
-    "name": "Competitive",
+    "name": "Wettkampf",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -853,7 +853,7 @@
   },
   "1333": {
     "id": "1333",
-    "name": "Aksiyon RYO",
+    "name": "Action RPG",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
