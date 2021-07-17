@@ -43,7 +43,7 @@
   "tags": [
     {
       "id": "1203",
-      "name": "Multiplayer",
+      "name": "Multijugador",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -55,7 +55,7 @@
     },
     {
       "id": "1367",
-      "name": "RPG",
+      "name": "Rol",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -67,7 +67,7 @@
     },
     {
       "id": "1307",
-      "name": "Open World",
+      "name": "Mundo abierto",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -91,7 +91,7 @@
     },
     {
       "id": "1117",
-      "name": "Adventure",
+      "name": "Aventura",
       "namespace": "epic",
       "aliases": [],
       "operator": null,

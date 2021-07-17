@@ -37,7 +37,7 @@
   "tags": [
     {
       "id": "1216",
-      "name": "Acción",
+      "name": "أكشن",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -49,7 +49,7 @@
     },
     {
       "id": "1393",
-      "name": "Simulación",
+      "name": "محاكاة",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -61,7 +61,7 @@
     },
     {
       "id": "1370",
-      "name": "Para un solo jugador",
+      "name": "لاعب فردي",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -85,7 +85,7 @@
     },
     {
       "id": "16011",
-      "name": "Megaoferta de Epic",
+      "name": "هائلة من تخفيضات Epic",
       "namespace": null,
       "aliases": [],
       "operator": null,

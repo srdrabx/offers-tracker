@@ -481,7 +481,7 @@
   },
   "1215": {
     "id": "1215",
-    "name": "POST-APOCALYPTIC",
+    "name": "Posapocalíptico",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -1009,7 +1009,7 @@
   },
   "1386": {
     "id": "1386",
-    "name": "Turn-Based",
+    "name": "Tour par tour",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -1235,7 +1235,7 @@
   },
   "15257": {
     "id": "15257",
-    "name": "Rockstar Games 特賣",
+    "name": "Rockstar Games 特卖",
     "namespace": null,
     "aliases": [],
     "operator": null,
