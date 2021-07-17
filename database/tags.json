@@ -409,7 +409,7 @@
   },
   "1190": {
     "id": "1190",
-    "name": "WAR",
+    "name": "Guerra",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -481,7 +481,7 @@
   },
   "1215": {
     "id": "1215",
-    "name": "POST-APOCALYPTIC",
+    "name": "Post-apocalittico",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
