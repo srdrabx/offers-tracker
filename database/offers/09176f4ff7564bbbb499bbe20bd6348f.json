@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1216",
-      "name": "アクション",
+      "name": "Action",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1203",
-      "name": "Multiplayer",
+      "name": "Multijogador",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1141",
-      "name": "無料プレイ",
+      "name": "Free to Play",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "1210",
-      "name": "シューター",
+      "name": "Shooter",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "1370",
-      "name": "シングルプレイヤー",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -124,7 +124,7 @@
     },
     {
       "id": "9549",
-      "name": "コントローラーサポート",
+      "name": "Controller Support",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -136,7 +136,7 @@
     },
     {
       "id": "1294",
-      "name": "一人称視点",
+      "name": "First Person",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
