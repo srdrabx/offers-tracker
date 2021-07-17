@@ -25,7 +25,7 @@
   },
   "1083": {
     "id": "1083",
-    "name": "Roguelite",
+    "name": "Rogue-Lite",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -973,7 +973,7 @@
   },
   "1367": {
     "id": "1367",
-    "name": "RPG",
+    "name": "Rol",
     "namespace": "epic",
     "aliases": [],
     "operator": null,

@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "14944",
-      "name": "ショーケース セール",
+      "name": "The Showcase Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1203",
-      "name": "マルチプレイヤー",
+      "name": "Multiplayer",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1110",
-      "name": "パーティー",
+      "name": "Party",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1115",
-      "name": "ストラテジー",
+      "name": "Strategy",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "16011",
-      "name": "Epic メガセール",
+      "name": "Epic MEGA Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -112,7 +112,7 @@
     },
     {
       "id": "15375",
-      "name": "春のセール",
+      "name": "Spring Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
