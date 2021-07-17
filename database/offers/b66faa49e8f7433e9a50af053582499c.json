@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1393",
-      "name": "Simulation",
+      "name": "Simülasyon",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1283",
-      "name": "Sports",
+      "name": "Spor",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "Tek Oyunculu",
       "namespace": "epic",
       "aliases": [],
       "operator": null,

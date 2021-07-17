@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1187",
-      "name": "第三人稱射擊",
+      "name": "THIRD-PERSON SHOOTER",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1203",
-      "name": "多人",
+      "name": "Multiplayer",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1299",
-      "name": "競賽",
+      "name": "Competitive",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1210",
-      "name": "射擊",
+      "name": "Shooter",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "1164",
-      "name": "組隊",
+      "name": "TEAM-BASED",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "9549",
-      "name": "控制器支援",
+      "name": "Controller Support",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -112,7 +112,7 @@
     },
     {
       "id": "1310",
-      "name": "搶先體驗",
+      "name": "EARLY ACCESS",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
@@ -124,7 +124,7 @@
     },
     {
       "id": "1215",
-      "name": "末日後",
+      "name": "POST-APOCALYPTIC",
       "namespace": "epic",
       "aliases": null,
       "operator": null,

@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1216",
-      "name": "Aksiyon",
+      "name": "Action",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1298",
-      "name": "Bulmaca",
+      "name": "Puzzle",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "14346",
-      "name": "Yılbaşı Tatili İndirimi 2020",
+      "name": "Holiday Sale 2020",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "16011",
-      "name": "Epic MEGA İndirim",
+      "name": "Epic MEGA Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "1151",
-      "name": "Platform",
+      "name": "Platformer",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
