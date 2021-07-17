@@ -55,7 +55,7 @@
     },
     {
       "id": "1080",
-      "name": "Survie",
+      "name": "Survival",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -67,7 +67,7 @@
     },
     {
       "id": "1370",
-      "name": "Solo",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -91,7 +91,7 @@
     },
     {
       "id": "1307",
-      "name": "Monde ouvert",
+      "name": "Open World",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -103,7 +103,7 @@
     },
     {
       "id": "9549",
-      "name": "Support manette",
+      "name": "Controller Support",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
