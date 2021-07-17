@@ -64,7 +64,7 @@
     },
     {
       "id": "1117",
-      "name": "Aventura",
+      "name": "Adventure",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1263",
-      "name": "Independente",
+      "name": "Indie",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
