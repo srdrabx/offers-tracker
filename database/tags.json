@@ -217,7 +217,7 @@
   },
   "1141": {
     "id": "1141",
-    "name": "Free to Play",
+    "name": "مجانية اللعب",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -661,7 +661,7 @@
   },
   "1279": {
     "id": "1279",
-    "name": "Vampir",
+    "name": "Vampire",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -769,7 +769,7 @@
   },
   "1299": {
     "id": "1299",
-    "name": "Wettkampf",
+    "name": "Competitive",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -973,7 +973,7 @@
   },
   "1367": {
     "id": "1367",
-    "name": "角色扮演",
+    "name": "RPG",
     "namespace": "epic",
     "aliases": [],
     "operator": null,

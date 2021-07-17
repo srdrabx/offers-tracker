@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1216",
-      "name": "Action",
+      "name": "أكشن",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1367",
-      "name": "RPG",
+      "name": "تقمص أدوار",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1336",
-      "name": "Action-Adventure",
+      "name": "أكشن مغامرات",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "لاعب فردي",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "1117",
-      "name": "Adventure",
+      "name": "مغامرة",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
