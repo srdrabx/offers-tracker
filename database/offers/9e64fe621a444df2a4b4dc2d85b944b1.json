@@ -34,7 +34,7 @@
   "tags": [
     {
       "id": "1216",
-      "name": "Action",
+      "name": "Acción",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -46,7 +46,7 @@
     },
     {
       "id": "1264",
-      "name": "Coopération",
+      "name": "Cooperativo",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -58,7 +58,7 @@
     },
     {
       "id": "1210",
-      "name": "Jeu de tir",
+      "name": "Disparos",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -70,7 +70,7 @@
     },
     {
       "id": "1370",
-      "name": "Solo",
+      "name": "Un solo jugador",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
