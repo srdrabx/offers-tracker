@@ -46,7 +46,7 @@
     },
     {
       "id": "1386",
-      "name": "Turowe",
+      "name": "Turn-Based",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -58,7 +58,7 @@
     },
     {
       "id": "1115",
-      "name": "Strategiczne",
+      "name": "Strategy",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -82,7 +82,7 @@
     },
     {
       "id": "16011",
-      "name": "Mega wyprzedaż Epic",
+      "name": "Epic MEGA Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
