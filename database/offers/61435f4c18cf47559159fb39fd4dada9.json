@@ -49,7 +49,7 @@
     },
     {
       "id": "1115",
-      "name": "전략",
+      "name": "Strategy",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
