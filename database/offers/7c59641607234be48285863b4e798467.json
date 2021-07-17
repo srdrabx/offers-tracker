@@ -64,7 +64,7 @@
     },
     {
       "id": "1187",
-      "name": "第三人称射击",
+      "name": "THIRD-PERSON SHOOTER",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
@@ -148,7 +148,7 @@
     },
     {
       "id": "1294",
-      "name": "第一人称",
+      "name": "First Person",
       "namespace": "epic",
       "aliases": [],
       "operator": null,

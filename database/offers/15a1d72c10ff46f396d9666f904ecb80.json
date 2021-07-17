@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1185",
-      "name": "第一人稱射擊",
+      "name": "FPS",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1307",
-      "name": "開放世界",
+      "name": "Open World",
       "namespace": "epic",
       "aliases": [],
       "operator": null,

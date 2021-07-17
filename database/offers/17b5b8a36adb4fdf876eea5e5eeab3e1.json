@@ -37,7 +37,7 @@
   "tags": [
     {
       "id": "1381",
-      "name": "Exploração",
+      "name": "Exploration",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -61,7 +61,7 @@
     },
     {
       "id": "1116",
-      "name": "Comédia",
+      "name": "Comedy",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -73,7 +73,7 @@
     },
     {
       "id": "1117",
-      "name": "Aventura",
+      "name": "Adventure",
       "namespace": "epic",
       "aliases": [],
       "operator": null,

@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1393",
-      "name": "シミュレーション",
+      "name": "Simulation",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1283",
-      "name": "スポーツ",
+      "name": "Sports",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1370",
-      "name": "シングルプレイヤー",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,

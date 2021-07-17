@@ -37,7 +37,7 @@
   "tags": [
     {
       "id": "1203",
-      "name": "멀티플레이어",
+      "name": "Multiplayer",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -49,7 +49,7 @@
     },
     {
       "id": "1141",
-      "name": "무료",
+      "name": "Free to Play",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -73,7 +73,7 @@
     },
     {
       "id": "9549",
-      "name": "컨트롤러 지원",
+      "name": "Controller Support",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
