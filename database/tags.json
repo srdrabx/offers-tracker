@@ -217,7 +217,7 @@
   },
   "1141": {
     "id": "1141",
-    "name": "Free to Play",
+    "name": "Gry free-to-play",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -937,7 +937,7 @@
   },
   "1349": {
     "id": "1349",
-    "name": "FAST-PACED",
+    "name": "Ritmo rápido",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -1307,7 +1307,7 @@
   },
   "15583": {
     "id": "15583",
-    "name": "BAFTA Games Awards 2021",
+    "name": "Премия BAFTA в области видеоигр 2021",
     "namespace": null,
     "aliases": [],
     "operator": null,
