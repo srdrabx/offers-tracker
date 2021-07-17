@@ -37,7 +37,7 @@
   "tags": [
     {
       "id": "14944",
-      "name": "تخفيضات المعرض",
+      "name": "The Showcase Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -49,7 +49,7 @@
     },
     {
       "id": "1203",
-      "name": "متعددة اللاعبين",
+      "name": "Multiplayer",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -61,7 +61,7 @@
     },
     {
       "id": "1141",
-      "name": "مجانية اللعب",
+      "name": "Free to Play",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -85,7 +85,7 @@
     },
     {
       "id": "1294",
-      "name": "الشخص الأول",
+      "name": "First Person",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -97,7 +97,7 @@
     },
     {
       "id": "1279",
-      "name": "مصاص دماء",
+      "name": "Vampire",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
