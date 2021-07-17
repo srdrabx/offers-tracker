@@ -193,7 +193,7 @@
   },
   "1131": {
     "id": "1131",
-    "name": "SURVIVAL HORROR",
+    "name": "생존 호러",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -217,7 +217,7 @@
   },
   "1141": {
     "id": "1141",
-    "name": "Oynaması Ücretsiz",
+    "name": "Free to Play",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -361,7 +361,7 @@
   },
   "1181": {
     "id": "1181",
-    "name": "Card Game",
+    "name": "カードゲーム",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -409,7 +409,7 @@
   },
   "1190": {
     "id": "1190",
-    "name": "WAR",
+    "name": "战争",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -517,7 +517,7 @@
   },
   "1220": {
     "id": "1220",
-    "name": "ZOMBIES",
+    "name": "Zombiler",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
