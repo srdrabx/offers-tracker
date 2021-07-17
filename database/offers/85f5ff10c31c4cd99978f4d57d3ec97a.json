@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1216",
-      "name": "액션",
+      "name": "Action",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "14944",
-      "name": "쇼케이스 세일",
+      "name": "The Showcase Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1218",
-      "name": "호러",
+      "name": "Horror",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "1220",
-      "name": "좀비",
+      "name": "ZOMBIES",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "14346",
-      "name": "홀리데이 세일 2020",
+      "name": "Holiday Sale 2020",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -112,7 +112,7 @@
     },
     {
       "id": "1131",
-      "name": "생존 호러",
+      "name": "SURVIVAL HORROR",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
@@ -136,7 +136,7 @@
     },
     {
       "id": "16011",
-      "name": "에픽 메가 세일",
+      "name": "Epic MEGA Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -148,7 +148,7 @@
     },
     {
       "id": "1294",
-      "name": "1인칭",
+      "name": "First Person",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -160,7 +160,7 @@
     },
     {
       "id": "15375",
-      "name": "봄맞이 세일",
+      "name": "Spring Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -172,7 +172,7 @@
     },
     {
       "id": "1264",
-      "name": "협동",
+      "name": "Co-op",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -184,7 +184,7 @@
     },
     {
       "id": "1203",
-      "name": "멀티플레이어",
+      "name": "Multiplayer",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -196,7 +196,7 @@
     },
     {
       "id": "1080",
-      "name": "생존",
+      "name": "Survival",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -208,7 +208,7 @@
     },
     {
       "id": "1210",
-      "name": "슈팅",
+      "name": "Shooter",
       "namespace": "epic",
       "aliases": [],
       "operator": null,

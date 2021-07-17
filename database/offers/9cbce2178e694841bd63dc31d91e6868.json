@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1216",
-      "name": "Action",
+      "name": "Akcja",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1264",
-      "name": "Co-op",
+      "name": "W trybie współpracy",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "14944",
-      "name": "The Showcase Sale",
+      "name": "Wyprzedaż-pokaz",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "1203",
-      "name": "Multiplayer",
+      "name": "Tryb wieloosobowy",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "1141",
-      "name": "Free to Play",
+      "name": "Gry free-to-play",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -112,7 +112,7 @@
     },
     {
       "id": "1210",
-      "name": "Shooter",
+      "name": "Strzelanki",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -136,7 +136,7 @@
     },
     {
       "id": "16011",
-      "name": "Epic MEGA Sale",
+      "name": "Mega wyprzedaż Epic",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -148,7 +148,7 @@
     },
     {
       "id": "1279",
-      "name": "Vampire",
+      "name": "Wampiry",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -160,7 +160,7 @@
     },
     {
       "id": "15375",
-      "name": "Spring Sale",
+      "name": "Wiosenna wyprzedaż",
       "namespace": null,
       "aliases": [],
       "operator": null,

@@ -193,7 +193,7 @@
   },
   "1131": {
     "id": "1131",
-    "name": "생존 호러",
+    "name": "SURVIVAL HORROR",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -361,7 +361,7 @@
   },
   "1181": {
     "id": "1181",
-    "name": "カードゲーム",
+    "name": "Card Game",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -409,7 +409,7 @@
   },
   "1190": {
     "id": "1190",
-    "name": "战争",
+    "name": "Wojna",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -517,7 +517,7 @@
   },
   "1220": {
     "id": "1220",
-    "name": "Zombiler",
+    "name": "ZOMBIES",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -1398,7 +1398,7 @@
   },
   "16005": {
     "id": "16005",
-    "name": "STAR WARS May The 4th Sale",
+    "name": "STAR WARS : promos du 4 mai",
     "namespace": null,
     "aliases": [],
     "operator": null,
