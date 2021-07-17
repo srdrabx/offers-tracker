@@ -34,7 +34,7 @@
   "tags": [
     {
       "id": "1367",
-      "name": "RPG",
+      "name": "RYO",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -46,7 +46,7 @@
     },
     {
       "id": "1386",
-      "name": "Turn-Based",
+      "name": "Sıra Temelli",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -58,7 +58,7 @@
     },
     {
       "id": "1115",
-      "name": "Strategy",
+      "name": "Strateji",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -82,7 +82,7 @@
     },
     {
       "id": "16011",
-      "name": "Epic MEGA Sale",
+      "name": "Epic MEGA İndirim",
       "namespace": null,
       "aliases": [],
       "operator": null,
