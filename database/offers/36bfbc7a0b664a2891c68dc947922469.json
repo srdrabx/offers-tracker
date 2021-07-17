@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1216",
-      "name": "Action",
+      "name": "Acción",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1090",
-      "name": "Tactical",
+      "name": "Tácticos",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "16011",
-      "name": "Epic MEGA Sale",
+      "name": "Megaoferta de Epic",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "1164",
-      "name": "TEAM-BASED",
+      "name": "Por equipos",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
@@ -112,7 +112,7 @@
     },
     {
       "id": "1264",
-      "name": "Co-op",
+      "name": "Cooperativo",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -124,7 +124,7 @@
     },
     {
       "id": "1234",
-      "name": "PVP",
+      "name": "JcJ",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
@@ -136,7 +136,7 @@
     },
     {
       "id": "1203",
-      "name": "Multiplayer",
+      "name": "Multijugador",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -148,7 +148,7 @@
     },
     {
       "id": "1299",
-      "name": "Competitive",
+      "name": "Competitivo",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -160,7 +160,7 @@
     },
     {
       "id": "1141",
-      "name": "Free to Play",
+      "name": "Gratuito",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -172,7 +172,7 @@
     },
     {
       "id": "1210",
-      "name": "Shooter",
+      "name": "Disparos",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -184,7 +184,7 @@
     },
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "Para un solo jugador",
       "namespace": "epic",
       "aliases": [],
       "operator": null,

@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1146",
-      "name": "Budowanie miast",
+      "name": "城市建造",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1370",
-      "name": "Tryb jednego gracza",
+      "name": "单人游戏",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1115",
-      "name": "Strategiczne",
+      "name": "战略",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
