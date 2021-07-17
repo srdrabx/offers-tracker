@@ -49,7 +49,7 @@
     },
     {
       "id": "1264",
-      "name": "Co-op",
+      "name": "Koop",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -61,7 +61,7 @@
     },
     {
       "id": "14944",
-      "name": "The Showcase Sale",
+      "name": "Schaufenster-Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -85,7 +85,7 @@
     },
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "Einzelspieler",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -97,7 +97,7 @@
     },
     {
       "id": "14346",
-      "name": "Holiday Sale 2020",
+      "name": "Feiertagsangebote 2020",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -109,7 +109,7 @@
     },
     {
       "id": "1115",
-      "name": "Strategy",
+      "name": "Strategie",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -145,7 +145,7 @@
     },
     {
       "id": "15375",
-      "name": "Spring Sale",
+      "name": "Frühlings-Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,

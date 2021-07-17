@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1296",
-      "name": "Rekreacyjne",
+      "name": "Casual",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1298",
-      "name": "Łamigłówki",
+      "name": "Puzzle",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1370",
-      "name": "Tryb jednego gracza",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1115",
-      "name": "Strategiczne",
+      "name": "Strategy",
       "namespace": "epic",
       "aliases": [],
       "operator": null,

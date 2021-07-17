@@ -52,7 +52,7 @@
     },
     {
       "id": "1090",
-      "name": "Tático",
+      "name": "Tactical",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "16011",
-      "name": "Megapromoção da Epic",
+      "name": "Epic MEGA Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "1164",
-      "name": "Baseado em Equipes",
+      "name": "TEAM-BASED",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
@@ -124,7 +124,7 @@
     },
     {
       "id": "1234",
-      "name": "JxJ",
+      "name": "PVP",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
@@ -136,7 +136,7 @@
     },
     {
       "id": "1203",
-      "name": "Multijogador",
+      "name": "Multiplayer",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -148,7 +148,7 @@
     },
     {
       "id": "1299",
-      "name": "Competitivo",
+      "name": "Competitive",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -160,7 +160,7 @@
     },
     {
       "id": "1141",
-      "name": "Grátis",
+      "name": "Free to Play",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
