@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1216",
-      "name": "Action",
+      "name": "Aksiyon",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1400",
-      "name": "Physics",
+      "name": "Fizik",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "Tek Oyunculu",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1307",
-      "name": "Open World",
+      "name": "Açık Dünya",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "15375",
-      "name": "Spring Sale",
+      "name": "BAHAR İNDİRİMİ",
       "namespace": null,
       "aliases": [],
       "operator": null,

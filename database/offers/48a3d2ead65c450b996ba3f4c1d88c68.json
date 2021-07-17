@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1298",
-      "name": "Puzzle",
+      "name": "Łamigłówki",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "Tryb jednego gracza",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1117",
-      "name": "Adventure",
+      "name": "Przygodowe",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "1263",
-      "name": "Indie",
+      "name": "Niezależne",
       "namespace": "epic",
       "aliases": [],
       "operator": null,

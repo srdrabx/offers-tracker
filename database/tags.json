@@ -229,7 +229,7 @@
   },
   "1146": {
     "id": "1146",
-    "name": "Construcción de ciudades",
+    "name": "City Builder",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -409,7 +409,7 @@
   },
   "1190": {
     "id": "1190",
-    "name": "Guerra",
+    "name": "WAR",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -493,7 +493,7 @@
   },
   "1216": {
     "id": "1216",
-    "name": "Action",
+    "name": "Acción",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -661,7 +661,7 @@
   },
   "1279": {
     "id": "1279",
-    "name": "Vampire",
+    "name": "Vampiros",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -769,7 +769,7 @@
   },
   "1299": {
     "id": "1299",
-    "name": "Competitive",
+    "name": "Competitivo",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -1259,7 +1259,7 @@
   },
   "15375": {
     "id": "15375",
-    "name": "Spring Sale",
+    "name": "ลดราคาช่วงฤดูใบไม้ผลิ",
     "namespace": null,
     "aliases": [],
     "operator": null,
@@ -1343,7 +1343,7 @@
   },
   "15895": {
     "id": "15895",
-    "name": "Tropico Anniversary Sale",
+    "name": "Юбилейная распродажа Tropico",
     "namespace": null,
     "aliases": [],
     "operator": null,
@@ -1398,7 +1398,7 @@
   },
   "16005": {
     "id": "16005",
-    "name": "STAR WARS May The 4th Sale",
+    "name": "STAR WARS : promos du 4 mai",
     "namespace": null,
     "aliases": [],
     "operator": null,
