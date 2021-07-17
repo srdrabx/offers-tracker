@@ -853,7 +853,7 @@
   },
   "1333": {
     "id": "1333",
-    "name": "Action RPG",
+    "name": "动作角色扮演",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -937,7 +937,7 @@
   },
   "1349": {
     "id": "1349",
-    "name": "FAST-PACED",
+    "name": "De ritmo rápido",
     "namespace": "epic",
     "aliases": null,
     "operator": null,

@@ -52,7 +52,7 @@
     },
     {
       "id": "1336",
-      "name": "Action-Adventure",
+      "name": "Action-Abenteuer",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "1117",
-      "name": "Adventure",
+      "name": "Abenteuer",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "9549",
-      "name": "Controller Support",
+      "name": "Für Controller",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -112,7 +112,7 @@
     },
     {
       "id": "1310",
-      "name": "EARLY ACCESS",
+      "name": "Early Access",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
