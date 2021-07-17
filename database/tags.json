@@ -61,7 +61,7 @@
   },
   "1090": {
     "id": "1090",
-    "name": "Tactical",
+    "name": "Tattico",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -361,7 +361,7 @@
   },
   "1181": {
     "id": "1181",
-    "name": "Kartenspiel",
+    "name": "Card Game",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -973,7 +973,7 @@
   },
   "1367": {
     "id": "1367",
-    "name": "RPG",
+    "name": "Ролевая",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
