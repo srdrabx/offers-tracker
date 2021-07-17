@@ -43,7 +43,7 @@
   "tags": [
     {
       "id": "1216",
-      "name": "Action",
+      "name": "Acción",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -55,7 +55,7 @@
     },
     {
       "id": "14944",
-      "name": "The Showcase Sale",
+      "name": "Ofertas especiales",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -67,7 +67,7 @@
     },
     {
       "id": "1395",
-      "name": "Narration",
+      "name": "Narración",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -79,7 +79,7 @@
     },
     {
       "id": "1336",
-      "name": "Action-Adventure",
+      "name": "Acción y aventura",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -91,7 +91,7 @@
     },
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "Para un solo jugador",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -103,7 +103,7 @@
     },
     {
       "id": "14346",
-      "name": "Holiday Sale 2020",
+      "name": "Ofertas festivas 2020",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -127,7 +127,7 @@
     },
     {
       "id": "16011",
-      "name": "Epic MEGA Sale",
+      "name": "Megaoferta de Epic",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -139,7 +139,7 @@
     },
     {
       "id": "1117",
-      "name": "Adventure",
+      "name": "Aventura",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -151,7 +151,7 @@
     },
     {
       "id": "15375",
-      "name": "Spring Sale",
+      "name": "Ofertas de primavera",
       "namespace": null,
       "aliases": [],
       "operator": null,

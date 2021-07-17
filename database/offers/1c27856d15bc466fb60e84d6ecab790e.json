@@ -52,7 +52,7 @@
     },
     {
       "id": "1203",
-      "name": "Multiplayer",
+      "name": "Multijoueur",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1317",
-      "name": "MMORPG",
+      "name": "Jeu de rôle en ligne massivement multijoueur",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "1115",
-      "name": "Strategy",
+      "name": "Stratégie",
       "namespace": "epic",
       "aliases": [],
       "operator": null,

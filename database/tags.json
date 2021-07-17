@@ -205,7 +205,7 @@
   },
   "1132": {
     "id": "1132",
-    "name": "SCI-FI",
+    "name": "Bilim Kurgu",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -409,7 +409,7 @@
   },
   "1190": {
     "id": "1190",
-    "name": "Wojna",
+    "name": "WAR",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -805,7 +805,7 @@
   },
   "1317": {
     "id": "1317",
-    "name": "MMORPG",
+    "name": "Jeu de rôle en ligne massivement multijoueur",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
