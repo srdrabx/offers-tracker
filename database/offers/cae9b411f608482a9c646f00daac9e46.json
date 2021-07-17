@@ -43,7 +43,7 @@
   "tags": [
     {
       "id": "1233",
-      "name": "Construção de Base",
+      "name": "Construction de bases",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -55,7 +55,7 @@
     },
     {
       "id": "1393",
-      "name": "Simulação",
+      "name": "Simulation",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -67,7 +67,7 @@
     },
     {
       "id": "14346",
-      "name": "Promoção de Fim de Ano 2020",
+      "name": "Soldes des fêtes de fin d'année 2020",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -79,7 +79,7 @@
     },
     {
       "id": "1115",
-      "name": "Estratégia",
+      "name": "Stratégie",
       "namespace": "epic",
       "aliases": [],
       "operator": null,

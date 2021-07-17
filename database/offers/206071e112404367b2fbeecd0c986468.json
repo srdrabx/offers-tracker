@@ -38,9 +38,42 @@
     }
   ],
   "tags": [
-    null,
-    null,
-    null,
+    {
+      "id": "14944",
+      "name": "The Showcase Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-02-04T17:51:00.530Z",
+      "updated": "2021-02-25T16:37:32.464Z",
+      "status": "ACTIVE",
+      "referenceCount": 366,
+      "comment": ""
+    },
+    {
+      "id": "1395",
+      "name": "Narration",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:34.825Z",
+      "updated": "2021-02-10T17:33:17.320Z",
+      "status": "ACTIVE",
+      "referenceCount": 22,
+      "comment": null
+    },
+    {
+      "id": "1127",
+      "name": "Investigation",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:21.604Z",
+      "updated": "2021-02-05T16:14:26.407Z",
+      "status": "ACTIVE",
+      "referenceCount": 4,
+      "comment": null
+    },
     {
       "id": "9547",
       "name": "Windows",
