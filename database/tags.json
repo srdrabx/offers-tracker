@@ -361,7 +361,7 @@
   },
   "1181": {
     "id": "1181",
-    "name": "Cartas",
+    "name": "Card Game",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -409,7 +409,7 @@
   },
   "1190": {
     "id": "1190",
-    "name": "Война",
+    "name": "WAR",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -517,7 +517,7 @@
   },
   "1220": {
     "id": "1220",
-    "name": "ZOMBIES",
+    "name": "Zombis",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
