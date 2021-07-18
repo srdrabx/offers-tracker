@@ -49,7 +49,7 @@
     },
     {
       "id": "1386",
-      "name": "Turn-Based",
+      "name": "ターン制",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -61,7 +61,7 @@
     },
     {
       "id": "1115",
-      "name": "Strategy",
+      "name": "ストラテジー",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
