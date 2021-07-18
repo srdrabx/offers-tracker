@@ -217,7 +217,7 @@
   },
   "1141": {
     "id": "1141",
-    "name": "Kostenlos spielbar",
+    "name": "Free to Play",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -517,7 +517,7 @@
   },
   "1220": {
     "id": "1220",
-    "name": "僵尸",
+    "name": "ZOMBIES",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -1235,7 +1235,7 @@
   },
   "15257": {
     "id": "15257",
-    "name": "Rockstar Games Sale",
+    "name": "Rockstar Games セール",
     "namespace": null,
     "aliases": [],
     "operator": null,
@@ -1422,7 +1422,7 @@
   },
   "16187": {
     "id": "16187",
-    "name": "PDXCON 2021 İndirimi",
+    "name": "PDXCON 2021 Sale",
     "namespace": null,
     "aliases": [],
     "operator": null,
