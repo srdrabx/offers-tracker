@@ -73,7 +73,7 @@
     },
     {
       "id": "1203",
-      "name": "Multiplayer",
+      "name": "Multijoueur",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -85,7 +85,7 @@
     },
     {
       "id": "1210",
-      "name": "Shooter",
+      "name": "Jeu de tir",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -109,7 +109,7 @@
     },
     {
       "id": "14346",
-      "name": "Holiday Sale 2020",
+      "name": "Soldes des fêtes de fin d'année 2020",
       "namespace": null,
       "aliases": [],
       "operator": null,

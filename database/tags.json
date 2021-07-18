@@ -661,7 +661,7 @@
   },
   "1279": {
     "id": "1279",
-    "name": "Vampire",
+    "name": "Vampir",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -769,7 +769,7 @@
   },
   "1299": {
     "id": "1299",
-    "name": "Competitive",
+    "name": "Wettkampf",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -1235,7 +1235,7 @@
   },
   "15257": {
     "id": "15257",
-    "name": "Soldes Rockstar Games",
+    "name": "Rockstar Games Sale",
     "namespace": null,
     "aliases": [],
     "operator": null,

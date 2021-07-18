@@ -43,7 +43,7 @@
   "tags": [
     {
       "id": "1233",
-      "name": "Construcción",
+      "name": "基地建造",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -55,7 +55,7 @@
     },
     {
       "id": "1393",
-      "name": "Simulación",
+      "name": "模拟",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -67,7 +67,7 @@
     },
     {
       "id": "14346",
-      "name": "Ofertas festivas 2020",
+      "name": "2020 年假日特卖",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -79,7 +79,7 @@
     },
     {
       "id": "1115",
-      "name": "Estrategia",
+      "name": "战略",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
