@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1216",
-      "name": "액션",
+      "name": "Action",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1336",
-      "name": "액션 어드벤처",
+      "name": "Action-Adventure",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1370",
-      "name": "싱글 플레이어",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1307",
-      "name": "오픈 월드",
+      "name": "Open World",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "1117",
-      "name": "어드벤처",
+      "name": "Adventure",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "9549",
-      "name": "컨트롤러 지원",
+      "name": "Controller Support",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
