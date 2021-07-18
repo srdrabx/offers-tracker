@@ -52,7 +52,7 @@
     },
     {
       "id": "1283",
-      "name": "Sports",
+      "name": "Sport",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "Einzelspieler",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
