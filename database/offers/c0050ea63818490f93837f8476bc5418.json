@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1080",
-      "name": "Sopravvivenza",
+      "name": "Survival",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "14346",
-      "name": "Offerte delle feste 2020",
+      "name": "Holiday Sale 2020",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1310",
-      "name": "Accesso anticipato",
+      "name": "EARLY ACCESS",
       "namespace": "epic",
       "aliases": null,
       "operator": null,

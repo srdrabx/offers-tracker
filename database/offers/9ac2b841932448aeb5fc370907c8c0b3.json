@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1080",
-      "name": "Hayatta Kalma",
+      "name": "Survival",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1370",
-      "name": "Tek Oyunculu",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "14346",
-      "name": "Yılbaşı Tatili İndirimi 2020",
+      "name": "Holiday Sale 2020",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1307",
-      "name": "Açık Dünya",
+      "name": "Open World",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -115,7 +115,7 @@
     },
     {
       "id": "1117",
-      "name": "Macera",
+      "name": "Adventure",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -127,7 +127,7 @@
     },
     {
       "id": "9549",
-      "name": "Kumanda Desteği",
+      "name": "Controller Support",
       "namespace": "epic",
       "aliases": [],
       "operator": null,

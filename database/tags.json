@@ -409,7 +409,7 @@
   },
   "1190": {
     "id": "1190",
-    "name": "Война",
+    "name": "WAR",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -661,7 +661,7 @@
   },
   "1279": {
     "id": "1279",
-    "name": "Vampires",
+    "name": "Vampire",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -769,7 +769,7 @@
   },
   "1299": {
     "id": "1299",
-    "name": "Compétitif",
+    "name": "Competitive",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
