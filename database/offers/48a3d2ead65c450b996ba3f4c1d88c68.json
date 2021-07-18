@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1298",
-      "name": "Casse-tête",
+      "name": "لغز",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1370",
-      "name": "Solo",
+      "name": "لاعب فردي",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1117",
-      "name": "Aventure",
+      "name": "مغامرة",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "1263",
-      "name": "Indépendant",
+      "name": "مستقلة",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
