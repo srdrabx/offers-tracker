@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1088",
-      "name": "ターン制ストラテジー",
+      "name": "Turn-Based Strategy",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "14944",
-      "name": "ショーケース セール",
+      "name": "The Showcase Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "16004",
-      "name": "1週間にわたるオファー",
+      "name": "Weeklong Deals",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1386",
-      "name": "ターン制",
+      "name": "Turn-Based",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "14346",
-      "name": "2020年ホリデーセール",
+      "name": "Holiday Sale 2020",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -112,7 +112,7 @@
     },
     {
       "id": "16011",
-      "name": "Epic メガセール",
+      "name": "Epic MEGA Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -136,7 +136,7 @@
     },
     {
       "id": "15375",
-      "name": "春のセール",
+      "name": "Spring Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -148,7 +148,7 @@
     },
     {
       "id": "1203",
-      "name": "マルチプレイヤー",
+      "name": "Multiplayer",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -160,7 +160,7 @@
     },
     {
       "id": "14869",
-      "name": "2K パブリッシャーセール",
+      "name": "2K Publisher Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -172,7 +172,7 @@
     },
     {
       "id": "1370",
-      "name": "シングルプレイヤー",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -184,7 +184,7 @@
     },
     {
       "id": "1115",
-      "name": "ストラテジー",
+      "name": "Strategy",
       "namespace": "epic",
       "aliases": [],
       "operator": null,

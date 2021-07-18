@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1264",
-      "name": "Cooperativo",
+      "name": "تعاوني",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1203",
-      "name": "Multijogador",
+      "name": "متعددة اللاعبين",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1299",
-      "name": "Competitivo",
+      "name": "تنافسي",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "1205",
-      "name": "Condução",
+      "name": "قيادة",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "1370",
-      "name": "Um jogador",
+      "name": "لاعب فردي",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -124,7 +124,7 @@
     },
     {
       "id": "1212",
-      "name": "Corrida",
+      "name": "سباق",
       "namespace": "epic",
       "aliases": [],
       "operator": null,

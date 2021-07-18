@@ -853,7 +853,7 @@
   },
   "1333": {
     "id": "1333",
-    "name": "Rol de acción",
+    "name": "Action RPG",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -865,7 +865,7 @@
   },
   "1336": {
     "id": "1336",
-    "name": "Action-Adventure",
+    "name": "Acción y aventura",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
