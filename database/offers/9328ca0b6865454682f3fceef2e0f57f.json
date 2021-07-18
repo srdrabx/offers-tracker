@@ -43,7 +43,7 @@
     },
     {
       "id": "1218",
-      "name": "Horreur",
+      "name": "Horror",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -55,7 +55,7 @@
     },
     {
       "id": "1203",
-      "name": "Multijoueur",
+      "name": "Multiplayer",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -67,7 +67,7 @@
     },
     {
       "id": "1210",
-      "name": "Jeu de tir",
+      "name": "Shooter",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
