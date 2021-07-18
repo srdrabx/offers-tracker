@@ -37,7 +37,7 @@
   "tags": [
     {
       "id": "1393",
-      "name": "Simulation",
+      "name": "محاكاة",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -49,7 +49,7 @@
     },
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "لاعب فردي",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "15375",
-      "name": "Spring Sale",
+      "name": "تخفيضات الربيع",
       "namespace": null,
       "aliases": [],
       "operator": null,

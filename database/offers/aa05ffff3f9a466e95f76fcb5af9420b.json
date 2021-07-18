@@ -52,7 +52,7 @@
     },
     {
       "id": "1203",
-      "name": "멀티플레이어",
+      "name": "Multiplayer",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1370",
-      "name": "싱글 플레이어",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "1115",
-      "name": "전략",
+      "name": "Strategy",
       "namespace": "epic",
       "aliases": [],
       "operator": null,

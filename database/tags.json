@@ -265,7 +265,7 @@
   },
   "1156": {
     "id": "1156",
-    "name": "大逃杀",
+    "name": "Battle Royale",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -409,7 +409,7 @@
   },
   "1190": {
     "id": "1190",
-    "name": "Wojna",
+    "name": "战争",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -481,7 +481,7 @@
   },
   "1215": {
     "id": "1215",
-    "name": "POST-APOCALYPTIC",
+    "name": "Pós-Apocalíptico",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -853,7 +853,7 @@
   },
   "1333": {
     "id": "1333",
-    "name": "Rol de acción",
+    "name": "Action RPG",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -1235,7 +1235,7 @@
   },
   "15257": {
     "id": "15257",
-    "name": "Rockstar Games Sale",
+    "name": "Rockstar Games 特賣",
     "namespace": null,
     "aliases": [],
     "operator": null,
