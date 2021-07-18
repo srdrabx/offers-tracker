@@ -265,7 +265,7 @@
   },
   "1156": {
     "id": "1156",
-    "name": "Battle Royale",
+    "name": "大逃杀",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -409,7 +409,7 @@
   },
   "1190": {
     "id": "1190",
-    "name": "WAR",
+    "name": "Wojna",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -853,7 +853,7 @@
   },
   "1333": {
     "id": "1333",
-    "name": "Action RPG",
+    "name": "Rol de acción",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -1235,7 +1235,7 @@
   },
   "15257": {
     "id": "15257",
-    "name": "Wyprzedaż Rockstar Games",
+    "name": "Rockstar Games Sale",
     "namespace": null,
     "aliases": [],
     "operator": null,
