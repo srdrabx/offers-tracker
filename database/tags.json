@@ -37,7 +37,7 @@
   },
   "1084": {
     "id": "1084",
-    "name": "Stealth",
+    "name": "Стелс",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -409,7 +409,7 @@
   },
   "1190": {
     "id": "1190",
-    "name": "战争",
+    "name": "WAR",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -517,7 +517,7 @@
   },
   "1220": {
     "id": "1220",
-    "name": "ZOMBIES",
+    "name": "殭屍",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -889,7 +889,7 @@
   },
   "1342": {
     "id": "1342",
-    "name": "ASSASSIN",
+    "name": "Убийца",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
