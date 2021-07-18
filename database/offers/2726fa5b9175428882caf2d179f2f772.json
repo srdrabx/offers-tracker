@@ -34,7 +34,7 @@
   "tags": [
     {
       "id": "1264",
-      "name": "협동",
+      "name": "联合行动",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -46,7 +46,7 @@
     },
     {
       "id": "1203",
-      "name": "멀티플레이어",
+      "name": "多人游戏",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -58,7 +58,7 @@
     },
     {
       "id": "1367",
-      "name": "RPG",
+      "name": "角色扮演",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -70,7 +70,7 @@
     },
     {
       "id": "1210",
-      "name": "슈팅",
+      "name": "射击",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -82,7 +82,7 @@
     },
     {
       "id": "1370",
-      "name": "싱글 플레이어",
+      "name": "单人游戏",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -106,7 +106,7 @@
     },
     {
       "id": "1310",
-      "name": "얼리 액세스",
+      "name": "抢鲜体验",
       "namespace": "epic",
       "aliases": null,
       "operator": null,

@@ -61,7 +61,7 @@
     },
     {
       "id": "1258",
-      "name": "Rogue-like",
+      "name": "Rogue-Like",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -73,7 +73,7 @@
     },
     {
       "id": "1370",
-      "name": "Einzelspieler",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -97,7 +97,7 @@
     },
     {
       "id": "9549",
-      "name": "Für Controller",
+      "name": "Controller Support",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
