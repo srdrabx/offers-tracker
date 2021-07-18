@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1216",
-      "name": "Action",
+      "name": "Acción",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1141",
-      "name": "Gratuit",
+      "name": "Gratuito",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "1210",
-      "name": "Jeu de tir",
+      "name": "Disparos",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "1370",
-      "name": "Solo",
+      "name": "Un solo jugador",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -124,7 +124,7 @@
     },
     {
       "id": "9549",
-      "name": "Support manette",
+      "name": "Controller Support",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -136,7 +136,7 @@
     },
     {
       "id": "1294",
-      "name": "Première personne",
+      "name": "Primera persona",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
