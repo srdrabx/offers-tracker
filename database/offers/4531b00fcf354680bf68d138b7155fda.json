@@ -43,7 +43,7 @@
   "tags": [
     {
       "id": "1299",
-      "name": "Rekabetçi",
+      "name": "Соревновательная",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -55,7 +55,7 @@
     },
     {
       "id": "1115",
-      "name": "Strateji",
+      "name": "Стратегия",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -79,7 +79,7 @@
     },
     {
       "id": "1263",
-      "name": "Bağımsız",
+      "name": "Инди",
       "namespace": "epic",
       "aliases": [],
       "operator": null,

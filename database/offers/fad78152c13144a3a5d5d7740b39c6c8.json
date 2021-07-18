@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1367",
-      "name": "Ролевая",
+      "name": "RPG",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1307",
-      "name": "Открытый мир",
+      "name": "Open World",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1117",
-      "name": "Приключение",
+      "name": "Adventure",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
