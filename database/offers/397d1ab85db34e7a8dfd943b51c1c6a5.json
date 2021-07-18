@@ -49,7 +49,7 @@
     },
     {
       "id": "1370",
-      "name": "シングルプレイヤー",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -61,7 +61,7 @@
     },
     {
       "id": "1115",
-      "name": "ストラテジー",
+      "name": "Strategy",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -85,7 +85,7 @@
     },
     {
       "id": "9549",
-      "name": "コントローラーサポート",
+      "name": "Controller Support",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -97,7 +97,7 @@
     },
     {
       "id": "1263",
-      "name": "インディー",
+      "name": "Indie",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
