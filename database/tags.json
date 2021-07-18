@@ -481,7 +481,7 @@
   },
   "1215": {
     "id": "1215",
-    "name": "POST-APOCALYPTIC",
+    "name": "Posapocalíptico",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -853,7 +853,7 @@
   },
   "1333": {
     "id": "1333",
-    "name": "RPG de Ação",
+    "name": "Action RPG",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -1211,7 +1211,7 @@
   },
   "14917": {
     "id": "14917",
-    "name": "Распродажа издателя Deep Silver",
+    "name": "Deep Silver Publisher Sale",
     "namespace": null,
     "aliases": [],
     "operator": null,
