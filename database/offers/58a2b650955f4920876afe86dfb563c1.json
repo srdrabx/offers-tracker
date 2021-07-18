@@ -49,7 +49,7 @@
     },
     {
       "id": "1212",
-      "name": "Course",
+      "name": "Racing",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -61,7 +61,7 @@
     },
     {
       "id": "1263",
-      "name": "Indépendant",
+      "name": "Indie",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
