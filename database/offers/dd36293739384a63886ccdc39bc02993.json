@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1218",
-      "name": "Horror",
+      "name": "호러",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1259",
-      "name": "Storybook",
+      "name": "스토리북",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1263",
-      "name": "Indie",
+      "name": "인디",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "15375",
-      "name": "Spring Sale",
+      "name": "봄맞이 세일",
       "namespace": null,
       "aliases": [],
       "operator": null,
