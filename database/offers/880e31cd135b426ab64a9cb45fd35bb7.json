@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1393",
-      "name": "Simulation",
+      "name": "Симулятор",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1203",
-      "name": "Multiplayer",
+      "name": "Многопользовательская",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1283",
-      "name": "Sports",
+      "name": "Спортивная",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "15735",
-      "name": "Football Manager 2021 Sale",
+      "name": "Распродажа Football Manager 2021",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "Одиночная",
       "namespace": "epic",
       "aliases": [],
       "operator": null,

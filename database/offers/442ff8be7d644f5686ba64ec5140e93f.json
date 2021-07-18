@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1393",
-      "name": "Simulation",
+      "name": "模拟",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1386",
-      "name": "Turn-Based",
+      "name": "回合制",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1115",
-      "name": "Strategy",
+      "name": "战略",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "16011",
-      "name": "Epic MEGA Sale",
+      "name": "Epic 大特卖",
       "namespace": null,
       "aliases": [],
       "operator": null,
