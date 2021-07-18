@@ -52,7 +52,7 @@
     },
     {
       "id": "1090",
-      "name": "Tactical",
+      "name": "Taktisch",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "1164",
-      "name": "TEAM-BASED",
+      "name": "Team-basiert",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "9549",
-      "name": "Controller Support",
+      "name": "Für Controller",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -112,7 +112,7 @@
     },
     {
       "id": "1264",
-      "name": "Co-op",
+      "name": "Koop",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -124,7 +124,7 @@
     },
     {
       "id": "1234",
-      "name": "PVP",
+      "name": "PvP",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
@@ -136,7 +136,7 @@
     },
     {
       "id": "1203",
-      "name": "Multiplayer",
+      "name": "Mehrspieler",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -148,7 +148,7 @@
     },
     {
       "id": "1299",
-      "name": "Competitive",
+      "name": "Wettkampf",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -160,7 +160,7 @@
     },
     {
       "id": "1141",
-      "name": "Free to Play",
+      "name": "Kostenlos spielbar",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -184,7 +184,7 @@
     },
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "Einzelspieler",
       "namespace": "epic",
       "aliases": [],
       "operator": null,

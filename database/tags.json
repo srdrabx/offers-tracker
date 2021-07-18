@@ -301,7 +301,7 @@
   },
   "1164": {
     "id": "1164",
-    "name": "TEAM-BASED",
+    "name": "Team-basiert",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -553,7 +553,7 @@
   },
   "1234": {
     "id": "1234",
-    "name": "PVP",
+    "name": "PvP",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -973,7 +973,7 @@
   },
   "1367": {
     "id": "1367",
-    "name": "角色扮演",
+    "name": "RPG",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
