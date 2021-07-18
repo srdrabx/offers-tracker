@@ -409,7 +409,7 @@
   },
   "1190": {
     "id": "1190",
-    "name": "Wojna",
+    "name": "WAR",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -481,7 +481,7 @@
   },
   "1215": {
     "id": "1215",
-    "name": "POST-APOCALYPTIC",
+    "name": "末世",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
