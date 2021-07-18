@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1233",
-      "name": "Base-Building",
+      "name": "建造經營",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1203",
-      "name": "Mehrspieler",
+      "name": "多人",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1367",
-      "name": "RPG",
+      "name": "角色扮演",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1370",
-      "name": "Einzelspieler",
+      "name": "單人",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "1115",
-      "name": "Strategie",
+      "name": "戰略",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
