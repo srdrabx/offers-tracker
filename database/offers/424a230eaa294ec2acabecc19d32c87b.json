@@ -37,7 +37,7 @@
   "tags": [
     {
       "id": "1203",
-      "name": "Tryb wieloosobowy",
+      "name": "Multiplayer",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -61,7 +61,7 @@
     },
     {
       "id": "1370",
-      "name": "Tryb jednego gracza",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -73,7 +73,7 @@
     },
     {
       "id": "1307",
-      "name": "Otwarty świat",
+      "name": "Open World",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -97,7 +97,7 @@
     },
     {
       "id": "9549",
-      "name": "Obsługa kontrolera",
+      "name": "Controller Support",
       "namespace": "epic",
       "aliases": [],
       "operator": null,

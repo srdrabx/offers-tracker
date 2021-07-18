@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1264",
-      "name": "協力プレイ",
+      "name": "Cooperativo",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1283",
-      "name": "Sports",
+      "name": "Esportes",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1203",
-      "name": "マルチプレイヤー",
+      "name": "Multijogador",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1299",
-      "name": "競争",
+      "name": "Competitivo",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "1205",
-      "name": "ドライブ",
+      "name": "Condução",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "1141",
-      "name": "Free to Play",
+      "name": "Grátis",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -112,7 +112,7 @@
     },
     {
       "id": "1370",
-      "name": "シングルプレイヤー",
+      "name": "Um jogador",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -136,7 +136,7 @@
     },
     {
       "id": "1212",
-      "name": "レース",
+      "name": "Corrida",
       "namespace": "epic",
       "aliases": [],
       "operator": null,

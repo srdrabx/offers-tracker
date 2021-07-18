@@ -37,7 +37,7 @@
   "tags": [
     {
       "id": "1203",
-      "name": "Multiplayer",
+      "name": "Çok Oyunculu",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -61,7 +61,7 @@
     },
     {
       "id": "1212",
-      "name": "Racing",
+      "name": "Yarış",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
