@@ -37,7 +37,7 @@
   },
   "1084": {
     "id": "1084",
-    "name": "Стелс",
+    "name": "Stealth",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -217,7 +217,7 @@
   },
   "1141": {
     "id": "1141",
-    "name": "Free to Play",
+    "name": "Kostenlos spielbar",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -517,7 +517,7 @@
   },
   "1220": {
     "id": "1220",
-    "name": "殭屍",
+    "name": "僵尸",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -889,7 +889,7 @@
   },
   "1342": {
     "id": "1342",
-    "name": "Убийца",
+    "name": "ASSASSIN",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -1422,7 +1422,7 @@
   },
   "16187": {
     "id": "16187",
-    "name": "PDXCON 2021 Sale",
+    "name": "PDXCON 2021 İndirimi",
     "namespace": null,
     "aliases": [],
     "operator": null,
