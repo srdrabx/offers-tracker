@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1080",
-      "name": "Sobrevivência",
+      "name": "Survival",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1146",
-      "name": "Construção de Cidades",
+      "name": "City Builder",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1370",
-      "name": "Um jogador",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1115",
-      "name": "Estratégia",
+      "name": "Strategy",
       "namespace": "epic",
       "aliases": [],
       "operator": null,

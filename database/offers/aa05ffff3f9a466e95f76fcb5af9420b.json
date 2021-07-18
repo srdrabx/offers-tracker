@@ -52,7 +52,7 @@
     },
     {
       "id": "1203",
-      "name": "Multijugador",
+      "name": "Multiplayer",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1370",
-      "name": "Para un solo jugador",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "1115",
-      "name": "Estrategia",
+      "name": "Strategy",
       "namespace": "epic",
       "aliases": [],
       "operator": null,

@@ -481,7 +481,7 @@
   },
   "1215": {
     "id": "1215",
-    "name": "Pós-Apocalíptico",
+    "name": "POST-APOCALYPTIC",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -853,7 +853,7 @@
   },
   "1333": {
     "id": "1333",
-    "name": "Action RPG",
+    "name": "RPG de Ação",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -937,7 +937,7 @@
   },
   "1349": {
     "id": "1349",
-    "name": "快节奏",
+    "name": "FAST-PACED",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -1211,7 +1211,7 @@
   },
   "14917": {
     "id": "14917",
-    "name": "Deep Silver Publisher Sale",
+    "name": "Распродажа издателя Deep Silver",
     "namespace": null,
     "aliases": [],
     "operator": null,
