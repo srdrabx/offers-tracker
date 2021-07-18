@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1218",
-      "name": "Horror",
+      "name": "호러",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1341",
-      "name": "Supernatural",
+      "name": "초자연",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1294",
-      "name": "First Person",
+      "name": "1인칭",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
