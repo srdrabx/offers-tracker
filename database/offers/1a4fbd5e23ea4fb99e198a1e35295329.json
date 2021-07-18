@@ -43,7 +43,7 @@
     },
     {
       "id": "1218",
-      "name": "Horror",
+      "name": "Horreur",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -55,7 +55,7 @@
     },
     {
       "id": "1203",
-      "name": "Multiplayer",
+      "name": "Multijoueur",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -67,7 +67,7 @@
     },
     {
       "id": "1210",
-      "name": "Shooter",
+      "name": "Jeu de tir",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -110,5 +110,7 @@
       "id": "5f3de22ccd60425cad0ba12ada9465ac"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "dfd2530e80e4425d801913b0879be444"
+  }
 }

@@ -165,5 +165,7 @@
       "id": "576a3f4107034f3eaee0b24389e2887c"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "sundrop"
+  }
 }

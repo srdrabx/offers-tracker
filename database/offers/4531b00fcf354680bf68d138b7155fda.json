@@ -43,7 +43,7 @@
   "tags": [
     {
       "id": "1299",
-      "name": "Competitive",
+      "name": "Competitivo",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -55,7 +55,7 @@
     },
     {
       "id": "1115",
-      "name": "Strategy",
+      "name": "Estrategia",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -160,5 +160,7 @@
       "id": "b53a041ca67a4bf58827c3d503ed1a03"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "e8882546f28e4832af823c646aed232e"
+  }
 }

@@ -52,7 +52,7 @@
     },
     {
       "id": "1264",
-      "name": "Co-op",
+      "name": "Coopération",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "Solo",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "9549",
-      "name": "Controller Support",
+      "name": "Support manette",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "1151",
-      "name": "Platformer",
+      "name": "Plateformes",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -190,5 +190,7 @@
       "id": "82063d1e3a5842a4a783b5417df6c203"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "45e7cf3c49054f2fb20b673d9b0ae69e"
+  }
 }
