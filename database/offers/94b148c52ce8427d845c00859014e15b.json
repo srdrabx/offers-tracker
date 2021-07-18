@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1088",
-      "name": "Estratégia Baseada em Turnos",
+      "name": "Turn-Based Strategy",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1203",
-      "name": "Multijogador",
+      "name": "Multiplayer",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1370",
-      "name": "Um jogador",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1386",
-      "name": "Baseado em Turnos",
+      "name": "Turn-Based",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "1115",
-      "name": "Estratégia",
+      "name": "Strategy",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
