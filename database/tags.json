@@ -229,7 +229,7 @@
   },
   "1146": {
     "id": "1146",
-    "name": "城市建造",
+    "name": "City Builder",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -517,7 +517,7 @@
   },
   "1220": {
     "id": "1220",
-    "name": "Zumbis",
+    "name": "ZOMBIES",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -1211,7 +1211,7 @@
   },
   "14917": {
     "id": "14917",
-    "name": "Deep Silver Publisher Sale",
+    "name": "Распродажа издателя Deep Silver",
     "namespace": null,
     "aliases": [],
     "operator": null,
