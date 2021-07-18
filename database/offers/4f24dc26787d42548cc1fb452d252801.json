@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1393",
-      "name": "Симулятор",
+      "name": "Simulación",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "14346",
-      "name": "Праздничная распродажа 2020",
+      "name": "Ofertas festivas 2020",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1307",
-      "name": "Открытый мир",
+      "name": "Mundo abierto",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "16011",
-      "name": "Мегараспродажа Epic",
+      "name": "Megaoferta de Epic",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "1310",
-      "name": "Ранний доступ",
+      "name": "Acceso anticipado",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
@@ -112,7 +112,7 @@
     },
     {
       "id": "1294",
-      "name": "От первого лица",
+      "name": "Primera persona",
       "namespace": "epic",
       "aliases": [],
       "operator": null,

@@ -34,7 +34,7 @@
   "tags": [
     {
       "id": "1393",
-      "name": "Симулятор",
+      "name": "Simulation",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -46,7 +46,7 @@
     },
     {
       "id": "1283",
-      "name": "Спортивная",
+      "name": "Sports",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -58,7 +58,7 @@
     },
     {
       "id": "1370",
-      "name": "Одиночная",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
