@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1187",
-      "name": "THIRD-PERSON SHOOTER",
+      "name": "Tir à la troisième personne",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1203",
-      "name": "Multiplayer",
+      "name": "Multijoueur",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1299",
-      "name": "Competitive",
+      "name": "Compétitif",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1210",
-      "name": "Shooter",
+      "name": "Jeu de tir",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "1164",
-      "name": "TEAM-BASED",
+      "name": "En équipe",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "9549",
-      "name": "Controller Support",
+      "name": "Support manette",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -112,7 +112,7 @@
     },
     {
       "id": "1310",
-      "name": "EARLY ACCESS",
+      "name": "Accès anticipé",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
@@ -124,7 +124,7 @@
     },
     {
       "id": "1215",
-      "name": "POST-APOCALYPTIC",
+      "name": "Post-apocalyptique",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
