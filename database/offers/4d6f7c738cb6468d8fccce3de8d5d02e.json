@@ -52,7 +52,7 @@
     },
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "Tryb jednego gracza",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "1117",
-      "name": "Adventure",
+      "name": "Przygodowe",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -112,7 +112,7 @@
     },
     {
       "id": "9549",
-      "name": "Controller Support",
+      "name": "Obsługa kontrolera",
       "namespace": "epic",
       "aliases": [],
       "operator": null,

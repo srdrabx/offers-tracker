@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1393",
-      "name": "محاكاة",
+      "name": "Simulation",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1283",
-      "name": "رياضية",
+      "name": "Sports",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1370",
-      "name": "لاعب فردي",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
