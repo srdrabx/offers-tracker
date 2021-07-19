@@ -52,7 +52,7 @@
     },
     {
       "id": "1307",
-      "name": "Open World",
+      "name": "オープンワールド",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1117",
-      "name": "Adventure",
+      "name": "アドベンチャー",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
