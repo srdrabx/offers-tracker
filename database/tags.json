@@ -229,7 +229,7 @@
   },
   "1146": {
     "id": "1146",
-    "name": "City Builder",
+    "name": "Строительство города",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -409,7 +409,7 @@
   },
   "1190": {
     "id": "1190",
-    "name": "Война",
+    "name": "WAR",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -481,7 +481,7 @@
   },
   "1215": {
     "id": "1215",
-    "name": "POST-APOCALYPTIC",
+    "name": "Post-apocalittico",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -805,7 +805,7 @@
   },
   "1317": {
     "id": "1317",
-    "name": "大型多人在线角色扮演游戏",
+    "name": "MMORPG",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
