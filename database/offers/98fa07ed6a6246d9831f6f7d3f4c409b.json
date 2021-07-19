@@ -37,7 +37,7 @@
   "tags": [
     {
       "id": "14944",
-      "name": "The Showcase Sale",
+      "name": "Wyprzedaż-pokaz",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -49,7 +49,7 @@
     },
     {
       "id": "1203",
-      "name": "Multiplayer",
+      "name": "Tryb wieloosobowy",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -61,7 +61,7 @@
     },
     {
       "id": "1141",
-      "name": "Free to Play",
+      "name": "Gry free-to-play",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -85,7 +85,7 @@
     },
     {
       "id": "1294",
-      "name": "First Person",
+      "name": "Pierwszoosobowe",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -97,7 +97,7 @@
     },
     {
       "id": "1279",
-      "name": "Vampire",
+      "name": "Wampiry",
       "namespace": "epic",
       "aliases": [],
       "operator": null,

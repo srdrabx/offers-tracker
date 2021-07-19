@@ -37,7 +37,7 @@
   "tags": [
     {
       "id": "1370",
-      "name": "Einzelspieler",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -49,7 +49,7 @@
     },
     {
       "id": "1386",
-      "name": "Rundenbasiert",
+      "name": "Turn-Based",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -61,7 +61,7 @@
     },
     {
       "id": "1115",
-      "name": "Strategie",
+      "name": "Strategy",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -153,7 +153,5 @@
       "id": "8ca9aed2d0194225b6489c76c0c98b6f"
     }
   ],
-  "catalogNs": {
-    "name": "0d89655f53884b09b241b60c07e684af"
-  }
+  "catalogNs": null
 }

@@ -34,7 +34,7 @@
   "tags": [
     {
       "id": "1203",
-      "name": "Multiplayer",
+      "name": "Multijugador",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -46,7 +46,7 @@
     },
     {
       "id": "1141",
-      "name": "Free to Play",
+      "name": "Gratuito",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -82,7 +82,7 @@
     },
     {
       "id": "1279",
-      "name": "Vampire",
+      "name": "Vampiros",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -146,7 +146,5 @@
       "id": "7dc6f4bb6f0e4d56b64c976211164e4f"
     }
   ],
-  "catalogNs": {
-    "name": "jackal"
-  }
+  "catalogNs": null
 }
