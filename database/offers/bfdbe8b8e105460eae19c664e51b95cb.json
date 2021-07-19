@@ -37,7 +37,7 @@
   "tags": [
     {
       "id": "1393",
-      "name": "模拟",
+      "name": "Simulation",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -49,7 +49,7 @@
     },
     {
       "id": "1370",
-      "name": "单人游戏",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -61,7 +61,7 @@
     },
     {
       "id": "1115",
-      "name": "战略",
+      "name": "Strategy",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -85,7 +85,7 @@
     },
     {
       "id": "9549",
-      "name": "控制器支持",
+      "name": "Controller Support",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
