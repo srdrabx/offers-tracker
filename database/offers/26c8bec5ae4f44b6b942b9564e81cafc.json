@@ -52,7 +52,7 @@
     },
     {
       "id": "1185",
-      "name": "FPS",
+      "name": "Tir à la première personne",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1307",
-      "name": "Open World",
+      "name": "Monde ouvert",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "16011",
-      "name": "Epic MEGA Sale",
+      "name": "MÉGA soldes Epic",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "15375",
-      "name": "Spring Sale",
+      "name": "Soldes de printemps",
       "namespace": null,
       "aliases": [],
       "operator": null,

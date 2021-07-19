@@ -61,7 +61,7 @@
     },
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "Solo",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -97,7 +97,7 @@
     },
     {
       "id": "1341",
-      "name": "Supernatural",
+      "name": "Surnaturel",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -109,7 +109,7 @@
     },
     {
       "id": "1117",
-      "name": "Adventure",
+      "name": "Aventure",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
