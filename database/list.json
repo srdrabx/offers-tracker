@@ -28803,6 +28803,22 @@
     "phantom-brigade"
   ],
   [
+    "6fd7745c80844568a84a43fddc7be385",
+    "755d1aa0a0154fe7a602caaec1f18c10",
+    "Road 96",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Plug In Digital SAS",
+    1620856753,
+    1626714012,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Road96_Digixart_S6_1200x1600-7c06b681f5b6da8f1918e76401b78051",
+    "road-96"
+  ],
+  [
     "6fe14544c0e54c048e80ea6e980f7890",
     "impala",
     "Tom Clancy's The Division 2  Warlords of New York Edition",
@@ -35830,7 +35846,7 @@
     ],
     "Frozen District",
     1615538579,
-    1616697514,
+    1626713877,
     "https://cdn1.epicgames.com/edaebe133189475c9fd853858b7fa9ac/offer/EGS_TheTenants_AncientForgeStudio_S2-1200x1600-6ff72dbe1bcb1cdb3345714c8ab8b4a7.jpg",
     "the-tenants"
   ],
@@ -54379,6 +54395,21 @@
     1610032357,
     "https://cdn1.epicgames.com/0a4fc789eb0143c29296de79df5387ab/offer/EGS_CryingSunsDemo_AltShift_Demo_S2-1200x1600-c4c20cfebf151c67a793cb4e526ee0cb.jpg",
     "crying-suns/demo"
+  ],
+  [
+    "d329e258b334414a9972ab2dbd12528f",
+    "301ec0fdbcaf46b3af9322e436ac87bd",
+    "Voidtrain",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition"
+    ],
+    "Hypetrain Digital",
+    1611789673,
+    1626712990,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Voidtrain_NEARGA_S2_1200x1600-497cd22d4e46bc6c5ba56c3215fc5b4f",
+    "voidtrain"
   ],
   [
     "d33bbfa634c64155b9483bb3be4ab612",

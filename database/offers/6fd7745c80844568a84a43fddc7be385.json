@@ -1,0 +1,184 @@
+{
+  "id": "6fd7745c80844568a84a43fddc7be385",
+  "namespace": "755d1aa0a0154fe7a602caaec1f18c10",
+  "title": "Road 96",
+  "description": "Road 96",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "road-96",
+  "urlSlug": "road-96",
+  "creationDate": "2021-05-12T21:59:13.854Z",
+  "lastModifiedDate": "2021-07-19T17:00:12.498Z",
+  "effectiveDate": "2099-02-01T00:00:00.000Z",
+  "viewableDate": "2021-07-19T17:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+    "name": "Plug In Digital SAS"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2021-02-10T17:35:47.790Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2021-02-10T17:36:06.452Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2021-02-10T17:35:19.827Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Plug In Digital SAS"
+    },
+    {
+      "key": "developerName",
+      "value": "Digixart"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "road-96"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Road96_Digixart_S6_1200x1600-7c06b681f5b6da8f1918e76401b78051",
+      "md5": "7c06b681f5b6da8f1918e76401b78051",
+      "size": 767591,
+      "uploadedDate": "2021-07-12T23:15:38.408Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Road96_Digixart_S2_1200x1600-7c06b681f5b6da8f1918e76401b78051",
+      "md5": "7c06b681f5b6da8f1918e76401b78051",
+      "size": 767591,
+      "uploadedDate": "2021-07-12T23:16:07.092Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Road96_Digixart_S3_2560x1440-411bfe9f5bbc608f59ce90e173bac927",
+      "md5": "411bfe9f5bbc608f59ce90e173bac927",
+      "size": 821356,
+      "uploadedDate": "2021-07-12T23:15:59.772Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Road96_Digixart_S6_1200x1600-7c06b681f5b6da8f1918e76401b78051",
+      "md5": "7c06b681f5b6da8f1918e76401b78051",
+      "size": 767591,
+      "uploadedDate": "2021-07-12T23:16:23.970Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Road96_Digixart_S6_1200x1600-7c06b681f5b6da8f1918e76401b78051",
+      "md5": "7c06b681f5b6da8f1918e76401b78051",
+      "size": 767591,
+      "uploadedDate": "2021-07-12T23:17:17.066Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Road96_Digixart_S3_2560x1440-411bfe9f5bbc608f59ce90e173bac927",
+      "md5": "411bfe9f5bbc608f59ce90e173bac927",
+      "size": 821356,
+      "uploadedDate": "2021-07-12T23:17:09.014Z",
+      "width": 2560,
+      "height": 1440
+    }
+  ],
+  "items": [
+    {
+      "id": "77de1a340fd74576b04838f3872b19c4"
+    }
+  ],
+  "catalogNs": {
+    "name": "755d1aa0a0154fe7a602caaec1f18c10"
+  }
+}
