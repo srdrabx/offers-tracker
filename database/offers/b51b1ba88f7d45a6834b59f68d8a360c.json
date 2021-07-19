@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "14944",
-      "name": "The Showcase Sale",
+      "name": "Ofertas especiales",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1080",
-      "name": "Survival",
+      "name": "Supervivencia",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1146",
-      "name": "City Builder",
+      "name": "Construcción de ciudades",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "Para un solo jugador",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "14346",
-      "name": "Holiday Sale 2020",
+      "name": "Ofertas festivas 2020",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "1115",
-      "name": "Strategy",
+      "name": "Estrategia",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -124,7 +124,7 @@
     },
     {
       "id": "16011",
-      "name": "Epic MEGA Sale",
+      "name": "Megaoferta de Epic",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -148,7 +148,7 @@
     },
     {
       "id": "15375",
-      "name": "Spring Sale",
+      "name": "Ofertas de primavera",
       "namespace": null,
       "aliases": [],
       "operator": null,
