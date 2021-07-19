@@ -517,7 +517,7 @@
   },
   "1220": {
     "id": "1220",
-    "name": "ZOMBIES",
+    "name": "Зомби",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -1307,7 +1307,7 @@
   },
   "15583": {
     "id": "15583",
-    "name": "BAFTA Games Awards 2021",
+    "name": "Премия BAFTA в области видеоигр 2021",
     "namespace": null,
     "aliases": [],
     "operator": null,
