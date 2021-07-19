@@ -301,7 +301,7 @@
   },
   "1164": {
     "id": "1164",
-    "name": "TEAM-BASED",
+    "name": "En équipe",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -409,7 +409,7 @@
   },
   "1190": {
     "id": "1190",
-    "name": "Krieg",
+    "name": "战争",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -553,7 +553,7 @@
   },
   "1234": {
     "id": "1234",
-    "name": "PVP",
+    "name": "JcJ",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -1331,7 +1331,7 @@
   },
   "15760": {
     "id": "15760",
-    "name": "《Hitman 3》特卖时间延长",
+    "name": "Sale extension Hitman 3",
     "namespace": null,
     "aliases": [],
     "operator": null,
