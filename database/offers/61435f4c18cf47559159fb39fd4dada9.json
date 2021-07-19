@@ -37,7 +37,7 @@
   "tags": [
     {
       "id": "1386",
-      "name": "턴 기반",
+      "name": "Turn-Based",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -49,7 +49,7 @@
     },
     {
       "id": "1115",
-      "name": "전략",
+      "name": "Strategy",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
