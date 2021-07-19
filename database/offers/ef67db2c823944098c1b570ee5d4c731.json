@@ -46,7 +46,7 @@
   "tags": [
     {
       "id": "1321",
-      "name": "GREAT SOUNDTRACK",
+      "name": "Harika Müzik",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
@@ -58,7 +58,7 @@
     },
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "Tek Oyunculu",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -144,5 +144,7 @@
       "id": "78ce5371087c46008ddfd7df4d945830"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "d9090f3f39f64d5bb827c6e44b95cff0"
+  }
 }

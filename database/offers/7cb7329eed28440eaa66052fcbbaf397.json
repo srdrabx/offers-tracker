@@ -133,7 +133,7 @@
     },
     {
       "id": "1212",
-      "name": "Гонки",
+      "name": "Racing",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -238,5 +238,7 @@
       "id": "b11f7f28d936465791a08d2f88c394cf"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "9cf250606722448887fa1447b1d9da06"
+  }
 }

@@ -409,7 +409,7 @@
   },
   "1190": {
     "id": "1190",
-    "name": "WAR",
+    "name": "Война",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -829,7 +829,7 @@
   },
   "1321": {
     "id": "1321",
-    "name": "GREAT SOUNDTRACK",
+    "name": "Harika Müzik",
     "namespace": "epic",
     "aliases": null,
     "operator": null,

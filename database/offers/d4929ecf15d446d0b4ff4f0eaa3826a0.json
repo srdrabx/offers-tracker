@@ -37,7 +37,7 @@
   "tags": [
     {
       "id": "1185",
-      "name": "FPS",
+      "name": "التصويب من منظور الشخص الأول",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
@@ -49,7 +49,7 @@
     },
     {
       "id": "1203",
-      "name": "Multiplayer",
+      "name": "متعددة اللاعبين",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -61,7 +61,7 @@
     },
     {
       "id": "1210",
-      "name": "Shooter",
+      "name": "تصويب",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
