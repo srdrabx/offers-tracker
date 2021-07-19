@@ -18243,7 +18243,7 @@
     ],
     "Covalent Media dba Scavengers Studio",
     1617231979,
-    1617298868,
+    1626706452,
     "",
     ""
   ],
@@ -21178,16 +21178,18 @@
   [
     "515b1f3aab45403888975234f26409f6",
     "3428aac705b44d88beb8334780fa33bd",
-    "FarfalleGeneralAudience",
+    "Season",
     [
       "games",
+      "games/edition/base",
+      "games/edition",
       "applications"
     ],
     "Covalent Media dba Scavengers Studio",
     1617231979,
-    1617298868,
-    "",
-    ""
+    1626706452,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Season_ScavengersStudio_S2 - Copy_1200x1600-542337d65888d4e1476676d8a628dfe9",
+    "season"
   ],
   [
     "515ffd697e154f11ab4f21446503c954",

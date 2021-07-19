@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1393",
-      "name": "模拟",
+      "name": "Simulation",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1203",
-      "name": "多人游戏",
+      "name": "Multiplayer",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1283",
-      "name": "运动",
+      "name": "Sports",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1370",
-      "name": "单人游戏",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "1212",
-      "name": "竞速",
+      "name": "Racing",
       "namespace": "epic",
       "aliases": [],
       "operator": null,

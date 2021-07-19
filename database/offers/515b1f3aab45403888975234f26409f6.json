@@ -1,16 +1,16 @@
 {
   "id": "515b1f3aab45403888975234f26409f6",
   "namespace": "3428aac705b44d88beb8334780fa33bd",
-  "title": "FarfalleGeneralAudience",
-  "description": "FarfalleGeneralAudience",
+  "title": "Season",
+  "description": "Season",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
+  "productSlug": "season",
   "urlSlug": "farfallegeneralaudience",
   "creationDate": "2021-03-31T23:06:19.189Z",
-  "lastModifiedDate": "2021-04-01T17:41:08.192Z",
+  "lastModifiedDate": "2021-07-19T14:54:12.682Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "viewableDate": "2021-07-19T15:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-8ykq8y3hshjj6nkjujjfwj9cfa5g6f",
@@ -28,25 +28,151 @@
       "path": "games"
     },
     {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "1395",
+      "name": "Narration",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:34.825Z",
+      "updated": "2021-02-10T17:33:17.320Z",
+      "status": "ACTIVE",
+      "referenceCount": 22,
+      "comment": null
+    },
+    {
+      "id": "1381",
+      "name": "Exploration",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:27.799Z",
+      "updated": "2021-02-05T16:20:12.282Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2021-02-10T17:35:47.790Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "KR"
     },
     {
       "key": "publisherName",
-      "value": "[]"
+      "value": "Scavengers Studio"
     },
     {
       "key": "developerName",
-      "value": "[]"
+      "value": "Scavengers Studio"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "season"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Season_ScavengersStudio_S2 - Copy_1200x1600-542337d65888d4e1476676d8a628dfe9",
+      "md5": "542337d65888d4e1476676d8a628dfe9",
+      "size": 929251,
+      "uploadedDate": "2021-06-24T04:49:18.614Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Season_ScavengersStudio_S2 - Copy_1200x1600-542337d65888d4e1476676d8a628dfe9",
+      "md5": "542337d65888d4e1476676d8a628dfe9",
+      "size": 929251,
+      "uploadedDate": "2021-06-24T04:49:24.611Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Season_ScavengersStudio_S2 - Copy_1200x1600-542337d65888d4e1476676d8a628dfe9",
+      "md5": "542337d65888d4e1476676d8a628dfe9",
+      "size": 929251,
+      "uploadedDate": "2021-06-24T04:49:30.900Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Season_ScavengersStudio_S1_2560x1440-68fbb9666c5ee36d29ed416adb50ccd5",
+      "md5": "68fbb9666c5ee36d29ed416adb50ccd5",
+      "size": 992671,
+      "uploadedDate": "2021-06-24T04:49:41.063Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Season_ScavengersStudio_S2 - Copy_1200x1600-542337d65888d4e1476676d8a628dfe9",
+      "md5": "542337d65888d4e1476676d8a628dfe9",
+      "size": 929251,
+      "uploadedDate": "2021-06-24T04:49:51.984Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Season_ScavengersStudio_S1_2560x1440-68fbb9666c5ee36d29ed416adb50ccd5",
+      "md5": "68fbb9666c5ee36d29ed416adb50ccd5",
+      "size": 992671,
+      "uploadedDate": "2021-06-24T04:49:58.695Z",
+      "width": 2560,
+      "height": 1440
+    }
+  ],
   "items": [
     {
       "id": "6b395c842b4344f0b2aadd2bfe6b3ffa"
