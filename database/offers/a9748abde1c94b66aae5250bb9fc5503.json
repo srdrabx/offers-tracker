@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1141",
-      "name": "Gratuit",
+      "name": "Free to Play",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1370",
-      "name": "Solo",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1115",
-      "name": "Stratégie",
+      "name": "Strategy",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
