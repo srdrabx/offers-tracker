@@ -52,7 +52,7 @@
     },
     {
       "id": "1307",
-      "name": "Open World",
+      "name": "Mundo Aberto",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1117",
-      "name": "Adventure",
+      "name": "Aventura",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
