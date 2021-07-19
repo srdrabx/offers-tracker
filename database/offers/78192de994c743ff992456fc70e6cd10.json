@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1216",
-      "name": "动作",
+      "name": "Action",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "15760",
-      "name": "《Hitman 3》特卖时间延长",
+      "name": "Sale extension Hitman 3",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1370",
-      "name": "单人游戏",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "16011",
-      "name": "Epic 大特卖",
+      "name": "Epic MEGA Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "1084",
-      "name": "潜行",
+      "name": "Stealth",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -112,7 +112,7 @@
     },
     {
       "id": "9549",
-      "name": "控制器支持",
+      "name": "Controller Support",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -124,7 +124,7 @@
     },
     {
       "id": "15375",
-      "name": "春季特惠",
+      "name": "Spring Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
