@@ -217,7 +217,7 @@
   },
   "1141": {
     "id": "1141",
-    "name": "Oynaması Ücretsiz",
+    "name": "Free to Play",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -409,7 +409,7 @@
   },
   "1190": {
     "id": "1190",
-    "name": "Guerra",
+    "name": "WAR",
     "namespace": "epic",
     "aliases": null,
     "operator": null,

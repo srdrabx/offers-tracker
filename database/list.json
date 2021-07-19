@@ -481,7 +481,7 @@
     ],
     "Maximum Games",
     1605674685,
-    1612192639,
+    1626719668,
     "",
     ""
   ],
@@ -4972,7 +4972,7 @@
     ],
     "Maximum Games",
     1605674684,
-    1612192639,
+    1626719668,
     "https://cdn1.epicgames.com/ef361cdf19514595a8cb0945fb66962e/offer/EGS_AgorgeousindielovelettertoclassicJRPGs_DreamsUncorporatedSYCK_S2-1200x1600-1cb9e1f4514ece8e580803edccc2e99e.jpg",
     "cris-tales"
   ],
@@ -9711,6 +9711,21 @@
     1567116009,
     1617897928,
     "https://cdn1.epicgames.com/azalea/offer/UI_Art_Currencies_offer_2800-672x1104-013d5abbc73a3835de591f24ce5def69.jpg",
+    ""
+  ],
+  [
+    "25c019dfe1204ccd9e6f836894aadbe8",
+    "ef361cdf19514595a8cb0945fb66962e",
+    "Cris Tales Original Soundtrack",
+    [
+      "digitalextras",
+      "digitalextras/soundtrack",
+      "applications"
+    ],
+    "Maximum Games",
+    1626152670,
+    1626720690,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CrisTalesOriginalSoundtrack_DreamsUncorporatedSYCK_DigitalExtras_S2_1200x1600-56b735de51c33b9dda21710aa44294f8",
     ""
   ],
   [
@@ -45612,6 +45627,21 @@
     1608057431,
     "https://cdn1.epicgames.com/244aaaa06bfa49d088205b13b9d2d115/offer/WF_PlatinumPack2100_1200x1600-1200x1600-4a8085dab8d0cb6515168015b6a0ca82.jpg",
     ""
+  ],
+  [
+    "aef76ef632d7492e9ebf8ca735681dae",
+    "ef361cdf19514595a8cb0945fb66962e",
+    "Cris Tales Original Soundtrack Bundle",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Maximum Games",
+    1626373558,
+    1626719668,
+    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CrisTalesOriginalSoundtrackBundle_DreamsUncorporatedSYCK_Bundles_S2_1200x1600-7b4e4941c470ec968a549f36b212b545",
+    "cris-tales--soundtrack-bundle"
   ],
   [
     "aefb1bcd104f471eaf81d4bb4b5497fe",
