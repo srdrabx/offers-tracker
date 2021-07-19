@@ -193,7 +193,7 @@
   },
   "1131": {
     "id": "1131",
-    "name": "Хоррор на выживание",
+    "name": "SURVIVAL HORROR",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -481,7 +481,7 @@
   },
   "1215": {
     "id": "1215",
-    "name": "POST-APOCALYPTIC",
+    "name": "Posapocalíptico",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
