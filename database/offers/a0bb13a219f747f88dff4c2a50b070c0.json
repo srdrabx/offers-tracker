@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1216",
-      "name": "Action",
+      "name": "动作",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "14944",
-      "name": "The Showcase Sale",
+      "name": "游戏展特卖",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1210",
-      "name": "Shooter",
+      "name": "射击",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "14346",
-      "name": "Holiday Sale 2020",
+      "name": "2020 年假日特卖",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -124,7 +124,7 @@
     },
     {
       "id": "15375",
-      "name": "Spring Sale",
+      "name": "春季特惠",
       "namespace": null,
       "aliases": [],
       "operator": null,

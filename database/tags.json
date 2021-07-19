@@ -493,7 +493,7 @@
   },
   "1216": {
     "id": "1216",
-    "name": "Acción",
+    "name": "动作",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -517,7 +517,7 @@
   },
   "1220": {
     "id": "1220",
-    "name": "ZOMBIES",
+    "name": "Zombis",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -661,7 +661,7 @@
   },
   "1279": {
     "id": "1279",
-    "name": "Vampiros",
+    "name": "吸血鬼",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -769,7 +769,7 @@
   },
   "1299": {
     "id": "1299",
-    "name": "Competitivo",
+    "name": "竞技",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -1398,7 +1398,7 @@
   },
   "16005": {
     "id": "16005",
-    "name": "STAR WARS May The 4th Sale",
+    "name": "星球大战：愿特卖与你同在",
     "namespace": null,
     "aliases": [],
     "operator": null,

@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "14346",
-      "name": "Ofertas navideñas de 2020",
+      "name": "Holiday Sale 2020",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1083",
-      "name": "Exploración de mazmorras simple",
+      "name": "Rogue-Lite",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1181",
-      "name": "Cartas",
+      "name": "Card Game",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
