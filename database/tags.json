@@ -661,7 +661,7 @@
   },
   "1279": {
     "id": "1279",
-    "name": "Vampir",
+    "name": "Vampire",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -769,7 +769,7 @@
   },
   "1299": {
     "id": "1299",
-    "name": "Wettkampf",
+    "name": "Competitive",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
