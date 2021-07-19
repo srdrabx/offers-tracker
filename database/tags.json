@@ -217,7 +217,7 @@
   },
   "1141": {
     "id": "1141",
-    "name": "Gry free-to-play",
+    "name": "Free to Play",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -1235,7 +1235,7 @@
   },
   "15257": {
     "id": "15257",
-    "name": "Rockstar Games İndirimi",
+    "name": "Rockstar Games Sale",
     "namespace": null,
     "aliases": [],
     "operator": null,

@@ -31,7 +31,7 @@
   "tags": [
     {
       "id": "1393",
-      "name": "Simulation",
+      "name": "Симулятор",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -79,7 +79,7 @@
     },
     {
       "id": "16011",
-      "name": "Epic MEGA Sale",
+      "name": "Мегараспродажа Epic",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -103,7 +103,7 @@
     },
     {
       "id": "15375",
-      "name": "Spring Sale",
+      "name": "Весенняя распродажа",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -193,5 +193,7 @@
       "id": "30e9edeb89de4a23a73feb432234e98c"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "493e9ad801e8487497fe7840cb8404bb"
+  }
 }
