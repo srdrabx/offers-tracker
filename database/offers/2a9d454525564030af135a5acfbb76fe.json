@@ -8,7 +8,7 @@
   "productSlug": "rainbow-six-extraction",
   "urlSlug": "rainbow-six-extraction-pre-purchase",
   "creationDate": "2021-06-09T23:03:05.076Z",
-  "lastModifiedDate": "2021-06-15T01:59:55.444Z",
+  "lastModifiedDate": "2021-07-19T16:16:55.285Z",
   "effectiveDate": "2021-06-12T20:10:00.000Z",
   "viewableDate": "2021-06-12T20:10:00.000Z",
   "developer": null,
@@ -28,10 +28,10 @@
       "path": "games"
     },
     {
-      "path": "games/edition/base"
+      "path": "games/edition"
     },
     {
-      "path": "games/edition"
+      "path": "games/edition/base"
     },
     {
       "path": "applications"

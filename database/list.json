@@ -10985,13 +10985,13 @@
     "Tom Clancy's Rainbow Six Extraction Pre-Purchase",
     [
       "games",
-      "games/edition/base",
       "games/edition",
+      "games/edition/base",
       "applications"
     ],
     "Ubisoft Entertainment",
     1623279785,
-    1623722395,
+    1626711415,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_R6E_STD_EPIC_Store Portrait_1200x1600_UK_1200x1600-9859512196094e740761af80c09a41d6",
     "rainbow-six-extraction"
   ],
@@ -40203,7 +40203,7 @@
     ],
     "Ubisoft Entertainment",
     1623279956,
-    1623722415,
+    1626711567,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_R6E_DELUXE_EPIC_Store Portrait_1200x1600_UK_1200x1600-23d70800984f407ab6ccd02c808c225a",
     "rainbow-six-extraction--deluxe-edition"
   ],
@@ -42505,7 +42505,7 @@
   [
     "a248dd5d41f14fe58c4542e7ada6c716",
     "d5dc736cb39c4b09b32a0049a4009d67",
-    "JETT : THE FAR SHORE®",
+    "JETT : THE FAR SHORE",
     [
       "games",
       "games/edition/base",
@@ -42514,7 +42514,7 @@
     ],
     "Superbrothers",
     1582827938,
-    1626380227,
+    1626711890,
     "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JETTTHEFARSHORE_SuperbrothersPineScented_S2_1200x1600-7398300b6f6379d901588afe32cdec11",
     "jett-the-far-shore"
   ],
@@ -61300,7 +61300,7 @@
     ],
     "miHoYo Co., Ltd",
     1616524524,
-    1626156760,
+    1626710520,
     "",
     ""
   ],
