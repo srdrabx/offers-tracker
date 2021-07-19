@@ -34,7 +34,7 @@
   "tags": [
     {
       "id": "1367",
-      "name": "RPG",
+      "name": "Rol",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -46,7 +46,7 @@
     },
     {
       "id": "1115",
-      "name": "Strategy",
+      "name": "Estrategia",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
