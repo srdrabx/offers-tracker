@@ -409,7 +409,7 @@
   },
   "1190": {
     "id": "1190",
-    "name": "WAR",
+    "name": "Guerra",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -1235,7 +1235,7 @@
   },
   "15257": {
     "id": "15257",
-    "name": "Rockstar Games Sale",
+    "name": "Распродажа Rockstar Games",
     "namespace": null,
     "aliases": [],
     "operator": null,
