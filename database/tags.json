@@ -409,7 +409,7 @@
   },
   "1190": {
     "id": "1190",
-    "name": "WAR",
+    "name": "Guerre",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -937,7 +937,7 @@
   },
   "1349": {
     "id": "1349",
-    "name": "FAST-PACED",
+    "name": "De ritmo rápido",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
