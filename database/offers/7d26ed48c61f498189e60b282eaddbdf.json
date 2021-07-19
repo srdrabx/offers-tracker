@@ -55,7 +55,7 @@
     },
     {
       "id": "1264",
-      "name": "Coopération",
+      "name": "Co-op",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -67,7 +67,7 @@
     },
     {
       "id": "1203",
-      "name": "Multijoueur",
+      "name": "Multiplayer",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -79,7 +79,7 @@
     },
     {
       "id": "1190",
-      "name": "Guerre",
+      "name": "WAR",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
@@ -91,7 +91,7 @@
     },
     {
       "id": "1210",
-      "name": "Jeu de tir",
+      "name": "Shooter",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -103,7 +103,7 @@
     },
     {
       "id": "1370",
-      "name": "Solo",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -127,7 +127,7 @@
     },
     {
       "id": "9549",
-      "name": "Support manette",
+      "name": "Controller Support",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
