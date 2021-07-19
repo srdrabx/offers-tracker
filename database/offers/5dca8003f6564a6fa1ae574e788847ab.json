@@ -37,7 +37,7 @@
   "tags": [
     {
       "id": "14944",
-      "name": "Ofertas especiales",
+      "name": "游戏展特卖",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -49,7 +49,7 @@
     },
     {
       "id": "16005",
-      "name": "Oferta de STAR WARS",
+      "name": "星球大战：愿特卖与你同在",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -61,7 +61,7 @@
     },
     {
       "id": "16011",
-      "name": "Megaoferta de Epic",
+      "name": "Epic 大特卖",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -73,7 +73,7 @@
     },
     {
       "id": "15375",
-      "name": "Ofertas de primavera",
+      "name": "春季特惠",
       "namespace": null,
       "aliases": [],
       "operator": null,
