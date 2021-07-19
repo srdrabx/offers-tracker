@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "Solo",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1386",
-      "name": "Turn-Based",
+      "name": "Tour par tour",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1115",
-      "name": "Strategy",
+      "name": "Stratégie",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
