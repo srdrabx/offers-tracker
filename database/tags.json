@@ -409,7 +409,7 @@
   },
   "1190": {
     "id": "1190",
-    "name": "WAR",
+    "name": "Guerra",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -853,7 +853,7 @@
   },
   "1333": {
     "id": "1333",
-    "name": "Action RPG",
+    "name": "动作角色扮演",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -973,7 +973,7 @@
   },
   "1367": {
     "id": "1367",
-    "name": "RPG",
+    "name": "角色扮演",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
