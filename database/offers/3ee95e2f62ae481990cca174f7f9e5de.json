@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1216",
-      "name": "액션",
+      "name": "Action",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1400",
-      "name": "물리",
+      "name": "Physics",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1370",
-      "name": "싱글 플레이어",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "1307",
-      "name": "오픈 월드",
+      "name": "Open World",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "15375",
-      "name": "봄맞이 세일",
+      "name": "Spring Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
