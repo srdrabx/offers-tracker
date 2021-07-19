@@ -493,7 +493,7 @@
   },
   "1216": {
     "id": "1216",
-    "name": "Acción",
+    "name": "Action",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -661,7 +661,7 @@
   },
   "1279": {
     "id": "1279",
-    "name": "Vampiros",
+    "name": "Vampire",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -769,7 +769,7 @@
   },
   "1299": {
     "id": "1299",
-    "name": "Competitivo",
+    "name": "Competitive",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -937,7 +937,7 @@
   },
   "1349": {
     "id": "1349",
-    "name": "De ritmo rápido",
+    "name": "FAST-PACED",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -1331,7 +1331,7 @@
   },
   "15760": {
     "id": "15760",
-    "name": "《Hitman 3》特卖时间延长",
+    "name": "Sale extension Hitman 3",
     "namespace": null,
     "aliases": [],
     "operator": null,
