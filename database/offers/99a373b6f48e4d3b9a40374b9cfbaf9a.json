@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1395",
-      "name": "叙事",
+      "name": "Narration",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1212",
-      "name": "竞速",
+      "name": "Racing",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1263",
-      "name": "独立",
+      "name": "Indie",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
