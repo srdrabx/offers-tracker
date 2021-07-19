@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1344",
-      "name": "格斗",
+      "name": "Fighting",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1203",
-      "name": "多人游戏",
+      "name": "Multiplayer",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1294",
-      "name": "第一人称",
+      "name": "First Person",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
