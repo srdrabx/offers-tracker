@@ -37,7 +37,7 @@
   "tags": [
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "Solo",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -61,7 +61,7 @@
     },
     {
       "id": "16011",
-      "name": "Epic MEGA Sale",
+      "name": "MÉGA soldes Epic",
       "namespace": null,
       "aliases": [],
       "operator": null,
