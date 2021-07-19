@@ -34,7 +34,7 @@
   "tags": [
     {
       "id": "1203",
-      "name": "Multiplayer",
+      "name": "Mehrspieler",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -58,7 +58,7 @@
     },
     {
       "id": "1115",
-      "name": "Strategy",
+      "name": "Strategie",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
