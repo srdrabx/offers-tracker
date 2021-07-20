@@ -43,7 +43,7 @@
   "tags": [
     {
       "id": "1298",
-      "name": "Puzzle",
+      "name": "パズル",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -55,7 +55,7 @@
     },
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "シングルプレイヤー",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -67,7 +67,7 @@
     },
     {
       "id": "1115",
-      "name": "Strategy",
+      "name": "ストラテジー",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -91,7 +91,7 @@
     },
     {
       "id": "1117",
-      "name": "Adventure",
+      "name": "アドベンチャー",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -103,7 +103,7 @@
     },
     {
       "id": "9549",
-      "name": "Controller Support",
+      "name": "コントローラーサポート",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
