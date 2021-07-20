@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1298",
-      "name": "Quebra-Cabeça",
+      "name": "Puzzle",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1203",
-      "name": "Multijogador",
+      "name": "Multiplayer",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1299",
-      "name": "Competitivo",
+      "name": "Competitive",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1370",
-      "name": "Um jogador",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,

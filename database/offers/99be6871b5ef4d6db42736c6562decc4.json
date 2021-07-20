@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1381",
-      "name": "Exploration",
+      "name": "Exploración",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "Para un solo jugador",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1307",
-      "name": "Open World",
+      "name": "Mundo abierto",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "1294",
-      "name": "First Person",
+      "name": "Primera persona",
       "namespace": "epic",
       "aliases": [],
       "operator": null,

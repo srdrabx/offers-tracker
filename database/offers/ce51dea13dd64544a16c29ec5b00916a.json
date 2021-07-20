@@ -34,7 +34,7 @@
   "tags": [
     {
       "id": "1203",
-      "name": "Multijugador",
+      "name": "Multigiocatore",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -70,7 +70,7 @@
     },
     {
       "id": "9549",
-      "name": "Controller Support",
+      "name": "Supporto controller",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -146,5 +146,7 @@
       "id": "2ddee2a838fd45769301b21680b106bd"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "jackal"
+  }
 }
