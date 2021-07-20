@@ -37,7 +37,7 @@
   "tags": [
     {
       "id": "14944",
-      "name": "游戏展特卖",
+      "name": "The Showcase Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -49,7 +49,7 @@
     },
     {
       "id": "1393",
-      "name": "模拟",
+      "name": "Simulation",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -61,7 +61,7 @@
     },
     {
       "id": "1283",
-      "name": "运动",
+      "name": "Sports",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -73,7 +73,7 @@
     },
     {
       "id": "1203",
-      "name": "多人游戏",
+      "name": "Multiplayer",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -85,7 +85,7 @@
     },
     {
       "id": "1370",
-      "name": "单人游戏",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -97,7 +97,7 @@
     },
     {
       "id": "14346",
-      "name": "2020 年假日特卖",
+      "name": "Holiday Sale 2020",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -121,7 +121,7 @@
     },
     {
       "id": "16011",
-      "name": "Epic 大特卖",
+      "name": "Epic MEGA Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -133,7 +133,7 @@
     },
     {
       "id": "1212",
-      "name": "竞速",
+      "name": "Racing",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -145,7 +145,7 @@
     },
     {
       "id": "15375",
-      "name": "春季特惠",
+      "name": "Spring Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -238,7 +238,5 @@
       "id": "b11f7f28d936465791a08d2f88c394cf"
     }
   ],
-  "catalogNs": {
-    "name": "9cf250606722448887fa1447b1d9da06"
-  }
+  "catalogNs": null
 }
