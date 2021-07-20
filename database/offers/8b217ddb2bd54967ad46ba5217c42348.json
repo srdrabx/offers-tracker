@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1146",
-      "name": "Construcción de ciudades",
+      "name": "City Builder",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1370",
-      "name": "Para un solo jugador",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1083",
-      "name": "Roguelite",
+      "name": "Rogue-Lite",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1115",
-      "name": "Estrategia",
+      "name": "Strategy",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
