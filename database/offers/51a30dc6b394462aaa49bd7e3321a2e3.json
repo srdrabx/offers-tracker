@@ -37,7 +37,7 @@
   "tags": [
     {
       "id": "1264",
-      "name": "Co-op",
+      "name": "联合行动",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -49,7 +49,7 @@
     },
     {
       "id": "1203",
-      "name": "Multiplayer",
+      "name": "多人游戏",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -61,7 +61,7 @@
     },
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "单人游戏",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -73,7 +73,7 @@
     },
     {
       "id": "1386",
-      "name": "Turn-Based",
+      "name": "回合制",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -85,7 +85,7 @@
     },
     {
       "id": "1115",
-      "name": "Strategy",
+      "name": "战略",
       "namespace": "epic",
       "aliases": [],
       "operator": null,

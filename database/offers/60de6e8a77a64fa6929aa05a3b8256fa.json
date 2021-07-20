@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1216",
-      "name": "动作",
+      "name": "Action",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1171",
-      "name": "砍杀",
+      "name": "HACK AND SLASH",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1370",
-      "name": "单人游戏",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1115",
-      "name": "战略",
+      "name": "Strategy",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "1084",
-      "name": "潜行",
+      "name": "Stealth",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
