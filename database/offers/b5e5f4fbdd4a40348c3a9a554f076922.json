@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1298",
-      "name": "Puzzle",
+      "name": "Casse-tête",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1127",
-      "name": "Investigation",
+      "name": "Enquête",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "Solo",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "1117",
-      "name": "Adventure",
+      "name": "Aventure",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "9549",
-      "name": "Controller Support",
+      "name": "Support manette",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
