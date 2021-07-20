@@ -49,7 +49,7 @@
     },
     {
       "id": "1393",
-      "name": "Simulation",
+      "name": "시뮬레이션",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -61,7 +61,7 @@
     },
     {
       "id": "1283",
-      "name": "Sports",
+      "name": "스포츠",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -73,7 +73,7 @@
     },
     {
       "id": "1203",
-      "name": "Multiplayer",
+      "name": "멀티플레이어",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -85,7 +85,7 @@
     },
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "싱글 플레이어",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -133,7 +133,7 @@
     },
     {
       "id": "1212",
-      "name": "Racing",
+      "name": "레이싱",
       "namespace": "epic",
       "aliases": [],
       "operator": null,

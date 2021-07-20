@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1367",
-      "name": "RPG",
+      "name": "Rol",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1370",
-      "name": "싱글 플레이어",
+      "name": "Un solo jugador",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1307",
-      "name": "오픈 월드",
+      "name": "Mundo abierto",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "1117",
-      "name": "어드벤처",
+      "name": "Aventura",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
