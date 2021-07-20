@@ -301,7 +301,7 @@
   },
   "1164": {
     "id": "1164",
-    "name": "TEAM-BASED",
+    "name": "基于团队",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -493,7 +493,7 @@
   },
   "1216": {
     "id": "1216",
-    "name": "Azione",
+    "name": "Action",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -553,7 +553,7 @@
   },
   "1234": {
     "id": "1234",
-    "name": "PVP",
+    "name": "玩家对玩家",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -661,7 +661,7 @@
   },
   "1279": {
     "id": "1279",
-    "name": "Vampiri",
+    "name": "Vampire",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -769,7 +769,7 @@
   },
   "1299": {
     "id": "1299",
-    "name": "Competitivo",
+    "name": "Competitive",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -1343,7 +1343,7 @@
   },
   "15895": {
     "id": "15895",
-    "name": "Rebajas de aniversario de Tropico",
+    "name": "Tropico Anniversary Sale",
     "namespace": null,
     "aliases": [],
     "operator": null,

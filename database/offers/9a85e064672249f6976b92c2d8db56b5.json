@@ -37,7 +37,7 @@
   "tags": [
     {
       "id": "1203",
-      "name": "Multijogador",
+      "name": "Multiplayer",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -49,7 +49,7 @@
     },
     {
       "id": "1210",
-      "name": "Tiro",
+      "name": "Shooter",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "1294",
-      "name": "Primeira Pessoa",
+      "name": "First Person",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
