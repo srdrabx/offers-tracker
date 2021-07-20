@@ -301,7 +301,7 @@
   },
   "1164": {
     "id": "1164",
-    "name": "TEAM-BASED",
+    "name": "Por equipos",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -409,7 +409,7 @@
   },
   "1190": {
     "id": "1190",
-    "name": "WAR",
+    "name": "战争",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -553,7 +553,7 @@
   },
   "1234": {
     "id": "1234",
-    "name": "PVP",
+    "name": "JcJ",
     "namespace": "epic",
     "aliases": null,
     "operator": null,

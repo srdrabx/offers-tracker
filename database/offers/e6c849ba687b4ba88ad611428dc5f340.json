@@ -49,7 +49,7 @@
     },
     {
       "id": "1367",
-      "name": "RPG",
+      "name": "Jeu de rôle",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -61,7 +61,7 @@
     },
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "Solo",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -85,7 +85,7 @@
     },
     {
       "id": "1117",
-      "name": "Adventure",
+      "name": "Aventure",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
