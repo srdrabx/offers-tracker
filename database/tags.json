@@ -229,7 +229,7 @@
   },
   "1146": {
     "id": "1146",
-    "name": "City Builder",
+    "name": "Construcción de ciudades",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -493,7 +493,7 @@
   },
   "1216": {
     "id": "1216",
-    "name": "Action",
+    "name": "Acción",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -661,7 +661,7 @@
   },
   "1279": {
     "id": "1279",
-    "name": "Vampire",
+    "name": "Vampiros",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -769,7 +769,7 @@
   },
   "1299": {
     "id": "1299",
-    "name": "Competitive",
+    "name": "Competitivo",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -853,7 +853,7 @@
   },
   "1333": {
     "id": "1333",
-    "name": "RPG de Ação",
+    "name": "Action RPG",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -1307,7 +1307,7 @@
   },
   "15583": {
     "id": "15583",
-    "name": "Премия BAFTA в области видеоигр 2021",
+    "name": "BAFTA Games Awards 2021",
     "namespace": null,
     "aliases": [],
     "operator": null,
