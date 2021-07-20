@@ -8,7 +8,7 @@
   "productSlug": "among-us",
   "urlSlug": "among-us",
   "creationDate": "2020-11-05T16:10:59.293Z",
-  "lastModifiedDate": "2021-05-27T15:40:55.934Z",
+  "lastModifiedDate": "2021-07-20T21:41:25.849Z",
   "effectiveDate": "2020-12-18T17:00:00.000Z",
   "viewableDate": "2020-12-18T17:00:00.000Z",
   "developer": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "15375",
-      "name": "Ofertas de primavera",
+      "name": "Spring Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -120,55 +120,55 @@
   "keyImages": [
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AmongUs_Innersloth_S2_1200x1600-1ed84c94766b627a7e2848a01d704b7a",
-      "md5": "1ed84c94766b627a7e2848a01d704b7a",
-      "size": 659841,
-      "uploadedDate": "2021-05-27T15:40:00.387Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AmongUs_Innersloth_S1_2560x1440-0a2daa0c14a0e5bb142a3cd0e347e791",
-      "md5": "0a2daa0c14a0e5bb142a3cd0e347e791",
-      "size": 977809,
-      "uploadedDate": "2021-05-27T15:40:07.855Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AmongUs_Innersloth_S2_1200x1600-1ed84c94766b627a7e2848a01d704b7a",
-      "md5": "1ed84c94766b627a7e2848a01d704b7a",
-      "size": 659841,
-      "uploadedDate": "2021-05-27T15:40:15.423Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AmongUs_Innersloth_S2_1200x1600-1ed84c94766b627a7e2848a01d704b7a",
-      "md5": "1ed84c94766b627a7e2848a01d704b7a",
-      "size": 659841,
-      "uploadedDate": "2021-05-27T15:40:23.456Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/amogusportrait_1200x1600-66ad0e4d363e1c92f9f8aae67a96dd31",
+      "md5": "66ad0e4d363e1c92f9f8aae67a96dd31",
+      "size": 546928,
+      "uploadedDate": "2021-07-20T21:40:30.069Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AmongUs_Innersloth_S2_1200x1600-1ed84c94766b627a7e2848a01d704b7a",
-      "md5": "1ed84c94766b627a7e2848a01d704b7a",
-      "size": 659841,
-      "uploadedDate": "2021-05-27T15:40:33.726Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/amogusportrait_1200x1600-66ad0e4d363e1c92f9f8aae67a96dd31",
+      "md5": "66ad0e4d363e1c92f9f8aae67a96dd31",
+      "size": 546928,
+      "uploadedDate": "2021-07-20T21:40:43.514Z",
       "width": 1200,
       "height": 1600
     },
     {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/amogusportrait_1200x1600-66ad0e4d363e1c92f9f8aae67a96dd31",
+      "md5": "66ad0e4d363e1c92f9f8aae67a96dd31",
+      "size": 546928,
+      "uploadedDate": "2021-07-20T21:40:52.872Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/amogusportrait_1200x1600-66ad0e4d363e1c92f9f8aae67a96dd31",
+      "md5": "66ad0e4d363e1c92f9f8aae67a96dd31",
+      "size": 546928,
+      "uploadedDate": "2021-07-20T21:41:00.789Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/amoguslandscape_2560x1440-3fac17e8bb45d81ec9b2c24655758075",
+      "md5": "3fac17e8bb45d81ec9b2c24655758075",
+      "size": 946008,
+      "uploadedDate": "2021-07-20T21:41:11.372Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AmongUs_Innersloth_S1_2560x1440-0a2daa0c14a0e5bb142a3cd0e347e791",
-      "md5": "0a2daa0c14a0e5bb142a3cd0e347e791",
-      "size": 977809,
-      "uploadedDate": "2021-05-27T15:40:42.745Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/amoguslandscape_2560x1440-3fac17e8bb45d81ec9b2c24655758075",
+      "md5": "3fac17e8bb45d81ec9b2c24655758075",
+      "size": 946008,
+      "uploadedDate": "2021-07-20T21:41:21.531Z",
       "width": 2560,
       "height": 1440
     }
