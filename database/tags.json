@@ -325,7 +325,7 @@
   },
   "1171": {
     "id": "1171",
-    "name": "HACK AND SLASH",
+    "name": "砍杀",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -1235,7 +1235,7 @@
   },
   "15257": {
     "id": "15257",
-    "name": "Rockstar Games 特賣",
+    "name": "Rockstar Games Sale",
     "namespace": null,
     "aliases": [],
     "operator": null,
