@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1203",
-      "name": "Tryb wieloosobowy",
+      "name": "Multiplayer",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1299",
-      "name": "Rywalizacja",
+      "name": "Competitive",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1370",
-      "name": "Tryb jednego gracza",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "16011",
-      "name": "Mega wyprzedaż Epic",
+      "name": "Epic MEGA Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "1279",
-      "name": "Wampiry",
+      "name": "Vampire",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
