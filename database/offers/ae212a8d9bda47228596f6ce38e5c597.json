@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "14944",
-      "name": "The Showcase Sale",
+      "name": "Soldes de la vitrine",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "14346",
-      "name": "Holiday Sale 2020",
+      "name": "Soldes des fêtes de fin d'année 2020",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "16011",
-      "name": "Epic MEGA Sale",
+      "name": "MÉGA soldes Epic",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "1212",
-      "name": "Racing",
+      "name": "Course",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -112,7 +112,7 @@
     },
     {
       "id": "1263",
-      "name": "Indie",
+      "name": "Indépendant",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -139,7 +139,7 @@
     },
     {
       "id": "15375",
-      "name": "Spring Sale",
+      "name": "Soldes de printemps",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -216,7 +216,5 @@
       "id": "4e6489e8fa544a128a7a5c7554869afe"
     }
   ],
-  "catalogNs": {
-    "name": "f5d58106a0e143758ddf2bb30dd72ae2"
-  }
+  "catalogNs": null
 }

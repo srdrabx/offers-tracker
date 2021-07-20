@@ -8,8 +8,8 @@
   "productSlug": null,
   "urlSlug": "rimworld--ideology-dlc",
   "creationDate": "2021-07-15T01:32:33.571Z",
-  "lastModifiedDate": "2021-07-20T17:16:06.990Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2021-07-20T17:54:21.795Z",
+  "effectiveDate": "2021-07-20T17:50:00.000Z",
   "viewableDate": "2021-07-20T17:00:00.000Z",
   "developer": null,
   "seller": {
@@ -297,6 +297,6 @@
     }
   ],
   "catalogNs": {
-    "name": "7051eadbb8c2435caf32a9bc0dc17936"
+    "name": null
   }
 }

@@ -52,7 +52,7 @@
     },
     {
       "id": "1381",
-      "name": "Exploration",
+      "name": "Исследование",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "1307",
-      "name": "Open World",
+      "name": "Открытый мир",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -112,7 +112,7 @@
     },
     {
       "id": "16011",
-      "name": "Epic MEGA Sale",
+      "name": "Мегараспродажа Epic",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -151,7 +151,7 @@
     },
     {
       "id": "1294",
-      "name": "First Person",
+      "name": "От первого лица",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -267,7 +267,5 @@
       "id": "347fa0522a9b4adc8cfc8d3d22d980fa"
     }
   ],
-  "catalogNs": {
-    "name": "corydalis"
-  }
+  "catalogNs": null
 }

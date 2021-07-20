@@ -64,7 +64,7 @@
     },
     {
       "id": "1212",
-      "name": "Racing",
+      "name": "Course",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1263",
-      "name": "Indie",
+      "name": "Indépendant",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -150,7 +150,5 @@
       "id": "97517f0e522842cbb3789fabca45681b"
     }
   ],
-  "catalogNs": {
-    "name": "f5d58106a0e143758ddf2bb30dd72ae2"
-  }
+  "catalogNs": null
 }

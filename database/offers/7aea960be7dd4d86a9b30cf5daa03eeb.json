@@ -52,7 +52,7 @@
     },
     {
       "id": "1393",
-      "name": "Simulación",
+      "name": "Simulation",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1370",
-      "name": "Un solo jugador",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -202,7 +202,5 @@
       "id": "ee55ad78565d4f3988a5c52495deffd0"
     }
   ],
-  "catalogNs": {
-    "name": "6bff1c13a8884b518bd44acaf691ddba"
-  }
+  "catalogNs": null
 }
