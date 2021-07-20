@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1185",
-      "name": "Шутер от первого лица",
+      "name": "FPS",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1307",
-      "name": "Открытый мир",
+      "name": "Open World",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
