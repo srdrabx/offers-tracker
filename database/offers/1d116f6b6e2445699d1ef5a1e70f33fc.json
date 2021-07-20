@@ -49,7 +49,7 @@
     },
     {
       "id": "1146",
-      "name": "City Builder",
+      "name": "Budowanie miast",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -61,7 +61,7 @@
     },
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "Tryb jednego gracza",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -85,7 +85,7 @@
     },
     {
       "id": "1310",
-      "name": "EARLY ACCESS",
+      "name": "Wczesny dostęp",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
