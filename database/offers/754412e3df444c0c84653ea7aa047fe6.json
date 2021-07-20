@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1370",
-      "name": "单人游戏",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1117",
-      "name": "冒险",
+      "name": "Adventure",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1263",
-      "name": "独立",
+      "name": "Indie",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -166,5 +166,7 @@
       "id": "640716c09b0d45ee8b9c496a14b38355"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "b4e95103463b491ab34b29e616404325"
+  }
 }

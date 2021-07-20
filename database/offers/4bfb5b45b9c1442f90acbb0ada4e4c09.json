@@ -52,7 +52,7 @@
     },
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "싱글 플레이어",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -150,5 +150,7 @@
       "id": "0b40b612756348dab7a617186d71b5c3"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "c2594740866d4be69d38fcf08ef0176d"
+  }
 }
