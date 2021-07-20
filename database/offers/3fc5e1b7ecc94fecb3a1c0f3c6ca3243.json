@@ -49,7 +49,7 @@
     },
     {
       "id": "1080",
-      "name": "Sopravvivenza",
+      "name": "Survival",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -61,7 +61,7 @@
     },
     {
       "id": "1370",
-      "name": "Giocatore singolo",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -85,7 +85,7 @@
     },
     {
       "id": "16011",
-      "name": "MEGA Saldi di Epic",
+      "name": "Epic MEGA Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,

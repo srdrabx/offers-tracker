@@ -37,7 +37,7 @@
   "tags": [
     {
       "id": "1393",
-      "name": "模擬",
+      "name": "Simulation",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -49,7 +49,7 @@
     },
     {
       "id": "1203",
-      "name": "多人",
+      "name": "Multiplayer",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -61,7 +61,7 @@
     },
     {
       "id": "1370",
-      "name": "單人",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -85,7 +85,7 @@
     },
     {
       "id": "1279",
-      "name": "吸血鬼",
+      "name": "Vampire",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
