@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1216",
-      "name": "Action",
+      "name": "Экшен",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "Одиночная",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -148,7 +148,7 @@
     },
     {
       "id": "16011",
-      "name": "Epic MEGA Sale",
+      "name": "Мегараспродажа Epic",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -246,5 +246,7 @@
       "id": "1f562a66ac554a40a33e291fc191ea60"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "b30b6d1b4dfd4dcc93b5490be5e094e5"
+  }
 }

@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1203",
-      "name": "Multijugador",
+      "name": "多人",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1141",
-      "name": "Gratuito",
+      "name": "免費遊玩",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1115",
-      "name": "Estrategia",
+      "name": "戰略",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "1181",
-      "name": "Cartas",
+      "name": "紙牌遊戲",
       "namespace": "epic",
       "aliases": [],
       "operator": null,

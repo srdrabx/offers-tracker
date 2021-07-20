@@ -361,7 +361,7 @@
   },
   "1181": {
     "id": "1181",
-    "name": "Cartas",
+    "name": "紙牌遊戲",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -409,7 +409,7 @@
   },
   "1190": {
     "id": "1190",
-    "name": "WAR",
+    "name": "Savaş",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -853,7 +853,7 @@
   },
   "1333": {
     "id": "1333",
-    "name": "Rol de acción",
+    "name": "Action RPG",
     "namespace": "epic",
     "aliases": [],
     "operator": null,

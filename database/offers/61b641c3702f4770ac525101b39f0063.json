@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "14944",
-      "name": "VİTRİN İNDİRİMİ",
+      "name": "The Showcase Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1281",
-      "name": "Uzay Simülasyonu",
+      "name": "Space Sim",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1258",
-      "name": "Rogue-like",
+      "name": "Rogue-Like",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1370",
-      "name": "Tek Oyunculu",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "14346",
-      "name": "Yılbaşı Tatili İndirimi 2020",
+      "name": "Holiday Sale 2020",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "1115",
-      "name": "Strateji",
+      "name": "Strategy",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -124,7 +124,7 @@
     },
     {
       "id": "16011",
-      "name": "Epic MEGA İndirim",
+      "name": "Epic MEGA Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -151,7 +151,7 @@
     },
     {
       "id": "15375",
-      "name": "BAHAR İNDİRİMİ",
+      "name": "Spring Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -273,5 +273,7 @@
       "id": "fc74c16bfeef4fcfb95b97c87380e15d"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "f7dc1618d0bd4810a61f50d44333900e"
+  }
 }
