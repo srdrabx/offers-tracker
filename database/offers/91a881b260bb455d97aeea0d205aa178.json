@@ -52,7 +52,7 @@
     },
     {
       "id": "1203",
-      "name": "Multigiocatore",
+      "name": "Multiplayer",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1299",
-      "name": "Competitivo",
+      "name": "Competitive",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1349",
-      "name": "Frenetico",
+      "name": "FAST-PACED",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "1210",
-      "name": "Sparatutto",
+      "name": "Shooter",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -112,7 +112,7 @@
     },
     {
       "id": "1117",
-      "name": "Avventura",
+      "name": "Adventure",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -198,7 +198,5 @@
       "id": "ff813c826fb0410db5d0232172cdd783"
     }
   ],
-  "catalogNs": {
-    "name": "36336ee97ec543bbae85abaca618182b"
-  }
+  "catalogNs": null
 }

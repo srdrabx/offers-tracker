@@ -52,7 +52,7 @@
     },
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "Um jogador",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1115",
-      "name": "Strategy",
+      "name": "Estratégia",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1307",
-      "name": "Open World",
+      "name": "Mundo Aberto",
       "namespace": "epic",
       "aliases": [],
       "operator": null,

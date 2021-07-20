@@ -88,7 +88,7 @@
     },
     {
       "id": "14346",
-      "name": "Yılbaşı Tatili İndirimi 2020",
+      "name": "Holiday Sale 2020",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -124,7 +124,7 @@
     },
     {
       "id": "16011",
-      "name": "Epic MEGA İndirim",
+      "name": "Epic MEGA Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -148,7 +148,7 @@
     },
     {
       "id": "15375",
-      "name": "BAHAR İNDİRİMİ",
+      "name": "Spring Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -234,7 +234,5 @@
       "id": "bb2072f2a4614a98b717b57ccad6ccfb"
     }
   ],
-  "catalogNs": {
-    "name": "cumin"
-  }
+  "catalogNs": null
 }

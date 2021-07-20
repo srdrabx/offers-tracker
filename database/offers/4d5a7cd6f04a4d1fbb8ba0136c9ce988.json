@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1216",
-      "name": "Экшен",
+      "name": "Action",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "14944",
-      "name": "Распродажа показа",
+      "name": "The Showcase Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1210",
-      "name": "Шутер",
+      "name": "Shooter",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "14346",
-      "name": "Праздничная распродажа 2020",
+      "name": "Holiday Sale 2020",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "15375",
-      "name": "Весенняя распродажа",
+      "name": "Spring Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -190,7 +190,5 @@
       "id": "14d1517dbd7242bcb5cb94881ca1c28f"
     }
   ],
-  "catalogNs": {
-    "name": "663e521f2a444199be58152fd93fa66e"
-  }
+  "catalogNs": null
 }

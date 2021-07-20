@@ -937,7 +937,7 @@
   },
   "1349": {
     "id": "1349",
-    "name": "快节奏",
+    "name": "FAST-PACED",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -1398,7 +1398,7 @@
   },
   "16005": {
     "id": "16005",
-    "name": "STAR WARS: Распродажа",
+    "name": "STAR WARS May The 4th Sale",
     "namespace": null,
     "aliases": [],
     "operator": null,
