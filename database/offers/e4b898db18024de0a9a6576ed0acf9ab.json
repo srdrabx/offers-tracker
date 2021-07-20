@@ -37,7 +37,7 @@
   "tags": [
     {
       "id": "1216",
-      "name": "動作",
+      "name": "Action",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -49,7 +49,7 @@
     },
     {
       "id": "1090",
-      "name": "戰略",
+      "name": "Tactical",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -61,7 +61,7 @@
     },
     {
       "id": "1203",
-      "name": "多人",
+      "name": "Multiplayer",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -73,7 +73,7 @@
     },
     {
       "id": "1210",
-      "name": "射擊",
+      "name": "Shooter",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
