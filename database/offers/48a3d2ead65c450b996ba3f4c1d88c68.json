@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1298",
-      "name": "Quebra-Cabeça",
+      "name": "Rompecabezas",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1370",
-      "name": "Um jogador",
+      "name": "Un solo jugador",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "1263",
-      "name": "Independente",
+      "name": "Indie",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
