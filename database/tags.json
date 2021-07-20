@@ -409,7 +409,7 @@
   },
   "1190": {
     "id": "1190",
-    "name": "WAR",
+    "name": "Krieg",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -1259,7 +1259,7 @@
   },
   "15375": {
     "id": "15375",
-    "name": "Весенняя распродажа",
+    "name": "Spring Sale",
     "namespace": null,
     "aliases": [],
     "operator": null,

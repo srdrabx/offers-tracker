@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1393",
-      "name": "Symulatory",
+      "name": "Симулятор",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1203",
-      "name": "Tryb wieloosobowy",
+      "name": "Многопользовательская",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1370",
-      "name": "Tryb jednego gracza",
+      "name": "Одиночная",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "1115",
-      "name": "Strategiczne",
+      "name": "Стратегия",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
