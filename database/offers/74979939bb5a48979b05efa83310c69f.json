@@ -112,7 +112,7 @@
     },
     {
       "id": "9549",
-      "name": "Support manette",
+      "name": "Controller Support",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -124,7 +124,7 @@
     },
     {
       "id": "1294",
-      "name": "Première personne",
+      "name": "First Person",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -148,7 +148,7 @@
     },
     {
       "id": "1264",
-      "name": "Coopération",
+      "name": "Co-op",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -172,7 +172,7 @@
     },
     {
       "id": "1367",
-      "name": "Jeu de rôle",
+      "name": "RPG",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -184,7 +184,7 @@
     },
     {
       "id": "1210",
-      "name": "Jeu de tir",
+      "name": "Shooter",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -196,7 +196,7 @@
     },
     {
       "id": "1370",
-      "name": "Solo",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
