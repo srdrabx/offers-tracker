@@ -148,7 +148,7 @@
     },
     {
       "id": "1203",
-      "name": "Multiplayer",
+      "name": "多人游戏",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -172,7 +172,7 @@
     },
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "单人游戏",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -184,7 +184,7 @@
     },
     {
       "id": "1115",
-      "name": "Strategy",
+      "name": "战略",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
