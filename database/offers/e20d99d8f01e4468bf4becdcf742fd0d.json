@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "14944",
-      "name": "Promoção de Apresentação",
+      "name": "The Showcase Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "14346",
-      "name": "Promoção de Fim de Ano 2020",
+      "name": "Holiday Sale 2020",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "16011",
-      "name": "Megapromoção da Epic",
+      "name": "Epic MEGA Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -127,7 +127,5 @@
       "id": "0d7141e034004ecaad2d04185b76955c"
     }
   ],
-  "catalogNs": {
-    "name": "52b90f9a982a404781b189f6a7903226"
-  }
+  "catalogNs": null
 }

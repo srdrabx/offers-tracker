@@ -1,0 +1,120 @@
+{
+  "id": "561ca70b7760473382d69af762eab073",
+  "namespace": "2395d558dcb140c69c1bfac0bd2fa28b",
+  "title": "Lovecraft's Untold Stories + OST + Artbook",
+  "description": "Lovecraft's Untold Stories + OST + Artbook",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "lovecrafts-untold-stories--bundle-edition",
+  "urlSlug": "coolgrey-general-audience-01-02",
+  "creationDate": "2021-07-14T19:13:35.488Z",
+  "lastModifiedDate": "2021-07-19T21:38:01.544Z",
+  "effectiveDate": "2021-07-20T17:00:00.000Z",
+  "viewableDate": "2021-07-20T17:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-n4d8bf5e8fnr4kujuut9j6v4d29muc",
+    "name": "1C Online Games Ltd"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "1C Online Games Ltd"
+    },
+    {
+      "key": "developerName",
+      "value": "LLC Blini Games  "
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "lovecrafts-untold-stories--bundle-edition"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LovecraftsUntoldStoriesOSTArtbook_LLCBliniGames_Editions_S2_1200x1600-dcf5cf10583116fca617c1ddbe527b6d",
+      "md5": "dcf5cf10583116fca617c1ddbe527b6d",
+      "size": 973760,
+      "uploadedDate": "2021-07-14T20:17:04.143Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LovecraftsUntoldStoriesOSTArtbook_LLCBliniGames_Editions_S2_1200x1600-dcf5cf10583116fca617c1ddbe527b6d",
+      "md5": "dcf5cf10583116fca617c1ddbe527b6d",
+      "size": 973760,
+      "uploadedDate": "2021-07-14T20:17:12.835Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LovecraftsUntoldStoriesOSTArtbook_LLCBliniGames_Editions_S2_1200x1600-dcf5cf10583116fca617c1ddbe527b6d",
+      "md5": "dcf5cf10583116fca617c1ddbe527b6d",
+      "size": 973760,
+      "uploadedDate": "2021-07-14T20:17:20.197Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LovecraftsUntoldStoriesOSTArtbook_LLCBliniGames_Editions_S1_2560x1440-690cd4fe80182e5a13e239a232bd588e",
+      "md5": "690cd4fe80182e5a13e239a232bd588e",
+      "size": 849031,
+      "uploadedDate": "2021-07-14T20:17:28.607Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LovecraftsUntoldStoriesOSTArtbook_LLCBliniGames_Editions_S2_1200x1600-dcf5cf10583116fca617c1ddbe527b6d",
+      "md5": "dcf5cf10583116fca617c1ddbe527b6d",
+      "size": 973760,
+      "uploadedDate": "2021-07-14T20:17:41.861Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LovecraftsUntoldStoriesOSTArtbook_LLCBliniGames_Editions_S1_2560x1440-690cd4fe80182e5a13e239a232bd588e",
+      "md5": "690cd4fe80182e5a13e239a232bd588e",
+      "size": 849031,
+      "uploadedDate": "2021-07-14T20:17:49.339Z",
+      "width": 2560,
+      "height": 1440
+    }
+  ],
+  "items": [
+    {
+      "id": "8e568622f2eb47d793176a87f861cef1"
+    }
+  ],
+  "catalogNs": {
+    "name": "2395d558dcb140c69c1bfac0bd2fa28b"
+  }
+}

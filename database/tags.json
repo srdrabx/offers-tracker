@@ -361,7 +361,7 @@
   },
   "1181": {
     "id": "1181",
-    "name": "Card Game",
+    "name": "Cartas",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -853,7 +853,7 @@
   },
   "1333": {
     "id": "1333",
-    "name": "Action RPG",
+    "name": "Rol de acción",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -1331,7 +1331,7 @@
   },
   "15760": {
     "id": "15760",
-    "name": "Extensión de la oferta de Hitman 3",
+    "name": "Sale extension Hitman 3",
     "namespace": null,
     "aliases": [],
     "operator": null,

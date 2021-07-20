@@ -1,0 +1,108 @@
+{
+  "id": "61d6b0d3d2304d27a1705ae0c3c8ec31",
+  "namespace": "093251d750d4445e8c7fc1f5a17c9531",
+  "title": "Deep Sky Derelicts: Definitive Edition",
+  "description": "Deep Sky Derelicts: Definitive Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "deep-sky-derelicts--definitive-edition",
+  "urlSlug": "armygreen-dev-audience-01",
+  "creationDate": "2021-07-15T15:59:32.384Z",
+  "lastModifiedDate": "2021-07-19T20:27:24.123Z",
+  "effectiveDate": "2021-07-20T17:00:00.000Z",
+  "viewableDate": "2021-07-20T17:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-n4d8bf5e8fnr4kujuut9j6v4d29muc",
+    "name": "1C Online Games Ltd"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "deep-sky-derelicts--definitive-edition"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DeepSkyDerelictcsDefinitiveEdition_SnowhoundGames_Bundles_S2_1200x1600-4933ea2074aa27ea24fbe14a1aba6f7f",
+      "md5": "4933ea2074aa27ea24fbe14a1aba6f7f",
+      "size": 313719,
+      "uploadedDate": "2021-07-15T16:25:23.027Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DeepSkyDerelictcsDefinitiveEdition_SnowhoundGames_Bundles_S2_1200x1600-4933ea2074aa27ea24fbe14a1aba6f7f",
+      "md5": "4933ea2074aa27ea24fbe14a1aba6f7f",
+      "size": 313719,
+      "uploadedDate": "2021-07-15T16:25:29.275Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DeepSkyDerelictcsDefinitiveEdition_SnowhoundGames_Bundles_S2_1200x1600-4933ea2074aa27ea24fbe14a1aba6f7f",
+      "md5": "4933ea2074aa27ea24fbe14a1aba6f7f",
+      "size": 313719,
+      "uploadedDate": "2021-07-15T16:25:35.223Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DeepSkyDerelictcsDefinitiveEdition_SnowhoundGames_Bundles_S1_2560x1440-07708ed6bec4d2785f0cfb277d6a035e",
+      "md5": "07708ed6bec4d2785f0cfb277d6a035e",
+      "size": 580616,
+      "uploadedDate": "2021-07-15T16:25:42.080Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DeepSkyDerelictcsDefinitiveEdition_SnowhoundGames_Bundles_S2_1200x1600-4933ea2074aa27ea24fbe14a1aba6f7f",
+      "md5": "4933ea2074aa27ea24fbe14a1aba6f7f",
+      "size": 313719,
+      "uploadedDate": "2021-07-15T16:25:48.220Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DeepSkyDerelictcsDefinitiveEdition_SnowhoundGames_Bundles_S1_2560x1440-07708ed6bec4d2785f0cfb277d6a035e",
+      "md5": "07708ed6bec4d2785f0cfb277d6a035e",
+      "size": 580616,
+      "uploadedDate": "2021-07-15T16:25:58.549Z",
+      "width": 2560,
+      "height": 1440
+    }
+  ],
+  "items": [
+    {
+      "id": "3b1d1ec193754456a94b6d86c3839b55"
+    }
+  ],
+  "catalogNs": {
+    "name": "093251d750d4445e8c7fc1f5a17c9531"
+  }
+}

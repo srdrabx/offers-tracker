@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1203",
-      "name": "Multiplayer",
+      "name": "Многопользовательская",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1141",
-      "name": "Free to Play",
+      "name": "Бесплатная",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "1279",
-      "name": "Vampire",
+      "name": "Vampiro",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -152,7 +152,5 @@
       "id": "6ac2d32ab8374bf3adf4ae1fe2728b1e"
     }
   ],
-  "catalogNs": {
-    "name": "jackal"
-  }
+  "catalogNs": null
 }

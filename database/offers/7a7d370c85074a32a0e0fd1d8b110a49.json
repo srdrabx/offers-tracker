@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1216",
-      "name": "Action",
+      "name": "Azione",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1203",
-      "name": "Multiplayer",
+      "name": "Multigiocatore",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1220",
-      "name": "ZOMBIES",
+      "name": "Zombi",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "1080",
-      "name": "Survival",
+      "name": "Sopravvivenza",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "1210",
-      "name": "Shooter",
+      "name": "Sparatutto",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -112,7 +112,7 @@
     },
     {
       "id": "1131",
-      "name": "SURVIVAL HORROR",
+      "name": "Horror di sopravvivenza",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
@@ -204,7 +204,5 @@
       "id": "edfcce492c5a4e918f186c0cb191476d"
     }
   ],
-  "catalogNs": {
-    "name": "affc33b82405457595a032f00284abd2"
-  }
+  "catalogNs": null
 }

@@ -1,0 +1,211 @@
+{
+  "id": "60c8ffa90c84450fa91400147b1d53d4",
+  "namespace": "093251d750d4445e8c7fc1f5a17c9531",
+  "title": "Deep Sky Derelicts",
+  "description": "Deep Sky Derelicts",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "deep-sky-derelicts",
+  "urlSlug": "armygreen-general-audience",
+  "creationDate": "2021-05-04T21:06:46.562Z",
+  "lastModifiedDate": "2021-07-19T20:27:24.104Z",
+  "effectiveDate": "2021-07-20T17:00:00.000Z",
+  "viewableDate": "2021-07-20T17:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-n4d8bf5e8fnr4kujuut9j6v4d29muc",
+    "name": "1C Online Games Ltd"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-12-15T01:46:33.012Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "Strategy",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2021-02-10T17:35:11.878Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1181",
+      "name": "Card Game",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:48.401Z",
+      "updated": "2021-02-05T16:15:32.594Z",
+      "status": "ACTIVE",
+      "referenceCount": 5,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2021-02-10T17:36:06.452Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "Mac OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX",
+        "macOS"
+      ],
+      "operator": null,
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2021-02-10T17:26:31.125Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "1C Online Games Ltd"
+    },
+    {
+      "key": "developerName",
+      "value": "Snowhound Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "deep-sky-derelicts"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/3b2b3df3-be48-48ad-8a98-0d3f17246e85_1200x1600-c7bfdbb6b7db7b5b83eaee2f938e7a6d",
+      "md5": "c7bfdbb6b7db7b5b83eaee2f938e7a6d",
+      "size": 313195,
+      "uploadedDate": "2021-07-19T20:18:47.553Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/a7f6c107-f336-4e49-99cd-8ebe8963c58e_2560x1440-9ce5b6a38deaed621ef93a872078f464",
+      "md5": "9ce5b6a38deaed621ef93a872078f464",
+      "size": 541790,
+      "uploadedDate": "2021-07-19T20:18:58.159Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/3b2b3df3-be48-48ad-8a98-0d3f17246e85_1200x1600-c7bfdbb6b7db7b5b83eaee2f938e7a6d",
+      "md5": "c7bfdbb6b7db7b5b83eaee2f938e7a6d",
+      "size": 313195,
+      "uploadedDate": "2021-07-19T20:19:04.506Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/a7f6c107-f336-4e49-99cd-8ebe8963c58e_2560x1440-9ce5b6a38deaed621ef93a872078f464",
+      "md5": "9ce5b6a38deaed621ef93a872078f464",
+      "size": 541790,
+      "uploadedDate": "2021-07-19T20:19:12.721Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/3b2b3df3-be48-48ad-8a98-0d3f17246e85_1200x1600-c7bfdbb6b7db7b5b83eaee2f938e7a6d",
+      "md5": "c7bfdbb6b7db7b5b83eaee2f938e7a6d",
+      "size": 313195,
+      "uploadedDate": "2021-07-19T20:19:22.705Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/3b2b3df3-be48-48ad-8a98-0d3f17246e85_1200x1600-c7bfdbb6b7db7b5b83eaee2f938e7a6d",
+      "md5": "c7bfdbb6b7db7b5b83eaee2f938e7a6d",
+      "size": 313195,
+      "uploadedDate": "2021-07-19T20:19:30.575Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "54f8e1219e204f1e9c055cc739af6ec4"
+    }
+  ],
+  "catalogNs": {
+    "name": "093251d750d4445e8c7fc1f5a17c9531"
+  }
+}
