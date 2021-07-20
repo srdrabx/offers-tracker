@@ -37,7 +37,7 @@
   "tags": [
     {
       "id": "1203",
-      "name": "Multigiocatore",
+      "name": "多人",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -49,7 +49,7 @@
     },
     {
       "id": "1141",
-      "name": "Gratuito",
+      "name": "免費遊玩",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -73,7 +73,7 @@
     },
     {
       "id": "9549",
-      "name": "Supporto controller",
+      "name": "控制器支援",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
