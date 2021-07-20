@@ -1,0 +1,136 @@
+{
+  "id": "49fbd6bcab8c4f619585aae95dc34568",
+  "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+  "title": "Pack Audience",
+  "description": "Pack Audience",
+  "longDescription": "Pack Audience",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "pack",
+  "creationDate": "2021-06-25T03:16:18.122Z",
+  "lastModifiedDate": "2021-07-20T17:37:33.212Z",
+  "effectiveDate": "2099-04-27T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+    "name": "Psyonix LLC"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1264",
+      "name": "Coopération",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.700Z",
+      "updated": "2021-02-10T17:34:35.309Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "Multijoueur",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2021-02-10T17:35:33.537Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1299",
+      "name": "Compétitif",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:47.106Z",
+      "updated": "2021-02-05T16:13:20.502Z",
+      "status": "ACTIVE",
+      "referenceCount": 4,
+      "comment": null
+    },
+    {
+      "id": "1205",
+      "name": "Conduite",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:00.267Z",
+      "updated": "2020-08-20T17:37:37.403Z",
+      "status": "ACTIVE",
+      "referenceCount": 0,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Solo",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1212",
+      "name": "Course",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:03.663Z",
+      "updated": "2021-02-05T16:17:00.647Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN,HK,MO,TW,KR"
+    },
+    {
+      "key": "developerName",
+      "value": "Psyonix LLC"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "3e4da909263442c2954ea5a5a155c56e"
+    }
+  ],
+  "catalogNs": {
+    "name": "9773aa1aa54f4f7b80e44bef04986cea"
+  }
+}

@@ -361,7 +361,7 @@
   },
   "1181": {
     "id": "1181",
-    "name": "紙牌遊戲",
+    "name": "Card Game",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -409,7 +409,7 @@
   },
   "1190": {
     "id": "1190",
-    "name": "Savaş",
+    "name": "WAR",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
