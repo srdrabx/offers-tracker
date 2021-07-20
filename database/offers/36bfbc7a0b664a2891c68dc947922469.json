@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1216",
-      "name": "Acción",
+      "name": "Action",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "16011",
-      "name": "Superoferta de Epic",
+      "name": "Epic MEGA Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -112,7 +112,7 @@
     },
     {
       "id": "1264",
-      "name": "Cooperativo",
+      "name": "Co-op",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -172,7 +172,7 @@
     },
     {
       "id": "1210",
-      "name": "Disparos",
+      "name": "Shooter",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -184,7 +184,7 @@
     },
     {
       "id": "1370",
-      "name": "Un solo jugador",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
