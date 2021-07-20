@@ -49,7 +49,7 @@
     },
     {
       "id": "1080",
-      "name": "Survival",
+      "name": "サバイバル",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -61,7 +61,7 @@
     },
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "シングルプレイヤー",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -97,7 +97,7 @@
     },
     {
       "id": "1117",
-      "name": "Adventure",
+      "name": "アドベンチャー",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
