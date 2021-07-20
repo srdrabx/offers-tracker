@@ -43,7 +43,7 @@
     },
     {
       "id": "1203",
-      "name": "Multijugador",
+      "name": "Multijogador",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -67,7 +67,7 @@
     },
     {
       "id": "1205",
-      "name": "Conducción",
+      "name": "Condução",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
@@ -79,7 +79,7 @@
     },
     {
       "id": "1370",
-      "name": "Un solo jugador",
+      "name": "Um jogador",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -103,7 +103,7 @@
     },
     {
       "id": "1212",
-      "name": "Carreras",
+      "name": "Corrida",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
