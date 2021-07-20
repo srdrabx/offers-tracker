@@ -2283,15 +2283,13 @@
     "RimWorld Royalty DLC",
     [
       "addons",
-      "addons/durable",
-      "games",
-      "applications"
+      "addons/durable"
     ],
     "Ludeon Studios",
     1588969263,
-    1597425492,
+    1626742896,
     "https://cdn1.epicgames.com/7051eadbb8c2435caf32a9bc0dc17936/offer/EGS_Royalty_LudeonStudios_DLC_S2-1200x1600-e6e2d5dbcbecf38f58579f10e96550f2.jpg",
-    "rimworld/royalty-dlc"
+    ""
   ],
   [
     "09736850a56a44b38d965112ada6fd95",

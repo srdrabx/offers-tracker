@@ -31,7 +31,7 @@
   "tags": [
     {
       "id": "1393",
-      "name": "Симулятор",
+      "name": "Simulation",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -43,7 +43,7 @@
     },
     {
       "id": "1203",
-      "name": "Многопользовательская",
+      "name": "Multiplayer",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -55,7 +55,7 @@
     },
     {
       "id": "1370",
-      "name": "Одиночная",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -91,7 +91,7 @@
     },
     {
       "id": "1279",
-      "name": "Вампир",
+      "name": "Vampire",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
