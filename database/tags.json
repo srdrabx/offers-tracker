@@ -481,7 +481,7 @@
   },
   "1215": {
     "id": "1215",
-    "name": "POST-APOCALYPTIC",
+    "name": "Post-apocalittico",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -1259,7 +1259,7 @@
   },
   "15375": {
     "id": "15375",
-    "name": "Spring Sale",
+    "name": "Promoção de primavera",
     "namespace": null,
     "aliases": [],
     "operator": null,
@@ -1343,7 +1343,7 @@
   },
   "15895": {
     "id": "15895",
-    "name": "Tropico Anniversary Sale",
+    "name": "Jubiläums-Sale für Tropico",
     "namespace": null,
     "aliases": [],
     "operator": null,
