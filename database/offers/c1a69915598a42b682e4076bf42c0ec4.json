@@ -37,7 +37,7 @@
   "tags": [
     {
       "id": "1216",
-      "name": "Экшен",
+      "name": "Action",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -49,7 +49,7 @@
     },
     {
       "id": "14944",
-      "name": "Распродажа показа",
+      "name": "The Showcase Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -61,7 +61,7 @@
     },
     {
       "id": "14917",
-      "name": "Распродажа издателя Deep Silver",
+      "name": "Deep Silver Publisher Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -73,7 +73,7 @@
     },
     {
       "id": "1210",
-      "name": "Шутер",
+      "name": "Shooter",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -85,7 +85,7 @@
     },
     {
       "id": "1370",
-      "name": "Одиночная",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -145,7 +145,7 @@
     },
     {
       "id": "1294",
-      "name": "От первого лица",
+      "name": "First Person",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
