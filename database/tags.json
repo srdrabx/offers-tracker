@@ -25,7 +25,7 @@
   },
   "1083": {
     "id": "1083",
-    "name": "Rogue-Lite",
+    "name": "로그라이트",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -229,7 +229,7 @@
   },
   "1146": {
     "id": "1146",
-    "name": "城市建造",
+    "name": "City Builder",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -409,7 +409,7 @@
   },
   "1190": {
     "id": "1190",
-    "name": "WAR",
+    "name": "戰爭",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -493,7 +493,7 @@
   },
   "1216": {
     "id": "1216",
-    "name": "Экшен",
+    "name": "Action",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -661,7 +661,7 @@
   },
   "1279": {
     "id": "1279",
-    "name": "Вампир",
+    "name": "Vampire",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -769,7 +769,7 @@
   },
   "1299": {
     "id": "1299",
-    "name": "Соревновательная",
+    "name": "Competitive",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -853,7 +853,7 @@
   },
   "1333": {
     "id": "1333",
-    "name": "Action RPG",
+    "name": "RPG de Ação",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
