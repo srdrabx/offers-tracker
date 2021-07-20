@@ -409,7 +409,7 @@
   },
   "1190": {
     "id": "1190",
-    "name": "战争",
+    "name": "WAR",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -1331,7 +1331,7 @@
   },
   "15760": {
     "id": "15760",
-    "name": "《Hitman 3》特卖时间延长",
+    "name": "Sale extension Hitman 3",
     "namespace": null,
     "aliases": [],
     "operator": null,
