@@ -229,7 +229,7 @@
   },
   "1146": {
     "id": "1146",
-    "name": "城市建造",
+    "name": "City Builder",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -409,7 +409,7 @@
   },
   "1190": {
     "id": "1190",
-    "name": "WAR",
+    "name": "战争",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -481,7 +481,7 @@
   },
   "1215": {
     "id": "1215",
-    "name": "Pós-Apocalíptico",
+    "name": "POST-APOCALYPTIC",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -973,7 +973,7 @@
   },
   "1367": {
     "id": "1367",
-    "name": "Rol",
+    "name": "RPG",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -1331,7 +1331,7 @@
   },
   "15760": {
     "id": "15760",
-    "name": "Sale extension Hitman 3",
+    "name": "《Hitman 3》特卖时间延长",
     "namespace": null,
     "aliases": [],
     "operator": null,
