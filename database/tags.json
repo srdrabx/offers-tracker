@@ -49,7 +49,7 @@
   },
   "1088": {
     "id": "1088",
-    "name": "턴 기반 전략",
+    "name": "Turn-Based Strategy",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -409,7 +409,7 @@
   },
   "1190": {
     "id": "1190",
-    "name": "Guerra",
+    "name": "战争",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -493,7 +493,7 @@
   },
   "1216": {
     "id": "1216",
-    "name": "動作",
+    "name": "Action",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -517,7 +517,7 @@
   },
   "1220": {
     "id": "1220",
-    "name": "僵尸",
+    "name": "ZOMBIES",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -661,7 +661,7 @@
   },
   "1279": {
     "id": "1279",
-    "name": "吸血鬼",
+    "name": "Vampire",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -769,7 +769,7 @@
   },
   "1299": {
     "id": "1299",
-    "name": "競賽",
+    "name": "Competitive",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -1199,7 +1199,7 @@
   },
   "14869": {
     "id": "14869",
-    "name": "2K 퍼블리셔 할인",
+    "name": "2K Publisher Sale",
     "namespace": null,
     "aliases": [],
     "operator": null,
@@ -1223,7 +1223,7 @@
   },
   "14944": {
     "id": "14944",
-    "name": "쇼케이스 세일",
+    "name": "The Showcase Sale",
     "namespace": null,
     "aliases": [],
     "operator": null,
@@ -1386,7 +1386,7 @@
   },
   "16004": {
     "id": "16004",
-    "name": "1주간의 혜택",
+    "name": "Weeklong Deals",
     "namespace": null,
     "aliases": [],
     "operator": null,
