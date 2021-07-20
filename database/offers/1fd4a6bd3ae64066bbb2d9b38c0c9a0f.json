@@ -37,7 +37,7 @@
   "tags": [
     {
       "id": "1264",
-      "name": "Co-op",
+      "name": "Koop",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -73,7 +73,7 @@
     },
     {
       "id": "1203",
-      "name": "Multiplayer",
+      "name": "Mehrspieler",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -145,7 +145,7 @@
     },
     {
       "id": "9549",
-      "name": "Controller Support",
+      "name": "Für Controller",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -157,7 +157,7 @@
     },
     {
       "id": "1294",
-      "name": "First Person",
+      "name": "Ego-Perspektive",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -241,5 +241,7 @@
       "id": "8aa4f93039434096b948e53bd6f74d3f"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "f4a7772a4da24870a3ea6dfb8aeac662"
+  }
 }
