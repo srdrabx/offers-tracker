@@ -37,7 +37,7 @@
   "tags": [
     {
       "id": "1080",
-      "name": "Survival",
+      "name": "بقاء",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -49,7 +49,7 @@
     },
     {
       "id": "1146",
-      "name": "City Builder",
+      "name": "بناء مدينة",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -61,7 +61,7 @@
     },
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "لاعب فردي",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -85,7 +85,7 @@
     },
     {
       "id": "1310",
-      "name": "EARLY ACCESS",
+      "name": "الوصول المبكر",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
