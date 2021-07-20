@@ -229,7 +229,7 @@
   },
   "1146": {
     "id": "1146",
-    "name": "City Builder",
+    "name": "城市建造",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -409,7 +409,7 @@
   },
   "1190": {
     "id": "1190",
-    "name": "戰爭",
+    "name": "WAR",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -517,7 +517,7 @@
   },
   "1220": {
     "id": "1220",
-    "name": "ZOMBIES",
+    "name": "Зомби",
     "namespace": "epic",
     "aliases": null,
     "operator": null,
@@ -955,6 +955,18 @@
     "operator": null,
     "created": "2019-06-20T12:01:15.666Z",
     "updated": "2019-06-20T12:01:15.666Z",
+    "status": "ACTIVE",
+    "referenceCount": null,
+    "comment": null
+  },
+  "1365": {
+    "id": "1365",
+    "name": "PUZZLE-PLATFORMER",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T12:01:19.733Z",
+    "updated": "2019-06-20T12:01:19.733Z",
     "status": "ACTIVE",
     "referenceCount": null,
     "comment": null
