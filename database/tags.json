@@ -217,7 +217,7 @@
   },
   "1141": {
     "id": "1141",
-    "name": "Бесплатная",
+    "name": "Free to Play",
     "namespace": "epic",
     "aliases": [],
     "operator": null,
@@ -1331,7 +1331,7 @@
   },
   "15760": {
     "id": "15760",
-    "name": "Extensión de la oferta de Hitman 3",
+    "name": "Sale extension Hitman 3",
     "namespace": null,
     "aliases": [],
     "operator": null,
