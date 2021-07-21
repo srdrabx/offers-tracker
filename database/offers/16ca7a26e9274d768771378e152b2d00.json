@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1218",
-      "name": "ホラー",
+      "name": "Horror",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1370",
-      "name": "シングルプレイヤー",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "16011",
-      "name": "Epic メガセール",
+      "name": "Epic MEGA Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "1117",
-      "name": "アドベンチャー",
+      "name": "Adventure",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "1263",
-      "name": "インディー",
+      "name": "Indie",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
